@@ -1,0 +1,2526 @@
+﻿l_russian:
+### Alderaan systems ###
+
+#Alderaan
+ NAME_Alderaan: "Alderaan"
+ NAME_Alderaan_S: "Alderaan"
+ NAME_Alderaan_P1: "Raisa"
+ NAME_Alderaan_P2: "Alderaan"
+ NAME_Alderaan_P2_1: "Moon of Alderaan"
+ NAME_Alderaan_P3: "Delaya"
+ NAME_Alderaan_P4: "Avirandel"
+ NAME_Alderaan_P4_1: "Avirandel Minor"
+ NAME_Alderaan_P5: "Avishan"
+ NAME_Alderaan_P6: "Alderaan VI"
+ 
+#Brentaal
+ NAME_Brentaal: "Brentaal"
+ NAME_Brentaal_S: "Brenta"
+ NAME_Brentaal_P1: "Sollace"
+ NAME_Brentaal_P2: "Tremaal"
+ NAME_Brentaal_P2_1: "Tremal Minor" 
+ NAME_Brentaal_P3: "Gastol" 
+ NAME_Brentaal_P3_1: "Gastol I" 
+ NAME_Brentaal_P3_2: "Gastol II" 
+ NAME_Brentaal_P3_3: "Gastol III" 
+ NAME_Brentaal_P4: "Brentaal IV" 
+ NAME_Brentaal_P4_1: "Brentaal IVa" 
+ NAME_Brentaal_P4_2: "Brentaal IVb" 
+ NAME_Brentaal_P5: "Gumbus" 
+ NAME_Brentaal_P5_1: "Gumbus I" 
+ NAME_Brentaal_P5_2: "Gumbus II" 
+ NAME_Brentaal_P5_3: "Gumbus III" 
+ NAME_Brentaal_P5_4: "Gumbus IV" 
+ NAME_Brentaal_P5_5: "Gumbus V" 
+ NAME_Brentaal_P5_6: "Gumbus VI" 
+ NAME_Brentaal_P5_7: "Gumbus VII" 
+ NAME_Brentaal_P5_8: "Gumbus VIII" 
+ NAME_Brentaal_P5_9: "Gumbus IX" 
+ NAME_Brentaal_P5_10: "Gumbus X" 
+ NAME_Brentaal_P5_11: "Gumbus XVI" 
+ NAME_Brentaal_P6: "Cavas" 
+ NAME_Brentaal_P6_1: "Cavas I"
+ NAME_Brentaal_P6_2: "Cavas II"
+ NAME_Brentaal_P7: "Javaal"
+ 
+ #Chandrila
+ NAME_Chandrila: "Chandrila"
+ NAME_Chandrila_S: "Chandrila"
+ NAME_Chandrila_P1: "Expora"
+ NAME_Chandrila_P2: "Chandrila"
+ NAME_Chandrila_P2_1: "Chandra"
+ NAME_Chandrila_P2_2: "Chandrakant"
+ NAME_Chandrila_P3: "Lorora"
+ NAME_Chandrila_P4: "Quenus"
+ NAME_Chandrila_P4_1: "Quenus I"
+ NAME_Chandrila_P4_2: "Quenus II"
+ NAME_Chandrila_P4_3: "Quenus III"
+ NAME_Chandrila_P5: "Asimuse"
+ NAME_Chandrila_P5_1: "Asimuse I"
+ NAME_Chandrila_P5_2: "Asimuse II"
+ NAME_Chandrila_P5_3: "Asimuse III"
+ NAME_Chandrila_P5_4: "Asimuse IX"
+ NAME_Chandrila_P6: "Dolucar"
+ NAME_Chandrila_P6_1: "Dolucar I"
+ NAME_Chandrila_P6_2: "Dolucar II"
+ NAME_Chandrila_P6_3: "Dolucar III"
+ NAME_Chandrila_P6_4: "Dolucar IX"
+ NAME_Chandrila_P7: "Sissubo"
+
+ #Tyed Kant
+ NAME_Kantel: "Kantel"
+ NAME_Kantel_S: "Kantel"
+ NAME_Kantel_P1: "Tyed Kant" 
+ 
+ #Yabol Opa
+ NAME_Yabol_Opa: "Yabol Opa"
+ NAME_Yabol_Opa_S: "Yabol Opa"
+ NAME_Yabol_Opa_P1: "Yabol Opa I"
+ NAME_Yabol_Opa_P2: "Yabol Opa II"
+ NAME_Yabol_Opa_P3: "Yabol Opa"
+ NAME_Yabol_Opa_P3_1: "Yabol Opa Minor"
+ NAME_Yabol_Opa_P4: "Yabol Opa IV"
+ NAME_Yabol_Opa_P5: "Yabol Opa V"
+ NAME_Yabol_Opa_P5_1: "Yabol Opa Va"
+ NAME_Yabol_Opa_P5_2: "Yabol Opa Vb"
+ NAME_Yabol_Opa_P5_3: "Yabol Opa Vc"
+ NAME_Yabol_Opa_P5_4: "Yabol Opa Vd"
+ NAME_Yabol_Opa_P5_5: "Yabol Opa Ve"
+ NAME_Yabol_Opa_P5_6: "Yabol Opa Vh"
+ NAME_Yabol_Opa_P6: "Yabol Opa VI"
+ NAME_Yabol_Opa_P6_1: "Yabol Opa VIa"
+ NAME_Yabol_Opa_P6_2: "Yabol Opa VIb"
+ NAME_Yabol_Opa_P6_3: "Yabol Opa VIc"
+ NAME_Yabol_Opa_P7: "Yabol Opa VII"
+
+### Arkanian Systems ###
+
+ #Perave
+ NAME_Perave: "Perave"
+ NAME_Perave_S: "Olim"
+ NAME_Perave_P1: "Perave I"
+ NAME_Perave_P2: "Perave II"
+ NAME_Perave_P2_1: "Perave IIa"
+ NAME_Perave_P3: "Arkania"
+ NAME_Perave_P4: "Perave IV"
+ NAME_Perave_P5: "Perave V"
+ NAME_Perave_P5_1: "Perave Va"
+ 
+ #Neirport
+ NAME_Nierport: "Eeropha"
+ NAME_Nierport_S: "Eeropha"
+ NAME_Nierport_P1: "Eeropha"
+ NAME_Nierport_P1_1: "Nierport I"
+ NAME_Nierport_P1_2: "Nierport II"
+ NAME_Nierport_P1_3: "Nierport III"
+ NAME_Nierport_P1_4: "Nierport IV"
+ NAME_Nierport_P1_5: "Nierport V"
+ NAME_Nierport_P1_6: "Nierport VI"
+ NAME_Nierport_P1_7: "Nierport VII"
+ 
+ #Uviuy Exen
+ NAME_Uviuy_Exen: "Uviuy Exen"
+ NAME_Uviuy_Exen_S: "Uviuy Exen"
+ NAME_Uviuy_Exen_P1: "Uviuy Exen I"
+ NAME_Uviuy_Exen_P2: "Uviuy Exen II"
+ NAME_Uviuy_Exen_P3: "Uviuy Exen"
+ NAME_Uviuy_Exen_P4: "Uviuy Exen IV"
+ NAME_Uviuy_Exen_P5: "Uviuy Exen V"
+ NAME_Uviuy_Exen_P5_1: "Uviuy Exen Va"
+ NAME_Uviuy_Exen_P5_2: "Uviuy Exen Vb"
+ NAME_Uviuy_Exen_P5_3: "Uviuy Exen Vc"
+ 
+ #Champala
+ NAME_Champala: "Chagri"
+ NAME_Champala_S: "Champala's Star"
+ NAME_Champala_P1: "Chagri I"
+ NAME_Champala_P2: "Chagri II"
+ NAME_Champala_P3: "Chagri III"
+ NAME_Champala_P4: "Champala"
+ NAME_Champala_P4_1: "Champala I"
+ NAME_Champala_P4_2: "Champala II"
+ NAME_Champala_P4_3: "Champala III"
+ NAME_Champala_P5: "Chagri V"
+ NAME_Champala_P6: "Chagri VI"
+ NAME_Champala_P6_1: "Chagri VIa"
+ NAME_Champala_P6_2: "Chagri VIb"
+ NAME_Champala_P6_3: "Chagri VIc"
+ NAME_Champala_P6_4: "Chagri VIh"
+ NAME_Champala_P7: "Chagri VII"
+ NAME_Champala_P7_1: "Chagri VIIa"
+ NAME_Champala_P7_2: "Chagri VIIb"
+ NAME_Champala_P7_3: "Chagri VIIc"
+ NAME_Champala_P7_4: "Chagri VIIl"
+ 
+ #Mindor
+ NAME_Mindor: "Taspan"
+ NAME_Mindor_S: "Taspan"
+ NAME_Mindor_P1: "Mindor"
+ NAME_Mindor_P1_1: "Mindor I"
+ NAME_Mindor_P1_2: "Mindor II"
+ NAME_Mindor_P1_3: "Mindor III"
+ NAME_Mindor_P1_4: "Mindor Iv"
+ NAME_Mindor_P2: "Taspan II"
+ 
+ ### Bakuran Systems ###
+   
+ #Bakura
+ NAME_Bakura: "Bakura"
+ NAME_Bakura_S: "Bakura"
+ NAME_Bakura_P1: "Bak"
+ NAME_Bakura_P2: "Kur"
+ NAME_Bakura_P3: "Bakura"
+ NAME_Bakura_P3_1: "Bakura I"
+ NAME_Bakura_P3_2: "Bakura II"
+ NAME_Bakura_P4: "Arden"
+ NAME_Bakura_P4_1: "Arden I"
+ NAME_Bakura_P4_2: "Arden II"
+ NAME_Bakura_P4_3: "Arden VII"
+ NAME_Bakura_P5: "Bakura V"
+ NAME_Bakura_P5_1: "Bakura Va"
+ NAME_Bakura_P6: "Bakura VI"
+ NAME_Bakura_P7: "Bakura VII"
+ NAME_Bakura_P8: "Bakura VIII"
+ NAME_Bakura_P8_1: "Bakura VIIIa"
+
+### Banking Clan Systems ###
+
+ #Muunilinst
+ NAME_Muunilinst: "Muunilinst"
+ NAME_Muunilinst_S: "Muunilinst"
+ NAME_Muunilinst_P1: "Varhus"
+ NAME_Muunilinst_P2: "Trinciuum"
+ NAME_Muunilinst_P2_1: "Trinciuum Minor"
+ NAME_Muunilinst_P3: "Muunilinst"
+ NAME_Muunilinst_P3_1: "Muunilinst Major"
+ NAME_Muunilinst_P3_2: "Muunilinst Minor"
+ NAME_Muunilinst_P4: "Havath Prime"
+ NAME_Muunilinst_P4_1: "Havath Prime I"
+ NAME_Muunilinst_P4_2: "Havath Prime II"
+ NAME_Muunilinst_P4_3: "Havath Prime III"
+ NAME_Muunilinst_P4_4: "Havath Prime IV"
+ NAME_Muunilinst_P4_5: "Havath Prime V"
+ NAME_Muunilinst_P4_6: "Havath Prime VI"
+ NAME_Muunilinst_P4_7: "Havath Prime VII"
+ NAME_Muunilinst_P4_8: "Havath Prime XXXII"
+ NAME_Muunilinst_P5: "Havath Minor"
+ NAME_Muunilinst_P5_1: "Havath Minor I"
+ NAME_Muunilinst_P5_2: "Havath Minor II"
+ NAME_Muunilinst_P5_3: "Havath Minor III"
+ NAME_Muunilinst_P5_4: "Havath Minor IV"
+ NAME_Muunilinst_P5_5: "Havath Minor XI"
+ 
+ #Scipio
+ NAME_Scipio: "Scipio"
+ NAME_Scipio_S: "Scipio"
+ NAME_Scipio_P1: "Scipio I"
+ NAME_Scipio_P2: "Scipio II"
+ NAME_Scipio_P2_1: "Scipio II Minor"
+ NAME_Scipio_P3: "Scipio"
+ NAME_Scipio_P4: "Scipio IV"
+ NAME_Scipio_P4_1: "Scipio IV Minor"
+ NAME_Scipio_P5: "Scipio V"
+ NAME_Scipio_P5_1: "Scipio Va"
+ NAME_Scipio_P5_2: "Scipio Vb"
+ NAME_Scipio_P5_3: "Scipio Vc"
+ NAME_Scipio_P5_4: "Scipio Vd"
+ NAME_Scipio_P5_5: "Scipio Ve"
+ NAME_Scipio_P6: "Scipio VI"
+ 
+ #Bextar
+ NAME_Bextar: "Bextar"
+ NAME_Bextar_S: "Bextar"
+ NAME_Bextar_P1: "Bextar I"
+ NAME_Bextar_P1_1: "Bextar Ia"
+ NAME_Bextar_P1_2: "Bextar Ib"
+ NAME_Bextar_P1_3: "Bextar Id"
+ NAME_Bextar_P2: "Bextar II"
+ NAME_Bextar_P2_1: "Bextar IIa"
+ NAME_Bextar_P2_2: "Bextar IIb"
+ NAME_Bextar_P2_3: "Bextar IIc"
+ NAME_Bextar_P2_4: "Bextar IId"
+ NAME_Bextar_P3: "Bextar III"
+ NAME_Bextar_P3_1: "Bextar IIIa"
+ NAME_Bextar_P3_2: "Bextar IIIb"
+ NAME_Bextar_P3_3: "Bextar IIIh"
+ NAME_Bextar_P4: "Bextar IV"
+ NAME_Bextar_P4_1: "Bextar IVa"
+ NAME_Bextar_P4_2: "Bextar IVb"
+ NAME_Bextar_P4_3: "Bextar IVi"
+ 
+ #Cantras Gola
+ NAME_Cantras_Gola: "Cantras Gola"
+ NAME_Cantras_Gola_S: "Cantras Gola"
+ NAME_Cantras_Gola_P1: "Cantras Gola"
+ 
+ #Jaemus
+ NAME_Jaemus: "Jaemus"
+ NAME_Jaemus_S: "Jaemus"
+ NAME_Jaemus_P1: "Jaemus"
+ 
+ #Mygeeto
+ NAME_Mygeeto: "Mygeeto"
+ NAME_Mygeeto_S: "Malola"
+ NAME_Mygeeto_P1: "Reerez"
+ NAME_Mygeeto_P1_1: "Reerez I"
+ NAME_Mygeeto_P1_2: "Reerez II"
+ NAME_Mygeeto_P1_3: "Reerez III"
+ NAME_Mygeeto_P1_4: "Reerez IV"
+ NAME_Mygeeto_P1_5: "Reerez V"
+ NAME_Mygeeto_P1_6: "Reerez VI"
+ NAME_Mygeeto_P1_7: "Reerez VII"
+ NAME_Mygeeto_P1_8: "Reerez VIII"
+ NAME_Mygeeto_P2: "Pergoomi"
+ NAME_Mygeeto_P2_1: "Pergoomi I"
+ NAME_Mygeeto_P2_2: "Pergoomi II"
+ NAME_Mygeeto_P2_3: "Pergoomi III"
+ NAME_Mygeeto_P2_4: "Pergoomi IV"
+ NAME_Mygeeto_P2_5: "Pergoomi V"
+ NAME_Mygeeto_P3: "Mygeeto"
+ NAME_Mygeeto_P3_1: "Mygeeto Major"
+ NAME_Mygeeto_P3_2: "Mygeeto Minor"
+ NAME_Mygeeto_P4_1: "Mygeeto IVa"
+ NAME_Mygeeto_P4_2: "Mygeeto IVb"
+ NAME_Mygeeto_P4_3: "Mygeeto IVc"
+ NAME_Mygeeto_P5: "Itzeho"
+ 
+ ### Black Sun Systems ###
+ 
+ #Ord Mantell
+ NAME_Ord_Mantell: "Bright Jewel"
+ NAME_Ord_Mantell_S: "Bright Jewel"
+ NAME_Ord_Mantell_P1: "Repta"
+ NAME_Ord_Mantell_P2: "Ord Mantell"
+ NAME_Ord_Mantell_P2_1: "Ord Mantell I"
+ NAME_Ord_Mantell_P2_2: "Ord Mantell II"
+ NAME_Ord_Mantell_P2_3: "Ord Mantell III"
+ NAME_Ord_Mantell_P2_4: "Ord Mantell XVI"
+ NAME_Ord_Mantell_P3: "Cairns"
+ NAME_Ord_Mantell_P3_1: "Cairns I"
+ NAME_Ord_Mantell_P4: "Su Exposs"
+ NAME_Ord_Mantell_P4_1: "Su Exposs I"
+ NAME_Ord_Mantell_P4_2: "Su Exposs II"
+ NAME_Ord_Mantell_P5: "Quatin"
+ NAME_Ord_Mantell_P5_1: "Quatin I"
+ NAME_Ord_Mantell_P5_2: "Quatin II"
+ NAME_Ord_Mantell_P5_3: "Quatin IV"
+ NAME_Ord_Mantell_P6: "Hota"
+ NAME_Ord_Mantell_P6_1: "Hota I"
+ NAME_Ord_Mantell_P6_2: "Hota II"
+ 
+ #Station 88
+ NAME_Station_88: "Station 88"
+ NAME_Station_88_S: "Station 88"
+ NAME_Station_88_P1: "Station 88"
+ 
+ ### Bothan Systems ###
+ 
+ #Bothawui
+ NAME_Both: "Both"
+ NAME_Both_S: "Both"
+ NAME_Both_P1: "Yeltha"
+ NAME_Both_P2: "Taboth"
+ NAME_Both_P2_1: "Taboth I"
+ NAME_Both_P2_2: "Taboth II"
+ NAME_Both_P3: "Bothawui"
+ NAME_Both_P3_1: "Bothawui I"
+ NAME_Both_P3_2: "Bothawui II"
+ NAME_Both_P3_3: "Bothawui III"
+ NAME_Both_P4: "Golm"
+ NAME_Both_P4_1: "Golm I"
+ NAME_Both_P4_2: "Golm II"
+ NAME_Both_P4_3: "Golm III"
+ NAME_Both_P4_4: "Golm IV"
+ NAME_Both_P4_5: "Golm V"
+ NAME_Both_P4_6: "Golm XXIII"
+ NAME_Both_P5: "Ganash"
+ NAME_Both_P5_1: "Ganash I"
+ NAME_Both_P5_2: "Ganash II"
+ NAME_Both_P5_3: "Ganash III"
+ NAME_Both_P5_4: "Ganash IV"
+ NAME_Both_P5_5: "Ganash XIV"
+ NAME_Both_P6: "Hoppawui"
+ NAME_Both_P6_1: "Hoppawui I"
+ NAME_Both_P6_2: "Hoppawui II"
+ NAME_Both_P6_3: "Hoppawui III"
+ NAME_Both_P6_4: "Hoppawui IV"
+ NAME_Both_P6_5: "Hoppawui VIII"
+ NAME_Both_P7: "Jentawui"
+ 
+ #Thoran
+ NAME_Thoran: "Thoran"
+ NAME_Thoran_S: "Thoran"
+ NAME_Thoran_P1: "Thoran"
+ 
+ #Kothlis
+ NAME_Kothlis: "Kothlis"
+ NAME_Kothlis_S: "Koth'lar"
+ NAME_Kothlis_P1: "Sessa"
+ NAME_Kothlis_P2: "Kuk'tar"
+ NAME_Kothlis_P2_1: "Kuk'tar I"
+ NAME_Kothlis_P3: "Dwi'kar"
+ NAME_Kothlis_P3_1: "Dwi'kar I"
+ NAME_Kothlis_P3_2: "Dwi'kar II"
+ NAME_Kothlis_P3_3: "Dwi'kar IX"
+ NAME_Kothlis_P4: "Kothlis"
+ NAME_Kothlis_P4_1: "Kothlis I"
+ NAME_Kothlis_P4_2: "Kothlis II"
+ NAME_Kothlis_P4_3: "Kothlis III"
+ NAME_Kothlis_P5: "Dwi'lar"
+ NAME_Kothlis_P6: "Mar'ta I"
+ NAME_Kothlis_P7: "Mar'ta II"
+ 
+ #Nexus Ortai
+ NAME_Nexus_Ortai: "Nexus Ortai"
+ NAME_Nexus_Ortai_S: "Nexus Ortai"
+ NAME_Nexus_Ortai_P1: "Nexus Ortai"
+ 
+ #Void Station
+ NAME_Void_Station: "Void Station"
+ NAME_Void_Station_S: "Void Station"
+ NAME_Void_Station_P1: "Random"
+ NAME_Void_Station_P2: "Void Station"
+ 
+ #Spirador
+ NAME_Spirador: "Spirador"
+ NAME_Spirador_S: "Spirador"
+ NAME_Spirador_P1: "Spirador"
+ 
+ #Dressel
+ NAME_Dressel: "Dressel"
+ NAME_Dressel_S: "Dressel"
+ NAME_Dressel_P1: "Dressel I"
+ NAME_Dressel_P2: "Dressel II"
+ NAME_Dressel_P3: "Dressel"
+ NAME_Dressel_P4: "Dressel IV"
+ NAME_Dressel_P5: "Bothan Colony"
+ 
+ ### Cathar Systems ###
+ 
+ #Cathar
+ NAME_Cathar: "Cathar"
+ NAME_Cathar_S: "Cathar"
+ NAME_Cathar_P1: "Cathar"
+ NAME_Cathar_P1_1: "Cathar I"
+ 
+ ### Centrality Systems ###
+ 
+ #Erilnar
+ NAME_Erilnar: "Erilnar"
+ NAME_Erilnar_S: "Erilnar"
+ NAME_Erilnar_P1: "Erilnar"
+ 
+ #Scillal
+ NAME_Scillal: "Scillal"
+ NAME_Scillal_S: "Scillal"
+ NAME_Scillal_P1: "Scillal"
+ 
+ #Dilonexa
+ NAME_Dilonexa: "Dilonexa"
+ NAME_Dilonexa_S: "Dilonexa"
+ NAME_Dilonexa_P1: "Dilonexa I"
+ NAME_Dilonexa_P2: "Dilonexa II"
+ NAME_Dilonexa_P3: "Dilonexa III"
+ NAME_Dilonexa_P4: "Dilonexa IV"
+ NAME_Dilonexa_P5: "Dilonexa V"
+ NAME_Dilonexa_P6: "Dilonexa XXIII"
+ NAME_Dilonexa_P7: "Dilonexa XXX"
+ 
+ #Renatasia
+ NAME_Renatasia: "Renatasia"
+ NAME_Renatasia_S: "Renatasia"
+ NAME_Renatasia_P1: "Renatasia I"
+ NAME_Renatasia_P2: "Renatasia II"
+ NAME_Renatasia_P3: "Renatasia III"
+ NAME_Renatasia_P4: "Renatasia IV"
+ NAME_Renatasia_P5: "Renatasia V"
+ NAME_Renatasia_P6: "Renatasia VI"
+ NAME_Renatasia_P7: "Renatasia VII"
+ 
+ #Oseon
+ NAME_Oseon: "Oseon"
+ NAME_Oseon_S: "Oseon"
+ NAME_Oseon_P1: "Oseon"
+ 
+ ### Cerean Systems ###
+ 
+ #Cerea
+ NAME_Cerea: "Cerean"
+ NAME_Cerea_S1: "Cerea A"
+ NAME_Cerea_S2: "Cerea B"
+ NAME_Cerea_S3: "Cerea C"
+ NAME_Cerea_P1: "Cerean I"
+ NAME_Cerea_P2: "Cerean II"
+ NAME_Cerea_P3: "Cerean III"
+ NAME_Cerea_P4: "Cerea"
+ NAME_Cerea_P4_1: "Cerea I"
+ NAME_Cerea_P5: "Cerean IV"
+ NAME_Cerea_P5_1: "Cerean IVa"
+ NAME_Cerea_P5_2: "Cerean IVb"
+ NAME_Cerea_P5_3: "Cerean IVh"
+ NAME_Cerea_P6: "Cerean V"
+ NAME_Cerea_P6_1: "Cerean Va"
+ NAME_Cerea_P6_2: "Cerean Vb"
+ NAME_Cerea_P6_3: "Cerean Vh"
+ 
+ #Hirsi
+ NAME_Hirsi: "Hirsi"
+ NAME_Hirsi_S: "Hirsi"
+ NAME_Hirsi_P1: "Hirsi"
+ 
+ ### Chalactan Systems ###
+ 
+ #Chalacta
+ NAME_Chalacta: "Chalacta"
+ NAME_Chalacta_S: "Chalacta"
+ NAME_Chalacta_P1: "Chalacta"
+ 
+ #Lexrul
+ NAME_Lexrul: "Lexrul"
+ NAME_Lexrul_S: "Lexrul"
+ NAME_Lexrul_P1: "Lexrul"
+ 
+ #Bissillirus
+ NAME_Bissillirus: "Bissillirus"
+ NAME_Bissillirus_S: "Bissillirus"
+ NAME_Bissillirus_P1: "Vendred"
+ NAME_Bissillirus_P1_1: "Vendred I"
+ NAME_Bissillirus_P2: "Chule"
+ NAME_Bissillirus_P3: "Nurstin"
+ NAME_Bissillirus_P4: "Draeneli's Point"
+ NAME_Bissillirus_P4_1: "Unillian"
+ NAME_Bissillirus_P5: "Outpost"
+ 
+ #Yitabo
+ NAME_Yitabo: "Yitabo"
+ NAME_Yitabo_S: "Yitabo"
+ NAME_Yitabo_P1: "Yitabo"
+ 
+ ### Chiss Systems ###
+ 
+ #Csilla
+ NAME_Csilla: "Csilla"
+ NAME_Csilla_S: "Csilla"
+ NAME_Csilla_P1: "Cessed"
+ NAME_Csilla_P1_1: "Cessed Minor"
+ NAME_Csilla_P2: "Csilla"
+ NAME_Csilla_P2_1: "Csilla I"
+ NAME_Csilla_P2_2: "Csilla II"
+ NAME_Csilla_P2_3: "Csilla III"
+ NAME_Csilla_P3: "Repplic"
+ NAME_Csilla_P3_1: "Repplic I"
+ NAME_Csilla_P3_2: "Repplic II"
+ NAME_Csilla_P3_3: "Repplic III"
+ NAME_Csilla_P3_4: "Repplic IV"
+ NAME_Csilla_P3_5: "Repplic V"
+ NAME_Csilla_P3_6: "Repplic VI"
+ NAME_Csilla_P3_7: "Repplic XXII"
+ NAME_Csilla_P4: "Csorb"
+ NAME_Csilla_P4_1: "Csorb Major"
+ NAME_Csilla_P4_2: "Csorb Minor"
+ NAME_Csilla_P5: "Formac"
+ 
+ #Cioral
+ NAME_Cioral: "Cioral"
+ NAME_Cioral_S: "Cioral"
+ NAME_Cioral_P1: "Cioral"
+ 
+ #Sposia
+ NAME_Sposia: "Sposia"
+ NAME_Sposia_S: "Sposia"
+ NAME_Sposia_P1: "Sposia"
+ 
+ #Avidich
+ NAME_Avidich: "Avidich"
+ NAME_Avidich_S: "Avidich"
+ NAME_Avidich_P1: "Avidich"
+ 
+ #Ool
+ NAME_Ool: "Ool"
+ NAME_Ool_S: "Ool"
+ NAME_Ool_P1: "Ool"
+ 
+ #Copero
+ NAME_Copero: "Copero"
+ NAME_Copero_S: "Copero"
+ NAME_Copero_P1: "Copero"
+ 
+ #Csaus
+ NAME_Csaus: "Csaus"
+ NAME_Csaus_S: "Csaus"
+ NAME_Csaus_P1: "Csaus"
+ 
+ #Colonial Station Cam'co
+ NAME_Colonial_Station_Camco: "Cam'co"
+ NAME_Colonial_Station_Camco_S: "Cam'co"
+ NAME_Colonial_Station_Camco_P1: "Colonial Station Cam'co"
+ 
+ #Naropar
+ NAME_Naropar: "Naropar"
+ NAME_Naropar_S: "Naropar"
+ NAME_Naropar_P1: "Naropar I"
+ NAME_Naropar_P2: "Naropar II"
+ NAME_Naropar_P3: "Naropar"
+ NAME_Naropar_P4: "Naropar IV"
+ NAME_Naropar_P4_1: "Naropar IVa"
+ NAME_Naropar_P4_2: "Naropar IVb"
+ NAME_Naropar_P4_3: "Naropar IVc"
+ NAME_Naropar_P4_4: "Naropar IVd"
+ NAME_Naropar_P4_5: "Naropar IVg"
+ NAME_Naropar_P5: "Naropar V"
+ 
+ ### CIS Sector Systems ###
+ 
+ #Terminus
+ NAME_Terminus: "Terminus"
+ NAME_Terminus_S: "Terminus"
+ NAME_Terminus_P1: "Terminus"
+ NAME_Terminus_P1_1: "Terminus I"
+ NAME_Terminus_P1_2: "Terminus II"
+ 
+ #Polis Massa
+ NAME_Polis_Massa: "Polis Massa"
+ NAME_Polis_Massa_S: "Massa"
+ NAME_Polis_Massa_P1: "Polis Massa"
+ 
+ #Atravis
+ NAME_Atravis: "Atravis"
+ NAME_Atravis_S: "Atravis"
+ NAME_Atravis_P1: "Atravis"
+ 
+ #Sluis
+ NAME_Sluis: "Sluis"
+ NAME_Sluis_S: "Sluis"
+ NAME_Sluis_P1: "Sluis I"
+ NAME_Sluis_P2: "Sluis II"
+ NAME_Sluis_P3: "Sluis Van"
+ NAME_Sluis_P4: "Sluis IV"
+ NAME_Sluis_P4_1: "Sluis IVa"
+ NAME_Sluis_P4_2: "Sluis IVb"
+ NAME_Sluis_P4_3: "Sluis IVc"
+ NAME_Sluis_P4_4: "Sluis IVd"
+ NAME_Sluis_P4_5: "Sluis IVe"
+ NAME_Sluis_P5: "Sluis V"
+ 
+ #Denab
+ NAME_Denab: "Denab"
+ NAME_Denab_S: "Denab"
+ NAME_Denab_P1: "Denab"
+ 
+ #Sanrafsix
+ NAME_Sanrafsix: "Sanrafsix"
+ NAME_Sanrafsix_S: "Sanrafsix"
+ NAME_Sanrafsix_P1: "Sanrafsix"
+ 
+ ### CIS Systems ###
+ 
+ #Enarc
+ NAME_Enarc: "Enarc"
+ NAME_Enarc_S: "Enarc"
+ NAME_Enarc_P1: "Enarc"
+ 
+ #Christoph
+ NAME_Christoph: "Christoph"
+ NAME_Christoph_S: "Christoph"
+ NAME_Christoph_P1: "Christophsis"
+ NAME_Christoph_P1_1: "Christophsis's moon"
+ NAME_Christoph_P2: "Erodsis"
+ NAME_Christoph_P2_1: "Erodsis I"
+ NAME_Christoph_P2_2: "Erodsis II"
+ NAME_Christoph_P2_3: "Erodsis III"
+ NAME_Christoph_P2_4: "Erodsis IV"
+ NAME_Christoph_P2_5: "Erodsis V"
+ NAME_Christoph_P2_6: "Erodsis VI"
+ NAME_Christoph_P2_7: "Erodsis XXII"
+ 
+ #Gamor
+ NAME_Gamor: "Gamor"
+ NAME_Gamor_S: "Gamor"
+ NAME_Gamor_P1: "Gamor"
+ 
+ #Milagro
+ NAME_Milagro: "Milagro"
+ NAME_Milagro_S: "Milagro"
+ NAME_Milagro_P1: "Milagro"
+ 
+ #Farstine
+ NAME_Farstine: "Farstine"
+ NAME_Farstine_S: "Farstine"
+ NAME_Farstine_P1: "Farstine"
+ 
+ #Bannistar Station
+ NAME_Bannistar_Station: "Bannistar Station"
+ NAME_Bannistar_Station_S: "Bannistar Station"
+ NAME_Bannistar_Station_P1: "Bannistar"
+ NAME_Bannistar_Station_P2: "Bannistar Station"
+ 
+ #Churba
+ NAME_Churba: "Churba"
+ NAME_Churba_S: "Churba"
+ NAME_Churba_P1: "Barhu"
+ NAME_Churba_P2: "Churba"
+ NAME_Churba_P3: "New Cov"
+ NAME_Churba_P4: "Churba IV"
+ NAME_Churba_P4_1: "Churba IV Major"
+ NAME_Churba_P4_2: "Churba IV Minor"
+ NAME_Churba_P5: "Churba V"
+ NAME_Churba_P5_1: "Churba Va"
+ NAME_Churba_P5_2: "Churba Vb"
+ NAME_Churba_P5_3: "Churba Vc"
+ NAME_Churba_P5_4: "Churba Vd"
+ NAME_Churba_P6: "Churba VI"
+ NAME_Churba_P6_1: "Churba VIa"
+ NAME_Churba_P6_2: "Churba VIb"
+ NAME_Churba_P6_3: "Churba VIc"
+ NAME_Churba_P6_4: "Churba VId"
+ NAME_Churba_P7: "Churba VII"
+ NAME_Churba_P7_1: "Churba VII Minor"
+ NAME_Churba_P8: "Hurcha"
+ 
+ #Falleen
+ NAME_Falleen: "Falleen"
+ NAME_Falleen_S: "Falleen"
+ NAME_Falleen_P1: "Falleen I"
+ NAME_Falleen_P1_1: "Falleen I Minor"
+ NAME_Falleen_P2: "Falleen II"
+ NAME_Falleen_P3: "Falleen"
+ NAME_Falleen_P4: "Falleen IV"
+ NAME_Falleen_P4_1: "Falleen IV Major"
+ NAME_Falleen_P4_2: "Falleen IV Minor"
+ NAME_Falleen_P5: "Falleen V" 
+ NAME_Falleen_P5_1: "Falleen Va" #changed. It was: Allmittal I
+ NAME_Falleen_P5_2: "Falleen Vb" #changed. It was: Allmittal II
+ NAME_Falleen_P5_3: "Falleen Vc" #changed. It was: Allmittal III
+ NAME_Falleen_P5_4: "Falleen Vd" #changed. It was: Allmittal IV
+ NAME_Falleen_P5_5: "Falleen Ve" #changed. It was: Allmittal V
+ NAME_Falleen_P5_6: "Falleen Vl" #changed. It was: Allmittal XII
+ NAME_Falleen_P6: "Falleen VI" #changed. It was: Falleen IV
+ 
+ ### Ciutric Systems ###
+ 
+ #Ciutric
+ NAME_Ciutric: "Ciutric"
+ NAME_Ciutric_S: "Ciutric"
+ NAME_Ciutric_P1: "Ciutric I"
+ NAME_Ciutric_P2: "Ciutric II"
+ NAME_Ciutric_P2_1: "Ciutric II Minor"
+ NAME_Ciutric_P3: "Ciutric III"
+ NAME_Ciutric_P4: "Ciutric IV"
+ NAME_Ciutric_P4_1: "Ciutric IVa"
+ NAME_Ciutric_P4_2: "Ciutric IVb"
+ NAME_Ciutric_P4_3: "Ciutric IVc"
+ NAME_Ciutric_P5: "Ciutric V"
+ NAME_Ciutric_P5_1: "Ciutric Va"
+ NAME_Ciutric_P5_2: "Ciutric Vb"
+ NAME_Ciutric_P5_3: "Ciutric Vc"
+ NAME_Ciutric_P5_4: "Ciutric Vd"
+ NAME_Ciutric_P5_5: "Ciutric Ve"
+ 
+ #Edusa
+ NAME_Edusa: "Edusa"
+ NAME_Edusa_S: "Edusa"
+ NAME_Edusa_P1: "Edusa"
+ 
+ #Vandyne
+ NAME_Vandyne: "Vandyne"
+ NAME_Vandyne_S: "Vandyne"
+ NAME_Vandyne_P1: "Vandyne"
+ 
+ #Corvis Minor
+ NAME_Corvis_Minor: "Corvis Minor"
+ NAME_Corvis_Minor_S: "Corvis Minor"
+ NAME_Corvis_Minor_P1: "Corvis Minor I"
+ NAME_Corvis_Minor_P2: "Corvis Minor II"
+ NAME_Corvis_Minor_P2_1: "Corvis Minor II Major"
+ NAME_Corvis_Minor_P2_2: "Corvis Minor II Minor"
+ NAME_Corvis_Minor_P3: "Corvis Minor III"
+ NAME_Corvis_Minor_P4: "Corvis Minor IV"
+ NAME_Corvis_Minor_P5: "Corvis Minor V"
+ NAME_Corvis_Minor_P5_1: "Corvis Minor Va"
+ NAME_Corvis_Minor_P5_2: "Corvis Minor Vb"
+ NAME_Corvis_Minor_P5_3: "Corvis Minor Vc"
+ NAME_Corvis_Minor_P5_4: "Distha"
+ NAME_Corvis_Minor_P5_5: "Corvis Minor Ve"
+ NAME_Corvis_Minor_P5_6: "Corvis Minor Vf"
+ 
+ #Axxila
+ NAME_Axxila: "Axxila"
+ NAME_Axxila_S: "Axxila"
+ NAME_Axxila_P1: "Axxila"
+ NAME_Axxila_P1_1: "Axxila I"
+ NAME_Axxila_P1_2: "Axxila II"
+ NAME_Axxila_P1_3: "Axxila III"
+ 
+ ### Commerce Guild Systems ###
+ 
+ #Castell
+ NAME_Castell: "Castell"
+ NAME_Castell_S: "Castell"
+ NAME_Castell_P1: "Castell I"
+ NAME_Castell_P2: "Castell II"
+ NAME_Castell_P2_1: "Castell II Minor"
+ NAME_Castell_P3: "Castell"
+ NAME_Castell_P4: "Castell IV"
+ NAME_Castell_P4_1: "Castell IV Minor"
+ NAME_Castell_P5: "Castell V"
+ NAME_Castell_P5_1: "Castell Va"
+ NAME_Castell_P5_2: "Castell Vb"
+ NAME_Castell_P5_3: "Castell Vc"
+ NAME_Castell_P5_4: "Castell Vd"
+ NAME_Castell_P5_5: "Castell Ve"
+ NAME_Castell_P6: "Castell VI"
+ 
+ ### Corellian Systems ###
+ 
+ #Corellia
+ NAME_Corellia: "Corellian"
+ NAME_Corellia_S: "Corell"
+ NAME_Corellia_P1: "Corellia"
+ NAME_Corellia_P1_1: "Gus Talon"
+ NAME_Corellia_P1_2: "Corellia Minor"
+ NAME_Corellia_P1_3: "Gus Treta"
+ NAME_Corellia_P2: "Drall"
+ NAME_Corellia_P3: "Talus"
+ NAME_Corellia_P4: "Centerpoint Station"
+ NAME_Corellia_P5: "Tralus"
+ NAME_Corellia_P6: "Selonia"
+ NAME_Corellia_P7: "Crollia"
+ NAME_Corellia_P8: "Soronia"
+ NAME_Corellia_P9_1: "Kiris 3"
+ NAME_Corellia_P9_2: "Kiris 17"
+ NAME_Corellia_P9_3: "Kiris 6"
+ 
+ #Rydonni Prime
+ NAME_Rydonni_Prime: "Namaryne"
+ NAME_Rydonni_Prime_S: "Rydo"
+ NAME_Rydonni_Prime_P1: "Rydonni Prime"
+ 
+ #Duro
+ NAME_Duro: "Duro"
+ NAME_Duro_S: "Duro"
+ NAME_Duro_P1: "Lors"
+ NAME_Duro_P1_1: "Lors Minor"
+ NAME_Duro_P2: "Duro"
+ NAME_Duro_P2_1: "Orbital City I"
+ NAME_Duro_P2_2: "Orbital City II"
+ NAME_Duro_P2_3: "Orbital City III"
+ NAME_Duro_P3: "Koli"
+ NAME_Duro_P3_1: "Koli Major"
+ NAME_Duro_P3_2: "Koli Minor"
+ NAME_Duro_P4: "Duro IV"
+ 
+ #Loronar
+ NAME_Loronar: "Loronar"
+ NAME_Loronar_S: "Loronar"
+ NAME_Loronar_P1: "Loronar"
+ 
+ #Hosnian
+ NAME_Hosnian: "Hosnian"
+ NAME_Hosnian_S: "Hosnian"
+ NAME_Hosnian_P1: "Courtilius"
+ NAME_Hosnian_P2: "Raysho"
+ NAME_Hosnian_P3: "Hosnian Prime"
+ NAME_Hosnian_P3_1: "Hosnian Prime I"
+ NAME_Hosnian_P4: "Cardota"
+ NAME_Hosnian_P5: "Hosnian"
+ 
+ ### Corporate Systems
+ 
+ #Bomis Koori
+ NAME_Bomis_Koori: "Bomis Koori"
+ NAME_Bomis_Koori_S: "Bomis Koori"
+ NAME_Bomis_Koori_P1: "Bomis Koori I"
+ NAME_Bomis_Koori_P2: "Bomis Koori II"
+ NAME_Bomis_Koori_P2_1: "Bomis Koori IIa"
+ NAME_Bomis_Koori_P3: "Bomis Koori III"
+ NAME_Bomis_Koori_P4: "Bomis Koori IV"
+ NAME_Bomis_Koori_P5: "Bomis Koori V"
+ NAME_Bomis_Koori_P5_1: "Bomis Koori Va"
+ NAME_Bomis_Koori_P5_2: "Bomis Koori Vb"
+ NAME_Bomis_Koori_P6: "Bomis Koori VI"
+ NAME_Bomis_Koori_P6_1: "Bomis Koori VIa"
+ NAME_Bomis_Koori_P6_2: "Bomis Koori VIb"
+ NAME_Bomis_Koori_P6_3: "Bomis Koori VIc"
+ NAME_Bomis_Koori_P6_4: "Bomis Koori VId"
+ NAME_Bomis_Koori_P6_5: "Bomis Koori VIe"
+ NAME_Bomis_Koori_P6_6: "Bomis Koori VIp"
+ NAME_Bomis_Koori_P7: "Bomis Koori VII"
+ 
+ #Harrin
+ NAME_Harrin: "Harrin"
+ NAME_Harrin_S: "Harrin"
+ NAME_Harrin_P1: "Harrin"
+ 
+ #Moorja
+ NAME_Moorja: "Moorja"
+ NAME_Moorja_S: "Moorja"
+ NAME_Moorja_P1: "Moorja I"
+ NAME_Moorja_P2: "Moorja II"
+ NAME_Moorja_P2_1: "Moorja II Minor"
+ NAME_Moorja_P3: "Moorja"
+ NAME_Moorja_P3_1: "Moorja Minor"
+ NAME_Moorja_P4: "Moorja IV"
+ NAME_Moorja_P4_1: "Moorja IVa"
+ NAME_Moorja_P4_2: "Moorja IVb"
+ NAME_Moorja_P4_3: "Moorja IVc"
+ NAME_Moorja_P5: "Moorja V"
+ NAME_Moorja_P5_1: "Moorja Va"
+ NAME_Moorja_P5_2: "Moorja Vb"
+ NAME_Moorja_P5_3: "Moorja Vc"
+ NAME_Moorja_P6: "Moorja VI"
+ 
+ ### CSA Systems ###
+ 
+ #Etti
+ NAME_Etti: "Etti"
+ NAME_Etti_S: "Etti"
+ NAME_Etti_P1: "Etti I"
+ NAME_Etti_P2: "Etti II"
+ NAME_Etti_P2_1: "Etti IIa"
+ NAME_Etti_P3: "Etti III"
+ NAME_Etti_P4: "Etti IV"
+ NAME_Etti_P5: "Etti V"
+ NAME_Etti_P6: "Etti VI"
+ NAME_Etti_P7: "Etti VII"
+ NAME_Etti_P7_1: "Etti VIIa"
+ NAME_Etti_P8: "Etti VIII"
+ NAME_Etti_P8_1: "Etti VIIIa"
+ 
+ #Kalla 
+ NAME_Kalla: "Kalla"
+ NAME_Kalla_S: "Kalla"
+ NAME_Kalla_P1: "Kalla I"
+ NAME_Kalla_P2: "Kalla II"
+ NAME_Kalla_P3: "Kalla III"
+ NAME_Kalla_P4: "Kalla IV"
+ NAME_Kalla_P5_1: "Asteroid Base I"
+ NAME_Kalla_P5_2: "Asteroid Base II"
+ NAME_Kalla_P6: "Kalla V"
+ NAME_Kalla_P7: "Kalla VI"
+ NAME_Kalla_P8: "Kalla VII"
+ NAME_Kalla_P9: "Kalla VIII"
+ NAME_Kalla_P10: "Kalla IX"
+ 
+ #Cantonica
+ NAME_Cantonica: "Cantonica"
+ NAME_Cantonica_S: "Cantonica"
+ NAME_Cantonica_P1: "Cantonica I"
+ NAME_Cantonica_P2: "Cantonica II"
+ NAME_Cantonica_P3: "Cantonica"
+ NAME_Cantonica_P3_1: "Cantonica Major"
+ NAME_Cantonica_P3_2: "Cantonica Minor"
+ NAME_Cantonica_P4: "Cantonica IV"
+ NAME_Cantonica_P4_1: "Cantonica IVa"
+ NAME_Cantonica_P4_2: "Cantonica IVb"
+ NAME_Cantonica_P5: "Cantonica V"
+ NAME_Cantonica_P5_1: "Cantonica Va"
+ NAME_Cantonica_P5_2: "Cantonica Vb"
+ NAME_Cantonica_P5_3: "Cantonica Vc"
+ NAME_Cantonica_P5_4: "Cantonica Vd"
+ NAME_Cantonica_P5_5: "Cantonica Ve"
+ NAME_Cantonica_P6: "Cantonica VI"
+ 
+ #Bonadan
+ NAME_Bonadan: "Bonadan"
+ NAME_Bonadan_S: "Bonadan"
+ NAME_Bonadan_P1: "Bonadan I"
+ NAME_Bonadan_P1_1: "Bonadan Ia"
+ NAME_Bonadan_P1_2: "Bonadan Ib"
+ NAME_Bonadan_P1_3: "Bonadan Ic"
+ NAME_Bonadan_P1_4: "Bonadan Id"
+ NAME_Bonadan_P2: "Bonadan II"
+ NAME_Bonadan_P3: "Bonadan III"
+ NAME_Bonadan_P3_1: "Bonadan III Minor"
+ NAME_Bonadan_P4: "Bonadan"
+ NAME_Bonadan_P4_1: "Bonadan Major"
+ NAME_Bonadan_P4_2: "Bonadan Minor"
+ NAME_Bonadan_P5: "Bonadan V"
+ NAME_Bonadan_P5_1: "Bonadan Va"
+ NAME_Bonadan_P5_2: "Bonadan Vb"
+ NAME_Bonadan_P5_3: "Bonadan Vc"
+ NAME_Bonadan_P5_4: "Bonadan Vd"
+ NAME_Bonadan_P6: "Bonadan VI"
+ NAME_Bonadan_P6_1: "Bonadan VI Minor"
+ 
+ #Tirsa
+ NAME_Tirsa: "Tirsa"
+ NAME_Tirsa_S: "Tirsa"
+ NAME_Tirsa_P1: "Tirsa"
+ 
+ #Issagra
+ NAME_Issagra: "Issagra"
+ NAME_Issagra_S: "Issagra"
+ NAME_Issagra_P1: "Issagra I"
+ NAME_Issagra_P2: "Issagra II"
+ NAME_Issagra_P3: "Issagra III"
+ NAME_Issagra_P4: "Issagra"
+ NAME_Issagra_P5: "Issagra Station"
+ NAME_Issagra_P6: "Issagra IV"
+ NAME_Issagra_P7: "Issagra V"
+ NAME_Issagra_P8: "Issagra VI"
+ 
+ ### Dantary Systems ###
+ 
+ #Dantooine
+ NAME_Dantooine: "Dantooine"
+ NAME_Dantooine_S: "Dina"
+ NAME_Dantooine_P1: "Doma"
+ NAME_Dantooine_P2: "Camillo"
+ NAME_Dantooine_P2_1: "Camillo I"
+ NAME_Dantooine_P2_2: "Camillo II"
+ NAME_Dantooine_P2_3: "Camillo III"
+ NAME_Dantooine_P3: "Camooine"
+ NAME_Dantooine_P3_1: "Camooine I"
+ NAME_Dantooine_P3_2: "Camooine II"
+ NAME_Dantooine_P3_3: "Camooine III"
+ NAME_Dantooine_P4: "Dantooine"
+ NAME_Dantooine_P4_1: "Dantooine I"
+ NAME_Dantooine_P4_2: "Dantooine II"
+ NAME_Dantooine_P5: "Bannakon"
+ NAME_Dantooine_P5_1: "Bannakon I"
+ NAME_Dantooine_P5_2: "Bannakon II"
+ NAME_Dantooine_P5_3: "Bannakon III"
+ NAME_Dantooine_P6: "Dulbris"
+ NAME_Dantooine_P6_1: "Dulbris I"
+ NAME_Dantooine_P6_2: "Dulbris II"
+ NAME_Dantooine_P6_3: "Dulbris III"
+ 
+ #Sinsang
+ NAME_Sinsang: "Sinsang"
+ NAME_Sinsang_S: "Sinsang"
+ NAME_Sinsang_P1: "Sinsang"
+ 
+ #Fedje
+ NAME_Fedje: "Fedje"
+ NAME_Fedje_S: "Fedje"
+ NAME_Fedje_P1: "Fedje I"
+ NAME_Fedje_P2: "Fedje II"
+ NAME_Fedje_P2_1: "Fedje II Minor"
+ NAME_Fedje_P3: "Fedje"
+ NAME_Fedje_P4: "Fedje IV"
+ NAME_Fedje_P4_1: "Fedje IV Minor"
+ NAME_Fedje_P5: "Fedje V"
+ NAME_Fedje_P5_1: "Fedje Va"
+ NAME_Fedje_P5_2: "Fedje Vb"
+ NAME_Fedje_P5_3: "Fedje Vc"
+ NAME_Fedje_P5_4: "Fedje Vd"
+ NAME_Fedje_P5_5: "Fedje Ve"
+ NAME_Fedje_P5_6: "Fedje Vf"
+ NAME_Fedje_P6: "Fedje VI"
+ 
+ #Nam'ta
+ NAME_Namta: "Nam'ta"
+ NAME_Namta_S: "Nam'ta"
+ NAME_Namta_P1: "Nam'ta"
+ NAME_Namta_P1_1: "Nam'ta I"
+ NAME_Namta_P1_2: "Nam'ta II"
+ NAME_Namta_P1_3: "Nam'ta VI"
+ 
+ #Borgo Prime
+ NAME_Borgo_Prime: "Borgo Prime"
+ NAME_Borgo_Prime_S: "Borgo"
+ NAME_Borgo_Prime_P1: "Borgo Prime"
+ 
+ #G'wenee
+ NAME_Gwenee: "G'wenee"
+ NAME_Gwenee_S: "G'wenee"
+ NAME_Gwenee_P1: "G'wenee"
+ 
+ #Ithor
+ NAME_Ithor: "Ottega"
+ NAME_Ithor_S: "Ottega"
+ NAME_Ithor_P1: "Imrooso"
+ NAME_Ithor_P1_1: "Imrooso I"
+ NAME_Ithor_P2: "Torgazi"
+ NAME_Ithor_P2_1: "Torgazi I"
+ NAME_Ithor_P2_2: "Torgazi II"
+ NAME_Ithor_P2_3: "Torgazi III"
+ NAME_Ithor_P3: "Ottega"
+ NAME_Ithor_P3_1: "Ottega I"
+ NAME_Ithor_P3_2: "Ottega II"
+ NAME_Ithor_P3_3: "Ottega III"
+ NAME_Ithor_P4: "Ithor"
+ NAME_Ithor_P4_1: "Ithor I"
+ NAME_Ithor_P4_2: "Ithor II"
+ NAME_Ithor_P4_3: "Ithor III"
+ NAME_Ithor_P4_4: "Ithor VI"
+ NAME_Ithor_P5: "Shihor"
+ NAME_Ithor_P5_1: "Shihor I"
+ NAME_Ithor_P5_2: "Shihor II"
+ NAME_Ithor_P5_3: "Shihor III"
+ NAME_Ithor_P5_4: "Shihor VII"
+ NAME_Ithor_P6: "Gyo"
+ NAME_Ithor_P6_1: "Gyo I"
+ NAME_Ithor_P6_2: "Gyo II"
+ NAME_Ithor_P6_3: "Gyo III"
+ NAME_Ithor_P6_4: "Gyo IV"
+ 
+ ### Dorin Systems ###
+ 
+ #Dorin
+ NAME_Dorin: "Dorin"
+ NAME_Dorin_S: "Dorin"
+ NAME_Dorin_P1: "Dorin I"
+ NAME_Dorin_P2: "Dorin"
+ NAME_Dorin_P2_1: "Dorin Minor"
+ NAME_Dorin_P3: "Dorin III"
+ NAME_Dorin_P4: "Dorin IV"
+ NAME_Dorin_P4_1: "Dorin IVa"
+ NAME_Dorin_P4_2: "Dorin IVb"
+ NAME_Dorin_P4_3: "Dorin IVc"
+ NAME_Dorin_P4_4: "Dorin IVd"
+ NAME_Dorin_P4_5: "Dorin IVe"
+ 
+ #Glee Anselm
+ NAME_Glee_Anselm: "Glee Anselm"
+ NAME_Glee_Anselm_S: "Glee Anselm"
+ NAME_Glee_Anselm_P1: "Glee Anselm I"
+ NAME_Glee_Anselm_P2: "Glee Anselm II"
+ NAME_Glee_Anselm_P2_1: "Glee Anselm II Minor"
+ NAME_Glee_Anselm_P3: "Glee Anselm"
+ NAME_Glee_Anselm_P3_1: "Glee Anselm Minor"
+ NAME_Glee_Anselm_P4: "Glee Anselm IV"
+ NAME_Glee_Anselm_P4_1: "Glee Anselm IVa"
+ NAME_Glee_Anselm_P4_2: "Glee Anselm IVb"
+ NAME_Glee_Anselm_P4_3: "Glee Anselm IVc"
+ NAME_Glee_Anselm_P4_4: "Glee Anselm IVd"
+ NAME_Glee_Anselm_P4_5: "Glee Anselm IVe"
+ 
+ ### Eshani Systems ###
+ 
+ #Eshan
+ NAME_Eshan: "Eshan"
+ NAME_Eshan_S: "Eshan"
+ NAME_Eshan_P1: "Eshan"
+ 
+ #Thyrsus
+ NAME_Thyrsus: "Thyrsus"
+ NAME_Thyrsus_S: "Thyrsus"
+ NAME_Thyrsus_P1: "Thyrsus"
+ 
+ #Almera
+ NAME_Almera: "Almera"
+ NAME_Almera_S: "Almera"
+ NAME_Almera_P1: "Almera"
+ 
+ #Berchest
+ NAME_Berchest: "Berchest"
+ NAME_Berchest_S: "Berchest"
+ NAME_Berchest_P1: "Berchest"
+ NAME_Berchest_P1_1: "Terhaari"
+ 
+ ### Eriadu Systems ###
+ 
+ #Eriadu
+ NAME_Eriadu: "Eriadu"
+ NAME_Eriadu_S: "Eriadu"
+ NAME_Eriadu_P1: "Muntiadu"
+ NAME_Eriadu_P2: "Jaroona"
+ NAME_Eriadu_P3: "Erinar"
+ NAME_Eriadu_P3_1: "Erinar Minor"
+ NAME_Eriadu_P4: "Eriadu"
+ NAME_Eriadu_P4_1: "Eriadu Minor"
+ NAME_Eriadu_P5: "Tarastra"
+ NAME_Eriadu_P5_1: "Tarastra I"
+ NAME_Eriadu_P5_2: "Tarastra II"
+ NAME_Eriadu_P5_3: "Tarastra III"
+ NAME_Eriadu_P5_4: "Tarastra VII"
+ NAME_Eriadu_P6: "Kelliadu"
+
+#Sullust
+ NAME_Sullust: "Sullust"
+ NAME_Sullust_S: "Sullust"
+ NAME_Sullust_P1: "Sullumun"
+ NAME_Sullust_P1_1: "Sullumun I"
+ NAME_Sullust_P1_2: "Sullumun II"
+ NAME_Sullust_P1_3: "Sullumun III"
+ NAME_Sullust_P1_4: "Sullumun IV"
+ NAME_Sullust_P1_5: "Sullumun XVIII"
+ NAME_Sullust_P2: "Lununmo"
+ NAME_Sullust_P2_1: "Lununmo I"
+ NAME_Sullust_P2_2: "Lununmo II"
+ NAME_Sullust_P2_3: "Lununmo III"
+ NAME_Sullust_P2_4: "Lununmo IV"
+ NAME_Sullust_P2_5: "Lununmo XXXIV"
+ NAME_Sullust_P3: "Sullust"
+ NAME_Sullust_P4_1: "Sulon"
+ NAME_Sullust_P4_2: "Umnub"
+ NAME_Sullust_P5: "Mumunubb"
+ NAME_Sullust_P6: "Mumunubb II"
+ 
+ #Colu
+ NAME_Colu: "Colu"
+ NAME_Colu_S: "Colu"
+ NAME_Colu_P1: "Clak'dor I"
+ NAME_Colu_P2: "Clak'dor II"
+ NAME_Colu_P3: "Clak'dor III"
+ NAME_Colu_P4: "Clak'dor IV"
+ NAME_Colu_P4_1: "Clak'dor IV Major"
+ NAME_Colu_P4_2: "Clak'dor IV Minor"
+ NAME_Colu_P5: "Clak'dor V"
+ NAME_Colu_P5_1: "Clak'dor Va"
+ NAME_Colu_P5_2: "Clak'dor Vb"
+ NAME_Colu_P5_3: "Clak'dor Vc"
+ NAME_Colu_P5_4: "Clak'dor Vd"
+ NAME_Colu_P5_5: "Clak'dor Vl"
+ NAME_Colu_P6: "Clak'dor VII"
+ 
+ #Yag'Dhul
+ NAME_Yagdhul: "Yag'Dhul"
+ NAME_Yagdhul_S: "Yag'Dhul"
+ NAME_Yagdhul_P1: "Yag'Dhul"
+ NAME_Yagdhul_P1_1: "Yag'Dhul I"
+ NAME_Yagdhul_P1_2: "Yag'Dhul II"
+ NAME_Yagdhul_P1_3: "Yag'Dhul III"
+ 
+ #Indupar
+ NAME_Indupar: "Indupar"
+ NAME_Indupar_S: "Indupar"
+ NAME_Indupar_P1: "Indupar"
+ 
+ ### Hapan Systems ###
+ 
+ #Hapes
+ NAME_Hapes: "Hapes"
+ NAME_Hapes_S: "Hapes"
+ NAME_Hapes_P1: "Hapes I"
+ NAME_Hapes_P1_1: "Hapes Ia"
+ NAME_Hapes_P1_2: "Hapes Ib"
+ NAME_Hapes_P2: "Hapes"
+ NAME_Hapes_P2_1: "Hapes I"
+ NAME_Hapes_P2_2: "Hapes II"
+ NAME_Hapes_P2_3: "Megos"
+ NAME_Hapes_P2_4: "Hapes IV"
+ NAME_Hapes_P2_5: "Hapes V"
+ NAME_Hapes_P2_6: "Hapes VI"
+ NAME_Hapes_P2_7: "Hapes VII"
+ NAME_Hapes_P3: "Kavan"
+ 
+ #Roqoo Depot
+ NAME_Roqoo_Depot: "Roqoo Depot"
+ NAME_Roqoo_Depot_S: "Roqoo Depot"
+ NAME_Roqoo_Depot_P1: "Roqoo Depot"
+ 
+ #Dreena
+ NAME_Dreena: "Dreena"
+ NAME_Dreena_S: "Dreena"
+ NAME_Dreena_P1: "Dreena"
+ 
+ #Andalia
+ NAME_Andalia: "Andalia"
+ NAME_Andalia_S: "Andalia"
+ NAME_Andalia_P1: "Andalia"
+ 
+ #Jodaka
+ NAME_Jodaka: "Jodaka"
+ NAME_Jodaka_S: "Jodaka"
+ NAME_Jodaka_P1: "Jodaka"
+ NAME_Jodaka_P1_1: "Jodaka I"
+ 
+ ### Hutt Systems ###
+ 
+ #Nal Hutta
+ NAME_Ytoub: "Y'Toub"
+ NAME_Ytoub_S: "Y'Toub"
+ NAME_Ytoub_P1: "Esyam"
+ NAME_Ytoub_P2: "Nal Koska"
+ NAME_Ytoub_P2_1: "Nal Koska I"
+ NAME_Ytoub_P2_2: "Nal Koska II"
+ NAME_Ytoub_P3: "Nal Hutta"
+ NAME_Ytoub_P3_1: "Nar Shaddaa"
+ NAME_Ytoub_P3_2: "Nar Hutta II"
+ NAME_Ytoub_P3_3: "Nar Hutta III"
+ NAME_Ytoub_P3_4: "Nar Hutta IV"
+ NAME_Ytoub_P3_5: "Nar Hutta V"
+ NAME_Ytoub_P4: "Nal Yeshu"
+ NAME_Ytoub_P4_1: "Nal Yeshu I"
+ NAME_Ytoub_P4_2: "Nal Yeshu II"
+ NAME_Ytoub_P5: "Kiskua"
+ NAME_Ytoub_P5_1: "Kiskua I"
+ NAME_Ytoub_P5_2: "Kiskua II"
+ NAME_Ytoub_P5_3: "Kiskua III"
+ NAME_Ytoub_P5_4: "Kiskua IV"
+ NAME_Ytoub_P5_5: "Kiskua V"
+ NAME_Ytoub_P6: "Nar Hekka"
+
+ #Gamorr
+ NAME_Gamorr: "Opoku"
+ NAME_Gamorr_S: "Opoku"
+ NAME_Gamorr_P1: "Ulklub"
+ NAME_Gamorr_P2: "Ag'gor"
+ NAME_Gamorr_P3: "Gamorr"
+ NAME_Gamorr_P3_1: "Gamorr I"
+ NAME_Gamorr_P3_2: "Gamorr II" #changed. It was: Gamorr I
+ NAME_Gamorr_P4: "Opyol"
+ NAME_Gamorr_P4_1: "Opyol I"
+ NAME_Gamorr_P5: "Lok Truf"
+ NAME_Gamorr_P5_1: "Lok Truf I"
+ NAME_Gamorr_P5_2: "Lok Truf II"
+ NAME_Gamorr_P5_3: "Lok Truf XI"
+ NAME_Gamorr_P6: "Tunyok"
+ 
+ #Nar Bo Sholla
+ NAME_Nar_Bo_Sholla: "Nar Bo Sholla"
+ NAME_Nar_Bo_Sholla_S: "Nar Bo Sholla"
+ NAME_Nar_Bo_Sholla_P1: "Nar Bo Sholla I"
+ NAME_Nar_Bo_Sholla_P1_1: "Nar Bo Sholla I Minor"
+ NAME_Nar_Bo_Sholla_P2: "Nar Bo Sholla"
+ NAME_Nar_Bo_Sholla_P3: "Nar Bo Sholla III"
+ NAME_Nar_Bo_Sholla_P3_1: "Nar Bo Sholla III Minor"
+ NAME_Nar_Bo_Sholla_P4: "Nar Bo Sholla IV"
+ NAME_Nar_Bo_Sholla_P4_1: "Nar Bo Sholla IVa"
+ NAME_Nar_Bo_Sholla_P4_2: "Nar Bo Sholla IVb"
+ NAME_Nar_Bo_Sholla_P4_3: "Nar Bo Sholla IVc"
+ NAME_Nar_Bo_Sholla_P4_4: "Nar Bo Sholla IVd"
+ NAME_Nar_Bo_Sholla_P4_5: "Nar Bo Sholla IVe"
+ NAME_Nar_Bo_Sholla_P4_6: "Nar Bo Sholla IVf"
+ NAME_Nar_Bo_Sholla_P4_7: "Nar Bo Sholla IVg"
+ 
+ #Toydaria
+ NAME_Toydaria: "Toydaria"
+ NAME_Toydaria_S: "Toydaria"
+ NAME_Toydaria_P1: "Credquant"
+ NAME_Toydaria_P1_1: "Credquant I" #changed*.
+ NAME_Toydaria_P1_2: "Credquant II" #changed*.
+ NAME_Toydaria_P1_3: "Credquant III" #changed*.
+ NAME_Toydaria_P1_4: "Credquant IV" #changed*.
+ NAME_Toydaria_P2: "Nubisa"
+ NAME_Toydaria_P3: "Toydaria"
+ NAME_Toydaria_P3_1: "Toydaria I"
+ NAME_Toydaria_P3_2: "Toydaria II"
+ NAME_Toydaria_P3_3: "Toydaria III"
+ NAME_Toydaria_P4: "Ziux"
+ NAME_Toydaria_P4_1: "Ziux I" #changed*.
+ NAME_Toydaria_P4_2: "Ziux II" #changed*.
+ NAME_Toydaria_P4_3: "Ziux III" #changed*.
+ NAME_Toydaria_P4_4: "Ziux IV" #changed*.
+ NAME_Toydaria_P4_5: "Ziux V" #changed*.
+ NAME_Toydaria_P4_6: "Ziux VI" #changed*.
+ NAME_Toydaria_P4_7: "Ziux VII" #changed*.
+ NAME_Toydaria_P4_8: "Ziux VIII" #changed*.
+ NAME_Toydaria_P5: "Far Ziux"
+ NAME_Toydaria_P5_1: "Far Ziux I" #changed*.
+ NAME_Toydaria_P5_2: "Far Ziux II" #changed*.
+ NAME_Toydaria_P5_3: "Far Ziux III" #changed*.
+ NAME_Toydaria_P5_4: "Far Ziux IV" #changed*.
+ NAME_Toydaria_P5_5: "Far Ziux V" #changed*.
+ NAME_Toydaria_P5_6: "Far Ziux VI" #changed*.
+ NAME_Toydaria_P6: "Fii"
+ #* - In other languages it turned out the following: Ziux+a = Ziuxa
+ 
+ #Nar Kreeta
+ NAME_Nar_Kreeta: "Nar Kreeta"
+ NAME_Nar_Kreeta_S: "Nar Kreeta"
+ NAME_Nar_Kreeta_P1: "Nar Kreeta I"
+ NAME_Nar_Kreeta_P2: "Nar Kreeta II"
+ NAME_Nar_Kreeta_P2_1: "Nar Kreeta IIa"
+ NAME_Nar_Kreeta_P2_2: "Nar Kreeta IIb"
+ NAME_Nar_Kreeta_P3: "Nar Kreeta"
+ NAME_Nar_Kreeta_P4: "Nar Kreeta IV"
+ NAME_Nar_Kreeta_P4_1: "Nar Kreeta IVa"
+ NAME_Nar_Kreeta_P4_2: "Nar Kreeta IVb"
+ NAME_Nar_Kreeta_P4_3: "Nar Kreeta IVc"
+ NAME_Nar_Kreeta_P4_4: "Nar Kreeta IVd"
+ NAME_Nar_Kreeta_P4_5: "Nar Kreeta IVe"
+ 
+ #Du Hutta
+ NAME_Du_Hutta: "Du Hutta"
+ NAME_Du_Hutta_S: "Du Hutta"
+ NAME_Du_Hutta_P1: "Du Hutta"
+ 
+ #Gos Hutta
+ NAME_Gos_Hutta: "Gos Hutta"
+ NAME_Gos_Hutta_S: "Gos Hutta"
+ NAME_Gos_Hutta_P1: "Gos Hutta I"
+ NAME_Gos_Hutta_P2: "Gos Hutta II"
+ NAME_Gos_Hutta_P2_1: "Gos Hutta II Minor"
+ NAME_Gos_Hutta_P3: "Gos Hutta III"
+ NAME_Gos_Hutta_P3_1: "Gos Hutta III Minor"
+ 
+ #Rorak
+ NAME_Rorak: "Rorak"
+ NAME_Rorak_S: "Rorak"
+ NAME_Rorak_P1: "Rorak I"
+ NAME_Rorak_P2: "Rorak II"
+ NAME_Rorak_P3: "Rorak III"
+ NAME_Rorak_P4: "Rorak IV"
+ NAME_Rorak_P5: "Rorak V"
+ 
+ #Circumtore
+ NAME_Circumtore: "Circumtore"
+ NAME_Circumtore_S: "Circumtore"
+ NAME_Circumtore_P1_1: "Circumtore"
+ NAME_Circumtore_P1_2: "Circumtore"
+ NAME_Circumtore_P1_3: "Circumtore"
+ NAME_Circumtore_P1_4: "Circumtore"
+ NAME_Circumtore_P1_5: "Circumtore"
+ NAME_Circumtore_P1_6: "Circumtore"
+ NAME_Circumtore_P1_7: "Circumtore"
+ NAME_Circumtore_P1_8: "Circumtore"
+ NAME_Circumtore_P1_9: "Circumtore"
+ NAME_Circumtore_P1_10: "Circumtore"
+ NAME_Circumtore_P1_11: "Circumtore"
+ NAME_Circumtore_P1_12: "Circumtore"
+ 
+ #Ilos
+ NAME_Ilos: "Ilos"
+ NAME_Ilos_S: "Ilos"
+ NAME_Ilos_P1: "Ilos"
+ 
+ #Sleheyron
+ NAME_Sleheyron: "Sleheyron"
+ NAME_Sleheyron_S: "Sleheyron"
+ NAME_Sleheyron_P1: "Sleheyron I"
+ NAME_Sleheyron_P2: "Sleheyron II"
+ NAME_Sleheyron_P3: "Sleheyron"
+ NAME_Sleheyron_P4: "Sleheyron IV"
+ NAME_Sleheyron_P4_1: "Sleheyron IVa"
+ NAME_Sleheyron_P4_2: "Sleheyron IVb"
+ NAME_Sleheyron_P4_3: "Sleheyron IVc"
+ NAME_Sleheyron_P4_4: "Sleheyron IVd"
+ NAME_Sleheyron_P4_5: "Sleheyron IVe"
+ NAME_Sleheyron_P5: "Sleheyron V"
+ 
+ ### Imperial Sector System ###
+ 
+ #Fondor
+ NAME_Fondor: "Fondor"
+ NAME_Fondor_S: "Fondor"
+ NAME_Fondor_P1: "Faliar"
+ NAME_Fondor_P2: "Fondor"
+ NAME_Fondor_P2_1: "Fondor I"
+ NAME_Fondor_P2_2: "Fondor II"
+ NAME_Fondor_P2_3: "Nallastia"
+ NAME_Fondor_P2_4: "Fondor IV"
+ NAME_Fondor_P2_5: "Fondor V"
+ NAME_Fondor_P2_6: "Fondor VI"
+ NAME_Fondor_P3: "Mzeh"
+ NAME_Fondor_P3_1: "Mzeh I"
+ NAME_Fondor_P3_2: "Mzeh II"
+ NAME_Fondor_P3_3: "Mzeh III"
+ NAME_Fondor_P3_4: "Mzeh IV"
+ NAME_Fondor_P3_5: "Mzeh XI"
+ NAME_Fondor_P4_1: "Fondor VIIa"
+ NAME_Fondor_P4_2: "Fondor VIIb"
+ NAME_Fondor_P4_3: "Fondor VIIc"
+ NAME_Fondor_P4_4: "Fondor VIId"
+ NAME_Fondor_P4_5: "Fondor VIIe"
+ NAME_Fondor_P4_6: "Fondor VIIf"
+ 
+ #Foless
+ NAME_Foless: "Foless"
+ NAME_Foless_S: "Foless"
+ NAME_Foless_P1: "Foless"
+ 
+ #Affa
+ NAME_Affa: "Affa"
+ NAME_Affa_S: "Affa"
+ NAME_Affa_P1: "Affa"
+ NAME_Affa_P1_1: "Affa I"
+ NAME_Affa_P1_2: "Affa II"
+ NAME_Affa_P1_3: "Affa III"
+ NAME_Affa_P1_4: "Affa IV"
+ 
+ #Naboo
+ NAME_Naboo: "Naboo"
+ NAME_Naboo_S: "Naboo"
+ NAME_Naboo_P1: "Moth"
+ NAME_Naboo_P2: "Erep"
+ NAME_Naboo_P2_1: "Erep Minor"
+ NAME_Naboo_P3: "Naboo"
+ NAME_Naboo_P3_1: "Ohma-D'un"
+ NAME_Naboo_P3_2: "Rori"
+ NAME_Naboo_P3_3: "Naboo III"
+ NAME_Naboo_P4: "Widow"
+ NAME_Naboo_P4_1: "Widow Minor"
+ NAME_Naboo_P5: "Storm"
+ NAME_Naboo_P5_1: "Storm I"
+ NAME_Naboo_P5_2: "Storm II"
+ NAME_Naboo_P5_3: "Storm III"
+ NAME_Naboo_P5_4: "Storm IV"
+ NAME_Naboo_P5_5: "Storm V"
+ NAME_Naboo_P5_6: "Storm VI"
+ NAME_Naboo_P5_7: "Storm VII"
+ NAME_Naboo_P5_8: "Storm VIII"
+ NAME_Naboo_P5_9: "Storm IX"
+ NAME_Naboo_P5_10: "Storm X"
+ NAME_Naboo_P5_11: "Storm XXXII"
+ NAME_Naboo_P6: "Behpour"
+ 
+ #Tentrix
+ NAME_Tentrix: "Tentrix"
+ NAME_Tentrix_S: "Tentrix"
+ NAME_Tentrix_P1: "Tentrix"
+ 
+ #Alassa Major
+ NAME_Alassa_Major: "Alassa Major"
+ NAME_Alassa_Major_S: "Alassa Major"
+ NAME_Alassa_Major_P1: "Alassa Major"
+ 
+ ### Imperial Systems ###
+
+ #Coruscant
+ NAME_Coruscant: "Coruscant"
+ NAME_Coruscant_S: "Coruscant Prime"
+ NAME_Coruscant_P1: "Revisse"
+ NAME_Coruscant_P2: "Platoril"
+ NAME_Coruscant_P3: "Vandor I"
+ NAME_Coruscant_P4: "Vandor II"
+ NAME_Coruscant_P5: "Coruscant"
+ NAME_Coruscant_P5_1: "Centax I"
+ NAME_Coruscant_P5_2: "Centax II"
+ NAME_Coruscant_P5_3: "Centax III"
+ NAME_Coruscant_P5_4: "Hesperidium"
+ NAME_Coruscant_P6: "Vandor III"
+ NAME_Coruscant_P7: "Muscave"
+ NAME_Coruscant_P7_1: "Muscave I"
+ NAME_Coruscant_P7_2: "Muscave II"
+ NAME_Coruscant_P7_3: "Muscave III"
+ NAME_Coruscant_P7_4: "Muscave IV"
+ NAME_Coruscant_P7_5: "Muscave XXI"
+ NAME_Coruscant_P8: "Stentat"
+ NAME_Coruscant_P8_1: "Stentat I"
+ NAME_Coruscant_P8_2: "Stentat II"
+ NAME_Coruscant_P8_3: "Stentat III"
+ NAME_Coruscant_P8_4: "Stentat IV"
+ NAME_Coruscant_P8_5: "Stentat XXIII"
+ NAME_Coruscant_P9: "Improcco"
+ NAME_Coruscant_P9_1: "Improcco's Moon"
+ NAME_Coruscant_P10: "Nubatu"
+ NAME_Coruscant_P11: "Ulabos"
+ 
+ #Empress Teta
+ NAME_Empress_Teta: "Empress Teta"
+ NAME_Empress_Teta_S: "Koros"
+ NAME_Empress_Teta_P1: "Keres I"
+ NAME_Empress_Teta_P2: "Gillad"
+ NAME_Empress_Teta_P2_1: "Gillad I"
+ NAME_Empress_Teta_P3: "Mozos"
+ NAME_Empress_Teta_P3_1: "Mozos I"
+ NAME_Empress_Teta_P3_2: "Mozos II"
+ NAME_Empress_Teta_P4: "Empress Teta"
+ NAME_Empress_Teta_P4_1: "Atale"
+ NAME_Empress_Teta_P4_2: "Empress Teta II"
+ NAME_Empress_Teta_P4_3: "Empress Teta III"
+ NAME_Empress_Teta_P5: "Tryast"
+ NAME_Empress_Teta_P5_1: "Tryast I"
+ NAME_Empress_Teta_P6: "Phiris"
+ NAME_Empress_Teta_P6_1: "Phiris I"
+ NAME_Empress_Teta_P6_2: "Phiris II"
+ NAME_Empress_Teta_P7: "Phoros"
+ NAME_Empress_Teta_P7_1: "Phoros I"
+ NAME_Empress_Teta_P8: "Ronika"
+ NAME_Empress_Teta_P8_1: "Ronika I"
+ NAME_Empress_Teta_P9: "Keres II"
+ 
+ #Metellos
+ NAME_Metellos: "Metellos"
+ NAME_Metellos_S: "Metellos"
+ NAME_Metellos_P1: "Menias"
+ NAME_Metellos_P2: "Maedano"
+ NAME_Metellos_P2_1: "Maedano Minor"
+ NAME_Metellos_P3: "Majesticas"
+ NAME_Metellos_P4: "Metellos"
+ NAME_Metellos_P4_1: "Metellos 1"
+ NAME_Metellos_P4_2: "Metellos 2"
+ NAME_Metellos_P4_3: "Metellos 3"
+ NAME_Metellos_P5: "Maddules"
+ NAME_Metellos_P5_1: "Maddules I"
+ NAME_Metellos_P5_2: "Maddules II"
+ NAME_Metellos_P5_3: "Maddules III"
+ NAME_Metellos_P5_4: "Maddules IX"
+ NAME_Metellos_P6: "Mores"
+ NAME_Metellos_P6_1: "Mores I"
+ NAME_Metellos_P6_2: "Mores II"
+ NAME_Metellos_P6_3: "Mores III"
+ NAME_Metellos_P6_4: "Mores IV"
+ NAME_Metellos_P6_5: "Mores XVII"
+ NAME_Metellos_P7: "Militar"
+ NAME_Metellos_P7_1: "Militar I"
+ NAME_Metellos_P7_2: "Militar II"
+ NAME_Metellos_P7_3: "Militar V"
+ 
+ #Foerost
+ NAME_Foerost: "Foerost"
+ NAME_Foerost_S: "Foerost"
+ NAME_Foerost_P1: "Foerost"
+ 
+ #Corulus
+ NAME_Corulus: "Corulus"
+ NAME_Corulus_S: "Corulus"
+ NAME_Corulus_P1: "Solag"
+ NAME_Corulus_P2: "Biolag"
+ NAME_Corulus_P2_1: "Biolag I"
+ NAME_Corulus_P2_2: "Biolag II"
+ NAME_Corulus_P2_3: "Biolag III"
+ NAME_Corulus_P2_4: "Biolag IV"
+ NAME_Corulus_P2_5: "Biolag VII"
+ NAME_Corulus_P3: "Garulag"
+ NAME_Corulus_P3_1: "Garulag I"
+ NAME_Corulus_P3_2: "Garulag II"
+ NAME_Corulus_P3_3: "Garulag III"
+ NAME_Corulus_P3_4: "Garulag IV"
+ NAME_Corulus_P3_5: "Garulag V"
+ NAME_Corulus_P3_6: "Garulag XV"
+ NAME_Corulus_P4: "Corulag"
+ NAME_Corulus_P4_1: "Corulag I"
+ NAME_Corulus_P4_2: "Corulag II"
+ NAME_Corulus_P4_3: "Corulag III"
+ 
+ #Axum
+ NAME_Axum: "Axum"
+ NAME_Axum_S: "Solic Axum"
+ NAME_Axum_P1: "Selgon"
+ NAME_Axum_P2: "Grastes"
+ NAME_Axum_P2_1: "Grastes a"
+ NAME_Axum_P3: "Axum"
+ NAME_Axum_P3_1: "Axum I"
+ NAME_Axum_P3_2: "Axum II"
+ NAME_Axum_P4: "Anaxes"
+ NAME_Axum_P4_1: "Anaxes I"
+ NAME_Axum_P5: "Urfon"
+ NAME_Axum_P5_1: "Urfon a"
+ NAME_Axum_P6: "Phlors Rex"
+ NAME_Axum_P6_1: "Phlors Rex I"
+ NAME_Axum_P6_2: "Phlors Rex II"
+ NAME_Axum_P6_3: "Phlors Rex III"
+ NAME_Axum_P6_4: "Phlors Rex IV"
+ NAME_Axum_P6_5: "Phlors Rex XVIII"
+ NAME_Axum_P7: "Phlors Regina"
+ NAME_Axum_P7_1: "Phlors Regina I"
+ NAME_Axum_P7_2: "Phlors Regina II"
+ NAME_Axum_P7_3: "Phlors Regina III"
+ NAME_Axum_P7_4: "Phlors Regina IV"
+ NAME_Axum_P7_5: "Phlors Regina XV"
+ NAME_Axum_P8: "Ichium"
+ 
+ #Grizmallt
+ NAME_Grizmallt: "Grizmallt"
+ NAME_Grizmallt_S: "Grizmallt"
+ NAME_Grizmallt_P1: "Grizmallt I"
+ NAME_Grizmallt_P1_1: "Grizmallt I Minor"
+ NAME_Grizmallt_P2: "Grizmallt"
+ NAME_Grizmallt_P3: "Grizmallt III"
+ NAME_Grizmallt_P3_1: "Grizmallt III Minor"
+ NAME_Grizmallt_P4: "Grizmallt IV"
+ NAME_Grizmallt_P4_1: "Grizmallt IVa"
+ NAME_Grizmallt_P4_2: "Grizmallt IVb"
+ NAME_Grizmallt_P4_3: "Grizmallt IVc"
+ NAME_Grizmallt_P4_4: "Grizmallt IVd"
+ NAME_Grizmallt_P4_5: "Grizmallt IVe"
+ NAME_Grizmallt_P4_6: "Grizmallt IVf"
+ NAME_Grizmallt_P4_7: "Grizmallt IVg"
+ 
+ #Alsakan
+ NAME_Alsakan: "Alsakan"
+ NAME_Alsakan_S: "Alsakan"
+ NAME_Alsakan_P1: "Alsakan I"
+ NAME_Alsakan_P2: "Alsakan II"
+ NAME_Alsakan_P3: "Alsakan"
+ NAME_Alsakan_P4: "Alsakan IV"
+ NAME_Alsakan_P4_1: "Alsakan IVa"
+ NAME_Alsakan_P4_2: "Alsakan IVb"
+ NAME_Alsakan_P4_3: "Alsakan IVc"
+ NAME_Alsakan_P4_4: "Alsakan IVd"
+ NAME_Alsakan_P4_5: "Alsakan IVk"
+ NAME_Alsakan_P5: "Alsakan V"
+ NAME_Alsakan_P5_1: "Alsakan Va"
+ NAME_Alsakan_P5_2: "Alsakan Vb"
+ NAME_Alsakan_P5_3: "Alsakan Vc"
+ NAME_Alsakan_P5_4: "Alsakan Vm"
+ NAME_Alsakan_P6: "Alsakan VI"
+ 
+ #Ixtlar
+ NAME_Ixtlar: "Ixtlar"
+ NAME_Ixtlar_S: "Ixtlar"
+ NAME_Ixtlar_P1: "Ixtlar"
+ 
+ #Wukkar
+ NAME_Wukkar: "Wukkar"
+ NAME_Wukkar_S: "Wukkar"
+ NAME_Wukkar_P1: "Wukkar"
+ 
+ #Kuat
+ NAME_Kuat: "Kuat"
+ NAME_Kuat_S: "Kuat"
+ NAME_Kuat_P1: "Ristel"
+ NAME_Kuat_P2: "Goravas"
+ NAME_Kuat_P2_1: "Goravas Minor"
+ NAME_Kuat_P3: "Daver Kuat"
+ NAME_Kuat_P3_1: "Daver Kuat I"
+ NAME_Kuat_P3_2: "Daver Kuat II"
+ NAME_Kuat_P4: "Kuat"
+ NAME_Kuat_P4_1: "Bador"
+ NAME_Kuat_P4_2: "Ronay"
+ NAME_Kuat_P5: "Gortis"
+ NAME_Kuat_P5_1: "Gortis I"
+ NAME_Kuat_P5_2: "Gortis II"
+ NAME_Kuat_P5_3: "Gortis III"
+ NAME_Kuat_P6: "Rasapan"
+ NAME_Kuat_P6_1: "Rasapan I"
+ NAME_Kuat_P6_2: "Rasapan II"
+ NAME_Kuat_P6_3: "Rasapan III"
+ NAME_Kuat_P6_4: "Rasapan IV"
+ NAME_Kuat_P6_5: "Rasapan V"
+ NAME_Kuat_P6_6: "Rasapan VI"
+ NAME_Kuat_P6_7: "Rasapan XXII"
+ 
+ #Rendili
+ NAME_Rendili: "Rendili"
+ NAME_Rendili_S: "Rendili"
+ NAME_Rendili_P1: "Rendili"
+ 
+ #Carida
+ NAME_Carida: "Carida"
+ NAME_Carida_S: "Caridan"
+ NAME_Carida_P1: "Andra"
+ NAME_Carida_P2: "Bedara"
+ NAME_Carida_P3: "Orline"
+ NAME_Carida_P3_1: "Orline I"
+ NAME_Carida_P4: "Carida"
+ NAME_Carida_P4_1: "Carida I"
+ NAME_Carida_P4_2: "Mascot Moon"
+ NAME_Carida_P5: "Cari"
+ NAME_Carida_P5_1: "Cari I"
+ NAME_Carida_P5_2: "Cari II"
+ NAME_Carida_P5_3: "Cari III"
+ NAME_Carida_P5_4: "Cari IV"
+ NAME_Carida_P6: "Andinri"
+ NAME_Carida_P6_1: "Andinri I"
+ NAME_Carida_P6_2: "Andinri II"
+ NAME_Carida_P6_3: "Andinri VIII"
+ 
+ ### Javin Systems ###
+ 
+ #Javin
+ NAME_Javin: "Javin"
+ NAME_Javin_S: "Javin"
+ NAME_Javin_P1: "Javin"
+ 
+ #Gerrenthum
+ NAME_Gerrenthum: "Gerrenthum"
+ NAME_Gerrenthum_S: "Gerrenthum"
+ NAME_Gerrenthum_P1: "Gerrenthum"
+ 
+ #Bespin
+ NAME_Bespin: "Bespin"
+ NAME_Bespin_S: "Bespin"
+ NAME_Bespin_P1: "Miser"
+ NAME_Bespin_P2: "Orin"
+ NAME_Bespin_P3: "Bespin"
+ NAME_Bespin_P3_1: "Bespin I"
+ NAME_Bespin_P3_2: "Bespin II"
+ NAME_Bespin_P3_3: "Bespin III"
+ NAME_Bespin_P3_4: "H'qaard"
+ NAME_Bespin_P3_5: "Drudonna"
+ NAME_Bespin_P3_6: "Bespin X"
+ 
+ #Cargamalis
+ NAME_Cargamalis: "Cargamalis"
+ NAME_Cargamalis_S: "Cargamalis"
+ NAME_Cargamalis_P1: "Cargamalis"
+ 
+ #Council
+ NAME_Council: "Council"
+ NAME_Council_S: "Council"
+ NAME_Council_P1: "Council"
+ 
+ #Bendeluum
+ NAME_Bendeluum: "Bendeluum"
+ NAME_Bendeluum_S: "Bendeluum"
+ NAME_Bendeluum_P1: "Bendeluum"
+ 
+ #Ione
+ NAME_Ione: "Ione"
+ NAME_Ione_S: "Ione"
+ NAME_Ione_P1: "Ione I"
+ NAME_Ione_P2: "Ione"
+ NAME_Ione_P3: "Ione III"
+ NAME_Ione_P3_1: "Ione III Minor"
+ NAME_Ione_P4: "Ione IV"
+ NAME_Ione_P4_1: "Ione IVa"
+ NAME_Ione_P4_2: "Ione IVb"
+ NAME_Ione_P4_3: "Ione IVc"
+ NAME_Ione_P4_4: "Ione IVd"
+ NAME_Ione_P4_5: "Ione IVe"
+ NAME_Ione_P4_6: "Ione IVf"
+ 
+ ### Juvex Systems ###
+ 
+ #Juvex
+ NAME_Juvex: "Juvex"
+ NAME_Juvex_S: "Juvex"
+ NAME_Juvex_P1: "Juvex I"
+ NAME_Juvex_P2: "Juvex"
+ NAME_Juvex_P2_1: "Juvex Major"
+ NAME_Juvex_P2_2: "Juvex Minor"
+ NAME_Juvex_P3: "Juvex III"
+ NAME_Juvex_P3_1: "Juvex IIIa"
+ NAME_Juvex_P3_2: "Juvex IIIb"
+ NAME_Juvex_P3_3: "Juvex IIIc"
+ NAME_Juvex_P3_4: "Juvex IIId"
+ NAME_Juvex_P3_5: "Juvex IIIe"
+ NAME_Juvex_P3_6: "Juvex IIIf"
+ NAME_Juvex_P4: "Juvex IV"
+
+ #Kimm Aurek
+ NAME_Kimm_Aurek: "Kimm Aurek"
+ NAME_Kimm_Aurek_S: "Kimm Aurek"
+ NAME_Kimm_Aurek_P1: "Kimm Aurek"
+ 
+ #Loovria
+ NAME_Loovria: "Loovria"
+ NAME_Loovria_S: "Loovria"
+ NAME_Loovria_P1: "Loovria"
+ NAME_Loovria_P1_1: "Loovria I"
+ 
+ #Pieldi
+ NAME_Pieldi: "Pieldi"
+ NAME_Pieldi_S: "Pieldi"
+ NAME_Pieldi_P1: "Pieldi"
+ 
+ ### Killik Systems ###
+ 
+ #Yoggoy
+ NAME_Yoggoy: "Yoggoy"
+ NAME_Yoggoy_S: "Yoggoy"
+ NAME_Yoggoy_P1: "Yoggoy I"
+ NAME_Yoggoy_P2: "Yoggoy II"
+ NAME_Yoggoy_P2_1: "Yoggoy II Minor"
+ NAME_Yoggoy_P3: "Yoggoy"
+ NAME_Yoggoy_P4: "Yoggoy IV"
+ NAME_Yoggoy_P4_1: "Yoggoy IV Minor"
+ NAME_Yoggoy_P5: "Yoggoy V"
+ NAME_Yoggoy_P6: "Yoggoy VI"
+ NAME_Yoggoy_P6_1: "Yoggoy VIa"
+ NAME_Yoggoy_P6_2: "Yoggoy VIb"
+ NAME_Yoggoy_P6_3: "Yoggoy VIc"
+ NAME_Yoggoy_P6_4: "Yoggoy VId"
+ NAME_Yoggoy_P6_5: "Yoggoy VIe"
+ NAME_Yoggoy_P6_6: "Yoggoy VIf"
+ NAME_Yoggoy_P7: "Yoggoy VII"
+ NAME_Yoggoy_P7_1: "Yoggoy VII Major"
+ NAME_Yoggoy_P7_2: "Yoggoy VII Minor"
+ 
+ ### Mandalorian Systems ###
+ 
+ #Mandalore
+ NAME_Mandolore: "Mandalore"
+ NAME_Mandolore_S: "Mandalore"
+ NAME_Mandolore_P1: "Nog"
+ NAME_Mandolore_P2: "Akaan"
+ NAME_Mandolore_P2_1: "Akaan Major"
+ NAME_Mandolore_P2_2: "Akaan Minor"
+ NAME_Mandolore_P3: "Tracyn"
+ NAME_Mandolore_P3_1: "Tracyn I"
+ NAME_Mandolore_P3_2: "Tracyn II"
+ NAME_Mandolore_P3_3: "Tracyn III"
+ NAME_Mandolore_P3_4: "Tracyn IV"
+ NAME_Mandolore_P4: "Kalevala"
+ NAME_Mandolore_P5: "Mandalore"
+ NAME_Mandolore_P5_1: "Concordia"
+ NAME_Mandolore_P5_2: "Mandalore Minor"
+ NAME_Mandolore_P6: "Mandallia"
+ NAME_Mandolore_P6_1: "Mandallia Minor"
+ NAME_Mandolore_P7: "Bonagal"
+ NAME_Mandolore_P7_1: "Bonagal I"
+ NAME_Mandolore_P7_2: "Bonagal II"
+ NAME_Mandolore_P7_3: "Bonagal III"
+ NAME_Mandolore_P7_4: "Bonagal IV"
+ NAME_Mandolore_P7_5: "Bonagal V"
+ NAME_Mandolore_P7_6: "Bonagal XXXIV"
+ NAME_Mandolore_P8: "Shukut"
+ NAME_Mandolore_P8_1: "Shukut I"
+ NAME_Mandolore_P8_2: "Shukut II"
+ NAME_Mandolore_P8_3: "Shukut III"
+ NAME_Mandolore_P8_4: "Shukut IV"
+ NAME_Mandolore_P8_5: "Shukut XXX"
+ NAME_Mandolore_P9: "Werda"
+ 
+ #Gargon
+ NAME_Gargon: "Gargon"
+ NAME_Gargon_S: "Gargon"
+ NAME_Gargon_P1: "Gargon"
+ NAME_Gargon_P2: "Gargon Two"
+ 
+ #Concord Dawn
+ NAME_Concord_Dawn: "Concord Dawn"
+ NAME_Concord_Dawn_S: "Concord Dawn"
+ NAME_Concord_Dawn_P1: "Concord Dawn I"
+ NAME_Concord_Dawn_P2: "Concord Dawn II"
+ NAME_Concord_Dawn_P3: "Concord Dawn"
+ NAME_Concord_Dawn_P4: "Concord Dawn IV"
+ NAME_Concord_Dawn_P5: "Concord Dawn V"
+ NAME_Concord_Dawn_P5_1: "Concord Dawn Va"
+ NAME_Concord_Dawn_P5_2: "Concord Dawn Vb"
+ NAME_Concord_Dawn_P5_3: "Concord Dawn Vc"
+ NAME_Concord_Dawn_P5_4: "Concord Dawn Vd"
+ 
+ #Ordo
+ NAME_Ordo: "Ordo"
+ NAME_Ordo_S: "Ordo"
+ NAME_Ordo_P1: "Ordo I"
+ NAME_Ordo_P2: "Ordo"
+ NAME_Ordo_P3: "Ordo III"
+ NAME_Ordo_P4: "Ordo IV"
+ NAME_Ordo_P4_1: "Ordo IVa"
+ NAME_Ordo_P4_2: "Ordo IVb"
+ NAME_Ordo_P4_3: "Ordo IVc"
+ NAME_Ordo_P4_4: "Ordo IVd"
+ NAME_Ordo_P4_5: "Ordo IVe"
+ NAME_Ordo_P4_6: "Ordo IVf"
+ NAME_Ordo_P4_7: "Ordo IVg"
+ 
+ #Zanbar
+ NAME_Zanbar: "Zanbar"
+ NAME_Zanbar_S: "Zanbar"
+ NAME_Zanbar_P1: "Zanbar Major"
+ NAME_Zanbar_P1_1: "Zanbar"
+ NAME_Zanbar_P2: "Zanbar II"
+ NAME_Zanbar_P3: "Zanbar III"
+ 
+ #Jakelia
+ NAME_Jakelia: "Jakelia"
+ NAME_Jakelia_S: "Jakelia"
+ NAME_Jakelia_P1: "Jakelia"
+ 
+ #New Kleyman
+ NAME_New_Kleyman: "New Kleyman"
+ NAME_New_Kleyman_S: "New Kleyman"
+ NAME_New_Kleyman_P1: "New Kleyman I"
+ NAME_New_Kleyman_P2: "New Kleyman II"
+ NAME_New_Kleyman_P2_1: "New Kleyman II Minor"
+ NAME_New_Kleyman_P3: "New Kleyman III"
+ NAME_New_Kleyman_P3_1: "New Kleyman III Minor"
+ NAME_New_Kleyman_P4: "Krownest"
+ NAME_New_Kleyman_P5: "New Kleyman V"
+ NAME_New_Kleyman_P5_1: "New Kleyman Va"
+ NAME_New_Kleyman_P5_2: "New Kleyman Vb"
+ NAME_New_Kleyman_P5_3: "New Kleyman Vc"
+ NAME_New_Kleyman_P5_4: "New Kleyman Vd"
+ NAME_New_Kleyman_P5_5: "New Kleyman Ve"
+ NAME_New_Kleyman_P6: "New Kleyman VI"
+ 
+ ### Mon Calamari Systems ###
+ 
+ #Calamari
+ NAME_Calamari: "Calamari"
+ NAME_Calamari_S1: "Daca"
+ NAME_Calamari_S2: "Calamari B"
+ NAME_Calamari_P1: "Mol Luxu"
+ NAME_Calamari_P2: "Dac"
+ NAME_Calamari_P2_1: "Mon Calamari"
+ NAME_Calamari_P3: "Iceberg I"
+ NAME_Calamari_P3_1: "Iceberg I Minor"
+ NAME_Calamari_P4: "Iceberg II"
+ NAME_Calamari_P5: "Mon Eron"
+ NAME_Calamari_P5_1: "Mon Eron I"
+ NAME_Calamari_P5_2: "Mon Eron II"
+ NAME_Calamari_P6: "Sep Elopon"
+ NAME_Calamari_P6_1: "Sep Elopon I"
+ NAME_Calamari_P6_2: "Sep Elopon II"
+ NAME_Calamari_P6_3: "Sep Elopon III"
+ NAME_Calamari_P6_4: "Sep Elopon IV"
+ NAME_Calamari_P6_5: "Sep Elopon V"
+ NAME_Calamari_P6_6: "Sep Elopon VI"
+ NAME_Calamari_P6_7: "Sep Elopon VII"
+ NAME_Calamari_P6_8: "Sep Elopon VIII"
+ NAME_Calamari_P6_9: "Sep Elopon IX"
+ NAME_Calamari_P6_10: "Sep Elopon XXXII"
+ NAME_Calamari_P7: "Iceberg III"
+ NAME_Calamari_P8: "Iceberg IV"
+ 
+ #Eridicon
+ NAME_Eridicon: "Eridicon"
+ NAME_Eridicon_S: "Eridicon"
+ NAME_Eridicon_P1: "Eridicon I"
+ NAME_Eridicon_P2: "Eridicon II"
+ NAME_Eridicon_P3: "Eridicon III"
+ NAME_Eridicon_P4: "Eridicon IV"
+ NAME_Eridicon_P5: "Eridicon V"
+ NAME_Eridicon_P6: "Eridicon VI"
+ 
+ #Minntooine
+ NAME_Minntooine: "Minntooine"
+ NAME_Minntooine_S: "Minntooine"
+ NAME_Minntooine_P1: "Minntooine I"
+ NAME_Minntooine_P2: "Minntooine II"
+ NAME_Minntooine_P3: "Minntooine"
+ NAME_Minntooine_P4: "Minntooine IV"
+ NAME_Minntooine_P4_1: "Minntooine IV Minor"
+ NAME_Minntooine_P5: "Minntooine V"
+ NAME_Minntooine_P5_1: "Minntooine Va"
+ NAME_Minntooine_P5_2: "Minntooine Vb"
+ NAME_Minntooine_P5_3: "Minntooine Vc"
+ NAME_Minntooine_P5_4: "Minntooine Vd"
+ NAME_Minntooine_P6: "Minntooine VI"
+ NAME_Minntooine_P6_1: "Minntooine VI Minor"
+ 
+ #Hinakuu
+ NAME_Hinakuu: "Hinakuu"
+ NAME_Hinakuu_S: "Hinakuu"
+ NAME_Hinakuu_P1: "Hinakuu"
+ 
+ #Buchich
+ NAME_Buchich: "Buchich"
+ NAME_Buchich_S: "Buchich"
+ NAME_Buchich_P1: "Buchich"
+ 
+ ### Onderon Systems ###
+ 
+ #Onderon
+ NAME_Japrael: "Japrael"
+ NAME_Japrael_S: "Prael"
+ NAME_Japrael_P1: "Bara"
+ NAME_Japrael_P1_1: "Bara Minor"
+ NAME_Japrael_P2: "Onderon"
+ NAME_Japrael_P2_1: "Dxun"
+ NAME_Japrael_P2_2: "Dagri"
+ NAME_Japrael_P2_3: "Evas"
+ NAME_Japrael_P2_4: "Suthre"
+ NAME_Japrael_P3: "Fillata"
+ NAME_Japrael_P3_1: "Fillata I"
+ NAME_Japrael_P3_2: "Fillata II"
+ NAME_Japrael_P3_3: "Fillata III"
+ NAME_Japrael_P4: "Morvolo"
+ NAME_Japrael_P4_1: "Morvolo I"
+ NAME_Japrael_P4_2: "Morvolo II"
+ NAME_Japrael_P4_3: "Morvolo IV"
+ NAME_Japrael_P5: "Mulchoop"
+ NAME_Japrael_P5_1: "Mulchoop I"
+ NAME_Japrael_P5_2: "Mulchoop II"
+ NAME_Japrael_P5_3: "Mulchoop XXXI"
+ NAME_Japrael_P6: "Caloma"
+ NAME_Japrael_P6_1: "Caloma I"
+ NAME_Japrael_P6_2: "Caloma II"
+ NAME_Japrael_P6_3: "Caloma XXVII"
+ NAME_Japrael_P7: "Twing"
+ NAME_Japrael_P7_1: "Twing I"
+ NAME_Japrael_P7_2: "Twing II"
+ NAME_Japrael_P7_3: "Twing XXII"
+ NAME_Japrael_P8: "Overt" #changed. It was: Twing
+ NAME_Japrael_P8_1: "Overt I" #changed. It was: Twing I
+ NAME_Japrael_P8_2: "Overt II" #changed. It was: Twing II
+ NAME_Japrael_P8_3: "Overt IX" #changed. It was: Twing IX
+ 
+ ### Pantoran Systems ###
+ 
+ #Pantora 
+ NAME_Pantora: "Pantora"
+ NAME_Pantora_S: "Pantora"
+ NAME_Pantora_P1: "Orto Plutonia"
+ NAME_Pantora_P1_1: "Pantora"
+ 
+ #Alzoc 
+ NAME_Alzoc: "Alzoc"
+ NAME_Alzoc_S: "Alzoc"
+ NAME_Alzoc_P1: "Alzoc I"
+ NAME_Alzoc_P2: "Alzoc II"
+ NAME_Alzoc_P3: "Alzoc III"
+ NAME_Alzoc_P4: "Monsolar"
+ NAME_Alzoc_P5: "Alzoc V"
+ NAME_Alzoc_P6: "Alzoc VI"
+ NAME_Alzoc_P7: "Alzoc VII"
+ 
+ ### Rodian Systems ###
+ 
+ #Rodia
+ NAME_Tyrius: "Tyrius"
+ NAME_Tyrius_S: "Tyrius"
+ NAME_Tyrius_P1: "Mikak"
+ NAME_Tyrius_P2: "Rodia"
+ NAME_Tyrius_P2_1: "Yasooska"
+ NAME_Tyrius_P2_2: "Enak"
+ NAME_Tyrius_P2_3: "Eiska"
+ NAME_Tyrius_P2_4: "Soomana"
+ NAME_Tyrius_P3: "Pirdia"
+ NAME_Tyrius_P3_1: "Pirdia I"
+ NAME_Tyrius_P3_2: "Pirdia II"
+ NAME_Tyrius_P3_3: "Pirdia III"
+ NAME_Tyrius_P3_4: "Pirdia IV"
+ NAME_Tyrius_P3_5: "Pirdia V"
+ NAME_Tyrius_P3_6: "Pirdia VI"
+ NAME_Tyrius_P3_7: "Pirdia VII"
+ NAME_Tyrius_P3_8: "Pirdia VIII"
+ NAME_Tyrius_P3_9: "Pirdia IX"
+ NAME_Tyrius_P3_10: "Pirdia X"
+ NAME_Tyrius_P3_11: "Pirdia XI"
+ NAME_Tyrius_P4: "Toosma"
+ NAME_Tyrius_P4_1: "Toosma I"
+ NAME_Tyrius_P4_2: "Toosma II"
+ NAME_Tyrius_P4_3: "Toosma III"
+ NAME_Tyrius_P4_4: "Toosma IV"
+ NAME_Tyrius_P4_5: "Toosma V"
+ NAME_Tyrius_P4_6: "Toosma VI"
+ NAME_Tyrius_P4_7: "Toosma VII"
+ NAME_Tyrius_P4_8: "Toosma VIII"
+ NAME_Tyrius_P4_9: "Toosma IX"
+ NAME_Tyrius_P4_10: "Toosma X"
+ NAME_Tyrius_P4_11: "Toosma XVIII"
+ NAME_Tyrius_P5: "Taoska"
+ 
+ #Utaruun
+ NAME_Utaruun: "Utaruun"
+ NAME_Utaruun_S: "Utaruun"
+ NAME_Utaruun_P1: "Utaruun"
+ 
+ ### Ryloth Systems ###
+ 
+ #Ryloth
+ NAME_Ryloth: "Ryloth"
+ NAME_Ryloth_S: "Ryloth"
+ NAME_Ryloth_P1: "Mon Bala"
+ NAME_Ryloth_P2: "Ryloth"
+ NAME_Ryloth_P2_1: "Ryloth A"
+ NAME_Ryloth_P2_2: "Ryloth B"
+ NAME_Ryloth_P2_3: "Ryloth C"
+ NAME_Ryloth_P2_4: "Ryloth D"
+ NAME_Ryloth_P2_5: "Ryloth E"
+ NAME_Ryloth_P3: "Or Tuma"
+ 
+ ### Senex Systems ###
+ 
+ #Senex 
+ NAME_Senex: "Senex"
+ NAME_Senex_S: "Senex"
+ NAME_Senex_P1: "Senex"
+ 
+ #Caltinia 
+ NAME_Caltinia: "Caltinia"
+ NAME_Caltinia_S: "Caltinia"
+ NAME_Caltinia_P1: "Caltinia"
+ 
+ #Karfeddion 
+ NAME_Karfeddion: "Karfeddion"
+ NAME_Karfeddion_S: "Karfeddion"
+ NAME_Karfeddion_P1: "Karfeddion"
+ 
+ ### Taanab Systems ###
+ 
+ #Taanab
+ NAME_Taanab: "Taanab"
+ NAME_Taanab_S: "Tive"
+ NAME_Taanab_P1: "Myron"
+ NAME_Taanab_P2: "Taanab"
+ NAME_Taanab_P2_1: "Taanab I"
+ NAME_Taanab_P3: "Taum Reese"
+ NAME_Taanab_P3_1: "Taum Reese I"
+ NAME_Taanab_P4: "Jech"
+ NAME_Taanab_P4_1: "Jech I"
+ NAME_Taanab_P4_2: "Jech II"
+ NAME_Taanab_P5: "Mase"
+ NAME_Taanab_P5_1: "Mase I"
+ NAME_Taanab_P5_2: "Mase II"
+ NAME_Taanab_P5_3: "Mase III"
+ NAME_Taanab_P5_4: "Mase IV"
+ NAME_Taanab_P6: "Stamia"
+ NAME_Taanab_P6_1: "Stamia I"
+ NAME_Taanab_P6_2: "Stamia II"
+ NAME_Taanab_P6_3: "Stamia III"
+ NAME_Taanab_P6_4: "Stamia IV"
+ NAME_Taanab_P6_5: "Stamia V"
+ NAME_Taanab_P7: "Simang"
+ NAME_Taanab_P7_1: "Simang I"
+ NAME_Taanab_P7_2: "Simang II"
+ NAME_Taanab_P7_3: "Simang III"
+ NAME_Taanab_P7_4: "Simang IV"
+ NAME_Taanab_P8: "Indar"
+ NAME_Taanab_P8_1: "Indar I"
+ NAME_Taanab_P8_2: "Indar II"
+ 
+ #Tirahnn
+ NAME_Tirahnn: "Tirahnn"
+ NAME_Tirahnn_S: "Tirahnn"
+ NAME_Tirahnn_P1: "Marjune"
+ NAME_Tirahnn_P2: "Tirahnn"
+ NAME_Tirahnn_P2_1: "Tirahnn I"
+ NAME_Tirahnn_P2_2: "Tirahnn II"
+ NAME_Tirahnn_P2_3: "Tirahnn III"
+ NAME_Tirahnn_P2_4: "Tirahnn IV"
+ NAME_Tirahnn_P2_5: "Tirahnn V"
+ NAME_Tirahnn_P2_6: "Tirahnn VI"
+ NAME_Tirahnn_P2_7: "Tirahnn VII"
+ NAME_Tirahnn_P2_8: "Tirahnn VIII"
+ NAME_Tirahnn_P2_9: "Tirahnn IX"
+ NAME_Tirahnn_P3: "Kirian"
+ NAME_Tirahnn_P4: "Ijol"
+ NAME_Tirahnn_P4_1: "Ijol I"
+ NAME_Tirahnn_P4_2: "Ijol II"
+ NAME_Tirahnn_P4_3: "Ijol III"
+ NAME_Tirahnn_P4_4: "Ijol IV"
+ NAME_Tirahnn_P4_5: "Ijol XIV"
+ NAME_Tirahnn_P5: "Kes"
+ 
+ #Lantillies
+ NAME_Lantillies: "Lantillies"
+ NAME_Lantillies_S: "Lantillies"
+ NAME_Lantillies_P1: "Lantillies"
+ 
+ ### Tion Systems ###
+ 
+ #Desevro
+ NAME_Desevro: "Desev"
+ NAME_Desevro_S1: "Desev"
+ NAME_Desevro_S2: "Maugina"
+ NAME_Desevro_P1: "Arjus"
+ NAME_Desevro_P1_1: "Arjus I"
+ NAME_Desevro_P1_2: "Arjus II"
+ NAME_Desevro_P1_3: "Arjus III"
+ NAME_Desevro_P1_4: "Arjus IV"
+ NAME_Desevro_P1_5: "Arjus V"
+ NAME_Desevro_P1_6: "Arjus VI"
+ NAME_Desevro_P1_7: "Arjus VII"
+ NAME_Desevro_P1_8: "Arjus XXXVIII"
+ NAME_Desevro_P2: "Desevro"
+ NAME_Desevro_P2_1: "Mun"
+ NAME_Desevro_P3: "Gauther"
+ 
+ #Lianna
+ NAME_Lianna: "Lianna"
+ NAME_Lianna_S: "Lianna"
+ NAME_Lianna_P1: "Devato"
+ NAME_Lianna_P2: "Geminor"
+ NAME_Lianna_P2_1: "Geminor Minor"
+ NAME_Lianna_P3: "Aradian"
+ NAME_Lianna_P3_1: "Aradian I"
+ NAME_Lianna_P3_2: "Aradian II"
+ NAME_Lianna_P3_3: "Aradian III"
+ NAME_Lianna_P4: "Lianna"
+ NAME_Lianna_P4_1: "Lianna Minor"
+ NAME_Lianna_P5: "Indinor"
+ NAME_Lianna_P5_1: "Indinor Major"
+ NAME_Lianna_P5_2: "Indinor Minor"
+ NAME_Lianna_P6: "Adinal"
+ NAME_Lianna_P6_1: "Adinal I"
+ NAME_Lianna_P6_2: "Adinal II"
+ NAME_Lianna_P6_3: "Adinal III"
+ NAME_Lianna_P6_4: "Adinal VIII"
+ NAME_Lianna_P7: "Niddion"
+ 
+ #Saleucami
+ NAME_Saleucami: "Saleucami"
+ NAME_Saleucami_S: "Stisste"
+ NAME_Saleucami_P1: "Junken"
+ NAME_Saleucami_P2: "Casparar"
+ NAME_Saleucami_P2_1: "Casparar I"
+ NAME_Saleucami_P2_2: "Casparar II"
+ NAME_Saleucami_P2_3: "Casparar III"
+ NAME_Saleucami_P3: "Olamenco"
+ NAME_Saleucami_P4: "Saleucami"
+ NAME_Saleucami_P4_1: "Saleucami Major"
+ NAME_Saleucami_P4_2: "Saleucami Minor"
+ NAME_Saleucami_P5: "Decepino"
+ NAME_Saleucami_P5_1: "Decepino I"
+ NAME_Saleucami_P5_2: "Decepino II"
+ NAME_Saleucami_P5_3: "Decepino III"
+ NAME_Saleucami_P5_4: "Decepino IV"
+ NAME_Saleucami_P5_5: "Decepino IX"
+ NAME_Saleucami_P6: "Pismaria"
+ NAME_Saleucami_P6_1: "Pismaria I"
+ NAME_Saleucami_P6_2: "Pismaria II"
+ NAME_Saleucami_P6_3: "Pismaria III"
+ NAME_Saleucami_P6_4: "Pismaria IV"
+ NAME_Saleucami_P6_5: "Pismaria V"
+ NAME_Saleucami_P6_6: "Pismaria VI"
+ NAME_Saleucami_P6_7: "Pismaria XXXII"
+ NAME_Saleucami_P7: "Tonjumi"
+ 
+ #Centares
+ NAME_Centares: "Centares"
+ NAME_Centares_S: "Centares"
+ NAME_Centares_P1: "Filo"
+ NAME_Centares_P1_1: "Filo I"
+ NAME_Centares_P2: "Ussuis"
+ NAME_Centares_P2_1: "Ussuis I"
+ NAME_Centares_P2_2: "Ussuis II"
+ NAME_Centares_P3: "Centares"
+ NAME_Centares_P4: "Qasqi"
+ NAME_Centares_P4_1: "Qasqi I"
+ NAME_Centares_P4_2: "Qasqi II"
+ NAME_Centares_P4_3: "Qasqi III"
+ NAME_Centares_P4_4: "Qasqi IV"
+ NAME_Centares_P4_5: "Qasqi V"
+ NAME_Centares_P5: "Nizon"
+ NAME_Centares_P5_1: "Nizon I"
+ NAME_Centares_P6: "Ithoon"
+ NAME_Centares_P6_1: "Ithoon I"
+ NAME_Centares_P7: "Far Qasqi"
+ NAME_Centares_P7_1: "Far Qasqi I"
+ NAME_Centares_P7_2: "Far Qasqi II"
+ NAME_Centares_P7_3: "Far Qasqi III"
+ NAME_Centares_P7_4: "Far Qasqi IV"
+ 
+ #The Wheel
+ NAME_Wheel: "Besh Gorgon"
+ NAME_Wheel_S: "Besh Gorgon"
+ NAME_Wheel_P1: "The Wheel"
+ 
+ #New Holstice
+ NAME_New_Holstice: "New Holstice"
+ NAME_New_Holstice_S: "New Holstice"
+ NAME_New_Holstice_P1: "New Holstice"
+ 
+ #Pusat Station
+ NAME_Pusat_Station: "Pusat Station"
+ NAME_Pusat_Station_S: "Pusat Station"
+ NAME_Pusat_Station_P1: "Pusat Station"
+ 
+ #Peg Shar
+ NAME_Peg_Shar: "Peg Shar"
+ NAME_Peg_Shar_S: "Peg Shar"
+ NAME_Peg_Shar_P1: "Peg Shar I"
+ NAME_Peg_Shar_P2: "Peg Shar II"
+ NAME_Peg_Shar_P3: "Peg Shar III"
+ NAME_Peg_Shar_P4: "Peg Shar IV"
+ NAME_Peg_Shar_P5: "Peg Shar V"
+ NAME_Peg_Shar_P6: "Peg Shar VI"
+ 
+ #Tion
+ NAME_Tion: "Tion"
+ NAME_Tion_S1: "Tion A"
+ NAME_Tion_S2: "Tion B"
+ NAME_Tion_P1: "Tion I"
+ NAME_Tion_P2: "Tion II"
+ NAME_Tion_P2_1: "Tion IIa"
+ NAME_Tion_P3: "Tion"
+ NAME_Tion_P3_1: "Tion a"
+ NAME_Tion_P3_2: "Tion b"
+ NAME_Tion_P3_3: "Tion c"
+ NAME_Tion_P4: "Tion IV"
+ NAME_Tion_P4_1: "Tion IVa"
+ NAME_Tion_P4_2: "Tion IVb"
+ NAME_Tion_P4_3: "Tion IVc"
+ NAME_Tion_P4_4: "Tion IVd"
+ NAME_Tion_P5: "Tion V"
+ 
+ ### Trade Federation Systems ###
+ 
+ #Neimodia
+ NAME_Neimodia: "Neimodia"
+ NAME_Neimodia_S: "Nen"
+ NAME_Neimodia_P1: "Deel"
+ NAME_Neimodia_P2: "Moonan"
+ NAME_Neimodia_P2_1: "Moonan I"
+ NAME_Neimodia_P2_2: "Moonan II"
+ NAME_Neimodia_P3: "Neimodia"
+ NAME_Neimodia_P3_1: "Neimodia Minor"
+ NAME_Neimodia_P4: "Saak Sooin"
+ NAME_Neimodia_P5: "Partainu"
+ NAME_Neimodia_P5_1: "Partainu I"
+ NAME_Neimodia_P5_2: "Partainu II"
+ NAME_Neimodia_P5_3: "Partainu III"
+ NAME_Neimodia_P5_4: "Partainu IV"
+ NAME_Neimodia_P5_5: "Partainu V"
+ NAME_Neimodia_P5_6: "Partainu VI"
+ NAME_Neimodia_P5_7: "Partainu VII"
+ 
+ #Foundry
+ NAME_Foundry: "Foundry"
+ NAME_Foundry_S: "Foundry"
+ NAME_Foundry_P1: "Foundry"
+ 
+ #Commenor
+ NAME_Commenor: "Commenor"
+ NAME_Commenor_S: "Commenor"
+ NAME_Commenor_P1: "Commenor"
+ NAME_Commenor_P1_1: "Folor"
+ NAME_Commenor_P1_2: "Brelor"
+ 
+ #Cato Neimodia
+ NAME_Cato_Neimodia: "Cato Neimodia"
+ NAME_Cato_Neimodia_S: "Cato Neimodia"
+ NAME_Cato_Neimodia_P1: "Cato Neimodia I"
+ NAME_Cato_Neimodia_P2: "Cato Neimodia II"
+ NAME_Cato_Neimodia_P3: "Cato Neimodia"
+ NAME_Cato_Neimodia_P3_1: "Cato Neimodia Major"
+ NAME_Cato_Neimodia_P3_2: "Cato Neimodia Minor"
+ NAME_Cato_Neimodia_P4: "Cato Neimodia IV"
+ NAME_Cato_Neimodia_P4_1: "Cato Neimodia IVa"
+ NAME_Cato_Neimodia_P5: "Cato Neimodia V"
+ NAME_Cato_Neimodia_P5_1: "Cato Neimodia Va"
+ NAME_Cato_Neimodia_P5_2: "Cato Neimodia Vb"
+ NAME_Cato_Neimodia_P5_3: "Cato Neimodia Vc"
+ NAME_Cato_Neimodia_P5_4: "Cato Neimodia Vd"
+ NAME_Cato_Neimodia_P5_5: "Cato Neimodia Ve"
+
+ ### Trandoshan Systems ###
+ 
+ #Kashyyyk
+ NAME_Kashyyyk: "Kashyyyk"
+ NAME_Kashyyyk_S: "Kashyyyk"
+ NAME_Kashyyyk_P1: "Taakarroo"
+ NAME_Kashyyyk_P1_1: "Taakarroo Minor"
+ NAME_Kashyyyk_P2: "Kallalarra"
+ NAME_Kashyyyk_P2_1: "Kallalarra I"
+ NAME_Kashyyyk_P2_2: "Kallalarra II"
+ NAME_Kashyyyk_P2_3: "Kallalarra III"
+ NAME_Kashyyyk_P3: "Kashyyyk"
+ NAME_Kashyyyk_P3_1: "Kashyyyk Major"
+ NAME_Kashyyyk_P3_2: "Kashyyyk Minor"
+ NAME_Kashyyyk_P3_3: "Kashyyyk III"
+ NAME_Kashyyyk_P4: "Trandosha"
+ NAME_Kashyyyk_P4_1: "Akoshissss"
+ NAME_Kashyyyk_P4_2: "Wasskah"
+ NAME_Kashyyyk_P5: "Alaris"
+ NAME_Kashyyyk_P5_1: "Alaris Prime"
+ NAME_Kashyyyk_P5_2: "Alaris II"
+ NAME_Kashyyyk_P5_3: "Alaris VIII"
+ NAME_Kashyyyk_P6: "Shurr"
+ NAME_Kashyyyk_P6_1: "Shurr I"
+ NAME_Kashyyyk_P6_2: "Shurr II"
+ NAME_Kashyyyk_P6_3: "Shurr XIV"
+ NAME_Kashyyyk_P7: "Kuhurrik"
+ NAME_Kashyyyk_P7_1: "Kuhurrik I"
+ NAME_Kashyyyk_P7_2: "Kuhurrik II"
+ NAME_Kashyyyk_P7_3: "Kuhurrik XXV"
+ 
+ #Rakhuuun
+ NAME_Rakhuuun: "Rakhuuun"
+ NAME_Rakhuuun_S: "Rakhuuun"
+ NAME_Rakhuuun_P1: "Rakhuuun"
+ 
+ #Kwookrrr
+ NAME_Kwookrrr: "Kwookrrr"
+ NAME_Kwookrrr_S: "Kwookrrr"
+ NAME_Kwookrrr_P1: "Kwookrrr"
+ 
+ ### Trianii Systems ###
+ 
+ #Trian
+ NAME_Trian: "Trian"
+ NAME_Trian_S: "Trian"
+ NAME_Trian_P1: "Trian"
+ 
+ #Pypin
+ NAME_Pypin: "Pypin"
+ NAME_Pypin_S: "Pypin"
+ NAME_Pypin_P1: "Pypin"
+ 
+ #Ekibo
+ NAME_Ekibo: "Ekibo"
+ NAME_Ekibo_S: "Ekibo"
+ NAME_Ekibo_P1: "Ekibo"
+ 
+ #Brochiib
+ NAME_Brochiib: "Brochiib"
+ NAME_Brochiib_S: "Brochiib"
+ NAME_Brochiib_P1: "Brochiib"
+ 
+ #Perin
+ NAME_Perin: "Perin"
+ NAME_Perin_S: "Perin"
+ NAME_Perin_P1: "Perin"
+ 
+ ### Utapauan Systems ###
+ 
+ #Utapau
+ NAME_Utapau: "Utapau"
+ NAME_Utapau_S: "Utapau"
+ NAME_Utapau_P1: "Persoro"
+ NAME_Utapau_P1_1: "Persoro I"
+ NAME_Utapau_P1_2: "Persoro II"
+ NAME_Utapau_P1_3: "Persoro IV"
+ NAME_Utapau_P2: "Taktos"
+ NAME_Utapau_P2_1: "Taktos I"
+ NAME_Utapau_P2_2: "Taktos II"
+ NAME_Utapau_P3: "Unistros"
+ NAME_Utapau_P4: "Utapau"
+ NAME_Utapau_P4_1: "Utapau I"
+ NAME_Utapau_P4_2: "Utapau II"
+ NAME_Utapau_P4_3: "Utapau VIII"
+ NAME_Utapau_P5: "Flauss"
+ NAME_Utapau_P6: "Barbilly"
+ NAME_Utapau_P6_1: "Barbilly I"
+ NAME_Utapau_P6_2: "Barbilly II"
+ NAME_Utapau_P6_3: "Barbilly III"
+ NAME_Utapau_P6_4: "Barbilly IV"
+ NAME_Utapau_P7: "Chem"
+ NAME_Utapau_P7_1: "Chem I"
+ NAME_Utapau_P7_2: "Chem II"
+ NAME_Utapau_P7_3: "Chem III"
+ NAME_Utapau_P7_4: "Chem IV"
+ 
+ ### Verpine Systems ###
+ 
+ #Roche
+ NAME_Roche: "Roche"
+ NAME_Roche_S: "Roche"
+ NAME_Roche_P1: "Nickel One"
+ 
+ ### Zabrak Systems ###
+ 
+ #Iridonia
+ NAME_Iridonia: "Iridonia"
+ NAME_Iridonia_S: "Iridonia"
+ NAME_Iridonia_P1: "Iridonia I"
+ NAME_Iridonia_P2: "Iridonia II"
+ NAME_Iridonia_P2_1: "Iridonia IIa"
+ NAME_Iridonia_P3: "Iridonia III"
+ NAME_Iridonia_P3_1: "Iridonia IIIa"
+ NAME_Iridonia_P3_2: "Iridonia IIIb"
+ NAME_Iridonia_P4: "Iridonia IV"
+ NAME_Iridonia_P4_1: "Iridonia IVa"
+ NAME_Iridonia_P4_2: "Iridonia IVb"
+ NAME_Iridonia_P4_3: "Iridonia IVc"
+ NAME_Iridonia_P4_4: "Iridonia IVd"
+ NAME_Iridonia_P5: "Iridonia V"
+ 
+ ### Zeltros Systems ###
+ 
+ #Zel
+ NAME_Zel: "Zel"
+ NAME_Zel_S: "Zel"
+ NAME_Zel_P1: "Zeloa"
+ NAME_Zel_P1_1: "Zeloa I"
+ NAME_Zel_P1_2: "Zeloa II"
+ NAME_Zel_P1_3: "Zeloa III"
+ NAME_Zel_P1_4: "Zeloa IV"
+ NAME_Zel_P1_5: "Zeloa V"
+ NAME_Zel_P1_6: "Zeloa XIV"
+ NAME_Zel_P2: "Zeldiis"
+ NAME_Zel_P2_1: "Zeldiis I"
+ NAME_Zel_P2_2: "Zeldiis III"
+ NAME_Zel_P3: "Zeltros"
+ NAME_Zel_P3_1: "Zeltros Major"
+ NAME_Zel_P3_2: "Zeltros Minor"
+ NAME_Zel_P4: "Zelvahn"
+ NAME_Zel_P4_1: "Zelvahn I"
+ NAME_Zel_P4_2: "Zelvahn IV"
+ NAME_Zel_P5: "Zellone"
+ NAME_Zel_P5_1: "Zellone I"
+ NAME_Zel_P5_2: "Zellone II"
+ NAME_Zel_P5_3: "Zellone III"
+ NAME_Zel_P5_4: "Zellone IV"
+ NAME_Zel_P5_5: "Zellone V"
+ NAME_Zel_P5_6: "Zellone XIV"
+ 
+ ### Zygerrian Systems ###
+ 
+ #Zygerria
+ NAME_Zygerria: "Zygerria"
+ NAME_Zygerria_S: "Zygerria"
+ NAME_Zygerria_P1: "Zygerria I"
+ NAME_Zygerria_P2: "Zygerria II"
+ NAME_Zygerria_P3: "Zygerria"
+ NAME_Zygerria_P3_1: "Zygerria Minor"
+ NAME_Zygerria_P4: "Zygerria Four"
+ NAME_Zygerria_P5: "Zygerria V"
+ NAME_Zygerria_P5_1: "Zygerria Va" #changed. It was: Kalakar I
+ NAME_Zygerria_P5_2: "Zygerria Vb" #changed. It was: Kalakar II
+ NAME_Zygerria_P5_3: "Zygerria Vc" #changed. It was: Kalakar III
+ NAME_Zygerria_P5_4: "Zygerria Vd" #changed. It was: Kalakar IV
+ 
+ #Quermia
+ NAME_Quermia: "Quermia"
+ NAME_Quermia_S: "Quermia"
+ NAME_Quermia_P1: "Quermia I"
+ NAME_Quermia_P2: "Quermia"
+ NAME_Quermia_P3: "Quermia III"
+ NAME_Quermia_P3_1: "Quermia III Minor"
+ NAME_Quermia_P4: "Quermia IV"
+ NAME_Quermia_P4_1: "Quermia IVa"
+ NAME_Quermia_P4_2: "Quermia IVb"
+ NAME_Quermia_P4_3: "Quermia IVc"
+ NAME_Quermia_P4_4: "Quermia IVd"
+ NAME_Quermia_P4_5: "Quermia IVe"
+ 

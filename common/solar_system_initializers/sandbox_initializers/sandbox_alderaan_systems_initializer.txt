@@ -1,0 +1,236 @@
+#Alderaan
+sandbox_alderaan_system_initializer = {
+	name = "Альдераан"
+	class = "sc_g"
+	flags = {
+		alderaan_homeworld
+		alderaan_start_system
+		canon_map_shipyard_system
+		sandbox_map
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "rebel homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Альдераан-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Райса"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Альдераан"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			set_planet_flag = planet_alderaan
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = kingdom_of_alderaan
+						}
+					}
+				}
+				create_species = {
+					name = "Human"
+					class = HUMAN1
+					portrait = human
+					namelist = "SWP_Human1"
+					homeworld = THIS
+					traits = {
+						trait = "trait_nomadic"
+						trait = "trait_communal"
+						trait = "trait_wasteful"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = alderaanSpecies
+				}
+				create_country = {
+					name = "NAME_kingdom_of_alderaan"
+					adjective = PRESCRIPTED_species_adjective_KingdomofAlderaan
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_restoration"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_rebel_sympathy"
+						civic = "civic_idyllic_charm"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_xenophile"
+						ethic = "ethic_pacifist"
+						ethic = "ethic_egalitarian"
+					}
+					species = event_target:alderaanSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "RepublicLoyalists.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"light_green"
+							"light_green"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = rebel_01
+						set_country_flag = kingdom_of_alderaan
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = kingdom_of_alderaan
+					}
+				}
+			}
+			random_country = {
+				limit = {
+					has_country_flag = kingdom_of_alderaan
+				}
+				save_global_event_target_as = kingdom_of_alderaan
+				species = {
+					save_global_event_target_as = alderaanSpecies
+				}
+			}
+			set_owner = event_target:kingdom_of_alderaan
+			generate_alderaan_buildings = yes
+			generate_25_main_pops = yes
+			prevent_anomaly = yes
+			set_name = "NAME_Alderaan"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:kingdom_of_alderaan
+					graphical_culture = event_target:kingdom_of_alderaan
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Луна Альдераана"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Делайя"
+		class = pc_cascadian
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		init_effect = {
+			set_planet_flag = planet_delaya
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Авирандел"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Авирандел-I"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Авишан"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Альдераан VI"
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}

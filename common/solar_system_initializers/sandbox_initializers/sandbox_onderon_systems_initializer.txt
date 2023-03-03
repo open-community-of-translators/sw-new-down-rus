@@ -1,0 +1,548 @@
+
+# Onderon
+sandbox_japrael_system_initializer = {
+	name = "Джапраэль"
+	class = "sc_g"
+	flags = {
+		onderonian_homeworld
+		onderon_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "onderonian homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Праэль"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Бара"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Бара-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Ондерон"
+		class = pc_forest
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_onderon
+			set_global_flag = onderonian_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = kingdom_of_onderon
+						}
+					}
+				}
+				create_species = {
+					name = "Human"
+					class = HUMAN1
+					portrait = human
+					namelist = "SWP_Human3"
+					homeworld = THIS
+					traits = {
+						trait = "trait_adaptive"
+						trait = "trait_quick_learners"
+						trait = "trait_quarrelsome"
+						ideal_planet_class = "pc_tropical"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = onderonSpecies
+				}
+				create_country = {
+					name = "NAME_kingdom_of_onderon"
+					adjective = PRESCRIPTED_adjective_KingdomofOnderon
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_default"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_survival_skills"
+						civic = "civic_philosopher_king"
+					}
+					authority = auth_imperial
+					ethos = {
+						ethic = "ethic_authoritarian"
+						ethic = "ethic_militarist"
+						ethic = "ethic_xenophobe"
+					}
+					species = event_target:onderonSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "KingdomOfOnderon.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor264"
+							"customcolor264"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_03
+						set_country_flag = kingdom_of_onderon
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = kingdom_of_onderon
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = kingdom_of_onderon
+				}
+				save_global_event_target_as = kingdom_of_onderon
+				species = {
+					save_global_event_target_as = onderonSpecies
+				}
+			}
+			set_owner = event_target:kingdom_of_onderon
+			generate_onderon_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Onderon"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:kingdom_of_onderon
+					graphical_culture = event_target:kingdom_of_onderon
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Дксун"
+			class = pc_forest
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				prevent_anomaly = yes
+				set_planet_flag = planet_dxun
+			}
+		}
+		moon = {
+			name = "Дагри"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эвас"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сутре"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Филлата"
+		class = pc_toxic
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Филлата-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Филлата-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Филлата-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Морволо"
+		class = pc_frozen
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			moon = {
+				name = "Морволо-I"
+				class = random_non_colonizable
+				orbit_distance = 2
+				orbit_angle = {
+					min = 90
+					max = 270
+				}
+				size = {
+					min = 2
+					max = 4
+				}
+			}
+			moon = {
+				name = "Морволо-II"
+				class = random_non_colonizable
+				orbit_distance = 2
+				orbit_angle = {
+					min = 90
+					max = 270
+				}
+				size = {
+					min = 2
+					max = 4
+				}
+			}
+			moon = {
+				name = "Морволо-IV"
+				class = random_non_colonizable
+				orbit_distance = 2
+				orbit_angle = {
+					min = 90
+					max = 270
+				}
+				size = {
+					min = 2
+					max = 4
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Малчуп"
+		class = pc_gas_giant
+		orbit_distance = 70
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Малчуп-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малчуп-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малчуп-XXXI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Калома"
+		class = pc_gas_giant
+		orbit_distance = 70
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Калома-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Калома-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Калома-XXVII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Твинг"
+		class = pc_gas_giant
+		orbit_distance = 70
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Твинг-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Твинг-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Твинг-XXII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Оверт"
+		class = pc_gas_giant
+		orbit_distance = 70
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Оверт-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Оверт-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Оверт-IX"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}

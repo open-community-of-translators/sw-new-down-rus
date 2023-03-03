@@ -1,0 +1,1368 @@
+
+# Enarc
+canon_enarc_system_initializer = {
+	name = "Энарк"
+	class = "rl_standard_stars"
+	flags = {
+		cis_homeworld
+		cis_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "cis homeworld"
+		add_modifier = {
+			modifier = sy_triellus_trade_route
+		}
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Энарк-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Энарк"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_enarc
+			set_global_flag = cis_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = confederate_remnant
+						}
+					}
+				}
+				create_species = {
+					name = "Neimoidian"
+					class = NEI
+					portrait = neimoidian
+					namelist = "Neimoidian"
+					homeworld = THIS
+					traits = {
+						trait = "trait_thrifty"
+						trait = "trait_communal"
+						trait = "trait_weak"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = confederateSpecies
+				}
+				create_country = {
+					name = "NAME_confederate_remnant"
+					adjective = PRESCRIPTED_species_plural_ConfederateRemnant
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_confed_remnant"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_confederate_remnant"
+						civic = "civic_clone_wars_loser"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_authoritarian"
+						ethic = "ethic_militarist"
+						ethic = "ethic_materialist"
+					}
+					species = event_target:confederateSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "ConfederateRemnant.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1583"
+							"customcolor1583"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = cis_01
+						set_country_flag = confederate_remnant
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = confederate_remnant
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = confederate_remnant
+				}
+				save_global_event_target_as = confederate_remnant
+				species = {
+					save_global_event_target_as = confederateSpecies
+				}
+			}
+			set_owner = event_target:confederate_remnant
+			generate_enarc_buildings = yes
+			generate_14_main_12_HUM1_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Enarc"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:confederate_remnant
+					graphical_culture = event_target:confederate_remnant
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}
+
+#Christoph
+christoph_system_initializer = {
+	name = "Кристоф"
+	class = "sc_g"
+	flags = {
+		cis_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Кристоф"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 40
+	}
+	planet = {
+		name = "Кристофсис"
+		class = pc_crystalline
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		entity = "crystalline_planet_01_entity"
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_christophsis
+			add_deposit = d_kyber_vein
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_christophsis_buildings = yes
+				generate_7_HUM1_3_ROD_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Луна Кристофсиса"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 140
+	}
+	planet = {
+		name = "Эродсис"
+		class = pc_gas_giant
+		orbit_distance = 100
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Эродсис-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-VI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Эродсис-XXII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = icy_asteroid_belt
+		radius = 230
+	}
+	planet = {
+		class = pc_ice_asteroid
+		orbit_distance = 20
+		orbit_angle = {
+			min = 40
+			max = 180
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 1
+			max = 2
+		}
+		class = pc_ice_asteroid
+		orbit_distance = 0
+		orbit_angle = {
+			min = 40
+			max = 180
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Gamor
+gamor_system_initializer = {
+	name = "Гамор"
+	class = "rl_standard_stars"
+	flags = {
+		cis_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Гамор-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Гамор"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_gamor
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_ecu_ruined_buildings = yes
+				generate_19_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+#Milagro
+milagro_system_initializer = {
+	name = "Миларго"
+	class = "rl_standard_stars"
+	flags = {
+		cis_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Миларго-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Миларго"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_milagro
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_milagro_buildings = yes
+				generate_19_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Farstine
+farstine_system_initializer = {
+	name = "Фарстин"
+	class = "rl_standard_stars"
+	flags = {
+		cis_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_triellus_trade_route
+		}
+	}
+	planet = {
+		name = "Фарстин-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Фарстин"
+		class = pc_desert
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		entity = "pc_toxic"
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_farstine
+			add_modifier = {
+				modifier = pm_start_world_1
+			}
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_desert_buildings = yes
+				generate_10_SKA_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = random_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Bannistar Station
+bannistar_station_system_initializer = {
+	name = "Станция Баннистар"
+	class = "rl_standard_stars"
+	flags = {
+		cis_start_system
+		starport_start
+		canon_map
+	}
+	planet = {
+		name = "Звезда станции Баннистар"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Баннистар"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Станция Баннистар"
+		class = pc_deep_space_station
+		orbit_distance = 0
+		orbit_angle = 10
+		size = {
+			min = @habitat_min_size
+			max = @habitat_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_station_ind_buildings = yes
+				generate_4_HUM1_pops = yes
+				prevent_anomaly = yes
+				set_planet_entity = {
+					entity = "habitat_phase_01_entity"
+					#graphical_culture = cis_01
+				}
+				set_planet_flag = megastructure
+				set_planet_flag = deep_space_station
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Churba
+churba_system_initializer = {
+	name = "Чурба"
+	class = "rl_standard_stars"
+	flags = {
+		cis_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Чурба-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Барху"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Чурба"
+		class = pc_cascadian
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Новый Ков"
+		class = pc_tropical
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_newcov
+			add_modifier = {
+				modifier = dangerous_wildlife
+			}
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_minor_buildings = yes
+				generate_4_main_4_HUM2_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Чурба IV"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Чурба IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 190
+	}
+	planet = {
+		name = "Чурба V"
+		class = pc_gas_giant
+		orbit_distance = 80
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Чурба Va"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба Vb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба Vc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба Vd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Чурба VI"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Чурба VIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба VIb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба VIc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чурба VId"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Чурба VII"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Чурба VIIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Хурча"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+# Falleen
+falleen_system_initializer = {
+	name = "Фаллин"
+	class = "sc_g"
+	flags = {
+		cis_start_system
+		canon_map
+		starport_start
+	}
+	planet = {
+		name = "Фаллин-Прайм"
+		class = star
+		orbit_distance = 0
+		orbit_angle = 1
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Фаллин I"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Фаллин Ia"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Фаллин II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Фаллин"
+		class = pc_tropical
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_falleen
+			if = {
+				limit = {
+					exists = event_target:confederate_remnant
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:confederate_remnant
+				generate_falleen_buildings = yes
+				generate_10_FAL_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Фаллин IV"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Фаллин IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Фаллин IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Фаллин V"
+		class = pc_gas_giant
+		orbit_distance = 80
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Аллмиттал-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аллмиттал-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аллмиттал-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аллмиттал-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аллмиттал-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аллмиттал-XII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Фаллин IV"
+		class = pc_frozen_desert
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}

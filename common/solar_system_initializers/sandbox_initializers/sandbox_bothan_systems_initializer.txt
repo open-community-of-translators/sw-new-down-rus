@@ -1,0 +1,506 @@
+# Bothawui
+sandbox_both_system_initializer = {
+	name = "Бот"
+	class = "sc_g"
+	flags = {
+		bothan_homeworld
+		bothan_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "bothan homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Бот"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Йелта"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Табос"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Табос-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Табос-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 155
+	}
+	planet = {
+		name = "Ботавуи"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_bothawui
+			set_global_flag = bothan_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = bothan_council
+						}
+					}
+				}
+				create_species = {
+					name = "Bothan"
+					class = BOT
+					portrait = bothan
+					namelist = "Bothan"
+					homeworld = THIS
+					traits = {
+						trait = "trait_intelligent"
+						trait = "trait_communal"
+						trait = "trait_fleeting"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = bothanSpecies
+				}
+				create_country = {
+					name = "NAME_bothan_council"
+					adjective = PRESCRIPTED_species_adjective_BothanCouncil
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_restoration"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_bothan_spies"
+						civic = "civic_environmentalist"
+					}
+					authority = auth_democratic
+					ethos = {
+						ethic = "ethic_egalitarian"
+						ethic = "ethic_pacifist"
+						ethic = "ethic_xenophile"
+					}
+					species = event_target:bothanSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "BothanCouncil.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1704"
+							"customcolor1704"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_03
+						set_country_flag = bothan_council
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = bothan_council
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = bothan_council
+				}
+				save_global_event_target_as = bothan_council
+				species = {
+					save_global_event_target_as = bothanSpecies
+				}
+			}
+			set_owner = event_target:bothan_council
+			generate_bothawui_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Bothawui"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:bothan_council
+					graphical_culture = event_target:bothan_council
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Ботавуи-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ботавуи-II"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ботавуи-III"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Голм"
+		class = pc_gas_giant
+		orbit_distance = 80
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = yes
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Голм-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Голм-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Голм-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Голм-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Голм-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Голм-XXIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Ганаш"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Ганаш-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ганаш-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ганаш-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ганаш-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ганаш-XIV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Хоппавуи"
+		class = pc_barren_cold
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Хоппавуи-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Хоппавуи-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Хоппавуи-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Хоппавуи-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Хоппавуи-VIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Джентавуи"
+		class = pc_frozen
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}

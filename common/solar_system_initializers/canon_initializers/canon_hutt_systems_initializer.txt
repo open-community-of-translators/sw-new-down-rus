@@ -1,0 +1,2267 @@
+#Nal Hutta
+canon_ytoub_system_initializer = {
+	name = "Й'Тоуб"
+	class = "sc_g"
+	flags = {
+		hutt_homeworld
+		hutt_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "hutt homeworld"
+		add_modifier = {
+			modifier = sy_ootmian_pabol
+		}
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Й'Тоуб"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Есям"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Нал Коска"
+		class = pc_mesa
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		modifiers = none
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нал Коска-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нал Коска-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нал Хатта"
+		class = pc_tropical
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = yes
+		entity = "pc_nal_hutta"
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_nal_hutta
+			set_global_flag = hutt_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = hutt_cartel
+						}
+					}
+				}
+				create_species = {
+					name = "Hutt"
+					class = HUT
+					portrait = hutt
+					namelist = "Hutt"
+					homeworld = THIS
+					traits = {
+						trait = "trait_venerable"
+						trait = "trait_slow_breeders"
+						trait = "trait_decadent"
+						ideal_planet_class = "pc_tropical"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = huttSpecies
+				}
+				create_country = {
+					name = "NAME_hutt_cartel"
+					adjective = PRESCRIPTED_adjective_HuttCartel
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_hutt_cartel"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_hutt_cartel"
+						civic = "civic_hutt_elite"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_fanatic_materialist"
+						ethic = "ethic_authoritarian"
+					}
+					species = event_target:huttSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "HuttCartel.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor905"
+							"customcolor905"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = hutt_01
+						set_country_flag = hutt_cartel
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = hutt_cartel
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = hutt_cartel
+				}
+				save_global_event_target_as = hutt_cartel
+				species = {
+					save_global_event_target_as = huttSpecies
+				}
+			}
+			set_owner = event_target:hutt_cartel
+			generate_nal_hutta_buildings = yes
+			generate_8_main_4_HUM2_2_TWI_2_WEE_7_misc_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Nal_Hutta"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:hutt_cartel
+					graphical_culture = event_target:hutt_cartel
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Шаддаа"
+			class = pc_ecumenopolis
+			entity = "ecumenopolis_nar_shaddaa_planet_01_entity"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_max_size
+				max = @moon_planet_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				set_planet_flag = planet_nar_shaddaa
+				add_modifier = {
+					modifier = tidal_locked
+				}
+				if = {
+					limit = {
+						exists = event_target:hutt_cartel
+						NOT = {
+							has_global_flag = non_canon_map_spawned
+						}
+					}
+					set_owner = event_target:hutt_cartel
+					generate_nar_shaddaa_buildings = yes
+					generate_17_misc_pops = yes
+					prevent_anomaly = yes
+				}
+			}
+		}
+		moon = {
+			name = "Нал Хатта-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нал Хатта-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нал Хатта-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нал Хатта-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нал Йешу"
+		class = pc_subarctic
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_nal_yeshu
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_minor_buildings = yes
+				generate_2_main_6_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нал Йешу-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нал Йешу-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Кискуа"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Кискуа-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кискуа-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кискуа-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 7
+				max = 10
+			}
+			modifiers = none
+		}
+		moon = {
+			name = "Кискуа-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кискуа-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нар Некка"
+		class = pc_frozen_desert
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		modifiers = none
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_nar_hekka
+			add_modifier = {
+				modifier = pm_start_world
+			}
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_minor_buildings = yes
+				generate_2_main_6_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+}
+
+# Gamorr
+gamorr_system_initializer = {
+	name = "Опоку"
+	class = "sc_b"
+	flags = {
+		hutt_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_triellus_trade_route
+		}
+	}
+	planet = {
+		name = "Опоку"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Ульклуб"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Аг'гор"
+		class = pc_toxic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Гаморр"
+		class = pc_tropical
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_gamorr
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_gamorr_buildings = yes
+				generate_10_GAM_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Гаморр-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Гаморр-II"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Опьол"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Опьол-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Лок Трул"
+		class = pc_gas_giant
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Лок Трул-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лок Трул-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лок Трул-XI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Тунёк"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+# Nar Bo Sholla
+nar_bo_sholla_system_initializer = {
+	name = "Нар Бо Шолла"
+	class = "sc_k"
+	flags = {
+		hutt_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_ootmian_pabol
+		}
+	}
+	planet = {
+		name = "Нар Бо Шолла Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Нар Бо Шолла I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Бо Шолла Ia"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нар Бо Шолла"
+		class = pc_savannah
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_nar_bo_sholla
+			add_modifier = {
+				modifier = pm_start_world
+			}
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_colony_buildings = yes
+				generate_10_HUM1_pops = yes
+				prevent_anomaly = yes
+				save_global_event_target_as = shipyard_site
+				solar_system = {
+					spawn_megastructure = {
+						type = "swp_orbital_shipyard_0"
+						coords_from = event_target:shipyard_site
+						owner = event_target:hutt_cartel
+						graphical_culture = event_target:hutt_cartel
+					}
+				}
+				clear_global_event_target = shipyard_site
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Нар Бо Шолла III"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Бо Шолла IIIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нар Бо Шолла IV"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Бо Шолла IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVe"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVf"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Бо Шолла IVg"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+# Toydaria
+toydaria_system_initializer = {
+	name = "Тойдария"
+	class = "rl_binary_stars"
+	flags = {
+		hutt_start_system
+		canon_map
+		starport_start
+	}
+	planet = {
+		name = "Тойдар"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Кредквант"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Кредквант-I"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Кредквант-II"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Кредквант-III"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Кредквант-IV"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Нубиса"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 5
+			max = 10
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Тойдария"
+		class = pc_wetswamp
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_toydaria
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_toydaria_buildings = yes
+				generate_1_main_9_TOY_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Тойдария-I"
+			class = pc_hajungle
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 8
+				max = 10
+			}
+			init_effect = {
+				set_planet_flag = planet_rugosa
+			}
+		}
+		moon = {
+			name = "Тойдария-II"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Тойдария-III"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Зиукс"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Зиукс-I"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-II"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-III"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-IV"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-V"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-VI"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-VII"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Зиукс-VIII"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Дальний Зиукс"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Дальний Зиукс I"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Дальний Зиукс II"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Дальний Зиукс III"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Дальний Зиукс IV"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Дальний Зиукс V"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+		moon = {
+			name = "Дальний Зиукс VI"
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Фиу"
+		class = pc_barren_cold
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 5
+			max = 10
+		}
+		change_orbit = @base_moon_dist
+	}
+}
+
+# Nar Kreeta
+nar_kreeta_system_initializer = {
+	name = "Нар Крита"
+	class = "sc_f"
+	flags = {
+		hutt_start_system
+		canon_map
+	}
+	planet = {
+		name = "Нар Крита Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Нар Крита I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Нар Крита II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Крита IIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Крита IIb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Нар Крита"
+		class = pc_mesa
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_nar_kreeta
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_colony_buildings = yes
+				generate_2_main_3_HUM1_5_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Нар Крита IV"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Нар Крита IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Крита IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Крита IVc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Крита IVd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Нар Крита IVe"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+#Du Hutta
+du_hutta_system_initializer = {
+	name = "Дю Хатта"
+	class = "rl_standard_stars"
+	flags = {
+		hutt_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_ootmian_pabol
+		}
+	}
+	planet = {
+		name = "Дю Хатта"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Дю Хатта"
+		class = pc_tropical
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_du_hutta
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = random_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Gos Hutta
+gos_hutta_system_initializer = {
+	name = "Гос Хатта"
+	class = "sc_f"
+	flags = {
+		hutt_start_system
+		canon_map
+		starport_start
+	}
+	asteroid_belt = {
+		type = icy_asteroid_belt
+		radius = 250
+	}
+	planet = {
+		name = "Гос Хатта"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Гос Хатта I"
+		class = pc_desertislands
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Гос Хатта II"
+		class = pc_tropical
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_gos_hutta_ii
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Гос Хатта IIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Гос Хатта III"
+		class = pc_boreal
+		orbit_distance = 50
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Гос Хатта IIIa"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+#Rorak
+rorak_system_initializer = {
+	name = "Рорак"
+	class = "rl_standard_stars"
+	flags = {
+		hutt_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_gamor_run
+		}
+	}
+	planet = {
+		name = "Рорак"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Рорак I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Рорак II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Рорак III"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Рорак IV"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_rorak_iv
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_ecu_ruined_buildings = yes
+				generate_4_main_15_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Рорак V"
+		class = pc_deep_space_station
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @habitat_min_size
+			max = @habitat_max_size
+		}
+		has_ring = no
+		init_effect = {
+			set_planet_entity = {
+				entity = "habitat_phase_01_entity"
+				#graphical_culture = hutt_01
+			}
+			set_planet_flag = megastructure
+			set_planet_flag = deep_space_station
+		}
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Circumtore
+circumtore_system_initializer = {
+	name = "Циркумтор"
+	class = "rl_standard_stars"
+	flags = {
+		hutt_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_gamor_run
+		}
+	}
+	planet = {
+		name = "Циркумтор-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_habitable
+		orbit_distance = 75
+		orbit_angle = 30
+		size = 15
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_circumtore_buildings = yes
+				generate_1_main_9_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_tech
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_seam
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_habitable_damaged
+		orbit_distance = 0
+		orbit_angle = 30
+		size = 15
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_tech
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_seam
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_habitable_damaged
+		orbit_distance = 0
+		orbit_angle = 30
+		size = 15
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_tech
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_seam
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_habitable_damaged
+		orbit_distance = 0
+		orbit_angle = 30
+		size = 15
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_tech
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Циркумтор"
+		class = pc_ringworld_seam
+		orbit_distance = 0
+		orbit_angle = 30
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+# Ilos
+ilos_system_initializer = {
+	name = "Илос"
+	class = "rl_standard_stars"
+	flags = {
+		hutt_start_system
+		canon_map
+		starport_start
+	}
+	planet = {
+		name = "Илос-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Илос"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_ilos
+			add_modifier = {
+				modifier = lush_planet
+			}
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_colony_buildings = yes
+				generate_10_ILO_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = random_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Sleheyron
+sleheyron_system_initializer = {
+	name = "Слехейрон"
+	class = "sc_g"
+	flags = {
+		hutt_start_system
+		canon_map
+	}
+	planet = {
+		name = "Слехейрон-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Слехейрон I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Слехейрон II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Слехейрон"
+		class = pc_searing
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		init_effect = {
+			set_planet_flag = planet_sleheyron
+			if = {
+				limit = {
+					exists = event_target:hutt_cartel
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:hutt_cartel
+				generate_sleheyron_buildings = yes
+				generate_3_main_7_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Слехейрон IV"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Слехейрон IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Слехейрон IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Слехейрон IVc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Слехейрон IVd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Слехейрон IVe"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Слехейрон V"
+		class = random_non_colonizable
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_planet_dist
+	}
+}

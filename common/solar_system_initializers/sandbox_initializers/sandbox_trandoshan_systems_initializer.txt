@@ -1,0 +1,470 @@
+# Kashyyyk
+sandbox_kashyyyk_system_initializer = {
+	name = "Кашиик"
+	class = "sc_g"
+	flags = {
+		trandoshan_homeworld
+		trandoshan_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "trandoshan homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Кашиик-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Таакарроо"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 7
+			max = 7
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Таакарроо-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Каллаларра"
+		class = pc_toxic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 10
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Каллаларра-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Каллаларра-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Каллаларра-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Кашиик"
+		class = pc_forest
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		entity = "forest_kashyyyk_planet_01_entity"
+		init_effect = {
+			set_planet_flag = planet_kashyyyk
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Кашиик-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кашиик-II"
+			class = pc_lake
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+		}
+		moon = {
+			name = "Кашиик-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 170
+	}
+	planet = {
+		name = "Трандоша"
+		class = pc_tropical
+		orbit_distance = 100
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_trandosha
+			set_global_flag = trandoshan_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = trandoshan_tribes
+						}
+					}
+				}
+				create_species = {
+					name = "Trandoshan"
+					class = TRA
+					portrait = trandoshan
+					namelist = "Trandoshan"
+					homeworld = THIS
+					traits = {
+						trait = "trait_very_strong"
+						trait = "trait_enduring"
+						trait = "trait_slow_breeders"
+						trait = "trait_solitary"
+						ideal_planet_class = "pc_tropical"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = trandoshanSpecies
+				}
+				create_country = {
+					name = "NAME_trandoshan_tribes"
+					adjective = PRESCRIPTED_adjective_TrandoshanTribes
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_default"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_trandoshan_tribes"
+						civic = "civic_slaver_guilds"
+					}
+					authority = auth_imperial
+					ethos = {
+						ethic = "ethic_authoritarian"
+						ethic = "ethic_militarist"
+						ethic = "ethic_xenophobe"
+					}
+					species = event_target:trandoshanSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "TrandoshanTribes.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"green"
+							"green"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_01
+						set_country_flag = trandoshan_tribes
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = trandoshan_tribes
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = trandoshan_tribes
+				}
+				save_global_event_target_as = trandoshan_tribes
+				species = {
+					save_global_event_target_as = trandoshanSpecies
+				}
+			}
+			set_owner = event_target:trandoshan_tribes
+			generate_trandosha_buildings = yes
+			generate_17_main_6_WOO_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Trandosha"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:trandoshan_tribes
+					graphical_culture = event_target:trandoshan_tribes
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Акошисссс"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Васскаш"
+			class = pc_forest
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+		}
+	}
+	planet = {
+		name = "Аларис"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Аларис-Прайм"
+			class = pc_forest
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+		}
+		moon = {
+			name = "Аларис-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Аларис-VIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Шурр"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Шурр-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Шурр-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Шурр-XIV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Кухуррик"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Кухуррик-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кухуррик-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Кухуррик-XXV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}

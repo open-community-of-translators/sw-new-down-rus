@@ -1,0 +1,938 @@
+# Ciutric
+canon_ciutric_system_initializer = {
+	name = "Сьютрик"
+	class = "rl_standard_stars"
+	flags = {
+		ciutric_homeworld
+		ciutric_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "ciutric homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Сьютрик-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Сьютрик I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Сьютрик II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Сьютрик IIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Сьютрик III"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Сьютрик IV"
+		class = pc_forest
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_ciutric_iv
+			set_global_flag = ciutric_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = ciutric_hegemony
+						}
+					}
+				}
+				create_species = {
+					name = "Human"
+					class = HUMAN1
+					portrait = human
+					namelist = "SWP_Human4"
+					homeworld = THIS
+					traits = {
+						trait = "trait_adaptive"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = ciutricSpecies
+				}
+				create_country = {
+					name = "NAME_ciutric_hegemony"
+					adjective = PRESCRIPTED_adjective_CiutricHegemony
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_imperial_loyalist"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_technocracy"
+						civic = "civic_nationalistic_zeal"
+					}
+					authority = auth_dictatorial
+					ethos = {
+						ethic = "ethic_militarist"
+						ethic = "ethic_fanatic_materialist"
+					}
+					#ethic = "ethic_authoritarian"
+					species = event_target:ciutricSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "CuitricHegemony.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1870"
+							"customcolor1870"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = imperial_01
+						set_country_flag = ciutric_hegemony
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = ciutric_hegemony
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = ciutric_hegemony
+				}
+				save_global_event_target_as = ciutric_hegemony
+				species = {
+					save_global_event_target_as = ciutricSpecies
+				}
+			}
+			set_owner = event_target:ciutric_hegemony
+			generate_ciutric_iv_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Ciutric_IV"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:ciutric_hegemony
+					graphical_culture = event_target:ciutric_hegemony
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Сьютрик IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик IVc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Сьютрик V"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Сьютрик Va"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик Vb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик Vc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик Vd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сьютрик Ve"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+# Edusa
+edusa_system_initializer = {
+	name = "Эдуса"
+	class = "rl_standard_stars"
+	flags = {
+		ciutric_start_system
+		starport_start
+		canon_map
+	}
+	planet = {
+		name = "Эдуса-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		size = {
+			min = 5
+			max = 10
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Эдуса"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_edusa
+			if = {
+				limit = {
+					exists = event_target:ciutric_hegemony
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:ciutric_hegemony
+				generate_ecu_ruined_buildings = yes
+				generate_19_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		size = {
+			min = 10
+			max = 25
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}
+
+# Vandyne
+vandyne_system_initializer = {
+	name = "Вендин"
+	class = "rl_standard_stars"
+	flags = {
+		ciutric_start_system
+		canon_map
+	}
+	planet = {
+		name = "Вендин-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		size = {
+			min = 5
+			max = 10
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Вендин"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_vandyne
+			if = {
+				limit = {
+					exists = event_target:ciutric_hegemony
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:ciutric_hegemony
+				generate_ecu_ruined_buildings = yes
+				generate_19_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		size = {
+			min = 10
+			max = 25
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}
+
+# Corvis Minor
+corvis_minor_system_initializer = {
+	name = "Малый Корвис"
+	class = "sc_g"
+	flags = {
+		ciutric_start_system
+		canon_map
+	}
+	init_effect = {
+		save_global_event_target_as = midgame_hyper_corvisminor
+	}
+	planet = {
+		name = "Малый Корвис"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Малый Корвис I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Малый Корвис II"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Малый Корвис IIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малый Корвис IIb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Малый Корвис III"
+		class = pc_outback
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_corvis_minor_iii
+			if = {
+				limit = {
+					exists = event_target:ciutric_hegemony
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:ciutric_hegemony
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Малый Корвис IV"
+		class = pc_mangrove
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_corvis_minor_iv
+			if = {
+				limit = {
+					exists = event_target:ciutric_hegemony
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:ciutric_hegemony
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 190
+	}
+	planet = {
+		name = "Малый Корвис V"
+		class = pc_gas_giant
+		orbit_distance = 80
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		entity = hot_gas_giant_02_entity
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Малый Корвис Va"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малый Корвис Vb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малый Корвис Vc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Дистна"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малый Корвис Ve"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Малый Корвис Vf"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+#Axxila
+axxila_system_initializer = {
+	name = "Акзила"
+	class = "rl_standard_stars"
+	flags = {
+		ciutric_start_system
+		starport_start
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_celanon_spur
+		}
+	}
+	planet = {
+		name = "Акзила-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		size = {
+			min = 5
+			max = 10
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+			name = "Акзила"
+		class = pc_ecumenopolis
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_axxila
+			prevent_anomaly = yes
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+				name = "Луна Акзилы I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Акзилы II"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Акзилы III"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		size = {
+			min = 10
+			max = 25
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}

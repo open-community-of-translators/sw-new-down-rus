@@ -1,0 +1,323 @@
+#Neimoidia
+sandbox_neimoidia_system_initializer = {
+	name = "Неймодия"
+	class = "rl_standard_stars"
+	flags = {
+		trade_federation_homeworld
+		trade_fed_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "trade_federation homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Нен"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Дил"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Мунан"
+		class = pc_toxic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Мунан-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Мунан-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Неймодия"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_neimoidia
+			set_global_flag = trade_federation_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = trade_federation
+						}
+					}
+				}
+				create_species = {
+					name = "Neimoidian"
+					class = NEI
+					portrait = neimoidian
+					namelist = "Neimoidian"
+					homeworld = THIS
+					traits = {
+						trait = "trait_thrifty"
+						trait = "trait_communal"
+						trait = "trait_weak"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = tradefedSpecies
+				}
+				create_country = {
+					name = "NAME_trade_federation"
+					adjective = PRESCRIPTED_adjective_TradeFederation
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_confed_remnant"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_trade_federation"
+						civic = "civic_trading_posts"
+					}
+					authority = auth_corporate
+					ethos = {
+						ethic = "ethic_fanatic_materialist"
+						ethic = "ethic_militarist"
+					}
+					species = event_target:tradefedSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "TradeFederation.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor557"
+							"customcolor557"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = cis_01
+						set_country_flag = trade_federation
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = trade_federation
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = trade_federation
+				}
+				save_global_event_target_as = trade_federation
+				species = {
+					save_global_event_target_as = tradefedSpecies
+				}
+			}
+			set_owner = event_target:trade_federation
+			generate_neimoidia_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Neimoidia"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:trade_federation
+					graphical_culture = event_target:trade_federation
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Неймодия-I"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Саак Суин"
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = 2
+	}
+	planet = {
+		name = "Партайну"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Партайну-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-VI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Партайну-VII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}

@@ -1,0 +1,309 @@
+﻿l_russian:
+
+### Rebel Alliance 
+
+# Rebel Alliance Tradition
+ tradition_rebel_alliance: "Альянс повстанцев"
+ tradition_rebel_alliance_desc: "Попытки работать в мошеннической демократической системе Нового порядка потерпели неудачу. Пришло время рассмотреть альтернативы."
+
+ tr_rebel_alliance_adopt: "Традиции Альянса повстанцев"
+#  tr_rebel_alliance_adopt_desc: "$tradition_rebel_alliance_desc$\n\n$tr_rebel_alliance_adopt_effect$\n\n$tr_rebel_alliance_finish_effect$"
+ tr_rebel_alliance_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_DIPLOMACY_INFLUENCE_COST$§! сократился на §G50%§! и §Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§! увеличилось на §G+10%§!и открывает цепочку событий Альянса повстанцев."
+
+ tr_rebel_alliance_makeshift_armadas: "Импровизированные армады"
+ tr_rebel_alliance_makeshift_armadas_delayed: "Хотя нам не хватает промышленной мощи наших противников, наша способность объединять различные ячейки производства дает нам доступ к импровизированному флоту, столь же огромному, хотя и подержанному, как и разнообразному."
+#  tr_rebel_alliance_makeshift_armadas_desc: "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! increased by §G15%§! and §Y$MOD_COUNTRY_COMMAND_LIMIT_ADD$§! increased by §G+30§!."
+
+ tr_rebel_alliance_solidarity: "Повстанческая солидарность"
+ tr_rebel_alliance_solidarity_delayed: "Лишь немногие избранные готовы взяться за оружие и напрямую противостоять Империи, но есть бесчисленное множество тех, кто симпатизирует нашему делу и ненавидит Империю. Хотя Восстанию всегда нужны солдаты, оно никогда не откажется от других форм помощи."
+ tr_rebel_alliance_solidarity_desc: "§Y$MOD_COUNTRY_ENVOYS_ADD$§! увеличиваются на §G1§!\n§YUnlocks Edict:§! Кампания сочувствия повстанцам"
+
+ tr_rebel_alliance_connections: "Повстанческие связи"
+ tr_rebel_alliance_connections_delayed: "TПламя свободы никогда не погаснет. По всей Галактике свободные существа сбрасывают свои цепи и отказываются от оков Империи. По мере роста нашей сети будут расти и наши возможности закрепиться на имперских мирах."
+ tr_rebel_alliance_connections_desc: "Все наши планеты получают §Y1 Тактические дроиды были типом боевых дроидов, предназначенных для планирования боевых стратегий. Компания Baktoid Combat Automata произвела несколько моделей тактических дроидов.§! and allows us to build §YRebel Outposts§! on other worlds."
+
+ tr_rebel_alliance_recruit_cause: "Рекрут для дела"
+ tr_rebel_alliance_recruit_cause_delayed: "С каждым днем к нашему делу присоединяется все больше свободных существ. Многие отправятся на передовую, но еще больше будут служить в тылу, курируя логистику и защищая освобожденную территорию."
+#  tr_rebel_alliance_recruit_cause_desc: "§YBase Trade Protection§! for Trade Routes increased by §G2.5§! and §Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
+
+ tr_rebel_alliance_shared_supplylines: "Общие линии снабжения"
+ tr_rebel_alliance_shared_supplylines_delayed: "С растущим Альянсом растет зависимость от других путей снабжения, общие линии снабжения помогают нашей внутренней сплоченности."
+#tr_rebel_alliance_shared_supplylines_desc: "£electronics£ §Y$electronics$§! increased by §G5%§! from £job£ Jobs and £ammunition£ §Y$ammunition$§! increased by §G5%§! from £job£ Jobs" - Effect not needed
+
+ tr_rebel_alliance_finish: "С традициями Альянса повстанцев покончено"
+ tr_rebel_alliance_finish_effect: "§E$TRADITIONS_FINISH$:§!\nПринятие всех $tr_rebel_alliance_adopt$ увеличит нашу §Y$MOD_COUNTRY_TRUST_CAP_ADD$§! от §G+50§! и наш §Y$MOD_COUNTRY_TRUST_GROWTH$§! by §G+33%§!."
+
+# Rebel Mobility Tradition
+ tradition_rebel_mobility: "Мобильность"
+ tradition_rebel_mobility_desc: "Мобильность является ключом к проецированию власти, а также к уклонению от проецируемой власти других."
+
+ tr_rebel_mobility_adopt: "Традиции мобильности"
+#  tr_rebel_mobility_adopt_desc: "$tr_rebel_mobility_adopt_effect$"
+ tr_rebel_mobility_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§! увеличилось на §G+25%§!."
+
+ tr_rebel_mobility_secret_hq: "Потребность в секретности"
+ tr_rebel_mobility_secret_hq_delayed: "Наши враги не могут уничтожить то, чего не видят. Хотя технологии могут помочь нам избежать обнаружения, ничто не заменит внушение рядовым сотрудникам необходимости соблюдения секретности. Улучшение оперативной безопасности, в свою очередь, облегчит создание плацдармов и колоний на вражеской территории."
+#  tr_rebel_mobility_secret_hq_desc: "§Y$mod_ship_colonizer_cost_mult$§! decreased by §G-25%§! and §Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! increased by §G2§!"
+
+ tr_rebel_mobility_naturally_adaptable: "Естественно адаптируется"
+ tr_rebel_mobility_naturally_adaptable_delayed: "Нет таких трудностей, которые наш народ не претерпел бы, чтобы добиться справедливости."
+#  tr_rebel_mobility_naturally_adaptable_desc: "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! increased by §G+5%§! and increases our §Y$MOD_PLANET_MAX_DISTRICTS_ADD$§! by §Y1§!."
+
+ tr_rebel_mobility_intelligence: "Разведка повстанцев"
+#  tr_rebel_mobility_rebel_intelligence_desc: "§Y$MOD_SHIP_SENSOR_RANGE_ADD$§! increased by §Y1§! and §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§! increased by §G20§!."
+ tr_rebel_mobility_intelligence_delayed: "CОфицеры разведки Альянса, которым поручено как контрразведка, так и шпионаж, отслеживают передвижения наших врагов, скрывая при этом наши собственные."
+
+ tr_rebel_mobility_pocket_resistance: "Карманное сопротивление"
+ tr_rebel_mobility_pocket_resistance_delayed: "Небольшие очаги сопротивления распространились по всей Галактике."
+#  tr_rebel_mobility_pocket_resistance_desc: "+1 Decryption and +1 Encryption"
+
+
+ tr_rebel_mobility_fleet_based_hq: "Штаб флота"
+ tr_rebel_mobility_fleet_based_hq_delayed: "Перенос нашего военно-космического штаба на флоты значительно упростит цепочку управления, позволяя нам выставлять более крупные флоты и координировать более сложные маневры."
+#  tr_rebel_mobility_fleet_based_hq_desc: "§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§! reduced by §G-10%§! and §Y$MOD_COUNTRY_COMMAND_LIMIT_ADD$§! increased by §G20§!."
+
+ tr_rebel_mobility_finish: "Завершение традиции повстанческой мобильности"
+#  tr_rebel_mobility_finish_desc: "Adopting all $tradition_rebel_mobility$ reduces our §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§! by §G10%§!."
+ tr_rebel_mobility_finish_effect: "Небольшие и постоянно меняющиеся локации позволили альянсу повстанцев выжить до сих пор."
+
+# Rebel Mon Calamari Tradition
+ tradition_rebel_mon_cala: "Дизайн Мон'Коламари"
+ tradition_rebel_mon_cala_desc: "Горе тому, кто разбудит спящего Мон'Каламарского левиафана."
+
+ tr_rebel_mon_cala_adopt: "Традиции дизайна Мон'Каламари"
+#  tr_rebel_mon_cala_adopt_desc: "$tradition_rebel_mon_cala_desc$\n\n$tr_rebel_mon_cala_adopt_effect$\n\n$tr_rebel_mon_cala_finished_effect$"
+ tr_rebel_mon_cala_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nWill уменьшить наши §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! by §G-10%§! and уменьшить наши §Y$mod_planet_buildings_cost_mult$§! на §G-10%§!."
+
+ tr_rebel_mon_cala_defenses: "Верфи Мон'Каламари"
+ tr_rebel_mon_cala_defenses_delayed: "Ко времени Галактической гражданской войны верфи, которым более четырех тысяч лет, были известны своими элегантными, обтекаемыми конструкциями кораблей, характеризующимися индивидуальным производством, уникальной конструкцией и скульптурной органической формой корпуса."
+#  tr_rebel_mon_cala_defenses_desc: "Unlocks special §YShip Architecture§!,\n§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! and §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G10%§!."
+
+ tr_rebel_mon_cala_engineers: "Корабельные техники Мон'Каламари"
+ tr_rebel_mon_cala_engineers_delayed: "Как великий скра'аканский хищник, который называет домом самые дальние глубины океанов Мон-Каламари, люди Мон'Кала не спешат гневаться, но внушают страх, когда их разбудят"
+#  tr_rebel_mon_cala_engineers_desc: "§Y$mod_ships_upkeep_mult$§! reduced by §G-5%§! and increases §Y$MOD_SHIP_SHIELD_MULT$§! by §G10%§!."
+
+ tr_rebel_mon_cala_scraps: "Собирайте отходы"
+ tr_rebel_mon_cala_scraps_delayed: "В то время как мон-каламари является бедной ресурсами планетой, этот недостаток только сделал Мон'Каламари исключительно искусными в выжимании последней капли производительности из своих шахт и фабрик."
+#  tr_rebel_mon_cala_scraps_desc: "£electronics£ §Y$mod_country_electronics_produces_mult$§! increased by §G5%§! and £alloys£ §Y$mod_country_alloys_produces_mult$§! increased by §G5%§!."
+
+ tr_rebel_mon_cala_converted: "Преобразованные Гражданские Корабли"
+ tr_rebel_mon_cala_converted_delayed: "Хотя их изящные наклонные линии напоминают о мирных круизах, для которых они изначально были разработаны, крейсеры Мон'Каламари легко приспособились к войне."
+#  tr_rebel_mon_cala_converted_desc: "Decrease §YBuild Cost§! for all §YStar Cruiser Size§! ships by §G-10%§!."
+
+ tr_rebel_mon_cala_shields: "Резервные генераторы щитов"
+#  tr_rebel_mon_cala_shields_desc: "§YShield Regen§! increased by §G1%§!"
+ tr_rebel_mon_cala_shields_delayed: "в конструкциях Мон'Каламари были известны резервные генераторы защитных экранов, количество генераторов защитных экранов позволяло быстрее восполнять энергию."
+
+ tr_rebel_mon_cala_finished: "Традиции дизайна Мон'Каламари"
+ tr_rebel_mon_cala_finished_effect: "§E$TRADITIONS_FINISH$:§!\nПринятие всех $tr_rebel_mon_cala_adopt$ увеличивается §Y$mod_planet_jobs_consumer_goods_produces_mult$§! около §G10%§!."
+
+### Galactic Empire
+
+# Empire Moff Council Tradition
+ tradition_empire_moff_council: "Совет Моффа"
+ tradition_empire_moff_council_desc: "Имперские моффы, которым поручено управлять обширными территориями, должны сбалансировать конкурирующие военные, экономические и политические интересы, выполняя волю императора."
+
+ tr_empire_moff_council_adopt: "Традиции Совета Мофф"
+#  tr_empire_moff_council_adopt_desc: "$tradition_empire_moff_council_desc$\n\n$tr_empire_moff_council_adopt_effect$\n\n$tr_empire_moff_council_finish_effect$"
+ tr_empire_moff_council_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£блокировщик£ §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! уменьшенный на §G33%§! и открывает специальные §YИмперский сектор§! Васал."
+
+ tr_empire_moff_council_sector: "Секторальные Моффы"
+ tr_empire_moff_council_sector_delayed: "Продолжающееся расширение прав и возможностей моффов и продолжающееся лишение гражданских прав Имперского сената создали новые возможности для амбициозных и имеющих хорошие связи."
+#  tr_empire_moff_council_sector_desc: "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§! increased by §Y2§!."
+
+ tr_empire_moff_council_grand: "Гранд Моффы"
+ tr_empire_moff_council_grand_delayed: "С роспуском Имперского Сената и уничтожением последних остатков Старой Республики никто не может отрицать или сопротивляться влиянию Моффов."
+#  tr_empire_moff_council_grand_desc: "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§! increased by §Y2§!."
+
+ tr_empire_moff_council_imperial_assimilation: "Имперская ассимиляция"
+ tr_empire_moff_council_imperial_assimilation_delayed: "Принятие имперских норм имеет много преимуществ, включая более тесную интеграцию в галактическую экономику, доступ к имперским технологиям и защиту от пиратов и рейдеров. Только дурак стал бы сопротивляться. Так делают только предатели."
+#  tr_empire_moff_council_imperial_assimilation_desc: "Will increase our §Y$MOD_COUNTRY_SUBJECT_TRUST_CAP_ADD$§! by §G+50§!"
+
+ tr_empire_moff_council_imperialization: "Империализация"
+ tr_empire_moff_council_imperialization_delayed: "Объединить флоты различных мелких вотчин Галактики, сатрапий, технократий и республик в единую объединенную имперскую силу непросто. Но результаты говорят сами за себя."
+#  tr_empire_moff_council_imperialization_desc: "Every §Y$SUBJECT_vassal$§! increases your §Y$NAVY_SIZE_TITLE$§! by an amount equal to §G+33%§! of theirs."
+
+ tr_empire_moff_council_bleed_them_dry: "Обескровить Их Досуха"
+ tr_empire_moff_council_bleed_them_dry_delayed: "Все гиперплоскости ведут на Корусант и в Императорский дворец. Империя делает все необходимое для обеспечения мира, свободы, справедливости и безопасности галактики."
+#  tr_empire_moff_council_bleed_them_dry_desc: "Every §Y$SUBJECT_vassal$§! increases their §Ytribute§! by §G+25%§!."
+
+ tr_empire_moff_council_finish: "Традиции Совета Моффа Закончились"
+ tr_empire_moff_council_finish_effect: "§E$TRADITIONS_FINISH$:§!\nПринятие всех $tr_empire_moff_council_adopt$ это будет означать, что технология будет разделена между нами и нашими субъектами. Для технологии, которую уже исследовала только одна сторона, другая сторона получит §G+30%§! §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! Бонус."
+
+# Empire COMPNOR Tradition
+ tradition_empire_compnor: "КОМПНОР"
+ tradition_empire_compnor_desc: "Комиссия по сохранению Нового порядка (COMPNOR) является правительственным учреждением, ответственным за продвижение Нового Порядка - идеологии, лежащей в основе Галактической империи."
+
+ tr_empire_compnor_adopt: "КОМПНОР Традиции"
+ tr_empire_compnor_adopt_desc: "§YМаксимальные соперники§! §G+1§!\n§YРазблокирует Указ:§! Кампания Имперского Ордена"
+ tr_empire_compnor_adopt_effect: "§E$TRADITIONS_ADOPT$§!Iувеличивает количество §YMax Rivals§! на §G1§!\n§YUnlocks Edict:§! Тест."
+
+ tr_empire_compnor_enforcement: "Имперское принуждение"
+ tr_empire_compnor_enforcement_delayed: "Сжатый кулак Империи - это все, что отделяет цивилизацию от хаоса. Имперский флот должен поддерживать свою мощь, если мечта императора - выжить."
+#  tr_empire_compnor_enforcement_desc: "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! increased by §G10%§! and §Y$MOD_COUNTRY_COMMAND_LIMIT_ADD$§! increased by §G+30§!."
+
+ tr_empire_compnor_coalition_progress: "Коалиция за прогресс"
+ tr_empire_compnor_coalition_progress_delayed: "\"Сначала мы покажем людям лицо хаоса. Пираты, рейдеры, бандиты и монстры... некоторые из них реальны, но большинство мы выдумываем - все, что угодно, чтобы заставить тупых туземцев просить гарнизон спасти их" - Питина Мар-Мас Вур, председатель Коалиции за прогресс."
+#  tr_empire_compnor_coalition_progress_desc: "Increases £influence£ §Y$mod_rivalries_influence_produces_mult$§! by §G25%§! and our §Y$MOD_COUNTRY_TRUST_GROWTH$§! by §G+33%§!."
+
+ tr_empire_compnor_internal_ubiqtorate: "Убикторат"
+ tr_empire_compnor_internal_ubiqtorate_delayed: "Передача нашей разведки и дипломатического корпуса под контроль Убиктората создаст правительственный аппарат, который будет больше, чем сумма его частей."
+#  tr_empire_compnor_internal_ubiqtorate_desc: "§Y$MOD_COUNTRY_ENVOYS_ADD$§! are increased by §G1§!."
+
+ tr_empire_compnor_frontier_initiative: "Имперская пограничная инициатива"
+ tr_empire_compnor_frontier_initiative_delayed: "Ни один сантиметр земли не должен оставаться необработанным, если он может быть полезен Империи."
+#  tr_empire_compnor_frontier_initiative_desc: "All our planets gain §Y1 Тактические дроиды были типом боевых дроидов, предназначенных для планирования боевых стратегий. Компания Baktoid Combat Automata произвела несколько моделей тактических дроидов.§!."
+
+ tr_empire_compnor_security_bureau: "Имперское бюро безопасности"
+ tr_empire_compnor_security_bureau_delayed:0 "Пираты, повстанцы, гангстеры и монстры: многое происходит в бесконечной ночи космоса. Мужчины и женщины из Бюро Имперской безопасности - это те, кто отвечает взаимностью."
+#  tr_empire_compnor_security_bureau_desc: "§YBase Trade Protection§! for Trade Routes increased by §G5§!."
+
+ tr_empire_compnor_finish: "Традиции КОМПНОРА Закончены"
+ tr_empire_compnor_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_compnor_adopt$ увеличит нашу £влияние£ §Y$mod_country_influence_produces_add$§! Около §Y1§!."
+
+ tr_empire_research_adopt: "Имперские исследовательские традиции"
+#  tr_empire_research_adopt_desc: "$tradition_empire_research_desc$\n\n$tr_empire_research_adopt_effect$\n\n$tr_empire_research_finish_effect$"
+ tr_empire_research_adopt_effect: "§E$TRADITIONS_ADOPT$§! §Y$MOD_SHIP_ANOMALY_RESEARCH_SPEED$§! увеличенный на §G+20%§!."
+
+ tr_empire_research_military: "Имперские военные исследования"
+ tr_empire_research_military_delayed: "Имперский флот может получать львиную долю военных расходов, но Имперская армия и Корпус штурмовиков более чем заслужили свое содержание. В знак признания их роли в Новом порядке Имперское Верховное командование сочло целесообразным выделить новый транш финансирования исследований, направленных на повышение боевой эффективности этих жизненно важных сухопутных войск."
+#  tr_empire_research_military_desc: "§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G5%§! and §Y$MOD_ARMY_UPKEEP_MULT$§! reduced by §G-10%§!."
+
+ tr_empire_research_projects: "Отдел специальных проектов"
+ tr_empire_research_projects_delayed: "Немногие цивилизации обладают ресурсами и технологическими возможностями, необходимыми для реализации действительно новаторских проектов. К счастью, мы - одни из них."
+#  tr_empire_research_projects_desc: "§Y$MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$§! increased by §Y1§! and §Y$MOD_LEADER_SCIENTIST_SKILL_LEVELS$§! increased by §Y2§!."
+
+ tr_empire_research_academy: "Инициатива Таркина"
+ tr_empire_research_academy_delayed: "Император одобрил создание секретного аналитического центра при Имперском военном департаменте по исследованиям передовых вооружений. Эта организация приютит наши самые яркие умы и заставит их работать над проектами, жизненно важными для безопасности Империи."
+#  tr_empire_research_academy_desc: "§Y$MOD_LEADER_SPECIES_EXP_GAIN$§! increased by §G+25%§! and §Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
+
+ tr_empire_research_conviction: "Имперская убежденность"
+ tr_empire_research_conviction_delayed: "Самые яркие умы галактики готовы на многое - включая лишения, цензуру и изоляцию - ради шанса быть так близко к научному величию."
+#  tr_empire_research_conviction_desc: "£pop£ Pops working with §YResearch§! have their §YUpkeep§! reduced by §G20%§!."
+
+ tr_empire_research_firepower: "Подавляющая огневая мощь"
+ tr_empire_research_firepower_delayed: "Военная мощь победила в Войнах клонов, и только дальнейшее развитие военной мощи сохранит мир."
+#  tr_empire_research_firepower_desc: "Unlocks special §YShip Architecture§!,\n§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! and §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G15%§!."
+
+ tr_empire_research_finish: "Имперские Исследовательские Традиции Закончились"
+ tr_empire_research_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_research_adopt$ увеличивает нашу §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! около §G+5%§!."
+  # Bountyhunter Tradition
+ tradition_mando_bountyhunter: "Bounty Hunter"
+ tradition_mando_bountyhunter_desc: "They can bring you in warm... or they can bring you in cold."
+
+ tr_mando_bountyhunter_adopt: "Bounty Hunter Traditions"
+ tr_mando_bountyhunter_adopt_desc: "§YMax Envoys§! §G+1§!"
+ tr_mando_bountyhunter_adopt_effect: "§E$TRADITIONS_ADOPT$§!Increases the number of §YMax Envoys§! by §G1§!"
+
+ tr_mando_bountyhunter_finish: "Bounty Hunter Traditions Finished"
+ tr_mando_bountyhunter_finish_desc: "Unlocks §Y$op_cat_bountyhunter$§! Operations.\nAscension Perks Unlocked: §G+1§!"
+ tr_mando_bountyhunter_finish_effect: "§E$TRADITIONS_FINISH$§!Adopting all $tr_mando_bountyhunter_adopt$ Unlocks §Y$op_cat_bountyhunter$§! Operations.\nAscension Perks Unlocked: §G+1§!"
+ 
+ tr_mando_bountyhunter_1: "Information Gathering"
+ tr_mando_bountyhunter_1_delayed: "Learning about your target is mandatory and can lead to a succesful capture."
+
+ tr_mando_bountyhunter_2: "Shadow Tailing"
+ tr_mando_bountyhunter_2_delayed: "Follow their every movement. Homing beacons, dataspikes, and informants all have their roles to play."
+
+ tr_mando_bountyhunter_3: "Inquisition"
+ tr_mando_bountyhunter_3_delayed: "Getting information with just looking intimidating is a skill not many have. If not, pain is also a possibility."
+
+ tr_mando_bountyhunter_4: "Trophy Collection"
+ tr_mando_bountyhunter_4_delayed: "Sometimes a vast trophy collection is all that is needed. Only a fool would oppose a bounty hunter with a cargo hold full of bounties."
+
+ tr_mando_bountyhunter_5: "The Hunt"
+ tr_mando_bountyhunter_5_delayed: "Dead or alive, you're coming with me."
+
+ # Children of the Watch Tradition
+ tradition_mando_children_watch: "This is the Way"
+ tradition_mando_children_watch_desc: "When one chooses to walk the Way of the Mandalore, you are both hunter and prey."
+ 
+ tr_mando_children_watch_adopt: "This is the Way Traditions"
+ tr_mando_children_watch_adopt_desc: "§YHabitability§! increased by §G+10%§!"
+ tr_mando_children_watch_adopt_effect: "§E$TRADITIONS_ADOPT$§!Increases the §YPlanet Habitability§! by §G10%§!"
+ 
+ tr_mando_children_watch_finish: "This is the Way Traditions Finished"
+ 
+ tr_mando_children_watch_1: "Heritage"
+ tr_mando_children_watch_1_delayed: "Mandalorians where once proud and honorable warriors. Feared and respecting throughout the galaxy."
+
+ tr_mando_children_watch_2: "Creed"
+ tr_mando_children_watch_2_delayed: "The Mandalorian Creed is a code followed by the Mandalorians. It consists of several rules and is the definition of what it means to be a true Mandalorian."
+
+ tr_mando_children_watch_3: "Foundling"
+ tr_mando_children_watch_3_delayed: "The creed states that when a child is orphaned and found by a Mandalorian, they are a foundling and under the protection of the Mandalorian who found them."
+
+ tr_mando_children_watch_4: "Covert"
+ tr_mando_children_watch_4_delayed: "Shunned by the current Mandalorian society, the Children of the Watch cloistered themselves on Concordia."
+ 
+ tr_mando_children_watch_5: "Returning"
+ tr_mando_children_watch_5_delayed: "Foundlings are either returned to their kind or taken in and raised as fellow Mandalorians, protected by whom they where found."
+ 
+ # Mandalmotors Tradition
+ tradition_mando_mandalmotors: "MandalMotors"
+ tradition_mando_mandalmotors_desc: "Backbone of Mandalores economy, producing a wide range of vehicles from tanks to starships and weapons."
+
+ tr_mando_mandalmotors_adopt: "MandalMotors Traditions"
+ 
+ tr_mando_mandalmotors_finish: "MandalMotors Traditions Finished"
+ 
+ tr_mando_mandalmotors_1: "Mandal Designs"
+ tr_mando_mandalmotors_1_delayed: "With a martial heritage stretching back beyond even the formation of the Old Republic, Mandalorians are famed for their single-minded focus on combat effectiveness."
+
+ tr_mando_mandalmotors_2: "Heavy Ordnance"
+ tr_mando_mandalmotors_2_delayed: "Many think they can outsmart Mandalorians. Perhaps, but we have yet to meet any who can outsmart a baradium warhead."
+ 
+ tr_mando_mandalmotors_3: "Headquarters"
+ tr_mando_mandalmotors_3_delayed: "Heart of MandalMotors and where deadly designs are made even more deadly."
+
+ tr_mando_mandalmotors_4: "Testing Grounds"
+ tr_mando_mandalmotors_4_delayed: "The frontlines is the ideal place to test our weapons."
+
+ tr_mando_mandalmotors_5: "Improved Mass Drivers"
+ tr_mando_mandalmotors_5_delayed: "The engineers at MandalMotors have improved the damage of our mass drivers. With an increased rate of fire, our weapons will be the bane of enemy fleets."
+
+ # Crusade Tradition
+ tradition_mando_crusade: "Crusade"
+ tradition_mando_crusade_desc: "Not since the Old Republic has the galaxy trembled before the might of our Mand'alor. We will change that."
+ 
+ tr_mando_crusade_adopt: "Crusade Traditions"
+ 
+ tr_mando_crusade_finish: "Crusade Traditions Finished"
+
+ tr_mando_crusade_1: "New Recruits"
+ tr_mando_crusade_1_delayed: "Our numbers swell as we gather recruits from across the clans and conquered worlds."
+
+ tr_mando_crusade_2: "Preparations"
+ tr_mando_crusade_2_delayed: "The planning has to be as exact and precise as each of our strikes."
+
+ tr_mando_crusade_3: "War Games"
+ tr_mando_crusade_3_delayed: "Simulated skirmishes and battles help prepare our forces for the coming crusade."
+
+ tr_mando_crusade_4: "Reaching to the Stars"
+ tr_mando_crusade_4_delayed: "Kote! Darasuum kote! Jorso'ran kando a tome."
+
+ tr_mando_crusade_5: "Force Projection"
+ tr_mando_crusade_5_delayed: "Sa kyr'am nau tracyn kad, Vode an!"
+
+ # Book of Boba Tradition
+ tradition_mando_book_boba: "Fett Gotra"
+ tradition_mando_book_boba_desc: "We are smarter then them, it is time we took our shot."
+ 
+ tr_mando_book_boba_adopt: "Fett Gotra Traditions"
+
+ tr_mando_book_boba_finish: "Fett Gotra Traditions Finished"
+ 
+ tr_mando_book_boba_1: "What Is Yours"
+ tr_mando_book_boba_1_delayed: "Taking back first what was once yours."
+
+ tr_mando_book_boba_2: "Muscle"
+ tr_mando_book_boba_2_delayed: "You can only get so far without a tribe."
+ 
+ tr_mando_book_boba_3: "Negotiations"
+ tr_mando_book_boba_3_delayed: "Jabba had many vassals. We've got a lot of ground to cover if we are to keep his empire intact."
+
+ tr_mando_book_boba_4: "Daimyo"
+ tr_mando_book_boba_4_delayed: "Jabba ruled with fear. I intend to rule with respect."
+
+ tr_mando_book_boba_5: "Criminal Underworld"
+ tr_mando_book_boba_5_delayed: "You all accrued wealth and riches under Jabba the Hutt. You can again, if you listen to Boba Fett."

@@ -1,0 +1,439 @@
+
+# Utapau
+sandbox_utapau_system_initializer = {
+	name = "Утапау"
+	class = "rl_standard_stars"
+	flags = {
+		utapau_homeworld
+		utapau_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "utapau homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Утапау-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Персосо"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Персосо-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 1
+				max = 2
+			}
+		}
+		moon = {
+			name = "Персосо-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 1
+				max = 2
+			}
+		}
+		moon = {
+			name = "Персосо-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 1
+				max = 2
+			}
+		}
+	}
+	planet = {
+		name = "Тактос"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Тактос-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Тактос-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Унистрос"
+		class = pc_med
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Утапау"
+		class = pc_savannah
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_utapau
+			set_global_flag = utapau_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = utapauan_committee
+						}
+					}
+				}
+				create_species = {
+					name = "Pau'an"
+					class = PAU
+					portrait = pauan
+					namelist = "Pauan"
+					homeworld = THIS
+					traits = {
+						trait = "trait_venerable"
+						trait = "trait_sedentary"
+						trait = "trait_slow_learners"
+						ideal_planet_class = "pc_savannah"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = utapauSpecies
+				}
+				create_country = {
+					name = "NAME_utapauan_committee"
+					adjective = PRESCRIPTED_adjective_UtapauanCommittee
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_default"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_inwards_perfection"
+						civic = "civic_functional_architecture"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_egalitarian"
+						ethic = "ethic_xenophobe"
+						ethic = "ethic_pacifist"
+					}
+					species = event_target:utapauSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "UtapauanCommittee.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor236"
+							"customcolor236"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_03
+						set_country_flag = utapauan_committee
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = utapauan_committee
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = utapauan_committee
+				}
+				save_global_event_target_as = utapauan_committee
+				species = {
+					save_global_event_target_as = utapauSpecies
+				}
+			}
+			set_owner = event_target:utapauan_committee
+			generate_utapau_buildings = yes
+			generate_18_main_5_UTA_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Utapau"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:utapauan_committee
+					graphical_culture = event_target:utapauan_committee
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Утапау-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Утапау-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Утапау-VIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Флосс"
+		class = pc_toxic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Барбилли"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Барбилли-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Барбилли-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Барбилли-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Барбилли-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Чем"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = yes
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Чем-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чем-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чем-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Чем-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}

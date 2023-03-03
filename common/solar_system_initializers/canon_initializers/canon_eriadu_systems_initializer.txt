@@ -1,0 +1,1089 @@
+#Eriadu
+canon_eriadu_system_initializer = {
+	name = "Эриаду"
+	class = "sc_f"
+	flags = {
+		eriadu_homeworld
+		eriadu_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "eriadu homeworld"
+		add_modifier = {
+			modifier = sy_hydian_way
+		}
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Эриаду-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Минтуаду"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Джаруна"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Эринар"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Эринар-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Эриаду"
+		class = pc_ecumenopolis
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_eriadu
+			set_global_flag = eriadu_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = eriadu_authority
+						}
+					}
+				}
+				create_species = {
+					name = "Human"
+					class = HUMAN1
+					portrait = human
+					namelist = "SWP_Human4"
+					homeworld = THIS
+					traits = {
+						trait = "trait_adaptive"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = eriaduSpecies
+				}
+				create_country = {
+					name = "NAME_eriadu_authority"
+					adjective = PRESCRIPTED_species_adjective_EriaduAuthority
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_imperial_loyalist"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_distinguished_admiralty"
+						civic = "civic_cutthroat_politics"
+					}
+					authority = auth_dictatorial
+					ethos = {
+						ethic = "ethic_authoritarian"
+						ethic = "ethic_militarist"
+						ethic = "ethic_xenophobe"
+					}
+					species = event_target:eriaduSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "EriaduAuthority.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1878"
+							"customcolor1878"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = imperial_01
+						set_country_flag = eriadu_authority
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = eriadu_authority
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = eriadu_authority
+				}
+				save_global_event_target_as = eriadu_authority
+				species = {
+					save_global_event_target_as = eriaduSpecies
+				}
+			}
+			set_owner = event_target:eriadu_authority
+			give_start_techs = yes
+			set_name = "NAME_Eriadu"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:eriadu_authority
+					graphical_culture = event_target:eriadu_authority
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Эриаду-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Тарастра"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Тарастра-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Тарастра-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Тарастра-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Тарастра-VII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Келлиаду"
+		class = pc_frozen
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Sullust
+sullust_system_initializer = {
+	name = "Салласт"
+	class = "sc_g"
+	flags = {
+		eriadu_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_rimma_trade_route
+		}
+	}
+	planet = {
+		name = "Салласт-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Саллюмун"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = yes
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Саллюмун-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Саллюмун-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Саллюмун-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Саллюмун-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Саллюмун-XVIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Лунунмо"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = yes
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Лунунмо-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лунунмо-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лунунмо-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лунунмо-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Лунунмо-XXXIV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 180
+	}
+	change_orbit = 30
+	planet = {
+		name = "Салласт"
+		class = pc_searing
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			set_planet_entity = {
+				entity = searing_planet_02_entity
+			}
+			set_planet_flag = planet_sullust
+			if = {
+				limit = {
+					exists = event_target:eriadu_authority
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:eriadu_authority
+				generate_sullust_buildings = yes
+				generate_5_main_9_SUL_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Сулон"
+			class = pc_med
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+		}
+		moon = {
+			name = "Умнуб"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+			init_effect = {
+				set_deposit = d_minerals_6
+			}
+		}
+	}
+	planet = {
+		name = "Мумунубб a"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Мумунубб b"
+		class = pc_frozen
+		orbit_distance = 0
+		orbit_angle = 180
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Colu
+colu_system_initializer = {
+	name = "Колу"
+	class = "sc_a"
+	flags = {
+		eriadu_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_rimma_trade_route
+		}
+	}
+	planet = {
+		name = "Колу"
+		class = star
+		orbit_distance = 0
+		size = 50
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Клак'дор I"
+		class = pc_shattered
+		orbit_distance = 10
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Клак'дор II"
+		class = pc_molten
+		orbit_distance = 40
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Клак'дор III"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Клак'дор IV"
+		class = pc_arid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			add_modifier = {
+				modifier = pm_start_world
+			}
+			if = {
+				limit = {
+					exists = event_target:eriadu_authority
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:eriadu_authority
+				generate_colony_buildings = yes
+				generate_8_BIT_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Клак'дор IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Клак'дор IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Клак'дор V"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Клак'дор Va"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Клак'дор Vb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Клак'дор Vc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Клак'дор Vd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Клак'дор Vl"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 175
+	}
+	planet = {
+		name = "Клак'дор VII"
+		class = pc_mangrove
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_bith
+			if = {
+				limit = {
+					exists = event_target:eriadu_authority
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:eriadu_authority
+				generate_colony_buildings = yes
+				generate_10_BIT_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+}
+
+#Yag'Dhul
+yag_dhul_system_initializer = {
+	name = "Яг'Дул"
+	class = "rl_standard_stars"
+	flags = {
+		eriadu_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_trade_spine
+		}
+	}
+	planet = {
+		name = "Яг'Дул-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		size = {
+			min = 5
+			max = 10
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Яг'Дул"
+		class = pc_searing
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_yagdhul
+			if = {
+				limit = {
+					exists = event_target:eriadu_authority
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:eriadu_authority
+				generate_searing_buildings = yes
+				generate_10_GIV_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Яг'Дул-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 40
+				max = 180
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Яг'Дул-II"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = 120
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Яг'Дул-III"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 40
+				max = 180
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		size = {
+			min = 10
+			max = 25
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}
+
+# Indupar
+indupar_system_initializer = {
+	name = "Индупар"
+	class = "rl_standard_stars"
+	flags = {
+		eriadu_start_system
+		canon_map
+	}
+	planet = {
+		name = "Индупар-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		size = {
+			min = 5
+			max = 10
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Индупар"
+		class = pc_subarctic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_indupar
+			if = {
+				limit = {
+					exists = event_target:eriadu_authority
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:eriadu_authority
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		size = {
+			min = 10
+			max = 25
+		}
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			class = random_non_colonizable
+			size = {
+				min = 2
+				max = 5
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+}

@@ -1,0 +1,441 @@
+
+#Zygerria
+canon_zygerria_system_initializer = {
+	name = "Зайгеррия"
+	class = "sc_g"
+	flags = {
+		zygerrian_homeworld
+		zygerrian_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		save_global_event_target_as = midgame_hyper_zygerria
+		generate_home_system_resources = yes
+		log = "zygerrian homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Зайгеррия-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Зайгеррия I"
+		class = pc_toxic
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+	}
+	planet = {
+		name = "Зайгеррия II"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Зайгеррия"
+		class = pc_mesa
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_zygerria
+			set_global_flag = zygerrian_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = zygerrian_slave_state
+						}
+					}
+				}
+				create_species = {
+					name = "Zygerrian"
+					class = ZYG
+					portrait = zygerrian
+					namelist = "Zygerrian"
+					homeworld = THIS
+					traits = {
+						trait = "trait_rapid_breeders"
+						trait = "trait_quick_learners"
+						trait = "trait_decadent"
+						ideal_planet_class = "pc_mesa"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = zygerrianSpecies
+				}
+				create_country = {
+					name = "NAME_zygerrian_slave_state"
+					adjective = PRESCRIPTED_species_plural_ZygerrianSlaveState
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_default"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_slaver_guilds"
+						civic = "civic_feudal_realm"
+					}
+					authority = auth_imperial
+					ethos = {
+						ethic = "ethic_fanatic_authoritarian"
+						ethic = "ethic_materialist"
+					}
+					species = event_target:zygerrianSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "ZygerrianSlaveState.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1009"
+							"customcolor1009"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_02
+						set_country_flag = zygerrian_slave_state
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = zygerrian_slave_state
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = zygerrian_slave_state
+				}
+				save_global_event_target_as = zygerrian_slave_state
+				species = {
+					save_global_event_target_as = zygerrianSpecies
+				}
+			}
+			set_owner = event_target:zygerrian_slave_state
+			generate_zygerria_buildings = yes
+			generate_13_main_10_misc_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Zygerria"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:zygerrian_slave_state
+					graphical_culture = event_target:zygerrian_slave_state
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Зайгеррия A"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Зайгеррия IV"
+		class = pc_barren_cold
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Зайгеррия V"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Калакар-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Калакар-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Калакар-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Калакар-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}
+
+#Quermia
+quermia_system_initializer = {
+	name = "Квермия"
+	class = "sc_f"
+	flags = {
+		zygerrian_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_perlemian_trade_route
+		}
+	}
+	planet = {
+		name = "Квермия-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Квермия I"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Квермия"
+		class = pc_lake
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_quermia
+			if = {
+				limit = {
+					exists = event_target:zygerrian_slave_state
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:zygerrian_slave_state
+				generate_colony_buildings = yes
+				generate_10_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Квермия III"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Квермия IIIa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Квермия IV"
+		class = random_non_colonizable
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Квермия IVa"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Квермия IVb"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Квермия IVc"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Квермия IVd"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Квермия IVe"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+}

@@ -1,0 +1,443 @@
+
+# Calamari
+sandbox_calamari_system_initializer = {
+	name = "Мон-Каламари"
+	class = "sc_binary_5"
+	flags = {
+		calamari_homeworld
+		calamari_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "calamari homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Дака"
+		class = star
+		orbit_distance = 20
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	planet = {
+		name = "Каламари B"
+		class = star
+		orbit_distance = 20
+		orbit_angle = 180
+		size = 20
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Мол Луксу"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Дак"
+		class = pc_ocean
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_dac
+			set_planet_entity = {
+				picture = pc_dac
+				entity = ocean_dac_planet_01_entity
+			}
+			set_global_flag = calamari_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = mon_cala_monarchy
+						}
+					}
+				}
+				create_species = {
+					name = "Mon Calamari"
+					class = MON
+					portrait = mon_calamari
+					namelist = "Calamari"
+					homeworld = THIS
+					traits = {
+						trait = "trait_intelligent"
+						trait = "trait_quick_learners"
+						trait = "trait_slow_breeders"
+						ideal_planet_class = "pc_ocean"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = calamariSpecies
+				}
+				create_country = {
+					name = "NAME_mon_cala_monarchy"
+					adjective = PRESCRIPTED_species_adjective_MonCalaMonarchy
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_restoration"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_calamari_dynasty"
+						civic = "civic_master_shipbuilders"
+					}
+					authority = auth_monarchy
+					ethos = {
+						ethic = "ethic_egalitarian"
+						ethic = "ethic_materialist"
+						ethic = "ethic_xenophile"
+					}
+					species = event_target:calamariSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "MonCalMonarchy.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor853"
+							"customcolor853"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = rebel_01
+						set_country_flag = mon_cala_monarchy
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = mon_cala_monarchy
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = mon_cala_monarchy
+				}
+				save_global_event_target_as = mon_cala_monarchy
+				species = {
+					save_global_event_target_as = calamariSpecies
+				}
+			}
+			set_owner = event_target:mon_cala_monarchy
+			generate_dac_buildings = yes
+			generate_12_main_11_QUA_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Dac"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_planetary_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:mon_cala_monarchy
+					graphical_culture = event_target:mon_cala_monarchy
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Мон-Каламари"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Айсберг I"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Айсберг Ia"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Айсберг II"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Мон Эрон"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Мон Эрон I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Мон Эрон II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Сеп Элопон"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		has_ring = yes
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Сеп Элопон I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон VI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон VII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон VIII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон IX"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Сеп Элопон XXXII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Айсберг III"
+		class = pc_frozen
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Айсберг IV"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}

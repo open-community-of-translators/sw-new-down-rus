@@ -1,0 +1,209 @@
+
+# Cathar
+sandbox_cathar_system_initializer = {
+	name = "Катар"
+	class = "sc_g"
+	flags = {
+		cathar_homeworld
+		cathar_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "cathar homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Катар-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Катар"
+		class = pc_prairie
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_cathar
+			set_global_flag = cathar_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = cathar_principality
+						}
+					}
+				}
+				create_species = {
+					name = "Cathar"
+					class = CAT
+					portrait = cathar
+					namelist = "Cathar"
+					homeworld = THIS
+					traits = {
+						trait = "trait_very_strong"
+						trait = "trait_solitary"
+						ideal_planet_class = "pc_prairie"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = catharSpecies
+				}
+				create_country = {
+					name = "NAME_cathar_principality"
+					adjective = PRESCRIPTED_species_adjective_CatharPrincipality
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_default"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_shadow_council"
+						civic = "civic_environmentalist"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_egalitarian"
+						ethic = "ethic_spiritualist"
+						ethic = "ethic_xenophile"
+					}
+					species = event_target:catharSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "CatharPrincipality.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor488"
+							"customcolor488"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = misc_01
+						set_country_flag = cathar_principality
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = cathar_principality
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = cathar_principality
+				}
+				save_global_event_target_as = cathar_principality
+				species = {
+					save_global_event_target_as = catharSpecies
+				}
+			}
+			set_owner = event_target:cathar_principality
+			generate_cathar_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Cathar"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:cathar_principality
+					graphical_culture = event_target:cathar_principality
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Луна Катара"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = random_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}

@@ -1,0 +1,939 @@
+# Corellia
+canon_corellia_system_initializer = {
+	name = "Кореллия"
+	class = "sc_f"
+	flags = {
+		corellian_homeworld
+		corellian_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "corellian homeworld"
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Корелл"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Кореллия"
+		class = pc_continental
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_corellia
+			set_global_flag = corellian_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = corellian_security
+						}
+					}
+				}
+				create_species = {
+					name = "Human"
+					class = COR
+					portrait = human
+					namelist = "Corellian"
+					homeworld = THIS
+					traits = {
+						trait = "trait_conformists"
+						trait = "trait_nomadic"
+						trait = "trait_wasteful"
+						ideal_planet_class = "pc_continental"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = corellianSpecies
+				}
+				create_country = {
+					name = "NAME_corellian_security"
+					adjective = PRESCRIPTED_species_adjective_CorellianSecurity
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_corsec"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_corellian"
+						civic = "civic_free_haven"
+					}
+					authority = auth_democratic
+					ethos = {
+						ethic = "ethic_egalitarian"
+						ethic = "ethic_materialist"
+						ethic = "ethic_xenophile"
+					}
+					species = event_target:corellianSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "CorSec.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor1456"
+							"customcolor1456"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = corellian_01
+						set_country_flag = corellian_security
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = canon_map
+						save_global_event_target_as = corellian_security
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = corellian_security
+				}
+				save_global_event_target_as = corellian_security
+				species = {
+					save_global_event_target_as = corellianSpecies
+				}
+			}
+			set_owner = event_target:corellian_security
+			generate_corellia_buildings = yes
+			generate_10_main_3_SEL_2_DRL_8_misc_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Corellia"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_1"
+					coords_from = event_target:shipyard_site
+					owner = event_target:corellian_security
+					graphical_culture = event_target:corellian_security
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Гас Тэлон"
+			class = pc_lake
+			orbit_distance = 3
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = @moon_planet_min_size
+				max = @moon_planet_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				prevent_anomaly = yes
+				if = {
+					limit = {
+						exists = event_target:corellian_security
+					}
+					set_owner = event_target:corellian_security
+					generate_minor_buildings = yes
+					generate_5_main_3_SEL_pops = yes
+				}
+			}
+		}
+		moon = {
+			name = "Луна Кореллии"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Гус Трета"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Дролл"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_drall
+			if = {
+				limit = {
+					exists = event_target:corellian_security
+				}
+				set_owner = event_target:corellian_security
+				generate_minor_buildings = yes
+				generate_8_DRL_pops = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Талус"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_talus
+		}
+		change_orbit = @base_moon_dist
+	}
+	# planet = {
+	# 	name = "Centerpoint Station"
+	# 	class = pc_centerpoint_station
+	# 	orbit_distance = { min = 30 max = 30 }
+	# 	orbit_angle = { min = 40 max = 180 }
+	# 	size = 2
+	# 	has_ring = no
+	# 	change_orbit = @base_moon_dist
+	# }
+	planet = {
+		name = "Тралус"
+		class = pc_continental
+		orbit_distance = 0
+		orbit_angle = 8
+		size = {
+			min = @small_planet_min_size
+			max = @small_planet_max_size
+		}
+		has_ring = no
+		init_effect = {
+			set_planet_flag = planet_tralus
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Селония"
+		class = pc_desertislands
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_selonia
+			if = {
+				limit = {
+					exists = event_target:corellian_security
+				}
+				set_owner = event_target:corellian_security
+				generate_selonia_buildings = yes
+				generate_10_SEL_pops = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Кроллия"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Сорония"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Кайрис 3"
+		class = pc_asteroid
+		orbit_distance = 29
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = 1
+	}
+	planet = {
+		name = "Кайрис 17"
+		class = pc_asteroid
+		orbit_distance = 1
+		orbit_angle = 2
+		size = 1
+	}
+	planet = {
+		name = "Кайрис 6"
+		class = pc_asteroid
+		orbit_distance = 1
+		orbit_angle = -3
+		size = 1
+	}
+	asteroid_belt = {
+		type = rocky_asteroid_belt
+		radius = 270
+	}
+}
+
+#Rydonni Prime
+rydonni_prime_system_initializer = {
+	name = "Намарин"
+	class = "rl_standard_stars"
+	flags = {
+		corellian_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Райдо"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Райдонни-Прайм"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_rydonni_prime
+			if = {
+				limit = {
+					exists = event_target:corellian_security
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:corellian_security
+				generate_ecu_ruined_buildings = yes
+				generate_19_main_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Duro
+duro_system_initializer = {
+	name = "Дуро"
+	class = "sc_g"
+	flags = {
+		corellian_start_system
+		canon_map
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_trade_spine
+		}
+	}
+	planet = {
+		name = "Дуро-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Лорс"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Лорс-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 3
+				max = 6
+			}
+		}
+	}
+	planet = {
+		name = "Дуро"
+		class = pc_nuked
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @normal_planet_min_size
+			max = @normal_planet_max_size
+		}
+		has_ring = no
+		init_effect = {
+			set_planet_flag = planet_duro
+			set_planet_entity = {
+				picture = pc_kessel
+				entity = tropical_duro_planet_01_entity
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Орбитальный город I"
+			class = pc_deep_space_station
+			orbit_distance = 2
+			orbit_angle = {
+				min = 40
+				max = 180
+			}
+			size = {
+				min = @habitat_min_size
+				max = @habitat_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				if = {
+					limit = {
+						exists = event_target:corellian_security
+						NOT = {
+							has_global_flag = non_canon_map_spawned
+						}
+					}
+					set_owner = event_target:corellian_security
+					generate_station_buildings = yes
+					generate_4_DUR_pops = yes
+					prevent_anomaly = yes
+				}
+				set_planet_entity = {
+					entity = "habitat_phase_01_entity"
+					#graphical_culture = corellian_01
+				}
+				set_planet_flag = megastructure
+				set_planet_flag = deep_space_station
+			}
+		}
+		moon = {
+			name = "Орбитальный город II"
+			class = pc_deep_space_station
+			orbit_distance = 0
+			orbit_angle = 90
+			size = {
+				min = @habitat_min_size
+				max = @habitat_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				if = {
+					limit = {
+						exists = event_target:corellian_security
+						NOT = {
+							has_global_flag = non_canon_map_spawned
+						}
+					}
+					set_owner = event_target:corellian_security
+					generate_station_buildings = yes
+					generate_4_DUR_pops = yes
+					prevent_anomaly = yes
+				}
+				set_planet_entity = {
+					entity = "habitat_phase_01_entity"
+					#graphical_culture = corellian_01
+				}
+				set_planet_flag = megastructure
+				set_planet_flag = deep_space_station
+			}
+		}
+		moon = {
+			name = "Орбитальный город III"
+			class = pc_deep_space_station
+			orbit_distance = 0
+			orbit_angle = 90
+			size = {
+				min = @habitat_min_size
+				max = @habitat_max_size
+			}
+			deposit_blockers = none
+			init_effect = {
+				if = {
+					limit = {
+						exists = event_target:corellian_security
+						NOT = {
+							has_global_flag = non_canon_map_spawned
+						}
+					}
+					set_owner = event_target:corellian_security
+					generate_station_buildings = yes
+					generate_4_DUR_pops = yes
+					prevent_anomaly = yes
+				}
+				set_planet_entity = {
+					entity = "habitat_phase_01_entity"
+					#graphical_culture = corellian_01
+				}
+				set_planet_flag = megastructure
+				set_planet_flag = deep_space_station
+			}
+		}
+	}
+	planet = {
+		name = "Коли"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Коли-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Коли-II"
+			class = pc_barren_cold
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Дуро IV"
+		class = pc_ice_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+# Loronar
+loronar_system_initializer = {
+	name = "Лоронар"
+	class = "rl_standard_stars"
+	flags = {
+		corellian_start_system
+		canon_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_run
+		}
+	}
+	planet = {
+		name = "Лоронар-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		count = {
+			min = 2
+			max = 3
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 1
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Лоронар"
+		class = pc_ecumenopolis
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			set_planet_flag = planet_loronar
+			if = {
+				limit = {
+					exists = event_target:corellian_security
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:corellian_security
+				generate_loronar_buildings = yes
+				generate_23_main_pops = yes
+				prevent_anomaly = yes
+				save_global_event_target_as = shipyard_site
+				solar_system = {
+					spawn_megastructure = {
+						type = "swp_planetary_shipyard_0"
+						coords_from = event_target:shipyard_site
+						owner = event_target:corellian_security
+						graphical_culture = event_target:corellian_security
+					}
+				}
+				clear_global_event_target = shipyard_site
+			}
+		}
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		count = {
+			min = 3
+			max = 4
+		}
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 0
+				max = 2
+			}
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		class = pc_asteroid
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+	}
+}
+
+#Hosnian
+hosnian_system_initializer = {
+	name = "Хосниан"
+	class = "rl_standard_stars"
+	flags = {
+		corellian_start_system
+		canon_map
+		starport_start
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_corellian_trade_spine
+		}
+	}
+	planet = {
+		name = "Хосниан"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Коуртсилиус"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Райшо"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 40
+			max = 180
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Хосниан-Прайм"
+		class = pc_ecumenopolis_ruined
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = @ecumenopolis_min_size
+			max = @ecumenopolis_max_size
+		}
+		has_ring = no
+		deposit_blockers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_hosnian_prime
+			if = {
+				limit = {
+					exists = event_target:corellian_security
+					NOT = {
+						has_global_flag = non_canon_map_spawned
+					}
+				}
+				set_owner = event_target:corellian_security
+				generate_ecu_ruined_buildings = yes
+				generate_19_misc_pops = yes
+				prevent_anomaly = yes
+			}
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Хосниан-Прайм-I"
+			class = pc_barren
+			orbit_distance = 2
+			orbit_angle = {
+				min = 40
+				max = 180
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Кардота"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 40
+			max = 180
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+	planet = {
+		name = "Хосниан V"
+		class = random_non_colonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 40
+			max = 180
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+	}
+}

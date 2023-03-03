@@ -1,0 +1,369 @@
+# Csilla
+sandbox_csilla_system_initializer = {
+	name = "Ксилла"
+	class = "sc_k"
+	flags = {
+		chiss_homeworld
+		chiss_start_system
+		sandbox_map
+		canon_map_shipyard_system
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "chiss_homeworld"
+		add_modifier = {
+			modifier = sy_unknown_regions
+		}
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Ксилла-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Кессед"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Кессед-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Ксилла"
+		class = pc_glacial
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_csilla
+			set_global_flag = chiss_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = chiss_ascendancy
+						}
+					}
+				}
+				create_species = {
+					name = "Chiss"
+					class = CHS
+					portrait = chiss
+					namelist = "Chiss"
+					homeworld = THIS
+					traits = {
+						trait = "trait_intelligent"
+						trait = "trait_talented"
+						trait = "trait_solitary"
+						ideal_planet_class = "pc_glacial"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = chissSpecies
+				}
+				create_country = {
+					name = "NAME_chiss_ascendancy"
+					adjective = PRESCRIPTED_species_adjective_ChissAscendancy
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_ascendancy"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_chiss_houses"
+						civic = "civic_aristocratic_elite"
+					}
+					authority = auth_oligarchic
+					ethos = {
+						ethic = "ethic_authoritarian"
+						ethic = "ethic_fanatic_xenophobe"
+					}
+					species = event_target:chissSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "ChissAscendancy.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor777"
+							"customcolor777"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = chiss_01
+						set_country_flag = chiss_ascendancy
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = chiss_ascendancy
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = chiss_ascendancy
+				}
+				save_global_event_target_as = chiss_ascendancy
+				species = {
+					save_global_event_target_as = chissSpecies
+				}
+			}
+			set_owner = event_target:chiss_ascendancy
+			generate_csilla_buildings = yes
+			generate_25_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Csilla"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:chiss_ascendancy
+					graphical_culture = event_target:chiss_ascendancy
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Ксилла-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ксилла-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ксилла-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Репплик"
+		class = pc_gas_giant
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Репплик-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-III"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-VI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Репплик-XXII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Ксорб"
+		class = pc_frozen
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Ксорб-I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Ксорб-II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Формак"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+	}
+}

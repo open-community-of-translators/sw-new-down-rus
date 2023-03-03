@@ -1,0 +1,1619 @@
+########################
+# SWND Special Systems #
+########################
+ptra_system_initializer = {
+	name = "Птра"
+	class = "sc_g"
+	flags = {
+		warhammer_fantasy
+	}
+	init_effect = {
+		add_modifier = {
+			modifier = sy_unknown_regions
+		}
+		create_p_purple_space = yes
+	}
+	planet = {
+		name = "Птра"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Морр"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+	}
+	planet = {
+		name = "Сигмар"
+		class = pc_barren
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+	}
+	planet = {
+		name = "Скавенблайт"
+		class = pc_continental
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		deposit_blockers = none
+		modifiers = none
+		change_orbit = @base_moon_dist
+		init_effect = {
+			set_planet_flag = planet_skavenblight
+			add_modifier = {
+				modifier = dangerous_wildlife
+			}
+			add_modifier = {
+				modifier = atmospheric_hallucinogen
+			}
+			prevent_anomaly = yes
+			random_list = {
+				100 = {
+					while = {
+						count = 12
+						generate_SkavenPop = yes
+					}
+					create_country = {
+						name = "NAME_Skaven_Under_Empire"
+						civics = {
+							civic = civic_barbaric_despoilers
+							civic = civic_warrior_culture
+						}
+						authority = auth_oligarchic
+						species = event_target:SkavenSpecies
+						ethos = {
+							ethic = "ethic_fanatic_militarist"
+							ethic = "ethic_xenophobe"
+						}
+						type = primitive
+					}
+					last_created_country = {
+						set_graphical_culture = misc_01
+						set_country_flag = sw_minor_faction
+						set_primitive_age = sw_minor_faction
+						save_global_event_target_as = skaven_faction
+					}
+					add_building = building_primitive_capital
+					add_building = building_primitive_farm
+					add_building = building_primitive_mine
+					add_building = building_primitive_power_plant
+					add_building = building_primitive_factory
+					add_building = building_urban_dwellings
+					last_created_country = {
+						capital_scope = {
+							set_name = "Skavenblight"
+						}
+					}
+				}
+			}
+		}
+		moon = {
+			name = "Маннслиб"
+			class = pc_salt
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Моррслиб"
+			class = pc_toxic
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 3
+				max = 5
+			}
+		}
+	}
+	planet = {
+		name = "Валая"
+		class = pc_megaflora_uncolonizable
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 1
+				max = 2
+			}
+			size = {
+				min = 2
+				max = 6
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 5
+		}
+	}
+	# Hoard
+	planet = {
+		count = 1
+		orbit_distance = 20
+		orbit_angle = 20
+		size = 5
+		has_ring = no
+		init_effect = {
+			set_name = "NAME_Dragons_Hoard"
+			set_planet_flag = hoard_planet
+			save_global_event_target_as = guardian_dragon_planet
+			prevent_anomaly = yes
+			#set_deposit = d_guardian_dragon_hoard
+			create_country = {
+				name = "NAME_Voidwyrm"
+				type = guardian_dragon
+				flag = {
+					icon = {
+						category = "spherical"
+						file = "flag_spherical_6.dds"
+					}
+					background = {
+						category = "backgrounds"
+						file = "00_solid.dds"
+					}
+					colors = {
+						"dark_blue"
+						"dark_blue"
+						"null"
+						"null"
+					}
+				}
+			}
+			last_created_country = {
+				save_global_event_target_as = guardian_dragon_country
+				set_country_flag = dragon_country
+			}
+			create_fleet = {
+				name = "NAME_Fateclaw"
+				settings = {
+					spawn_debris = no
+					is_boss = yes
+				}
+				effect = {
+					set_owner = event_target:guardian_dragon_country
+					create_ship = {
+						name = "NAME_Fateclaw"
+						design = "NAME_Shard_Dragon"
+					}
+					set_fleet_flag = dragon_fleet
+					set_location = event_target:guardian_dragon_planet
+					set_fleet_stance = aggressive
+					set_aggro_range_measure_from = self
+					set_aggro_range = 500
+					queue_actions = {
+						repeat = {
+							find_closest_planet = {
+								trigger = {
+									id = fate.home.1
+									is_star = yes
+								}
+								found_planet = {
+									move_to = this
+									orbit_planet = this
+									wait = {
+										duration = 30
+										random = 20
+									}
+								}
+							}
+							find_closest_planet = {
+								trigger = {
+									id = fate.home.2
+									is_star = no
+									NOT = {
+										is_same_value = event_target:guardian_dragon_planet
+									}
+								}
+								found_planet = {
+									move_to = this
+									orbit_planet = this
+									wait = {
+										duration = 30
+										random = 20
+									}
+								}
+							}
+							find_closest_planet = {
+								trigger = {
+									id = fate.home.3
+									is_same_value = event_target:guardian_dragon_planet
+								}
+								found_planet = {
+									move_to = this
+									orbit_planet = this
+									wait = {
+										duration = 30
+										random = 20
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Азуриан"
+		class = pc_gas_giant
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		has_ring = yes
+		change_orbit = @base_moon_dist
+		moon = {
+			count = {
+				min = 2
+				max = 8
+			}
+			size = {
+				min = 2
+				max = 5
+			}
+			class = random_non_colonizable
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			orbit_distance = 2
+		}
+	}
+	planet = {
+		name = "Ульрик"
+		class = pc_frozen
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 20
+			max = 25
+		}
+		has_ring = yes
+	}
+}
+
+#Credit System
+credits_pdg_initializer = {
+	name = "Initial Release Credits"
+	class = "sc_magnetar"
+	flags = {
+		credit_system
+	}
+	planet = {
+		name = "PDG Credits"
+		class = star
+		orbit_distance = 0
+		orbit_angle = {
+			min = 0
+			max = 360
+		}
+		size = 25
+		init_effect = {
+			clear_deposits = yes
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Lead Developers"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 0
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Akyla"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Bane"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @senary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Elratie"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @senary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Harain"
+			class = pc_shielded
+			orbit_distance = 0
+			orbit_angle = @senary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Shaggo"
+			class = pc_shattered
+			orbit_distance = 0
+			orbit_angle = @senary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+				set_deposit = d_energy_10
+			}
+		}
+		moon = {
+			name = "Snapstyle"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @senary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "2D Artist"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 180
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Boots"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Cutter Slade"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Dirty Chewbacca"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Kharak"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Quinn"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Shuulo"
+			class = pc_nuked_uncolonizable
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = army_rank_elite
+				}
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Yaan"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "3D Artist"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 90
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "ArvisTaljik"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Grinsel (G-man)"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @ternary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Zo0r"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @ternary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Events"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 180
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "The24thDS"
+			class = pc_primal_uncolonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "PrattPratt"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Defiance"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "HomoAspien"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "IRONHEARTBB"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Jake"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Kaiser"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Kurzonmorris"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Madventurer"
+			class = "rl_planets_credits"
+			orbit_distance = 5
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Teindrcah"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @binary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Localisation"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 135
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Tootastic"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Baahb"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "AnimeInspector"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "BattleFrontline"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Elusive"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "MerlinTheMighty"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Razorix22"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "The Commissar"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Thinkblu3"
+			class = "rl_planets_credits"
+			orbit_distance = 5
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Varangian Succ"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @binary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Map"
+		class = pc_superhabitable_uncolonizable
+		orbit_distance = 40
+		orbit_angle = 180
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Chriskar"
+			class = pc_desertislands_uncolonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "PR"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 90
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Thronebane (Potato)"
+			class = pc_tidallylocked_uncolonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "The Pretender"
+			class = pc_glacial_uncolonizable
+			orbit_distance = 0
+			orbit_angle = @binary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Other"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 90
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Clockwork Hades"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Dayshine"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @binary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	init_effect = {
+		save_global_event_target_as = pdg_credits_system
+	}
+}
+
+# Credits
+credits_contributors_initializer = {
+	name = "Initial Contributors Credits"
+	class = "rl_credit_stars"
+	planet = {
+		name = "Contributors Credits"
+		class = star
+		orbit_distance = 0
+		orbit_angle = {
+			min = 0
+			max = 360
+		}
+		size = 25
+		init_effect = {
+			clear_deposits = yes
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Contributors"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 0
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Evillejedi"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Doci"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Warbnull"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Walshicus"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Yuuzahn Vong"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Strobe"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Petroglyph"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Megabalta"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Enpremi"
+			class = "rl_planets_credits"
+			orbit_distance = 5
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Seregruth"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "The Farseer"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Chickenhunt"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Maxloef"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Wolf"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "ArvisTaljik"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Westbend"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Barlex"
+			class = "rl_planets_credits"
+			orbit_distance = 5
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "force728"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Dolynick"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Loyal Record"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Fractalsponge"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Howard Day"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Dan North"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Geroenimo"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Translators"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 180
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Ael's"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Paddy"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Fedello"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Mattzimann"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Loon"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Captain Az"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Satanluimm"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @septenary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Other Devs"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 90
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Lucasarts"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Thrawns Revenge"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quaternary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Rise of Hope"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quaternary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "DICE"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quaternary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Special Thanks"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 180
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "LastLeviathan"
+			class = "rl_planets_credits"
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	planet = {
+		name = "Beta Testers"
+		class = "rl_planets_credits"
+		orbit_distance = 40
+		orbit_angle = 240
+		size = @planet_size
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Livnthedream"
+			class = pc_nuked_uncolonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Kleckser"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Fennec"
+			class = pc_sandsea_uncolonizable
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "SolarRider"
+			class = pc_searing
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			entity = "searing_planet_01_entity"
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Xavierss"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "CliiiCk"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Elusive"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Loosh"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @octary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Sikkrab'd"
+			class = pc_biolumen_uncolonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 0
+				max = 360
+			}
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Locutus von Borg"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quinary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "rightarM"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quinary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "fireball900"
+			class = pc_searing
+			orbit_distance = 0
+			orbit_angle = @quinary
+			size = @moon_size
+			entity = "searing_planet_01_entity"
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+		moon = {
+			name = "Nelliel"
+			class = "rl_planets_credits"
+			orbit_distance = 0
+			orbit_angle = @quinary
+			size = @moon_size
+			init_effect = {
+				add_modifier = {
+					modifier = pm_credits_name
+				}
+			}
+		}
+	}
+	init_effect = {
+		save_global_event_target_as = contributors_credits_system
+	}
+}

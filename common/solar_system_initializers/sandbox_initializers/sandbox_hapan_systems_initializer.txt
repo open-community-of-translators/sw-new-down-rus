@@ -1,0 +1,286 @@
+# Hapes
+sandbox_hapes_system_initializer = {
+	name = "Хейпс"
+	class = "sc_k"
+	flags = {
+		hapan_homeworld
+		hapan_start_system
+		sandbox_map
+		canon_map_shipyard_system
+		hapan_nebula
+	}
+	init_effect = {
+		generate_home_system_resources = yes
+		log = "hapan homeworld"
+	}
+	usage = custom_empire
+	max_instances = 1
+	planet = {
+		name = "Хейпс-Прайм"
+		class = star
+		orbit_distance = 0
+		size = {
+			min = 30
+			max = 35
+		}
+	}
+	change_orbit = @base_planet_dist
+	planet = {
+		name = "Хейпс I"
+		class = pc_molten
+		orbit_distance = 30
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 10
+			max = 15
+		}
+		has_ring = no
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Хейпс Ia"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Хейпс Ib"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Хейпс"
+		class = pc_gaia
+		orbit_distance = 60
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = @capital_size
+		has_ring = no
+		starting_planet = yes
+		deposit_blockers = none
+		modifiers = none
+		init_effect = {
+			prevent_anomaly = yes
+			set_planet_flag = planet_hapes
+			set_global_flag = hapan_homeworld_spawned
+			if = {
+				limit = {
+					NOT = {
+						any_country = {
+							has_country_flag = hapes_consortium
+						}
+					}
+				}
+				create_species = {
+					name = "Hapan"
+					class = HAP
+					portrait = hapan
+					namelist = "Hapan"
+					homeworld = THIS
+					traits = {
+						trait = "trait_hapan_beauty"
+						trait = "trait_traditional"
+						ideal_planet_class = "pc_gaia"
+					}
+				}
+				last_created_species = {
+					save_global_event_target_as = hapanSpecies
+				}
+				create_country = {
+					name = "NAME_hapes_consortium"
+					adjective = PRESCRIPTED_species_adjective_HapesConsortium
+					ship_prefix = ""
+					type = default
+					origin = "origin_swp_hapes"
+					ignore_initial_colony_error = yes
+					civics = {
+						civic = "civic_hapes_consortium"
+						civic = "civic_philosopher_king"
+					}					#"civic_efficient_bureaucracy"
+					authority = auth_imperial
+					ethos = {
+						ethic = "ethic_spiritualist"
+						ethic = "ethic_militarist"
+						ethic = "ethic_xenophobe"
+					}
+					species = event_target:hapanSpecies
+					flag = {
+						icon = {
+							category = "starwars"
+							file = "HapesConsortium.dds"
+						}
+						background = {
+							category = "backgrounds"
+							file = "00_solid.dds"
+						}
+						colors = {
+							"customcolor790"
+							"customcolor790"
+							"null"
+							"null"
+						}
+					}
+					effect = {
+						set_graphical_culture = hapes_01
+						set_country_flag = hapes_consortium
+						set_country_flag = init_spawned
+						set_country_flag = custom_start_screen
+						set_country_flag = sandbox_map
+						save_global_event_target_as = hapes_consortium
+					}
+				}
+			}
+			set_capital = yes
+			random_country = {
+				limit = {
+					has_country_flag = hapes_consortium
+				}
+				save_global_event_target_as = hapes_consortium
+				species = {
+					save_global_event_target_as = hapanSpecies
+				}
+			}
+			set_owner = event_target:hapes_consortium
+			generate_hapes_buildings = yes
+			generate_23_main_pops = yes
+			give_start_techs = yes
+			set_name = "NAME_Hapes"
+			save_global_event_target_as = shipyard_site
+			solar_system = {
+				spawn_megastructure = {
+					type = "swp_orbital_shipyard_0"
+					coords_from = event_target:shipyard_site
+					owner = event_target:hapes_consortium
+					graphical_culture = event_target:hapes_consortium
+				}
+			}
+			clear_global_event_target = shipyard_site
+		}
+		change_orbit = @base_moon_dist
+		moon = {
+			name = "Луна Хейпса I"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Хейпса II"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Мегос"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Хейпса IV"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Хейпса V"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Хейпса VI"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+		moon = {
+			name = "Луна Хейпса VII"
+			class = random_non_colonizable
+			orbit_distance = 2
+			orbit_angle = {
+				min = 90
+				max = 270
+			}
+			size = {
+				min = 2
+				max = 4
+			}
+		}
+	}
+	planet = {
+		name = "Каван"
+		class = pc_barren_cold
+		orbit_distance = 50
+		orbit_angle = {
+			min = 90
+			max = 270
+		}
+		size = {
+			min = 25
+			max = 30
+		}
+		change_orbit = @base_moon_dist
+	}
+}
