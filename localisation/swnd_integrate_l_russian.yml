@@ -135,12 +135,12 @@
  d_university_of_kalla_desc:0 "Университет Калла является престижным колледжем в Корпоративном секторе, находящимся под его ведением. Это прежде всего место высшего образования для детей влиятельных семей Корпоративного сектора. Учебное заведение основано на техническом образовании, торговле и управлении с минимальным упором на гуманитарные науки."
 
  ## annexation events
- swp_fedev.2.name:0 "Integration of §H[annexation_target.GetName]§! started"
- swp_fedev.2.desc.ge:0 "Greetings §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!. We started the annexation of § [annexation_target.GetName]§!. We shall introduce them to the glory of the First Galactic Empire!"
- swp_fedev.2.desc:0 "Greetings §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!. We heard rumors about that the § [Root.GetName]§! has started the annexation process of §H[annexation_target.GetName]§!. It's quite unusual that $SWP_ALLIANCE$ members fully join their $SWP_ALLIANCE$ leader. We should keep an eye on this."
- swp_fedev.3.name:0 "Annexation of §H[annexation_target.GetName]§! completed"
- swp_fedev.3.desc:0 "Greetings §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!. We finally managed to integrate §H[annexation_target.GetName]§! in our empire. All of their territories, fleets, armies and admirals belong to us now."
- em_federation_member_annexation:0 "$SWP_ALLIANCE$ Member Integration" # This is replacing em_federationmember_annexation which is already in the sheets
+ swp_fedev.2.name:0 "Интеграция §H[annexation_target.GetName]§! началась"
+ swp_fedev.2.desc.ge:0 "Приветствую §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!. Мы начали аннексию § [annexation_target.GetName]§!. Мы познакомим их со славой Первой Галактической Империи!"
+ swp_fedev.2.desc:0 "Приветствую §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!.  До нас дошли слухи о том, что § [Root.GetName]§! начал процесс аннексии §H[annexation_target.GetName]§!. Довольно необычно, что члены $SWP_ALLIANCE$ полностью присоединяются к лидеру $SWP_ALLIANCE$. Мы должны следить за этим."
+ swp_fedev.3.name:0 "Аннексия §H[annexation_target.GetName]§! завершена"
+ swp_fedev.3.desc:0 "Приветствую §Y[Root.Leader.GetTitle] [Root.Leader.GetName]§!. Нам наконец-то удалось интегрировать §H[annexation_target.GetName]§! в нашу империю. Все их территории, флоты, армии и адмиралы теперь принадлежат нам."
+ em_federation_member_annexation:0 "$SWP_ALLIANCE$ Интеграция участников" # This is replacing em_federationmember_annexation which is already in the sheets
 ####
  swp_generic_event.50.name:0 "Перевозчики спайса"
  swp_generic_event.50.desc:0 "По анонимной наводке, сотрудники [Root.Owner.GetAdjective]ой службы безопасности на планете [Root.GetName] перехватили транспорт HWK-290, пытавшийся обойти местный таможенный контрольно-пропускной пункт. Капитан легкого грузового судна настаивал на том, что перевозится совершенно легальный груз Герлианского меха, но в ходе дальнейшего расследования был обнаружен  §YГлиттерстим§!, разноводиность £sr_sw_spice£ §Yспайса§! была вшита в изоляцию перегородок грузового корабля. Судно было конфисковано, а контрабандистов в настоящее время сопровождают на [Root.Owner.Capital.GetName] для проведения суда. Судьба §YГлиттерстима§!, однако, остается открытым вопросом. Наши экономисты подсчитали, что груз может стоять несколько миллионов £energy£ §Yэнергокредитов§!, если спайс будет конфискован и продан на черном рынке. Но некоторые из старших советников [Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName] призвали нас уничтожить £sr_sw_spice£ §Yспайс§!, чтобы он не попал в чужие руки."
