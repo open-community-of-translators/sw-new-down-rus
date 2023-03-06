@@ -10,7 +10,7 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "load_screen"
 		ttf_font = "OrbitronCYR"
-        ttf_size = "24"
+        ttf_size = "18"
 		languages = { "l_russian" } 
 		vertical_offset  = "-5"
 	}
