@@ -14,10 +14,10 @@
  bombardment_armageddon: "Базовая Дельта Ноль"
 
  #Megacorp
- mod_planet_metallurgists_produces_mult: "£job_foundry£ Metallurgists Output"
- mod_planet_artisans_produces_mult: "£job_artisan£ Artisans Output"
- col_foundry_custom: "$mod_planet_district_industrial_build_speed_mult$: §G+25%§!\n$mod_planet_metallurgists_upkeep_mult$: §G-20%§!\n$mod_planet_metallurgists_produces_mult$: §G10%§!\n$mod_planet_electronics_manufacturers_upkeep_mult$: §G-10%§!\n\n§YIndustrial Districts§! will shift one job from Consumer Goods to Alloy production if possible."
- col_factory_custom: "$mod_planet_district_industrial_build_speed_mult$: §G+25%§!\n$mod_planet_artisans_upkeep_mult$: §G-20%§!\n$mod_planet_electronics_manufacturers_upkeep_mult$: §G-10%§!\n$mod_planet_ammunition_manufacturers_upkeep_mult$: §G-10%§!\n\n§YIndustrial Districts§! will shift one job from Alloy to Consumer Goods production if possible."
+ mod_planet_metallurgists_produces_mult: "£job_foundry£ Металлургическая продукция"
+ mod_planet_artisans_produces_mult: "£job_artisan£ Выпуск продукции ремесленников"
+ col_foundry_custom: "$mod_planet_district_industrial_build_speed_mult$: §G+25%§!\n$mod_planet_metallurgists_upkeep_mult$: §G-20%§!\n$mod_planet_metallurgists_produces_mult$: §G10%§!\n$mod_planet_electronics_manufacturers_upkeep_mult$: §G-10%§!\n\n§YПромышленные районы§! по необходимости, переведут одно рабочее место с производства товаров массового спроса на производство сплавов. "
+ col_factory_custom: "$mod_planet_district_industrial_build_speed_mult$: §G+25%§!\n$mod_planet_artisans_upkeep_mult$: §G-20%§!\n$mod_planet_electronics_manufacturers_upkeep_mult$: §G-10%§!\n$mod_planet_ammunition_manufacturers_upkeep_mult$: §G-10%§!\n\n§YПромышленные районы§! по необходимости, переведут одно рабочее место с производства сплавов на производство товаров массового спроса."
 
  #Nemesis
  ap_become_the_crisis: "Новый порядок"
