@@ -3607,9 +3607,9 @@ l_russian:
  #######################
  #GCW/ New Order Events
  ######################
- swnd_galactic_cw.3.name: "New Order"
- swnd_galactic_cw.3.desc: "You have choosen to enable §YNew Order§! in the start menu. When enabled, the §GGalactic Empire§! starts as §RGalactic Emperor§! after the galactic community is formed. The Empire also gets an Ascension Perk slot via tech to choose the New Order perk and unlocking the crisis menu (where the Traditions are). §YThe Galactic Civil War/ Rebellion will start/form when a certain crisis level is reached.§!"
- swnd_galactic_cw.3.a: "Understood."
+ swnd_galactic_cw.3.name: "Новый порядок"
+ swnd_galactic_cw.3.desc: "Вы выбрали §YНовый порядок§! в стартовом меню. When enabled, the §GGalactic Empire§! starts as §RGalactic Emperor§! after the galactic community is formed. Империя также получает слот перка "Вознесение" благодаря технологии выбора перка "Новый порядок" и разблокированию меню кризиса (где находятся Традиции).. §YГалактическая Гражданская война и Восстание начнуться при достижении определенного уровня кризиса.§!"
+ swnd_galactic_cw.3.a: "Понятно."
  swnd_galactic_cw.4.name: "The First Galactic Empire"
  swnd_galactic_cw.4.desc: "After the destruction of the Confederacy of Independent Systems and the Jedi Order, the Galactic Republic and its institutions have been swept away.\n\nThe Declaration of a New Order provides that the Galactic Republic and all of its members will be reorganized under the §GFirst Galactic Empire§!. With its proclamation in the halls of the Senate, §REmperor Palpatine§! has brought the horrors of the Clone Wars to a close, and sentenced the remaining members of the Jedi Order to death or imprisonment.\n\n\"We have been tested, but we have emerged stronger. We move forward as one people, the Imperial citizens of the First Galactic Empire. We will prevail. Ten thousand years of peace begin today.\""
  swnd_galactic_cw.4.a: "Safety, Security, Justice, and Peace!"
@@ -3654,7 +3654,7 @@ l_russian:
  swnd_galactic_cw.23.a: "Understood, my lord."
 
  #Rebell formation events
- swnd_galactic_cw.32.name: "The Rebel Roar"
+ swnd_galactic_cw.32.name: "Рокот повстанцев"
  swnd_galactic_cw.32.desc: "From the deepest reaches of the §BOuter Rim§! to the tallest §YCoruscant§! spires, a word ripples throughout the Galaxy. It stirs the hearts of millions, terrorizes billions, and inspires trillions. Though long thought dead at the hands of §HEmperor Palpatine§! during his overthrow of the Old Republic, the word, one that carries a death sentence on a hundred planets, burns anew: Rebellion.\n\nTheir petitions ignored, their demands for redress denied, a force of partisans, idealists, saboteurs, political dissidents, insurrectionists, and guerilla fighters has turned to the one force the §YEmpire§! understands, violence. While various groups have previously resisted the §YEmpire§! on an ad hoc basis, they now stand united under a single military command. They are the greatest challenge the §YEmpire§! has yet faced.\n\nThough the Imperial military is far larger and battle-hardened, the Galaxy does not lack for military equipment, and there is no shortage of volunteers. Around the Galaxy, fathers return from their attics, shouldering weapons left moldering since the Clone Wars, while their fathers pass on heirloom breastplates and helms to younger hands. Mothers sew uniforms, and spend their free hours loading munitions and digging trenches. But it is on the young sons and daughters of the Galaxy that the true burden of war falls. And they are not found wanting. From a thousand worlds they flock to join Rebel cells, and from a thousand more they strike at the forces of the §YEmpire§! and all those who would see the flame of liberty snuffed out.\n\nWhether by blade and blaster, or guile and diplomacy, the §YRebel Alliance§! stands ready to confront the §YEmpire§! in all its forms. The shroud of the §RDark Side§! has been challenged. Hope burns anew.\n\nBegun, the §MGalactic Civil War§! has."
  swnd_galactic_cw.32.a: "A new hope may come.."
  swnd_galactic_cw.32.2.b: "Its time to take the fight to them! (Switch to the §GRebel Alliance§! on §YYavin IV§!)" #Might need a tool tip added to clarify this is how you play as the Rebels
