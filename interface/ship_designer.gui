@@ -105,7 +105,7 @@ guiTypes = {
 			font = "cg_16b"
 			spriteType = "GFX_button_164_24"
 			position = { x = 10 y = -85 }
-			text = "Obsolete Designs"
+			text = "Устаревшие модели"
 			orientation = "LOWER_LEFT"
 			effect = swp_museum_button_effect
 			vertical_alignment = center
@@ -969,7 +969,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "section_entry_bg"
-			size = { width = 380 height = 130 }
+			size = { width = 380 height = 140 }
 			position = { x = 0 y = 0 }
 
 				background = {

@@ -138,7 +138,7 @@ guiTypes = {
 			name = "name"
 			font = "malgun_goth_24"
 			text = "Starbase"
-			maxWidth = 200
+			maxWidth = 330
 			maxHeight = 40
 			fixedSize = yes
 			position = { x = 15 y = 5 }
@@ -150,7 +150,7 @@ guiTypes = {
 			name = "starbase_rename_button"
 			quadTextureSprite = "gfx_transparency_button"
 			position = { x = 5 y = 2 }
-			size = { x = 278 y = 30 }
+			size = { x = 350 y = 30 }
 		}
 
 		containerWindowType = {
