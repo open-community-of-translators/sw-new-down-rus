@@ -1969,7 +1969,7 @@ guiTypes = {
 			font = "cg_16b"
 			text = "0"
 			position = { x = 22 y = 1 }
-			maxWidth = 90
+			maxWidth = 110
 			maxHeight = @text_max_height
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -1982,7 +1982,7 @@ guiTypes = {
 			name = "starbase_type"
 			font = "cg_16b"
 			text = "0"
-			position = { x = 114 y = @text_bottom_y }
+			position = { x = 133 y = @text_bottom_y }
 			maxWidth = 95
 			maxHeight = @text_max_height
 			fixedSize = yes
@@ -2342,7 +2342,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "planet_or_starbase_status_entry"
 		size = { width = 15 height = 15 }
-		position = { x = 235 y = 1 }
+		position = { x = 237 y = 1 }
 		moveable = no
 
 		iconType = {
