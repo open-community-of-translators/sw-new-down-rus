@@ -1091,7 +1091,7 @@ guiTypes = {
 
 		iconType = {
 			name = "leader_level"
-			position = { x = 156 y = 3 }
+			position = { x = 130 y = 3 }
 			spriteType = "GFX_outliner_leader_level"
 			frame = 10
 			scale = 0.9
@@ -1102,7 +1102,7 @@ guiTypes = {
 			name = "name"
 			font = "cg_16b"
 			text = "0"
-			position = { x = -82 y = 1 }
+			position = { x = 155 y = 1 }
 			maxWidth = 74
 			maxHeight = 20
 			fixedSize = yes
