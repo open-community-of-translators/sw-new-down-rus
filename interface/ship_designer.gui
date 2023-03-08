@@ -980,13 +980,13 @@ guiTypes = {
 
 		instantTextBoxType={
 			name = "name"
-			font = "malgun_goth_24"
+			font = "cg_16b"
 			text = ""
-			position = { x= 0 y= 8 }
-			maxWidth = 390
+			position = { x= 143 y= 8 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 
 		}
 
@@ -1020,11 +1020,11 @@ guiTypes = {
 			name = "weapons_label"
 			font = "cg_16b"
 			text = "SECTION_ENTRY_WEAPON_SLOTS"
-			position = { x= 0 y= 77 }
-			maxWidth = 390
+			position = { x= 143 y= 77 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 		}
 		
 		OverlappingElementsBoxType = {
@@ -1039,11 +1039,11 @@ guiTypes = {
 			name = "utility_label"
 			font = "cg_16b"
 			text = "SECTION_ENTRY_UTILITY_SLOTS"
-			position = { x= 0 y= 30 }
-			maxWidth = 390
+			position = { x= 143 y= 35 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 		}
 		
 		OverlappingElementsBoxType = {
