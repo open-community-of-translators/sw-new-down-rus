@@ -1276,7 +1276,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "component_slot"
-		position = { x=22 y=-5 }
+		position = { x=22 y=5 }
 		size = { width = 40 height = 40 }
 		moveable = no
 
@@ -1474,13 +1474,13 @@ guiTypes = {
 
 		buttonType = {
 			name = "change_section"
-			quadTextureSprite = "GFX_standard_button_200_24"
+			quadTextureSprite = "GFX_standard_button_230_34_button"
 			# quadTextureSprite = "GFX_standard_button_164_24"
 			position = { x = 50 y = -22 }
 			
 			if_resolution = {
 			min_width = 1920
-			position = { x = 220 y = -25 }
+			position = { x = 220 y = -35 }
 		}
 			
 			font = "cg_16b"	

@@ -263,8 +263,8 @@ guiTypes = {
 				name = "planet_class"
 				font = "cg_16b"
 				text = "planet_class"
-				position = { x = 14 y = 10 }
-				maxWidth = 130
+				position = { x = 5 y = 10 }
+				maxWidth = 150
 				maxHeight = 30
 				fixedSize = yes
 				format = left
