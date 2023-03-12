@@ -153,14 +153,14 @@
  NAME_Champala_P7_4: "Чагри VIIl"
  
  #Mindor
- NAME_Mindor_system: "Таспан"
- NAME_Mindor_system_Star: "Таспан"
- NAME_Mindor_system_Planet_1: "Миндор"
- NAME_Mindor_system_Planet_1_1: "Миндор-I"
- NAME_Mindor_system_Planet_1_2: "Миндор-II"
- NAME_Mindor_system_Planet_1_3: "Миндор-III"
- NAME_Mindor_system_Planet_1_4: "Миндор-Iv"
- NAME_Mindor_system_Planet_2: "Таспан II"
+ NAME_Mindor: "Таспан"
+ NAME_Mindor_S: "Таспан"
+ NAME_Mindor_P_1: "Миндор"
+ NAME_Mindor_P1_1: "Миндор-I"
+ NAME_Mindor_P1_2: "Миндор-II"
+ NAME_Mindor_P1_3: "Миндор-III"
+ NAME_Mindor_P1_4: "Миндор-Iv"
+ NAME_Mindor_P_2: "Таспан II"
 
 ### Bakuran Systems ###
 
