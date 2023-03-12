@@ -109,7 +109,7 @@ l_russian:
  tech_cryostasis_1_desc:0 "Передав управление колониальным кораблем специализированным дроидам, и экипаж, и колонистов можно оставить заниматься более важными делами".
  tech_cryostasis_2:0 "Разработка с помощью дроидов"
  tech_cryostasis_2_desc:0 "Дроиды способны автоматизировать большую часть тяжелой работы, связанной с колонизацией, такой как подготовка посадочной зоны, разведка, очистка воды и раскопки инфраструктуры".
- tech_space_science_1:0 "Zero-G Laboratories"
+ tech_space_science_1:0 "Лаборатории Нулевой гравитации"
  tech_space_science_1_desc:0 "Многие критические исследования могут быть проведены только в условиях невесомости, для которых были разработаны эти специализированные лаборатории".
  tech_space_science_2:0 "Миниатюрные сдерживающие поля"
  tech_space_science_2_desc:0 "Поля сдерживания с использованием проекторов ray и deflector shield отлично подходят для изоляции и удержания различных веществ или образцов, позволяя проводить детальный анализ".
@@ -331,7 +331,7 @@ l_russian:
  tech_turbolaser_spec_1_a_desc:0 "Интенсивность текущих боев с капитальными кораблями удивила большинство наших военных планировщиков. Возвращение бортовых сражений, когда-то считавшихся устаревшей тактикой ушедшей эпохи, только усилило актуальность разработки турболазеров с более быстрым выстрелом".
  tech_turbolaser_spec_1_b:0 "Повышение урона  Турболазера I"
  tech_turbolaser_spec_1_b_desc:0 "Вечная гонка вооружений между атакой и защитой продолжается. Разработка нашими врагами более тяжелой брони и более плотных щитов требует соразмерного увеличения мощности наших турболазеров.
- tech_turbolaser_spec_2:0 "Turbolaser Specialization II"
+ tech_turbolaser_spec_2:0 "Специализация турболазера II"
  tech_turbolaser_spec_2_desc:0 "Десятилетия исследований, испытаний в реальном времени и постепенных улучшений убедили наших военных планировщиков в мудрости продолжения поддержки и дальнейшего расширения нашей программы turbolaser".
  tech_turbolaser_spec_2_a:0 "Повышение Скорострельности Турболазеров II"
  tech_turbolaser_spec_2_a_desc:0 "Мы можем только значительно увеличить выход сырой энергии наших турболазеров. Дальнейшее повышение их разрушительного потенциала должно быть вызвано сокращением циклов охлаждения, что позволит производить больше залпов за одно и то же время".
@@ -1257,7 +1257,7 @@ l_russian:
  tech_vong_primary_weapons_5_desc:0 "Ярет-Кор-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки".
  tech_vong_primary_weapons_6:0 "Основное оружие йуужань-вонгов VI"
  tech_vong_primary_weapons_6_desc:0 "Ярет-Кор-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки".
- tech_vong_drive_1:0 "Darkspace Drives I"
+ tech_vong_drive_1:0 "Двигатель темного космоса I"
  tech_vong_drive_1_desc:0-Приводимые в действие базальными растениями довина, эти двигатели позволяют йуужань-вонгским биошипам перетягивать друг друга с места на место.
  tech_vong_drive_2:0 "Darkspace Drives II"
  tech_vong_drive_2_desc:0-Приводимые в действие базальными растениями довина, эти двигатели позволяют йуужань-вонгским биошипам перетягивать друг друга с места на место.
@@ -1277,19 +1277,19 @@ l_russian:
  tech_vong_reactors_4_desc:0 "Еще одно биологическое творение йуужань-вонгских шейперов, которое помогает снабжать энергией все части биочипа".
  tech_vong_reactors_5:0 "Генерация вращательной энергии V"
  tech_vong_reactors_5_desc:0 "Еще одно биологическое творение йуужань-вонгских формирователей, которое помогает снабжать энергией все части биочипа".
- tech_vong_support_1:0 "Yuuzhan Vong Support Weapons I"
+ tech_vong_support_1:0 "Вспомогательное оружие Йуужань-вонг I"
  tech_vong_support_1_desc:0 "Yaret-Kor-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки. Они были модифицированы, чтобы помочь в роли поддержки".
- tech_vong_support_2:0 "Yuuzhan Vong Support Weapons II"
+ tech_vong_support_2:0 "Вспомогательное оружие Йуужань-вонг II"
  tech_vong_support_2_desc:0 "Ярет-Кор-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки. Они были модифицированы, чтобы помочь в роли поддержки".
- tech_vong_support_3:0 "Yuuzhan Vong Support Weapons III"
+ tech_vong_support_3:0 "Вспомогательное оружие Йуужань-вонг III"
  tech_vong_support_3_desc:0 "Ярет-Кор-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки. Они были модифицированы, чтобы помочь в роли поддержки".
- tech_vong_support_4:0 "Yuuzhan Vong Support Weapons IV"
+ tech_vong_support_4:0 "Вспомогательное оружие Йуужань-вонг IV"
  tech_vong_support_4_desc:0 "Ярет-Кор-это биологическое оружие, которое выполняет ту же роль, что и плазменные пушки. Они были модифицированы, чтобы помочь в роли поддержки".
- tech_vong_thrusters_1:0 "Dovin Basal Drives I"
+ tech_vong_thrusters_1:0 "Базальные приводы Довина I"
  tech_vong_thrusters_1_desc:0 "Эти установки способны создавать микро-черные дыры, которые могут поглощать лазерные выстрелы по космическим кораблям, а также почти все остальное, от протонных торпед до сотрясающих ракет".
- tech_vong_thrusters_2:0 "Dovin Basal Drives II"
+ tech_vong_thrusters_2:0 "Базальные приводы Довина II"
  tech_vong_thrusters_2_desc:0 "Эти установки способны создавать микро-черные дыры, которые могут поглощать лазерные выстрелы по космическим кораблям, а также почти все остальное, от протонных торпед до сотрясающих ракет".
- tech_vong_thrusters_3:0 "Dovin Basal Drives III"
+ tech_vong_thrusters_3:0 "Базальные приводы Довина III"
  tech_vong_thrusters_3_desc:0 "Эти установки способны создавать микро-черные дыры, которые могут поглощать лазерные выстрелы по космическим кораблям, а также почти все остальное, от протонных торпед до сотрясающих ракет".
  tech_vong_thrusters_4:0 "Базальные приводы Довина IV"
  tech_vong_thrusters_4_desc:0 "Эти установки способны создавать микро-черные дыры, которые могут поглощать лазерные выстрелы по космическим кораблям, а также почти все остальное, от протонных торпед до сотрясающих ракет".
@@ -1303,13 +1303,13 @@ l_russian:
  tech_vong_armor_4_desc:0 "основной судостроительной составляющей Yuuzhan Вонг, который поглощает материала, выращенного на органической и неорганической."
  tech_vong_armor_5:0 "Йорик-коралловый броня ви"
  tech_vong_armor_5_desc:0 "Основной компонент судостроения йуужань-вонгов, который поглощает материал, на котором он выращен - органический и неорганический".
- tech_vong_fighters_1:0 "йуужань-вонгское боевое судно I"
+ tech_vong_fighters_1:0 "Йуужань-вонгское боевое судно I"
  tech_vong_fighters_1_desc:0 "Биологические корабли, называемые "Коралскипперами", функционируют как основной ударный корабль флота вторжения йуужань-вонгов".
- tech_vong_fighters_2:0 "йуужань-вонгское боевое судно II"
+ tech_vong_fighters_2:0 "Йуужань-вонгское боевое судно II"
  tech_vong_fighters_2_desc:0-Биологические корабли, называемые "Коралскипперами", функционируют как основные ударные корабли флота вторжения йуужань-вонгов.
- tech_vong_fighters_3:0 "йуужань-вонгское боевое судно III"
+ tech_vong_fighters_3:0 "Йуужань-вонгское боевое судно III"
  tech_vong_fighters_3_desc:0-Биологические корабли, называемые "Коралскипперами", функционируют как основные ударные корабли флота вторжения йуужань-вонгов.
- tech_vong_fighters_4:0 "йуужань-вонгское боевое судно IV"
+ tech_vong_fighters_4:0 "Йуужань-вонгское боевое судно IV"
  tech_vong_fighters_4_desc:0-Биологические корабли, называемые "Коралскипперами", функционируют как основные ударные корабли флота вторжения йуужань-вонгов.
  tech_imperial_science:0 "SW:FR"
  tech_imperial_science_desc:0 "Имперский корабельный набор"
@@ -1351,38 +1351,38 @@ l_russian:
  tech_weapon_color_yellow:0 "Yellow Turbolaser"
  tech_weapon_color_yellow_desc:0 ""
  
- tech_hyper_components_cost_1:0 "Hyperdrive Effiency I"
- tech_hyper_components_cost_1_desc:0 "Reducing consumption and cost of hyperdrives for our ships."
- tech_hyper_components_cost_2:0 "Hyperdrive Effiency II"
- tech_hyper_components_cost_2_desc:0 "Reducing consumption and cost of hyperdrives for our ships."
- tech_hyper_components_cost_3:0 "Hyperdrive Effiency III"
- tech_hyper_components_cost_3_desc:0 "Reducing consumption and cost of hyperdrives for our ships."
- tech_hyper_components_cost_4:0 "Hyperdrive Effiency IV"
- tech_hyper_components_cost_4_desc:0 "Reducing consumption and cost of hyperdrives for our ships."
- tech_hyper_components_cost_5:0 "Hyperdrive Effiency V"
- tech_hyper_components_cost_5_desc:0 "Reducing consumption and cost of hyperdrives for our ships."
+ tech_hyper_components_cost_1:0 "Эффективность гипердвигателей I"
+ tech_hyper_components_cost_1_desc:0 "Снижение расхода и стоимости гипердвигателей для наших кораблей."
+ tech_hyper_components_cost_2:0 "Эффективность гипердвигателей II"
+ tech_hyper_components_cost_2_desc:0 "Снижение расхода и стоимости гипердвигателей для наших кораблей."
+ tech_hyper_components_cost_3:0 "Эффективность гипердвигателей III"
+ tech_hyper_components_cost_3_desc:0 "Снижение расхода и стоимости гипердвигателей для наших кораблей."
+ tech_hyper_components_cost_4:0 "Эффективность гипердвигателей IV"
+ tech_hyper_components_cost_4_desc:0 "Снижение расхода и стоимости гипердвигателей для наших кораблей."
+ tech_hyper_components_cost_5:0 "Эффективность гипердвигателей V"
+ tech_hyper_components_cost_5_desc:0 "Снижение расхода и стоимости гипердвигателей для наших кораблей."
  
- tech_shield_components_cost_1:0 "Shield Effiency I"
- tech_shield_components_cost_1_desc:0 "Reducing production cost and upkeep of our ship shields."
- tech_shield_components_cost_2:0 "Shield Effiency II"
- tech_shield_components_cost_2_desc:0 "Reducing production cost and upkeep of our ship shields."
- tech_shield_components_cost_3:0 "Shield Effiency III"
- tech_shield_components_cost_3_desc:0 "Reducing production cost and upkeep of our ship shields."
- tech_shield_components_cost_4:0 "Shield Effiency IV"
- tech_shield_components_cost_4_desc:0 "Reducing production cost and upkeep of our ship shields."
- tech_shield_components_cost_5:0 "Shield Effiency V"
- tech_shield_components_cost_5_desc:0 "Reducing production cost and upkeep of our ship shields."
+ tech_shield_components_cost_1:0 "Эффективность щитов I"
+ tech_shield_components_cost_1_desc:0 "Снижение стоимости производства и содержания щитов наших кораблей."
+ tech_shield_components_cost_2:0 "Эффективность щитов II"
+ tech_shield_components_cost_2_desc:0 "Снижение стоимости производства и содержания щитов наших кораблей."
+ tech_shield_components_cost_3:0 "Эффективность щитов III"
+ tech_shield_components_cost_3_desc:0 "Снижение стоимости производства и содержания щитов наших кораблей."
+ tech_shield_components_cost_4:0 "Эффективность щитов IV"
+ tech_shield_components_cost_4_desc:0 "Снижение стоимости производства и содержания щитов наших кораблей."
+ tech_shield_components_cost_5:0 "Эффективность щитов V"
+ tech_shield_components_cost_5_desc:0 "Снижение стоимости производства и содержания щитов наших кораблей."
  
  tech_swnd_utility_component_cost_1:0 "Utility Effiency I"
- tech_swnd_utility_component_cost_1_desc:0 "Crew training on how to efficiently use different ship utilitys, reducing cost and upkeep."
+ tech_swnd_utility_component_cost_1_desc:0 "Обучение экипажа тому, как эффективно использовать различные средства обслуживания корабля, снижая расходы и затраты на содержание судна."
  tech_swnd_utility_component_cost_2:0 "Utility Effiency II"
- tech_swnd_utility_component_cost_2_desc:0 "Crew training on how to efficiently use different ship utilitys, reducing cost and upkeep."
+ tech_swnd_utility_component_cost_2_desc:0 "Обучение экипажа тому, как эффективно использовать различные средства обслуживания корабля, снижая расходы и затраты на содержание судна."
  tech_swnd_utility_component_cost_3:0 "Utility Effiency III"
- tech_swnd_utility_component_cost_3_desc:0 "Crew training on how to efficiently use different ship utilitys, reducing cost and upkeep."
+ tech_swnd_utility_component_cost_3_desc:0 "Обучение экипажа тому, как эффективно использовать различные средства обслуживания корабля, снижая расходы и затраты на содержание судна."
  tech_swnd_utility_component_cost_4:0 "Utility Effiency IV"
- tech_swnd_utility_component_cost_4_desc:0 "Crew training on how to efficiently use different ship utilitys, reducing cost and upkeep."
+ tech_swnd_utility_component_cost_4_desc:0 "Обучение экипажа тому, как эффективно использовать различные средства обслуживания корабля, снижая расходы и затраты на содержание судна."
  tech_swnd_utility_component_cost_5:0 "Utility Effiency V"
- tech_swnd_utility_component_cost_5_desc:0 "Crew training on how to efficiently use different ship utilitys, reducing cost and upkeep."
+ tech_swnd_utility_component_cost_5_desc:0 "Обучение экипажа тому, как эффективно использовать различные средства обслуживания корабля, снижая расходы и затраты на содержание судна."
 
  tech_swnd_computer_component_cost_1:0 "Computer Effiency I"
  tech_swnd_computer_component_cost_1_desc:0 "How to use computers for stupid, reducing cost and upkeep."
