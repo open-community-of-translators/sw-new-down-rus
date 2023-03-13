@@ -461,7 +461,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "outliner_member_army_entry_window"
-		size = { width = 256 height = 20 }
+		size = { width = 300 height = 20 }
 		position = { x = 0 y = 0 }
 		orientation = upper_right
 		moveable = no
@@ -665,7 +665,7 @@ guiTypes = {
 			name = "size_limit"
 			font = "cg_16b"
 			text = ""
-			position = { x = 155 y = 1 }
+			position = { x = 115 y = 1 }
 			maxWidth = 112
 			maxHeight = 20
 			fixedSize = yes
@@ -697,7 +697,7 @@ guiTypes = {
 		
 		gridBoxType = {
 			name = "fleet_status_grid"
-			position = { x = -122 y = 2 }
+			position = { x = -105 y = 2 }
 			slotSize = { width = 15 height = 15 }
 			max_slots_horizontal = 2
 			max_slots_vertical = 1
@@ -1114,7 +1114,7 @@ guiTypes = {
 
 		iconType = {
 			name = "progress"
-			position = { x = 180 y = 5 }
+			position = { x = 250 y = 5 }
 			spriteType = "GFX_outliner_planet_construction_progressbar"
 			alwaysTransparent = yes
 			frame = 50
