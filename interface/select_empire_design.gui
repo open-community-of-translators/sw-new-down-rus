@@ -90,7 +90,7 @@ if_resolution = {
 	min_height = 801
         containerWindowType = {
             name = "empire_glossary"
-            size = { width = 370 height = 210 }
+            size = { width = 390 height = 210 }
             
 			position = { x = 315 y = 0 }
 
@@ -225,7 +225,7 @@ if_resolution = {
 					name = "rmg_steam"
 					quadTextureSprite = "GFX_front_menu_rmg_steam"
 					# quadTextureSprite = "GFX_front_menu_homepage"
-					position = { x = 160 y = 5 }
+					position = { x = 180 y = 5 }
 					pdx_tooltip = "SUBMOD_STEAM"
 					web_link="https://steamcommunity.com/sharedfiles/filedetails/?id=2644238920"
 				}

@@ -85,8 +85,8 @@ guiTypes = {
 			name = "design_name"
 			font = "malgun_goth_24"
 			text = "SHIPDESIGNER"
-			position = { x = 64 y = 5 }
-			maxWidth = 400
+			position = { x = 44 y = 5 }
+			maxWidth = 200
 			maxHeight = 20
 			fixedsize = yes
 		}
@@ -104,8 +104,8 @@ guiTypes = {
 			id = "museum_button"
 			font = "cg_16b"
 			spriteType = "GFX_button_164_24"
-			position = { x = 10 y = -85 }
-			text = "Obsolete Designs"
+			position = { x = 15 y = -95 }
+			text = "Устаревшие модели"
 			orientation = "LOWER_LEFT"
 			effect = swp_museum_button_effect
 			vertical_alignment = center
@@ -114,7 +114,7 @@ guiTypes = {
 		# Weapon Guide
 		containerWindowType = {
 			name = "empire_glossary2"
-            size = { width = 230 height = 145 }
+            size = { width = 245 height = 145 }
             
 			position = { x = 280 y = 570 }
 			#orientation = "LOWER_LEFT"
@@ -267,7 +267,7 @@ guiTypes = {
 			name = "auto_design_label"
 			font = "cg_16b"
 			text = "SHIP_DESIGN_AUTO_GENERATE"
-			position = { x = 40 y = -35 }
+			position = { x = 40 y = -40 }
 			maxWidth = 220
 			maxHeight = 30
 			Orientation = "LOWER_LEFT"
@@ -969,7 +969,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "section_entry_bg"
-			size = { width = 380 height = 130 }
+			size = { width = 380 height = 140 }
 			position = { x = 0 y = 0 }
 
 				background = {
@@ -980,13 +980,13 @@ guiTypes = {
 
 		instantTextBoxType={
 			name = "name"
-			font = "malgun_goth_24"
+			font = "cg_16b"
 			text = ""
-			position = { x= 0 y= 8 }
-			maxWidth = 390
+			position = { x= 143 y= 8 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 
 		}
 
@@ -1020,11 +1020,11 @@ guiTypes = {
 			name = "weapons_label"
 			font = "cg_16b"
 			text = "SECTION_ENTRY_WEAPON_SLOTS"
-			position = { x= 0 y= 77 }
-			maxWidth = 390
+			position = { x= 143 y= 77 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 		}
 		
 		OverlappingElementsBoxType = {
@@ -1039,11 +1039,11 @@ guiTypes = {
 			name = "utility_label"
 			font = "cg_16b"
 			text = "SECTION_ENTRY_UTILITY_SLOTS"
-			position = { x= 0 y= 30 }
-			maxWidth = 390
+			position = { x= 143 y= 35 }
+			maxWidth = 230
 			maxHeight = 30
 			fixedsize = yes
-			format = center
+			format = left
 		}
 		
 		OverlappingElementsBoxType = {
@@ -1276,7 +1276,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "component_slot"
-		position = { x=22 y=-5 }
+		position = { x=22 y=5 }
 		size = { width = 40 height = 40 }
 		moveable = no
 
@@ -1474,13 +1474,13 @@ guiTypes = {
 
 		buttonType = {
 			name = "change_section"
-			quadTextureSprite = "GFX_standard_button_200_24"
+			quadTextureSprite = "GFX_standard_button_230_34_button"
 			# quadTextureSprite = "GFX_standard_button_164_24"
 			position = { x = 50 y = -22 }
 			
 			if_resolution = {
 			min_width = 1920
-			position = { x = 220 y = -25 }
+			position = { x = 220 y = -35 }
 		}
 			
 			font = "cg_16b"	
