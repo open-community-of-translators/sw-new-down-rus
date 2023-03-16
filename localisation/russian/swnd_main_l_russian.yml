@@ -5949,7 +5949,7 @@ l_russian:
  requires_ap_voidborn:0 "$TRIGGER_FAIL$Требуется $ASCENSION_PERK$ §Y$ap_voidborn$§!."
  federations.10400.comply_fail_ascension:0 "Наши $ASCENSION_PERKS$ позволяют нам соблюдать требования."
  decision_upgrade_habitat_effects_regularempire:0 "Улучшает эту §HСреду обитания§! до §H$habitat_1$§!, предоставляя §Y2 дополнительных района§! and access to basic housing buildings, и доступ к базовым жилым зданиям или усовершенствованным жилым зданиям, если у вас есть $ASCENSION_PERK$ §Y$ap_voidborn$§!."
- SWP_ALLIANCE:0 "$SWP_ALLIANCE$"
+ SWP_ALLIANCE:0 "Альянс"
  SWP_ALLIANCE_PLURAL:0 "$SWP_ALLIANCE$ы"
  FEDERATION:0 "$SWP_ALLIANCE$"
  FB_FRIENDLY_GREETING_03:0 "[Root.GetAllianceName] — значительный $SWP_ALLIANCE$, но она не стала бы такой, если бы путь ей не освещали яркие [From.GetSpeciesNamePluralCompliment]."
