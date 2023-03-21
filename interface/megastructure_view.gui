@@ -1,8 +1,19 @@
 guiTypes = {
 	containerWindowType = {
 		name = "megastructure_view"
-		position = { x = 36 y = -557 }
-		size = { width = 561 height = 522 }
+		#position = { x = 36 y = -557 }
+		#size = { width = 561 height = 522 }
+		if_resolution = {
+		max_height = 800
+		size = { width = 561 height = 611 }
+		position = { x = 36 y = -646 }
+		}
+
+		if_resolution = {
+		min_height = 801
+		size = { width = 561 height = 805 }
+		position = { x = 36 y = -841 }
+		}
 		orientation = lower_left
 		upsound = click
 
@@ -63,7 +74,48 @@ guiTypes = {
 				spriteType = "GFX_tile_outliner_bg"
 			}
 		}
+		
+				if_resolution = {
+		max_height = 800
+		#NO SPACEPORT IMAGE
+		}
 
+		if_resolution = {
+		min_height = 801
+			containerWindowType = {
+				name = "planet_view_module_spaceport_portrait"
+				size = { width = 660 height = 188 }
+				position = { x = 10 y = 43 }
+				clipping = yes
+
+				iconType = {
+					name = "spaceport_portrait_portrait"
+					spriteType = "GFX_starbase_background"
+					position = { x = 1 y = 12 }
+					scale = 1.0
+				}
+
+				iconType = {
+					name = "black_frame"
+					spriteType = "GFX_planetview_black_frame"
+					position = { x = 1 y = 13 }
+				}
+
+				iconType = {
+					name = "stripes_1"
+					spriteType = "GFX_planetview_stripes_1"
+					position = { x = -10 y = 12 }
+					orientation = upper_left
+					alwaysTransparent = yes
+				}
+
+				iconType = {
+					name = "city_frame"
+					spriteType = "GFX_city_frame"
+					position = { x = -4 y = 9 }
+				}
+			}
+		}
 		### WINDOW HEADER ###
 
 		buttonType = {
@@ -183,7 +235,14 @@ guiTypes = {
 				name = "box"
 				spriteType = "GFX_tiles_frame_light"
 				position = { x = 6 y = 245 }
-				size = { x = 548 y = 220 }
+				if_resolution = {
+					max_height = 800
+					size = { x = 548 y = 220 }
+				}
+				if_resolution = {
+					min_height = 801
+					size = { x = 548 y = 506 }
+				}
 
 				alwaysTransparent = yes
 			}
@@ -288,8 +347,17 @@ guiTypes = {
 
 			containerWindowType = {
 				name = "upkeep_box"
+
 				size = { width = 125 height = 60 }
-				position = { x = 410 y = 370 }	
+				if_resolution = {
+					max_height = 800
+						position = { x = 410 y = 370 }
+					}
+					if_resolution = {
+						min_height = 801
+						position = { x = 410 y = 656 }
+					}
+				#position = { x = 410 y = 370 }	
 
 				background = {
 					name = "background"
@@ -329,7 +397,15 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "title"
 					font = "malgun_goth_24"
-					position = { x = 25 y = 12 }
+					if_resolution = {
+					max_height = 800
+						position = { x = 25 y = 12 }
+					}
+					if_resolution = {
+						min_height = 801
+						position = { x = 25 y = 298 }
+					}
+					#position = { x = 25 y = 12 }
 					maxWidth = 520
 					maxHeight = 20
 					format = centre
@@ -338,7 +414,15 @@ guiTypes = {
 				}
 				smoothListboxType = {
 					name = "upgrades"
-					position = { x = 150 y = 30 }
+					if_resolution = {
+					max_height = 800
+						position = { x = 150 y = 30 }
+					}
+					if_resolution = {
+						min_height = 801
+						position = { x = 150 y = 316 }
+					}
+					#position = { x = 150 y = 30 }
 					size = { x = 260 y = 100 }
 					borderSize = { x = 0 y = 0 }
 					orientation = "UPPER_LEFT"
@@ -370,8 +454,20 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "shipyard_tab"
-			position = { x = 0 y = 30 }
+				
+			if_resolution = {
+			max_height = 800
+			position = { x = 0 y = 36 }
+			size = { width = 100% height = 525 }
+			}
+
+			if_resolution = {
+			min_height = 801
+			position = { x = 0 y = 230 }
 			size = { width = 100% height = -50 }
+			}
+			#position = { x = 0 y = 30 }
+			#size = { width = 100% height = -50 }
 			
 			containerWindowType = {
 				name = "capacity_info"
@@ -527,9 +623,19 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "megastructure_side_view"
-		position = { x = 564 y = 9 }
-		# size = { width = 338 height = 470 }
-		size = { width = 490 height = 470 }
+		#position = { x = 564 y = 9 }
+		if_resolution = {
+		max_height = 800
+		
+		position = { x = 565 y = 9 }
+		size = { width = 490 height = 559 }
+		}
+		if_resolution = {
+		min_height = 801
+		
+		position = { x = 565 y = 9 }
+		size = { width = 490 height = 753 }
+		}
 	
 
 		background = {
@@ -542,7 +648,7 @@ guiTypes = {
 			font = "malgun_goth_24"
 			text = "STARBASE_SHIPS"
 			position = { x = 12 y = 12 }
-			maxWidth = 490
+			maxWidth = 423
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -564,7 +670,14 @@ guiTypes = {
 		smoothListboxType = {
 			name = "entries_list"
 			position = { x = 12 y = 53 }
-			size = { x = 460 y = 402 }			
+			if_resolution = {
+			max_height = 800
+			size = { x = 460 y = 498 }
+			}
+			if_resolution = {
+			min_height = 801
+			size = { x = 460 y = 692 }
+			}	
 			scrollbarType = "standardlistbox_slider"
 			borderSize = { x = 0 y = 0 }
 			orientation = "UPPER_LEFT"

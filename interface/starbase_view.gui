@@ -866,7 +866,7 @@ guiTypes = {
 		max_height = 800
 
 		position = { x = 565 y = 9 }
-		size = { width = 480 height = 559 }
+		size = { width = 490 height = 559 }
 	#Saved for the future
 	#	origo = lower_left
 	#	orientation = lower_left
@@ -899,7 +899,7 @@ guiTypes = {
 			font = "malgun_goth_24"
 			text = "hello"
 			position = { x = 12 y = 12 }
-			maxWidth = 303
+			maxWidth = 423
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
