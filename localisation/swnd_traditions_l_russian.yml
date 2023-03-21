@@ -105,7 +105,7 @@
 
  tr_empire_moff_council_adopt: "Традиции Совета Мофф"
 #  tr_empire_moff_council_adopt_desc: "$tradition_empire_moff_council_desc$\n\n$tr_empire_moff_council_adopt_effect$\n\n$tr_empire_moff_council_finish_effect$"
- tr_empire_moff_council_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£блокировщик£ §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! уменьшенный на §G33%§! и открывает специальные §YИмперский сектор§! Васал."
+ tr_empire_moff_council_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£blocker£ §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! уменьшенный на §G33%§! и открывает специальные §YИмперский сектор§! Васал."
 
  tr_empire_moff_council_sector: "Секторальные Моффы"
  tr_empire_moff_council_sector_delayed: "Продолжающееся расширение прав и возможностей моффов и продолжающееся лишение гражданских прав Имперского сената создали новые возможности для амбициозных и имеющих хорошие связи."
@@ -159,7 +159,7 @@
 #  tr_empire_compnor_security_bureau_desc: "§YBase Trade Protection§! for Trade Routes increased by §G5§!."
 
  tr_empire_compnor_finish: "Традиции КОМПНОРА Закончены"
- tr_empire_compnor_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_compnor_adopt$ увеличит нашу £влияние£ §Y$mod_country_influence_produces_add$§! Около §Y1§!."
+ tr_empire_compnor_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_compnor_adopt$ увеличит нашу £influence£ §Y$mod_country_influence_produces_add$§! Около §Y1§!."
 
  tr_empire_research_adopt: "Имперские исследовательские традиции"
 #  tr_empire_research_adopt_desc: "$tradition_empire_research_desc$\n\n$tr_empire_research_adopt_effect$\n\n$tr_empire_research_finish_effect$"
