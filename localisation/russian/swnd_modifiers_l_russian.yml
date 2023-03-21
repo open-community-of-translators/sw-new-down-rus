@@ -383,7 +383,7 @@ l_russian:
  swp_diplo_weight_1_desc:0 "Члены этого Альянса имеют больший дипломатический вес."
  swp_fleet_upkeep_1:0 "Низкое содержание судов"
  swp_fleet_upkeep_1_desc:0 "Членство в этом альянсе снижает затраты на содержание судов из-за взаимосвязанных ремонтных верфей."
- allow_decision_mastery_of_nature:0 "§HUnlocks Decision:§! Овладение природой"
+ allow_decision_mastery_of_nature:0 "§HРешение:§! Овладение природой"
  describe_decision_mastery_of_nature:0 "§EПостоянно увеличивает максимальное количество районов, которые может поддерживать планета, на §Y2§!. Может быть выполнено на планете только один раз.§!"
  mod_country_sr_agrocite_produces_mult:0 "Агроцит"
  mod_country_bacta_produces_mult:0 "Бакта"

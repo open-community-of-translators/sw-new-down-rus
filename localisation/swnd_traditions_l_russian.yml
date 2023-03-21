@@ -16,7 +16,7 @@
 
  tr_rebel_alliance_solidarity: "Повстанческая солидарность"
  tr_rebel_alliance_solidarity_delayed: "Лишь немногие избранные готовы взяться за оружие и напрямую противостоять Империи, но есть бесчисленное множество тех, кто симпатизирует нашему делу и ненавидит Империю. Хотя Восстанию всегда нужны солдаты, оно никогда не откажется от других форм помощи."
- tr_rebel_alliance_solidarity_desc: "§Y$MOD_COUNTRY_ENVOYS_ADD$§! увеличиваются на §G1§!\n§YUnlocks Edict:§! Кампания сочувствия повстанцам"
+ tr_rebel_alliance_solidarity_desc: "§Y$MOD_COUNTRY_ENVOYS_ADD$§! увеличиваются на §G1§!\n§YПолитика:§! Кампания сочувствия повстанцам"
 
  tr_rebel_alliance_connections: "Повстанческие связи"
  tr_rebel_alliance_connections_delayed: "TПламя свободы никогда не погаснет. По всей Галактике свободные существа сбрасывают свои цепи и отказываются от оков Империи. По мере роста нашей сети будут расти и наши возможности закрепиться на имперских мирах."
@@ -136,7 +136,7 @@
 
  tr_empire_compnor_adopt: "КОМПНОР Традиции"
  tr_empire_compnor_adopt_desc: "§YМаксимальные соперники§! §G+1§!\n§YРазблокирует Указ:§! Кампания Имперского Ордена"
- tr_empire_compnor_adopt_effect: "§E$TRADITIONS_ADOPT$§!Iувеличивает количество §YMax Rivals§! на §G1§!\n§YUnlocks Edict:§! Тест."
+ tr_empire_compnor_adopt_effect: "§E$TRADITIONS_ADOPT$§!Iувеличивает количество §YMax Rivals§! на §G1§!\n§YЭдикт:§! Тест."
 
  tr_empire_compnor_enforcement: "Имперское принуждение"
  tr_empire_compnor_enforcement_delayed: "Сжатый кулак Империи - это все, что отделяет цивилизацию от хаоса. Имперский флот должен поддерживать свою мощь, если мечта императора - выжить."
@@ -227,7 +227,7 @@
 
  tr_mando_bountyhunter_finish: "Традиции охотников за головами завершены"
  tr_mando_bountyhunter_finish_desc: "Открывает §Y$op_cat_bountyhunter$§! операции.\nРазблокирован бонус за стремление: §G+1§!"
- tr_mando_bountyhunter_finish_effect: "§E$TRADITIONS_FINISH$§!Adopting all $tr_mando_bountyhunter_adopt$ Unlocks §Y$op_cat_bountyhunter$§! Operations.\nРазблокирован бонус за стремление: §G+1§!"
+ tr_mando_bountyhunter_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_mando_bountyhunter_adopt$ разблокирует §Y$op_cat_bountyhunter$§! операции.\nРазблокирован бонус за стремление: §G+1§!"
  
  tr_mando_bountyhunter_1: "Сбор информации"
  tr_mando_bountyhunter_1_delayed: "Изучение вашей цели является обязательным и может привести к успешному захвату."
