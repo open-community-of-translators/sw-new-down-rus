@@ -105,7 +105,7 @@
 
  tr_empire_moff_council_adopt: "Традиции Совета Мофф"
 #  tr_empire_moff_council_adopt_desc: "$tradition_empire_moff_council_desc$\n\n$tr_empire_moff_council_adopt_effect$\n\n$tr_empire_moff_council_finish_effect$"
- tr_empire_moff_council_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£блокировщик£ §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! уменьшенный на §G33%§! и открывает специальные §YИмперский сектор§! Васал."
+ tr_empire_moff_council_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£blocker£ §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! уменьшенный на §G33%§! и открывает специальные §YИмперский сектор§! Васал."
 
  tr_empire_moff_council_sector: "Секторальные Моффы"
  tr_empire_moff_council_sector_delayed: "Продолжающееся расширение прав и возможностей моффов и продолжающееся лишение гражданских прав Имперского сената создали новые возможности для амбициозных и имеющих хорошие связи."
@@ -159,7 +159,7 @@
 #  tr_empire_compnor_security_bureau_desc: "§YBase Trade Protection§! for Trade Routes increased by §G5§!."
 
  tr_empire_compnor_finish: "Традиции КОМПНОРА Закончены"
- tr_empire_compnor_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_compnor_adopt$ увеличит нашу £влияние£ §Y$mod_country_influence_produces_add$§! Около §Y1§!."
+ tr_empire_compnor_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_compnor_adopt$ увеличит нашу £influence£ §Y$mod_country_influence_produces_add$§! Около §Y1§!."
 
  tr_empire_research_adopt: "Имперские исследовательские традиции"
 #  tr_empire_research_adopt_desc: "$tradition_empire_research_desc$\n\n$tr_empire_research_adopt_effect$\n\n$tr_empire_research_finish_effect$"
@@ -187,123 +187,153 @@
 
  tr_empire_research_finish: "Имперские Исследовательские Традиции Закончились"
  tr_empire_research_finish_effect: "§E$TRADITIONS_FINISH$§!Принятие всех $tr_empire_research_adopt$ увеличивает нашу §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! около §G+5%§!."
-  # Bountyhunter Tradition
- tradition_mando_bountyhunter: "Bounty Hunter"
- tradition_mando_bountyhunter_desc: "They can bring you in warm... or they can bring you in cold."
+  
+ tradition_holdouts: "Сопротивление"
+ tradition_holdouts_desc: "Наша война далека от завершения, с Республикой или без нее."
+ tr_holdouts_adopt: "Традиции Сепаратисткого сопротивления"
+ #tr_holdouts_adopt_effect:0 "REPLACE_ME"
+ #tr_holdouts_adopt_desc: ""
 
- tr_mando_bountyhunter_adopt: "Bounty Hunter Traditions"
- tr_mando_bountyhunter_adopt_desc: "§YMax Envoys§! §G+1§!"
- tr_mando_bountyhunter_adopt_effect: "§E$TRADITIONS_ADOPT$§!Increases the number of §YMax Envoys§! by §G1§!"
+ tr_holdouts_1: "Новое руководство"
+ #tr_holdouts_1_desc:0 "REPLACE_ME"
+ tr_holdouts_1_delayed: "Без Совета сепаратистов мы должны найти новое руководство, которое будет вести нас."
 
- tr_mando_bountyhunter_finish: "Bounty Hunter Traditions Finished"
- tr_mando_bountyhunter_finish_desc: "Unlocks §Y$op_cat_bountyhunter$§! Operations.\nAscension Perks Unlocked: §G+1§!"
- tr_mando_bountyhunter_finish_effect: "§E$TRADITIONS_FINISH$§!Adopting all $tr_mando_bountyhunter_adopt$ Unlocks §Y$op_cat_bountyhunter$§! Operations.\nAscension Perks Unlocked: §G+1§!"
+ tr_holdouts_2: "Инопланетные активы"
+ #tr_holdouts_2_desc:0 "REPLACE_ME"
+ tr_holdouts_2_delayed: "Хранилища, спрятанные в других мирах, могут предоставить нам достаточно средств для восстановления наших сил."
+
+ tr_holdouts_3:0 "Перезапущенные фабрики"
+ #tr_holdouts_3_desc:0 "REPLACE_ME"
+ tr_holdouts_3_delayed: "Литейные отсюда и до Джеонозиса будут продолжать производить для нас военную технику."
+
+ tr_holdouts_4:0 "Востановленные верфи"
+ #tr_holdouts_4_desc:0 "REPLACE_ME"
+ tr_holdouts_4_delayed: "Нашему флоту будет возвращена былая слава, чтобы сохранить нашу независимость."
+
+ tr_holdouts_5:0 "Улучшенные схемы дроидов"
+ #tr_holdouts_5_desc:0 "REPLACE_ME"
+ tr_holdouts_5_delayed: "Новые конструкции дроидов улучшат существующие модели с увеличенной огневой мощью и долговечностью."
  
- tr_mando_bountyhunter_1: "Information Gathering"
- tr_mando_bountyhunter_1_delayed: "Learning about your target is mandatory and can lead to a succesful capture."
+ #tr_holdouts_finished: "REPLACE_ME"
+ #tr_holdouts_finished_effect:0 "REPLACE_ME"
+ 
+ # Bountyhunter Tradition
+ tradition_mando_bountyhunter: "Охотники за головами"
+ tradition_mando_bountyhunter_desc: "Они могут принести вас еще теплым... или они могут принести вас уже холодным."
 
- tr_mando_bountyhunter_2: "Shadow Tailing"
- tr_mando_bountyhunter_2_delayed: "Follow their every movement. Homing beacons, dataspikes, and informants all have their roles to play."
+ tr_mando_bountyhunter_adopt: "Традиции охотников за головами"
+ tr_mando_bountyhunter_adopt_desc: "§YМаксимум послов§! §G+1§!"
+ tr_mando_bountyhunter_adopt_effect: "§E$TRADITIONS_ADOPT$§!Увеличивается §YМаксимум послов§! на §G1§!"
 
- tr_mando_bountyhunter_3: "Inquisition"
- tr_mando_bountyhunter_3_delayed: "Getting information with just looking intimidating is a skill not many have. If not, pain is also a possibility."
+ tr_mando_bountyhunter_finish: "Традиции охотников за головами завершены"
+ tr_mando_bountyhunter_finish_desc: "Открывает §Y$op_cat_bountyhunter$§! операции.\nРазблокирован бонус за стремление: §G+1§!"
+ tr_mando_bountyhunter_finish_effect: "§E$TRADITIONS_FINISH$§!Adopting all $tr_mando_bountyhunter_adopt$ Unlocks §Y$op_cat_bountyhunter$§! Operations.\nРазблокирован бонус за стремление: §G+1§!"
+ 
+ tr_mando_bountyhunter_1: "Сбор информации"
+ tr_mando_bountyhunter_1_delayed: "Изучение вашей цели является обязательным и может привести к успешному захвату."
 
- tr_mando_bountyhunter_4: "Trophy Collection"
- tr_mando_bountyhunter_4_delayed: "Sometimes a vast trophy collection is all that is needed. Only a fool would oppose a bounty hunter with a cargo hold full of bounties."
+ tr_mando_bountyhunter_2: "Теневой хвост"
+ tr_mando_bountyhunter_2_delayed: "Следите за каждым их движением. Отслеживающие маячки, компьютерные шипы и информаторы играют свою роль."
 
- tr_mando_bountyhunter_5: "The Hunt"
- tr_mando_bountyhunter_5_delayed: "Dead or alive, you're coming with me."
+ tr_mando_bountyhunter_3: "Инквизиция"
+ tr_mando_bountyhunter_3_delayed: "Получение информации с устрашающим видом — навык, которым владеют немногие. Если нет, то возможна и боль."
+
+ tr_mando_bountyhunter_4: "Коллекция трофеев"
+ tr_mando_bountyhunter_4_delayed: "Иногда обширная коллекция трофеев - это все, что нужно. Только дурак станет противостоять охотнику за головами с грузовым отсеком, полным наград."
+
+ tr_mando_bountyhunter_5: "Добыча"
+ tr_mando_bountyhunter_5_delayed: "Живой или мертвый, ты пойдешь со мной."
 
  # Children of the Watch Tradition
- tradition_mando_children_watch: "This is the Way"
- tradition_mando_children_watch_desc: "When one chooses to walk the Way of the Mandalore, you are both hunter and prey."
+ tradition_mando_children_watch: "Таков путь"
+ tradition_mando_children_watch_desc: "Когда кто-то выбирает Путь Мандалора, вы одновременно охотник и добыча."
  
- tr_mando_children_watch_adopt: "This is the Way Traditions"
- tr_mando_children_watch_adopt_desc: "§YHabitability§! increased by §G+10%§!"
- tr_mando_children_watch_adopt_effect: "§E$TRADITIONS_ADOPT$§!Increases the §YPlanet Habitability§! by §G10%§!"
+ tr_mando_children_watch_adopt: "Традиции Пути Мандалора"
+ tr_mando_children_watch_adopt_desc: "§YПриспособленность§! увеличивается на §G+10%§!"
+ tr_mando_children_watch_adopt_effect: "§E$TRADITIONS_ADOPT$§!Увеличивается §YПриспособленность на планетах§! на §G10%§!"
  
- tr_mando_children_watch_finish: "This is the Way Traditions Finished"
+ tr_mando_children_watch_finish: "Традиции Пути Мандалора завершены"
  
- tr_mando_children_watch_1: "Heritage"
- tr_mando_children_watch_1_delayed: "Mandalorians where once proud and honorable warriors. Feared and respecting throughout the galaxy."
+ tr_mando_children_watch_1: "Наследие"
+ tr_mando_children_watch_1_delayed: "Мандалорцы когда-то были гордыми и благородными воинами. Их боялись и уважали во всей галактике."
 
- tr_mando_children_watch_2: "Creed"
- tr_mando_children_watch_2_delayed: "The Mandalorian Creed is a code followed by the Mandalorians. It consists of several rules and is the definition of what it means to be a true Mandalorian."
+ tr_mando_children_watch_2: "Кредо"
+ tr_mando_children_watch_2_delayed: "Мандалорское кредо — это кодекс, которому следуют мандалорцы. Он состоит из нескольких правил и определяет, что значит быть настоящим Мандалорцем."
 
- tr_mando_children_watch_3: "Foundling"
- tr_mando_children_watch_3_delayed: "The creed states that when a child is orphaned and found by a Mandalorian, they are a foundling and under the protection of the Mandalorian who found them."
+ tr_mando_children_watch_3: "Подкидыш"
+ tr_mando_children_watch_3_delayed: "Кредо гласит, что если ребенок осиротел и найден Мандалорцем, то он считается подкидышем и находится под защитой Мандалорца, который его нашел."
 
- tr_mando_children_watch_4: "Covert"
- tr_mando_children_watch_4_delayed: "Shunned by the current Mandalorian society, the Children of the Watch cloistered themselves on Concordia."
+ tr_mando_children_watch_4: "Скрытность"
+ tr_mando_children_watch_4_delayed: "Отвергнутые нынешним мандалорским обществом, Дети Дозора уединились на Конкордии."
  
- tr_mando_children_watch_5: "Returning"
- tr_mando_children_watch_5_delayed: "Foundlings are either returned to their kind or taken in and raised as fellow Mandalorians, protected by whom they where found."
+ tr_mando_children_watch_5: "Возвращение"
+ tr_mando_children_watch_5_delayed: "Подкидыши либо возвращаются к себе подобным, либо принимаются и воспитываются как собратья-Мандалорцы, защищенные теми, кого они нашли."
  
  # Mandalmotors Tradition
- tradition_mando_mandalmotors: "MandalMotors"
- tradition_mando_mandalmotors_desc: "Backbone of Mandalores economy, producing a wide range of vehicles from tanks to starships and weapons."
+ tradition_mando_mandalmotors: "Мандал-Моторс"
+ tradition_mando_mandalmotors_desc: "Основа экономики Мандалора - это  производство широкого спектра транспортных средств, от танков до звездолетов и оружия."
 
- tr_mando_mandalmotors_adopt: "MandalMotors Traditions"
+ tr_mando_mandalmotors_adopt: "Традиции Мандал-Моторс"
  
- tr_mando_mandalmotors_finish: "MandalMotors Traditions Finished"
+ tr_mando_mandalmotors_finish: "Традиции Мандал-Моторс завершены"
  
- tr_mando_mandalmotors_1: "Mandal Designs"
- tr_mando_mandalmotors_1_delayed: "With a martial heritage stretching back beyond even the formation of the Old Republic, Mandalorians are famed for their single-minded focus on combat effectiveness."
+ tr_mando_mandalmotors_1: "Дизайн Мандал"
+ tr_mando_mandalmotors_1_delayed: "С военным наследием, простирающимся даже за пределы образования Старой Республики, Мандалорцы славятся своей целеустремленностью и сосредоточенностью на боевой эффективности."
 
- tr_mando_mandalmotors_2: "Heavy Ordnance"
- tr_mando_mandalmotors_2_delayed: "Many think they can outsmart Mandalorians. Perhaps, but we have yet to meet any who can outsmart a baradium warhead."
+ tr_mando_mandalmotors_2: "Тяжелая артиллерия"
+ tr_mando_mandalmotors_2_delayed: "Многие думают, что они могут перехитрить Мандалорцев. Возможно, но мы еще не встретили никого, кто мог бы перехитрить барадиевую боеголовку."
  
- tr_mando_mandalmotors_3: "Headquarters"
- tr_mando_mandalmotors_3_delayed: "Heart of MandalMotors and where deadly designs are made even more deadly."
+ tr_mando_mandalmotors_3: "Штаб-квартира"
+ tr_mando_mandalmotors_3_delayed: "Сердце Мандал-Моторс - это место, где смертоносные конструкции становятся еще более смертоносными."
 
- tr_mando_mandalmotors_4: "Testing Grounds"
- tr_mando_mandalmotors_4_delayed: "The frontlines is the ideal place to test our weapons."
+ tr_mando_mandalmotors_4: "Испытательные полигоны"
+ tr_mando_mandalmotors_4_delayed: "Линия фронта — идеальное место для испытания нашего оружия."
 
- tr_mando_mandalmotors_5: "Improved Mass Drivers"
- tr_mando_mandalmotors_5_delayed: "The engineers at MandalMotors have improved the damage of our mass drivers. With an increased rate of fire, our weapons will be the bane of enemy fleets."
+ tr_mando_mandalmotors_5: "Улучшенные масс-драйверы"
+ tr_mando_mandalmotors_5_delayed: "Инженеры Мандал-Моторс увеличили урон от наших масс-драйверов. Благодаря повышенной скорострельности наше оружие станет проклятием для вражеского флота."
 
  # Crusade Tradition
- tradition_mando_crusade: "Crusade"
- tradition_mando_crusade_desc: "Not since the Old Republic has the galaxy trembled before the might of our Mand'alor. We will change that."
+ tradition_mando_crusade: "Крестовый поход"
+ tradition_mando_crusade_desc: "Со времен Старой Республики галактика не дрожала перед мощью нашего Мандалора. Мы изменим это."
  
- tr_mando_crusade_adopt: "Crusade Traditions"
+ tr_mando_crusade_adopt: "Традиции крестовых походов"
  
- tr_mando_crusade_finish: "Crusade Traditions Finished"
+ tr_mando_crusade_finish: "Традиции крестовых походов завершены"
 
- tr_mando_crusade_1: "New Recruits"
- tr_mando_crusade_1_delayed: "Our numbers swell as we gather recruits from across the clans and conquered worlds."
+ tr_mando_crusade_1: "Новые рекруты"
+ tr_mando_crusade_1_delayed: "Нас становится больше, когда мы собираем рекрутов со всех кланов и завоеванных миров."
 
- tr_mando_crusade_2: "Preparations"
- tr_mando_crusade_2_delayed: "The planning has to be as exact and precise as each of our strikes."
+ tr_mando_crusade_2: "Подготовка"
+ tr_mando_crusade_2_delayed: "Планирование должно быть таким же точным, как и каждый из наших ударов."
 
- tr_mando_crusade_3: "War Games"
- tr_mando_crusade_3_delayed: "Simulated skirmishes and battles help prepare our forces for the coming crusade."
+ tr_mando_crusade_3: "Военные игры"
+ tr_mando_crusade_3_delayed: "Смоделированные стычки и сражения помогают подготовить наши силы к грядущему крестовому походу."
 
- tr_mando_crusade_4: "Reaching to the Stars"
- tr_mando_crusade_4_delayed: "Kote! Darasuum kote! Jorso'ran kando a tome."
+ tr_mando_crusade_4: "Дотянуться до звезд"
+ tr_mando_crusade_4_delayed: "Котэ! Дарасуум котэ! Джорсо'ран кандо а томе."
 
- tr_mando_crusade_5: "Force Projection"
- tr_mando_crusade_5_delayed: "Sa kyr'am nau tracyn kad, Vode an!"
+ tr_mando_crusade_5: "Проекция Силы"
+ tr_mando_crusade_5_delayed: "Са кир’ам нау трашин кад, Воде ан!"
 
  # Book of Boba Tradition
- tradition_mando_book_boba: "Fett Gotra"
- tradition_mando_book_boba_desc: "We are smarter then them, it is time we took our shot."
+ tradition_mando_book_boba: "Готра Фетта"
+ tradition_mando_book_boba_desc: "Мы умнее их, настало время выстрелить."
  
- tr_mando_book_boba_adopt: "Fett Gotra Traditions"
+ tr_mando_book_boba_adopt: "Традиции Готра Фетта"
 
- tr_mando_book_boba_finish: "Fett Gotra Traditions Finished"
+ tr_mando_book_boba_finish: "Традиции Готра Фетта завершены"
  
- tr_mando_book_boba_1: "What Is Yours"
- tr_mando_book_boba_1_delayed: "Taking back first what was once yours."
+ tr_mando_book_boba_1: "Что твое"
+ tr_mando_book_boba_1_delayed: "Сначала вернуть то, что когда-то было вашим."
 
- tr_mando_book_boba_2: "Muscle"
- tr_mando_book_boba_2_delayed: "You can only get so far without a tribe."
+ tr_mando_book_boba_2: "Мышцы"
+ tr_mando_book_boba_2_delayed: "Вы можете зайти так далеко без племени."
  
- tr_mando_book_boba_3: "Negotiations"
- tr_mando_book_boba_3_delayed: "Jabba had many vassals. We've got a lot of ground to cover if we are to keep his empire intact."
+ tr_mando_book_boba_3: "Переговоры"
+ tr_mando_book_boba_3_delayed: "У Джаббы было много вассалов. Нам предстоит многое сделать, если мы хотим сохранить его империю в неприкосновенности."
 
- tr_mando_book_boba_4: "Daimyo"
- tr_mando_book_boba_4_delayed: "Jabba ruled with fear. I intend to rule with respect."
+ tr_mando_book_boba_4: "Даймё"
+ tr_mando_book_boba_4_delayed: "Джабба правил со страхом. Я намерен править с уважением."
 
- tr_mando_book_boba_5: "Criminal Underworld"
- tr_mando_book_boba_5_delayed: "You all accrued wealth and riches under Jabba the Hutt. You can again, if you listen to Boba Fett."
+ tr_mando_book_boba_5: "Преступный мир"
+ tr_mando_book_boba_5_delayed: "Вы все накопили богатство при Джаббе Хатт. Ты сможешь снова, если будешь слушать Бобу Фетта."
