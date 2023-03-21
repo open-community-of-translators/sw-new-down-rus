@@ -3,7 +3,7 @@
 @tabs_pos_y = 230
 @tabs_size_h = -50
 @side_view_panel_width = 334
-@side_view_entry_width = 364
+@side_view_entry_width = 454
 
 guiTypes = {
 	containerWindowType = {
@@ -866,7 +866,7 @@ guiTypes = {
 		max_height = 800
 
 		position = { x = 565 y = 9 }
-		size = { width = 400 height = 559 }
+		size = { width = 480 height = 559 }
 	#Saved for the future
 	#	origo = lower_left
 	#	orientation = lower_left
@@ -879,7 +879,7 @@ guiTypes = {
 		if_resolution = {
 		min_height = 801
 		position = { x = 565 y = 9 }
-		size = { width = 400 height = 753 }
+		size = { width = 490 height = 753 }
 	#Saved for the future
 	#	origo = lower_left
 	#	orientation = lower_left
@@ -925,11 +925,11 @@ guiTypes = {
 
 			if_resolution = {
 			max_height = 800
-			size = { x = 370 y = 498 }
+			size = { x = 460 y = 498 }
 			}
 			if_resolution = {
 			min_height = 801
-			size = { x = 370 y = 692 }
+			size = { x = 460 y = 692 }
 			}
 
 			scrollbarType = "standardlistbox_slider"
@@ -1083,7 +1083,7 @@ guiTypes = {
 			font = "cg_16b"
 			text = "NAME"
 			position = { x = 40 y = 6 }
-			maxWidth = 160
+			maxWidth = 200
 			maxHeight = 20
 			fixedSize = yes
 			format = left
@@ -1094,8 +1094,8 @@ guiTypes = {
 			name = "cost"
 			font = "cg_16b"
 			text = "COST"
-			position = { x = -200 y = 6 }
-			maxWidth = 170
+			position = { x = -220 y = 6 }
+			maxWidth = 210
 			maxHeight = 20
 			fixedSize = yes
 			format = right
