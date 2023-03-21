@@ -386,7 +386,7 @@
  swnd_mando_clan_flavour.850.a.tooltip: "[From.GetName] объявляет войну [FromFrom.GetName] используя повод для войны §YМежклановая вражда§!"
  swnd_mando_clan_flavour.850.b: "Хватит! Это пустая трата ресурсов."
  swnd_mando_clan_flavour.850.c: "[FromFrom.GetName] победит без мандалорского флота."
- swnd_mando_clan_flavour.850.c.tooltip: "[From.GetName] объявляет войну [FromFrom.GetName] используя повод для войны §YМежклановая вражда§"
+ swnd_mando_clan_flavour.850.c.tooltip: "[From.GetName] объявляет войну [FromFrom.GetName] используя повод для войны §YМежклановая вражда§!"
  swnd_mando_clan_flavour.850.d: "[FromFrom.GetName] будет использовать всю нашу мощь!"!"
  swnd_mando_clan_flavour.850.d.tooltip: "[From.GetName] объявляет войну [FromFrom.GetName] используя повод для войны §YМежклановая вражда§! и ресурссы [Root.GetName],рискуя спровоцировать дезертирство"
  swnd_mando_clan_flavour.850.e: "Это пустая трата ресурсов."
