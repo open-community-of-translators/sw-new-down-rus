@@ -922,7 +922,7 @@ guiTypes = {
 			name = "entries_list"
 			position = { x = 9 y = 53 }
 			background = "GFX_tiles_dark_area_cut_8"
-
+		
 			if_resolution = {
 			max_height = 800
 			size = { x = 460 y = 498 }
@@ -956,8 +956,8 @@ guiTypes = {
 			spacing = 5
 
 			position = { x = 0 y = 10 }
-			size = { x = 340 y = 91 }
-
+			size = { x = 460 y = 91 }
+			
 #			if_resolution = {
 #			max_height = 800
 #			size = { x = 304 y = 498 }
