@@ -70,31 +70,31 @@
  tradition_rebel_mon_cala: "Дизайн Мон'Коламари"
  tradition_rebel_mon_cala_desc: "Горе тому, кто разбудит спящего Мон'Каламарского левиафана."
 
- tr_rebel_mon_cala_adopt: "Традиции дизайна Мон'Каламари"
+ tr_rebel_mon_cala_adopt: "Традиции дизайна Мон-Каламари"
 #  tr_rebel_mon_cala_adopt_desc: "$tradition_rebel_mon_cala_desc$\n\n$tr_rebel_mon_cala_adopt_effect$\n\n$tr_rebel_mon_cala_finished_effect$"
  tr_rebel_mon_cala_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nWill уменьшить наши §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! by §G-10%§! and уменьшить наши §Y$mod_planet_buildings_cost_mult$§! на §G-10%§!."
 
- tr_rebel_mon_cala_defenses: "Верфи Мон'Каламари"
+ tr_rebel_mon_cala_defenses: "Верфи Мон-Каламари"
  tr_rebel_mon_cala_defenses_delayed: "Ко времени Галактической гражданской войны верфи, которым более четырех тысяч лет, были известны своими элегантными, обтекаемыми конструкциями кораблей, характеризующимися индивидуальным производством, уникальной конструкцией и скульптурной органической формой корпуса."
 #  tr_rebel_mon_cala_defenses_desc: "Unlocks special §YShip Architecture§!,\n§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! and §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G10%§!."
 
- tr_rebel_mon_cala_engineers: "Корабельные техники Мон'Каламари"
+ tr_rebel_mon_cala_engineers: "Корабельные техники Мон-Каламари"
  tr_rebel_mon_cala_engineers_delayed: "Как великий скра'аканский хищник, который называет домом самые дальние глубины океанов Мон-Каламари, люди Мон'Кала не спешат гневаться, но внушают страх, когда их разбудят"
 #  tr_rebel_mon_cala_engineers_desc: "§Y$mod_ships_upkeep_mult$§! reduced by §G-5%§! and increases §Y$MOD_SHIP_SHIELD_MULT$§! by §G10%§!."
 
  tr_rebel_mon_cala_scraps: "Собирайте отходы"
- tr_rebel_mon_cala_scraps_delayed: "В то время как мон-каламари является бедной ресурсами планетой, этот недостаток только сделал Мон'Каламари исключительно искусными в выжимании последней капли производительности из своих шахт и фабрик."
+ tr_rebel_mon_cala_scraps_delayed: "В то время как Мон-Каламари является бедной ресурсами планетой, этот недостаток только сделал Мон-Каламари исключительно искусными в выжимании последней капли производительности из своих шахт и фабрик."
 #  tr_rebel_mon_cala_scraps_desc: "£electronics£ §Y$mod_country_electronics_produces_mult$§! increased by §G5%§! and £alloys£ §Y$mod_country_alloys_produces_mult$§! increased by §G5%§!."
 
  tr_rebel_mon_cala_converted: "Преобразованные Гражданские Корабли"
- tr_rebel_mon_cala_converted_delayed: "Хотя их изящные наклонные линии напоминают о мирных круизах, для которых они изначально были разработаны, крейсеры Мон'Каламари легко приспособились к войне."
+ tr_rebel_mon_cala_converted_delayed: "Хотя их изящные наклонные линии напоминают о мирных круизах, для которых они изначально были разработаны, крейсеры Мон-Каламари легко приспособились к войне."
 #  tr_rebel_mon_cala_converted_desc: "Decrease §YBuild Cost§! for all §YStar Cruiser Size§! ships by §G-10%§!."
 
  tr_rebel_mon_cala_shields: "Резервные генераторы щитов"
 #  tr_rebel_mon_cala_shields_desc: "§YShield Regen§! increased by §G1%§!"
- tr_rebel_mon_cala_shields_delayed: "в конструкциях Мон'Каламари были известны резервные генераторы защитных экранов, количество генераторов защитных экранов позволяло быстрее восполнять энергию."
+ tr_rebel_mon_cala_shields_delayed: "в конструкциях Мон-Каламари были известны резервные генераторы защитных экранов, количество генераторов защитных экранов позволяло быстрее восполнять энергию."
 
- tr_rebel_mon_cala_finished: "Традиции дизайна Мон'Каламари"
+ tr_rebel_mon_cala_finished: "Традиции дизайна Мон-Каламари"
  tr_rebel_mon_cala_finished_effect: "§E$TRADITIONS_FINISH$:§!\nПринятие всех $tr_rebel_mon_cala_adopt$ увеличивается §Y$mod_planet_jobs_consumer_goods_produces_mult$§! около §G10%§!."
 
 ### Galactic Empire
