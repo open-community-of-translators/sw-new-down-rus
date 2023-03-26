@@ -437,7 +437,7 @@ l_russian:
  mod_ship_swp_star_destroyer_size_cost_mult:0 "Стоимость постройки Звездных разрушителей"
  mod_ship_swp_battle_dragon_size_cost_mult:0 "Стоимость постройки Боевых драконов"
  mod_ship_swp_mando_destroyer_size_cost_mult:0 "Скорость постройки Мандолорских разрушителей"
- mod_ship_swp_mon_cal_size_cost_mult:0 "Скорость постройки кораблей Мон-каламари"
+ mod_ship_swp_mon_cal_size_cost_mult:0 "Скорость постройки кораблей Мон-Каламари"
  mod_planet_jobs_worker_spice_produces_mult:0 "Производство спайса"
  mod_planet_jobs_hyperfuel_produces_mult:0 "Производство гипертоплива"
  mod_pop_ethic_fanatic_materialist_attraction_mult:0 "Множитель привлекательности фанатичного материализма"
@@ -731,7 +731,7 @@ l_russian:
  
  leader_trait_endregaadPlaque: "Эндрегаагская чума"
  leader_trait_endregaadPlaque_desc: "Не обманывайтесь, думая, что это вирулентное, быстро распространяющееся, но несмертельное заболевание не представляет большой угрозы. Первоначально проявляющаяся как лихорадка, Эндрегаагская чума приводит к сильной потере жидкости в организме, заметному образованию корки вокруг глаз и рта, а также отеку языка и пальцев."
- leader_trait_moncalNerveshock: "Нервный шок Мон Каламари"
+ leader_trait_moncalNerveshock: "Нервный шок Мон-Каламари"
  leader_trait_moncalNerveshock_desc: "Смертельная, если против нее не сделать прививку, болезнь будет годами находиться в состоянии покоя, прежде чем взорвется внутри своего хозяина и поразит нервную систему."
 
  mod_planet_tibanna_miners_upkeep_mult: "£job_tibanna_miner£ Содержание сборщиков Тибанны"
