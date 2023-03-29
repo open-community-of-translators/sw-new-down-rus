@@ -3318,6 +3318,8 @@ l_russian:
  fail_alloy_trade_desc:0 "То §Y[galactic_empire.GetName]§! был обманут тем, §Y[hutt_cartel.GetName]§! в торговом соглашении, заключенном с экипажем корабля, который крал кредиты у имперских офицеров."
  sw_minor_faction:0 "Второстепенная фракция"
  sw_minor_faction_desc:0 "Второстепенная фракция, которая не стремится участвовать в галактической политике, но которой можно манипулировать или оставить в покое в соответствии с нашей прихотью."
+ col_sw_minor_faction:0 "$sw_minor_faction$"
+ col_sw_minor_faction_desc:0 "$sw_minor_faction_desc$"
  SWP_OUTPUT:0 "Выход"
  SWP_FABULOUS:0 "Потрясающе!"
  SWP_OK:0 "Ок"
