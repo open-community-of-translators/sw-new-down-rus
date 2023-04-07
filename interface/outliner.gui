@@ -123,8 +123,7 @@ guiTypes = {
 				format = left	
 			}
 			
-			buttonType =
-			{
+			buttonType = {
 				name = "options"
 				quadTextureSprite = "GFX_outliner_options_button"
 				position = { x= -112 y = -11  }
@@ -134,8 +133,7 @@ guiTypes = {
 				clicksound = "click_outliner"
 			}
 
-			buttonType =
-			{
+			buttonType = {
 				name = "rearrange"
 				quadTextureSprite = "GFX_button_sort_reorder_planets"
 				size = { x = 20 y = 20 }
@@ -1122,7 +1120,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "selected_overlay"
 			position = { x = 0 y = 0 }
-			size = { width = 256 height = 100% }
+			size = { width = 100% height = 100% }
 			background = {
 				name = "selected_bg"
 				spriteType = "GFX_glow_tile_orange_no_padding"
@@ -1132,7 +1130,7 @@ guiTypes = {
 		
 		iconType = {
 			name = "fleet_status"
-			position = { x = 4 y = 0 }
+			position = { x = 7 y = 2 }
 			spriteType = "GFX_fleet_status_icon"
 			frame = 20
 			scale = 0.6
@@ -1140,30 +1138,30 @@ guiTypes = {
 
 		iconType = {
 			name = "leader_level"
-			position = { x = 156 y = 1 }
+			position = { x = 120 y = 1 }
 			spriteType = "GFX_outliner_leader_level"
-			frame = 10
-			scale = 0.9
 			alwaysTransparent = no
+			#frame = 10
+			scale = 0.8
 		}
 
 		instantTextBoxType = {
 			name = "name"
 			font = "cg_16b"
 			text = "0"
-			position = { x = -82 y = 1 }
+			position = { x = -100 y = 1 }
 			maxWidth = 74
 			maxHeight = 20
 			fixedSize = yes
-			orientation = "UPPER_LEFT"
-			format = left
+			orientation = "UPPER_RIGHT"
+			format = right
 			text_color_code = "E" 
 			alwaysTransparent = yes
 		}
 
 		iconType = {
 			name = "progress"
-			position = { x = 180 y = 5 }
+			position = { x = 50 y = 5 }
 			spriteType = "GFX_outliner_planet_construction_progressbar"
 			alwaysTransparent = yes
 			frame = 50
@@ -1173,7 +1171,7 @@ guiTypes = {
 			name = "type"
 			font = "cg_16b"
 			text = "0"
-			position = { x = 28 y = 1 }
+			position = { x = 32 y = 1 }
 			maxWidth = 158
 			maxHeight = 20
 			fixedSize = yes
