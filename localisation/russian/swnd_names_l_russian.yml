@@ -4179,7 +4179,7 @@
  PRESCRIPTED_adjective_BlackSunOrganization:0 "Черное Солнце"
  PRESCRIPTED_ruler_name_BlackSunOrganization:0 "Зитон Модж"
  NAME_bothan_council:0 "Ботанский Совет"
- format.bothan_council:0 "Bothan Clans"
+ format.bothan_council:0 "Ботанский Совет"
  PRESCRIPTED_ship_prefix_BothanCouncil: "BC"
  PRESCRIPTED_species_name_BothanCouncil:0 "Ботан"
  PRESCRIPTED_species_plural_BothanCouncil:0 "Ботаны"
