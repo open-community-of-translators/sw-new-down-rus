@@ -132,7 +132,7 @@
 
 # Empire COMPNOR Tradition
  tradition_empire_compnor: "КОМПНОР"
- tradition_empire_compnor_desc: "Комиссия по сохранению Нового порядка (COMPNOR) является правительственным учреждением, ответственным за продвижение Нового Порядка - идеологии, лежащей в основе Галактической империи."
+ tradition_empire_compnor_desc: "Комиссия по сохранению Нового порядка (COMPNOR) является правительственным учреждением, ответственным за продвижение Нового Порядка - идеологии, лежащей в основе Галактической Империи."
 
  tr_empire_compnor_adopt: "КОМПНОР Традиции"
  tr_empire_compnor_adopt_desc: "§YМаксимальные соперники§! §G+1§!\n§YРазблокирует Указ:§! Кампания Имперского Ордена"
@@ -154,7 +154,7 @@
  tr_empire_compnor_frontier_initiative_delayed: "Ни один сантиметр земли не должен оставаться необработанным, если он может быть полезен Империи."
 #  tr_empire_compnor_frontier_initiative_desc: "All our planets gain §Y1 Тактические дроиды были типом боевых дроидов, предназначенных для планирования боевых стратегий. Компания Baktoid Combat Automata произвела несколько моделей тактических дроидов.§!."
 
- tr_empire_compnor_security_bureau: "Служба имперской безопасности"
+ tr_empire_compnor_security_bureau: "Имперская Служба Безопасности"
  tr_empire_compnor_security_bureau_delayed:0 "Пираты, повстанцы, гангстеры и монстры: многое происходит в бесконечной ночи космоса. Мужчины и женщины из Бюро Имперской безопасности - это те, кто отвечает взаимностью."
 #  tr_empire_compnor_security_bureau_desc: "§YBase Trade Protection§! for Trade Routes increased by §G5§!."
 
