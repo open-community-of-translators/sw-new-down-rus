@@ -182,6 +182,12 @@ guiTypes = {
 			}
 
 			buttonType = {
+				name = "go_to_observation_post"
+				quadTextureSprite = "GFX_fleetview_open_observation_post"
+				position = { x = 18 y = 4 }
+			}
+
+			buttonType = {
 				name = "close"
 				quadTextureSprite = "GFX_close"
 				position = { x = -43 y = 4 }
@@ -4639,11 +4645,6 @@ guiTypes = {
 			oversound = no_sound
 		}
 
-		iconType = {
-			name = "progressbar"
-			spriteType = "GFX_blocker_progressbar"
-			position = { x = 79 y = 70 }
-		}
 	}
 
 	containerWindowType = {

@@ -4867,7 +4867,7 @@
  NAME_Fateclaw: "Коготь Судьбы"
 
  #Mando update
- NAME_Clan_Leader: "Клан [Leader.GetName]"
+ NAME_Clan_Leader: "Клан [event_target:factionLeader.GetName]"
  NAME_root_militia: "Ополчение [Root.GetName]"
  NAME_Clan_Fleet_Yard: "Верфь [This.Owner.GetName]"
  format.mando_clan: "Мандалорский клан"
