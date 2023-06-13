@@ -232,8 +232,8 @@
  mandalorian_discommendation_not_ruler: "Правящий клан не может быть дискредитирован."
  mandalorian_discommendation_must_be_discommended: "[This.GetName] не был лишен чести."
  swnd_faction_events.1.name: "Клан добивается влияния"
- swnd_faction_events.1.desc.01: "Новый Клан пришел к власти, §H[Root.GetName]§!. Во главе с [Root.Leader.GetName] и его силой, сосредоточенной в системе [new_clan_system.GetName], [Root.GetName] стремится заслужить славу и честь для [Root.Owner.GetName]."
- swnd_faction_events.1.desc.02: "Новый Клан пришел к власти, §H[Root.GetName]§!. Во главе с [Root.Leader.GetName], [Root.GetName] стремится заработать славу и честь для [Root.Owner.GetName]."
+ swnd_faction_events.1.desc.01: "Новый Клан пришел к власти, §H[Root.GetName]§!. Во главе с [clan_leader.GetName] и его силой, сосредоточенной в системе [new_clan_system.GetName], [Root.GetName] стремится заслужить славу и честь для [Root.Owner.GetName]."
+ swnd_faction_events.1.desc.02: "Новый Клан пришел к власти, §H[Root.GetName]§!. Во главе с [clan_leader.GetName], [Root.GetName] стремится заработать славу и честь для [Root.Owner.GetName]."
  
  swnd_mandalorian_clans.2.name: "Кланы разобщены"
  swnd_mandalorian_clans.2.desc: "Перед лицом конфликта с [From.GetName], все настоящие Мандалорские воины должны отложить в сторону свои разногласия и объединиться против общего врага.\n\nНепрекращающиеся восстания, охватившие Империю, официально прекратились."

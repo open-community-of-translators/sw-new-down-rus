@@ -4,6 +4,10 @@
  # Fleet View
  ####################################
 
+ robots_outlawed_name: "Рабочие-дроиды вне закона"
+ robots_outlawed_name_desc: "Дроиды-автоматы опасны не только в том, что отберут у нашего народа возможность зарабатывать на жизнь, они угрожают самой структуре общества. Нельзя позволить, чтобы мы стали устаревшими.\n\n§EПоселения и армии дроидов будут автоматически демонтированы.§!"
+ robots_allowed_name: "Рабочие-дроиды разрешены"
+ 
  pirate_station: "XQ Станция"
  pirate_station_plural: "XQ Станция"
 
@@ -11,7 +15,11 @@
  CARAVANEERS_LABEL_TOOLTIP: "$SWND_NEW_ORDER_TOOLTIP$"
  CARAVANEERS_LABEL_TOOLTIP_MULTIPLAYER: "§H$SWND_NEW_ORDER$§!\n$SWND_NEW_ORDER_TOOLTIP$"
 
- bombardment_armageddon: "Базовая Дельта Ноль"
+ XENO_COMPATIBILITY_LABEL: "$SWND_TRADE_RELAYS$"
+ XENO_COMPATIBILITY_LABEL_TOOLTIP: "$SWND_TRADE_RELAYS_TOOLTIP$"
+ XENO_COMPATIBILITY_LABEL_MULTIPLAYER: "$SWND_TRADE_RELAYS_TOOLTIP$"
+ 
+ bombardment_armageddon: "База Дельта Ноль"
 
  #Megacorp
  mod_planet_metallurgists_produces_mult: "£job_foundry£ Металлургическая продукция"
@@ -37,8 +45,25 @@
  menp_undertaker: "Имперский отдел редизайна"
  menp_undertaker_desc: "Тот, кто позволяет инопланетянину жить, разделяет преступление его существования."
  
- unlocks_armageddon_bombardment: "§YБазовая Дельта Нулевая позиция§! разблокирован.\n"
+ unlocks_armageddon_bombardment: "§Yпозиция База Дельта Ноль§! разблокирована.\n"
+ 
+ #Traditions
+ tr_unyielding_resistance_is_frugal_desc: "£building£ §Y$building_stronghold$§! сооружения и §YУкрепленные районы§! теперь производят §Y3§! £unity£ единства. Кроме того, §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§! увеличивается на §G+25%§!."
+ 
+ # Base Music Tracks
+ maintheme: "The Mandalorian - Mando is Back"
+ 
+ # Buildings
+ district_hab_industrial: "Промыщленный район"
+ 
+ # Overlord
+ feature_hyper_relay_construction: "Строительство Гиперпространственных Ретрансляторов"
+ feature_hyper_relay_construction_desc: "Начинает строительство §YГиперпространственного Ретранслятора§! за пределами гравитационного колодца системы. $swnd_hyperspace_relay_DESC$"
+ HYPER_RELAY_GALACTIC: "$swnd_hyperspace_relay$"
+ HYPER_RELAY_GALACTIC_DESC: "Эта система содержит §Y$swnd_hyperspace_relay$§!"
 
+ #Frontend
+ CREDITS: "§HCredits§!\nDiscover the people behind New Dawn"
  ####################################
  # Additional
  ####################################
