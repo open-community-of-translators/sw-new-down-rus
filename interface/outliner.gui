@@ -639,6 +639,14 @@ guiTypes = {
 			scale = 0.7
 		}
 
+		iconType = {
+				name = "leader_level"
+				position = { x = -100 y = 24 }
+				spriteType = "GFX_outliner_leader_level"
+				alwaysTransparent = no
+				scale = 0.8
+				}
+
 		instantTextBoxType = {
 			name = "name"
 			font = "cg_16b"
@@ -1064,6 +1072,13 @@ guiTypes = {
 				spriteType = "GFX_outliner_planet_construction_progressbar"
 				frame = 50
 			}
+		}
+		iconType = {
+			name = "leader_level"
+			position = { x = 4 y = 24 }
+			spriteType = "GFX_outliner_leader_level"
+			alwaysTransparent = no
+			scale = 0.8
 		}											
 	}
 

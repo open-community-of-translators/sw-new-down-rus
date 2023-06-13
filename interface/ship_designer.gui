@@ -1,4 +1,7 @@
-#swp
+@dynamic_extra = 0.3
+@dynamic_extra_half = 0.15
+
+#swnd
 guiTypes = {
 	# this controls the size of the 3d viewport ui element
 	positionType = {
@@ -52,6 +55,28 @@ guiTypes = {
 		
 		Orientation = upper_left
 		show_sound = "interface"
+		
+		buttonType = {
+			name = "fleet_manager_tab"
+			quadTextureSprite = "GFX_tab_1_inactive"
+			position = { x = -20 y = 640 }
+			font = "cg_16b"
+			buttonText = "FLEET_MANAGER_VIEW"
+			buttonFont = "cg_16b"
+			shortcut = "z"
+			clicksound = "tab_click"
+		}
+
+		buttonType = {
+			name = "ship_designer_tab"
+			quadTextureSprite = "GFX_tab_1_active"
+			position = { x = 110 y = 640 }
+			font = "cg_16b"
+			buttonText = "SHIPDESIGNER"
+			buttonFont = "cg_16b"
+			shortcut = "x"
+			clicksound = "tab_click"
+		}
 
 		background = {
 			name = "background"
@@ -104,7 +129,7 @@ guiTypes = {
 			id = "museum_button"
 			font = "cg_16b"
 			spriteType = "GFX_button_164_24"
-			position = { x = 15 y = -95 }
+			position = { x = 15 y = -75 }
 			text = "Устаревшие модели"
 			orientation = "LOWER_LEFT"
 			effect = swp_museum_button_effect

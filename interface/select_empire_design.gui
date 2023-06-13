@@ -508,7 +508,7 @@ if_resolution = {
 ###############################################################
 
 		#######################
-		# edit/select/delete/back
+		# edit/select/delete/back/close
 		#######################
 
 		buttonType = {
@@ -536,6 +536,7 @@ if_resolution = {
 			buttonText = "SELECT"
 			position = { x = 301 y = 9999 }
 			orientation = CENTER
+			shortcut = "RETURN"
 			clicksound = "confirmation"
 		}
 		buttonType = {
@@ -612,6 +613,15 @@ if_resolution = {
 			maxHeight = 20
 			font = "malgun_goth_24"
 			text = "SELECT_GAMEPAD_INDICATOR"
+		}
+		
+		buttonType = {
+			name = "close"
+			quadTextureSprite = "GFX_close"
+			position = { x = 474 y = -388 }
+			orientation = CENTER
+			shortcut = "ESCAPE"
+			clicksound = "back_click"
 		}
 	}
 	
