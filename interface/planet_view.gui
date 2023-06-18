@@ -2240,6 +2240,8 @@ guiTypes = {
 					clipping = yes
 					background = {
 						name = "leader_background"
+						spriteType = "GFX_dark_area_cut"
+						alwaysTransparent = yes
 					}
 				}
 

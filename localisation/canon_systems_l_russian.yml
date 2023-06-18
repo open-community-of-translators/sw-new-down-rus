@@ -555,19 +555,19 @@
  NAME_Colonial_Station_Camco_S: "Кам'ко"
  NAME_Colonial_Station_Camco_P1: "Колониальная станция Кам'ко"
  
- #Naropar 
- NAME_Naropar: "Напорар"
- NAME_Naropar_S: "Напорар"
- NAME_Naropar_P1: "Напорар I"
- NAME_Naropar_P2: "Напорар II"
- NAME_Naropar_P3: "Напорар"
- NAME_Naropar_P4: "Напорар IV"
- NAME_Naropar_P4_1: "Напорар IVa"
- NAME_Naropar_P4_2: "Напорар IVb"
- NAME_Naropar_P4_3: "Напорар IVc"
- NAME_Naropar_P4_4: "Напорар IVd"
- NAME_Naropar_P4_5: "Напорар IVg"
- NAME_Naropar_P5: "Напорар V"
+ #Naporar 
+ NAME_Naporar: "Напорар"
+ NAME_Naporar_S: "Напорар"
+ NAME_Naporar_P1: "Напорар I"
+ NAME_Naporar_P2: "Напорар II"
+ NAME_Naporar_P3: "Напорар"
+ NAME_Naporar_P4: "Напорар IV"
+ NAME_Naporar_P4_1: "Напорар IVa"
+ NAME_Naporar_P4_2: "Напорар IVb"
+ NAME_Naporar_P4_3: "Напорар IVc"
+ NAME_Naporar_P4_4: "Напорар IVd"
+ NAME_Naporar_P4_5: "Напорар IVg"
+ NAME_Naporar_P5: "Напорар V"
  
  ### CIS Sector Systems ###
  
