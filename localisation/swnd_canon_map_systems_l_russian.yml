@@ -9496,10 +9496,10 @@
  NAME_Geroon_P1: "Героон"
  
  #The Red Twinds
- NAME_The_Red_Twinds: "Красные Близнецы"
- NAME_The_Red_Twinds_S1: "Красные Близнецы A"
- NAME_The_Red_Twinds_S2: "Красные Близнецы B"
- NAME_The_Red_Twinds_P1: "Ачерин"
+ NAME_The_Red_Twins: "Красные Близнецы"
+ NAME_The_Red_Twins_S1: "Красные Близнецы A"
+ NAME_The_Red_Twins_S2: "Красные Близнецы B"
+ NAME_The_Red_Twins_P1: "Ачерин"
  
  #Durace
  NAME_Durace: "Дурац"

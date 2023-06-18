@@ -1,0 +1,10 @@
+﻿l_russian:
+
+ COUNCIL_DYNAMIC_BACKGROUND: "[Root.GetScriptedCouncilBackgroundSWND]"
+ #LEADER_RECRUITMENT_SCRIPTED_GREETING: "[Root.GetScriptedLeaderRecruitedGreetingSTNC]"
+ #LEADER_PORTRAIT_BACKGROUND: "[Root.GetScriptedLeaderPortraitBackgroundSTNC]"
+ #COUNCIL_AGENDA_DESC_SUFFIX: "[Root.GetScriptedCouncilAgendaDescSuffixSTNC]"
+
+
+
+ #LEADER_BACKGROUND_DESC: "[Root.GetBackgroundText]"
