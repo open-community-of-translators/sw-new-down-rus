@@ -1,0 +1,436 @@
+guiTypes = {
+	containerWindowType = {
+		name = "outliner_member_planet_entry_window"
+		size = { width = 290 height = 22 } #наш фикс
+		position = { x = 0 y = 0 }
+		orientation = upper_right
+		moveable = no
+
+		buttonType = {
+			name = "background"
+			quadTextureSprite = "GFX_outliner_small_entry"
+			position = { x = 0 y = -5 }
+			clicksound = "click_outliner"
+			oversound = no_sound
+		}
+
+		containerWindowType = {
+			name = "selected_overlay"
+			position = { x = 0 y = 0 }
+			size = { width = 290 height = 100% } #наш фикс
+			background = {
+				name = "selected_bg"
+				spriteType = "GFX_glow_tile_orange_no_padding"
+				alwaysTransparent = yes
+			}
+		}
+
+		iconType = {
+			name = "planet_type_icon"
+			position = { x = 4 y = -2 }
+			spriteType = "GFX_planet_type"
+			frame = 1
+			scale = 0.62
+			alwaysTransparent = yes
+		}
+
+		iconType = {
+			name = "designation_icon"
+			position = { x = 7 y = 0 }
+			spriteType = "GFX_colony_type"
+			frame = 1
+			scale = 0.62
+			alwaysTransparent = yes
+		}
+        
+        iconType = {
+			name = "planet_type_overlay_icon_bg"
+			position = { x = 20 y = 0 }
+			spriteType = "GFX_planet_icon_bg"
+			scale = 0.7
+			alwaysTransparent = no
+		}
+
+		iconType = {
+			name = "designation_overlay_icon_bg"
+			position = { x = 30 y = 0 }
+			spriteType = "GFX_planet_icon_bg"
+			scale = 0.7
+			alwaysTransparent = no
+		}
+
+		iconType = {
+			name = "planet_type_icon_overlay"
+			position = { x = 20 y = 18 }
+			spriteType = "GFX_invisible"
+			frame = 1
+			scale = 0.7
+			alwaysTransparent = no
+		}
+
+		iconType = {
+			name = "designation_icon_overlay"
+			position = { x = 33 y = 2 }
+			spriteType = "GFX_invisible"
+			scale = 0.55
+			alwaysTransparent = no
+		}
+		
+		iconType = {
+			name = "occupied"
+			position = { x = 4 y = -2 }
+			spriteType = "GFX_occupation_flag_big"
+			scale = 0.62
+			alwaysTransparent = no
+		}		
+		
+		iconType = {
+			name = "blockaded"
+			position = { x = 9 y = 2 }
+			spriteType = "GFX_planet_blockade"
+			scale = 0.62
+			alwaysTransparent = no
+		}		
+
+		iconType = {
+			name = "invasion"
+			position = { x = 9 y = 2 }
+			spriteType = "GFX_planet_invasion"
+			scale = 0.62
+			alwaysTransparent = no
+		}
+        
+        iconType = {
+			name = "revolting"
+			position = { x = 0 y = -2 }
+			spriteType = "GFX_planet_revolting"
+			alwaysTransparent = no
+			scale = 0.6
+		}
+		
+		containerWindowType = {
+			name = "planet_status_container"
+			position = { x = 20 y = 0 }
+			size = { width = 75 height = 15 }	
+		
+			gridBoxType = {
+				name = "planet_status_list"
+				slotSize = { width = 15 height = 15 }
+				max_slots_horizontal = 5
+				max_slots_vertical = 1
+				format = "UPPER_RIGHT"
+			}	
+		}
+
+		instantTextBoxType = {
+			name = "name"
+			font = "cg_16b"
+			text = "0"
+			position = { x = 60 y = 1 }
+			maxWidth = 135 #наш фикс
+			maxHeight = 19
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			text_color_code = "E"
+			alwaysTransparent = yes
+		}
+
+		buttonType = {
+			name = "holding_flag"
+			spriteType = "GFX_empire_flag_32"
+			position = { x = -1 y = -1 }
+			scale = 0.75
+		}	
+		
+		instantTextBoxType = {
+			name = "star"
+			font = "cg_16b"
+			text = ""
+			position = { x = 9999 y = 3 }
+			maxWidth = 0
+			maxHeight = 0
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+			format = right
+			alwaysTransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "colony_type"
+			font = "cg_16b"
+			text = "0"
+			position = { x = 9999 y = 1 }
+			maxWidth = 0
+			maxHeight = 0
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			alwaysTransparent = yes
+		}		
+
+		containerWindowType = {
+			name = "constructions"
+			size = { width = 300 height = 20 }
+			position = { x = -188 y = 2 }
+			orientation = upper_right
+			moveable = no
+
+			OverlappingElementsBoxType = {
+				name = "box"
+				position = { x = 0 y = 0 }
+				size = { x = 130 y = 22 }
+				spacing = 1
+				format = right
+			}
+		}
+
+		containerWindowType = {
+			name = "colonize"
+			size = { width = 100% height = 100% }
+			position = { x = 41 y = 0 }
+			orientation = upper_left
+			moveable = no
+
+			iconType = {
+				name = "icon"
+				position = { x = 108 y = 1 }
+				spriteType = "GFX_ship_class_small"
+				frame = 14
+				scale = 0.7
+			}
+
+			iconType = {
+				name = "progress"
+				position = { x = 123 y = 5 }
+				#spriteType = "GFX_outliner_planet_colonize_small_progressbar"
+				spriteType = "GFX_outliner_planet_construction_progressbar"
+				frame = 50
+			}
+		}
+		iconType = {
+			name = "leader_level"
+			position = { x = 0 y = 8 }
+			spriteType = "GFX_outliner_leader_level"
+			alwaysTransparent = no
+			scale = 0.6
+		}										
+	}
+
+	containerWindowType = {
+		name = "outliner_member_fleet_civilian_entry_window"
+		size = { width = 300 height = 20 } #наш фикс
+		position = { x = 0 y = 0 }
+		orientation = upper_right
+		moveable = no
+
+		buttonType = {
+			name = "background"
+			quadTextureSprite = "GFX_outliner_small_entry"
+			position = { x = 0 y = -5 }
+			orientation = "UPPER_LEFT"
+			clicksound = click_outliner
+			oversound = no_sound
+
+		}
+
+		containerWindowType = {
+			name = "selected_overlay"
+			position = { x = 0 y = 0 }
+			size = { width = 100% height = 100% }
+			background = {
+				name = "selected_bg"
+				spriteType = "GFX_glow_tile_orange_no_padding"
+				alwaysTransparent = yes
+			}
+		}
+		
+		iconType = {
+			name = "fleet_status"
+			position = { x = 7 y = 2 }
+			spriteType = "GFX_fleet_status_icon"
+			frame = 20
+			scale = 0.6
+		}
+
+		iconType = {
+			name = "leader_level"
+			position = { x = 0 y = 8 }
+			spriteType = "GFX_outliner_leader_level"
+			alwaysTransparent = no
+			scale = 0.6
+		}
+
+		instantTextBoxType = {
+			name = "name"
+			font = "cg_16b"
+			text = "0"
+			position = { x = -180 y = 1 } #наш фикс
+			maxWidth = 140 #наш фикс
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+			format = right
+			text_color_code = "E" 
+			alwaysTransparent = yes
+		}
+
+		iconType = {
+			name = "progress"
+			position = { x = 250 y = 5 } #наш фикс
+			spriteType = "GFX_outliner_planet_construction_progressbar"
+			alwaysTransparent = yes
+			frame = 50
+		}
+
+		instantTextBoxType = {
+			name = "type"
+			font = "cg_16b"
+			text = "0"
+			position = { x = 32 y = 1 }
+			maxWidth = 158
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			text_color_code = "H" 
+			alwaysTransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "location"
+			font = "cg_16b"
+			text = ""
+			position = { x = 100 y = 1 }
+			maxWidth = 74
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+			format = right
+			alwaysTransparent = yes
+		}					
+	}
+
+	containerWindowType = {
+		name = "outliner_member_fleet_entry_window"
+		size = { width = 350 height = 20 } #наш фикс
+		position = { x = 0 y = 0 }
+		orientation = upper_right
+		moveable = no
+
+		buttonType = {
+			name = "background"
+			quadTextureSprite = "GFX_outliner_small_entry"
+			position = { x = 0 y = -5 }
+			clicksound = click_outliner
+			oversound = no_sound
+		}
+
+		containerWindowType = {
+			name = "selected_overlay"
+			position = { x = 0 y = 0 }
+			size = { width = 300 height = 100% } #наш фикс
+			background = {
+				name = "selected_bg"
+				spriteType = "GFX_glow_tile_orange_no_padding"
+				alwaysTransparent = yes
+			}
+		}
+
+		iconType = {
+			name = "alliance_icon"
+			position = { x = 16 y = 7 }
+			spriteType = "GFX_ship_class_small"
+			frame = 16
+			scale = 0.5
+		}
+
+		
+		iconType = {
+			name = "fleet_status"
+			position = { x = 4 y = 0 }
+			spriteType = "GFX_fleet_status_icon"
+			frame = 20
+			scale = 0.7
+		}
+
+		iconType = {
+				name = "leader_level"
+				position = { x = 0 y = 8 }
+				spriteType = "GFX_outliner_leader_level"
+				alwaysTransparent = no
+				scale = 0.6
+				}
+
+		instantTextBoxType = {
+			name = "name"
+			font = "cg_16b"
+			text = "0"
+			position = { x = 28 y = 1 }
+			maxWidth = 100 #наш фикс
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			text_color_code = "E" 
+			alwaysTransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "location"
+			font = "cg_16b"
+			text = ""
+			position = { x = -1000 y = -1000 }
+			maxWidth = 80
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+			format = right
+			#alwaysTransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "size_limit"
+			font = "cg_16b"
+			text = ""
+			position = { x = 115 y = 1 } #наш фикс
+			maxWidth = 112
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			text_color_code = "H" 
+			#alwaysTransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "offensive_power"
+			position = { x = -120 y = 1 } #наш фикс
+			font = "cg_16b"
+			maxWidth = 64
+			maxHeight = 20
+			text = "?"
+			fixedSize = yes
+			text_color_code = "Y" 
+			format = right
+			orientation = "UPPER_RIGHT"
+		}
+		
+		iconType = {
+			name = "progress"
+			position = { x = 100 y = 4 }
+			spriteType = "GFX_outliner_planet_colonize_small_progressbar"
+			frame = 50
+		}
+		
+		gridBoxType = {
+			name = "fleet_status_grid"
+			position = { x = -105 y = 2 } #наш фикс
+			slotSize = { width = 15 height = 15 } 
+			max_slots_horizontal = 2
+			max_slots_vertical = 1
+			format = "UPPER_RIGHT"
+			orientation ="UPPER_RIGHT"
+		}
+	}
+}
