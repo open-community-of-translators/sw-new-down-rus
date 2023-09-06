@@ -669,18 +669,20 @@ guiTypes = {
 
 		smoothListboxType = {
 			name = "entries_list"
-			position = { x = 12 y = 53 }
-			if_resolution = {
-			max_height = 800
-			size = { x = 460 y = 498 }
+			position = { x = 9 y = 53 }
+			background = "GFX_tiles_dark_area_cut_8"
+
+			if_scaled_resolution = {
+				max_height = 800
+				size = { x = 460 y = 498 }
 			}
-			if_resolution = {
-			min_height = 801
-			size = { x = 460 y = 692 }
-			}	
+
+			if_scaled_resolution = {
+				min_height = 801
+				size = { x = 460 y = 692 }
+			}
+
 			scrollbarType = "standardlistbox_slider"
-			borderSize = { x = 0 y = 0 }
-			orientation = "UPPER_LEFT"
 			spacing = 3
 		}
 	}

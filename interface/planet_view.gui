@@ -1351,7 +1351,7 @@ guiTypes = {
 							text = ""
 							position = { x = 60 y = 79 }
 							maxWidth = 160
-							maxHeight = 20
+							maxHeight = 30
 							fixedSize = yes
 							format = left
 							orientation = lower_left
