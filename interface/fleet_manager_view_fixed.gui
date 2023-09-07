@@ -775,7 +775,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "cost"
 			font = "cg_16b"
-			position = { x = @[FLEET_MANAGER_SIDE_VIEW_WIDTH - 285] y = 6 }
+			position = { x = @[(FLEET_MANAGER_SIDE_VIEW_WIDTH - 230) * -1] y = 6 }
 			maxWidth = 250
 			maxHeight = 20
 			fixedSize = yes
