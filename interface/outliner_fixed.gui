@@ -45,7 +45,7 @@ guiTypes = {
         
         iconType = {
 			name = "planet_type_overlay_icon_bg"
-			position = { x = 20 y = 0 }
+			position = { x = 30 y = 0 }
 			spriteType = "GFX_planet_icon_bg"
 			scale = 0.7
 			alwaysTransparent = no
@@ -61,10 +61,10 @@ guiTypes = {
 
 		iconType = {
 			name = "planet_type_icon_overlay"
-			position = { x = 20 y = 18 }
+			position = { x = 30 y = -1 }
 			spriteType = "GFX_invisible"
 			frame = 1
-			scale = 0.7
+			scale = 0.6
 			alwaysTransparent = no
 		}
 
@@ -127,7 +127,7 @@ guiTypes = {
 			font = "cg_16b"
 			text = "0"
 			position = { x = 60 y = 1 }
-			maxWidth = 135 #наш фикс
+			maxWidth = 75 #наш фикс
 			maxHeight = 19
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -171,8 +171,8 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "constructions"
-			size = { width = 300 height = 20 }
-			position = { x = -188 y = 2 }
+			size = { width = 100 height = 20 }
+			position = { x = -220 y = 2 }
 			orientation = upper_right
 			moveable = no
 
@@ -215,6 +215,171 @@ guiTypes = {
 			alwaysTransparent = no
 			scale = 0.6
 		}										
+	}
+
+	containerWindowType = {
+		name = "outliner_member_planet_construction_entry_window"
+		size = { width = 40 height = 22 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "progress"
+			position = { x = 31 y = 3 }
+			spriteType = "GFX_outliner_planet_construction_progressbar"
+			frame = 50
+		}
+
+		iconType = {
+			name = "building"
+			position = { x = 18 y = 0 }
+			spriteType = "GFX_building_icon"
+		}
+
+		#iconType = {
+		#	name = "pop"
+		#	position = { x = 0 y = 0 }
+		#	spriteType = "GFX_pop_white"
+		#}
+
+		iconType = {
+			name = "army"
+			position = { x = 16 y = 0 }
+			spriteType = "GFX_army_icons"
+			frame = 1
+			scale = 0.59
+		}
+	}
+
+	containerWindowType = {
+		name = "outliner_member_army_entry_window"
+		size = { width = 256 height = 20 }
+		position = { x = 0 y = 0 }
+		orientation = upper_right
+		moveable = no
+
+		buttonType = {
+			name = "background"
+			quadTextureSprite = "GFX_outliner_small_entry"
+			position = { x = 0 y = -5 }
+			orientation = "UPPER_LEFT"
+			clicksound = click_outliner
+			oversound =	no_sound
+		}
+
+		containerWindowType = {
+			name = "selected_overlay"
+			position = { x = 0 y = 0 }
+			size = { width = 248 height = 100% }
+			background = {
+				name = "selected_bg"
+				spriteType = "GFX_glow_tile_orange_no_padding"
+				alwaysTransparent = yes
+			}
+		}
+
+		iconType = {
+			name = "planet_type"
+			position = { x = 6 y = 0 }
+			spriteType = "GFX_planet_type"
+			frame = 1
+			alwaysTransparent = yes
+			scale = 0.52
+		}
+		
+		instantTextBoxType = {
+			name = "location"
+			font = "cg_16b"
+			text = ""
+			position = { x = 9999 y = 3 }
+			maxWidth = 120
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+			format = right
+			alwaysTransparent = yes
+		}
+		
+		iconType = {
+			name = "fleet_status"
+			position = { x = 4 y = 0 }
+			spriteType = "GFX_fleet_status_icon"
+			frame = 20
+			alwaysTransparent = yes
+			scale = 0.7
+		}
+		
+		iconType = {
+			name = "invasion"
+			position = { x = 77 y = 15 }
+			spriteType = "GFX_alliance_vote_status"
+			alwaysTransparent = no
+			frame = 3
+			scale = 0.6
+		}
+		
+		instantTextBoxType = {
+			name = "army_power"
+			position = { x = -64 y = 1 }
+			font = "cg_16b"
+			text = "power: 5"
+			maxWidth = 58
+			format = right
+			maxHeight = 20
+			fixedSize = yes
+			orientation = "UPPER_RIGHT"
+		}		
+
+		instantTextBoxType = {
+			name = "name"
+            orientation = "UPPER_LEFT"
+            position = { x = 25 y = 1 }                  
+			font = "cg_16b"
+			text = "0"			
+            format = left
+			maxWidth = 70
+			maxHeight = 19
+			fixedSize = yes		
+			#text_color_code = "E" 
+			text_color_code = "E"
+			alwaysTransparent = yes
+		}
+
+		OverlappingElementsBoxType = {
+			name = "box"
+			position = { x = 80 y = 0 }
+			size = { x = 120 y = 20 }
+			spacing = 0
+			format = left
+		}		
+	}
+
+	containerWindowType = {
+		name = "outliner_army_type_entry_window"
+		size = { width = 30 height = 20 }
+		position = { x = 0 y = 0 }
+		orientation = upper_left
+		moveable = no
+
+		iconType = {
+			name = "icon"
+			spriteType = "GFX_army_icons"
+			position = { x = 17 y = 4 }
+			frame = 2
+			scale = 0.4
+		}
+
+		instantTextBoxType = {
+			name = "amount"
+			font = "cg_16b"
+			text = ""
+			position = { x = 31 y = 1 }
+			maxWidth = 15
+			maxHeight = 19
+			fixedSize = yes
+			orientation = "UPPER_LEFT"
+			format = left
+			text_color_code = "H"
+		}		
 	}
 
 	containerWindowType = {
@@ -265,20 +430,20 @@ guiTypes = {
 			name = "name"
 			font = "cg_16b"
 			text = "0"
-			position = { x = -180 y = 1 } #наш фикс
-			maxWidth = 140 #наш фикс
+			position = { x = 28 y = 1 }
+			maxWidth = 70 #наш фикс
 			maxHeight = 20
 			fixedSize = yes
-			orientation = "UPPER_RIGHT"
-			format = right
+			orientation = "UPPER_LEFT"
+			format = left
 			text_color_code = "E" 
 			alwaysTransparent = yes
 		}
 
 		iconType = {
 			name = "progress"
-			position = { x = 250 y = 5 } #наш фикс
-			spriteType = "GFX_outliner_planet_construction_progressbar"
+			position = { x = 100 y = 5 } #наш фикс
+			spriteType = "GFX_outliner_construction_ship_progressbar"
 			alwaysTransparent = yes
 			frame = 50
 		}
@@ -287,8 +452,8 @@ guiTypes = {
 			name = "type"
 			font = "cg_16b"
 			text = "0"
-			position = { x = 32 y = 1 }
-			maxWidth = 158
+			position = { x = 150 y = 1 }
+			maxWidth = 100
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -367,7 +532,7 @@ guiTypes = {
 			font = "cg_16b"
 			text = "0"
 			position = { x = 28 y = 1 }
-			maxWidth = 100 #наш фикс
+			maxWidth = 62 #наш фикс
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -393,7 +558,7 @@ guiTypes = {
 			name = "size_limit"
 			font = "cg_16b"
 			text = ""
-			position = { x = 115 y = 1 } #наш фикс
+			position = { x = 90 y = 1 } #наш фикс
 			maxWidth = 112
 			maxHeight = 20
 			fixedSize = yes
@@ -405,9 +570,9 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "offensive_power"
-			position = { x = -120 y = 1 } #наш фикс
+			position = { x = -158 y = 1 } #наш фикс
 			font = "cg_16b"
-			maxWidth = 64
+			maxWidth = 60
 			maxHeight = 20
 			text = "?"
 			fixedSize = yes
@@ -425,7 +590,7 @@ guiTypes = {
 		
 		gridBoxType = {
 			name = "fleet_status_grid"
-			position = { x = -105 y = 2 } #наш фикс
+			position = { x = -150 y = 2 } #наш фикс
 			slotSize = { width = 15 height = 15 } 
 			max_slots_horizontal = 2
 			max_slots_vertical = 1
@@ -667,7 +832,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "constructions"
-			size = { width = 60 height = 20 }
+			size = { width = 50 height = 20 }
 			position = { x = 105 y = 2 }
 			clipping = no
 
@@ -687,7 +852,7 @@ guiTypes = {
 			overlappingElementsBoxType = {
 				name = "progress_bars"
 				position = { x = 18 y = 3 }
-				size = { x = 60 y = 20 }
+				size = { x = 50 y = 20 }
 				spacing = 2.0
 				format = left
 			}

@@ -1,4 +1,5 @@
 guiTypes = {
+	@tt_offset_y = 0
 	containerWindowType = {
 		name = "maingui_bottombar"
 		size = { width = 100% height = 100% }

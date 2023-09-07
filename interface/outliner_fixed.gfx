@@ -1,6 +1,26 @@
 spriteTypes = {
 
-	@shipyard_construction_max_width = 60
+	progressbarType = {
+		name = "GFX_outliner_planet_construction_progressbar"
+		color = { 1.0 1.0 1.0 }
+		colorTwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/interface/progressbars/outliner_progress_full.dds"
+		textureFile2 = "gfx/interface/progressbars/outliner_progress_empty.dds"
+		size = { x = 22 y = 8 }
+		effectFile = "gfx/FX/progress.shader"
+	}
+
+	progressbarType = {
+		name = "GFX_outliner_construction_ship_progressbar"
+		color = { 1.0 1.0 1.0 }
+		colorTwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/interface/progressbars/outliner_progress_full.dds"
+		textureFile2 = "gfx/interface/progressbars/outliner_progress_empty.dds"
+		size = { x = 45 y = 8 }
+		effectFile = "gfx/FX/progress.shader"
+	}
+
+	@shipyard_construction_max_width = 50
 	@shipyard_construction_spacing = 2
 	@starbase_progressbar_y = 8
 
