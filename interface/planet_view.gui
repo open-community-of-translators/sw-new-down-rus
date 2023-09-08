@@ -963,7 +963,7 @@ guiTypes = {
 					### Districts Container Window
 					containerWindowType = {
 						name = "districts_window"
-						size = { width = 410 height = 185 }
+						size = { width = 410 height = 175 }
 						position = { x = 10 y = 30 }
 						background = {
 							position = { x = 0 y = 0 }
@@ -1265,8 +1265,8 @@ guiTypes = {
 				# Buildings
 				containerWindowType = {
 					name = "title_buildings"
-					size = { width = 400 height = 209 }
-					position = { x = 20 y = 218 }
+					size = { width = 330 height = 219 }
+					position = { x = 60 y = 208 }
 
 					background = {
 						position = { x = 0 y = 0 }
@@ -1289,7 +1289,7 @@ guiTypes = {
 
 				gridBoxType = {
 					name = "buildings_box"
-					position = { x = 15 y = 218 }
+					position = { x = 60 y = 208 }
 					size = { width = 205 height = 205 }
 					format = "UPPER_LEFT"
 					slotsize = { width = 54 height = 54 }
@@ -2158,7 +2158,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 2
-					max_slots_vertical = 7
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2177,7 +2177,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 4
-					max_slots_vertical = 7
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2188,7 +2188,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 3
-					max_slots_vertical = 7
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2253,7 +2253,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 2
-					max_slots_vertical = 7
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2272,7 +2272,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 4
-					max_slots_vertical = 8
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2283,7 +2283,7 @@ guiTypes = {
 					format = "UPPER_LEFT"
 					slotsize = { width = 35 height = 35 }
 					max_slots_horizontal = 3
-					max_slots_vertical = 7
+					max_slots_vertical = 5
 					add_horizontal = yes
 				}
 
@@ -2920,7 +2920,7 @@ guiTypes = {
 		buttonType = {
 			name = "population_tab"
 			quadTextureSprite = "GFX_tab_2_inactive"
-			position = { x= 109 y = @tab_height }
+			position = { x= 110 y = @tab_height }
 			orientation = lower_left
 			buttonText = "POPULATION_TAB"
 			buttonFont = "cg_16b"
@@ -2933,7 +2933,7 @@ guiTypes = {
 		buttonType = {
 			name = "population_tab_active"
 			quadTextureSprite = "GFX_tab_2_active"
-			position = { x= 109 y = @tab_height }
+			position = { x= 110 y = @tab_height }
 			orientation = lower_left
 			buttonText = "POPULATION_TAB"
 			buttonFont = "cg_16b"
@@ -2974,7 +2974,7 @@ guiTypes = {
 		buttonType = {
 			name = "corporate_tab"
 			quadTextureSprite = "GFX_tab_2_inactive"
-			position = { x= 381 y = @tab_height }
+			position = { x= 380 y = @tab_height }
 			orientation = lower_left
 			buttonText = "CORPORATE_TAB"
 			buttonFont = "cg_16b"
@@ -2987,7 +2987,7 @@ guiTypes = {
 		buttonType = {
 			name = "corporate_tab_active"
 			quadTextureSprite = "GFX_tab_2_active"
-			position = { x= 381 y = @tab_height }
+			position = { x= 380 y = @tab_height }
 			orientation = lower_left
 			buttonText = "CORPORATE_TAB"
 			buttonFont = "cg_16b"
@@ -4282,7 +4282,7 @@ guiTypes = {
 				format = "UPPER_LEFT"
 				slotsize = { width = 15 height = 15 }
 				max_slots_horizontal = 3
-				max_slots_vertical = 4
+				max_slots_vertical = 3
 				add_horizontal = yes
 			}
 		}
@@ -4290,20 +4290,20 @@ guiTypes = {
 		# Passed 15 Cubes, Number Box is shown. Replaces the bottom 6 cubes.
 		containerWindowType = {
 			name = "planet_district_cap_container"
-			size = { width = 44 height = 28 }
-			position = { x = 5 y = 108 }
+			size = { width = 44 height = 20 }
+			position = { x = 5 y = 98 }
 
 			iconType = {
 				name = "cap_background"
 				spriteType = "GFX_district_any_big"
-				position = {x = 3 y = 0 }
-				scale = 1
+				position = {x = 7 y = 0 }
+				scale = 0.8
 			}
 
 			instantTextBoxType = {
 				name = "num_districts_text"
 				font = "cg_16b"
-				position = { x = 0 y = 11 }
+				position = { x = 0 y = 10 }
 				text = "10"
 				maxWidth = 52
 				maxHeight = 20
@@ -5516,9 +5516,9 @@ guiTypes = {
 
 		buttonType = {
 			name = "locked_building_button"
-			position = { x= 0 y=1 }
+			position = { x= 0 y=0 }
 			spriteType = "GFX_building_module_locked_slot"
-			scale = 0.86
+			scale = 0.95
 			clicksound = "menu_slide_open"
 		}
 

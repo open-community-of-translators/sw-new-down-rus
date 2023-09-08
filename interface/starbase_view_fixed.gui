@@ -1206,8 +1206,8 @@ guiTypes = {
 			name = "title"
 			font = "malgun_goth_24"
 			text = "STARBASE_SHIPS"
-			position = { x = 12 y = 12 }
-			maxWidth = 423
+			position = { x = @[side_view_panel_width / 2 - 210] y = 12 }
+			maxWidth = 420
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
@@ -1219,7 +1219,7 @@ guiTypes = {
 		buttonType = {
 			name = "close"
 			quadTextureSprite = "GFX_close"
-			position = { x = -46 y = 7 }
+			position = { x = -45 y = 7 }
 			orientation = "UPPER_RIGHT"
 			shortcut = "ESCAPE"
 			clicksound = "back_click"
@@ -1233,12 +1233,12 @@ guiTypes = {
 
 			if_scaled_resolution = {
 				max_height = 800
-				size = { x = 460 y = 498 }
+				size = { x = @side_view_entry_width y = 498 }
 			}
 
 			if_scaled_resolution = {
 				min_height = 801
-				size = { x = 460 y = 692 }
+				size = { x = @side_view_entry_width y = 692 }
 			}
 
 			scrollbarType = "standardlistbox_slider"
@@ -1374,67 +1374,65 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "name"
 			font = "cg_16b"
-			text = "NAME"
 			position = { x = 40 y = 6 }
-			maxWidth = 215
+			maxWidth = 320
 			maxHeight = 20
 			fixedSize = yes
 			format = left
-			#alwaysTransparent = yes
+			orientation = upper_left
+			alwaysTransparent = yes
+			text_color_code = "H"
 		}
 
 		instantTextBoxType = {
 			name = "cost"
 			font = "cg_16b"
-			text = "COST"
-			position = { x = -200 y = 6 }
-			maxWidth = 170
+			position = { x = -260 y = 24 }
+			maxWidth = 250
 			maxHeight = 20
 			fixedSize = yes
 			format = right
 			orientation = upper_right
-			text_color_code = "Y"
+			text_color_code = "H"
 		}
 
 		instantTextBoxType = {
 			name = "type"
 			font = "cg_16b"
-			text = "TYPE"
 			position = { x = 40 y = 24 }
 			maxWidth = 150
 			maxHeight = 20
 			fixedSize = yes
 			format = left
 			orientation = upper_left
+			alwaysTransparent = yes
 			text_color_code = "E"
-			#alwaysTransparent = yes
 		}
 
 		instantTextBoxType = {
 			name = "auto_gen"
 			font = "cg_16b"
 			text = "AUTO_GENERATED_BEST"
-			position = { x = -160 y = 24 }
-			maxWidth = 95
+			position = { x = -275 y = 6 }
+			maxWidth = 200
 			maxHeight = 20
 			fixedSize = yes
 			format = right
 			orientation = upper_right
-			text_color_code = "E"
-			#alwaysTransparent = yes
+			alwaystransparent = yes
+			text_color_code = "G"
 		}
 
 		instantTextBoxType = {
 			name = "time"
 			font = "cg_16b"
-			text = "TIME"
-			position = { x = -70 y = 24 }
+			position = { x = -70 y = 6 }
 			maxWidth = 60
 			maxHeight = 20
 			fixedSize = yes
 			format = right
 			orientation = upper_right
-			text_color_code = "Y"
+			text_color_code = "H"
 		}
 	}
 

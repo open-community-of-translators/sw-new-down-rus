@@ -1,4 +1,7 @@
 guiTypes = {
+	@side_view_width  = 490
+	@side_view_entry_width = 460
+	
 	containerWindowType = {
 		name = "megastructure_view"
 		#position = { x = 36 y = -557 }
@@ -628,13 +631,13 @@ guiTypes = {
 		max_height = 800
 		
 		position = { x = 565 y = 9 }
-		size = { width = 490 height = 559 }
+		size = { width = @side_view_width height = 559 }
 		}
 		if_resolution = {
 		min_height = 801
 		
 		position = { x = 565 y = 9 }
-		size = { width = 490 height = 753 }
+		size = { width = @side_view_width height = 753 }
 		}
 	
 
@@ -647,8 +650,8 @@ guiTypes = {
 			name = "title"
 			font = "malgun_goth_24"
 			text = "STARBASE_SHIPS"
-			position = { x = 12 y = 12 }
-			maxWidth = 423
+			position = { x = @[side_view_width / 2 - 210] y = 12 }
+			maxWidth = 420
 			maxHeight = 20
 			fixedSize = yes
 			orientation = "UPPER_LEFT"
