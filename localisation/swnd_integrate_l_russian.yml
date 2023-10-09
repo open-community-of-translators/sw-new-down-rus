@@ -165,7 +165,7 @@
  tr_rebel_alliance_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_rebel_alliance_adopt$ will increase our §Y$MOD_COUNTRY_TRUST_CAP_ADD$§! by §G+50§! and our §Y$MOD_COUNTRY_TRUST_GROWTH$§! by §G+33%§!. It will also allow us to form the Rebel Alliance once we have enough support."
 
 # rebel outpost building
- building_rebel_base_desc:0 "£building£ §BRebel Outpost§!\n\nРасположенные вдали от любопытных имперских глаз, партизанские базы предоставляют местным повстанческим группам безопасное убежище для отдыха, перевооружения и сопротивления." 
+ building_rebel_base_desc:0 "£building£ §BПовстанческая базаt§!\n\nРасположенные вдали от любопытных имперских глаз, партизанские базы предоставляют местным повстанческим группам безопасное убежище для отдыха, перевооружения и сопротивления." 
 
 #policies
 policy_swp_force_ascension:0 "§YВознесение Силы§!"
