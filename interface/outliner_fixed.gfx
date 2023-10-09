@@ -1,5 +1,10 @@
 spriteTypes = {
 
+	spriteType = {
+		name = "GFX_outliner_small_entry"
+		textureFile = "gfx/interface/buttons/outliner_small_entry.dds"
+	}
+
 	progressbarType = {
 		name = "GFX_outliner_planet_construction_progressbar"
 		color = { 1.0 1.0 1.0 }
