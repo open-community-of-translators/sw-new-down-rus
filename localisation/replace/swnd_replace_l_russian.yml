@@ -52,7 +52,7 @@
  maintheme: "The Mandalorian - Mando is Back"
  
  # Buildings
- district_hab_industrial: "Промыщленный район"
+ district_hab_industrial: "Промышленный район"
  
  # Overlord
  feature_hyper_relay_construction: "Строительство Гиперпространственных Ретрансляторов"

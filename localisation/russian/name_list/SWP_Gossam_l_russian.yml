@@ -559,7 +559,7 @@
 	GOSSAM_SHIP_qaynan: "Qaynan"
 	GOSSAM_SHIP_ucuetis: "Ucuetis"
 	GOSSAM_SHIP_ogoun: "Ogoun"
-	GOSSAM_SHIP_ground_transport: "Ground Transport"
+	GOSSAM_SHIP_ground_transport: "Транспортный корабль"
 	GOSSAM_SHIP_spacegun_victory: "SpaceGun Victory"
 	GOSSAM_SHIP_spacegun_success: "SpaceGun Success"
 	GOSSAM_SHIP_spacegun_supremacy: "SpaceGun Supremacy"

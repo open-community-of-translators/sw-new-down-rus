@@ -407,7 +407,7 @@
 	HUTT_SHIP_domestic: "Domestic"
 	HUTT_SHIP_butler: "Butler"
 	HUTT_SHIP_retainer: "Retainer"
-	HUTT_SHIP_ground_transport: "Ground Transport"
+	HUTT_SHIP_ground_transport: "Транспортный корабль"
 	HUTT_SHIP_spacegun_victory: "SpaceGun Victory"
 	HUTT_SHIP_spacegun_success: "SpaceGun Success"
 	HUTT_SHIP_spacegun_supremacy: "SpaceGun Supremacy"

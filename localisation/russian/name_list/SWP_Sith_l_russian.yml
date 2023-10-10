@@ -291,7 +291,7 @@
 	SITH_SHIP_menial: "Menial"
 	SITH_SHIP_auxiliary: "Auxiliary"
 	SITH_SHIP_keeper: "Keeper"
-	SITH_SHIP_ground_transport: "Ground Transport"
+	SITH_SHIP_ground_transport: "Транспортный корабль"
 	SITH_SHIP_spacegun_victory: "SpaceGun Victory"
 	SITH_SHIP_spacegun_success: "SpaceGun Success"
 	SITH_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
