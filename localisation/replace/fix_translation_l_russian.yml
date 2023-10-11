@@ -4,3 +4,13 @@
  #Hull Sizes
  ####################################
  transport: " "
+
+ ####################################
+ #Ship Designer
+ ####################################
+ SHIP_DESIGN_AUTO_GENERATE: "Автосоздание проектов"
+
+ FLEET_MANAGER_VIEW: "Управление флотом"
+ topbar_button_fleet_manager_name: "Управление флотом"
+ FLEET_VIEW_OPEN_FLEET_MANAGER: "§HУправление флотом§!"
+
