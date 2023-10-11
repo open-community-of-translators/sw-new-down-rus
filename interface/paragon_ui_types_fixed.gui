@@ -1,0 +1,187 @@
+guiTypes = {
+    containerWindowType = {
+		name = "paragon_portrait_container_research"
+		size = { width = 272 height = 120 }
+		clipping = no
+
+		### HITBOX ###
+
+		background = {
+			name = "bg"
+			spriteType = "GFX_invisible"
+			alwaystransparent = no
+		}
+
+		### HEAD OF RESEARCH BACKGROUND ###
+
+		iconType = {
+			name = "bg_head_of_research"
+			position = { x = 5 y = 6 }
+			spriteType = "GFX_bg_head_of_research"
+			alwaysTransparent = yes
+		}
+
+		buttonType = {
+			name = "assign_character"
+			quadTextureSprite = "GFX_invisible"
+			size = { x = 100 y = 100 }
+			position = { x = 30 y = 15 }
+		}
+
+		### EMPTY SLOT ##
+		containerWindowType = {
+			name = "no_character_container"
+			size = { width = 80 height = 100 }
+			position = { x = 3 y = 0 }
+
+			iconType = {
+				name = "empty_leader_icon"
+				quadTextureSprite = "GFX_empty_leader"
+				position = { x = 10 y = 12 }
+				scale = 1.2
+				alwaysTransparent = yes
+			}
+
+			iconType = {
+				name = "head_of_research_icon"
+				spriteType = "GFX_icon_councilor_research"
+				position = { x = 100 y = 13 }
+			}
+
+			instantTextBoxType = {
+				name = "head_of_research_title"
+				font = "cg_16b"
+				position = { x = 140 y = 19 }
+				text = "councilor_research"
+				maxWidth = 175
+				maxHeight = 25
+				format = left
+				multiline = no
+				alwaystransparent = no
+			}
+		}
+
+		containerWindowType = {
+			name = "leader_container"
+			position = { x = 0 y = 0 }
+			size = { width = 500 height = 272 }
+			clipping = yes
+
+			### PORTRAIT ###
+
+			containerWindowType = {
+				name = "character_portrait_container_clipping_mask"
+				size = { width = 236 height = 120 }
+				position = { x = 0 y = 0 }
+				orientation = upper_left
+				clipping = yes
+
+				iconType = {
+					name = "character_portrait"
+					quadTextureSprite = "GFX_portrait_character_close_up"
+					position = { x = -50 y = -10 }
+					scale = 0.4
+					alwaysTransparent = yes
+				}
+			}
+
+			### RARITY #
+			iconType = {
+				name = "leader_rarity_icon"
+				position = { x = -5 y = 12 }
+				spriteType = "GFX_leader_rarity_horizontal"
+			}
+
+			### CLASS ###
+
+			iconType = {
+				name = "leader_type"
+				quadTextureSprite = "GFX_leader_icons"
+				position = { x = 8 y = 15 }
+				scale = 1.0
+			}
+
+			containerWindowType = {
+				name = "leader_subclass_layered_icon_locator_0"
+				position = { x = 7 y = 34 }
+			}
+
+			### SKILL ###
+
+			iconType = {
+				name = "skill_icon_bg"
+				spriteType = "GFX_leader_skill_bg"
+				position = { x = 23 y = 98 }
+				scale = 0.7
+				centerPosition = yes
+			}
+
+			iconType = {
+				name = "skill_icon"
+				position = { x = 23.5 y = 98.5 }
+				spriteType = "GFX_leader_skill"
+				centerPosition = yes
+			}
+
+			### COUNCILOR INFO ###
+
+			iconType = {
+				name = "council_position_icon"
+				spriteType = "GFX_council_position_icon"
+				position = { x = 100 y = 13 }
+			}
+
+			### NAME AND TITLE ###
+
+			instantTextBoxType={
+				name = "name_without_title_text"
+				font = "cg_16b"
+				position = { x = 140 y = 12 }
+				maxWidth = 134
+				maxHeight = 20
+				fixedSize = yes
+				format = left
+				text_color_code = "Y"
+			}
+
+			buttonType = {
+				name = "rename_leader"
+				position = { x = 140 y = 12 }
+				size = { x = 134 y = 20 }
+				quadTextureSprite = "GFX_invisible"
+			}
+
+			instantTextBoxType = {
+				name = "councilor_title"
+				font = "cg_16b"
+				position = { x = 140 y = 30 }
+				maxWidth = 150
+				maxHeight = 25
+				format = left
+				multiline = yes
+				alwaystransparent = no
+			}
+
+			instantTextBoxType={
+				name = "leader_class_text"
+				font = "cg_16b"
+				position = { x = 140 y = 28 }
+				maxWidth = 150
+				maxHeight = 20
+				fixedSize = yes
+				format = left
+				alwaystransparent = yes
+			}
+
+			### TRAITS ###
+
+			OverlappingElementsBoxType = {
+				name = "traits_overlapping_box"
+				position = { x = 101 y = 80 }
+				size = { x = 225 y = 30 }
+				first_on_top = yes
+			}
+
+		}
+	}
+}

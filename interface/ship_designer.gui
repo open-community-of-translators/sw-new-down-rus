@@ -130,7 +130,7 @@ guiTypes = {
 			font = "cg_16b"
 			spriteType = "GFX_button_164_24"
 			position = { x = 15 y = -75 }
-			text = "Устаревшие модели"
+			text = "Устаревшие проекты"
 			orientation = "LOWER_LEFT"
 			effect = swp_museum_button_effect
 			vertical_alignment = center

@@ -1,0 +1,11 @@
+spriteTypes = {
+    progressbartype = {
+		name = "GFX_queue_progressbar_fleet_view"
+		color = { 1.0 1.0 1.0 }
+		colortwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/interface/progressbars/queue_progressbar_325.dds"
+		textureFile2 = "gfx/interface/progressbars/queue_progressbar_empty_325.dds"
+		size = { x = 465 y = 14 }
+		effectFile = "gfx/FX/progress_startend.shader"
+	}
+}

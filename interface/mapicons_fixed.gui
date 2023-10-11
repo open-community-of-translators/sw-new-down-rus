@@ -1,0 +1,6 @@
+guiTypes = {
+	positionType = {
+		name = "star_mapicon_icon_offset_big_frame"
+		position = { x = -40 y = 3 }
+	}
+}
