@@ -3451,7 +3451,7 @@ l_russian:
  mod_shipsize_swp_kiltirin_frigate_hull_mult:0 "Килтирин Множитель корпуса раннего фрегата"
  mod_shipsize_swp_kiltirin_frigate_build_cost_mult:0 "Килтирин Стоимость постройки раннего фрегата"
  mod_shipsize_swp_kiltirin_frigate_upkeep_mult:0 "Килтирин Содержание раннего фрегата"
- swp_pelta_frigate:0 "Ранный фрегат"
+ swp_pelta_frigate:0 "Ранний фрегат"
  swp_pelta_frigate_plural:0 "Ранние фрегаты"
  swp_pelta_frigate_build_speed_mult:0 "Пельта Скорость постройки раннего фрегата"
  swp_pelta_frigate_hull_mult:0 "Пельта Множитель корпуса раннего фрегата"
