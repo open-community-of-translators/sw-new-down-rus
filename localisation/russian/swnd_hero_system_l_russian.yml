@@ -1,7 +1,7 @@
 ﻿l_russian:
-
- ##### Prescripted Leaders #####
- ### Imperial ###
+  
+  ##### Prescripted Leaders ##### 
+  ### Imperial ### 
  palpatine_backstory: "Начав с должности простого сенатора от §YНабу§! и дойдя до ранга Верхновного канцлера, §Y[This.GetName]§! правит §YПервой Галактической Империей§!."
  palpatine_catchphrase: "Я люблю демократию."
  vader_backstory: "§Y[This.GetName]§!, когда-то известный как легендарный Энакин Скайуокер - Лорд ситхов, которого боятся по всей галактике. Будучи правой рукой §HИмператора§!, он выслеживает всех оставшихся джедаев и сокрушает очаги восстания по всей галактике."
@@ -19,7 +19,7 @@
  PRESCRIPED_leader_name_pestage: "Сейт Пестаж"
  pestage_backstory: "§Y[This.GetName]§! — амбициозный правитель, служащий на стороне §HИмператора§!."
  pestage_catchphrase: "Без силы человек умирает."
- ### Rebel ###
+  ### Rebel ### 
  mon_mothma_backstory: "§Y[This.GetName]§! является сенатором §YЧандрилы§! и открыто критикует быструю милитаризацию §HГалактической Империи§!."
  mon_mothma_catchphrase: "Я покажу тебе камень в моей руке, но ты не попадешь ножом в горло."
  rebel_mon_mothma_backstory: "§Y[This.GetName]§! возглавляет молодой §YАльянс Повстанцев§! против мощи §HГалактической Империи§!."
@@ -27,7 +27,7 @@
  bail_organa_catchphrase: "Самый простой жест доброты может наполнить галактику надеждой."
  raddus_backstory: "§Y[This.GetName]§! был мэром на своей родной планете §YДак§! и является откровенным членом §YАльянса Повстанцев§!, известным своим резким и практичным подходом."
  raddus_catchphrase: "Это адмирал Раддус из Альянса повстанцев. Всем командирам эскадрилий, доложите."
- ### Mandalorian ###
+  ### Mandalorian ### 
  bo_katan_backstory: "Несмотря на то, что §Y[This.GetName]§! является принцессой Дома Крайз, прошлое §Y[This.GetName]§! наполнено связями с §HДозором Смерти§! и §HКоллективом теней§!."
  bo_katan_catchprhase: "Враг моего врага — мой друг."
  boba_fett_backstory: "Неизмененный клон легендарного Джанго Фетта, имя которому §Y[This.GetName]§!. Он вселяет страх в его врагов."
@@ -44,25 +44,25 @@
  gar_saxon_catchphrase: "Победа или смерть!"
  tiber_saxon_backstory: "§Y[This.GetName]§! является братом §YГаром Саксона§! и яростно предан делу Империи. По его мнению, его несомненная преданность и служение Империи защитят §YМандалор§!."
  tiber_saxon_catchphrase: "Я и есть Сенат! Палпатин показал мне путь к истинной власти."
-
- ## Chiss ##
+  
+  ## Chiss ## 
  PRESCRIPTED_leader_name_admiralaralani: "Ар'алани"
  aralani_backstory: "§Y[This.GetName]§! служила вместе с §HСтаршим капитаном Митт'рау'нуруодо§! и членом семьи Иризи. Ее военные способности были продемонстрированы в ее многочисленных столкновения с §HГрисками§!."
  aralani_catchphrase: "«Мы здесь, чтобы доставить сообщение. Давайте доставим его."
  PRESCRIPTED_leader_name_eli_vanto: "Эли Вэнто"
  # eli_vanto_backstory: "§Y[This.GetName]§! is §YMitth'raw'nuruodo§!'s attaché to the §YChiss Ascendancy§!. He brings with him not only knowledge from the Imperial Academy, but wisdom and guidance taught by §YThrawn§! himself."
  # eli_vanto_catchphrase: "wip"
-
- ## Hutt ##
+  
+  ## Hutt ## 
  PRESCRIPTED_leader_name_jabba: "Джабба Десилиджик Тиуре"
  jabba_backstory: ""Немногие криминальные авторитеты столь могущественны и влиятельны, как §HЕго Превосходительство §Y[This.GetName]§! из §YНал-Хатта§!§!. Он контролирует многочисленные действия по контрабанде, рабству и пиратству по всему §BВнешнему кольцу§!."
-
- ### Other - from formables or neutral ###
+  
+  ### Other - from formables or neutral ### 
  lama_su_backstory: "На посту премьер-министра Камино §Y[This.GetName]§! теперь руководит своим народом в неспокойные времена."
  lama_su_catchphrase: ""Мы должны быть осторожными."
-
- #####Hero System#####
- ### Rebel Alliance Humans
+  
+  #####Hero System##### 
+  ### Rebel Alliance Humans 
  swnd_hero_name_dodonna: "Яг Додонна"
  dodonna_backstory: "§Y[This.GetName]§! - ветеран Республиканского флота и уважаемый военачальник."
  dodonna_catchphrase: "Служить хорошо не есть слепо повиноваться."
@@ -84,18 +84,18 @@
  swnd_hero_name_gerrera: "Со Геррера"
  gerrera_backstory: "Озлобленный смертью своей сестры во время Войн Клонов, §Y[This.GetName]§! является печально известным лидером §HПартизанской ячейки§!."
  gerrera_catchphrase: "Ты можешь либо адаптироваться и выжить, либо умереть вместе с прошлым."
-
- ### Mon Calamari Heroes
+  
+  ### Mon Calamari Heroes 
  swnd_hero_name_ackbar: "Джиал Акбар"
  ackbar_backstory: "§Y[This.GetName]§! служил капитаном гвардии Мон-Каламари во время Войн клонов. Он служит §YВосстанию§! как её главный военачальник."
- ackbar_catchphrase: "Да пребудет с нами Сила." # note to self, replace before release
-
- ### Twilek Heroes
+ ackbar_catchphrase: "Да пребудет с нами Сила."
+  
+  ### Twilek Heroes 
  swnd_hero_name_hera: "Гера Синдулла"
  hera_syndulla_backstory: "§Y[This.GetName]§! - дочь борца за свободу §YЧама Синдуллы§! и лидера §HГруппы Феникс§!. Она опытный пилот и известна своим сострадательным характером."
  hera_syndulla_catchphrase: "У нас есть надежда. Надеемся, что дела пойдут лучше. Так и будет."
-
- ### Galactic Empire Heroes
+  
+  ### Galactic Empire Heroes 
  swnd_hero_name_pryce: "Аринда Прайс"
  pryce_backstory: "§Y[This.GetName]§! - уроженка мира §BВнешнего кольца§!  §YЛотал§!. Она считает себя выше своих сельских корней и стремится к промышленной мощи Империи."
  pryce_catchphrase: "Я служу Империи до конца."
@@ -128,47 +128,47 @@
  armand_backstory: "§Y[This.GetName]§! — стойкий приверженец идеалов Галактической Империи."
  swnd_hero_name_gallius: "Галлиус Ракс"
  gallius_catchphrase: "Как я уже сказал: есть цель."
- gallius_backstory: "§Y[This.GetName]§! сделал себе имя как заслуженный член Имперского флота и он близок к самому Императору." 
+ gallius_backstory: "§Y[This.GetName]§! сделал себе имя как заслуженный член Имперского флота и он близок к самому Императору."
  swnd_hero_name_isard: "Исанн Айсарл"
  isard_backstory: "§Y[This.GetName]§! дочь уважаемого члена §HСовета по безопасности и разведке§! §YАрманда Айсарда§!. Она известна своей амбициозностью, безжалостностью и жестокостью."
  isard_catchphrase: "Наследие Айсардов находится в очень надежных руках."
  swnd_hero_name_daala: "Натаси Даала"
  daala_backstory: "Протеже §YТаркина§! и ярый сторонник Империи, §Y[This.GetName]§! готова пойти на многое, чтобы сохранить Новый Порядок."
  daala_catchphrase: "Я не могу оставить Империю в руках таких дураков, как ты."
-
- ### Mandalorian Heroes (Non Empire)
+  
+  ### Mandalorian Heroes (Non Empire) 
  swnd_hero_name_skirata: "Кэл Скирата"
  skirata_backstory: "§Y[This.GetName]§! был одним из многих Мандалорцев, откликнувшихся на призыв §YДжанго Фетта§! обучать клонов на §YКамино§!."
  skirata_catchphrase: "Ке ну джур'кадир ша мандо'аде…"
  swnd_hero_name_vau: "Вэлон Вэу"
  vau_backstory: "Вступив в ряды §HКуэ'валь Дар§!, §Y[This.GetName]§! курировал обучение клонов на §YКамино§! и перешел на сторону §YКэла Скирата§!."
  vau_catchphrase: "Вы будете последними, кто выживет, когда слабаки решат сделать легкий поступок и умереть."
-
- ### Mandalorian Heroes (Imperial-aligned)
+  
+  ### Mandalorian Heroes (Imperial-aligned) 
  swnd_hero_name_dred_priest: "Дред Прист"
  dred_backstory: "§Y[This.GetName]§! был членом Куэ'валь Дар и приверженцем идеалов Дозора Смерти. Известно, что под его началом были клоны, сражавшиеся насмерть ради его развлечения."
  dred_catchphrase: "Сильные выживают, слабые умирают. Так устроена галактика."
  swnd_hero_name_lorka_gedyc: "Лорка Гедайк"
  gedyc_backstory: "§Y[This.GetName]§! является членом второстепенного клана Гедик и имеет связи с Дозором Смерти. Он видит потенциал в сближении Мандалора с Империей."
  gedyc_catchphrase: "Аруэтиизе снова научатся бояться Мандалорцев."
-
- ### Alderaanian Heroes 
+  
+  ### Alderaanian Heroes 
  swnd_hero_name_breha: "Бреха Органа"
  breha_backstory: "§Y[This.GetName]§!, жена §YБейла Органа§!, королева §YАльдераана§!. Она правит доброй и уравновешенной рукой, предпочитая дипломатию и справедливость конфликтам."
  breha_catchphrase: "Власть можно получить, но лидерство нужно заслужить."
  swnd_hero_name_winter: "Винтер Селчу"
  winter_catchphrase: "Я никогда ничего не забываю."
  winter_backstory: "§Y[This.GetName]§! - житель Альдераана."
-
- ### Sullustan Heroes
+  
+  ### Sullustan Heroes 
  swnd_hero_name_nunb: "Ниен Нунб"
  nien_nunb_backstory: "§Y[This.GetName]§! - Салластанский контрабандист, работающий от имени корпорации СороСууб."
  nien_nunb_catchphrase: "Вы из тех людей, которые напоминают мне, почему мы сражаемся против Империи."
-
- ### Geonosian Heroes
+  
+  ### Geonosian Heroes 
  swnd_hero_name_gizor_dellso: "Гизор Деллсо"
- 
- ### Eriadu Authority Heroes
+  
+  ### Eriadu Authority Heroes 
  swnd_hero_name_strang: "Виктор Стрэнг"
  strang_catchphrase: "За Империю!"
  strang_backstory: "§Y[This.GetName]§! - имперский адмирал, известный своими агрессивными наклонностями."
@@ -178,8 +178,8 @@
  swnd_hero_name_delvardus: "Sander Delvardus"
  delvardus_backstory: "§Y[This.GetName]§! — член Империи с хорошими связями. У него репутация напыщенного человека и бабника, несмотря на то, что он женат на семье Таркинов."
  delvardus_catchphrase: "Я не делюсь собственной славой!"
-
- ### Generic Imperial Heroes
+  
+  ### Generic Imperial Heroes 
  swnd_hero_name_treuten: "Треутен Терадок"
  treuten_backstory: "§Y[This.GetName]§! — старший брат §YКоша Терадока§!. Он довольно пухлый человек со склонностью командовать с тыла."
  treuten_catchphrase: "Что империя? Мы - это империя."
@@ -195,11 +195,11 @@
  swnd_hero_name_lemelisk: "Бевел Лемелиск"
  lemelisk_backstory: "В Империи мало блестящих умов, которые могут сравниться с §Y[This.GetName]§!. Его инженерная и архитектурная проницательность хорошо известна среди высокопоставленных имперцев."
  lemelisk_catchphrase: "По крайней мере, на этот раз убедись, что все сделаешь правильно."
- 
- ### Ciutric Hegemony Heroes 
+  
+  ### Ciutric Hegemony Heroes 
  swnd_hero_name_pestage: "Сейт Пестаж"
-
- ### Generic Human Heroes
+  
+  ### Generic Human Heroes 
  swnd_hero_name_domina: "Домина Тагге"
  domina_backstory: "Леди §Y[This.GetName]§! является главой §YКомпании Тагге§! и родственницей §HВерховного главнокомандующего Имперской армии гранд-генерала §YКассио Тагге§!§!."
  domina_catchphrase: "Что может сделать для вас сегодня компания Тагге?."
@@ -221,8 +221,8 @@
  swnd_hero_name_jodo: "Джодо Каст"
  jodo_backstory: "§Y[This.GetName]§! был частью §HСпецопераций Альянса§! прежде чем дезертировать и стать охотником за головами. Его часто можно увидеть в Мандалорских доспехах, несмотря на то, что он ни в малейшей степени не является Мандалорцем. Этот выбор определенно не приведет неприятностей для него в будущем."
  jodo_catchphrase: "Наблюдение за извивающейся добычей дает мне ощущение абсолютной власти."
-
- ### Chiss Heroes
+  
+  ### Chiss Heroes 
  swnd_hero_name_ba_kif: "Ба'киф"
  ba_kif_catchphrase: "wip"
  ba_kif_backstory: "§Y[This.GetName]§! - §HВерховный генерал§! Силы обороны Чиссов и представитель §HСовета оборонительной иерархии§!."
@@ -235,8 +235,25 @@
  swnd_hero_name_ja_fosk: "Джа'фоск"
  ja_fosk_catchphrase: "wip"
  ja_fosk_backstory: "Джа'фоск - §HВерховный адмирал§! в §HСовета оборонительной иерархии§!."
-
- ### Hero System Traits
+  
+  ### Zann Consortium Heroes 
+ PRESCRIPTED_leader_name_tyber_zann: "Тайбер Занн" 
+ zann_catchphrase: "Всегда есть миры, созревшие для коррупции." 
+ zann_backstory: "Томясь в тюрьме, §Y[This.GetName]§! планировал снова привести к власти Консорциум Занн. Обладая вновь обретенной свободой, он стремится воплотить эти планы в жизнь." 
+ swnd_hero_name_jerid_sykes: "Джерид Сайкс" 
+ sykes_catchphrase: "Это безопасный канал?" 
+ sykes_backstory: "§Y[This.GetName]§! когда-то служил в республиканском флоте, дезертировав после создания Нового порядка. Теперь он служит Консорциуму Занна." 
+ swnd_hero_name_urai_fenn: "Урай Фен" 
+ urai_fen_catchphrase: "wip" 
+ urai_fen_backstory: "§Y[This.GetName]§! — телохранитель Тайбера Занна и заместитель командира Консорциума Занна." 
+ swnd_hero_name_venlanna_sipal: "Венланна Сипал" 
+ sipal_catchphrase: "wip" 
+ sipal_backstory: "§Y[This.GetName]§! служит андербоссом Консорциума Занн. Она амбициозна и предпочитает под маской профессионализма скрывать свою беспощадность." 
+ swnd_hero_name_silri: "Силри" 
+ silri_catchphrase: "Я НЕСУ ТЬМУ!" 
+ silri_backstory: "§Y[This.GetName]§! — ведьма Датомира, одна из немногих выживших представителей своего вида. Несмотря на то, что она очень жестокая и склонна к приступам ярости, она остается важной частью криминальных амбиций Занна." 
+  
+  ### Hero System Traits 
  leader_trait_swnd_phoenix: "Группа Феникс"
  leader_trait_swnd_phoenix_desc: "Этот лидер является членом группы Феникс командира Джуна Сато."
  leader_trait_swnd_cw_vet_general_rep: "Ветеран-Генерал"
@@ -247,8 +264,10 @@
  leader_trait_swnd_cuyval_dar_desc: "Этот лидер тренировал солдат-клонов перед битвой на Джеонозисе."
  leader_trait_swnd_deathwatch_fanatic: "Фанатик Дозора Смерти"
  leader_trait_swnd_deathwatch_fanatic_desc: "Этот лидер — преданный член отколовшейся группы Дозора Смерти, поклявшийся вернуть Мандалорцам их древние крестоносные корни."
-
- ### Misc. Messages
+ leader_trait_swnd_nightsister: "Ночная сестра" 
+ leader_trait_swnd_nightsister_desc: "Этот лидер — практик магии темной стороны с Датомира." 
+  
+  ### Misc. Messages 
  MESSAGE_TYPE_PROMISING_LEADER_MESSAGE: "$PROMISING_LEADER|Y$ продемонстрировал исключительный талант. \n\nПросмотрите список кандидатов-лидеров, чтобы нанять $PROMISING_LEADER|Y$."
  MESSAGE_TYPE_PROMISING_ADMIRAL_MESSAGE: "Офицер $PROMISING_LEADER|Y$ за свою карьеру продемонстрировал исключительный талант и был рекомендован для повышения. \n\nПросмотрите список кандидатов на пост §Bадмирала§!, чтобы предоставить $PROMISING_LEADER|Y$ команду."
  MESSAGE_TYPE_PROMISING_LEADER_MESSAGE_TOP: "$PROMISING_LEADER|Y$ доступен для повышения."
