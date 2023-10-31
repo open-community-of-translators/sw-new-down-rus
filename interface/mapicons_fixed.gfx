@@ -10,9 +10,9 @@ spriteTypes = {
 
 		bg_position = { x = 10 y = 13 }
 		bg_size = { width = 30 height = 30 }
-		symbol_position = { x = 9 y = 9 }
+		symbol_position = { x = 14 y = 18 } #Расположение символа государства оккупирующего систему
 		symbol_size = { width = 22 height = 22 }
-		mask_offset = { x = 0 y = 0 }
+		mask_offset = { x = 5 y = 10 } #Рамка оккупации
 		mask_size = { width = 39 height = 39 }
 	}
 }

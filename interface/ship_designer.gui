@@ -60,7 +60,7 @@ guiTypes = {
 			name = "fleet_manager_tab"
 			quadTextureSprite = "GFX_tab_1_inactive"
 			position = { x = -20 y = 640 }
-			font = "cg_16b"
+			font = "cg_14b"
 			buttonText = "FLEET_MANAGER_VIEW"
 			buttonFont = "cg_16b"
 			shortcut = "z"
@@ -70,8 +70,8 @@ guiTypes = {
 		buttonType = {
 			name = "ship_designer_tab"
 			quadTextureSprite = "GFX_tab_1_active"
-			position = { x = 110 y = 640 }
-			font = "cg_16b"
+			position = { x = 115 y = 640 }
+			font = "cg_14b"
 			buttonText = "SHIPDESIGNER"
 			buttonFont = "cg_16b"
 			shortcut = "x"
@@ -130,7 +130,7 @@ guiTypes = {
 			font = "cg_16b"
 			spriteType = "GFX_button_164_24"
 			position = { x = 15 y = -75 }
-			text = "Устаревшие модели"
+			text = "Устаревшие проекты"
 			orientation = "LOWER_LEFT"
 			effect = swp_museum_button_effect
 			vertical_alignment = center

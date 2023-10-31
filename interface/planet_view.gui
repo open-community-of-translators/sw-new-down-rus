@@ -1176,7 +1176,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "planetary_resources"
 					size = { width = 150 height = 180 }
-					position = { x = 415 y = 250 }
+					position = { x = 415 y = 230 }
 
 					background = {
 						name = "output_background"

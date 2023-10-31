@@ -1,6 +1,19 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_outliner_member_small_bg"
+		textureFile = "gfx/interface/icons/outliner_small_entry.dds"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.shader"
+	}
+	spriteType = {
+		name = "GFX_outliner_member_small_bg_selected"
+		textureFile = "gfx/interface/icons/outliner_small_entry_selected.dds"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.shader"
+	}
+
+	spriteType = {
 		name = "GFX_outliner_small_entry"
 		textureFile = "gfx/interface/buttons/outliner_small_entry.dds"
 	}
