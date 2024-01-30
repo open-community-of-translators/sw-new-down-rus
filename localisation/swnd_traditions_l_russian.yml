@@ -109,7 +109,7 @@
 
  tr_empire_moff_council_sector: "Секторальные Моффы"
  tr_empire_moff_council_sector_delayed: "Продолжающееся расширение прав и возможностей моффов и продолжающееся лишение гражданских прав Имперского сената создали новые возможности для амбициозных и имеющих хорошие связи."
-#  tr_empire_moff_council_sector_desc: "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§! increased by §Y2§!."
+#  tr_empire_moff_council_sector_desc: "§Y$MOD_LEADER_OFFICIAL_SKILL_LEVELS$§! increased by §Y2§!."
 
  tr_empire_moff_council_grand: "Гранд Моффы"
  tr_empire_moff_council_grand_delayed: "С роспуском Имперского Сената и уничтожением последних остатков Старой Республики никто не может отрицать или сопротивляться влиянию Моффов."
