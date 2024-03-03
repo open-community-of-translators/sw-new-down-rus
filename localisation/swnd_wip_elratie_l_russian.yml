@@ -748,7 +748,7 @@
  MESSAGE_TYPE_SARLACC_KILLS_POP_TITLE: "Воин умер"
  MESSAGE_TYPE_SARLACC_KILLS_POP_MESSAGE: "Джабба Десилиджик Тиуре бросил одного из наших людей в большую каркунскую яму на планете §YТатуин§! на медленную и мучительную смерть."
  MESSAGE_TYPE_MANDO_FORGE_TITLE: "Мандалорская кузница"
- MESSAGE_TYPE_MANDO_FORGE_MESSAGE: "На планете $PLANET|Y$ создан новый $DEPOSIT|Y$."
+ MESSAGE_TYPE_MANDO_FORGE_MESSAGE: "Новый $DEPOSIT|Y$ был создан на планете $PLANET|Y$."
  MESSAGE_SUBJECT_LEVEL_UP_specialist_mando_clan_TITLE: "$MESSAGE_SUBJECT_LEVEL_UP_TITLE$"
 
  #Buildings
