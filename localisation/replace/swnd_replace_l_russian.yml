@@ -45,6 +45,9 @@
  
  unlocks_armageddon_bombardment: "§Yпозиция База Дельта Ноль§! разблокирована.\n"
  
+ CRISIS_TAB_DISABLED: "Доступно только с $TRAD|Y$ или бонусом за стремление §Y$mando_crusader_chain$§!"
+
+ 
  #Traditions
  tr_unyielding_resistance_is_frugal_desc: "£building£ §Y$building_stronghold$§! сооружения и §YУкрепленные районы§! теперь производят §Y3§! £unity£ единства. Кроме того, §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§! увеличивается на §G+25%§!."
  

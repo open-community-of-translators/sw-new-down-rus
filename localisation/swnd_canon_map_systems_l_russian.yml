@@ -1030,6 +1030,11 @@
  NAME_Listehol_S: "Листехол"
  NAME_Listehol_P1: "Листехол"
  
+ #Seelos
+ NAME_Seelos: "Силос"
+ NAME_Seelos_S: "Силос"
+ NAME_Seelos_P1: "Силос"
+
  #Ruuria
  NAME_Ruuria: "Руурия"
  NAME_Ruuria_S: "Руурия"
@@ -7008,6 +7013,12 @@
  NAME_Cademimu: "Кадемиму"
  NAME_Cademimu_S: "Кадемиму"
  NAME_Cademimu_P1: "Кадемиму V"
+ 
+ #Ajan Kloss
+ NAME_Ajan_Kloss: "Эджара"
+ NAME_Ajan_Kloss_S: "Эджара"
+ NAME_Ajan_Kloss_P1: "Эджара"
+ NAME_Ajan_Kloss_P1_1: "Эджан-Клосс"
  
  #Agamar
  NAME_Agamar: "Миргошир"
