@@ -1,1113 +1,1113 @@
 ﻿l_russian:
-	RODIAN_SHIP_atiang: "Atiang" #!Empty_LineInfo!
-	RODIAN_SHIP_navik_the_red: "Navik the Red" #!Empty_LineInfo!
-	RODIAN_SHIP_greedo_the_elder: "Greedo the Elder" #!Empty_LineInfo!
-	RODIAN_SHIP_day_of_the_hunter: "Day of the Hunter" #!Empty_LineInfo!
-	RODIAN_SHIP_feudal_glory: "Feudal Glory" #!Empty_LineInfo!
-	RODIAN_SHIP_ghestslayer: "Ghestslayer" #!Empty_LineInfo!
-	RODIAN_SHIP_great_protector: "Great Protector" #!Empty_LineInfo!
-	RODIAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
-	RODIAN_SHIP_kinzic: "Kinzic" #!Empty_LineInfo!
-	RODIAN_SHIP_rodian_kiss: "Rodian Kiss" #!Empty_LineInfo!
-	RODIAN_SHIP_vosida_nooma: "Vosida Nooma" #!Empty_LineInfo!
-	RODIAN_SHIP_zahtjav: "Zahtjav" #!Empty_LineInfo!
-	RODIAN_SHIP_catharsis: "Catharsis" #!Empty_LineInfo!
-	RODIAN_SHIP_harido_s_gift: "Harido's Gift" #!Empty_LineInfo!
-	RODIAN_SHIP_harido_kavila: "Harido Kavila" #!Empty_LineInfo!
-	RODIAN_SHIP_glory_of_chattza: "Glory of Chattza" #!Empty_LineInfo!
-	RODIAN_SHIP_pride_of_tetsu: "Pride of Tetsu" #!Empty_LineInfo!
-	RODIAN_SHIP_bomu_honor: "Bomu Honor" #!Empty_LineInfo!
-	RODIAN_SHIP_adebsu: "Adebsu" #!Empty_LineInfo!
-	RODIAN_SHIP_an_yettu_blade: "An'yettu Blade" #!Empty_LineInfo!
-	RODIAN_SHIP_fate_of_anyyon: "Fate of Anyyon" #!Empty_LineInfo!
-	RODIAN_SHIP_cadevon_mark: "Cadevon Mark" #!Empty_LineInfo!
-	RODIAN_SHIP_cairn: "Cairn" #!Empty_LineInfo!
-	RODIAN_SHIP_chekkoo_dragon: "Chekkoo Dragon" #!Empty_LineInfo!
-	RODIAN_SHIP_valor_of_intamm: "Valor of Intamm" #!Empty_LineInfo!
-	RODIAN_SHIP_kemu_blood: "Kemu Blood" #!Empty_LineInfo!
-	RODIAN_SHIP_kenu_ascendant: "Kenu Ascendant" #!Empty_LineInfo!
-	RODIAN_SHIP_eye_of_neetakka: "Eye of Neetakka" #!Empty_LineInfo!
-	RODIAN_SHIP_reeven: "Reeven" #!Empty_LineInfo!
-	RODIAN_SHIP_bounty_of_roolek: "Bounty of Roolek" #!Empty_LineInfo!
-	RODIAN_SHIP_scythe_of_soammei: "Scythe of Soammei" #!Empty_LineInfo!
-	RODIAN_SHIP_crouching_tan: "Crouching Tan" #!Empty_LineInfo!
-	RODIAN_SHIP_revenant_of_tanwa: "Revenant of Tanwa" #!Empty_LineInfo!
-	RODIAN_SHIP_tonera_reaper: "Tonera Reaper" #!Empty_LineInfo!
-	RODIAN_SHIP_yiyar_s_revenge: "Yiyar's Revenge" #!Empty_LineInfo!
-	RODIAN_SHIP_inta_si_rin_na: "Inta'si'rin'na" #!Empty_LineInfo!
-	RODIAN_SHIP_equator: "Equator" #!Empty_LineInfo!
-	RODIAN_SHIP_goa_ato: "Goa-Ato" #!Empty_LineInfo!
-	RODIAN_SHIP_lost_hunt: "Lost Hunt" #!Empty_LineInfo!
-	RODIAN_SHIP_n_gant: "N'Gant" #!Empty_LineInfo!
-	RODIAN_SHIP_rheshalva: "Rheshalva" #!Empty_LineInfo!
-	RODIAN_SHIP_council_of_justice: "Council of Justice" #!Empty_LineInfo!
-	RODIAN_SHIP_ripper: "Ripper" #!Empty_LineInfo!
-	RODIAN_SHIP_sancretti: "Sancretti" #!Empty_LineInfo!
-	RODIAN_SHIP_salus: "Salus" #!Empty_LineInfo!
-	RODIAN_SHIP_tonena: "Tonena" #!Empty_LineInfo!
-	RODIAN_SHIP_verifier: "Verifier" #!Empty_LineInfo!
-	RODIAN_SHIP_zarvel: "Zarvel" #!Empty_LineInfo!
-	RODIAN_SHIP_harlequin: "Harlequin" #!Empty_LineInfo!
-	RODIAN_SHIP_running_black: "Running Black" #!Empty_LineInfo!
-	RODIAN_SHIP_final_act: "Final Act" #!Empty_LineInfo!
-	RODIAN_SHIP_final_curtain: "Final Curtain" #!Empty_LineInfo!
-	RODIAN_SHIP_arena: "Arena" #!Empty_LineInfo!
-	RODIAN_SHIP_crimson_audition: "Crimson Audition" #!Empty_LineInfo!
-	RODIAN_SHIP_blackout: "Blackout" #!Empty_LineInfo!
-	RODIAN_SHIP_curtain_call: "Curtain Call" #!Empty_LineInfo!
-	RODIAN_SHIP_colour_call: "Colour Call" #!Empty_LineInfo!
-	RODIAN_SHIP_callback: "Callback" #!Empty_LineInfo!
-	RODIAN_SHIP_caster: "Caster" #!Empty_LineInfo!
-	RODIAN_SHIP_centre_line: "Centre Line" #!Empty_LineInfo!
-	RODIAN_SHIP_clearance: "Clearance" #!Empty_LineInfo!
-	RODIAN_SHIP_cyclorama: "Cyclorama" #!Empty_LineInfo!
-	RODIAN_SHIP_downstage: "Downstage" #!Empty_LineInfo!
-	RODIAN_SHIP_matinee: "Matinee" #!Empty_LineInfo!
-	RODIAN_SHIP_verdant_war: "Verdant War" #!Empty_LineInfo!
-	RODIAN_SHIP_offstage: "Offstage" #!Empty_LineInfo!
-	RODIAN_SHIP_parodos: "Parodos" #!Empty_LineInfo!
-	RODIAN_SHIP_playwright: "Playwright" #!Empty_LineInfo!
-	RODIAN_SHIP_professional: "Professional" #!Empty_LineInfo!
-	RODIAN_SHIP_proscenium: "Proscenium" #!Empty_LineInfo!
-	RODIAN_SHIP_bozzascena: "Bozzascena" #!Empty_LineInfo!
-	RODIAN_SHIP_blooded_stage: "Blooded Stage" #!Empty_LineInfo!
-	RODIAN_SHIP_tableaux: "Tableaux" #!Empty_LineInfo!
-	RODIAN_SHIP_rideax: "Rideax" #!Empty_LineInfo!
-	RODIAN_SHIP_sipazzio: "Sipazzio" #!Empty_LineInfo!
-	RODIAN_SHIP_pendrizzion: "Pendrizzion" #!Empty_LineInfo!
-	RODIAN_SHIP_wet_tech: "Wet Tech" #!Empty_LineInfo!
-	RODIAN_SHIP_fear_to_tread: "Fear to Tread" #!Empty_LineInfo!
-	RODIAN_SHIP_skene: "Skene" #!Empty_LineInfo!
-	RODIAN_SHIP_dizyramb: "Dizyramb" #!Empty_LineInfo!
-	RODIAN_SHIP_deuteragonist: "Deuteragonist" #!Empty_LineInfo!
-	RODIAN_SHIP_theatron: "Theatron" #!Empty_LineInfo!
-	RODIAN_SHIP_tritagonist: "Tritagonist" #!Empty_LineInfo!
-	RODIAN_SHIP_thymele: "Thymele" #!Empty_LineInfo!
-	RODIAN_SHIP_proskenion: "Proskenion" #!Empty_LineInfo!
-	RODIAN_SHIP_centricity: "Centricity" #!Empty_LineInfo!
-	RODIAN_SHIP_koizon: "Koizon" #!Empty_LineInfo!
-	RODIAN_SHIP_diazoma: "Diazoma" #!Empty_LineInfo!
-	RODIAN_SHIP_greeiactoi: "Greeiactoi" #!Empty_LineInfo!
-	RODIAN_SHIP_ekkoclema: "Ekkoclema" #!Empty_LineInfo!
-	RODIAN_SHIP_aeorema: "Aeorema" #!Empty_LineInfo!
-	RODIAN_SHIP_suppliant: "Suppliant" #!Empty_LineInfo!
-	RODIAN_SHIP_adituz: "Adituz" #!Empty_LineInfo!
-	RODIAN_SHIP_anazemma: "Anazemma" #!Empty_LineInfo!
-	RODIAN_SHIP_arkkitrave: "Arkkitrave" #!Empty_LineInfo!
-	RODIAN_SHIP_kataclyema: "Kataclyema" #!Empty_LineInfo!
-	RODIAN_SHIP_baldakkin: "Baldakkin" #!Empty_LineInfo!
-	RODIAN_SHIP_kaeroni: "Kaeroni" #!Empty_LineInfo!
-	RODIAN_SHIP_klimake: "Klimake" #!Empty_LineInfo!
-	RODIAN_SHIP_koregos: "Koregos" #!Empty_LineInfo!
-	RODIAN_SHIP_koryphyus: "Koryphyus" #!Empty_LineInfo!
-	RODIAN_SHIP_ziazoma: "Ziazoma" #!Empty_LineInfo!
-	RODIAN_SHIP_zohedria: "Zohedria" #!Empty_LineInfo!
-	RODIAN_SHIP_ima_gavea: "Ima Gavea" #!Empty_LineInfo!
-	RODIAN_SHIP_ozeion: "Ozeion" #!Empty_LineInfo!
-	RODIAN_SHIP_ogreeum: "Ogreeum" #!Empty_LineInfo!
-	RODIAN_SHIP_gonkos: "Gonkos" #!Empty_LineInfo!
-	RODIAN_SHIP_avaro: "Avaro" #!Empty_LineInfo!
-	RODIAN_SHIP_boiny: "Boiny" #!Empty_LineInfo!
-	RODIAN_SHIP_capo: "Capo" #!Empty_LineInfo!
-	RODIAN_SHIP_cevva: "Cevva" #!Empty_LineInfo!
-	RODIAN_SHIP_clezo: "Clezo" #!Empty_LineInfo!
-	RODIAN_SHIP_dardo: "Dardo" #!Empty_LineInfo!
-	RODIAN_SHIP_doda: "Doda" #!Empty_LineInfo!
-	RODIAN_SHIP_farr: "Farr" #!Empty_LineInfo!
-	RODIAN_SHIP_geelo: "Geelo" #!Empty_LineInfo!
-	RODIAN_SHIP_grappa: "Grappa" #!Empty_LineInfo!
-	RODIAN_SHIP_harido: "Harido" #!Empty_LineInfo!
-	RODIAN_SHIP_honka: "Honka" #!Empty_LineInfo!
-	RODIAN_SHIP_jannik: "Jannik" #!Empty_LineInfo!
-	RODIAN_SHIP_kavilo: "Kavilo" #!Empty_LineInfo!
-	RODIAN_SHIP_kelbis: "Kelbis" #!Empty_LineInfo!
-	RODIAN_SHIP_kelko: "Kelko" #!Empty_LineInfo!
-	RODIAN_SHIP_koobis: "Koobis" #!Empty_LineInfo!
-	RODIAN_SHIP_leenik: "Leenik" #!Empty_LineInfo!
-	RODIAN_SHIP_lido: "Lido" #!Empty_LineInfo!
-	RODIAN_SHIP_maris: "Maris" #!Empty_LineInfo!
-	RODIAN_SHIP_mufrenes: "Mufrenes" #!Empty_LineInfo!
-	RODIAN_SHIP_nardi: "Nardi" #!Empty_LineInfo!
-	RODIAN_SHIP_narik: "Narik" #!Empty_LineInfo!
-	RODIAN_SHIP_onaconda: "Onaconda" #!Empty_LineInfo!
-	RODIAN_SHIP_prevaro: "Prevaro" #!Empty_LineInfo!
-	RODIAN_SHIP_rohan: "Rohan" #!Empty_LineInfo!
-	RODIAN_SHIP_ropal: "Ropal" #!Empty_LineInfo!
-	RODIAN_SHIP_shodu: "Shodu" #!Empty_LineInfo!
-	RODIAN_SHIP_skee_skee: "Skee Skee" #!Empty_LineInfo!
-	RODIAN_SHIP_sookcool: "Sookcool" #!Empty_LineInfo!
-	RODIAN_SHIP_standro: "Standro" #!Empty_LineInfo!
-	RODIAN_SHIP_teeku: "Teeku" #!Empty_LineInfo!
-	RODIAN_SHIP_teerik: "Teerik" #!Empty_LineInfo!
-	RODIAN_SHIP_thuku: "Thuku" #!Empty_LineInfo!
-	RODIAN_SHIP_tox: "Tox" #!Empty_LineInfo!
-	RODIAN_SHIP_vinto: "Vinto" #!Empty_LineInfo!
-	RODIAN_SHIP_vuko: "Vuko" #!Empty_LineInfo!
-	RODIAN_SHIP_wald_xuz: "Wald Xuz" #!Empty_LineInfo!
-	RODIAN_SHIP_greeata: "Greeata" #!Empty_LineInfo!
-	RODIAN_SHIP_hreeda: "Hreeda" #!Empty_LineInfo!
-	RODIAN_SHIP_jacta: "Jacta" #!Empty_LineInfo!
-	RODIAN_SHIP_kras_ka: "Kras Ka" #!Empty_LineInfo!
-	RODIAN_SHIP_vorskl_ta: "Vorskl Ta" #!Empty_LineInfo!
-	RODIAN_SHIP_spulta: "Spulta" #!Empty_LineInfo!
-	RODIAN_SHIP_si_rin_ha: "Si'rin'ha" #!Empty_LineInfo!
-	RODIAN_SHIP_tujllaki: "Tujllaki" #!Empty_LineInfo!
-	RODIAN_SHIP_chakuy: "Chakuy" #!Empty_LineInfo!
-	RODIAN_SHIP_qulluy: "Qulluy" #!Empty_LineInfo!
-	RODIAN_SHIP_wakachina: "Wakachina" #!Empty_LineInfo!
-	RODIAN_SHIP_trophytaker: "Trophytaker" #!Empty_LineInfo!
-	RODIAN_SHIP_iron_pelt: "Iron Pelt" #!Empty_LineInfo!
-	RODIAN_SHIP_qara: "Qara" #!Empty_LineInfo!
-	RODIAN_SHIP_suyk_u: "Suyk'u" #!Empty_LineInfo!
-	RODIAN_SHIP_chuki_suni: "Chuki Suni" #!Empty_LineInfo!
-	RODIAN_SHIP_longspear: "Longspear" #!Empty_LineInfo!
-	RODIAN_SHIP_antagonist: "Antagonist" #!Empty_LineInfo!
-	RODIAN_SHIP_protagonist: "Protagonist" #!Empty_LineInfo!
-	RODIAN_SHIP_aycha: "Aycha" #!Empty_LineInfo!
-	RODIAN_SHIP_uturunku: "Uturunku" #!Empty_LineInfo!
-	RODIAN_SHIP_wilancha: "Wilancha" #!Empty_LineInfo!
-	RODIAN_SHIP_upalla: "Upalla" #!Empty_LineInfo!
-	RODIAN_SHIP_dancing_knife: "Dancing Knife" #!Empty_LineInfo!
-	RODIAN_SHIP_upallay: "Upallay" #!Empty_LineInfo!
-	RODIAN_SHIP_tuta: "Tuta" #!Empty_LineInfo!
-	RODIAN_SHIP_yaykuy: "Yaykuy" #!Empty_LineInfo!
-	RODIAN_SHIP_can_cell: "Can-cell" #!Empty_LineInfo!
-	RODIAN_SHIP_ghest: "Ghest" #!Empty_LineInfo!
-	RODIAN_SHIP_kwazel_maw: "Kwazel Maw" #!Empty_LineInfo!
-	RODIAN_SHIP_blood_fly: "Blood Fly" #!Empty_LineInfo!
-	RODIAN_SHIP_khardax: "Khardax" #!Empty_LineInfo!
-	RODIAN_SHIP_newoongall: "Newoongall" #!Empty_LineInfo!
-	RODIAN_SHIP_karstag: "Karstag" #!Empty_LineInfo!
-	RODIAN_SHIP_roth: "Roth" #!Empty_LineInfo!
-	RODIAN_SHIP_svaper: "Svaper" #!Empty_LineInfo!
-	RODIAN_SHIP_iskaayuma: "Iskaayuma" #!Empty_LineInfo!
-	RODIAN_SHIP_encheeko: "Encheeko" #!Empty_LineInfo!
-	RODIAN_SHIP_betu: "Betu" #!Empty_LineInfo!
-	RODIAN_SHIP_mareesh: "Mareesh" #!Empty_LineInfo!
-	RODIAN_SHIP_onaconda_farr: "Onaconda Farr" #!Empty_LineInfo!
-	RODIAN_SHIP_green_hell: "Green Hell" #!Empty_LineInfo!
-	RODIAN_SHIP_ambusher: "Ambusher" #!Empty_LineInfo!
-	RODIAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
-	RODIAN_SHIP_emarald_shadow: "Emarald Shadow" #!Empty_LineInfo!
-	RODIAN_SHIP_murk_hunter: "Murk Hunter" #!Empty_LineInfo!
-	RODIAN_SHIP_wild_hunt: "Wild Hunt" #!Empty_LineInfo!
-	RODIAN_SHIP_dree_vandap: "Dree Vandap" #!Empty_LineInfo!
-	RODIAN_SHIP_bolla_ropal: "Bolla Ropal" #!Empty_LineInfo!
-	RODIAN_SHIP_suvam_tan: "Suvam Tan" #!Empty_LineInfo!
-	RODIAN_SHIP_suz_tanwa: "Suz Tanwa" #!Empty_LineInfo!
-	RODIAN_SHIP_menndo: "Menndo" #!Empty_LineInfo!
-	RODIAN_SHIP_hako_armado: "Hako Armado" #!Empty_LineInfo!
-	RODIAN_SHIP_slyder: "Slyder" #!Empty_LineInfo!
-	RODIAN_SHIP_poacher: "Poacher" #!Empty_LineInfo!
-	RODIAN_SHIP_gamewarden: "Gamewarden" #!Empty_LineInfo!
-	RODIAN_SHIP_fenn_stalker: "Fenn Stalker" #!Empty_LineInfo!
-	RODIAN_SHIP_skaena: "Skaena" #!Empty_LineInfo!
-	RODIAN_SHIP_skalae: "Skalae" #!Empty_LineInfo!
-	RODIAN_SHIP_rodiamai: "Rodiamai" #!Empty_LineInfo!
-	RODIAN_SHIP_rodimelici: "Rodimelici" #!Empty_LineInfo!
-	RODIAN_SHIP_venaziones: "Venaziones" #!Empty_LineInfo!
-	RODIAN_SHIP_veeatorium: "Veeatorium" #!Empty_LineInfo!
-	RODIAN_SHIP_treasure_of_rodia: "Treasure of Rodia" #!Empty_LineInfo!
-	RODIAN_SHIP_stalking_mount: "Stalking Mount" #!Empty_LineInfo!
-	RODIAN_SHIP_trapjaw: "Trapjaw" #!Empty_LineInfo!
-	RODIAN_SHIP_headsman: "Headsman" #!Empty_LineInfo!
-	RODIAN_SHIP_first_protector: "First Protector" #!Empty_LineInfo!
-	RODIAN_SHIP_intermission: "Intermission" #!Empty_LineInfo!
-	RODIAN_SHIP_h_rinnrada: "H'rinnrada" #!Empty_LineInfo!
-	RODIAN_SHIP_jannik_the_white: "Jannik the White" #!Empty_LineInfo!
-	RODIAN_SHIP_honor_war: "Honor War" #!Empty_LineInfo!
-	RODIAN_SHIP_general_minst: "General Minst" #!Empty_LineInfo!
-	RODIAN_SHIP_sawtooth: "Sawtooth" #!Empty_LineInfo!
-	RODIAN_SHIP_general_ropal: "General Ropal" #!Empty_LineInfo!
-	RODIAN_SHIP_navik: "Navik" #!Empty_LineInfo!
-	RODIAN_SHIP_tracker: "Tracker" #!Empty_LineInfo!
-	RODIAN_SHIP_sniffer: "Sniffer" #!Empty_LineInfo!
-	RODIAN_SHIP_navigator: "Navigator" #!Empty_LineInfo!
-	RODIAN_SHIP_wayfinder: "Wayfinder" #!Empty_LineInfo!
-	RODIAN_SHIP_orienteer: "Orienteer" #!Empty_LineInfo!
-	RODIAN_SHIP_true_north: "True North" #!Empty_LineInfo!
-	RODIAN_SHIP_tracer: "Tracer" #!Empty_LineInfo!
-	RODIAN_SHIP_hunter_three: "Hunter Three" #!Empty_LineInfo!
-	RODIAN_SHIP_verdant_shadow: "Verdant Shadow" #!Empty_LineInfo!
-	RODIAN_SHIP_detector: "Detector" #!Empty_LineInfo!
-	RODIAN_SHIP_tailer: "Tailer" #!Empty_LineInfo!
-	RODIAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
-	RODIAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
-	RODIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
-	RODIAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
-	RODIAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
-	RODIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
-	RODIAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
-	RODIAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
-	RODIAN_SHIP_itinerant_rex: "Itinerant Rex" #!Empty_LineInfo!
-	RODIAN_SHIP_homeward_bound: "Homeward Bound" #!Empty_LineInfo!
-	RODIAN_SHIP_placefinder: "Placefinder" #!Empty_LineInfo!
-	RODIAN_SHIP_claimant: "Claimant" #!Empty_LineInfo!
-	RODIAN_SHIP_coreward_bound: "Coreward Bound" #!Empty_LineInfo!
-	RODIAN_SHIP_bushranger: "Bushranger" #!Empty_LineInfo!
-	RODIAN_SHIP_green_seed: "Green Seed" #!Empty_LineInfo!
-	RODIAN_SHIP_verdant_sprout: "Verdant Sprout" #!Empty_LineInfo!
-	RODIAN_SHIP_virescent: "Virescent" #!Empty_LineInfo!
-	RODIAN_SHIP_stripling: "Stripling" #!Empty_LineInfo!
-	RODIAN_SHIP_hatchery: "Hatchery" #!Empty_LineInfo!
-	RODIAN_SHIP_prayer_of_the_pioneer: "Prayer of the Pioneer" #!Empty_LineInfo!
-	RODIAN_SHIP_memory_of_rodia: "Memory of Rodia" #!Empty_LineInfo!
-	RODIAN_SHIP_errand: "Errand" #!Empty_LineInfo!
-	RODIAN_SHIP_eiska: "Eiska" #!Empty_LineInfo!
-	RODIAN_SHIP_enak: "Enak" #!Empty_LineInfo!
-	RODIAN_SHIP_soomana: "Soomana" #!Empty_LineInfo!
-	RODIAN_SHIP_yasooska: "Yasooska" #!Empty_LineInfo!
-	RODIAN_SHIP_an_yettu_vision: "An'yettu Vision" #!Empty_LineInfo!
-	RODIAN_SHIP_encheekos: "Encheekos" #!Empty_LineInfo!
-	RODIAN_SHIP_kay_tap: "Kay-Tap" #!Empty_LineInfo!
-	RODIAN_SHIP_next_chance: "Next Chance" #!Empty_LineInfo!
-	RODIAN_SHIP_nova_iskaayuma: "Nova Iskaayuma" #!Empty_LineInfo!
-	RODIAN_SHIP_chekkoo_promise: "Chekkoo Promise" #!Empty_LineInfo!
-	RODIAN_SHIP_matza: "Matza" #!Empty_LineInfo!
-	RODIAN_SHIP_samana: "Samana" #!Empty_LineInfo!
-	RODIAN_SHIP_yusk: "Yusk" #!Empty_LineInfo!
-	RODIAN_SHIP_chattza: "Chattza" #!Empty_LineInfo!
-	RODIAN_SHIP_tetsu: "Tetsu" #!Empty_LineInfo!
-	RODIAN_SHIP_bomu: "Bomu" #!Empty_LineInfo!
-	RODIAN_SHIP_an_yettu: "An'yettu" #!Empty_LineInfo!
-	RODIAN_SHIP_anyyon: "Anyyon" #!Empty_LineInfo!
-	RODIAN_SHIP_cadevon: "Cadevon" #!Empty_LineInfo!
-	RODIAN_SHIP_chekkoo: "Chekkoo" #!Empty_LineInfo!
-	RODIAN_SHIP_intamm: "Intamm" #!Empty_LineInfo!
-	RODIAN_SHIP_kemu: "Kemu" #!Empty_LineInfo!
-	RODIAN_SHIP_kenu: "Kenu" #!Empty_LineInfo!
-	RODIAN_SHIP_neetakka: "Neetakka" #!Empty_LineInfo!
-	RODIAN_SHIP_roolek: "Roolek" #!Empty_LineInfo!
-	RODIAN_SHIP_soammei: "Soammei" #!Empty_LineInfo!
-	RODIAN_SHIP_tan_tanwa: "Tan Tanwa" #!Empty_LineInfo!
-	RODIAN_SHIP_tonera: "Tonera" #!Empty_LineInfo!
-	RODIAN_SHIP_yiyar: "Yiyar" #!Empty_LineInfo!
-	RODIAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	RODIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	RODIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	RODIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	RODIAN_SHIP_tan: "Tan" #!Empty_LineInfo!
-	RODIAN_SHIP_tanwa: "Tanwa" #!Empty_LineInfo!
-	RODIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	RODIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	RODIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	RODIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	RODIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	RODIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	RODIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	RODIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	RODIAN_FLEET_jade_fleet: "Jade Fleet" #!Empty_LineInfo!
-	RODIAN_FLEET_rodian_home_guard: "Rodian Home Guard" #!Empty_LineInfo!
-	RODIAN_FLEET_verdant_armada: "Verdant Armada" #!Empty_LineInfo!
-	RODIAN_FLEET_battle_group_green: "Battle Group Green" #!Empty_LineInfo!
-	RODIAN_FLEET_rodian_task_force_ORD: "$ORD$ Rodian Task Force" #!Empty_LineInfo!
-	RODIAN_ARMY_hunter_guard_ORD: "$ORD$ Hunter Guard" #!Empty_LineInfo!
-	RODIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
-	RODIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	RODIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	RODIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	RODIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	RODIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	RODIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	RODIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	RODIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	RODIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	RODIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	RODIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	RODIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	RODIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	RODIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	RODIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	RODIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	RODIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	RODIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	RODIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	RODIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	RODIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	RODIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	RODIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	RODIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	RODIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	RODIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	RODIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	RODIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	RODIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	RODIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	RODIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	RODIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	RODIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	RODIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	RODIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	RODIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	RODIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	RODIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	RODIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	RODIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	RODIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	RODIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	RODIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	RODIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	RODIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	RODIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	RODIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	RODIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	RODIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	RODIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	RODIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	RODIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	RODIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	RODIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	RODIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	RODIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	RODIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	RODIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	RODIAN_CHR_navik: "Navik" #!Empty_LineInfo!
-	RODIAN_CHR_nok: "Nok" #!Empty_LineInfo!
-	RODIAN_CHR_teeku: "Teeku" #!Empty_LineInfo!
-	RODIAN_CHR_greedo: "Greedo" #!Empty_LineInfo!
-	RODIAN_CHR_pqweeduk: "Pqweeduk" #!Empty_LineInfo!
-	RODIAN_CHR_avaro: "Avaro" #!Empty_LineInfo!
-	RODIAN_CHR_boiny: "Boiny" #!Empty_LineInfo!
-	RODIAN_CHR_capo: "Capo" #!Empty_LineInfo!
-	RODIAN_CHR_cevva: "Cevva" #!Empty_LineInfo!
-	RODIAN_CHR_clezo: "Clezo" #!Empty_LineInfo!
-	RODIAN_CHR_dardo: "Dardo" #!Empty_LineInfo!
-	RODIAN_CHR_doda: "Doda" #!Empty_LineInfo!
-	RODIAN_CHR_farr: "Farr" #!Empty_LineInfo!
-	RODIAN_CHR_geelo: "Geelo" #!Empty_LineInfo!
-	RODIAN_CHR_grappa: "Grappa" #!Empty_LineInfo!
-	RODIAN_CHR_harido: "Harido" #!Empty_LineInfo!
-	RODIAN_CHR_honka: "Honka" #!Empty_LineInfo!
-	RODIAN_CHR_jannik: "Jannik" #!Empty_LineInfo!
-	RODIAN_CHR_kavilo: "Kavilo" #!Empty_LineInfo!
-	RODIAN_CHR_kelbis: "Kelbis" #!Empty_LineInfo!
-	RODIAN_CHR_kelko: "Kelko" #!Empty_LineInfo!
-	RODIAN_CHR_koobis: "Koobis" #!Empty_LineInfo!
-	RODIAN_CHR_leenik: "Leenik" #!Empty_LineInfo!
-	RODIAN_CHR_lido: "Lido" #!Empty_LineInfo!
-	RODIAN_CHR_maris: "Maris" #!Empty_LineInfo!
-	RODIAN_CHR_mufrenes: "Mufrenes" #!Empty_LineInfo!
-	RODIAN_CHR_nardi: "Nardi" #!Empty_LineInfo!
-	RODIAN_CHR_narik: "Narik" #!Empty_LineInfo!
-	RODIAN_CHR_onaconda: "Onaconda" #!Empty_LineInfo!
-	RODIAN_CHR_prevaro: "Prevaro" #!Empty_LineInfo!
-	RODIAN_CHR_rohan: "Rohan" #!Empty_LineInfo!
-	RODIAN_CHR_ropal: "Ropal" #!Empty_LineInfo!
-	RODIAN_CHR_shodu: "Shodu" #!Empty_LineInfo!
-	RODIAN_CHR_skee_skee: "Skee Skee" #!Empty_LineInfo!
-	RODIAN_CHR_sookcool: "Sookcool" #!Empty_LineInfo!
-	RODIAN_CHR_standro: "Standro" #!Empty_LineInfo!
-	RODIAN_CHR_teerik: "Teerik" #!Empty_LineInfo!
-	RODIAN_CHR_thuku: "Thuku" #!Empty_LineInfo!
-	RODIAN_CHR_tox: "Tox" #!Empty_LineInfo!
-	RODIAN_CHR_vinto: "Vinto" #!Empty_LineInfo!
-	RODIAN_CHR_vuko: "Vuko" #!Empty_LineInfo!
-	RODIAN_CHR_wald_xuz: "Wald Xuz" #!Empty_LineInfo!
-	RODIAN_CHR_kyra: "Kyra" #!Empty_LineInfo!
-	RODIAN_CHR_aald: "Aald" #!Empty_LineInfo!
-	RODIAN_CHR_althin: "Althin" #!Empty_LineInfo!
-	RODIAN_CHR_tok: "Tok" #!Empty_LineInfo!
-	RODIAN_CHR_zef: "Zef" #!Empty_LineInfo!
-	RODIAN_CHR_angaar: "Angaar" #!Empty_LineInfo!
-	RODIAN_CHR_toll: "Toll" #!Empty_LineInfo!
-	RODIAN_CHR_apoto: "Apoto" #!Empty_LineInfo!
-	RODIAN_CHR_hako: "Hako" #!Empty_LineInfo!
-	RODIAN_CHR_b_ree: "B'ree" #!Empty_LineInfo!
-	RODIAN_CHR_civian: "Civian" #!Empty_LineInfo!
-	RODIAN_CHR_civius: "Civius" #!Empty_LineInfo!
-	RODIAN_CHR_reelo: "Reelo" #!Empty_LineInfo!
-	RODIAN_CHR_lekk: "Lekk" #!Empty_LineInfo!
-	RODIAN_CHR_beebo: "Beebo" #!Empty_LineInfo!
-	RODIAN_CHR_beedo: "Beedo" #!Empty_LineInfo!
-	RODIAN_CHR_beena: "Beena" #!Empty_LineInfo!
-	RODIAN_CHR_beidlo: "Beidlo" #!Empty_LineInfo!
-	RODIAN_CHR_biko: "Biko" #!Empty_LineInfo!
-	RODIAN_CHR_toleen: "Toleen" #!Empty_LineInfo!
-	RODIAN_CHR_boorm: "Boorm" #!Empty_LineInfo!
-	RODIAN_CHR_voydd: "Voydd" #!Empty_LineInfo!
-	RODIAN_CHR_condoo: "Condoo" #!Empty_LineInfo!
-	RODIAN_CHR_lidan: "Lidan" #!Empty_LineInfo!
-	RODIAN_CHR_bludlow: "Bludlow" #!Empty_LineInfo!
-	RODIAN_CHR_bohmer: "Bohmer" #!Empty_LineInfo!
-	RODIAN_CHR_bolto: "Bolto" #!Empty_LineInfo!
-	RODIAN_CHR_gespo: "Gespo" #!Empty_LineInfo!
-	RODIAN_CHR_heedron: "Heedron" #!Empty_LineInfo!
-	RODIAN_CHR_ormann: "Ormann" #!Empty_LineInfo!
-	RODIAN_CHR_pax: "Pax" #!Empty_LineInfo!
-	RODIAN_CHR_trax: "Trax" #!Empty_LineInfo!
-	RODIAN_CHR_narnee: "Narnee" #!Empty_LineInfo!
-	RODIAN_CHR_seedar: "Seedar" #!Empty_LineInfo!
-	RODIAN_CHR_bonda: "Bonda" #!Empty_LineInfo!
-	RODIAN_CHR_hishinu: "Hishinu" #!Empty_LineInfo!
-	RODIAN_CHR_breedo: "Breedo" #!Empty_LineInfo!
-	RODIAN_CHR_brelshen: "Brelshen" #!Empty_LineInfo!
-	RODIAN_CHR_siega: "Siega" #!Empty_LineInfo!
-	RODIAN_CHR_wac_bur: "Wac Bur" #!Empty_LineInfo!
-	RODIAN_CHR_boorgo: "Boorgo" #!Empty_LineInfo!
-	RODIAN_CHR_duurgo: "Duurgo" #!Empty_LineInfo!
-	RODIAN_CHR_deebo: "Deebo" #!Empty_LineInfo!
-	RODIAN_CHR_toluz: "Toluz" #!Empty_LineInfo!
-	RODIAN_CHR_chiiv: "Chiiv" #!Empty_LineInfo!
-	RODIAN_CHR_chigo: "Chigo" #!Empty_LineInfo!
-	RODIAN_CHR_chihdo: "Chihdo" #!Empty_LineInfo!
-	RODIAN_CHR_chordak: "Chordak" #!Empty_LineInfo!
-	RODIAN_CHR_chorh_dha: "Chorh-dha" #!Empty_LineInfo!
-	RODIAN_CHR_creeska: "Creeska" #!Empty_LineInfo!
-	RODIAN_CHR_flestic: "Flestic" #!Empty_LineInfo!
-	RODIAN_CHR_coorsha: "Coorsha" #!Empty_LineInfo!
-	RODIAN_CHR_lernik: "Lernik" #!Empty_LineInfo!
-	RODIAN_CHR_deedoh: "Deedoh" #!Empty_LineInfo!
-	RODIAN_CHR_deelguh: "Deelguh" #!Empty_LineInfo!
-	RODIAN_CHR_dejarro: "Dejarro" #!Empty_LineInfo!
-	RODIAN_CHR_chooru: "Chooru" #!Empty_LineInfo!
-	RODIAN_CHR_dellko: "Dellko" #!Empty_LineInfo!
-	RODIAN_CHR_delo: "Delo" #!Empty_LineInfo!
-	RODIAN_CHR_denma: "Denma" #!Empty_LineInfo!
-	RODIAN_CHR_dheendo: "Dheendo" #!Empty_LineInfo!
-	RODIAN_CHR_dindoo: "Dindoo" #!Empty_LineInfo!
-	RODIAN_CHR_doba: "Doba" #!Empty_LineInfo!
-	RODIAN_CHR_tox_don: "Tox Don" #!Empty_LineInfo!
-	RODIAN_CHR_doogo: "Doogo" #!Empty_LineInfo!
-	RODIAN_CHR_dorzo: "Dorzo" #!Empty_LineInfo!
-	RODIAN_CHR_jovan: "Jovan" #!Empty_LineInfo!
-	RODIAN_CHR_fosin: "Fosin" #!Empty_LineInfo!
-	RODIAN_CHR_drokka: "Drokka" #!Empty_LineInfo!
-	RODIAN_CHR_dwesso: "Dwesso" #!Empty_LineInfo!
-	RODIAN_CHR_esdo: "Esdo" #!Empty_LineInfo!
-	RODIAN_CHR_eshon: "Eshon" #!Empty_LineInfo!
-	RODIAN_CHR_evo: "Evo" #!Empty_LineInfo!
-	RODIAN_CHR_faddo: "Faddo" #!Empty_LineInfo!
-	RODIAN_CHR_falloon: "Falloon" #!Empty_LineInfo!
-	RODIAN_CHR_needo: "Needo" #!Empty_LineInfo!
-	RODIAN_CHR_zeelo: "Zeelo" #!Empty_LineInfo!
-	RODIAN_CHR_traa: "Traa" #!Empty_LineInfo!
-	RODIAN_CHR_feeven: "Feeven" #!Empty_LineInfo!
-	RODIAN_CHR_corkash: "Corkash" #!Empty_LineInfo!
-	RODIAN_CHR_slerog: "Slerog" #!Empty_LineInfo!
-	RODIAN_CHR_fondo: "Fondo" #!Empty_LineInfo!
-	RODIAN_CHR_frandu: "Frandu" #!Empty_LineInfo!
-	RODIAN_CHR_igbi: "Igbi" #!Empty_LineInfo!
-	RODIAN_CHR_frelka: "Frelka" #!Empty_LineInfo!
-	RODIAN_CHR_fretch: "Fretch" #!Empty_LineInfo!
-	RODIAN_CHR_har: "Har" #!Empty_LineInfo!
-	RODIAN_CHR_gadaf: "Gadaf" #!Empty_LineInfo!
-	RODIAN_CHR_fizz: "Fizz" #!Empty_LineInfo!
-	RODIAN_CHR_vreebo: "Vreebo" #!Empty_LineInfo!
-	RODIAN_CHR_kood: "Kood" #!Empty_LineInfo!
-	RODIAN_CHR_vistis: "Vistis" #!Empty_LineInfo!
-	RODIAN_CHR_garoush: "Garoush" #!Empty_LineInfo!
-	RODIAN_CHR_jabdo: "Jabdo" #!Empty_LineInfo!
-	RODIAN_CHR_geffa: "Geffa" #!Empty_LineInfo!
-	RODIAN_CHR_geri: "Geri" #!Empty_LineInfo!
-	RODIAN_CHR_geska: "Geska" #!Empty_LineInfo!
-	RODIAN_CHR_glarret: "Glarret" #!Empty_LineInfo!
-	RODIAN_CHR_glem: "Glem" #!Empty_LineInfo!
-	RODIAN_CHR_gluupor: "Gluupor" #!Empty_LineInfo!
-	RODIAN_CHR_sordu: "Sordu" #!Empty_LineInfo!
-	RODIAN_CHR_gomalo: "Gomalo" #!Empty_LineInfo!
-	RODIAN_CHR_pall: "Pall" #!Empty_LineInfo!
-	RODIAN_CHR_gorro: "Gorro" #!Empty_LineInfo!
-	RODIAN_CHR_govenni: "Govenni" #!Empty_LineInfo!
-	RODIAN_CHR_gredori: "Gredori" #!Empty_LineInfo!
-	RODIAN_CHR_grenzo: "Grenzo" #!Empty_LineInfo!
-	RODIAN_CHR_greer: "Greer" #!Empty_LineInfo!
-	RODIAN_CHR_grudo: "Grudo" #!Empty_LineInfo!
-	RODIAN_CHR_malva: "Malva" #!Empty_LineInfo!
-	RODIAN_CHR_greepo: "Greepo" #!Empty_LineInfo!
-	RODIAN_CHR_gurun: "Gurun" #!Empty_LineInfo!
-	RODIAN_CHR_gweeska: "Gweeska" #!Empty_LineInfo!
-	RODIAN_CHR_jopari: "Jopari" #!Empty_LineInfo!
-	RODIAN_CHR_harno: "Harno" #!Empty_LineInfo!
-	RODIAN_CHR_hatabbas: "Hatabbas" #!Empty_LineInfo!
-	RODIAN_CHR_hirrtu: "Hirrtu" #!Empty_LineInfo!
-	RODIAN_CHR_greeta: "Greeta" #!Empty_LineInfo!
-	RODIAN_CHR_honwoo: "Honwoo" #!Empty_LineInfo!
-	RODIAN_CHR_hoonta: "Hoonta" #!Empty_LineInfo!
-	RODIAN_CHR_hulas: "Hulas" #!Empty_LineInfo!
-	RODIAN_CHR_huruni: "Huruni" #!Empty_LineInfo!
-	RODIAN_CHR_huulik: "Huulik" #!Empty_LineInfo!
-	RODIAN_CHR_inntak: "Inntak" #!Empty_LineInfo!
-	RODIAN_CHR_jakoli: "Jakoli" #!Empty_LineInfo!
-	RODIAN_CHR_soobu: "Soobu" #!Empty_LineInfo!
-	RODIAN_CHR_javeezo: "Javeezo" #!Empty_LineInfo!
-	RODIAN_CHR_jhian: "Jhian" #!Empty_LineInfo!
-	RODIAN_CHR_jiree: "Jiree" #!Empty_LineInfo!
-	RODIAN_CHR_hiksri: "Hiksri" #!Empty_LineInfo!
-	RODIAN_CHR_jombo: "Jombo" #!Empty_LineInfo!
-	RODIAN_CHR_jora: "Jora" #!Empty_LineInfo!
-	RODIAN_CHR_jurithus: "Jurithus" #!Empty_LineInfo!
-	RODIAN_CHR_kaddit: "Kaddit" #!Empty_LineInfo!
-	RODIAN_CHR_kappo: "Kappo" #!Empty_LineInfo!
-	RODIAN_CHR_keevo: "Keevo" #!Empty_LineInfo!
-	RODIAN_CHR_kelsek: "Kelsek" #!Empty_LineInfo!
-	RODIAN_CHR_lurze: "Lurze" #!Empty_LineInfo!
-	RODIAN_CHR_rel: "Rel" #!Empty_LineInfo!
-	RODIAN_CHR_gorak: "Gorak" #!Empty_LineInfo!
-	RODIAN_CHR_kletoo: "Kletoo" #!Empty_LineInfo!
-	RODIAN_CHR_kweeta: "Kweeta" #!Empty_LineInfo!
-	RODIAN_CHR_ortha: "Ortha" #!Empty_LineInfo!
-	RODIAN_CHR_lotas: "Lotas" #!Empty_LineInfo!
-	RODIAN_CHR_luco: "Luco" #!Empty_LineInfo!
-	RODIAN_CHR_veeboo: "Veeboo" #!Empty_LineInfo!
-	RODIAN_CHR_luugro: "Luugro" #!Empty_LineInfo!
-	RODIAN_CHR_malkoi: "Malkoi" #!Empty_LineInfo!
-	RODIAN_CHR_wuuden: "Wuuden" #!Empty_LineInfo!
-	RODIAN_CHR_swaja: "Swaja" #!Empty_LineInfo!
-	RODIAN_CHR_maseloo: "Maseloo" #!Empty_LineInfo!
-	RODIAN_CHR_critolus: "Critolus" #!Empty_LineInfo!
-	RODIAN_CHR_matu: "Matu" #!Empty_LineInfo!
-	RODIAN_CHR_meebo: "Meebo" #!Empty_LineInfo!
-	RODIAN_CHR_menndo: "Menndo" #!Empty_LineInfo!
-	RODIAN_CHR_morgoto: "Morgoto" #!Empty_LineInfo!
-	RODIAN_CHR_jeepfal: "Jeepfal" #!Empty_LineInfo!
-	RODIAN_CHR_neelda: "Neelda" #!Empty_LineInfo!
-	RODIAN_CHR_neesh: "Neesh" #!Empty_LineInfo!
-	RODIAN_CHR_vees: "Vees" #!Empty_LineInfo!
-	RODIAN_CHR_nikolo: "Nikolo" #!Empty_LineInfo!
-	RODIAN_CHR_nio: "Nio" #!Empty_LineInfo!
-	RODIAN_CHR_nodobo: "Nodobo" #!Empty_LineInfo!
-	RODIAN_CHR_opato: "Opato" #!Empty_LineInfo!
-	RODIAN_CHR_opdoa: "Opdoa" #!Empty_LineInfo!
-	RODIAN_CHR_pardo: "Pardo" #!Empty_LineInfo!
-	RODIAN_CHR_pellko: "Pellko" #!Empty_LineInfo!
-	RODIAN_CHR_safonni: "Safonni" #!Empty_LineInfo!
-	RODIAN_CHR_phindo: "Phindo" #!Empty_LineInfo!
-	RODIAN_CHR_puchek: "Puchek" #!Empty_LineInfo!
-	RODIAN_CHR_quano: "Quano" #!Empty_LineInfo!
-	RODIAN_CHR_quakkee: "Quakkee" #!Empty_LineInfo!
-	RODIAN_CHR_jaaxine: "Jaaxine" #!Empty_LineInfo!
-	RODIAN_CHR_gwad: "Gwad" #!Empty_LineInfo!
-	RODIAN_CHR_jaardu: "Jaardu" #!Empty_LineInfo!
-	RODIAN_CHR_valry: "Valry" #!Empty_LineInfo!
-	RODIAN_CHR_ubis: "Ubis" #!Empty_LineInfo!
-	RODIAN_CHR_beata: "Beata" #!Empty_LineInfo!
-	RODIAN_CHR_reeveid: "Reeveid" #!Empty_LineInfo!
-	RODIAN_CHR_reezo: "Reezo" #!Empty_LineInfo!
-	RODIAN_CHR_revidjasa: "Revidjasa" #!Empty_LineInfo!
-	RODIAN_CHR_roovo: "Roovo" #!Empty_LineInfo!
-	RODIAN_CHR_bolla: "Bolla" #!Empty_LineInfo!
-	RODIAN_CHR_noota: "Noota" #!Empty_LineInfo!
-	RODIAN_CHR_rulo: "Rulo" #!Empty_LineInfo!
-	RODIAN_CHR_sando: "Sando" #!Empty_LineInfo!
-	RODIAN_CHR_chillo: "Chillo" #!Empty_LineInfo!
-	RODIAN_CHR_sasso: "Sasso" #!Empty_LineInfo!
-	RODIAN_CHR_seego: "Seego" #!Empty_LineInfo!
-	RODIAN_CHR_toile: "Toile" #!Empty_LineInfo!
-	RODIAN_CHR_veem: "Veem" #!Empty_LineInfo!
-	RODIAN_CHR_shafu: "Shafu" #!Empty_LineInfo!
-	RODIAN_CHR_teeko: "Teeko" #!Empty_LineInfo!
-	RODIAN_CHR_yau: "Yau" #!Empty_LineInfo!
-	RODIAN_CHR_auaro: "Auaro" #!Empty_LineInfo!
-	RODIAN_CHR_slotho: "Slotho" #!Empty_LineInfo!
-	RODIAN_CHR_skodo: "Skodo" #!Empty_LineInfo!
-	RODIAN_CHR_silood: "Silood" #!Empty_LineInfo!
-	RODIAN_CHR_shinqo: "Shinqo" #!Empty_LineInfo!
-	RODIAN_CHR_treemo: "Treemo" #!Empty_LineInfo!
-	RODIAN_CHR_tseebo: "Tseebo" #!Empty_LineInfo!
-	RODIAN_CHR_tsoklo: "Tsoklo" #!Empty_LineInfo!
-	RODIAN_CHR_tulagn: "Tulagn" #!Empty_LineInfo!
-	RODIAN_CHR_twoolo: "Twoolo" #!Empty_LineInfo!
-	RODIAN_CHR_gabo: "Gabo" #!Empty_LineInfo!
-	RODIAN_CHR_suvam: "Suvam" #!Empty_LineInfo!
-	RODIAN_CHR_tazzik: "Tazzik" #!Empty_LineInfo!
-	RODIAN_CHR_teekwo: "Teekwo" #!Empty_LineInfo!
-	RODIAN_CHR_teeloo: "Teeloo" #!Empty_LineInfo!
-	RODIAN_CHR_teeso: "Teeso" #!Empty_LineInfo!
-	RODIAN_CHR_teezyk: "Teezyk" #!Empty_LineInfo!
-	RODIAN_CHR_thugo: "Thugo" #!Empty_LineInfo!
-	RODIAN_CHR_tolga: "Tolga" #!Empty_LineInfo!
-	RODIAN_CHR_skoo: "Skoo" #!Empty_LineInfo!
-	RODIAN_CHR_krezo: "Krezo" #!Empty_LineInfo!
-	RODIAN_CHR_dar: "Dar" #!Empty_LineInfo!
-	RODIAN_CHR_vreego: "Vreego" #!Empty_LineInfo!
-	RODIAN_CHR_vosso: "Vosso" #!Empty_LineInfo!
-	RODIAN_CHR_yat_de: "Yat-De" #!Empty_LineInfo!
-	RODIAN_CHR_tsuulo: "Tsuulo" #!Empty_LineInfo!
-	RODIAN_CHR_tyss: "Tyss" #!Empty_LineInfo!
-	RODIAN_CHR_tyxx: "Tyxx" #!Empty_LineInfo!
-	RODIAN_CHR_moogo: "Moogo" #!Empty_LineInfo!
-	RODIAN_CHR_vatoono: "Vatoono" #!Empty_LineInfo!
-	RODIAN_CHR_veerdo: "Veerdo" #!Empty_LineInfo!
-	RODIAN_CHR_veedo: "Veedo" #!Empty_LineInfo!
-	RODIAN_CHR_vealo: "Vealo" #!Empty_LineInfo!
-	RODIAN_CHR_neela: "Neela" #!Empty_LineInfo!
-	RODIAN_CHR_greeata: "Greeata" #!Empty_LineInfo!
-	RODIAN_CHR_hreeda: "Hreeda" #!Empty_LineInfo!
-	RODIAN_CHR_lolo: "Lolo" #!Empty_LineInfo!
-	RODIAN_CHR_steya: "Steya" #!Empty_LineInfo!
-	RODIAN_CHR_cyll: "Cyll" #!Empty_LineInfo!
-	RODIAN_CHR_beisa: "Beisa" #!Empty_LineInfo!
-	RODIAN_CHR_besha: "Besha" #!Empty_LineInfo!
-	RODIAN_CHR_laneet: "Laneet" #!Empty_LineInfo!
-	RODIAN_CHR_chussido: "Chussido" #!Empty_LineInfo!
-	RODIAN_CHR_pa_dua: "Pa Dua" #!Empty_LineInfo!
-	RODIAN_CHR_mahtee: "Mahtee" #!Empty_LineInfo!
-	RODIAN_CHR_fask_eelak: "Fask Eelak" #!Empty_LineInfo!
-	RODIAN_CHR_eesmu: "Eesmu" #!Empty_LineInfo!
-	RODIAN_CHR_barma: "Barma" #!Empty_LineInfo!
-	RODIAN_CHR_onna: "Onna" #!Empty_LineInfo!
-	RODIAN_CHR_ganodi: "Ganodi" #!Empty_LineInfo!
-	RODIAN_CHR_geeda: "Geeda" #!Empty_LineInfo!
-	RODIAN_CHR_feena: "Feena" #!Empty_LineInfo!
-	RODIAN_CHR_beekly: "Beekly" #!Empty_LineInfo!
-	RODIAN_CHR_mikdanyell: "Mikdanyell" #!Empty_LineInfo!
-	RODIAN_CHR_h_rinnrada: "H'rinnrada" #!Empty_LineInfo!
-	RODIAN_CHR_hedu: "Hedu" #!Empty_LineInfo!
-	RODIAN_CHR_hopeata: "Hopeata" #!Empty_LineInfo!
-	RODIAN_CHR_andoorni: "Andoorni" #!Empty_LineInfo!
-	RODIAN_CHR_jeeta: "Jeeta" #!Empty_LineInfo!
-	RODIAN_CHR_keesha: "Keesha" #!Empty_LineInfo!
-	RODIAN_CHR_kiimo: "Kiimo" #!Empty_LineInfo!
-	RODIAN_CHR_ruku: "Ruku" #!Empty_LineInfo!
-	RODIAN_CHR_saras: "Saras" #!Empty_LineInfo!
-	RODIAN_CHR_torani: "Torani" #!Empty_LineInfo!
-	RODIAN_CHR_luunti: "Luunti" #!Empty_LineInfo!
-	RODIAN_CHR_demaia: "Demaia" #!Empty_LineInfo!
-	RODIAN_CHR_meeba: "Meeba" #!Empty_LineInfo!
-	RODIAN_CHR_meelo: "Meelo" #!Empty_LineInfo!
-	RODIAN_CHR_otol: "Otol" #!Empty_LineInfo!
-	RODIAN_CHR_nesha: "Nesha" #!Empty_LineInfo!
-	RODIAN_CHR_jaylla: "Jaylla" #!Empty_LineInfo!
-	RODIAN_CHR_vosdia: "Vosdia" #!Empty_LineInfo!
-	RODIAN_CHR_norta: "Norta" #!Empty_LineInfo!
-	RODIAN_CHR_otee: "Otee" #!Empty_LineInfo!
-	RODIAN_CHR_tezli: "Tezli" #!Empty_LineInfo!
-	RODIAN_CHR_liinu: "Liinu" #!Empty_LineInfo!
-	RODIAN_CHR_yan: "Yan" #!Empty_LineInfo!
-	RODIAN_CHR_yalka: "Yalka" #!Empty_LineInfo!
-	RODIAN_CHR_pon: "Pon" #!Empty_LineInfo!
-	RODIAN_CHR_renna: "Renna" #!Empty_LineInfo!
-	RODIAN_CHR_ralia: "Ralia" #!Empty_LineInfo!
-	RODIAN_CHR_roweedu: "Roweedu" #!Empty_LineInfo!
-	RODIAN_CHR_borra: "Borra" #!Empty_LineInfo!
-	RODIAN_CHR_shinba: "Shinba" #!Empty_LineInfo!
-	RODIAN_CHR_suz: "Suz" #!Empty_LineInfo!
-	RODIAN_CHR_terya: "Terya" #!Empty_LineInfo!
-	RODIAN_CHR_theenu: "Theenu" #!Empty_LineInfo!
-	RODIAN_CHR_chokoo: "Chokoo" #!Empty_LineInfo!
-	RODIAN_CHR_threnda: "Threnda" #!Empty_LineInfo!
-	RODIAN_CHR_loa: "Loa" #!Empty_LineInfo!
-	RODIAN_CHR_tweeta: "Tweeta" #!Empty_LineInfo!
-	RODIAN_CHR_neeka: "Neeka" #!Empty_LineInfo!
-	RODIAN_CHR_zayda: "Zayda" #!Empty_LineInfo!
-	RODIAN_CHR_zeeba: "Zeeba" #!Empty_LineInfo!
-	RODIAN_CHR_dree: "Dree" #!Empty_LineInfo!
-	RODIAN_CHR_tradu: "Tradu" #!Empty_LineInfo!
-	RODIAN_CHR_vralla: "Vralla" #!Empty_LineInfo!
-	RODIAN_CHR_xeelksido: "Xeelksido" #!Empty_LineInfo!
-	RODIAN_CHR_chattza: "Chattza" #!Empty_LineInfo!
-	RODIAN_CHR_tetsu: "Tetsu" #!Empty_LineInfo!
-	RODIAN_CHR_bomu: "Bomu" #!Empty_LineInfo!
-	RODIAN_CHR_adebsu: "Adebsu" #!Empty_LineInfo!
-	RODIAN_CHR_an_yettu: "An'yettu" #!Empty_LineInfo!
-	RODIAN_CHR_anyyon: "Anyyon" #!Empty_LineInfo!
-	RODIAN_CHR_cadevon: "Cadevon" #!Empty_LineInfo!
-	RODIAN_CHR_cairn: "Cairn" #!Empty_LineInfo!
-	RODIAN_CHR_chekkoo: "Chekkoo" #!Empty_LineInfo!
-	RODIAN_CHR_intamm: "Intamm" #!Empty_LineInfo!
-	RODIAN_CHR_kemu: "Kemu" #!Empty_LineInfo!
-	RODIAN_CHR_kenu: "Kenu" #!Empty_LineInfo!
-	RODIAN_CHR_neetakka: "Neetakka" #!Empty_LineInfo!
-	RODIAN_CHR_reeven: "Reeven" #!Empty_LineInfo!
-	RODIAN_CHR_roolek: "Roolek" #!Empty_LineInfo!
-	RODIAN_CHR_soammei: "Soammei" #!Empty_LineInfo!
-	RODIAN_CHR_tan: "Tan" #!Empty_LineInfo!
-	RODIAN_CHR_tanwa: "Tanwa" #!Empty_LineInfo!
-	RODIAN_CHR_tonera: "Tonera" #!Empty_LineInfo!
-	RODIAN_CHR_yiyar: "Yiyar" #!Empty_LineInfo!
-	RODIAN_CHR__naa: "'Naa" #!Empty_LineInfo!
-	RODIAN_CHR_ando: "Ando" #!Empty_LineInfo!
-	RODIAN_CHR_annora: "Annora" #!Empty_LineInfo!
-	RODIAN_CHR_apkar: "Apkar" #!Empty_LineInfo!
-	RODIAN_CHR_armado: "Armado" #!Empty_LineInfo!
-	RODIAN_CHR_bain: "Bain" #!Empty_LineInfo!
-	RODIAN_CHR_baruk: "Baruk" #!Empty_LineInfo!
-	RODIAN_CHR_vano: "Vano" #!Empty_LineInfo!
-	RODIAN_CHR_bazak: "Bazak" #!Empty_LineInfo!
-	RODIAN_CHR_bisma: "Bisma" #!Empty_LineInfo!
-	RODIAN_CHR_biveedo: "Biveedo" #!Empty_LineInfo!
-	RODIAN_CHR_blancken: "Blancken" #!Empty_LineInfo!
-	RODIAN_CHR_blathos: "Blathos" #!Empty_LineInfo!
-	RODIAN_CHR_bleeker: "Bleeker" #!Empty_LineInfo!
-	RODIAN_CHR_bodonawieedo: "Bodonawieedo" #!Empty_LineInfo!
-	RODIAN_CHR_bonu: "Bonu" #!Empty_LineInfo!
-	RODIAN_CHR_booj: "Booj" #!Empty_LineInfo!
-	RODIAN_CHR_broos: "Broos" #!Empty_LineInfo!
-	RODIAN_CHR_cheq: "Cheq" #!Empty_LineInfo!
-	RODIAN_CHR_crupp: "Crupp" #!Empty_LineInfo!
-	RODIAN_CHR_dazhda: "Dazhda" #!Empty_LineInfo!
-	RODIAN_CHR_de_yago: "De'Yago" #!Empty_LineInfo!
-	RODIAN_CHR_delb: "Delb" #!Empty_LineInfo!
-	RODIAN_CHR_drark: "Drark" #!Empty_LineInfo!
-	RODIAN_CHR_dreed: "Dreed" #!Empty_LineInfo!
-	RODIAN_CHR_dunn: "Dunn" #!Empty_LineInfo!
-	RODIAN_CHR_fas: "Fas" #!Empty_LineInfo!
-	RODIAN_CHR_fazon: "Fazon" #!Empty_LineInfo!
-	RODIAN_CHR_feaan: "Feaan" #!Empty_LineInfo!
-	RODIAN_CHR_fel_lona: "Fel'Lona" #!Empty_LineInfo!
-	RODIAN_CHR_fenc: "Fenc" #!Empty_LineInfo!
-	RODIAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
-	RODIAN_CHR_ferran: "Ferran" #!Empty_LineInfo!
-	RODIAN_CHR_freemo: "Freemo" #!Empty_LineInfo!
-	RODIAN_CHR_fuggaw: "Fuggaw" #!Empty_LineInfo!
-	RODIAN_CHR_galko: "Galko" #!Empty_LineInfo!
-	RODIAN_CHR_gango: "Gango" #!Empty_LineInfo!
-	RODIAN_CHR_gareeda: "Gareeda" #!Empty_LineInfo!
-	RODIAN_CHR_garn: "Garn" #!Empty_LineInfo!
-	RODIAN_CHR_garrink: "Garrink" #!Empty_LineInfo!
-	RODIAN_CHR_gelens: "Gelens" #!Empty_LineInfo!
-	RODIAN_CHR_gen: "Gen" #!Empty_LineInfo!
-	RODIAN_CHR_gesse: "Gesse" #!Empty_LineInfo!
-	RODIAN_CHR_ghel: "Ghel" #!Empty_LineInfo!
-	RODIAN_CHR_gogg: "Gogg" #!Empty_LineInfo!
-	RODIAN_CHR_gopal: "Gopal" #!Empty_LineInfo!
-	RODIAN_CHR_groth: "Groth" #!Empty_LineInfo!
-	RODIAN_CHR_the_elder: "the Elder" #!Empty_LineInfo!
-	RODIAN_CHR_the_younger: "the Younger" #!Empty_LineInfo!
-	RODIAN_CHR_gue: "Gue" #!Empty_LineInfo!
-	RODIAN_CHR_greeku: "Greeku" #!Empty_LineInfo!
-	RODIAN_CHR_haines: "Haines" #!Empty_LineInfo!
-	RODIAN_CHR_holda: "Holda" #!Empty_LineInfo!
-	RODIAN_CHR_horvat: "Horvat" #!Empty_LineInfo!
-	RODIAN_CHR_hul: "Hul" #!Empty_LineInfo!
-	RODIAN_CHR_hune: "Hune" #!Empty_LineInfo!
-	RODIAN_CHR_hydan: "Hydan" #!Empty_LineInfo!
-	RODIAN_CHR_javeedo: "Javeedo" #!Empty_LineInfo!
-	RODIAN_CHR_jcir: "Jcir" #!Empty_LineInfo!
-	RODIAN_CHR_jith: "Jith" #!Empty_LineInfo!
-	RODIAN_CHR_kavila: "Kavila" #!Empty_LineInfo!
-	RODIAN_CHR_kebbo: "Kebbo" #!Empty_LineInfo!
-	RODIAN_CHR_keedo: "Keedo" #!Empty_LineInfo!
-	RODIAN_CHR_keemos: "Keemos" #!Empty_LineInfo!
-	RODIAN_CHR_kesh: "Kesh" #!Empty_LineInfo!
-	RODIAN_CHR_keteris: "Keteris" #!Empty_LineInfo!
-	RODIAN_CHR_khzam: "Khzam" #!Empty_LineInfo!
-	RODIAN_CHR_klimo: "Klimo" #!Empty_LineInfo!
-	RODIAN_CHR_kooff: "Kooff" #!Empty_LineInfo!
-	RODIAN_CHR_kreezo: "Kreezo" #!Empty_LineInfo!
-	RODIAN_CHR_krenin: "Krenin" #!Empty_LineInfo!
-	RODIAN_CHR_kulda: "Kulda" #!Empty_LineInfo!
-	RODIAN_CHR_leebo: "Leebo" #!Empty_LineInfo!
-	RODIAN_CHR_lenitor: "Lenitor" #!Empty_LineInfo!
-	RODIAN_CHR_leuro_khian: "Leuro-Khian" #!Empty_LineInfo!
-	RODIAN_CHR_lang: "Lang" #!Empty_LineInfo!
-	RODIAN_CHR_lunx: "Lunx" #!Empty_LineInfo!
-	RODIAN_CHR_malnic: "Malnic" #!Empty_LineInfo!
-	RODIAN_CHR_malon: "Malon" #!Empty_LineInfo!
-	RODIAN_CHR_maru: "Maru" #!Empty_LineInfo!
-	RODIAN_CHR_masse: "Masse" #!Empty_LineInfo!
-	RODIAN_CHR_minst: "Minst" #!Empty_LineInfo!
-	RODIAN_CHR_nereno: "Nereno" #!Empty_LineInfo!
-	RODIAN_CHR_nal: "Nal" #!Empty_LineInfo!
-	RODIAN_CHR_nareedo: "Nareedo" #!Empty_LineInfo!
-	RODIAN_CHR_neihero: "Neihero" #!Empty_LineInfo!
-	RODIAN_CHR_nerich: "Nerich" #!Empty_LineInfo!
-	RODIAN_CHR_netakka: "Netakka" #!Empty_LineInfo!
-	RODIAN_CHR_noh: "Noh" #!Empty_LineInfo!
-	RODIAN_CHR_nooma: "Nooma" #!Empty_LineInfo!
-	RODIAN_CHR_nu: "Nu" #!Empty_LineInfo!
-	RODIAN_CHR_nom: "Nom" #!Empty_LineInfo!
-	RODIAN_CHR_odo: "Odo" #!Empty_LineInfo!
-	RODIAN_CHR_oran: "Oran" #!Empty_LineInfo!
-	RODIAN_CHR_paemos: "Paemos" #!Empty_LineInfo!
-	RODIAN_CHR_pajiic: "Pajiic" #!Empty_LineInfo!
-	RODIAN_CHR_pendon: "Pendon" #!Empty_LineInfo!
-	RODIAN_CHR_pengu: "Pengu" #!Empty_LineInfo!
-	RODIAN_CHR_purs: "Purs" #!Empty_LineInfo!
-	RODIAN_CHR_r_nar: "R'nar" #!Empty_LineInfo!
-	RODIAN_CHR_raatu: "Raatu" #!Empty_LineInfo!
-	RODIAN_CHR_raxx: "Raxx" #!Empty_LineInfo!
-	RODIAN_CHR_ralos_vok: "Ralos-Vok" #!Empty_LineInfo!
-	RODIAN_CHR_reendorr: "Reendorr" #!Empty_LineInfo!
-	RODIAN_CHR_reesh: "Reesh" #!Empty_LineInfo!
-	RODIAN_CHR_savroon: "Savroon" #!Empty_LineInfo!
-	RODIAN_CHR_setas: "Setas" #!Empty_LineInfo!
-	RODIAN_CHR_sweevas: "Sweevas" #!Empty_LineInfo!
-	RODIAN_CHR_sanpoa: "Sanpoa" #!Empty_LineInfo!
-	RODIAN_CHR_senn: "Senn" #!Empty_LineInfo!
-	RODIAN_CHR_swanno: "Swanno" #!Empty_LineInfo!
-	RODIAN_CHR_soonca: "Soonca" #!Empty_LineInfo!
-	RODIAN_CHR_totryl: "Totryl" #!Empty_LineInfo!
-	RODIAN_CHR_tychee: "Tychee" #!Empty_LineInfo!
-	RODIAN_CHR_thool: "Thool" #!Empty_LineInfo!
-	RODIAN_CHR_tibeeme: "Tibeeme" #!Empty_LineInfo!
-	RODIAN_CHR_ulur_weebe: "Ulur Weebe" #!Empty_LineInfo!
-	RODIAN_CHR_skez: "Skez" #!Empty_LineInfo!
-	RODIAN_CHR_veerone: "Veerone" #!Empty_LineInfo!
-	RODIAN_CHR_weeyo: "Weeyo" #!Empty_LineInfo!
-	RODIAN_CHR_wieedo: "Wieedo" #!Empty_LineInfo!
-	RODIAN_CHR_yesosko: "Yesosko" #!Empty_LineInfo!
-	RODIAN_CHR_yipour: "Yipour" #!Empty_LineInfo!
-	RODIAN_CHR_yutsen: "Yutsen" #!Empty_LineInfo!
-	RODIAN_CHR_z_all: "Z'all" #!Empty_LineInfo!
-	RODIAN_CHR_zeelesi: "Zeelesi" #!Empty_LineInfo!
-	RODIAN_CHR_vandap: "Vandap" #!Empty_LineInfo!
-	RODIAN_CHR_vaocan: "Vaocan" #!Empty_LineInfo!
-	RODIAN_CHR_chuko: "Chuko" #!Empty_LineInfo!
-	RODIAN_CHR_vletho: "Vletho" #!Empty_LineInfo!
-	RODIAN_CHR_vola: "Vola" #!Empty_LineInfo!
-	RODIAN_CHR_wac: "Wac" #!Empty_LineInfo!
-	RODIAN_CHR_wasanti: "Wasanti" #!Empty_LineInfo!
-	RODIAN_CHR_weebe: "Weebe" #!Empty_LineInfo!
-	RODIAN_CHR_hishnu: "Hishnu" #!Empty_LineInfo!
-	RODIAN_CHR_burbu: "Burbu" #!Empty_LineInfo!
-	RODIAN_CHR_jendowanian: "Jendowanian" #!Empty_LineInfo!
-	RODIAN_CHR_kleeto: "Kleeto" #!Empty_LineInfo!
-	RODIAN_CHR_veemo: "Veemo" #!Empty_LineInfo!
-	RODIAN_CHR_toran: "Toran" #!Empty_LineInfo!
-	RODIAN_CHR_soonta: "Soonta" #!Empty_LineInfo!
-	RODIAN_CHR_ulur: "Ulur" #!Empty_LineInfo!
-	RODIAN_CHR_chak: "Chak" #!Empty_LineInfo!
+ RODIAN_SHIP_atiang: "Атьянг"
+ RODIAN_SHIP_navik_the_red: "Навик Красный"
+ RODIAN_SHIP_greedo_the_elder: "Гридо Старший"
+ RODIAN_SHIP_day_of_the_hunter: "День охотника"
+ RODIAN_SHIP_feudal_glory: "Феодальная слава"
+ RODIAN_SHIP_ghestslayer: "Убийца призраков"
+ RODIAN_SHIP_great_protector: "Великий Защитник"
+ RODIAN_SHIP_gladiator: "Гладиатор"
+ RODIAN_SHIP_kinzic: "Кинзич"
+ RODIAN_SHIP_rodian_kiss: "Родианский поцелуй"
+ RODIAN_SHIP_vosida_nooma: "Восида Нума"
+ RODIAN_SHIP_zahtjav: "Захтяв"
+ RODIAN_SHIP_catharsis: "Катарсис"
+ RODIAN_SHIP_harido_s_gift: "Подарок Харидо"
+ RODIAN_SHIP_harido_kavila: "Харидо Кавила"
+ RODIAN_SHIP_glory_of_chattza: "Слава Чатцы"
+ RODIAN_SHIP_pride_of_tetsu: "Гордость Тетсу"
+ RODIAN_SHIP_bomu_honor: "Честь Бому"
+ RODIAN_SHIP_adebsu: "Адебсу"
+ RODIAN_SHIP_an_yettu_blade: "Клинок аньетту"
+ RODIAN_SHIP_fate_of_anyyon: "Судьба Аньена"
+ RODIAN_SHIP_cadevon_mark: "Знак Кадевона"
+ RODIAN_SHIP_cairn: "Кэрн"
+ RODIAN_SHIP_chekkoo_dragon: "Дракон Чекку"
+ RODIAN_SHIP_valor_of_intamm: "Доблесть Интамма"
+ RODIAN_SHIP_kemu_blood: "Кровь Кему"
+ RODIAN_SHIP_kenu_ascendant: "Восходящий Кену"
+ RODIAN_SHIP_eye_of_neetakka: "Око Нитакки"
+ RODIAN_SHIP_reeven: "Ривен"
+ RODIAN_SHIP_bounty_of_roolek: "Щедрость Рулека"
+ RODIAN_SHIP_scythe_of_soammei: "Коса Соаммеи"
+ RODIAN_SHIP_crouching_tan: "Крадущийся загар"
+ RODIAN_SHIP_revenant_of_tanwa: "Выживший из Танвы"
+ RODIAN_SHIP_tonera_reaper: "Тонерский жнец"
+ RODIAN_SHIP_yiyar_s_revenge: "Месть Йияра"
+ RODIAN_SHIP_inta_si_rin_na: "Инта'си'рин'на"
+ RODIAN_SHIP_equator: "Экватор"
+ RODIAN_SHIP_goa_ato: "Гоа-Ато"
+ RODIAN_SHIP_lost_hunt: "Потерянная охота"
+ RODIAN_SHIP_n_gant: "Н'Гант"
+ RODIAN_SHIP_rheshalva: "Решальва"
+ RODIAN_SHIP_council_of_justice: "Совет юстиции"
+ RODIAN_SHIP_ripper: "Потрошитель"
+ RODIAN_SHIP_sancretti: "Санкретти"
+ RODIAN_SHIP_salus: "Салус"
+ RODIAN_SHIP_tonena: "Тонена"
+ RODIAN_SHIP_verifier: "Верификатор"
+ RODIAN_SHIP_zarvel: "Зарвель"
+ RODIAN_SHIP_harlequin: "Арлекин"
+ RODIAN_SHIP_running_black: "Бегущий черным"
+ RODIAN_SHIP_final_act: "Финальный акт"
+ RODIAN_SHIP_final_curtain: "Последний занавес"
+ RODIAN_SHIP_arena: "Арена"
+ RODIAN_SHIP_crimson_audition: "Прослушивание Crimson"
+ RODIAN_SHIP_blackout: "Затемнение"
+ RODIAN_SHIP_curtain_call: "Звонок на занавес"
+ RODIAN_SHIP_colour_call: "Выбор цвета"
+ RODIAN_SHIP_callback: "Обратный вызов"
+ RODIAN_SHIP_caster: "Кастер"
+ RODIAN_SHIP_centre_line: "Центральная линия"
+ RODIAN_SHIP_clearance: "Разрешение"
+ RODIAN_SHIP_cyclorama: "Циклорама"
+ RODIAN_SHIP_downstage: "За кулисами"
+ RODIAN_SHIP_matinee: "Утренник"
+ RODIAN_SHIP_verdant_war: "Зеленая война"
+ RODIAN_SHIP_offstage: "За сценой"
+ RODIAN_SHIP_parodos: "Пародос"
+ RODIAN_SHIP_playwright: "Драматург"
+ RODIAN_SHIP_professional: "Профессионал"
+ RODIAN_SHIP_proscenium: "Авансцена"
+ RODIAN_SHIP_bozzascena: "Боццаскена"
+ RODIAN_SHIP_blooded_stage: "Кровавая стадия"
+ RODIAN_SHIP_tableaux: "Живые картины"
+ RODIAN_SHIP_rideax: "Ридеакс"
+ RODIAN_SHIP_sipazzio: "Сипаззио"
+ RODIAN_SHIP_pendrizzion: "Пендриззион"
+ RODIAN_SHIP_wet_tech: "Влажные технологии"
+ RODIAN_SHIP_fear_to_tread: "Старх наступления"
+ RODIAN_SHIP_skene: "Скене"
+ RODIAN_SHIP_dizyramb: "Дизирамб"
+ RODIAN_SHIP_deuteragonist: "Дейтерагонист"
+ RODIAN_SHIP_theatron: "Театрон"
+ RODIAN_SHIP_tritagonist: "Тритагонист"
+ RODIAN_SHIP_thymele: "Тимеле"
+ RODIAN_SHIP_proskenion: "Проскенион"
+ RODIAN_SHIP_centricity: "Центричность"
+ RODIAN_SHIP_koizon: "Койзон"
+ RODIAN_SHIP_diazoma: "Диазома"
+ RODIAN_SHIP_greeiactoi: "Гриеактои"
+ RODIAN_SHIP_ekkoclema: "Экоклема"
+ RODIAN_SHIP_aeorema: "Эорема"
+ RODIAN_SHIP_suppliant: "Проситель"
+ RODIAN_SHIP_adituz: "Адитуз"
+ RODIAN_SHIP_anazemma: "Аназемма"
+ RODIAN_SHIP_arkkitrave: "Арккитрав"
+ RODIAN_SHIP_kataclyema: "Катаклиема"
+ RODIAN_SHIP_baldakkin: "Болдаккин"
+ RODIAN_SHIP_kaeroni: "Каэрони"
+ RODIAN_SHIP_klimake: "Климаке"
+ RODIAN_SHIP_koregos: "Корегос"
+ RODIAN_SHIP_koryphyus: "Корифей"
+ RODIAN_SHIP_ziazoma: "Зязома"
+ RODIAN_SHIP_zohedria: "Зохедрия"
+ RODIAN_SHIP_ima_gavea: "Има Гавея"
+ RODIAN_SHIP_ozeion: "Озейон"
+ RODIAN_SHIP_ogreeum: "Огриум"
+ RODIAN_SHIP_gonkos: "Гонкос"
+ RODIAN_SHIP_avaro: "Аваро"
+ RODIAN_SHIP_boiny: "Бойни"
+ RODIAN_SHIP_capo: "Капо"
+ RODIAN_SHIP_cevva: "Кевва"
+ RODIAN_SHIP_clezo: "Клезо"
+ RODIAN_SHIP_dardo: "Дардо"
+ RODIAN_SHIP_doda: "Дода"
+ RODIAN_SHIP_farr: "Фарр"
+ RODIAN_SHIP_geelo: "Джело"
+ RODIAN_SHIP_grappa: "Граппа"
+ RODIAN_SHIP_harido: "Харидо"
+ RODIAN_SHIP_honka: "Хонка"
+ RODIAN_SHIP_jannik: "Янник"
+ RODIAN_SHIP_kavilo: "Кавило"
+ RODIAN_SHIP_kelbis: "Кельбис"
+ RODIAN_SHIP_kelko: "Келко"
+ RODIAN_SHIP_koobis: "Кубис"
+ RODIAN_SHIP_leenik: "Линик"
+ RODIAN_SHIP_lido: "Лидо"
+ RODIAN_SHIP_maris: "Марис"
+ RODIAN_SHIP_mufrenes: "Муфренес"
+ RODIAN_SHIP_nardi: "Нарди"
+ RODIAN_SHIP_narik: "Нарик"
+ RODIAN_SHIP_onaconda: "Онаконда"
+ RODIAN_SHIP_prevaro: "Преваро"
+ RODIAN_SHIP_rohan: "Рохан"
+ RODIAN_SHIP_ropal: "Ропал"
+ RODIAN_SHIP_shodu: "Шоду"
+ RODIAN_SHIP_skee_skee: "Ски-ски"
+ RODIAN_SHIP_sookcool: "Суккул"
+ RODIAN_SHIP_standro: "Стандро"
+ RODIAN_SHIP_teeku: "Тиику"
+ RODIAN_SHIP_teerik: "Тирик"
+ RODIAN_SHIP_thuku: "Туку"
+ RODIAN_SHIP_tox: "Токсин"
+ RODIAN_SHIP_vinto: "Винто"
+ RODIAN_SHIP_vuko: "Вуко"
+ RODIAN_SHIP_wald_xuz: "Вальд Ксуз"
+ RODIAN_SHIP_greeata: "Гриата"
+ RODIAN_SHIP_hreeda: "Хри-да"
+ RODIAN_SHIP_jacta: "Джакта"
+ RODIAN_SHIP_kras_ka: "Крас Ка"
+ RODIAN_SHIP_vorskl_ta: "Ворскла Та"
+ RODIAN_SHIP_spulta: "Спульта"
+ RODIAN_SHIP_si_rin_ha: "Си'рин'ха"
+ RODIAN_SHIP_tujllaki: "Туйллаки"
+ RODIAN_SHIP_chakuy: "Чакуй"
+ RODIAN_SHIP_qulluy: "Куллуй"
+ RODIAN_SHIP_wakachina: "Вакачина"
+ RODIAN_SHIP_trophytaker: "Собиратель трофеев"
+ RODIAN_SHIP_iron_pelt: "Железная шкура"
+ RODIAN_SHIP_qara: "Кара"
+ RODIAN_SHIP_suyk_u: "Суйк'у"
+ RODIAN_SHIP_chuki_suni: "Чуки Суни"
+ RODIAN_SHIP_longspear: "Длинное копье"
+ RODIAN_SHIP_antagonist: "Антагонист"
+ RODIAN_SHIP_protagonist: "Главный герой"
+ RODIAN_SHIP_aycha: "Айча"
+ RODIAN_SHIP_uturunku: "Утурунку"
+ RODIAN_SHIP_wilancha: "Виланча"
+ RODIAN_SHIP_upalla: "Упалла"
+ RODIAN_SHIP_dancing_knife: "Танцующий нож"
+ RODIAN_SHIP_upallay: "Упаллай"
+ RODIAN_SHIP_tuta: "Тута"
+ RODIAN_SHIP_yaykuy: "Яйкуй"
+ RODIAN_SHIP_can_cell: "Can-ячейка"
+ RODIAN_SHIP_ghest: "Гест"
+ RODIAN_SHIP_kwazel_maw: "Квазель Мау"
+ RODIAN_SHIP_blood_fly: "Кровавая муха"
+ RODIAN_SHIP_khardax: "Хардакс"
+ RODIAN_SHIP_newoongall: "Ньюунгалл"
+ RODIAN_SHIP_karstag: "Карстаг"
+ RODIAN_SHIP_roth: "Ротх"
+ RODIAN_SHIP_svaper: "Свейпер"
+ RODIAN_SHIP_iskaayuma: "Искаюма"
+ RODIAN_SHIP_encheeko: "Энчееко"
+ RODIAN_SHIP_betu: "Бету"
+ RODIAN_SHIP_mareesh: "Мареш"
+ RODIAN_SHIP_onaconda_farr: "Онаконда Фарр"
+ RODIAN_SHIP_green_hell: "Зеленый ад"
+ RODIAN_SHIP_ambusher: "Охотник из засады"
+ RODIAN_SHIP_stalker: "Сталкер"
+ RODIAN_SHIP_emarald_shadow: "Тень Эмаральда"
+ RODIAN_SHIP_murk_hunter: "Темный охотник"
+ RODIAN_SHIP_wild_hunt: "Дикая охота"
+ RODIAN_SHIP_dree_vandap: "Дри Вандап"
+ RODIAN_SHIP_bolla_ropal: "Болла Ропал"
+ RODIAN_SHIP_suvam_tan: "Сувам Тан"
+ RODIAN_SHIP_suz_tanwa: "Суз Танва"
+ RODIAN_SHIP_menndo: "Менндо"
+ RODIAN_SHIP_hako_armado: "Нако Армадо"
+ RODIAN_SHIP_slyder: "Слайдер"
+ RODIAN_SHIP_poacher: "Браконьер"
+ RODIAN_SHIP_gamewarden: "Хранитель игр"
+ RODIAN_SHIP_fenn_stalker: "Фенн Сталкер"
+ RODIAN_SHIP_skaena: "Скаена"
+ RODIAN_SHIP_skalae: "Скалае"
+ RODIAN_SHIP_rodiamai: "Родиамай"
+ RODIAN_SHIP_rodimelici: "Родимеличи"
+ RODIAN_SHIP_venaziones: "Венацион"
+ RODIAN_SHIP_veeatorium: "Виаториум"
+ RODIAN_SHIP_treasure_of_rodia: "Сокровище Родии"
+ RODIAN_SHIP_stalking_mount: "Крадущийся скакун"
+ RODIAN_SHIP_trapjaw: "Трапджоу"
+ RODIAN_SHIP_headsman: "Палач"
+ RODIAN_SHIP_first_protector: "Первый защитник"
+ RODIAN_SHIP_intermission: "Антракт"
+ RODIAN_SHIP_h_rinnrada: "Х'риннрада"
+ RODIAN_SHIP_jannik_the_white: "Янник Белый"
+ RODIAN_SHIP_honor_war: "Война чести"
+ RODIAN_SHIP_general_minst: "Генеральный министр"
+ RODIAN_SHIP_sawtooth: "Пилообразный"
+ RODIAN_SHIP_general_ropal: "Генерал Ропал"
+ RODIAN_SHIP_navik: "Навик"
+ RODIAN_SHIP_tracker: "Трекер"
+ RODIAN_SHIP_sniffer: "Нюхач"
+ RODIAN_SHIP_navigator: "Навигатор"
+ RODIAN_SHIP_wayfinder: "Навигатор"
+ RODIAN_SHIP_orienteer: "Ориентировщик"
+ RODIAN_SHIP_true_north: "Истинный Север"
+ RODIAN_SHIP_tracer: "Трассировщик"
+ RODIAN_SHIP_hunter_three: "Третий охотник"
+ RODIAN_SHIP_verdant_shadow: "Зеленая тень"
+ RODIAN_SHIP_detector: "Детектор"
+ RODIAN_SHIP_tailer: "Хвостовик"
+ RODIAN_SHIP_trailblazer: "Первопроходец"
+ RODIAN_SHIP_pathfinder: "Следопыт"
+ RODIAN_SHIP_wayfarer: "Путник"
+ RODIAN_SHIP_ambassador: "Посол"
+ RODIAN_SHIP_emissary: "Эмиссар"
+ RODIAN_SHIP_nomad: "Кочевник"
+ RODIAN_SHIP_wanderer: "Странник"
+ RODIAN_SHIP_traveler: "Путешественник"
+ RODIAN_SHIP_itinerant_rex: "Странствующий Рекс"
+ RODIAN_SHIP_homeward_bound: "Направляюсь домой"
+ RODIAN_SHIP_placefinder: "Указатель места"
+ RODIAN_SHIP_claimant: "Истец"
+ RODIAN_SHIP_coreward_bound: "Направление к ядру"
+ RODIAN_SHIP_bushranger: "Разбойник"
+ RODIAN_SHIP_green_seed: "Зеленое семя"
+ RODIAN_SHIP_verdant_sprout: "Зеленый росток"
+ RODIAN_SHIP_virescent: "Сияющий"
+ RODIAN_SHIP_stripling: "Юноша"
+ RODIAN_SHIP_hatchery: "Инкубаторий"
+ RODIAN_SHIP_prayer_of_the_pioneer: "Молитва первопроходца"
+ RODIAN_SHIP_memory_of_rodia: "Память о Родии"
+ RODIAN_SHIP_errand: "Поручение"
+ RODIAN_SHIP_eiska: "Эйска"
+ RODIAN_SHIP_enak: "Енак"
+ RODIAN_SHIP_soomana: "Соомана"
+ RODIAN_SHIP_yasooska: "Ясоска"
+ RODIAN_SHIP_an_yettu_vision: "Видение аньетту"
+ RODIAN_SHIP_encheekos: "Энчикос"
+ RODIAN_SHIP_kay_tap: "Кей-Тап"
+ RODIAN_SHIP_next_chance: "Следующий шанс"
+ RODIAN_SHIP_nova_iskaayuma: "Новая Искаюма"
+ RODIAN_SHIP_chekkoo_promise: "Обещание Чекку"
+ RODIAN_SHIP_matza: "Маца"
+ RODIAN_SHIP_samana: "Самана"
+ RODIAN_SHIP_yusk: "Юск"
+ RODIAN_SHIP_chattza: "Чатца"
+ RODIAN_SHIP_tetsu: "Тетсу"
+ RODIAN_SHIP_bomu: "Бому"
+ RODIAN_SHIP_an_yettu: "Ан'етту"
+ RODIAN_SHIP_anyyon: "Аньон"
+ RODIAN_SHIP_cadevon: "Кадевон"
+ RODIAN_SHIP_chekkoo: "Чекку"
+ RODIAN_SHIP_intamm: "Интамм"
+ RODIAN_SHIP_kemu: "Кему"
+ RODIAN_SHIP_kenu: "Кену"
+ RODIAN_SHIP_neetakka: "Нитакка"
+ RODIAN_SHIP_roolek: "Рулек"
+ RODIAN_SHIP_soammei: "Соаммей"
+ RODIAN_SHIP_tan_tanwa: "Тан Танва"
+ RODIAN_SHIP_tonera: "Тонера"
+ RODIAN_SHIP_yiyar: "Йияр"
+ RODIAN_SHIP_ground_transport: "Наземный транспорт"
+ RODIAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ RODIAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ RODIAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ RODIAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ RODIAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ RODIAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ RODIAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ RODIAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ RODIAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ RODIAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ RODIAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ RODIAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ RODIAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ RODIAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ RODIAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ RODIAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ RODIAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ RODIAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ RODIAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ RODIAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ RODIAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ RODIAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ RODIAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ RODIAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ RODIAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ RODIAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ RODIAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ RODIAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ RODIAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ RODIAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ RODIAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ RODIAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ RODIAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ RODIAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ RODIAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ RODIAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ RODIAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ RODIAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ RODIAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ RODIAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ RODIAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ RODIAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ RODIAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ RODIAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ RODIAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ RODIAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ RODIAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ RODIAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ RODIAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ RODIAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ RODIAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ RODIAN_SHIP_citadel: "Цитадель"
+ RODIAN_SHIP_gateway: "Шлюз"
+ RODIAN_SHIP_tan: "Загар"
+ RODIAN_SHIP_tanwa: "Танва"
+ RODIAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ RODIAN_SHIP_ballista: "Баллиста"
+ RODIAN_SHIP_catapult: "Космическая пушка Катапульта"
+ RODIAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ RODIAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ RODIAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ RODIAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ RODIAN_SHIP_CLASS_cr_90: "CR-90"
+ RODIAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ RODIAN_SHIP_CLASS_lupus: "Люпус"
+ RODIAN_SHIP_CLASS_asdroni: "Асдрони"
+ RODIAN_SHIP_CLASS_customs: "Таможня"
+ RODIAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ RODIAN_SHIP_CLASS_scurge: "Мерзость"
+ RODIAN_SHIP_CLASS_krayt: "Крайт"
+ RODIAN_SHIP_CLASS_diamond: "Бриллиант"
+ RODIAN_SHIP_CLASS_etti: "Этти"
+ RODIAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ RODIAN_SHIP_CLASS_vigil: "Бдение"
+ RODIAN_SHIP_CLASS_dp20: "DP20"
+ RODIAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ RODIAN_SHIP_CLASS_raider: "Рейдер"
+ RODIAN_SHIP_CLASS_dornean: "Дорнейский"
+ RODIAN_SHIP_CLASS_crusader: "Крестоносец"
+ RODIAN_SHIP_CLASS_marauder: "Мародер"
+ RODIAN_SHIP_CLASS_arquitens: "Аркитенс"
+ RODIAN_SHIP_CLASS_kiltirin: "Килтирин"
+ RODIAN_SHIP_CLASS_pelta: "Пельта"
+ RODIAN_SHIP_CLASS_pinnace: "Катер"
+ RODIAN_SHIP_CLASS_nova: "Нова"
+ RODIAN_SHIP_CLASS_vigilance: "Бдительность"
+ RODIAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ RODIAN_SHIP_CLASS_cg_273: "CG-273"
+ RODIAN_SHIP_CLASS_kariek: "Кариек"
+ RODIAN_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ RODIAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ RODIAN_SHIP_CLASS_lancer: "Лансер"
+ RODIAN_SHIP_CLASS_teroch: "Терох"
+ RODIAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ RODIAN_SHIP_CLASS_nova_ii: "Нова II"
+ RODIAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ RODIAN_SHIP_CLASS_velox: "Велокс"
+ RODIAN_SHIP_CLASS_mc30c: "MC30c"
+ RODIAN_SHIP_CLASS_vengeance: "Месть"
+ RODIAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ RODIAN_SHIP_CLASS_cc_7700: "CC-7700"
+ RODIAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ RODIAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ RODIAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ RODIAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ RODIAN_SHIP_CLASS_sabaoth: "Саваоф"
+ RODIAN_SHIP_CLASS_kontos: "Контос"
+ RODIAN_SHIP_CLASS_mc40: "MC40"
+ RODIAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ RODIAN_SHIP_CLASS_broadside: "Залп"
+ RODIAN_SHIP_CLASS_protector: "Защитник"
+ RODIAN_SHIP_CLASS_warlord: "Военачальник"
+ RODIAN_SHIP_CLASS_gladiator: "Гладиатор"
+ RODIAN_SHIP_CLASS_beviin: "Бевиин"
+ RODIAN_SHIP_CLASS_liberator: "Освободитель"
+ RODIAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ RODIAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ RODIAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ RODIAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ RODIAN_SHIP_CLASS_massias: "Массиас"
+ RODIAN_SHIP_CLASS_dreadnought: "Дредноут"
+ RODIAN_SHIP_CLASS_kyramud: "Кирамуд"
+ RODIAN_SHIP_CLASS_munificent: "Щедрый"
+ RODIAN_SHIP_CLASS_prosvoli: "Просволи"
+ RODIAN_SHIP_CLASS_acclamator: "Аккламатор"
+ RODIAN_SHIP_CLASS_lictor: "Ликтор"
+ RODIAN_SHIP_CLASS_bulwark: "Оплот"
+ RODIAN_SHIP_CLASS_victory_i: "Победа I"
+ RODIAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ RODIAN_SHIP_CLASS_bulk: "Массивный"
+ RODIAN_SHIP_CLASS_vindicator: "Защитник"
+ RODIAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ RODIAN_SHIP_CLASS_captor: "Похититель"
+ RODIAN_SHIP_CLASS_au_riette: "О'риетт"
+ RODIAN_SHIP_CLASS_mc55: "MC55"
+ RODIAN_SHIP_CLASS_afthonia: "Афтония"
+ RODIAN_SHIP_CLASS_victory_ii: "Победа II"
+ RODIAN_SHIP_CLASS_beroya: "Бероя"
+ RODIAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ RODIAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ RODIAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ RODIAN_SHIP_CLASS_venator: "Венатор"
+ RODIAN_SHIP_CLASS_centurion: "Центурион"
+ RODIAN_SHIP_CLASS_mc75: "MC75"
+ RODIAN_SHIP_CLASS_kandosii: "Кандосии"
+ RODIAN_SHIP_CLASS_corellian: "Кореллианский"
+ RODIAN_SHIP_CLASS_providence: "Провидение"
+ RODIAN_SHIP_CLASS_syndic: "Синдик"
+ RODIAN_SHIP_CLASS_recusant: "Отступник"
+ RODIAN_SHIP_CLASS_invincible: "Непобедимый"
+ RODIAN_SHIP_CLASS_imperial_i: "Имперский I"
+ RODIAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ RODIAN_SHIP_CLASS_procursator: "Прокурсатор"
+ RODIAN_SHIP_CLASS_mc80a: "MC80a"
+ RODIAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ RODIAN_SHIP_CLASS_aggressor: "Агрессор"
+ RODIAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ RODIAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ RODIAN_SHIP_CLASS_keldabe: "Келдабе"
+ RODIAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ RODIAN_SHIP_CLASS_chaf: "Чаф"
+ RODIAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ RODIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ RODIAN_SHIP_CLASS_ascendancy: "Господство"
+ RODIAN_SHIP_CLASS_dominator: "Властелин"
+ RODIAN_SHIP_CLASS_allegiance: "Верность"
+ RODIAN_SHIP_CLASS_lucrehulk: "Барышник"
+ RODIAN_SHIP_CLASS_phalanx: "Фаланга"
+ RODIAN_SHIP_CLASS_titan: "Титан"
+ RODIAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ RODIAN_SHIP_CLASS_star_home: "Звездный дом"
+ RODIAN_SHIP_CLASS_subjugator: "Покоритель"
+ RODIAN_SHIP_CLASS_bellator: "Беллатор"
+ RODIAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ RODIAN_SHIP_CLASS_executor: "Палач"
+ RODIAN_FLEET_jade_fleet: "Нефритовый флот"
+ RODIAN_FLEET_rodian_home_guard: "Родианское ополчение"
+ RODIAN_FLEET_verdant_armada: "Зеленая армада"
+ RODIAN_FLEET_battle_group_green: "Зеленая боевая группа"
+ RODIAN_FLEET_rodian_task_force_ORD: "$ORD$ Родианская оперативная группа"
+ RODIAN_ARMY_hunter_guard_ORD: "$ORD$ Стража Охотников"
+ RODIAN_ARMY_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус"
+ RODIAN_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ RODIAN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ RODIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ RODIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ RODIAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ RODIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ RODIAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ RODIAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ RODIAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ RODIAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ RODIAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ RODIAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ RODIAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ RODIAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ RODIAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ RODIAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ RODIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ RODIAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ RODIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ RODIAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ RODIAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ RODIAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ RODIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ RODIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ RODIAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ RODIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ RODIAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ RODIAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ RODIAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ RODIAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ RODIAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ RODIAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ RODIAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ RODIAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ RODIAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ RODIAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ RODIAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ RODIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ RODIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ RODIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ RODIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ RODIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ RODIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ RODIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ RODIAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ RODIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ RODIAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ RODIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ RODIAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ RODIAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ RODIAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ RODIAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ RODIAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ RODIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ RODIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ RODIAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ RODIAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ RODIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ RODIAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ RODIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ RODIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ RODIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ RODIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ RODIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ RODIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ RODIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ RODIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ RODIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ RODIAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ RODIAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ RODIAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ RODIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ RODIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ RODIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ RODIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ RODIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ RODIAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ RODIAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ RODIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ RODIAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ RODIAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ RODIAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ RODIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ RODIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ RODIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ RODIAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ RODIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ RODIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ RODIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ RODIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ RODIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ RODIAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ RODIAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ RODIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ RODIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ RODIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ RODIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ RODIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ RODIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ RODIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ RODIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ RODIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ RODIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ RODIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ RODIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ RODIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ RODIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ RODIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ RODIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ RODIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ RODIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ RODIAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ RODIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ RODIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ RODIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ RODIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ RODIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ RODIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ RODIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ RODIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ RODIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ RODIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ RODIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ RODIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ RODIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ RODIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ RODIAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ RODIAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ RODIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ RODIAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ RODIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ RODIAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ RODIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ RODIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ RODIAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ RODIAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ RODIAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ RODIAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ RODIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ RODIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ RODIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ RODIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ RODIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ RODIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ RODIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ RODIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ RODIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ RODIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ RODIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ RODIAN_CHR_navik: "Навик"
+ RODIAN_CHR_nok: "Нок"
+ RODIAN_CHR_teeku: "Тиику"
+ RODIAN_CHR_greedo: "Гридо"
+ RODIAN_CHR_pqweeduk: "Пквидук"
+ RODIAN_CHR_avaro: "Аваро"
+ RODIAN_CHR_boiny: "Бойни"
+ RODIAN_CHR_capo: "Капо"
+ RODIAN_CHR_cevva: "Кевва"
+ RODIAN_CHR_clezo: "Клезо"
+ RODIAN_CHR_dardo: "Дардо"
+ RODIAN_CHR_doda: "Дода"
+ RODIAN_CHR_farr: "Фарр"
+ RODIAN_CHR_geelo: "Джело"
+ RODIAN_CHR_grappa: "Граппа"
+ RODIAN_CHR_harido: "Харидо"
+ RODIAN_CHR_honka: "Хонка"
+ RODIAN_CHR_jannik: "Янник"
+ RODIAN_CHR_kavilo: "Кавило"
+ RODIAN_CHR_kelbis: "Кельбис"
+ RODIAN_CHR_kelko: "Келко"
+ RODIAN_CHR_koobis: "Кубис"
+ RODIAN_CHR_leenik: "Линик"
+ RODIAN_CHR_lido: "Лидо"
+ RODIAN_CHR_maris: "Марис"
+ RODIAN_CHR_mufrenes: "Муфренес"
+ RODIAN_CHR_nardi: "Нарди"
+ RODIAN_CHR_narik: "Нарик"
+ RODIAN_CHR_onaconda: "Онаконда"
+ RODIAN_CHR_prevaro: "Преваро"
+ RODIAN_CHR_rohan: "Рохан"
+ RODIAN_CHR_ropal: "Ропал"
+ RODIAN_CHR_shodu: "Шоду"
+ RODIAN_CHR_skee_skee: "Ски-ски"
+ RODIAN_CHR_sookcool: "Суккул"
+ RODIAN_CHR_standro: "Стандро"
+ RODIAN_CHR_teerik: "Тирик"
+ RODIAN_CHR_thuku: "Туку"
+ RODIAN_CHR_tox: "Токсин"
+ RODIAN_CHR_vinto: "Винто"
+ RODIAN_CHR_vuko: "Вуко"
+ RODIAN_CHR_wald_xuz: "Вальд Ксуз"
+ RODIAN_CHR_kyra: "Кира"
+ RODIAN_CHR_aald: "Аалд"
+ RODIAN_CHR_althin: "Алтин"
+ RODIAN_CHR_tok: "Ток"
+ RODIAN_CHR_zef: "Зеф"
+ RODIAN_CHR_angaar: "Ангаар"
+ RODIAN_CHR_toll: "Толл"
+ RODIAN_CHR_apoto: "Фото"
+ RODIAN_CHR_hako: "Хако"
+ RODIAN_CHR_b_ree: "Б'ри"
+ RODIAN_CHR_civian: "Гражданский"
+ RODIAN_CHR_civius: "Цивилизация"
+ RODIAN_CHR_reelo: "Рило"
+ RODIAN_CHR_lekk: "Ликк"
+ RODIAN_CHR_beebo: "Бибо"
+ RODIAN_CHR_beedo: "Бидо"
+ RODIAN_CHR_beena: "Бина"
+ RODIAN_CHR_beidlo: "Беидло"
+ RODIAN_CHR_biko: "Бико"
+ RODIAN_CHR_toleen: "Толин"
+ RODIAN_CHR_boorm: "Бур"
+ RODIAN_CHR_voydd: "Войдд"
+ RODIAN_CHR_condoo: "Кондуит"
+ RODIAN_CHR_lidan: "Лидан"
+ RODIAN_CHR_bludlow: "Блудлоу"
+ RODIAN_CHR_bohmer: "Бомер"
+ RODIAN_CHR_bolto: "Болто"
+ RODIAN_CHR_gespo: "Геспо"
+ RODIAN_CHR_heedron: "Хедрон"
+ RODIAN_CHR_ormann: "Орманн"
+ RODIAN_CHR__pax: "Пакс"
+ RODIAN_CHR_trax: "Тракс"
+ RODIAN_CHR_narnee: "Нарни"
+ RODIAN_CHR_seedar: "Сидар"
+ RODIAN_CHR_bonda: "Бонда"
+ RODIAN_CHR_hishinu: "Хишину"
+ RODIAN_CHR_breedo: "Бридо"
+ RODIAN_CHR_brelshen: "Брелшен"
+ RODIAN_CHR_siega: "Сиега"
+ RODIAN_CHR_wac_bur: "Вак Бур"
+ RODIAN_CHR_boorgo: "Бурго"
+ RODIAN_CHR_duurgo: "Дуурго"
+ RODIAN_CHR_deebo: "Дибо"
+ RODIAN_CHR_toluz: "Толуз"
+ RODIAN_CHR_chiiv: "Киев"
+ RODIAN_CHR_chigo: "Чиго"
+ RODIAN_CHR_chihdo: "Чихдо"
+ RODIAN_CHR_chordak: "Хордак"
+ RODIAN_CHR_chorh_dha: "Чорх-дха"
+ RODIAN_CHR_creeska: "Криска"
+ RODIAN_CHR_flestic: "Флестик"
+ RODIAN_CHR_coorsha: "Курша"
+ RODIAN_CHR_lernik: "Лерник"
+ RODIAN_CHR_deedoh: "Дидох"
+ RODIAN_CHR_deelguh: "Дилгух"
+ RODIAN_CHR_dejarro: "Дежарро"
+ RODIAN_CHR_chooru: "Чору"
+ RODIAN_CHR_dellko: "Деллко"
+ RODIAN_CHR_delo: "Дэло"
+ RODIAN_CHR_denma: "Денма"
+ RODIAN_CHR_dheendo: "Дхеендо"
+ RODIAN_CHR_dindoo: "Динду"
+ RODIAN_CHR_doba: "Доба"
+ RODIAN_CHR_tox_don: "Токс Дон"
+ RODIAN_CHR_doogo: "Дуго"
+ RODIAN_CHR_dorzo: "Дорзо"
+ RODIAN_CHR_jovan: "Йован"
+ RODIAN_CHR_fosin: "Фосин"
+ RODIAN_CHR_drokka: "Дрокка"
+ RODIAN_CHR_dwesso: "Двессо"
+ RODIAN_CHR_esdo: "Эсдо"
+ RODIAN_CHR_eshon: "Эшон"
+ RODIAN_CHR_evo: "Эво"
+ RODIAN_CHR_faddo: "Фаддо"
+ RODIAN_CHR_falloon: "Фаллон"
+ RODIAN_CHR_needo: "Нужно"
+ RODIAN_CHR_zeelo: "Зеело"
+ RODIAN_CHR_traa: "Траа"
+ RODIAN_CHR_feeven: "Фивен"
+ RODIAN_CHR_corkash: "Коркаш"
+ RODIAN_CHR_slerog: "Слерог"
+ RODIAN_CHR_fondo: "Фондо"
+ RODIAN_CHR_frandu: "Франду"
+ RODIAN_CHR_igbi: "Игби"
+ RODIAN_CHR_frelka: "Фрелка"
+ RODIAN_CHR_fretch: "Фретч"
+ RODIAN_CHR_har: "Хар"
+ RODIAN_CHR_gadaf: "Гадаф"
+ RODIAN_CHR_fizz: "Физз"
+ RODIAN_CHR_vreebo: "Вреебо"
+ RODIAN_CHR_kood: "Куд"
+ RODIAN_CHR_vistis: "Вистис"
+ RODIAN_CHR_garoush: "Гаруш"
+ RODIAN_CHR_jabdo: "Джабдо"
+ RODIAN_CHR_geffa: "Геффа"
+ RODIAN_CHR_geri: "Гери"
+ RODIAN_CHR_geska: "Геска"
+ RODIAN_CHR_glarret: "Гларрет"
+ RODIAN_CHR_glem: "Глэм"
+ RODIAN_CHR_gluupor: "Глюпор"
+ RODIAN_CHR_sordu: "Сорду"
+ RODIAN_CHR_gomalo: "Гомало"
+ RODIAN_CHR_pall: "Палл"
+ RODIAN_CHR_gorro: "Горро"
+ RODIAN_CHR_govenni: "Говенни"
+ RODIAN_CHR_gredori: "Гредори"
+ RODIAN_CHR_grenzo: "Гренцо"
+ RODIAN_CHR_greer: "Грир"
+ RODIAN_CHR_grudo: "Грудо"
+ RODIAN_CHR_malva: "Мальва"
+ RODIAN_CHR_greepo: "Грипо"
+ RODIAN_CHR_gurun: "Гурун"
+ RODIAN_CHR_gweeska: "Гвеска"
+ RODIAN_CHR_jopari: "Джопари"
+ RODIAN_CHR_harno: "Харно"
+ RODIAN_CHR_hatabbas: "Хатаббас"
+ RODIAN_CHR_hirrtu: "Хиррту"
+ RODIAN_CHR_greeta: "Грита"
+ RODIAN_CHR_honwoo: "Хонву"
+ RODIAN_CHR_hoonta: "Хунта"
+ RODIAN_CHR_hulas: "Хулас"
+ RODIAN_CHR_huruni: "Хуруни"
+ RODIAN_CHR_huulik: "Хуулик"
+ RODIAN_CHR_inntak: "Иннтак"
+ RODIAN_CHR_jakoli: "Джаколи"
+ RODIAN_CHR_soobu: "Сообу"
+ RODIAN_CHR_javeezo: "Хавеезо"
+ RODIAN_CHR_jhian: "Джиан"
+ RODIAN_CHR_jiree: "Джири"
+ RODIAN_CHR_hiksri: "Хиксри"
+ RODIAN_CHR_jombo: "Джомбо"
+ RODIAN_CHR_jora: "Жора"
+ RODIAN_CHR_jurithus: "Юритос"
+ RODIAN_CHR_kaddit: "Каддит"
+ RODIAN_CHR_kappo: "Каппо"
+ RODIAN_CHR_keevo: "Киво"
+ RODIAN_CHR_kelsek: "Келсек"
+ RODIAN_CHR_lurze: "Лурзе"
+ RODIAN_CHR_rel: "Рел"
+ RODIAN_CHR_gorak: "Горак"
+ RODIAN_CHR_kletoo: "Клиту"
+ RODIAN_CHR_kweeta: "Квита"
+ RODIAN_CHR_ortha: "Орта"
+ RODIAN_CHR_lotas: "Лотас"
+ RODIAN_CHR_luco: "Луко"
+ RODIAN_CHR_veeboo: "Виибу"
+ RODIAN_CHR_luugro: "Луугро"
+ RODIAN_CHR_malkoi: "Малкой"
+ RODIAN_CHR_wuuden: "Вууден"
+ RODIAN_CHR_swaja: "Сваджа"
+ RODIAN_CHR_maseloo: "Маселоо"
+ RODIAN_CHR_critolus: "Критол"
+ RODIAN_CHR_matu: "Мату"
+ RODIAN_CHR_meebo: "Мибо"
+ RODIAN_CHR_menndo: "Менндо"
+ RODIAN_CHR_morgoto: "Моргото"
+ RODIAN_CHR_jeepfal: "Джипфел"
+ RODIAN_CHR_neelda: "Нильда"
+ RODIAN_CHR_neesh: "Ниш"
+ RODIAN_CHR_vees: "Виис"
+ RODIAN_CHR_nikolo: "Николо"
+ RODIAN_CHR_nio: "Нио"
+ RODIAN_CHR_nodobo: "Нодобо"
+ RODIAN_CHR_opato: "Опато"
+ RODIAN_CHR_opdoa: "Опдоа"
+ RODIAN_CHR_pardo: "Пардо"
+ RODIAN_CHR_pellko: "Пеллко"
+ RODIAN_CHR_safonni: "Сафонни"
+ RODIAN_CHR_phindo: "Финдо"
+ RODIAN_CHR_puchek: "Пучек"
+ RODIAN_CHR_quano: "Куано"
+ RODIAN_CHR_quakkee: "Квакки"
+ RODIAN_CHR_jaaxine: "Джаксин"
+ RODIAN_CHR_gwad: "Гвад"
+ RODIAN_CHR_jaardu: "Джарду"
+ RODIAN_CHR_valry: "Валери"
+ RODIAN_CHR_ubis: "Убис"
+ RODIAN_CHR_beata: "Беата"
+ RODIAN_CHR_reeveid: "Ривейд"
+ RODIAN_CHR_reezo: "Ризо"
+ RODIAN_CHR_revidjasa: "Ревиджаса"
+ RODIAN_CHR_roovo: "Рово"
+ RODIAN_CHR_bolla: "Болла"
+ RODIAN_CHR_noota: "Нута"
+ RODIAN_CHR_rulo: "Руло"
+ RODIAN_CHR_sando: "Сандо"
+ RODIAN_CHR_chillo: "Чилло"
+ RODIAN_CHR_sasso: "Сассо"
+ RODIAN_CHR_seego: "Сиего"
+ RODIAN_CHR_toile: "Туаль"
+ RODIAN_CHR_veem: "Вим"
+ RODIAN_CHR_shafu: "Шафу"
+ RODIAN_CHR_teeko: "Тико"
+ RODIAN_CHR_yau: "Яу"
+ RODIAN_CHR_auaro: "Ауаро"
+ RODIAN_CHR_slotho: "Слото"
+ RODIAN_CHR_skodo: "Скодо"
+ RODIAN_CHR_silood: "Силул"
+ RODIAN_CHR_shinqo: "Синко"
+ RODIAN_CHR_treemo: "Триимо"
+ RODIAN_CHR_tseebo: "Цеебо"
+ RODIAN_CHR_tsoklo: "Цокло"
+ RODIAN_CHR_tulagn: "Тулагн"
+ RODIAN_CHR_twoolo: "Туоло"
+ RODIAN_CHR_gabo: "Габо"
+ RODIAN_CHR_suvam: "Сувам"
+ RODIAN_CHR_tazzik: "Таззик"
+ RODIAN_CHR_teekwo: "Тикво"
+ RODIAN_CHR_teeloo: "Тиилоо"
+ RODIAN_CHR_teeso: "Тизо"
+ RODIAN_CHR_teezyk: "Тизик"
+ RODIAN_CHR_thugo: "Туго"
+ RODIAN_CHR_tolga: "Тольга"
+ RODIAN_CHR_skoo: "Скоо"
+ RODIAN_CHR_krezo: "Кризо"
+ RODIAN_CHR_dar: "Дар"
+ RODIAN_CHR_vreego: "Вреего"
+ RODIAN_CHR_vosso: "Воссо"
+ RODIAN_CHR_yat_de: "Ят-Де"
+ RODIAN_CHR_tsuulo: "Цууло"
+ RODIAN_CHR_tyss: "Тисс"
+ RODIAN_CHR_tyxx: "Тихкс"
+ RODIAN_CHR_moogo: "Муго"
+ RODIAN_CHR_vatoono: "Ватооно"
+ RODIAN_CHR_veerdo: "Вирдо"
+ RODIAN_CHR_veedo: "Ведо"
+ RODIAN_CHR_vealo: "Веало"
+ RODIAN_CHR_neela: "Нила"
+ RODIAN_CHR_greeata: "Гриата"
+ RODIAN_CHR_hreeda: "Хри-да"
+ RODIAN_CHR_lolo: "Лоло"
+ RODIAN_CHR_steya: "Стейя"
+ RODIAN_CHR_cyll: "Цилл"
+ RODIAN_CHR_beisa: "Бейса"
+ RODIAN_CHR_besha: "Беша"
+ RODIAN_CHR_laneet: "Ланит"
+ RODIAN_CHR_chussido: "Чуссидо"
+ RODIAN_CHR_pa_dua: "Па Дуа"
+ RODIAN_CHR_mahtee: "Мэти"
+ RODIAN_CHR_fask_eelak: "Фаск Илак"
+ RODIAN_CHR_eesmu: "Ээсму"
+ RODIAN_CHR_barma: "Барма"
+ RODIAN_CHR_onna: "Онна"
+ RODIAN_CHR_ganodi: "Ганоди"
+ RODIAN_CHR_geeda: "Гида"
+ RODIAN_CHR_feena: "Финна"
+ RODIAN_CHR_beekly: "Бикли"
+ RODIAN_CHR_mikdanyell: "Микданиелл"
+ RODIAN_CHR_h_rinnrada: "Х'риннрада"
+ RODIAN_CHR_hedu: "Хеду"
+ RODIAN_CHR_hopeata: "Хопета"
+ RODIAN_CHR_andoorni: "Андоорни"
+ RODIAN_CHR_jeeta: "Джита"
+ RODIAN_CHR_keesha: "Киша"
+ RODIAN_CHR_kiimo: "Киимо"
+ RODIAN_CHR_ruku: "Рюку"
+ RODIAN_CHR_saras: "Сарас"
+ RODIAN_CHR_torani: "Торани"
+ RODIAN_CHR_luunti: "Луунти"
+ RODIAN_CHR_demaia: "Демайя"
+ RODIAN_CHR_meeba: "Миба"
+ RODIAN_CHR_meelo: "Меело"
+ RODIAN_CHR_otol: "Отол"
+ RODIAN_CHR_nesha: "Неша"
+ RODIAN_CHR_jaylla: "Джейлла"
+ RODIAN_CHR_vosdia: "Восдиа"
+ RODIAN_CHR_norta: "Норта"
+ RODIAN_CHR_otee: "Оти"
+ RODIAN_CHR_tezli: "Тезли"
+ RODIAN_CHR_liinu: "Лийну"
+ RODIAN_CHR_yan: "Ян"
+ RODIAN_CHR_yalka: "Ялка"
+ RODIAN_CHR_pon: "Пон"
+ RODIAN_CHR_renna: "Ренна"
+ RODIAN_CHR_ralia: "Ралия"
+ RODIAN_CHR_roweedu: "Ровиду"
+ RODIAN_CHR_borra: "Борра"
+ RODIAN_CHR_shinba: "Шинба"
+ RODIAN_CHR_suz: "Суз"
+ RODIAN_CHR_terya: "Терья"
+ RODIAN_CHR_theenu: "Тину"
+ RODIAN_CHR_chokoo: "Чоку"
+ RODIAN_CHR_threnda: "Тренда"
+ RODIAN_CHR_loa: "Лоа"
+ RODIAN_CHR_tweeta: "Твит"
+ RODIAN_CHR_neeka: "Ник"
+ RODIAN_CHR_zayda: "Зайда"
+ RODIAN_CHR_zeeba: "Зиба"
+ RODIAN_CHR_dree: "Дри"
+ RODIAN_CHR_tradu: "Траду"
+ RODIAN_CHR_vralla: "Вралла"
+ RODIAN_CHR_xeelksido: "Ксилксидо"
+ RODIAN_CHR_chattza: "Чатца"
+ RODIAN_CHR_tetsu: "Тетсу"
+ RODIAN_CHR_bomu: "Бому"
+ RODIAN_CHR_adebsu: "Адебсу"
+ RODIAN_CHR_an_yettu: "Ан'етту"
+ RODIAN_CHR_anyyon: "Аньон"
+ RODIAN_CHR_cadevon: "Кадевон"
+ RODIAN_CHR_cairn: "Кэрн"
+ RODIAN_CHR_chekkoo: "Чекку"
+ RODIAN_CHR_intamm: "Интамм"
+ RODIAN_CHR_kemu: "Кему"
+ RODIAN_CHR_kenu: "Кену"
+ RODIAN_CHR_neetakka: "Нитакка"
+ RODIAN_CHR_reeven: "Ривен"
+ RODIAN_CHR_roolek: "Рулек"
+ RODIAN_CHR_soammei: "Соаммей"
+ RODIAN_CHR_tan: "Загар"
+ RODIAN_CHR_tanwa: "Танва"
+ RODIAN_CHR_tonera: "Тонера"
+ RODIAN_CHR_yiyar: "Йияр"
+ RODIAN_CHR__naa: "'Наа"
+ RODIAN_CHR_ando: "Андо"
+ RODIAN_CHR_annora: "Аннора"
+ RODIAN_CHR_apkar: "Апкар"
+ RODIAN_CHR_armado: "Армадо"
+ RODIAN_CHR_bain: "Бейн"
+ RODIAN_CHR_baruk: "Барук"
+ RODIAN_CHR_vano: "Вано"
+ RODIAN_CHR_bazak: "Базак"
+ RODIAN_CHR_bisma: "Бисма"
+ RODIAN_CHR_biveedo: "Биведо"
+ RODIAN_CHR_blancken: "Бланк"
+ RODIAN_CHR_blathos: "Блатос"
+ RODIAN_CHR_bleeker: "Бликер"
+ RODIAN_CHR_bodonawieedo: "Бодонавиэдо"
+ RODIAN_CHR_bonu: "Бону"
+ RODIAN_CHR_booj: "Буж"
+ RODIAN_CHR_broos: "Брюс"
+ RODIAN_CHR_cheq: "Чек"
+ RODIAN_CHR_crupp: "Крупп"
+ RODIAN_CHR_dazhda: "Даждь"
+ RODIAN_CHR_de_yago: "Де Яго"
+ RODIAN_CHR_delb: "Делб"
+ RODIAN_CHR_drark: "Драрк"
+ RODIAN_CHR_dreed: "Страх"
+ RODIAN_CHR_dunn: "Данн"
+ RODIAN_CHR_fas: "Фас"
+ RODIAN_CHR_fazon: "Фазон"
+ RODIAN_CHR_feaan: "Феан"
+ RODIAN_CHR_fel_lona: "Феллона"
+ RODIAN_CHR_fenc: "Фенк"
+ RODIAN_CHR_fenn: "Фенн"
+ RODIAN_CHR_ferran: "Ферран"
+ RODIAN_CHR_freemo: "Фримо"
+ RODIAN_CHR_fuggaw: "Фугго"
+ RODIAN_CHR_galko: "Галко"
+ RODIAN_CHR_gango: "Ганго"
+ RODIAN_CHR_gareeda: "Гареда"
+ RODIAN_CHR_garn: "Гарн"
+ RODIAN_CHR_garrink: "Гарринк"
+ RODIAN_CHR_gelens: "Геленс"
+ RODIAN_CHR_gen: "Ген"
+ RODIAN_CHR_gesse: "Гессе"
+ RODIAN_CHR_ghel: "Гхель"
+ RODIAN_CHR_gogg: "Гогг"
+ RODIAN_CHR_gopal: "Гопал"
+ RODIAN_CHR_groth: "Грот"
+ RODIAN_CHR_the_elder: "Старейшина"
+ RODIAN_CHR_the_younger: "Младший"
+ RODIAN_CHR_gue: "Гю"
+ RODIAN_CHR_greeku: "Греку"
+ RODIAN_CHR_haines: "Хейнс"
+ RODIAN_CHR_holda: "Холда"
+ RODIAN_CHR_horvat: "Хорват"
+ RODIAN_CHR_hul: "Хул"
+ RODIAN_CHR_hune: "Хьюн"
+ RODIAN_CHR_hydan: "Хайдан"
+ RODIAN_CHR_javeedo: "Хавидо"
+ RODIAN_CHR_jcir: "Джсир"
+ RODIAN_CHR_jith: "Джит"
+ RODIAN_CHR_kavila: "Кавила"
+ RODIAN_CHR_kebbo: "Кеббо"
+ RODIAN_CHR_keedo: "Кидо"
+ RODIAN_CHR_keemos: "Кимос"
+ RODIAN_CHR_kesh: "Кеш"
+ RODIAN_CHR_keteris: "Кетерис"
+ RODIAN_CHR_khzam: "Хзам"
+ RODIAN_CHR_klimo: "Климо"
+ RODIAN_CHR_kooff: "Куфф"
+ RODIAN_CHR_kreezo: "Криизо"
+ RODIAN_CHR_krenin: "Кренин"
+ RODIAN_CHR_kulda: "Кульда"
+ RODIAN_CHR_leebo: "Либо"
+ RODIAN_CHR_lenitor: "Ленитор"
+ RODIAN_CHR_leuro_khian: "Леуро-Хиан"
+ RODIAN_CHR_lang: "Лэнг"
+ RODIAN_CHR_lunx: "Лункс"
+ RODIAN_CHR_malnic: "Малник"
+ RODIAN_CHR_malon: "Малон"
+ RODIAN_CHR_maru: "Мару"
+ RODIAN_CHR_masse: "Массе"
+ RODIAN_CHR_minst: "Минст"
+ RODIAN_CHR_nereno: "Нерено"
+ RODIAN_CHR_nal: "Нал"
+ RODIAN_CHR_nareedo: "Нариидо"
+ RODIAN_CHR_neihero: "Нейхеро"
+ RODIAN_CHR_nerich: "Нерич"
+ RODIAN_CHR_netakka: "Нетакка"
+ RODIAN_CHR_noh: "Нох"
+ RODIAN_CHR_nooma: "Нума"
+ RODIAN_CHR_nu: "Ну"
+ RODIAN_CHR_nom: "Ном"
+ RODIAN_CHR_odo: "Одо"
+ RODIAN_CHR_oran: "Оранс"
+ RODIAN_CHR_paemos: "Паэмос"
+ RODIAN_CHR_pajiic: "Пажиик"
+ RODIAN_CHR_pendon: "Пендон"
+ RODIAN_CHR_pengu: "Пенгу"
+ RODIAN_CHR_purs: "Пюрс"
+ RODIAN_CHR_r_nar: "Р'нар"
+ RODIAN_CHR_raatu: "Раату"
+ RODIAN_CHR_raxx: "Рахкс"
+ RODIAN_CHR_ralos_vok: "Ралос-Вок"
+ RODIAN_CHR_reendorr: "Риендорр"
+ RODIAN_CHR_reesh: "Риш"
+ RODIAN_CHR_savroon: "Саврун"
+ RODIAN_CHR_setas: "Сетас"
+ RODIAN_CHR_sweevas: "Свивас"
+ RODIAN_CHR_sanpoa: "Санпд"
+ RODIAN_CHR_senn: "Сенн"
+ RODIAN_CHR_swanno: "Суанно"
+ RODIAN_CHR_soonca: "Сунка"
+ RODIAN_CHR_totryl: "Тотрил"
+ RODIAN_CHR_tychee: "Тичи"
+ RODIAN_CHR_thool: "Тул"
+ RODIAN_CHR_tibeeme: "Тибим"
+ RODIAN_CHR_ulur_weebe: "Улур Вибе"
+ RODIAN_CHR_skez: "Скез"
+ RODIAN_CHR_veerone: "Веероне"
+ RODIAN_CHR_weeyo: "Виио"
+ RODIAN_CHR_wieedo: "Виедо"
+ RODIAN_CHR_yesosko: "Есоско"
+ RODIAN_CHR_yipour: "Ипур"
+ RODIAN_CHR_yutsen: "Юцен"
+ RODIAN_CHR_z_all: "Все"
+ RODIAN_CHR_zeelesi: "Зеелеси"
+ RODIAN_CHR_vandap: "Вандап"
+ RODIAN_CHR_vaocan: "Ваокан"
+ RODIAN_CHR_chuko: "Чуко"
+ RODIAN_CHR_vletho: "Влето"
+ RODIAN_CHR_vola: "Вола"
+ RODIAN_CHR_wac: "Вак"
+ RODIAN_CHR_wasanti: "Васанти"
+ RODIAN_CHR_weebe: "Крошка"
+ RODIAN_CHR_hishnu: "Хишну"
+ RODIAN_CHR_burbu: "Бурбу"
+ RODIAN_CHR_jendowanian: "Джендованиан"
+ RODIAN_CHR_kleeto: "Клито"
+ RODIAN_CHR_veemo: "Виимо"
+ RODIAN_CHR_toran: "Торан"
+ RODIAN_CHR_soonta: "Соонта"
+ RODIAN_CHR_ulur: "Улур"
+ RODIAN_CHR_chak: "Чак"

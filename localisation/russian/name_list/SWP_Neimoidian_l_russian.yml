@@ -1,1126 +1,1126 @@
 ﻿l_russian:
-	NEIMOIDIAN_SHIP_viceroy: "Viceroy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_all_of_the_above: "All of the Above" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_governor: "Governor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_doubtless: "Doubtless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_even_cut: "Even Cut" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_invisible_hand: "Invisible Hand" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_colicoid_swarm: "Colicoid Swarm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lucid_voice: "Lucid Voice" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_invincible: "Invincible" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nihilist: "Nihilist" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_prosperous: "Prosperous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_anaxis: "Anaxis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_acquisitor: "Acquisitor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_revenue: "Revenue" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_canteval: "Canteval" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_corpulentus: "Corpulentus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_darkhawk: "Darkhawk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_discord: "Discord" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_force: "Force" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_of: "of" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_commerce: "Commerce" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fortressa: "Fortressa" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gahenna: "Gahenna" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unlimited_projection: "Unlimited Projection" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unrepentant: "Unrepentant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vanguard_flare: "Vanguard Flare" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_voice_of_industry: "Voice of Industry" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_darkvenge: "Darkvenge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_keeper: "Keeper" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_profit: "Profit" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_saak_ak: "Saak'ak" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_starworm: "Starworm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_stockade: "Stockade" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mantis: "Mantis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lapiz_cutter: "Lapiz Cutter" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_procurer: "Procurer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_conveyor: "Conveyor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_prime: "Prime" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vuutun_palaa: "Vuutun Palaa" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_profusion: "Profusion" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_voice_of_reason: "Voice of Reason" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fury: "Fury" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tide_of_progress: "Tide of Progress" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sa_nalaor: "Sa Nalaor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_helios: "Helios" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_obrexta: "Obrexta" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bonteri: "Bonteri" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_defiance_s_banner: "Defiance's Banner" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_banner_of_independence: "Banner of Independence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_devastation: "Devastation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_malevolence: "Malevolence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_deyvus: "Deyvus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_discordant: "Discordant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_krakana_current: "Krakana Current" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_death_or_liberty: "Death or Liberty" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_trident: "Trident" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unimpeachable: "Unimpeachable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_covfefe: "Covfefe" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unforgiving: "Unforgiving" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_impenitent: "Impenitent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_remorseless: "Remorseless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_uncontrite: "Uncontrite" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unapologetic: "Unapologetic" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unwavering: "Unwavering" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_commitment: "Commitment" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unregenerate: "Unregenerate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shameless: "Shameless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_holdout: "Holdout" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unabashed: "Unabashed" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_incorrigible: "Incorrigible" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_inveterate: "Inveterate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_senior_creditor: "Senior Creditor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lost_cause: "Lost Cause" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rearguard: "Rearguard" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_archer: "Archer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ironwall: "Ironwall" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_de_sutu: "De Sutu" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_admiral_trench: "Admiral Trench" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gunray: "Gunray" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_grievous: "Grievous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_count_s_revenge: "Count's Revenge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_predator: "Predator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_protector: "Protector" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vigilant: "Vigilant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_defiance: "Defiance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ivy: "Ivy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_huntress: "Huntress" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lady_clovis: "Lady Clovis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_word_of_truth: "Word of Truth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_blessing_of_tambor: "Blessing of Tambor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_raxus: "Raxus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_senator_atell: "Senator Atell" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_king_rash: "King Rash" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_senator_bonteri: "Senator Bonteri" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lawise: "Lawise" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tamson: "Tamson" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_archduke: "Archduke" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_judgment: "Judgment" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fist_of_poggle: "Fist of Poggle" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_haako: "Haako" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gunnay: "Gunnay" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_san_hill: "San Hill" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_argente: "Argente" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shu_mai: "Shu Mai" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nudo: "Nudo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tikkes: "Tikkes" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_agony: "Agony" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_retributor: "Retributor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_requital: "Requital" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_recrimination: "Recrimination" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_calamity: "Calamity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cataclysm: "Cataclysm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_catastrophe: "Catastrophe" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shield_of_the_rim: "Shield of the Rim" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tribulation: "Tribulation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mishanter: "Mishanter" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tears_of_jabiim: "Tears of Jabiim" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_stratus: "Stratus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ashel: "Ashel" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cartroll: "Cartroll" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dallin: "Dallin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dekluun: "Dekluun" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dofine: "Dofine" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_durge: "Durge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_judgement_of_findos: "Judgement of Findos" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_finnis: "Finnis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_uhumele: "Uhumele" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bomo_greenbark: "Bomo Greenbark" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ghez_hokan: "Ghez Hokan" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_drogen_hosh: "Drogen Hosh" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_starcrusher: "Starcrusher" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kirst: "Kirst" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nova_defiant: "Nova Defiant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dalehsam: "Dalehsam" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dassyne: "Dassyne" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ningo: "Ningo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lok_durd: "Lok Durd" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ennodius: "Ennodius" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_farr_nees: "Farr-Nees" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_atticus_farstar: "Atticus Farstar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ambigene: "Ambigene" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kleeve: "Kleeve" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kraken: "Kraken" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_loathsom: "Loathsom" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nagelsa: "Nagelsa" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tonith: "Tonith" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rootrock: "Rootrock" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_echo_of_new_plympto: "Echo of New Plympto" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_jennir_fable: "Jennir Fable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sev_rance: "Sev'rance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_terrus: "Terrus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_trilm: "Trilm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ultho: "Ultho" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ur_loach: "Ur'Loach" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hellraiser: "Hellraiser" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_count_of_serenno: "Count of Serenno" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_actualizer: "Actualizer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_golden_touch: "Golden Touch" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_foresight: "Foresight" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hindsight: "Hindsight" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_grudgebearer: "Grudgebearer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gizor: "Gizor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ventress: "Ventress" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_jai_sheelal: "jai Sheelal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_izvoshra: "Izvoshra" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_san_sk_ar: "san Sk'ar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lij_kummar: "lij Kummar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_abesmi: "Abesmi" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shoni: "Shoni" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kolkpravis: "Kolkpravis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_resentful: "Resentful" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_martyr: "Martyr" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_resurgent: "Resurgent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_resurrector: "Resurrector" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_extinction: "Extinction" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_righteous_cause: "Righteous Cause" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spite_eternal: "Spite Eternal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_execration: "Execration" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_antipathy: "Antipathy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_jaundice: "Jaundice" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_malice: "Malice" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_malignity: "Malignity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_antagonist: "Antagonist" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ill_will: "Ill Will" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_repulsor: "Repulsor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_contemptor: "Contemptor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_crimson_scorn: "Crimson Scorn" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_recusant: "Recusant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_intractable: "Intractable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_willful: "Willful" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_wild_scorn: "Wild Scorn" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_adamant: "Adamant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bitter_end: "Bitter End" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_embittered: "Embittered" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_last_stand: "Last Stand" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_inculpable: "Inculpable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_grand_duke: "Grand Duke" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_first_rebel: "First Rebel" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_old_dominion: "Old Dominion" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_circumvention: "Circumvention" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_king_kolto: "King Kolto" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_outrage: "Outrage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aconia: "Aconia" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aftden: "Aftden" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_inheritor: "Inheritor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rightful_inheritance: "Rightful Inheritance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_honorable_war: "Honorable War" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pursuant: "Pursuant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unconditional: "Unconditional" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_unwarranted: "Unwarranted" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_restive: "Restive" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_restless: "Restless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_last_laugh: "Last Laugh" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_phrikkian_prince: "Phrikkian Prince" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spitedancer: "Spitedancer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gravedancer: "Gravedancer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_parting_shot: "Parting Shot" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_resistor: "Resistor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_foe_hammer: "Foe Hammer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_corsuca_queen: "Corsuca Queen" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tyrant_s_bane: "Tyrant's Bane" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_clonebane: "Clonebane" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aggrieved: "Aggrieved" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_grievance: "Grievance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rejoinder: "Rejoinder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_refutation: "Refutation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_denialist: "Denialist" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_knight_hewer: "Knight Hewer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_countess: "Countess" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_consolidator: "Consolidator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_power_of_the_purse: "Power of the Purse" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kood_b_vy: "Kood b'vy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kagwe: "Kagwe" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rehpon: "Rehpon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_donc_zuwenda: "Donc Zuwenda" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_consulta: "Consulta" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_del_riva: "Del Riva" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pay_eez: "Pay Eez" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_addad_taz: "Addad Taz" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_uv_cosa: "Uv Cosa" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_contrak: "Contrak" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shanatrun: "Shanatrun" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dleef: "Dleef" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_forz: "Forz" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cohorta: "Cohorta" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_umbarga: "Umbarga" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_munifex: "Munifex" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_captor: "Captor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_inner_circle: "Inner Circle" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lott_dod: "Lott Dod" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_collector: "Collector" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vizier: "Vizier" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_voroo: "Voroo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hatha: "Hatha" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_entrepot: "Entrepot" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_entreaty: "Entreaty" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kreehawk: "Kreehawk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_zarra: "Zarra" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tarko_se: "Tarko-se" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gorog: "Gorog" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_negotiator: "Negotiator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_merchant_queen: "Merchant Queen" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_trade_monarch: "Trade Monarch" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_manax: "Manax" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mistfly: "Mistfly" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_neekoflight: "Neekoflight" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pylat: "Pylat" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_balancer: "Balancer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_offset: "Offset" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_impairment: "Impairment" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_write_down: "Write Down" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_coveter: "Coveter" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_desire: "Desire" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rightful_claim: "Rightful Claim" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_claimant: "Claimant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_plaintiff: "Plaintiff" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dolorous: "Dolorous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_foregone: "Foregone" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dirge: "Dirge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_forlorn: "Forlorn" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_desolate: "Desolate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sorrow: "Sorrow" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_piteous: "Piteous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_stricken: "Stricken" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_plangent: "Plangent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_long_haul: "Long Haul" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_far_cry: "Far Cry" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_preserver: "Preserver" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_watchdog: "Watchdog" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_chaperone: "Chaperone" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shield_of_neimoidia: "Shield of Neimoidia" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_resolute: "Resolute" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pennance: "Pennance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_atonement: "Atonement" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_penitent: "Penitent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_abaser: "Abaser" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_amender: "Amender" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_redresser: "Redresser" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_compensator: "Compensator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_expiator: "Expiator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_redeemer: "Redeemer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nova_leaf: "Nova Leaf" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_justifier: "Justifier" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_recompense: "Recompense" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_repatriator: "Repatriator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dynamo: "Dynamo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_capital_flight: "Capital Flight" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_valuable_risk: "Valuable Risk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_insistent: "Insistent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_munificus: "Munificus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gregralis: "Gregralis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_avocati: "Avocati" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_immunes: "Immunes" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_optio: "Optio" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tribune: "Tribune" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_legatus: "Legatus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_municipal: "Municipal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_munificence: "Munificence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bounty: "Bounty" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_obligant: "Obligant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_indebted: "Indebted" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_accountable: "Accountable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_beholden: "Beholden" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_causality: "Causality" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_indicative: "Indicative" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_contributor: "Contributor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ascendant: "Ascendant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bottom_line: "Bottom Line" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_king_commerce: "King Commerce" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_culpable: "Culpable" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vulture: "Vulture" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_manka: "Manka" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_syren: "Syren" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_voidline: "Voidline" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_onward: "Onward" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_firelight: "Firelight" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_forgiveness: "Forgiveness" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_purgation: "Purgation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_clemency: "Clemency" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lenient: "Lenient" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_indulgent: "Indulgent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_exonerator: "Exonerator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_exculpation: "Exculpation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fresh_start: "Fresh Start" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_indentured: "Indentured" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_umbrageous: "Umbrageous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shielder: "Shielder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_watcher: "Watcher" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_defendant: "Defendant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_most_favored: "Most Favored" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_arbitrage: "Arbitrage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_chartist: "Chartist" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_expiry: "Expiry" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fundamental: "Fundamental" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_leverage: "Leverage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_liquidity: "Liquidity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_maintainer: "Maintainer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_open_question: "Open Question" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_optionality: "Optionality" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rollover: "Rollover" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_short_sell: "Short Sell" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_volatile: "Volatile" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_at_risk: "At Risk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_transparent: "Transparent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_concession: "Concession" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_countervailer: "Countervailer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rule_of_origin: "Rule of Origin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_safeguard: "Safeguard" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_appellate: "Appellate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_prudential: "Prudential" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_prudent: "Prudent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_prudence: "Prudence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ex_ante: "Ex Ante" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ex_post: "Ex Post" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_jorra: "Jorra" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_at_la_o: "At-la'o" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_commercial_imperative: "Commercial Imperative" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_luur: "Luur" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pah_oop: "Pah Oop" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_strongarm: "Strongarm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mediator: "Mediator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_arbitrator: "Arbitrator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_intercessor: "Intercessor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_creditor_rex: "Creditor Rex" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_trove: "Trove" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cosmic_treasure: "Cosmic Treasure" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shared_wealth: "Shared Wealth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_trickledown: "Trickledown" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_accumulator: "Accumulator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hoarder: "Hoarder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_agglomerator: "Agglomerator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_corporate_raider: "Corporate Raider" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hostile_takeover: "Hostile Takeover" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aggressive_acquisition: "Aggressive Acquisition" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_amasser: "Amasser" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_conglomerator: "Conglomerator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurium: "Aurium" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurodium_standard: "Aurodium Standard" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurodium_dream: "Aurodium Dream" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bullion_prince: "Bullion Prince" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bailment: "Bailment" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_chain_of_integrity: "Chain of Integrity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kilobar: "Kilobar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_premium: "Premium" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_speculative_position: "Speculative Position" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_treasurer: "Treasurer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vault: "Vault" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_speculator: "Speculator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurodium_heart: "Aurodium Heart" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurodium_age: "Aurodium Age" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_largesse: "Largesse" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_finna_nohtece: "Finna Nohtece" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_custodian: "Custodian" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_warder: "Warder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_warden: "Warden" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_entrusted: "Entrusted" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_in_trust: "In Trust" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bayu_oot: "Bayu Oot" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_doge: "Doge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dewan: "Dewan" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_premier: "Premier" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_venture: "Venture" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cato: "Cato" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_deko: "Deko" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_koru: "Koru" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_narq: "Narq" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_chairman_nark: "Chairman Nark" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_honorable_peace: "Honorable Peace" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_restitution: "Restitution" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_reparation: "Reparation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_aurorient: "Aurorient" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ena_guta_feyth: "Ena Guta Feyth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_amortizer: "Amortizer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_future_value: "Future Value" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_present_value: "Present Value" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_credit_flow: "Credit Flow" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_exponential: "Exponential" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_guarantor: "Guarantor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_principal_value: "Principal Value" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_surplus: "Surplus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_probable_cause: "Probable Cause" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_allocator: "Allocator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_null_and_void: "Null and Void" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_retainer: "Retainer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_face_value: "Face Value" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_warranty: "Warranty" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_warrant: "Warrant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lone_trekker: "Lone Trekker" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vergent: "Vergent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_valorant: "Valorant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_shai_malud: "Shai Malud" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nightrunner: "Nightrunner" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_starsnake: "Starsnake" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_volumex: "Volumex" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_eminent: "Eminent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_azerin: "Azerin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_iota: "Iota" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mutrobo: "Mutrobo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_rover: "Rover" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_revolt: "Revolt" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_purposeful: "Purposeful" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_farstar: "Farstar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_exclave: "Exclave" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_reclaimer: "Reclaimer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_reclamation: "Reclamation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_larvala: "Larvala" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_voidcaller: "Voidcaller" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fruitful: "Fruitful" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_expander: "Expander" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_adoption: "Adoption" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_urgent: "Urgent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ahspanshen: "Ahspanshen" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_seeda: "Seeda" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_parasilla: "Parasilla" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_journey: "Journey" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_farcaller: "Farcaller" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_grasper: "Grasper" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_scion_of_neimoidia: "Scion of Neimoidia" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_merchant: "Merchant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_convoy: "Convoy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_seed_capital: "Seed Capital" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_startup: "Startup" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_acquisition: "Acquisition" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_cultivation: "Cultivation" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_broodqueen: "Broodqueen" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_far_hive: "Far Hive" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_marginal: "Marginal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_returner: "Returner" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_wager: "Wager" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_menial: "Menial" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_servile: "Servile" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_serf: "Serf" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fair_wage: "Fair Wage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fabricar: "Fabricar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_iterator: "Iterator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_servitor: "Servitor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_erector: "Erector" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_architectron: "Architectron" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_creator: "Creator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_warren: "Warren" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_burrower: "Burrower" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hewer: "Hewer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ogl: "Ogl" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_depositor: "Depositor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_morning_sweat: "Morning Sweat" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_c_9979_landing_craft: "C-9979 Landing Craft" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mazariyan: "Mazariyan" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_adni: "Adni" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_appenza: "Appenza" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_avos: "Avos" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_baron_knoll: "Baron Knoll" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_berin: "Berin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_black_crest: "Black Crest" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_claw_of_borolol: "Claw of Borolol" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bride_s_talon: "Bride's Talon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bright_sun: "Bright Sun" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_canaitith: "Canaitith" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_collo_fauale: "Collo Fauale" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_crysifal: "Crysifal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_d_olop_flow: "D'olop Flow" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dour_roads: "Dour Roads" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dregan_s_pike: "Dregan's Pike" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_drossrock: "Drossrock" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_fallen_teeth: "Fallen Teeth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_favaran: "Favaran" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_frigia: "Frigia" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gusty_bluff: "Gusty Bluff" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_high_tatmana: "High Tatmana" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_hugo: "Hugo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_im_g_twe: "Im'g'twe" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ison: "Ison" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_kalis: "Kalis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_karatokai: "Karatokai" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_katarn: "Katarn" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_khoehng: "Khoehng" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_korrokrrayyo: "Korrokrrayyo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_luftgriff: "Luftgriff" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_m_nis: "M'Nis" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_marauder: "Marauder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_merakan: "Merakan" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_meru: "Meru" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_moonstruck: "Moonstruck" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_agorn: "Agorn" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_antas: "Antas" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_anzaada: "Anzaada" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_arakeirkos: "Arakeirkos" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_arayakyak: "Arayakyak" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_dijandi: "Dijandi" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ganton: "Ganton" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_gethzerion: "Gethzerion" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_izukika: "Izukika" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_krana: "Krana" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_krisklar: "Krisklar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_lorrist: "Lorrist" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_mogaar: "Mogaar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pasvaal: "Pasvaal" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_quavaar: "Quavaar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_redolava: "Redolava" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_savage: "Savage" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sendoth: "Sendoth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tellec: "Tellec" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tessef: "Tessef" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ulgo: "Ulgo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vastadon: "Vastadon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_veermok: "Veermok" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_verena: "Verena" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_vissa: "Vissa" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_orane: "Orane" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_orik_s_spine: "Orik's Spine" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_felth: "Felth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_porso: "Porso" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_red_hill: "Red Hill" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_scich_tl: "Scich'tl" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_selon: "Selon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sirpar: "Sirpar" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_sistra: "Sistra" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ste_vshuulsz: "Ste'vshuulsz" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_teldanus: "Teldanus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_tolmeatek: "Tolmeatek" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_twin_hills: "Twin Hills" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_umate: "Umate" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_usca: "Usca" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_yal_noy: "Yal-Noy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_imperial_escort: "Imperial Escort" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	NEIMOIDIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__harbinger_: "Battle Group 'Harbinger'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__herald_: "Battle Group 'Herald'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__omen_: "Battle Group 'Omen'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__grievance_: "Battle Group 'Grievance'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__resentment_: "Battle Group 'Resentment'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__umbrage_: "Battle Group 'Umbrage'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__rancor_: "Battle Group 'Rancor'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__vendetta_: "Battle Group 'Vendetta'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__nemesis_: "Battle Group 'Nemesis'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__vengeance_: "Battle Group 'Vengeance'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__vindictive_: "Battle Group 'Vindictive'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group__retribution_: "Battle Group 'Retribution'" #!Empty_LineInfo!
-	NEIMOIDIAN_FLEET_battle_group_ORD: "$ORD$ Battle Group" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_gunnery_battalion_ORD: "$ORD$ Gunnery Battalion" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_expeditionary_battalion_ORD: "$ORD$ Expeditionary Battalion" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_rune: "Rune" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dak_on: "Dak'on" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_viff: "Viff" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tok: "Tok" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_plurre: "Plurre" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_pol: "Pol" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_borlo: "Borlo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hap: "Hap" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vonddado: "Vonddado" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sib: "Sib" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_desson: "Desson" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gunaray: "Gunaray" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lott: "Lott" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lushros: "Lushros" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_jull: "Jull" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_fame: "Fame" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_cathan: "Cathan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lok: "Lok" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kund: "Kund" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sentepeth: "Sentepeth" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dif: "Dif" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_aruteous: "Aruteous" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_rute: "Rute" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nute: "Nute" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_blox: "Blox" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hazeen: "Hazeen" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ko: "Ko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kuto: "Kuto" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_jeek: "Jeek" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_siv: "Siv" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_yee: "Yee" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_krett: "Krett" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nap: "Nap" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gilramos: "Gilramos" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hath: "Hath" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hallion: "Hallion" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gap: "Gap" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_usan: "Usan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gren: "Gren" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hinv: "Hinv" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_farge: "Farge" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_thoax: "Thoax" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_budmle: "Budmle" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dool: "Dool" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sude: "Sude" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_mik: "Mik" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_harro: "Harro" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_salitt: "Salitt" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_rers: "Rers" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gode: "Gode" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_treek: "Treek" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_toat: "Toat" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tornak: "Tornak" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nadrin: "Nadrin" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nohn: "Nohn" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vigro: "Vigro" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vuub: "Vuub" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vorn: "Vorn" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_smeer: "Smeer" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_runeto: "Runeto" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_stonne: "Stonne" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ghem: "Ghem" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lik: "Lik" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gama: "Gama" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_siba: "Siba" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tieka: "Tieka" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lufa: "Lufa" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_igre: "Igre" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_voak: "Voak" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_chal: "Chal" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_onrein: "Onrein" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_helbani: "Helbani" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tey: "Tey" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_zey: "Zey" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_fay: "Fay" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_rina: "Rina" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_zill: "Zill" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_aito: "Aito" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_pawmei: "Pawmei" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nillia: "Nillia" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_yen: "Yen" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sanna: "Sanna" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hin: "Hin" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_palfa: "Palfa" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_pule: "Pule" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_reya: "Reya" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ra: "Ra" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_shass: "Shass" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tun: "Tun" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_mar: "Mar" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sil: "Sil" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vale: "Vale" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_veor: "Veor" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_zeah: "Zeah" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kimi_i: "Kimi'i" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kiziko: "Kiziko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_houzika: "Houzika" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_saita: "Saita" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_o_ten: "O'Ten" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kutoizi: "Kutoizi" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_saimya: "Saimya" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_taiko: "Taiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_silyo: "Silyo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_vaiko: "Vaiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_maiko: "Maiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_raiko: "Raiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_iiko: "Iiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tzikazo: "Tzikazo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_heilin: "Heilin" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sala: "Sala" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_to_lei: "To Lei" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_chisen: "Chisen" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_chulein: "Chulein" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ciar: "Ciar" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_huan: "Huan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_jini: "Jini" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kaisea: "Kaisea" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_malai: "Malai" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ulaen: "Ulaen" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_sulaan: "Sulaan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_suryo: "Suryo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tai_yi: "Tai'yi" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tauan: "Tauan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_haako: "Haako" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_agapoui: "Agapoui" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_almay: "Almay" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ankkit: "Ankkit" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ashel: "Ashel" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_bankor: "Bankor" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_barron: "Barron" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_blex: "Blex" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_brehg: "Brehg" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_brrimyo: "Brrimyo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_canay: "Canay" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dalken: "Dalken" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_danak: "Danak" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_demos: "Demos" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dod: "Dod" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dofine: "Dofine" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dremon: "Dremon" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_drimal: "Drimal" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_dru: "Dru" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_drugindi: "Drugindi" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_durd: "Durd" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_duset: "Duset" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ekorr: "Ekorr" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_findos: "Findos" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gehad: "Gehad" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_geph: "Geph" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_groshik: "Groshik" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_gunnay: "Gunnay" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_haan: "Haan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hasar: "Hasar" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hask: "Hask" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_hatha: "Hatha" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_how: "How" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_itub: "Itub" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_jaral: "Jaral" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kartay: "Kartay" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_kav: "Kav" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_klewer: "Klewer" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_laff: "Laff" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_lagard: "Lagard" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_libkath: "Libkath" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_maccon: "Maccon" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_moh: "Moh" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_monchar: "Monchar" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nark: "Nark" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_niak: "Niak" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nox: "Nox" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_nozabuiba: "Nozabuiba" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ollin: "Ollin" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_olpan: "Olpan" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_orrin: "Orrin" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_osaax: "Osaax" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_otbor: "Otbor" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_proh_ven: "Proh'ven" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_pundar: "Pundar" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_raalo: "Raalo" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_regrap: "Regrap" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_shallit: "Shallit" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_takrab: "Takrab" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_po: "Po" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_tro: "Tro" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_unch: "Unch" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_veyaiko: "Veyaiko" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_zaday: "Zaday" #!Empty_LineInfo!
-	NEIMOIDIAN_CHR_ze_trios: "Ze-Trios" #!Empty_LineInfo!
+ NEIMOIDIAN_SHIP_viceroy: "Вице-король"
+ NEIMOIDIAN_SHIP_all_of_the_above: "Все вышеперечисленное"
+ NEIMOIDIAN_SHIP_governor: "Губернатор"
+ NEIMOIDIAN_SHIP_doubtless: "Несомненно"
+ NEIMOIDIAN_SHIP_even_cut: "Ровный разрез"
+ NEIMOIDIAN_SHIP_conqueror: "Завоеватель"
+ NEIMOIDIAN_SHIP_invisible_hand: "Невидимая рука"
+ NEIMOIDIAN_SHIP_colicoid_swarm: "Рой коликоидов"
+ NEIMOIDIAN_SHIP_lucid_voice: "Ясный голос"
+ NEIMOIDIAN_SHIP_invincible: "Непобедимый"
+ NEIMOIDIAN_SHIP_nihilist: "Нигилист"
+ NEIMOIDIAN_SHIP_prosperous: "Процветающий"
+ NEIMOIDIAN_SHIP_anaxis: "Анаксис"
+ NEIMOIDIAN_SHIP_acquisitor: "Приобретатель"
+ NEIMOIDIAN_SHIP_revenue: "Выручка"
+ NEIMOIDIAN_SHIP_aurora: "Аврора"
+ NEIMOIDIAN_SHIP_canteval: "Кантеваль"
+ NEIMOIDIAN_SHIP_corpulentus: "Тучный"
+ NEIMOIDIAN_SHIP_darkhawk: "Темный ястреб"
+ NEIMOIDIAN_SHIP_discord: "Дискорд"
+ NEIMOIDIAN_SHIP_force: "Сила"
+ NEIMOIDIAN_SHIP_of: "Оф"
+ NEIMOIDIAN_SHIP_commerce: "Коммерция"
+ NEIMOIDIAN_SHIP_fortressa: "Фортресса"
+ NEIMOIDIAN_SHIP_gahenna: "Гахенна"
+ NEIMOIDIAN_SHIP_unlimited_projection: "Неограниченная проекция"
+ NEIMOIDIAN_SHIP_unrepentant: "Нераскаявшийся"
+ NEIMOIDIAN_SHIP_vanguard_flare: "Сигнальная ракета авангарда"
+ NEIMOIDIAN_SHIP_vanquisher: "Победитель"
+ NEIMOIDIAN_SHIP_voice_of_industry: "Голос индустрии"
+ NEIMOIDIAN_SHIP_darkvenge: "Темная месть"
+ NEIMOIDIAN_SHIP_keeper: "Кипер"
+ NEIMOIDIAN_SHIP_profit: "Прибыль"
+ NEIMOIDIAN_SHIP_saak_ak: "Саак'ак"
+ NEIMOIDIAN_SHIP_starworm: "Звездный червь"
+ NEIMOIDIAN_SHIP_stockade: "Частокол"
+ NEIMOIDIAN_SHIP_mantis: "Богомол"
+ NEIMOIDIAN_SHIP_lapiz_cutter: "Резак для лапиза"
+ NEIMOIDIAN_SHIP_procurer: "Сводник"
+ NEIMOIDIAN_SHIP_conveyor: "Конвейер"
+ NEIMOIDIAN_SHIP_prime: "Прайм"
+ NEIMOIDIAN_SHIP_vuutun_palaa: "Вуутун Палаа"
+ NEIMOIDIAN_SHIP_profusion: "Изобилие"
+ NEIMOIDIAN_SHIP_voice_of_reason: "Голос разума"
+ NEIMOIDIAN_SHIP_fury: "Ярость"
+ NEIMOIDIAN_SHIP_tide_of_progress: "Волна прогресса"
+ NEIMOIDIAN_SHIP_sa_nalaor: "Са Налаор"
+ NEIMOIDIAN_SHIP_helios: "Гелиос"
+ NEIMOIDIAN_SHIP_obrexta: "Обрекста"
+ NEIMOIDIAN_SHIP_bonteri: "Бонтери"
+ NEIMOIDIAN_SHIP_defiance_s_banner: "Знамя неповиновения"
+ NEIMOIDIAN_SHIP_banner_of_independence: "Знамя независимости"
+ NEIMOIDIAN_SHIP_devastation: "Опустошение"
+ NEIMOIDIAN_SHIP_malevolence: "Недоброжелательность"
+ NEIMOIDIAN_SHIP_deyvus: "Дейвус"
+ NEIMOIDIAN_SHIP_discordant: "Диссонирующий"
+ NEIMOIDIAN_SHIP_krakana_current: "Течение Краканы"
+ NEIMOIDIAN_SHIP_death_or_liberty: "Смерть или свобода"
+ NEIMOIDIAN_SHIP_trident: "Трезубец"
+ NEIMOIDIAN_SHIP_unimpeachable: "Безупречный"
+ NEIMOIDIAN_SHIP_covfefe: "Ковфефе"
+ NEIMOIDIAN_SHIP_unforgiving: "Неумолимый"
+ NEIMOIDIAN_SHIP_impenitent: "Нераскаявшийся"
+ NEIMOIDIAN_SHIP_remorseless: "Безжалостный"
+ NEIMOIDIAN_SHIP_uncontrite: "Нераскаявшийся"
+ NEIMOIDIAN_SHIP_unapologetic: "Непримиримый"
+ NEIMOIDIAN_SHIP_unwavering: "Непоколебимый"
+ NEIMOIDIAN_SHIP_steadfast: "Стойкий"
+ NEIMOIDIAN_SHIP_commitment: "Обязательство"
+ NEIMOIDIAN_SHIP_unregenerate: "Невозрожденный"
+ NEIMOIDIAN_SHIP_shameless: "Бесстыдница"
+ NEIMOIDIAN_SHIP_holdout: "Несогласный"
+ NEIMOIDIAN_SHIP_unabashed: "беззастенчивый"
+ NEIMOIDIAN_SHIP_incorrigible: "Неисправимый"
+ NEIMOIDIAN_SHIP_inveterate: "Отпетый"
+ NEIMOIDIAN_SHIP_senior_creditor: "Старший кредитор"
+ NEIMOIDIAN_SHIP_lost_cause: "Проигранное дело"
+ NEIMOIDIAN_SHIP_rearguard: "Арьергард"
+ NEIMOIDIAN_SHIP_phoenix: "Феникс"
+ NEIMOIDIAN_SHIP_archer: "Лучник"
+ NEIMOIDIAN_SHIP_ironwall: "Айронволл"
+ NEIMOIDIAN_SHIP_de_sutu: "Де Суту"
+ NEIMOIDIAN_SHIP_admiral_trench: "Адмирал Тренч"
+ NEIMOIDIAN_SHIP_gunray: "Ганрей"
+ NEIMOIDIAN_SHIP_grievous: "Гривус"
+ NEIMOIDIAN_SHIP_count_s_revenge: "Месть графа"
+ NEIMOIDIAN_SHIP_predator: "Хищник"
+ NEIMOIDIAN_SHIP_protector: "Защитник"
+ NEIMOIDIAN_SHIP_vigilant: "Бдительный"
+ NEIMOIDIAN_SHIP_defiance: "Неповиновение"
+ NEIMOIDIAN_SHIP_ivy: "Айви"
+ NEIMOIDIAN_SHIP_huntress: "Охотница"
+ NEIMOIDIAN_SHIP_lady_clovis: "Леди Кловис"
+ NEIMOIDIAN_SHIP_word_of_truth: "Слово истины"
+ NEIMOIDIAN_SHIP_blessing_of_tambor: "Благословение Тамбора"
+ NEIMOIDIAN_SHIP_raxus: "Раксус"
+ NEIMOIDIAN_SHIP_senator_atell: "Сенатор Ателл"
+ NEIMOIDIAN_SHIP_king_rash: "Король Раш"
+ NEIMOIDIAN_SHIP_senator_bonteri: "Сенатор Бонтери"
+ NEIMOIDIAN_SHIP_lawise: "Законность"
+ NEIMOIDIAN_SHIP_tamson: "Тэмсон"
+ NEIMOIDIAN_SHIP_archduke: "Эрцгерцог"
+ NEIMOIDIAN_SHIP_judgment: "Судебное решение"
+ NEIMOIDIAN_SHIP_fist_of_poggle: "Кулак Поггла"
+ NEIMOIDIAN_SHIP_haako: "Хаако"
+ NEIMOIDIAN_SHIP_gunnay: "Ганни"
+ NEIMOIDIAN_SHIP_san_hill: "Сан-Хилл"
+ NEIMOIDIAN_SHIP_argente: "Ардженте"
+ NEIMOIDIAN_SHIP_shu_mai: "Шу Май"
+ NEIMOIDIAN_SHIP_nudo: "Нудо"
+ NEIMOIDIAN_SHIP_tikkes: "Тиккес"
+ NEIMOIDIAN_SHIP_agony: "Агония"
+ NEIMOIDIAN_SHIP_reprisal: "Возмездие"
+ NEIMOIDIAN_SHIP_avenger: "Мститель"
+ NEIMOIDIAN_SHIP_retribution: "Возмездие"
+ NEIMOIDIAN_SHIP_retributor: "Возмездник"
+ NEIMOIDIAN_SHIP_requital: "Воздаяние"
+ NEIMOIDIAN_SHIP_recrimination: "Взаимные обвинения"
+ NEIMOIDIAN_SHIP_calamity: "Бедствие"
+ NEIMOIDIAN_SHIP_cataclysm: "Катаклизм"
+ NEIMOIDIAN_SHIP_catastrophe: "Катастрофа"
+ NEIMOIDIAN_SHIP_shield_of_the_rim: "Щит Края"
+ NEIMOIDIAN_SHIP_tribulation: "Скорбь"
+ NEIMOIDIAN_SHIP_mishanter: "Неудачник"
+ NEIMOIDIAN_SHIP_tears_of_jabiim: "Слезы Джабиима"
+ NEIMOIDIAN_SHIP_stratus: "Стратус"
+ NEIMOIDIAN_SHIP_ashel: "Ашель"
+ NEIMOIDIAN_SHIP_cartroll: "Картролл"
+ NEIMOIDIAN_SHIP_dallin: "Даллин"
+ NEIMOIDIAN_SHIP_dekluun: "Деклун"
+ NEIMOIDIAN_SHIP_dofine: "Дофайн"
+ NEIMOIDIAN_SHIP_durge: "Дурдж"
+ NEIMOIDIAN_SHIP_judgement_of_findos: "Суд Финдоса"
+ NEIMOIDIAN_SHIP_finnis: "Финнис"
+ NEIMOIDIAN_SHIP_uhumele: "Ухумеле"
+ NEIMOIDIAN_SHIP_bomo_greenbark: "Бомо Гринбарк"
+ NEIMOIDIAN_SHIP_ghez_hokan: "Гез Хокан"
+ NEIMOIDIAN_SHIP_drogen_hosh: "Дроген Хош"
+ NEIMOIDIAN_SHIP_starcrusher: "Разрушитель звезд"
+ NEIMOIDIAN_SHIP_kirst: "Кирст"
+ NEIMOIDIAN_SHIP_nova_defiant: "Неповиновение Нова"
+ NEIMOIDIAN_SHIP_dalehsam: "Далехсам"
+ NEIMOIDIAN_SHIP_dassyne: "Дассайн"
+ NEIMOIDIAN_SHIP_ningo: "Нинго"
+ NEIMOIDIAN_SHIP_lok_durd: "Лок Дерд"
+ NEIMOIDIAN_SHIP_ennodius: "Эннодий"
+ NEIMOIDIAN_SHIP_farr_nees: "Фаррнис"
+ NEIMOIDIAN_SHIP_atticus_farstar: "Аттикус Фарстар"
+ NEIMOIDIAN_SHIP_ambigene: "Неоднозначность"
+ NEIMOIDIAN_SHIP_kleeve: "Клив"
+ NEIMOIDIAN_SHIP_kraken: "Кракен"
+ NEIMOIDIAN_SHIP_loathsom: "Отвращение"
+ NEIMOIDIAN_SHIP_nagelsa: "Нагельса"
+ NEIMOIDIAN_SHIP_tonith: "Сегодня вечером"
+ NEIMOIDIAN_SHIP_rootrock: "Корневая порода"
+ NEIMOIDIAN_SHIP_echo_of_new_plympto: "Эхо Нового Плимпто"
+ NEIMOIDIAN_SHIP_jennir_fable: "Дженнир Фэйбл"
+ NEIMOIDIAN_SHIP_sev_rance: "Сев'ранс"
+ NEIMOIDIAN_SHIP_terrus: "Террус"
+ NEIMOIDIAN_SHIP_trilm: "Трилм"
+ NEIMOIDIAN_SHIP_ultho: "Ульто"
+ NEIMOIDIAN_SHIP_ur_loach: "Ур'Лоах"
+ NEIMOIDIAN_SHIP_hellraiser: "Восставший из ада"
+ NEIMOIDIAN_SHIP_count_of_serenno: "Граф Серенно"
+ NEIMOIDIAN_SHIP_actualizer: "Актуализатор"
+ NEIMOIDIAN_SHIP_golden_touch: "Золотое прикосновение"
+ NEIMOIDIAN_SHIP_stalwart: "Стойкий"
+ NEIMOIDIAN_SHIP_foresight: "Предвидение"
+ NEIMOIDIAN_SHIP_hindsight: "Ретроспективный анализ"
+ NEIMOIDIAN_SHIP_grudgebearer: "Недовольный"
+ NEIMOIDIAN_SHIP_gizor: "Жизор"
+ NEIMOIDIAN_SHIP_ventress: "Вентресс"
+ NEIMOIDIAN_SHIP_jai_sheelal: "джай Шилал"
+ NEIMOIDIAN_SHIP_izvoshra: "Извошра"
+ NEIMOIDIAN_SHIP_san_sk_ar: "сан-Скар"
+ NEIMOIDIAN_SHIP_lij_kummar: "лидж Куммар"
+ NEIMOIDIAN_SHIP_abesmi: "Абесми"
+ NEIMOIDIAN_SHIP_shoni: "Шони"
+ NEIMOIDIAN_SHIP_kolkpravis: "Колкправис"
+ NEIMOIDIAN_SHIP_vindicator: "Защитник"
+ NEIMOIDIAN_SHIP_resentful: "Обиженный"
+ NEIMOIDIAN_SHIP_martyr: "Мученик"
+ NEIMOIDIAN_SHIP_resurgent: "Возрождённый"
+ NEIMOIDIAN_SHIP_resurrector: "Воскреситель"
+ NEIMOIDIAN_SHIP_extinction: "Вымирание"
+ NEIMOIDIAN_SHIP_righteous_cause: "Праведное дело"
+ NEIMOIDIAN_SHIP_spite_eternal: "Вечная злоба"
+ NEIMOIDIAN_SHIP_execration: "Проклятие"
+ NEIMOIDIAN_SHIP_antipathy: "Антипатия"
+ NEIMOIDIAN_SHIP_jaundice: "Желтуха"
+ NEIMOIDIAN_SHIP_malice: "Злоба"
+ NEIMOIDIAN_SHIP_malignity: "Злобность"
+ NEIMOIDIAN_SHIP_antagonist: "Антагонист"
+ NEIMOIDIAN_SHIP_ill_will: "Недоброжелательность"
+ NEIMOIDIAN_SHIP_repulsor: "Репульсор"
+ NEIMOIDIAN_SHIP_contemptor: "Современник"
+ NEIMOIDIAN_SHIP_crimson_scorn: "Багровое презрение"
+ NEIMOIDIAN_SHIP_recusant: "Отступник"
+ NEIMOIDIAN_SHIP_intractable: "Несговорчивый"
+ NEIMOIDIAN_SHIP_willful: "Своевольный"
+ NEIMOIDIAN_SHIP_obdurate: "Упрямый"
+ NEIMOIDIAN_SHIP_wild_scorn: "Дикое презрение"
+ NEIMOIDIAN_SHIP_adamant: "Адамант"
+ NEIMOIDIAN_SHIP_bitter_end: "Горький конец"
+ NEIMOIDIAN_SHIP_embittered: "Озлобленный"
+ NEIMOIDIAN_SHIP_last_stand: "Последняя битва"
+ NEIMOIDIAN_SHIP_inculpable: "Недопустимый"
+ NEIMOIDIAN_SHIP_grand_duke: "Великий герцог"
+ NEIMOIDIAN_SHIP_first_rebel: "Первый мятежник"
+ NEIMOIDIAN_SHIP_old_dominion: "Старый доминион"
+ NEIMOIDIAN_SHIP_circumvention: "Обход"
+ NEIMOIDIAN_SHIP_king_kolto: "Король Колто"
+ NEIMOIDIAN_SHIP_outrage: "Возмущение"
+ NEIMOIDIAN_SHIP_aconia: "Акония"
+ NEIMOIDIAN_SHIP_aftden: "На корме"
+ NEIMOIDIAN_SHIP_inheritor: "Наследник"
+ NEIMOIDIAN_SHIP_rightful_inheritance: "Законное наследование"
+ NEIMOIDIAN_SHIP_honorable_war: "Почетная война"
+ NEIMOIDIAN_SHIP_pursuant: "Пуруант"
+ NEIMOIDIAN_SHIP_unconditional: "Безусловный"
+ NEIMOIDIAN_SHIP_unwarranted: "Необоснованно"
+ NEIMOIDIAN_SHIP_restive: "Беспокойный"
+ NEIMOIDIAN_SHIP_restless: "Беспокойный"
+ NEIMOIDIAN_SHIP_last_laugh: "Смех последним"
+ NEIMOIDIAN_SHIP_phrikkian_prince: "Фриккийский принц"
+ NEIMOIDIAN_SHIP_spitedancer: "Танцующий со злобой"
+ NEIMOIDIAN_SHIP_gravedancer: "Танцующий на могиле"
+ NEIMOIDIAN_SHIP_parting_shot: "Прощальный выстрел"
+ NEIMOIDIAN_SHIP_resistor: "Резистор"
+ NEIMOIDIAN_SHIP_foe_hammer: "Вражеский молот"
+ NEIMOIDIAN_SHIP_corsuca_queen: "Королева Корсуки"
+ NEIMOIDIAN_SHIP_tyrant_s_bane: "Проклятие тирана"
+ NEIMOIDIAN_SHIP_clonebane: "Клоунбейн"
+ NEIMOIDIAN_SHIP_aggrieved: "Потерпевший"
+ NEIMOIDIAN_SHIP_grievance: "Жалоба"
+ NEIMOIDIAN_SHIP_remembrance: "Воспоминание"
+ NEIMOIDIAN_SHIP_rejoinder: "Ответ"
+ NEIMOIDIAN_SHIP_refutation: "Опровержение"
+ NEIMOIDIAN_SHIP_denialist: "Отрицатель"
+ NEIMOIDIAN_SHIP_knight_hewer: "Рыцарь Рубящий"
+ NEIMOIDIAN_SHIP_countess: "Графиня"
+ NEIMOIDIAN_SHIP_consolidator: "Консолидатор"
+ NEIMOIDIAN_SHIP_power_of_the_purse: "Сила кошелька"
+ NEIMOIDIAN_SHIP_kood_b_vy: "Куд б'ви"
+ NEIMOIDIAN_SHIP_kagwe: "Кагве"
+ NEIMOIDIAN_SHIP_rehpon: "Рехпон"
+ NEIMOIDIAN_SHIP_donc_zuwenda: "Донц Зувенда"
+ NEIMOIDIAN_SHIP_consulta: "Консультанта"
+ NEIMOIDIAN_SHIP_del_riva: "Дел Рива"
+ NEIMOIDIAN_SHIP_pay_eez: "Заплати Иез"
+ NEIMOIDIAN_SHIP_addad_taz: "Аддад Таз"
+ NEIMOIDIAN_SHIP_uv_cosa: "Ув Коса"
+ NEIMOIDIAN_SHIP_contrak: "Контрак"
+ NEIMOIDIAN_SHIP_shanatrun: "Шанатрун"
+ NEIMOIDIAN_SHIP_dleef: "Длиф"
+ NEIMOIDIAN_SHIP_forz: "Форз"
+ NEIMOIDIAN_SHIP_cohorta: "Когорта"
+ NEIMOIDIAN_SHIP_umbarga: "Умбарга"
+ NEIMOIDIAN_SHIP_munifex: "Мунифекс"
+ NEIMOIDIAN_SHIP_captor: "Похититель"
+ NEIMOIDIAN_SHIP_inner_circle: "Внутренний круг"
+ NEIMOIDIAN_SHIP_lott_dod: "Лотт Дод"
+ NEIMOIDIAN_SHIP_collector: "Коллекционер"
+ NEIMOIDIAN_SHIP_vizier: "Визирь"
+ NEIMOIDIAN_SHIP_voroo: "Вороо"
+ NEIMOIDIAN_SHIP_hatha: "Хатха"
+ NEIMOIDIAN_SHIP_entrepot: "Первое блюдо"
+ NEIMOIDIAN_SHIP_entreaty: "Мольба"
+ NEIMOIDIAN_SHIP_kreehawk: "Крихок"
+ NEIMOIDIAN_SHIP_zarra: "Зарра"
+ NEIMOIDIAN_SHIP_tarko_se: "Тарко-се"
+ NEIMOIDIAN_SHIP_gorog: "Горог"
+ NEIMOIDIAN_SHIP_negotiator: "Переговорщик"
+ NEIMOIDIAN_SHIP_merchant_queen: "Королева торговцев"
+ NEIMOIDIAN_SHIP_trade_monarch: "Торговый монарх"
+ NEIMOIDIAN_SHIP_manax: "Манакс"
+ NEIMOIDIAN_SHIP_mistfly: "Туманная бабочка"
+ NEIMOIDIAN_SHIP_neekoflight: "Короткий полет"
+ NEIMOIDIAN_SHIP_pylat: "Пилат"
+ NEIMOIDIAN_SHIP_balancer: "Балансировщик"
+ NEIMOIDIAN_SHIP_offset: "Смещение"
+ NEIMOIDIAN_SHIP_impairment: "Нарушение"
+ NEIMOIDIAN_SHIP_write_down: "Запишите"
+ NEIMOIDIAN_SHIP_coveter: "Жаждущий"
+ NEIMOIDIAN_SHIP_desire: "Желание"
+ NEIMOIDIAN_SHIP_rightful_claim: "Законное требование"
+ NEIMOIDIAN_SHIP_claimant: "Истец"
+ NEIMOIDIAN_SHIP_plaintiff: "Истец"
+ NEIMOIDIAN_SHIP_dolorous: "Скорбный"
+ NEIMOIDIAN_SHIP_foregone: "Предрешено"
+ NEIMOIDIAN_SHIP_dirge: "Панихида"
+ NEIMOIDIAN_SHIP_forlorn: "Несчастный"
+ NEIMOIDIAN_SHIP_desolate: "Опустошенный"
+ NEIMOIDIAN_SHIP_sorrow: "Скорбь"
+ NEIMOIDIAN_SHIP_piteous: "Жалкий"
+ NEIMOIDIAN_SHIP_stricken: "Пораженный"
+ NEIMOIDIAN_SHIP_plangent: "Резкий"
+ NEIMOIDIAN_SHIP_long_haul: "Дальнемагистральный"
+ NEIMOIDIAN_SHIP_far_cry: "Далекий крик"
+ NEIMOIDIAN_SHIP_preserver: "Хранитель"
+ NEIMOIDIAN_SHIP_guardian: "Страж"
+ NEIMOIDIAN_SHIP_watchdog: "Сторожевой пес"
+ NEIMOIDIAN_SHIP_chaperone: "Сопровождающий"
+ NEIMOIDIAN_SHIP_shield_of_neimoidia: "Щит Неймодии"
+ NEIMOIDIAN_SHIP_resolute: "Решительный"
+ NEIMOIDIAN_SHIP_pennance: "Пеннанс"
+ NEIMOIDIAN_SHIP_atonement: "Искупление"
+ NEIMOIDIAN_SHIP_penitent: "Кающийся"
+ NEIMOIDIAN_SHIP_abaser: "Абасер"
+ NEIMOIDIAN_SHIP_amender: "Уступка"
+ NEIMOIDIAN_SHIP_redresser: "Редрессер"
+ NEIMOIDIAN_SHIP_compensator: "Компенсатор"
+ NEIMOIDIAN_SHIP_expiator: "Искупитель"
+ NEIMOIDIAN_SHIP_redeemer: "Искупитель"
+ NEIMOIDIAN_SHIP_nova_leaf: "Лист Новой звезды"
+ NEIMOIDIAN_SHIP_justifier: "Обоснователь"
+ NEIMOIDIAN_SHIP_recompense: "Воздаяние"
+ NEIMOIDIAN_SHIP_repatriator: "Репатриант"
+ NEIMOIDIAN_SHIP_dynamo: "Динамо"
+ NEIMOIDIAN_SHIP_capital_flight: "Бегство капитала"
+ NEIMOIDIAN_SHIP_valuable_risk: "Ценный риск"
+ NEIMOIDIAN_SHIP_insistent: "Настойчивый"
+ NEIMOIDIAN_SHIP_munificus: "Мунификус"
+ NEIMOIDIAN_SHIP_gregralis: "Грегралис"
+ NEIMOIDIAN_SHIP_avocati: "Авокати"
+ NEIMOIDIAN_SHIP_immunes: "Иммунитет"
+ NEIMOIDIAN_SHIP_optio: "Оптио"
+ NEIMOIDIAN_SHIP_centurion: "Центурион"
+ NEIMOIDIAN_SHIP_tribune: "Трибюн"
+ NEIMOIDIAN_SHIP_legatus: "Легатус"
+ NEIMOIDIAN_SHIP_municipal: "Муниципальный"
+ NEIMOIDIAN_SHIP_munificence: "Щедрость"
+ NEIMOIDIAN_SHIP_bounty: "Награда"
+ NEIMOIDIAN_SHIP_obligant: "Обязанный"
+ NEIMOIDIAN_SHIP_indebted: "Задолженность"
+ NEIMOIDIAN_SHIP_accountable: "Подотчетный"
+ NEIMOIDIAN_SHIP_beholden: "Обязанный"
+ NEIMOIDIAN_SHIP_causality: "Причинность"
+ NEIMOIDIAN_SHIP_indicative: "Ориентировочный"
+ NEIMOIDIAN_SHIP_contributor: "Участник"
+ NEIMOIDIAN_SHIP_ascendant: "Восходящий"
+ NEIMOIDIAN_SHIP_bottom_line: "Итог"
+ NEIMOIDIAN_SHIP_king_commerce: "Король коммерции"
+ NEIMOIDIAN_SHIP_culpable: "Виновный"
+ NEIMOIDIAN_SHIP_vulture: "Стервятник"
+ NEIMOIDIAN_SHIP_manka: "Манька"
+ NEIMOIDIAN_SHIP_syren: "Сирен"
+ NEIMOIDIAN_SHIP_voidline: "Линия пустоты"
+ NEIMOIDIAN_SHIP_onward: "Вперед"
+ NEIMOIDIAN_SHIP_firelight: "Свет от костра"
+ NEIMOIDIAN_SHIP_forgiveness: "Прощение"
+ NEIMOIDIAN_SHIP_purgation: "Очищение"
+ NEIMOIDIAN_SHIP_clemency: "Милосердие"
+ NEIMOIDIAN_SHIP_lenient: "Снисходительный"
+ NEIMOIDIAN_SHIP_indulgent: "Снисходительный"
+ NEIMOIDIAN_SHIP_exonerator: "Реабилитатор"
+ NEIMOIDIAN_SHIP_exculpation: "Оправдание"
+ NEIMOIDIAN_SHIP_fresh_start: "Начать все сначала"
+ NEIMOIDIAN_SHIP_indentured: "Наемный"
+ NEIMOIDIAN_SHIP_umbrageous: "Возмутительный"
+ NEIMOIDIAN_SHIP_shielder: "Защитник"
+ NEIMOIDIAN_SHIP_watcher: "Наблюдатель"
+ NEIMOIDIAN_SHIP_defendant: "Ответчик"
+ NEIMOIDIAN_SHIP_most_favored: "Самый любимый"
+ NEIMOIDIAN_SHIP_arbitrage: "Арбитраж"
+ NEIMOIDIAN_SHIP_chartist: "Чартист"
+ NEIMOIDIAN_SHIP_expiry: "Истечение срока действия"
+ NEIMOIDIAN_SHIP_fundamental: "Фундаментальный"
+ NEIMOIDIAN_SHIP_leverage: "Кредитное плечо"
+ NEIMOIDIAN_SHIP_liquidity: "Ликвидность"
+ NEIMOIDIAN_SHIP_maintainer: "Сопровождающий"
+ NEIMOIDIAN_SHIP_open_question: "Открытый вопрос"
+ NEIMOIDIAN_SHIP_optionality: "Необязательность"
+ NEIMOIDIAN_SHIP_rollover: "Опрокидывание"
+ NEIMOIDIAN_SHIP_short_sell: "Короткие продажи"
+ NEIMOIDIAN_SHIP_volatile: "Изменчивый"
+ NEIMOIDIAN_SHIP_at_risk: "В группе риска"
+ NEIMOIDIAN_SHIP_transparent: "Прозрачный"
+ NEIMOIDIAN_SHIP_concession: "Уступка"
+ NEIMOIDIAN_SHIP_countervailer: "Компенсатор"
+ NEIMOIDIAN_SHIP_rule_of_origin: "Правило происхождения"
+ NEIMOIDIAN_SHIP_safeguard: "Защита"
+ NEIMOIDIAN_SHIP_appellate: "Апелляционный"
+ NEIMOIDIAN_SHIP_prudential: "Пруденциальный"
+ NEIMOIDIAN_SHIP_prudent: "Благоразумный"
+ NEIMOIDIAN_SHIP_prudence: "благоразумие"
+ NEIMOIDIAN_SHIP_ex_ante: "Экс Анте"
+ NEIMOIDIAN_SHIP_ex_post: "Экс Пост"
+ NEIMOIDIAN_SHIP_jorra: "Джорра"
+ NEIMOIDIAN_SHIP_at_la_o: "Ат-лао"
+ NEIMOIDIAN_SHIP_commercial_imperative: "Коммерческий императив"
+ NEIMOIDIAN_SHIP_luur: "Луур"
+ NEIMOIDIAN_SHIP_pah_oop: "Тьфу на Ооп"
+ NEIMOIDIAN_SHIP_strongarm: "Сильное оружие"
+ NEIMOIDIAN_SHIP_mediator: "Посредник"
+ NEIMOIDIAN_SHIP_arbitrator: "Арбитр"
+ NEIMOIDIAN_SHIP_arbiter: "Арбитр"
+ NEIMOIDIAN_SHIP_intercessor: "Заступник"
+ NEIMOIDIAN_SHIP_creditor_rex: "Кредитор Рекс"
+ NEIMOIDIAN_SHIP_trove: "Клад"
+ NEIMOIDIAN_SHIP_cosmic_treasure: "Космическое сокровище"
+ NEIMOIDIAN_SHIP_shared_wealth: "Общее богатство"
+ NEIMOIDIAN_SHIP_trickledown: "Просачивание"
+ NEIMOIDIAN_SHIP_accumulator: "Аккумулятор"
+ NEIMOIDIAN_SHIP_hoarder: "Накопитель"
+ NEIMOIDIAN_SHIP_agglomerator: "Агломератор"
+ NEIMOIDIAN_SHIP_corporate_raider: "Корпоративный рейдер"
+ NEIMOIDIAN_SHIP_hostile_takeover: "Враждебное поглощение"
+ NEIMOIDIAN_SHIP_aggressive_acquisition: "Агрессивное приобретение"
+ NEIMOIDIAN_SHIP_amasser: "Амассер"
+ NEIMOIDIAN_SHIP_conglomerator: "Конгломерат"
+ NEIMOIDIAN_SHIP_aurium: "Ауриум"
+ NEIMOIDIAN_SHIP_aurodium_standard: "Стандарт Ауродиума"
+ NEIMOIDIAN_SHIP_aurodium_dream: "Мечта Ауродиума"
+ NEIMOIDIAN_SHIP_bullion_prince: "Принц слитков"
+ NEIMOIDIAN_SHIP_bailment: "Освобождение под залог"
+ NEIMOIDIAN_SHIP_chain_of_integrity: "Цепочка целостности"
+ NEIMOIDIAN_SHIP_kilobar: "Килобар"
+ NEIMOIDIAN_SHIP_premium: "Премиум"
+ NEIMOIDIAN_SHIP_speculative_position: "Спекулятивная позиция"
+ NEIMOIDIAN_SHIP_treasurer: "Казначей"
+ NEIMOIDIAN_SHIP_vault: "Хранилище"
+ NEIMOIDIAN_SHIP_speculator: "Спекулянт"
+ NEIMOIDIAN_SHIP_aurodium_heart: "Сердце Ауродиума"
+ NEIMOIDIAN_SHIP_aurodium_age: "Эпоха Ауродиума"
+ NEIMOIDIAN_SHIP_largesse: "Щедрость"
+ NEIMOIDIAN_SHIP_finna_nohtece: "Финна Нохтесе"
+ NEIMOIDIAN_SHIP_custodian: "Хранитель"
+ NEIMOIDIAN_SHIP_warder: "Надзиратель"
+ NEIMOIDIAN_SHIP_warden: "надзиратель"
+ NEIMOIDIAN_SHIP_entrusted: "Доверенный"
+ NEIMOIDIAN_SHIP_in_trust: "Доверенный"
+ NEIMOIDIAN_SHIP_bayu_oot: "Байу Ут"
+ NEIMOIDIAN_SHIP_doge: "Дож"
+ NEIMOIDIAN_SHIP_dewan: "Деван"
+ NEIMOIDIAN_SHIP_premier: "Премьер"
+ NEIMOIDIAN_SHIP_venture: "Предприятие"
+ NEIMOIDIAN_SHIP_cato: "Катон"
+ NEIMOIDIAN_SHIP_deko: "Дэко"
+ NEIMOIDIAN_SHIP_koru: "Кору"
+ NEIMOIDIAN_SHIP_narq: "Нарк"
+ NEIMOIDIAN_SHIP_chairman_nark: "Председатель Нарк"
+ NEIMOIDIAN_SHIP_honorable_peace: "Почетный мир"
+ NEIMOIDIAN_SHIP_restitution: "Реституция"
+ NEIMOIDIAN_SHIP_reparation: "Репарация"
+ NEIMOIDIAN_SHIP_aurorient: "Аврориент"
+ NEIMOIDIAN_SHIP_ena_guta_feyth: "Эна Гута Фейт"
+ NEIMOIDIAN_SHIP_amortizer: "Амортизатор"
+ NEIMOIDIAN_SHIP_future_value: "Будущая ценность"
+ NEIMOIDIAN_SHIP_present_value: "Текущая стоимость"
+ NEIMOIDIAN_SHIP_credit_flow: "Кредитный поток"
+ NEIMOIDIAN_SHIP_exponential: "Экспоненциальный"
+ NEIMOIDIAN_SHIP_guarantor: "Гарант"
+ NEIMOIDIAN_SHIP_principal_value: "Основная ценность"
+ NEIMOIDIAN_SHIP_surplus: "Излишек"
+ NEIMOIDIAN_SHIP_probable_cause: "Вероятная причина"
+ NEIMOIDIAN_SHIP_allocator: "Распределитель"
+ NEIMOIDIAN_SHIP_null_and_void: "Недействительный"
+ NEIMOIDIAN_SHIP_retainer: "Фиксатор"
+ NEIMOIDIAN_SHIP_face_value: "Номинальная стоимость"
+ NEIMOIDIAN_SHIP_warranty: "Гарантия"
+ NEIMOIDIAN_SHIP_warrant: "Ордер"
+ NEIMOIDIAN_SHIP_lone_trekker: "Путешественник-одиночка"
+ NEIMOIDIAN_SHIP_vergent: "Верджент"
+ NEIMOIDIAN_SHIP_valorant: "Доблестный"
+ NEIMOIDIAN_SHIP_shai_malud: "Шай Малуд"
+ NEIMOIDIAN_SHIP_nightrunner: "Ночной бегун"
+ NEIMOIDIAN_SHIP_starsnake: "Звездная змея"
+ NEIMOIDIAN_SHIP_volumex: "Волюмекс"
+ NEIMOIDIAN_SHIP_eminent: "Выдающийся"
+ NEIMOIDIAN_SHIP_azerin: "Азерин"
+ NEIMOIDIAN_SHIP_iota: "Йота"
+ NEIMOIDIAN_SHIP_mutrobo: "Мутробо"
+ NEIMOIDIAN_SHIP_rover: "Ровер"
+ NEIMOIDIAN_SHIP_revolt: "Восстание"
+ NEIMOIDIAN_SHIP_purposeful: "Целеустремленный"
+ NEIMOIDIAN_SHIP_farstar: "Фарстар"
+ NEIMOIDIAN_SHIP_exclave: "Эксклав"
+ NEIMOIDIAN_SHIP_reclaimer: "Утилизатор"
+ NEIMOIDIAN_SHIP_reclamation: "Рекультивация"
+ NEIMOIDIAN_SHIP_larvala: "Личинка"
+ NEIMOIDIAN_SHIP_voidcaller: "Вызывающий пустоту"
+ NEIMOIDIAN_SHIP_fruitful: "Плодотворный"
+ NEIMOIDIAN_SHIP_expander: "Расширитель"
+ NEIMOIDIAN_SHIP_nomad: "Кочевник"
+ NEIMOIDIAN_SHIP_adoption: "Усыновление"
+ NEIMOIDIAN_SHIP_urgent: "Срочно"
+ NEIMOIDIAN_SHIP_ahspanshen: "Ахспаншен"
+ NEIMOIDIAN_SHIP_seeda: "Сида"
+ NEIMOIDIAN_SHIP_parasilla: "Паразилла"
+ NEIMOIDIAN_SHIP_journey: "Путешествие"
+ NEIMOIDIAN_SHIP_farcaller: "Дальнобойщик"
+ NEIMOIDIAN_SHIP_grasper: "Хвататель"
+ NEIMOIDIAN_SHIP_scion_of_neimoidia: "Отпрыск Неймодии"
+ NEIMOIDIAN_SHIP_merchant: "Торговец"
+ NEIMOIDIAN_SHIP_convoy: "Конвой"
+ NEIMOIDIAN_SHIP_perseverance: "Настойчивость"
+ NEIMOIDIAN_SHIP_seed_capital: "Начальный капитал"
+ NEIMOIDIAN_SHIP_startup: "Запуск"
+ NEIMOIDIAN_SHIP_acquisition: "Приобретение"
+ NEIMOIDIAN_SHIP_cultivation: "Культивирование"
+ NEIMOIDIAN_SHIP_broodqueen: "Королева выводка"
+ NEIMOIDIAN_SHIP_far_hive: "Далекий улей"
+ NEIMOIDIAN_SHIP_marginal: "Маргинальный"
+ NEIMOIDIAN_SHIP_returner: "Возвращающийся"
+ NEIMOIDIAN_SHIP_wager: "Пари"
+ NEIMOIDIAN_SHIP_menial: "Мениал"
+ NEIMOIDIAN_SHIP_servile: "Раболепный"
+ NEIMOIDIAN_SHIP_serf: "Серф"
+ NEIMOIDIAN_SHIP_fair_wage: "Справедливая плата"
+ NEIMOIDIAN_SHIP_fabricar: "Фабрикант"
+ NEIMOIDIAN_SHIP_iterator: "Итератор"
+ NEIMOIDIAN_SHIP_servitor: "Сервитор"
+ NEIMOIDIAN_SHIP_erector: "Эректор"
+ NEIMOIDIAN_SHIP_architectron: "Архитектрон"
+ NEIMOIDIAN_SHIP_creator: "Создатель"
+ NEIMOIDIAN_SHIP_warren: "Уоррен"
+ NEIMOIDIAN_SHIP_burrower: "Роющий"
+ NEIMOIDIAN_SHIP_hewer: "Рубщик"
+ NEIMOIDIAN_SHIP_ogl: "Огл"
+ NEIMOIDIAN_SHIP_depositor: "Вкладчик"
+ NEIMOIDIAN_SHIP_morning_sweat: "Утренний пот"
+ NEIMOIDIAN_SHIP_c_9979_landing_craft: "Десантный корабль С-9979"
+ NEIMOIDIAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ NEIMOIDIAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ NEIMOIDIAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ NEIMOIDIAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ NEIMOIDIAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ NEIMOIDIAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ NEIMOIDIAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ NEIMOIDIAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ NEIMOIDIAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ NEIMOIDIAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ NEIMOIDIAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ NEIMOIDIAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ NEIMOIDIAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ NEIMOIDIAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ NEIMOIDIAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ NEIMOIDIAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ NEIMOIDIAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ NEIMOIDIAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ NEIMOIDIAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ NEIMOIDIAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ NEIMOIDIAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ NEIMOIDIAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ NEIMOIDIAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ NEIMOIDIAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ NEIMOIDIAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ NEIMOIDIAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ NEIMOIDIAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ NEIMOIDIAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ NEIMOIDIAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ NEIMOIDIAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ NEIMOIDIAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ NEIMOIDIAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ NEIMOIDIAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ NEIMOIDIAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ NEIMOIDIAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ NEIMOIDIAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ NEIMOIDIAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ NEIMOIDIAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ NEIMOIDIAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ NEIMOIDIAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ NEIMOIDIAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ NEIMOIDIAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ NEIMOIDIAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ NEIMOIDIAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ NEIMOIDIAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ NEIMOIDIAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ NEIMOIDIAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ NEIMOIDIAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ NEIMOIDIAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ NEIMOIDIAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ NEIMOIDIAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ NEIMOIDIAN_SHIP_citadel: "Цитадель"
+ NEIMOIDIAN_SHIP_mazariyan: "Мазариян"
+ NEIMOIDIAN_SHIP_adni: "Адни"
+ NEIMOIDIAN_SHIP_appenza: "Аппенца"
+ NEIMOIDIAN_SHIP_avos: "Авось"
+ NEIMOIDIAN_SHIP_baron_knoll: "Барон Кнолль"
+ NEIMOIDIAN_SHIP_berin: "Берин"
+ NEIMOIDIAN_SHIP_black_crest: "Черный гребень"
+ NEIMOIDIAN_SHIP_claw_of_borolol: "Коготь Боролола"
+ NEIMOIDIAN_SHIP_bride_s_talon: "Коготь невесты"
+ NEIMOIDIAN_SHIP_bright_sun: "Яркое солнце"
+ NEIMOIDIAN_SHIP_canaitith: "Канайтиф"
+ NEIMOIDIAN_SHIP_collo_fauale: "Колло Фауале"
+ NEIMOIDIAN_SHIP_crysifal: "Крисифаль"
+ NEIMOIDIAN_SHIP_d_olop_flow: "Поток Д'олопа"
+ NEIMOIDIAN_SHIP_dour_roads: "Суровые дороги"
+ NEIMOIDIAN_SHIP_dregan_s_pike: "Пика Дрэгана"
+ NEIMOIDIAN_SHIP_drossrock: "Дроссрок"
+ NEIMOIDIAN_SHIP_fallen_teeth: "Выпавшие зубы"
+ NEIMOIDIAN_SHIP_favaran: "Фаваран"
+ NEIMOIDIAN_SHIP_frigia: "Фригия"
+ NEIMOIDIAN_SHIP_gusty_bluff: "Порывистый утес"
+ NEIMOIDIAN_SHIP_high_tatmana: "Высокая Татмана"
+ NEIMOIDIAN_SHIP_hugo: "Хьюго"
+ NEIMOIDIAN_SHIP_im_g_twe: "Им'г'тве"
+ NEIMOIDIAN_SHIP_ison: "Исон"
+ NEIMOIDIAN_SHIP_kalis: "Калис"
+ NEIMOIDIAN_SHIP_karatokai: "Каратокай"
+ NEIMOIDIAN_SHIP_katarn: "Катарн"
+ NEIMOIDIAN_SHIP_khoehng: "Кхонг"
+ NEIMOIDIAN_SHIP_korrokrrayyo: "Коррокррайе"
+ NEIMOIDIAN_SHIP_luftgriff: "Люфтгрифф"
+ NEIMOIDIAN_SHIP_m_nis: "М'Нис"
+ NEIMOIDIAN_SHIP_marauder: "Мародер"
+ NEIMOIDIAN_SHIP_merakan: "Меракан"
+ NEIMOIDIAN_SHIP_meru: "Меру"
+ NEIMOIDIAN_SHIP_moonstruck: "Пораженный луной"
+ NEIMOIDIAN_SHIP_agorn: "Агорн"
+ NEIMOIDIAN_SHIP_antas: "Антас"
+ NEIMOIDIAN_SHIP_anzaada: "Анзаада"
+ NEIMOIDIAN_SHIP_arakeirkos: "Аракейркос"
+ NEIMOIDIAN_SHIP_arayakyak: "Араякьяк"
+ NEIMOIDIAN_SHIP_dijandi: "Дижанди"
+ NEIMOIDIAN_SHIP_ganton: "Гантон"
+ NEIMOIDIAN_SHIP_gethzerion: "Гетцерион"
+ NEIMOIDIAN_SHIP_izukika: "Изукика"
+ NEIMOIDIAN_SHIP_krana: "Кран"
+ NEIMOIDIAN_SHIP_krisklar: "Крисклар"
+ NEIMOIDIAN_SHIP_lorrist: "Лоррист"
+ NEIMOIDIAN_SHIP_mogaar: "Могаар"
+ NEIMOIDIAN_SHIP_pasvaal: "Пасвааль"
+ NEIMOIDIAN_SHIP_quavaar: "Куаваар"
+ NEIMOIDIAN_SHIP_redolava: "Редолава"
+ NEIMOIDIAN_SHIP_savage: "Дикарь"
+ NEIMOIDIAN_SHIP_sendoth: "Сендот"
+ NEIMOIDIAN_SHIP_tellec: "Теллек"
+ NEIMOIDIAN_SHIP_tessef: "Тессеф"
+ NEIMOIDIAN_SHIP_ulgo: "Ульго"
+ NEIMOIDIAN_SHIP_vastadon: "Вастадон"
+ NEIMOIDIAN_SHIP_veermok: "Вирмок"
+ NEIMOIDIAN_SHIP_verena: "Верена"
+ NEIMOIDIAN_SHIP_vissa: "Висса"
+ NEIMOIDIAN_SHIP_orane: "Оранский"
+ NEIMOIDIAN_SHIP_orik_s_spine: "Хребет Орика"
+ NEIMOIDIAN_SHIP_pinnacle: "Вершина"
+ NEIMOIDIAN_SHIP_felth: "Фелт"
+ NEIMOIDIAN_SHIP_porso: "Порсо"
+ NEIMOIDIAN_SHIP_red_hill: "Красная горка"
+ NEIMOIDIAN_SHIP_scich_tl: "Сих'тл"
+ NEIMOIDIAN_SHIP_selon: "Селон"
+ NEIMOIDIAN_SHIP_sirpar: "Сирпар"
+ NEIMOIDIAN_SHIP_sistra: "Систра"
+ NEIMOIDIAN_SHIP_ste_vshuulsz: "Сте'ввшуулсз"
+ NEIMOIDIAN_SHIP_teldanus: "Тельданус"
+ NEIMOIDIAN_SHIP_tolmeatek: "Толмеатек"
+ NEIMOIDIAN_SHIP_twin_hills: "Холмы-близнецы"
+ NEIMOIDIAN_SHIP_umate: "Умате"
+ NEIMOIDIAN_SHIP_usca: "Уска"
+ NEIMOIDIAN_SHIP_yal_noy: "Ял-Ной"
+ NEIMOIDIAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ NEIMOIDIAN_SHIP_ballista: "Баллиста"
+ NEIMOIDIAN_SHIP_catapult: "Космическая пушка Катапульта"
+ NEIMOIDIAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ NEIMOIDIAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ NEIMOIDIAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ NEIMOIDIAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ NEIMOIDIAN_SHIP_CLASS_cr_90: "CR-90"
+ NEIMOIDIAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ NEIMOIDIAN_SHIP_CLASS_lupus: "Люпус"
+ NEIMOIDIAN_SHIP_CLASS_asdroni: "Асдрони"
+ NEIMOIDIAN_SHIP_CLASS_customs: "Таможня"
+ NEIMOIDIAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ NEIMOIDIAN_SHIP_CLASS_scurge: "Мерзость"
+ NEIMOIDIAN_SHIP_CLASS_krayt: "Крайт"
+ NEIMOIDIAN_SHIP_CLASS_diamond: "Бриллиант"
+ NEIMOIDIAN_SHIP_CLASS_etti: "Этти"
+ NEIMOIDIAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ NEIMOIDIAN_SHIP_CLASS_vigil: "Бдение"
+ NEIMOIDIAN_SHIP_CLASS_dp20: "DP20"
+ NEIMOIDIAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ NEIMOIDIAN_SHIP_CLASS_raider: "Рейдер"
+ NEIMOIDIAN_SHIP_CLASS_dornean: "Дорнейский"
+ NEIMOIDIAN_SHIP_CLASS_crusader: "Крестоносец"
+ NEIMOIDIAN_SHIP_CLASS_marauder: "Мародер"
+ NEIMOIDIAN_SHIP_CLASS_arquitens: "Аркитенс"
+ NEIMOIDIAN_SHIP_CLASS_kiltirin: "Килтирин"
+ NEIMOIDIAN_SHIP_CLASS_pelta: "Пельта"
+ NEIMOIDIAN_SHIP_CLASS_pinnace: "Катер"
+ NEIMOIDIAN_SHIP_CLASS_nova: "Нова"
+ NEIMOIDIAN_SHIP_CLASS_vigilance: "Бдительность"
+ NEIMOIDIAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ NEIMOIDIAN_SHIP_CLASS_cg_273: "CG-273"
+ NEIMOIDIAN_SHIP_CLASS_kariek: "Кариек"
+ NEIMOIDIAN_SHIP_CLASS_imperial_escort: "Императорский эскорт"
+ NEIMOIDIAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ NEIMOIDIAN_SHIP_CLASS_lancer: "Лансер"
+ NEIMOIDIAN_SHIP_CLASS_teroch: "Терох"
+ NEIMOIDIAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ NEIMOIDIAN_SHIP_CLASS_nova_ii: "Нова II"
+ NEIMOIDIAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ NEIMOIDIAN_SHIP_CLASS_velox: "Велокс"
+ NEIMOIDIAN_SHIP_CLASS_mc30c: "MC30c"
+ NEIMOIDIAN_SHIP_CLASS_vengeance: "Месть"
+ NEIMOIDIAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ NEIMOIDIAN_SHIP_CLASS_cc_7700: "CC-7700"
+ NEIMOIDIAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ NEIMOIDIAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ NEIMOIDIAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ NEIMOIDIAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ NEIMOIDIAN_SHIP_CLASS_sabaoth: "Саваоф"
+ NEIMOIDIAN_SHIP_CLASS_kontos: "Контос"
+ NEIMOIDIAN_SHIP_CLASS_mc40: "MC40"
+ NEIMOIDIAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ NEIMOIDIAN_SHIP_CLASS_broadside: "Залп"
+ NEIMOIDIAN_SHIP_CLASS_protector: "Защитник"
+ NEIMOIDIAN_SHIP_CLASS_warlord: "Военачальник"
+ NEIMOIDIAN_SHIP_CLASS_gladiator: "Гладиатор"
+ NEIMOIDIAN_SHIP_CLASS_beviin: "Бевиин"
+ NEIMOIDIAN_SHIP_CLASS_liberator: "Освободитель"
+ NEIMOIDIAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ NEIMOIDIAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ NEIMOIDIAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ NEIMOIDIAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ NEIMOIDIAN_SHIP_CLASS_massias: "Массиас"
+ NEIMOIDIAN_SHIP_CLASS_dreadnought: "Дредноут"
+ NEIMOIDIAN_SHIP_CLASS_kyramud: "Кирамуд"
+ NEIMOIDIAN_SHIP_CLASS_munificent: "Щедрый"
+ NEIMOIDIAN_SHIP_CLASS_prosvoli: "Просволи"
+ NEIMOIDIAN_SHIP_CLASS_acclamator: "Аккламатор"
+ NEIMOIDIAN_SHIP_CLASS_lictor: "Ликтор"
+ NEIMOIDIAN_SHIP_CLASS_bulwark: "Оплот"
+ NEIMOIDIAN_SHIP_CLASS_victory_i: "Победа I"
+ NEIMOIDIAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ NEIMOIDIAN_SHIP_CLASS_bulk: "Массивный"
+ NEIMOIDIAN_SHIP_CLASS_vindicator: "Защитник"
+ NEIMOIDIAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ NEIMOIDIAN_SHIP_CLASS_captor: "Похититель"
+ NEIMOIDIAN_SHIP_CLASS_au_riette: "О'риетт"
+ NEIMOIDIAN_SHIP_CLASS_mc55: "MC55"
+ NEIMOIDIAN_SHIP_CLASS_afthonia: "Афтония"
+ NEIMOIDIAN_SHIP_CLASS_victory_ii: "Победа II"
+ NEIMOIDIAN_SHIP_CLASS_beroya: "Бероя"
+ NEIMOIDIAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ NEIMOIDIAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ NEIMOIDIAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ NEIMOIDIAN_SHIP_CLASS_venator: "Венатор"
+ NEIMOIDIAN_SHIP_CLASS_centurion: "Центурион"
+ NEIMOIDIAN_SHIP_CLASS_mc75: "MC75"
+ NEIMOIDIAN_SHIP_CLASS_kandosii: "Кандосии"
+ NEIMOIDIAN_SHIP_CLASS_corellian: "Кореллианский"
+ NEIMOIDIAN_SHIP_CLASS_providence: "Провидение"
+ NEIMOIDIAN_SHIP_CLASS_syndic: "Синдик"
+ NEIMOIDIAN_SHIP_CLASS_recusant: "Отступник"
+ NEIMOIDIAN_SHIP_CLASS_invincible: "Непобедимый"
+ NEIMOIDIAN_SHIP_CLASS_imperial_i: "Имперский I"
+ NEIMOIDIAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ NEIMOIDIAN_SHIP_CLASS_procursator: "Прокурсатор"
+ NEIMOIDIAN_SHIP_CLASS_mc80a: "MC80a"
+ NEIMOIDIAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ NEIMOIDIAN_SHIP_CLASS_aggressor: "Агрессор"
+ NEIMOIDIAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ NEIMOIDIAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ NEIMOIDIAN_SHIP_CLASS_keldabe: "Келдабе"
+ NEIMOIDIAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ NEIMOIDIAN_SHIP_CLASS_chaf: "Чаф"
+ NEIMOIDIAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ NEIMOIDIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ NEIMOIDIAN_SHIP_CLASS_ascendancy: "Господство"
+ NEIMOIDIAN_SHIP_CLASS_dominator: "Властелин"
+ NEIMOIDIAN_SHIP_CLASS_allegiance: "Верность"
+ NEIMOIDIAN_SHIP_CLASS_lucrehulk: "Барышник"
+ NEIMOIDIAN_SHIP_CLASS_phalanx: "Фаланга"
+ NEIMOIDIAN_SHIP_CLASS_titan: "Титан"
+ NEIMOIDIAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ NEIMOIDIAN_SHIP_CLASS_star_home: "Звездный дом"
+ NEIMOIDIAN_SHIP_CLASS_subjugator: "Покоритель"
+ NEIMOIDIAN_SHIP_CLASS_bellator: "Беллатор"
+ NEIMOIDIAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ NEIMOIDIAN_SHIP_CLASS_executor: "Палач"
+ NEIMOIDIAN_FLEET_battle_group__harbinger_: "Боевая группа «Предвестник»"
+ NEIMOIDIAN_FLEET_battle_group__herald_: "Боевая группа «Вестник»"
+ NEIMOIDIAN_FLEET_battle_group__omen_: "Боевая группа «Омен»"
+ NEIMOIDIAN_FLEET_battle_group__grievance_: "Боевая группа «Жалоба»"
+ NEIMOIDIAN_FLEET_battle_group__resentment_: "Боевая группа «Негодование»"
+ NEIMOIDIAN_FLEET_battle_group__umbrage_: "Боевая группа «Umbrage»"
+ NEIMOIDIAN_FLEET_battle_group__rancor_: "Боевая группа «Ранкор»"
+ NEIMOIDIAN_FLEET_battle_group__vendetta_: "Боевая группа «Вендетта»"
+ NEIMOIDIAN_FLEET_battle_group__nemesis_: "Боевая группа «Немезида»"
+ NEIMOIDIAN_FLEET_battle_group__vengeance_: "Боевая группа «Возмездие»"
+ NEIMOIDIAN_FLEET_battle_group__vindictive_: "Боевая группа «Виндиктив»"
+ NEIMOIDIAN_FLEET_battle_group__retribution_: "Боевая группа «Возмездие»"
+ NEIMOIDIAN_FLEET_battle_group_ORD: "$ORD$ Боевая группа"
+ NEIMOIDIAN_ARMY_gunnery_battalion_ORD: "$ORD$ Артиллерийский батальон"
+ NEIMOIDIAN_ARMY_expeditionary_battalion_ORD: "$ORD$ Экспедиционный батальон"
+ NEIMOIDIAN_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ NEIMOIDIAN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ NEIMOIDIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ NEIMOIDIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ NEIMOIDIAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ NEIMOIDIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ NEIMOIDIAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ NEIMOIDIAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ NEIMOIDIAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ NEIMOIDIAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ NEIMOIDIAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ NEIMOIDIAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ NEIMOIDIAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ NEIMOIDIAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ NEIMOIDIAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ NEIMOIDIAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ NEIMOIDIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ NEIMOIDIAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ NEIMOIDIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ NEIMOIDIAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ NEIMOIDIAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ NEIMOIDIAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ NEIMOIDIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ NEIMOIDIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ NEIMOIDIAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ NEIMOIDIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ NEIMOIDIAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ NEIMOIDIAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ NEIMOIDIAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ NEIMOIDIAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ NEIMOIDIAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ NEIMOIDIAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ NEIMOIDIAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ NEIMOIDIAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ NEIMOIDIAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ NEIMOIDIAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ NEIMOIDIAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ NEIMOIDIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ NEIMOIDIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ NEIMOIDIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ NEIMOIDIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ NEIMOIDIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ NEIMOIDIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ NEIMOIDIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ NEIMOIDIAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ NEIMOIDIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ NEIMOIDIAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ NEIMOIDIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ NEIMOIDIAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ NEIMOIDIAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ NEIMOIDIAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ NEIMOIDIAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ NEIMOIDIAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ NEIMOIDIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ NEIMOIDIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ NEIMOIDIAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ NEIMOIDIAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ NEIMOIDIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ NEIMOIDIAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ NEIMOIDIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ NEIMOIDIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ NEIMOIDIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ NEIMOIDIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ NEIMOIDIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ NEIMOIDIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ NEIMOIDIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ NEIMOIDIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ NEIMOIDIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ NEIMOIDIAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ NEIMOIDIAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ NEIMOIDIAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ NEIMOIDIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ NEIMOIDIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ NEIMOIDIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ NEIMOIDIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ NEIMOIDIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ NEIMOIDIAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ NEIMOIDIAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ NEIMOIDIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ NEIMOIDIAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ NEIMOIDIAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ NEIMOIDIAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ NEIMOIDIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ NEIMOIDIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ NEIMOIDIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ NEIMOIDIAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ NEIMOIDIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ NEIMOIDIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ NEIMOIDIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ NEIMOIDIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ NEIMOIDIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ NEIMOIDIAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ NEIMOIDIAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ NEIMOIDIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ NEIMOIDIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ NEIMOIDIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ NEIMOIDIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ NEIMOIDIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ NEIMOIDIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ NEIMOIDIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ NEIMOIDIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ NEIMOIDIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ NEIMOIDIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ NEIMOIDIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ NEIMOIDIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ NEIMOIDIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ NEIMOIDIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ NEIMOIDIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ NEIMOIDIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ NEIMOIDIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ NEIMOIDIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ NEIMOIDIAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ NEIMOIDIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ NEIMOIDIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ NEIMOIDIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ NEIMOIDIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ NEIMOIDIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ NEIMOIDIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ NEIMOIDIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ NEIMOIDIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ NEIMOIDIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ NEIMOIDIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ NEIMOIDIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ NEIMOIDIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ NEIMOIDIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ NEIMOIDIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ NEIMOIDIAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ NEIMOIDIAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ NEIMOIDIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ NEIMOIDIAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ NEIMOIDIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ NEIMOIDIAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ NEIMOIDIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ NEIMOIDIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ NEIMOIDIAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ NEIMOIDIAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ NEIMOIDIAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ NEIMOIDIAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ NEIMOIDIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ NEIMOIDIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ NEIMOIDIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ NEIMOIDIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ NEIMOIDIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ NEIMOIDIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ NEIMOIDIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ NEIMOIDIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ NEIMOIDIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ NEIMOIDIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ NEIMOIDIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ NEIMOIDIAN_CHR_rune: "Руна"
+ NEIMOIDIAN_CHR_dak_on: "Дак'он"
+ NEIMOIDIAN_CHR_viff: "Вифф"
+ NEIMOIDIAN_CHR_tok: "Ток"
+ NEIMOIDIAN_CHR_plurre: "Плурре"
+ NEIMOIDIAN_CHR_pol: "Пол"
+ NEIMOIDIAN_CHR_borlo: "Борло"
+ NEIMOIDIAN_CHR_hap: "Хэп"
+ NEIMOIDIAN_CHR_vonddado: "Вонддадо"
+ NEIMOIDIAN_CHR_sib: "Сиб"
+ NEIMOIDIAN_CHR_desson: "Дессон"
+ NEIMOIDIAN_CHR_gunaray: "Гунарай"
+ NEIMOIDIAN_CHR_lott: "Лотт"
+ NEIMOIDIAN_CHR_lushros: "Лушрос"
+ NEIMOIDIAN_CHR_jull: "Юлия"
+ NEIMOIDIAN_CHR_fame: "Слава"
+ NEIMOIDIAN_CHR_cathan: "Катан"
+ NEIMOIDIAN_CHR_lok: "Лок"
+ NEIMOIDIAN_CHR_kund: "Кунд"
+ NEIMOIDIAN_CHR_sentepeth: "Сентепет"
+ NEIMOIDIAN_CHR_dif: "Диф"
+ NEIMOIDIAN_CHR_aruteous: "Аритус"
+ NEIMOIDIAN_CHR_rute: "Рут"
+ NEIMOIDIAN_CHR_nute: "Нуте"
+ NEIMOIDIAN_CHR_blox: "Блокс"
+ NEIMOIDIAN_CHR_hazeen: "Хейзин"
+ NEIMOIDIAN_CHR_ko: "Ко"
+ NEIMOIDIAN_CHR_kuto: "Куто"
+ NEIMOIDIAN_CHR_jeek: "Джик"
+ NEIMOIDIAN_CHR_siv: "Сив"
+ NEIMOIDIAN_CHR_yee: "Йи"
+ NEIMOIDIAN_CHR_krett: "Кретт"
+ NEIMOIDIAN_CHR_nap: "Нап"
+ NEIMOIDIAN_CHR_gilramos: "Гилрамос"
+ NEIMOIDIAN_CHR_hath: "Хатх"
+ NEIMOIDIAN_CHR_hallion: "Халлион"
+ NEIMOIDIAN_CHR_gap: "Пробел"
+ NEIMOIDIAN_CHR_usan: "Усан"
+ NEIMOIDIAN_CHR_gren: "Грен"
+ NEIMOIDIAN_CHR_hinv: "Хинв"
+ NEIMOIDIAN_CHR_farge: "Фарге"
+ NEIMOIDIAN_CHR_thoax: "Томакс"
+ NEIMOIDIAN_CHR_budmle: "Будмле"
+ NEIMOIDIAN_CHR_dool: "Дул"
+ NEIMOIDIAN_CHR_sude: "Сюде"
+ NEIMOIDIAN_CHR_mik: "Мик"
+ NEIMOIDIAN_CHR_harro: "Харро"
+ NEIMOIDIAN_CHR_salitt: "Салитт"
+ NEIMOIDIAN_CHR_rers: "Рерс"
+ NEIMOIDIAN_CHR_gode: "Год"
+ NEIMOIDIAN_CHR_treek: "Дерево"
+ NEIMOIDIAN_CHR_toat: "Тоат"
+ NEIMOIDIAN_CHR_tornak: "Торнак"
+ NEIMOIDIAN_CHR_nadrin: "Надрин"
+ NEIMOIDIAN_CHR_nohn: "Нохн"
+ NEIMOIDIAN_CHR_vigro: "Вигро"
+ NEIMOIDIAN_CHR_vuub: "Вууб"
+ NEIMOIDIAN_CHR_vorn: "Ворн"
+ NEIMOIDIAN_CHR_smeer: "Смир"
+ NEIMOIDIAN_CHR_runeto: "Рунето"
+ NEIMOIDIAN_CHR_stonne: "Стоне"
+ NEIMOIDIAN_CHR_ghem: "Гем"
+ NEIMOIDIAN_CHR_lik: "Лик"
+ NEIMOIDIAN_CHR_gama: "Гама"
+ NEIMOIDIAN_CHR_siba: "Сиба"
+ NEIMOIDIAN_CHR_tieka: "Тиека"
+ NEIMOIDIAN_CHR_lufa: "Люфа"
+ NEIMOIDIAN_CHR_igre: "Игре"
+ NEIMOIDIAN_CHR_voak: "Воак"
+ NEIMOIDIAN_CHR_chal: "Чал"
+ NEIMOIDIAN_CHR_onrein: "Онрейн"
+ NEIMOIDIAN_CHR_helbani: "Хелбани"
+ NEIMOIDIAN_CHR_tey: "Они"
+ NEIMOIDIAN_CHR_zey: "Зей"
+ NEIMOIDIAN_CHR_fay: "Фэй"
+ NEIMOIDIAN_CHR_rina: "Рина"
+ NEIMOIDIAN_CHR_zill: "Зилл"
+ NEIMOIDIAN_CHR_aito: "Аит"
+ NEIMOIDIAN_CHR_pawmei: "Паумей"
+ NEIMOIDIAN_CHR_nillia: "Ниллия"
+ NEIMOIDIAN_CHR_yen: "Иена"
+ NEIMOIDIAN_CHR_sanna: "Санна"
+ NEIMOIDIAN_CHR_hin: "Хин"
+ NEIMOIDIAN_CHR_palfa: "Пальфа"
+ NEIMOIDIAN_CHR_pule: "Пул"
+ NEIMOIDIAN_CHR_reya: "Рея"
+ NEIMOIDIAN_CHR_ra: "Ра"
+ NEIMOIDIAN_CHR_shass: "Шасс"
+ NEIMOIDIAN_CHR_tun: "Тун"
+ NEIMOIDIAN_CHR_mar: "Мар"
+ NEIMOIDIAN_CHR_sil: "Сил"
+ NEIMOIDIAN_CHR_vale: "Вейл"
+ NEIMOIDIAN_CHR_veor: "Веор"
+ NEIMOIDIAN_CHR_zeah: "Зеах"
+ NEIMOIDIAN_CHR_kimi_i: "Кими"
+ NEIMOIDIAN_CHR_kiziko: "Кизико"
+ NEIMOIDIAN_CHR_houzika: "Хузика"
+ NEIMOIDIAN_CHR_saita: "Саита"
+ NEIMOIDIAN_CHR_o_ten: "Часто"
+ NEIMOIDIAN_CHR_kutoizi: "Кутоизи"
+ NEIMOIDIAN_CHR_saimya: "Саймья"
+ NEIMOIDIAN_CHR_taiko: "Тайко"
+ NEIMOIDIAN_CHR_silyo: "Сильо"
+ NEIMOIDIAN_CHR_vaiko: "Вайко"
+ NEIMOIDIAN_CHR_maiko: "Майко"
+ NEIMOIDIAN_CHR_raiko: "Райко"
+ NEIMOIDIAN_CHR_iiko: "Иико"
+ NEIMOIDIAN_CHR_tzikazo: "Тициказо"
+ NEIMOIDIAN_CHR_heilin: "Хайлин"
+ NEIMOIDIAN_CHR_sala: "Сала"
+ NEIMOIDIAN_CHR_to_lei: "То Лей"
+ NEIMOIDIAN_CHR_chisen: "Чизен"
+ NEIMOIDIAN_CHR_chulein: "Чулейн"
+ NEIMOIDIAN_CHR_ciar: "Киар"
+ NEIMOIDIAN_CHR_huan: "Хуань"
+ NEIMOIDIAN_CHR_jini: "Джини"
+ NEIMOIDIAN_CHR_kaisea: "Кайси"
+ NEIMOIDIAN_CHR_malai: "Малай"
+ NEIMOIDIAN_CHR_ulaen: "Улаэн"
+ NEIMOIDIAN_CHR_sulaan: "Сулаан"
+ NEIMOIDIAN_CHR_suryo: "Сурьо"
+ NEIMOIDIAN_CHR_tai_yi: "Тайи"
+ NEIMOIDIAN_CHR_tauan: "Тауан"
+ NEIMOIDIAN_CHR_haako: "Хаако"
+ NEIMOIDIAN_CHR_agapoui: "Агапуи"
+ NEIMOIDIAN_CHR_almay: "Алмэй"
+ NEIMOIDIAN_CHR_ankkit: "Анккит"
+ NEIMOIDIAN_CHR_ashel: "Ашель"
+ NEIMOIDIAN_CHR_bankor: "Банкор"
+ NEIMOIDIAN_CHR_barron: "Бэррон"
+ NEIMOIDIAN_CHR_blex: "Блек"
+ NEIMOIDIAN_CHR_brehg: "Брехг"
+ NEIMOIDIAN_CHR_brrimyo: "Бримео"
+ NEIMOIDIAN_CHR_canay: "Канай"
+ NEIMOIDIAN_CHR_dalken: "Далкен"
+ NEIMOIDIAN_CHR_danak: "Данак"
+ NEIMOIDIAN_CHR_demos: "Демо"
+ NEIMOIDIAN_CHR_dod: "Дод"
+ NEIMOIDIAN_CHR_dofine: "Дофайн"
+ NEIMOIDIAN_CHR_dremon: "Дремон"
+ NEIMOIDIAN_CHR_drimal: "Дримал"
+ NEIMOIDIAN_CHR_dru: "Дру"
+ NEIMOIDIAN_CHR_drugindi: "Другинди"
+ NEIMOIDIAN_CHR_durd: "Дерд"
+ NEIMOIDIAN_CHR_duset: "Дусет"
+ NEIMOIDIAN_CHR_ekorr: "Экорр"
+ NEIMOIDIAN_CHR_findos: "Финдос"
+ NEIMOIDIAN_CHR_gehad: "Гехад"
+ NEIMOIDIAN_CHR_geph: "Гепх"
+ NEIMOIDIAN_CHR_groshik: "Грошик"
+ NEIMOIDIAN_CHR_gunnay: "Ганни"
+ NEIMOIDIAN_CHR_haan: "Хаан"
+ NEIMOIDIAN_CHR_hasar: "Хасар"
+ NEIMOIDIAN_CHR_hask: "Хаск"
+ NEIMOIDIAN_CHR_hatha: "Хатха"
+ NEIMOIDIAN_CHR_how: "Как"
+ NEIMOIDIAN_CHR_itub: "Итуб"
+ NEIMOIDIAN_CHR_jaral: "Джарал"
+ NEIMOIDIAN_CHR_kartay: "Картай"
+ NEIMOIDIAN_CHR_kav: "Кав"
+ NEIMOIDIAN_CHR_klewer: "Клевер"
+ NEIMOIDIAN_CHR_laff: "Лафф"
+ NEIMOIDIAN_CHR_lagard: "Лагард"
+ NEIMOIDIAN_CHR_libkath: "Либкат"
+ NEIMOIDIAN_CHR_maccon: "Маккон"
+ NEIMOIDIAN_CHR_moh: "Мох"
+ NEIMOIDIAN_CHR_monchar: "Мончар"
+ NEIMOIDIAN_CHR_nark: "Нарк"
+ NEIMOIDIAN_CHR_niak: "Ниак"
+ NEIMOIDIAN_CHR_nox: "Нокс"
+ NEIMOIDIAN_CHR_nozabuiba: "Нозабуйба"
+ NEIMOIDIAN_CHR_ollin: "Оллин"
+ NEIMOIDIAN_CHR_olpan: "Олпан"
+ NEIMOIDIAN_CHR_orrin: "Оррин"
+ NEIMOIDIAN_CHR_osaax: "Осаак"
+ NEIMOIDIAN_CHR_otbor: "Выбор"
+ NEIMOIDIAN_CHR_proh_ven: "Прохвен"
+ NEIMOIDIAN_CHR_pundar: "Пундар"
+ NEIMOIDIAN_CHR_raalo: "Раало"
+ NEIMOIDIAN_CHR_regrap: "Реграм"
+ NEIMOIDIAN_CHR_shallit: "Шалит"
+ NEIMOIDIAN_CHR_takrab: "Такраб"
+ NEIMOIDIAN_CHR_po: "По"
+ NEIMOIDIAN_CHR_tro: "Тро"
+ NEIMOIDIAN_CHR_unch: "Унч"
+ NEIMOIDIAN_CHR_veyaiko: "Веяйко"
+ NEIMOIDIAN_CHR_zaday: "Задай"
+ NEIMOIDIAN_CHR_ze_trios: "Зе-Триос"

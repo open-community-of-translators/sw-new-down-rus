@@ -1322,7 +1322,7 @@
  NAME_Arrgaw_P1: "Арргау"
  
  #Pax
- NAME_Pax: "Пакс"
+ NAME__pax: "Пакс""Пакс""Пакс"
  NAME_Pax_S: "Пакс"
  NAME_Pax_P1: "Плаген"
  
@@ -1455,7 +1455,7 @@
  NAME_Mennaalii: "Меннаалии"
  NAME_Mennaalii_S: "Меннаалии"
  NAME_Mennaalii_P1: "Меннаалии I"
- NAME_Mennaalii_P2: "Mrlsst"
+ NAME_Mennaalii_P2: "Мрлсст"
  NAME_Mennaalii_P3: "Меннаалии III"
  NAME_Mennaalii_P3_1: "Меннаалии IIIa"
  NAME_Mennaalii_P4: "Меннаалии IV"
@@ -1917,9 +1917,9 @@
  NAME_Ojom_P1: "Оджом"
  
  #Eclipse
- NAME_Eclipse: "Затмить"
- NAME_Eclipse_S: "Эклипс"
- NAME_Eclipse_P1: "Эклипс"
+ NAME_Eclipse: "Затмение"
+ NAME_Eclipse_S: "Затмение"
+ NAME_Eclipse_P1: "Затмение"
  
  #Kalist
  NAME_Kalist: "Калист"
@@ -2390,7 +2390,7 @@
  NAME_N_Zoth_P8: "Ф'танг"
  
  #J«t»p'tan
- NAME_J_T_P_Tan: "Дж«т»п'тан"
+ NAME_J_T_P_Tan: "Дж'т'п'тан"
  NAME_J_T_P_Tan_S: "Доорник-628"
  NAME_J_T_P_Tan_P1: "Доорник-628A"
  NAME_J_T_P_Tan_P1_1: "Доорник-628A I"
@@ -2399,7 +2399,7 @@
  NAME_J_T_P_Tan_P3: "Доорник-628C"
  NAME_J_T_P_Tan_P4: "Пехзехвар"
  NAME_J_T_P_Tan_P4_1: "Пехзехвар-I"
- NAME_J_T_P_Tan_P5: "Дж«т»п'тан"
+ NAME_J_T_P_Tan_P5: "Дж'т'п'тан"
  NAME_J_T_P_Tan_P6: "Доорник-628F"
  NAME_J_T_P_Tan_P6_1: "Доорник-628F I"
  NAME_J_T_P_Tan_P6_2: "Доорник-628F II"
@@ -8454,9 +8454,9 @@
  NAME_New_Balosar_P1: "Новый Балосар"
  
  #Noe«ha»on
- NAME_Noe_Ha_On: "Ное«ха»он"
- NAME_Noe_Ha_On_S: "Ное«ха»он"
- NAME_Noe_Ha_On_P1: "Ное«ха»он"
+ NAME_Noe_Ha_On: "Ное'ха'он"
+ NAME_Noe_Ha_On_S: "Ное'ха'он"
+ NAME_Noe_Ha_On_P1: "Ное'ха'он"
  
  #Natalon
  NAME_Natalon: "Наталон"
@@ -10143,26 +10143,26 @@
  NAME_Morlani_P4: "Морлана IV"
  NAME_Morlani_P5: "Феррикс"
  NAME_Morlani_P5_1: "Луна Феррикса"
-  
+ 
  #Aldhani 
  NAME_Aldhani: "Альдхани"
  NAME_Aldhani_S: "Альдхани"
  NAME_Aldhani_P1: "Альдхани"
  NAME_Aldhani_P1_1: "Луна Альдхани I"
  NAME_Aldhani_P1_2: "Луна Альдхани II"
-  
+ 
  #Pabu 
  NAME_Pabu: "Пабу"
  NAME_Pabu_S: "Пабу"
  NAME_Pabu_P1: "Пабу"
  NAME_Pabu_P1_1: "Луна Пабу"
-  
+ 
  #Koboh 
  NAME_Koboh: "Кобо"
  NAME_Koboh_S: "Кобо"
  NAME_Koboh_P1: "Кобо"
  NAME_Koboh_P1_1: "Расколотая луна"
-  
+ 
  #Koboh Abyss 
  NAME_Koboh_Abyss: "Бездна Кобо"
  NAME_Koboh_Abyss_S: "Бездна Кобо"

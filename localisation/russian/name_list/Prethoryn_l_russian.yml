@@ -1,652 +1,652 @@
 ﻿l_russian:
-	PRETHORYN_SHIP_agony_s_child: "Agony's Child" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blade: "Blade" #!Empty_LineInfo!
-	PRETHORYN_SHIP_of: "of" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sacrifice: "Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fu_ulanh: "Fu'ulanh" #!Empty_LineInfo!
-	PRETHORYN_SHIP_keeper: "Keeper" #!Empty_LineInfo!
-	PRETHORYN_SHIP_kur_hashan: "Kur-hashan" #!Empty_LineInfo!
-	PRETHORYN_SHIP_lowca: "Lowca" #!Empty_LineInfo!
-	PRETHORYN_SHIP_noble_sacrifice: "Noble Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_realm_of_death: "Realm of Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_red_qurang: "Red Qurang" #!Empty_LineInfo!
-	PRETHORYN_SHIP_river_of_blood: "River of Blood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_serpent_s_kiss: "Serpent's Kiss" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slayer_s_conceit: "Slayer's Conceit" #!Empty_LineInfo!
-	PRETHORYN_SHIP_throat_slasher: "Throat Slasher" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yammka_s_mount: "Yammka's Mount" #!Empty_LineInfo!
-	PRETHORYN_SHIP_collaborator: "Collaborator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stalking_moon: "Stalking Moon" #!Empty_LineInfo!
-	PRETHORYN_SHIP_chreche: "Chreche" #!Empty_LineInfo!
-	PRETHORYN_SHIP_legacy_of_torment: "Legacy of Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_exquisite_death: "Exquisite Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_kratak: "Kratak" #!Empty_LineInfo!
-	PRETHORYN_SHIP_burning_pride: "Burning Pride" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yammka: "Yammka" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gift_of_anguish: "Gift of Anguish" #!Empty_LineInfo!
-	PRETHORYN_SHIP_kusurrun: "Kusurrun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
-	PRETHORYN_SHIP_trickster: "Trickster" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heart_of_artorias: "Heart of Artorias" #!Empty_LineInfo!
-	PRETHORYN_SHIP_maledoth: "Maledoth" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sacred_pyre: "Sacred Pyre" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sunulok: "Sunulok" #!Empty_LineInfo!
-	PRETHORYN_SHIP_guttural: "Guttural" #!Empty_LineInfo!
-	PRETHORYN_SHIP_decapitator: "Decapitator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gleeful_cut: "Gleeful Cut" #!Empty_LineInfo!
-	PRETHORYN_SHIP_beautiful_agony: "Beautiful Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_suffering_eternal: "Suffering Eternal" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tortured_bliss: "Tortured Bliss" #!Empty_LineInfo!
-	PRETHORYN_SHIP_glory_of_grief: "Glory of Grief" #!Empty_LineInfo!
-	PRETHORYN_SHIP_griefdrinker: "Griefdrinker" #!Empty_LineInfo!
-	PRETHORYN_SHIP_affliction_of_penance: "Affliction of Penance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_traumatic_edge: "Traumatic Edge" #!Empty_LineInfo!
-	PRETHORYN_SHIP_jagged_edge: "Jagged Edge" #!Empty_LineInfo!
-	PRETHORYN_SHIP_weeping_blade: "Weeping Blade" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fang_of_torment: "Fang of Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tormentor_s_brand: "Tormentor's Brand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_misery: "Misery" #!Empty_LineInfo!
-	PRETHORYN_SHIP_misery_s_companion: "Misery's Companion" #!Empty_LineInfo!
-	PRETHORYN_SHIP_consort_of_misery: "Consort of Misery" #!Empty_LineInfo!
-	PRETHORYN_SHIP_follower_of_pain: "Follower of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_path_of_pain: "Path of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_woe_letter: "Woe-letter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tide_of_tears: "Tide of Tears" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mortal_end: "Mortal End" #!Empty_LineInfo!
-	PRETHORYN_SHIP_valorant_scar: "Valorant Scar" #!Empty_LineInfo!
-	PRETHORYN_SHIP_crimson_scar: "Crimson Scar" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ritual: "Ritual" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heretic_s_end: "Heretic's End" #!Empty_LineInfo!
-	PRETHORYN_SHIP_purifier: "Purifier" #!Empty_LineInfo!
-	PRETHORYN_SHIP_purger: "Purger" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_tchilat: "Yun'tchilat" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nom_o_tu_tchilat: "Nom'o-tu tchilat" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_yuuzhan: "Yun-Yuuzhan" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sos_nom_o: "Sos Nom'o" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yenagh_o_nom_o: "Yenagh'o Nom'o" #!Empty_LineInfo!
-	PRETHORYN_SHIP_knotte_yun_o: "Knotte Yun'o" #!Empty_LineInfo!
-	PRETHORYN_SHIP_al_tanna: "Al'tanna" #!Empty_LineInfo!
-	PRETHORYN_SHIP_belek: "Belek" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bos_sos: "Bos sos" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brenzlit: "Brenzlit" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bruk_tukken: "Bruk Tukken" #!Empty_LineInfo!
-	PRETHORYN_SHIP_al_tanna_brenzlit: "Al'tanna Brenzlit" #!Empty_LineInfo!
-	PRETHORYN_SHIP_do_ro_ik: "Do-ro'ik" #!Empty_LineInfo!
-	PRETHORYN_SHIP_duwin: "Duwin" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fy_y_roog: "Fy'y Roog" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gadma_dar: "Gadma dar" #!Empty_LineInfo!
-	PRETHORYN_SHIP_grishna: "Grishna" #!Empty_LineInfo!
-	PRETHORYN_SHIP_br_rok: "Br'rok" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ukal_hai: "Ukal-hai" #!Empty_LineInfo!
-	PRETHORYN_SHIP_osam_ga_akren: "Osam'ga Akren" #!Empty_LineInfo!
-	PRETHORYN_SHIP_akri: "Akri" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vushta: "Vushta" #!Empty_LineInfo!
-	PRETHORYN_SHIP_guvvuk: "Guvvuk" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hrosha_gul: "Hrosha-Gul" #!Empty_LineInfo!
-	PRETHORYN_SHIP_price_of_pain: "Price of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hu_carjen_tok: "Hu-carjen Tok" #!Empty_LineInfo!
-	PRETHORYN_SHIP_izai: "Izai" #!Empty_LineInfo!
-	PRETHORYN_SHIP_khattazz: "Khattazz" #!Empty_LineInfo!
-	PRETHORYN_SHIP_krel_os_a: "Krel os'a" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hmi_va_ta: "Hmi Va Ta" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mon_mawl_rrish: "Mon-Mawl Rrish" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nang_hul: "Nang Hul" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pazhkic: "Pazhkic" #!Empty_LineInfo!
-	PRETHORYN_SHIP_qorih: "Qorih" #!Empty_LineInfo!
-	PRETHORYN_SHIP_remaga: "Remaga" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rrush_hok: "Rrush'hok" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ichnar: "Ichnar" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vinim_hok: "Vinim'hok" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_shuno: "Yun-Shuno" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sha_grunnik: "Sha Grunnik" #!Empty_LineInfo!
-	PRETHORYN_SHIP_skerr: "Skerr" #!Empty_LineInfo!
-	PRETHORYN_SHIP_kyrric: "Kyrric" #!Empty_LineInfo!
-	PRETHORYN_SHIP_taan_yun_forqana_zhoi: "Taan Yun-forqana Zhoi" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tizo_pil_yun_tchilat: "Tizo'pil Yun'tchilat" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tsaisi: "Tsaisi" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tssi_dau: "Tssi dau" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tchurokk: "Tchurokk" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tchurrok_tiz: "Tchurrok'tiz" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tu_q: "Tu'q" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ukla_na: "Ukla-na" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vissa_crai: "Vissa Crai" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_yammka: "Yun-Yammka" #!Empty_LineInfo!
-	PRETHORYN_SHIP_anger_in_pride: "Anger in Pride" #!Empty_LineInfo!
-	PRETHORYN_SHIP_viccae: "Viccae" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yadag_dakl: "Yadag dakl" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun: "Yun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_great_one: "Great One" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_o: "Yun'o" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_harla: "Yun-Harla" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_ne_shel: "Yun-Ne'Shel" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_txiin: "Yun-Txiin" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yun_q_aah: "Yun-Q'aah" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yuth_ugg: "Yuth Ugg" #!Empty_LineInfo!
-	PRETHORYN_SHIP_zhaelor: "Zhaelor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_truth: "Truth" #!Empty_LineInfo!
-	PRETHORYN_SHIP_zhaetor_zhae: "Zhaetor-zhae" #!Empty_LineInfo!
-	PRETHORYN_SHIP_glory: "Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_harla: "Harla" #!Empty_LineInfo!
-	PRETHORYN_SHIP_khot: "Khot" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nom: "Nom" #!Empty_LineInfo!
-	PRETHORYN_SHIP_jeedai_q_aah: "Jeedai Q'aah" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sor_jeedai: "Sor Jeedai" #!Empty_LineInfo!
-	PRETHORYN_SHIP_appropriate_submission: "Appropriate Submission" #!Empty_LineInfo!
-	PRETHORYN_SHIP_willing_submission: "Willing Submission" #!Empty_LineInfo!
-	PRETHORYN_SHIP_embrace_of_pain: "Embrace of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_suffering_s_embrace: "Suffering's Embrace" #!Empty_LineInfo!
-	PRETHORYN_SHIP_exacting_suffering: "Exacting Suffering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_unmasker: "Unmasker" #!Empty_LineInfo!
-	PRETHORYN_SHIP_first_of_the_living: "First of the Living" #!Empty_LineInfo!
-	PRETHORYN_SHIP_last_of_the_dead: "Last of the Dead" #!Empty_LineInfo!
-	PRETHORYN_SHIP_will_to_power: "Will to Power" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wretched_peace: "Wretched Peace" #!Empty_LineInfo!
-	PRETHORYN_SHIP_inevitable_dominance: "Inevitable Dominance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_affliction_of_redress: "Affliction of Redress" #!Empty_LineInfo!
-	PRETHORYN_SHIP_throes_of_agony: "Throes of Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brand_of_wretches: "Brand of Wretches" #!Empty_LineInfo!
-	PRETHORYN_SHIP_glorious_torment: "Glorious Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pain_letter: "Pain-letter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_amputator: "Amputator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slice_of_torment: "Slice of Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pangs_of_conquest: "Pangs of Conquest" #!Empty_LineInfo!
-	PRETHORYN_SHIP_labor_of_strain: "Labor of Strain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_strain_of_war: "Strain of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_burning_blade: "Burning Blade" #!Empty_LineInfo!
-	PRETHORYN_SHIP_inferno_of_exultation: "Inferno of Exultation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stinging_exhortation: "Stinging Exhortation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gleeful_burn: "Gleeful Burn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gleeful_sting: "Gleeful Sting" #!Empty_LineInfo!
-	PRETHORYN_SHIP_willing_victim: "Willing Victim" #!Empty_LineInfo!
-	PRETHORYN_SHIP_willing_sufferance: "Willing Sufferance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_servant_of_pain: "Servant of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_aching_torment: "Aching Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_twin_aches: "Twin Aches" #!Empty_LineInfo!
-	PRETHORYN_SHIP_chronic_sufferer: "Chronic Sufferer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sorrow_of_tomorrow: "Sorrow of Tomorrow" #!Empty_LineInfo!
-	PRETHORYN_SHIP_griefbound: "Griefbound" #!Empty_LineInfo!
-	PRETHORYN_SHIP_griefstricken: "Griefstricken" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blinding_claw: "Blinding Claw" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rending_hand: "Rending Hand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_crimson_render: "Crimson Render" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yearning_of_pennance: "Yearning of Pennance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_zonoma: "Zonoma" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sekot: "Sekot" #!Empty_LineInfo!
-	PRETHORYN_SHIP_seed_of_hatred: "Seed of Hatred" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stricken: "Stricken" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pain_stricken: "Pain Stricken" #!Empty_LineInfo!
-	PRETHORYN_SHIP_striking_blow: "Striking Blow" #!Empty_LineInfo!
-	PRETHORYN_SHIP_twin_hungers: "Twin Hungers" #!Empty_LineInfo!
-	PRETHORYN_SHIP_glutton_of_punishment: "Glutton of Punishment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_punishing_one: "Punishing One" #!Empty_LineInfo!
-	PRETHORYN_SHIP_dolorous_bell: "Dolorous Bell" #!Empty_LineInfo!
-	PRETHORYN_SHIP_dirge_of_affliction: "Dirge of Affliction" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wretched_endurance: "Wretched Endurance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_forebearance_of_misery: "Forebearance of Misery" #!Empty_LineInfo!
-	PRETHORYN_SHIP_subjected_one: "Subjected One" #!Empty_LineInfo!
-	PRETHORYN_SHIP_deserving: "Deserving" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ectasy_of_torment: "Ectasy of Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_soul_angst: "Soul Angst" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blossom_of_abuse: "Blossom of Abuse" #!Empty_LineInfo!
-	PRETHORYN_SHIP_open_wound: "Open Wound" #!Empty_LineInfo!
-	PRETHORYN_SHIP_harsh_treatment: "Harsh Treatment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_prayer_of_the_guilty: "Prayer of the Guilty" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rightful_pennance: "Rightful Pennance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_righteous_suffering: "Righteous Suffering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_righteous_agony: "Righteous Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_martyr_of_glory: "Martyr of Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ache_of_the_martyr: "Ache of the Martyr" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bane_of_the_souless: "Bane of the Souless" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brand_of_the_soul: "Brand of the Soul" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mark_of_the_martyr: "Mark of the Martyr" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heart_of_the_penitent: "Heart of the Penitent" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hilt_of_the_dying: "Hilt of the Dying" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gravebound: "Gravebound" #!Empty_LineInfo!
-	PRETHORYN_SHIP_burial_shroud: "Burial Shroud" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pyre_of_the_faithful: "Pyre of the Faithful" #!Empty_LineInfo!
-	PRETHORYN_SHIP_immolation_of_the_willing: "Immolation of the Willing" #!Empty_LineInfo!
-	PRETHORYN_SHIP_immolating_hand: "Immolating Hand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_charred_fist: "Charred Fist" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gouger: "Gouger" #!Empty_LineInfo!
-	PRETHORYN_SHIP_world_breaker: "World Breaker" #!Empty_LineInfo!
-	PRETHORYN_SHIP_living_burial: "Living Burial" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scent_of_the_fearful: "Scent of the Fearful" #!Empty_LineInfo!
-	PRETHORYN_SHIP_strength_of_the_fearless: "Strength of the Fearless" #!Empty_LineInfo!
-	PRETHORYN_SHIP_offering_of_the_flesh: "Offering of the Flesh" #!Empty_LineInfo!
-	PRETHORYN_SHIP_willing_sacrifice: "Willing Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_torturous_atonement: "Torturous Atonement" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mask_of_the_faithful: "Mask of the Faithful" #!Empty_LineInfo!
-	PRETHORYN_SHIP_woe_of_the_misbegotten: "Woe of the Misbegotten" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heresy_s_destruction: "Heresy's Destruction" #!Empty_LineInfo!
-	PRETHORYN_SHIP_end_of_tolerance: "End of Tolerance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_skinning_hand: "Skinning Hand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tearing_fang: "Tearing Fang" #!Empty_LineInfo!
-	PRETHORYN_SHIP_manhewer: "Manhewer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flesh_hewer: "Flesh Hewer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_feast_of_bones: "Feast of Bones" #!Empty_LineInfo!
-	PRETHORYN_SHIP_crucifier: "Crucifier" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brass_bull: "Brass Bull" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mutilator: "Mutilator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_offspring_of_mutiliation: "Offspring of Mutiliation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bounty_of_mutilation: "Bounty of Mutilation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_child_of_the_maimed: "Child of the Maimed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_god_maimed: "God-maimed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_maimed_feast: "Maimed Feast" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pleasure_of_the_mutilator: "Pleasure of the Mutilator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_song_of_the_mutilated: "Song of the Mutilated" #!Empty_LineInfo!
-	PRETHORYN_SHIP_dismembered_glory: "Dismembered Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_memory_of_dismemberment: "Memory of Dismemberment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sterilizer: "Sterilizer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_castrator: "Castrator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_castrating_fire: "Castrating Fire" #!Empty_LineInfo!
-	PRETHORYN_SHIP_folly_of_desecration: "Folly of Desecration" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hubris_of_pleasure: "Hubris of Pleasure" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vanity_of_health: "Vanity of Health" #!Empty_LineInfo!
-	PRETHORYN_SHIP_feast_of_heretics: "Feast of Heretics" #!Empty_LineInfo!
-	PRETHORYN_SHIP_man_peeler: "Man Peeler" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tanner_of_men: "Tanner of Men" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flayer: "Flayer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_secret_of_the_flayed: "Secret of the Flayed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_twilight_flaying: "Twilight Flaying" #!Empty_LineInfo!
-	PRETHORYN_SHIP_deserving_flayed: "Deserving Flayed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_relish_of_the_flayed: "Relish of the Flayed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flayed_one: "Flayed One" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flayed_secret: "Flayed Secret" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flaying_blade: "Flaying Blade" #!Empty_LineInfo!
-	PRETHORYN_SHIP_viscera_of_health: "Viscera of Health" #!Empty_LineInfo!
-	PRETHORYN_SHIP_clean_hunt: "Clean Hunt" #!Empty_LineInfo!
-	PRETHORYN_SHIP_clean_death: "Clean Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heirloom_of_sufferance: "Heirloom of Sufferance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_promise_to_heathens: "Promise to Heathens" #!Empty_LineInfo!
-	PRETHORYN_SHIP_denial_of_the_tolerant: "Denial of the Tolerant" #!Empty_LineInfo!
-	PRETHORYN_SHIP_unerring_justice: "Unerring Justice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nom_anor: "Nom Anor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_chain_of_marrow: "Chain of Marrow" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vein_letter: "Vein Letter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vanity_of_the_meek: "Vanity of the Meek" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pomposity_of_the_servile: "Pomposity of the Servile" #!Empty_LineInfo!
-	PRETHORYN_SHIP_unending_sacrifice: "Unending Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_eternal_reward: "Eternal Reward" #!Empty_LineInfo!
-	PRETHORYN_SHIP_perpetuation_of_pain: "Perpetuation of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_triumph_of_trauma: "Triumph of Trauma" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fearful_demise: "Fearful Demise" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nameless_grave: "Nameless Grave" #!Empty_LineInfo!
-	PRETHORYN_SHIP_deliverance_of_the_crypt: "Deliverance of the Crypt" #!Empty_LineInfo!
-	PRETHORYN_SHIP_charnel_house: "Charnel House" #!Empty_LineInfo!
-	PRETHORYN_SHIP_abattoir: "Abattoir" #!Empty_LineInfo!
-	PRETHORYN_SHIP_necessary_slaughter: "Necessary Slaughter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_glory_of_the_slaughter: "Glory of the Slaughter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slaughtered_road: "Slaughtered Road" #!Empty_LineInfo!
-	PRETHORYN_SHIP_red_slaughter: "Red Slaughter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wasteless_butcher: "Wasteless Butcher" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fair_butchery: "Fair Butchery" #!Empty_LineInfo!
-	PRETHORYN_SHIP_butcher_of_chazrach: "Butcher of Chazrach" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fate_of_the_abominable: "Fate of the Abominable" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ancestral_animate: "Ancestral Animate" #!Empty_LineInfo!
-	PRETHORYN_SHIP_living_glory: "Living Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cremlevian_crucible: "Cremlevian Crucible" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fire_of_cremlevia: "Fire of Cremlevia" #!Empty_LineInfo!
-	PRETHORYN_SHIP_severer: "Severer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sevrance: "Sevrance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yo_gand: "Yo'gand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_steng: "Steng" #!Empty_LineInfo!
-	PRETHORYN_SHIP_master_of_war: "Master of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bone_of_ygziir: "Bone of Ygziir" #!Empty_LineInfo!
-	PRETHORYN_SHIP_overship: "Overship" #!Empty_LineInfo!
-	PRETHORYN_SHIP_quoreal: "Quoreal" #!Empty_LineInfo!
-	PRETHORYN_SHIP_place_of_the_intendant: "Place of the Intendant" #!Empty_LineInfo!
-	PRETHORYN_SHIP_dangerous_game: "Dangerous Game" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ancestor_s_watch: "Ancestor's Watch" #!Empty_LineInfo!
-	PRETHORYN_SHIP_forerunner_s_pride: "Forerunner's Pride" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pride_of_the_precursors: "Pride of the Precursors" #!Empty_LineInfo!
-	PRETHORYN_SHIP_forebearer_s_lesson: "Forebearer's Lesson" #!Empty_LineInfo!
-	PRETHORYN_SHIP_knowledge_of_the_before: "Knowledge of the Before" #!Empty_LineInfo!
-	PRETHORYN_SHIP_puzzle_of_war: "Puzzle of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_longing_of_battle: "Longing of Battle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_journey_s_end: "Journey's End" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sighted_providence: "Sighted Providence" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rightful_inheritance: "Rightful Inheritance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mantle_of_purification: "Mantle of Purification" #!Empty_LineInfo!
-	PRETHORYN_SHIP_responsibility_of_the_pure: "Responsibility of the Pure" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brand_of_the_unscarred: "Brand of the Unscarred" #!Empty_LineInfo!
-	PRETHORYN_SHIP_deserving_ruination: "Deserving Ruination" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ruin_of_the_souless: "Ruin of the Souless" #!Empty_LineInfo!
-	PRETHORYN_SHIP_exhultant_scream: "Exhultant Scream" #!Empty_LineInfo!
-	PRETHORYN_SHIP_piercing_cry: "Piercing Cry" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tearful_wail: "Tearful Wail" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mournful_ectasy: "Mournful Ectasy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_joy_of_agony: "Joy of Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_joyous_death: "Joyous Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bonfire_of_the_joyful: "Bonfire of the Joyful" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scarred_discerner: "Scarred Discerner" #!Empty_LineInfo!
-	PRETHORYN_SHIP_choir_of_the_agonized: "Choir of the Agonized" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sea_of_tears: "Sea of Tears" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bloodborne: "Bloodborne" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bloodmoore: "Bloodmoore" #!Empty_LineInfo!
-	PRETHORYN_SHIP_thunder_and_blood: "Thunder and Blood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sacrifice_of_blood: "Sacrifice of Blood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_extinguisher: "Extinguisher" #!Empty_LineInfo!
-	PRETHORYN_SHIP_death_of_the_deserving: "Death of the Deserving" #!Empty_LineInfo!
-	PRETHORYN_SHIP_striving_perfection: "Striving Perfection" #!Empty_LineInfo!
-	PRETHORYN_SHIP_merit_of_war: "Merit of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gift_of_the_above: "Gift of the Above" #!Empty_LineInfo!
-	PRETHORYN_SHIP_symbiotic_hatred: "Symbiotic Hatred" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mirror_of_the_embittered: "Mirror of the Embittered" #!Empty_LineInfo!
-	PRETHORYN_SHIP_smile_of_the_whip: "Smile of the Whip" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ectasy_of_the_lashed: "Ectasy of the Lashed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_lash_of_the_heretic: "Lash of the Heretic" #!Empty_LineInfo!
-	PRETHORYN_SHIP_flesh_of_the_scourge: "Flesh of the Scourge" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ritual_consumer: "Ritual Consumer" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bountiful_harvest: "Bountiful Harvest" #!Empty_LineInfo!
-	PRETHORYN_SHIP_in_fetters_clad: "In Fetters Clad" #!Empty_LineInfo!
-	PRETHORYN_SHIP_end_of_the_line: "End of the Line" #!Empty_LineInfo!
-	PRETHORYN_SHIP_circle_of_war: "Circle of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sphere_of_conflict: "Sphere of Conflict" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nature_of_struggle: "Nature of Struggle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_natural_struggle: "Natural Struggle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_struggle_of_supremacy: "Struggle of Supremacy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_outcome_of_struggle: "Outcome of Struggle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_reward_of_struggle: "Reward of Struggle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warring_feast: "Warring Feast" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hammerer_of_the_infidel: "Hammerer of the Infidel" #!Empty_LineInfo!
-	PRETHORYN_SHIP_infidel_s_bane: "Infidel's Bane" #!Empty_LineInfo!
-	PRETHORYN_SHIP_god_of_war: "God of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_war_goddess: "War Goddess" #!Empty_LineInfo!
-	PRETHORYN_SHIP_terror_drinker: "Terror Drinker" #!Empty_LineInfo!
-	PRETHORYN_SHIP_terror_of_the_damned: "Terror of the Damned" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rebuking_hand: "Rebuking Hand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_clenched_fist_of_perdition: "Clenched Fist of Perdition" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bone_sworn: "Bone Sworn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scar_sworn: "Scar Sworn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_godsworn: "Godsworn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_forsworn: "Forsworn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bong_voyage: "Bong Voyage" #!Empty_LineInfo!
-	PRETHORYN_SHIP_grik_tal: "Grik Tal" #!Empty_LineInfo!
-	PRETHORYN_SHIP_memory_of_the_seas: "Memory of the Seas" #!Empty_LineInfo!
-	PRETHORYN_SHIP_dream_of_the_mountains: "Dream of the Mountains" #!Empty_LineInfo!
-	PRETHORYN_SHIP_prophecy_of_the_sky: "Prophecy of the Sky" #!Empty_LineInfo!
-	PRETHORYN_SHIP_castigation_of_the_impure: "Castigation of the Impure" #!Empty_LineInfo!
-	PRETHORYN_SHIP_castigating_fire: "Castigating Fire" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blade_of_revocation: "Blade of Revocation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spear_of_the_warrior: "Spear of the Warrior" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heart_of_the_warrior: "Heart of the Warrior" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warrior_s_honor: "Warrior's Honor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_caste_sworn: "Caste Sworn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_claimiant_of_the_lost: "Claimiant of the Lost" #!Empty_LineInfo!
-	PRETHORYN_SHIP_journeyed_claimant: "Journeyed Claimant" #!Empty_LineInfo!
-	PRETHORYN_SHIP_image_of_pain: "Image of Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_lash_of_the_beloved: "Lash of the Beloved" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tender_torment: "Tender Torment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_joy_of_submission: "Joy of Submission" #!Empty_LineInfo!
-	PRETHORYN_SHIP_lifekeeper: "Lifekeeper" #!Empty_LineInfo!
-	PRETHORYN_SHIP_debt_of_blood: "Debt of Blood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_breath_of_the_hallowed: "Breath of the Hallowed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tide_of_woe: "Tide of Woe" #!Empty_LineInfo!
-	PRETHORYN_SHIP_root_of_terror: "Root of Terror" #!Empty_LineInfo!
-	PRETHORYN_SHIP_uzhai_vuu: "Uzhai Vuu" #!Empty_LineInfo!
-	PRETHORYN_SHIP_kyenyuu_varu: "Kyenyuu Varu" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vrok_shi_rot_kyu: "Vrok Shi Rot'kyu" #!Empty_LineInfo!
-	PRETHORYN_SHIP_va_nang_krel: "Va Nang Krel" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sightblinder: "Sightblinder" #!Empty_LineInfo!
-	PRETHORYN_SHIP_barbed_purity: "Barbed Purity" #!Empty_LineInfo!
-	PRETHORYN_SHIP_splinter_of_bone: "Splinter of Bone" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cruel_dominion: "Cruel Dominion" #!Empty_LineInfo!
-	PRETHORYN_SHIP_penalty_of_the_divine: "Penalty of the Divine" #!Empty_LineInfo!
-	PRETHORYN_SHIP_divine_punishment: "Divine Punishment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wordless_roar: "Wordless Roar" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spasm_of_retort: "Spasm of Retort" #!Empty_LineInfo!
-	PRETHORYN_SHIP_voxyn: "Voxyn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spur_of_the_faithless: "Spur of the Faithless" #!Empty_LineInfo!
-	PRETHORYN_SHIP_paradise_won: "Paradise Won" #!Empty_LineInfo!
-	PRETHORYN_SHIP_promised_land: "Promised Land" #!Empty_LineInfo!
-	PRETHORYN_SHIP_thus_to_unbelievers: "Thus to Unbelievers" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rage_of_the_fallen: "Rage of the Fallen" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fist_of_the_yun: "Fist of the Yun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spirit_of_the_yun: "Spirit of the Yun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warchild: "Warchild" #!Empty_LineInfo!
-	PRETHORYN_SHIP_seed_of_destruction: "Seed of Destruction" #!Empty_LineInfo!
-	PRETHORYN_SHIP_seed_of_rebirth: "Seed of Rebirth" #!Empty_LineInfo!
-	PRETHORYN_SHIP_righteous_obedience: "Righteous Obedience" #!Empty_LineInfo!
-	PRETHORYN_SHIP_barbed_fist_of_yun: "Barbed Fist of Yun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_striking_adder: "Striking Adder" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sacred_agony: "Sacred Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_child_of_agony: "Child of Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heavenly_affliction: "Heavenly Affliction" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spiked_exhortation: "Spiked Exhortation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_impaled_promise: "Impaled Promise" #!Empty_LineInfo!
-	PRETHORYN_SHIP_impaled_glory: "Impaled Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_on_impaled_wings: "On Impaled Wings" #!Empty_LineInfo!
-	PRETHORYN_SHIP_holy_impaler: "Holy Impaler" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pinning_beast: "Pinning Beast" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gored_fang_of_yun_harla: "Gored Fang of Yun-Harla" #!Empty_LineInfo!
-	PRETHORYN_SHIP_czulkang_lah: "Czulkang Lah" #!Empty_LineInfo!
-	PRETHORYN_SHIP_exalted_barb: "Exalted Barb" #!Empty_LineInfo!
-	PRETHORYN_SHIP_relished_feast: "Relished Feast" #!Empty_LineInfo!
-	PRETHORYN_SHIP_offering_of_flesh: "Offering of Flesh" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ritual_of_the_willing: "Ritual of the Willing" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scalded_offering: "Scalded Offering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_immolated_offering: "Immolated Offering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_gallant_heart: "Gallant Heart" #!Empty_LineInfo!
-	PRETHORYN_SHIP_unyielding_persecutor: "Unyielding Persecutor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blinding_pressure: "Blinding Pressure" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bounded_suffering: "Bounded Suffering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_lash_of_the_above: "Lash of the Above" #!Empty_LineInfo!
-	PRETHORYN_SHIP_nurtured_wrath: "Nurtured Wrath" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pinned_hope: "Pinned Hope" #!Empty_LineInfo!
-	PRETHORYN_SHIP_chains_of_the_nonbeliever: "Chains of the Nonbeliever" #!Empty_LineInfo!
-	PRETHORYN_SHIP_breaker_of_sin: "Breaker of Sin" #!Empty_LineInfo!
-	PRETHORYN_SHIP_willingly_offered: "Willingly Offered" #!Empty_LineInfo!
-	PRETHORYN_SHIP_coral_of_control: "Coral of Control" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slaughter_of_the_shamed: "Slaughter of the Shamed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_end_of_the_shamed: "End of the Shamed" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spiked_embrace: "Spiked Embrace" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rended_brood: "Rended Brood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_exalted_pilgrim: "Exalted Pilgrim" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brother_of_war: "Brother of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warsister: "Warsister" #!Empty_LineInfo!
-	PRETHORYN_SHIP_word_of_the_brave: "Word of the Brave" #!Empty_LineInfo!
-	PRETHORYN_SHIP_final_word: "Final Word" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blessed_death: "Blessed Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_final_blessing: "Final Blessing" #!Empty_LineInfo!
-	PRETHORYN_SHIP_daughter_of_blades: "Daughter of Blades" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scarlet_hunter: "Scarlet Hunter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_crimson_spine: "Crimson Spine" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spire_of_agony: "Spire of Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_victory_s_hilt: "Victory's Hilt" #!Empty_LineInfo!
-	PRETHORYN_SHIP_trickster_s_daughter: "Trickster's Daughter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_loving_eye: "Loving Eye" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blood_of_the_brood: "Blood of the Brood" #!Empty_LineInfo!
-	PRETHORYN_SHIP_voided_light: "Voided Light" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blissful_end: "Blissful End" #!Empty_LineInfo!
-	PRETHORYN_SHIP_barbed_bliss: "Barbed Bliss" #!Empty_LineInfo!
-	PRETHORYN_SHIP_fervor_of_belief: "Fervor of Belief" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stricken_of_doubt: "Stricken of Doubt" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cleansed_of_fear: "Cleansed of Fear" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slayer_s_hound: "Slayer's Hound" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scouring_implement: "Scouring Implement" #!Empty_LineInfo!
-	PRETHORYN_SHIP_forced_peace: "Forced Peace" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cradle_of_sight: "Cradle of Sight" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cradle_of_power: "Cradle of Power" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wild_hunt: "Wild Hunt" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wild_abandon: "Wild Abandon" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wrath_of_the_wild: "Wrath of the Wild" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warrior_s_cradle: "Warrior's Cradle" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pulpit_of_the_chosen: "Pulpit of the Chosen" #!Empty_LineInfo!
-	PRETHORYN_SHIP_altar_of_sacrifice: "Altar of Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_altar_of_war: "Altar of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_altar_of_sight: "Altar of Sight" #!Empty_LineInfo!
-	PRETHORYN_SHIP_altar_of_immolation: "Altar of Immolation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scalded_hand: "Scalded Hand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blissful_ache: "Blissful Ache" #!Empty_LineInfo!
-	PRETHORYN_SHIP_strangled_cry: "Strangled Cry" #!Empty_LineInfo!
-	PRETHORYN_SHIP_smothered_howl: "Smothered Howl" #!Empty_LineInfo!
-	PRETHORYN_SHIP_promise_of_savagery: "Promise of Savagery" #!Empty_LineInfo!
-	PRETHORYN_SHIP_well_of_ire: "Well of Ire" #!Empty_LineInfo!
-	PRETHORYN_SHIP_root_of_vengeance: "Root of Vengeance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_seething_void: "Seething Void" #!Empty_LineInfo!
-	PRETHORYN_SHIP_tearful_worship: "Tearful Worship" #!Empty_LineInfo!
-	PRETHORYN_SHIP_worshipper: "Worshipper" #!Empty_LineInfo!
-	PRETHORYN_SHIP_worshipper_s_gift: "Worshipper's Gift" #!Empty_LineInfo!
-	PRETHORYN_SHIP_scalded_worship: "Scalded Worship" #!Empty_LineInfo!
-	PRETHORYN_SHIP_avatar_of_punishment: "Avatar of Punishment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bill_of_punishment: "Bill of Punishment" #!Empty_LineInfo!
-	PRETHORYN_SHIP_warrant_of_domination: "Warrant of Domination" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stinging_bliss: "Stinging Bliss" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stinging_worship: "Stinging Worship" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pulpit_of_stings: "Pulpit of Stings" #!Empty_LineInfo!
-	PRETHORYN_SHIP_sacred_brand: "Sacred Brand" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mark_of_the_purifier: "Mark of the Purifier" #!Empty_LineInfo!
-	PRETHORYN_SHIP_instrument_of_damnation: "Instrument of Damnation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_instrument_of_the_yun: "Instrument of the Yun" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cut_of_grace: "Cut of Grace" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hand_of_flaying: "Hand of Flaying" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spirit_of_the_knife: "Spirit of the Knife" #!Empty_LineInfo!
-	PRETHORYN_SHIP_mandate_of_oblivion: "Mandate of Oblivion" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heretic_s_ruin: "Heretic's Ruin" #!Empty_LineInfo!
-	PRETHORYN_SHIP_shape_of_fate: "Shape of Fate" #!Empty_LineInfo!
-	PRETHORYN_SHIP_destined_wound: "Destined Wound" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slayer_of_idols: "Slayer of Idols" #!Empty_LineInfo!
-	PRETHORYN_SHIP_true_idol: "True Idol" #!Empty_LineInfo!
-	PRETHORYN_SHIP_idolatry_s_end: "Idolatry's End" #!Empty_LineInfo!
-	PRETHORYN_SHIP_heathen_pyre: "Heathen Pyre" #!Empty_LineInfo!
-	PRETHORYN_SHIP_idolatress__fate: "Idolatress' Fate" #!Empty_LineInfo!
-	PRETHORYN_SHIP_righteous_flaying: "Righteous Flaying" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slow_slice: "Slow Slice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_righteous_cruelty: "Righteous Cruelty" #!Empty_LineInfo!
-	PRETHORYN_SHIP_woespawn: "Woespawn" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bliss_of_refusal: "Bliss of Refusal" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ecstasy_of_denial: "Ecstasy of Denial" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slayer_s_mark: "Slayer's Mark" #!Empty_LineInfo!
-	PRETHORYN_SHIP_catechism: "Catechism" #!Empty_LineInfo!
-	PRETHORYN_SHIP_repentance: "Repentance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_repenter: "Repenter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_bridle_of_the_false: "Bridle of the False" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blasphemer_s_yoke: "Blasphemer's Yoke" #!Empty_LineInfo!
-	PRETHORYN_SHIP_hidden_truth: "Hidden Truth" #!Empty_LineInfo!
-	PRETHORYN_SHIP_end_of_charity: "End of Charity" #!Empty_LineInfo!
-	PRETHORYN_SHIP_breath_of_annihilation: "Breath of Annihilation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_day_of_rage: "Day of Rage" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blightbane: "Blightbane" #!Empty_LineInfo!
-	PRETHORYN_SHIP_solemn_charity: "Solemn Charity" #!Empty_LineInfo!
-	PRETHORYN_SHIP_salve_of_contrition: "Salve of Contrition" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ecstasy_of_excruciation: "Ecstasy of Excruciation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_excruciating_ecstasy: "Excruciating Ecstasy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_salve_of_excruciation: "Salve of Excruciation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_taste_of_cruelty: "Taste of Cruelty" #!Empty_LineInfo!
-	PRETHORYN_SHIP_excruciator: "Excruciator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_searing_glory: "Searing Glory" #!Empty_LineInfo!
-	PRETHORYN_SHIP_grievous_joy: "Grievous Joy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_racking_bliss: "Racking Bliss" #!Empty_LineInfo!
-	PRETHORYN_SHIP_stabbing_exhilaration: "Stabbing Exhilaration" #!Empty_LineInfo!
-	PRETHORYN_SHIP_agonized_joy: "Agonized Joy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_unbearable: "Unbearable" #!Empty_LineInfo!
-	PRETHORYN_SHIP_debilitator: "Debilitator" #!Empty_LineInfo!
-	PRETHORYN_SHIP_debilitated: "Debilitated" #!Empty_LineInfo!
-	PRETHORYN_SHIP_excruciating_sacrament: "Excruciating Sacrament" #!Empty_LineInfo!
-	PRETHORYN_SHIP_axiom_of_redress: "Axiom of Redress" #!Empty_LineInfo!
-	PRETHORYN_SHIP_absolution: "Absolution" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blight_of_the_profane: "Blight of the Profane" #!Empty_LineInfo!
-	PRETHORYN_SHIP_ardent_follower: "Ardent Follower" #!Empty_LineInfo!
-	PRETHORYN_SHIP_agony_s_consort: "Agony's Consort" #!Empty_LineInfo!
-	PRETHORYN_SHIP_brilliant_pain: "Brilliant Pain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_prophecy_of_suffering: "Prophecy of Suffering" #!Empty_LineInfo!
-	PRETHORYN_SHIP_misery_s_prophet: "Misery's Prophet" #!Empty_LineInfo!
-	PRETHORYN_SHIP_cleansing_fire: "Cleansing Fire" #!Empty_LineInfo!
-	PRETHORYN_SHIP_jubilant_sacrifice: "Jubilant Sacrifice" #!Empty_LineInfo!
-	PRETHORYN_SHIP_divine_anger: "Divine Anger" #!Empty_LineInfo!
-	PRETHORYN_SHIP_elegy_of_wrath: "Elegy of Wrath" #!Empty_LineInfo!
-	PRETHORYN_SHIP_penitent_s_elegy: "Penitent's Elegy" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pleasure_s_lament: "Pleasure's Lament" #!Empty_LineInfo!
-	PRETHORYN_SHIP_eternal_damnation: "Eternal Damnation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_far_sight: "Far Sight" #!Empty_LineInfo!
-	PRETHORYN_SHIP_staff_of_faith: "Staff of Faith" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rod_of_servitude: "Rod of Servitude" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spoils_of_agony: "Spoils of Agony" #!Empty_LineInfo!
-	PRETHORYN_SHIP_torturous_sustenance: "Torturous Sustenance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_succor_of_the_afterlife: "Succor of the Afterlife" #!Empty_LineInfo!
-	PRETHORYN_SHIP_night_of_knives: "Night of Knives" #!Empty_LineInfo!
-	PRETHORYN_SHIP_carver_s_sacrament: "Carver's Sacrament" #!Empty_LineInfo!
-	PRETHORYN_SHIP_perpetual_devotion: "Perpetual Devotion" #!Empty_LineInfo!
-	PRETHORYN_SHIP_blood_devoted: "Blood Devoted" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pious_rage: "Pious Rage" #!Empty_LineInfo!
-	PRETHORYN_SHIP_revelation_of_war: "Revelation of War" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vision_of_conquest: "Vision of Conquest" #!Empty_LineInfo!
-	PRETHORYN_SHIP_pitiless: "Pitiless" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spiritual_resolve: "Spiritual Resolve" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rapturous_arc: "Rapturous Arc" #!Empty_LineInfo!
-	PRETHORYN_SHIP_rapturous_fire: "Rapturous Fire" #!Empty_LineInfo!
-	PRETHORYN_SHIP_solemn_guard: "Solemn Guard" #!Empty_LineInfo!
-	PRETHORYN_SHIP_protector_of_eternity: "Protector of Eternity" #!Empty_LineInfo!
-	PRETHORYN_SHIP_eye_of_damnation: "Eye of Damnation" #!Empty_LineInfo!
-	PRETHORYN_SHIP_spear_of_splendor: "Spear of Splendor" #!Empty_LineInfo!
-	PRETHORYN_SHIP_supplicant: "Supplicant" #!Empty_LineInfo!
-	PRETHORYN_SHIP_supplicant_of_tears: "Supplicant of Tears" #!Empty_LineInfo!
-	PRETHORYN_SHIP_wound_of_remembrance: "Wound of Remembrance" #!Empty_LineInfo!
-	PRETHORYN_SHIP_slow_death: "Slow Death" #!Empty_LineInfo!
-	PRETHORYN_SHIP_refrain_of_the_hunter: "Refrain of the Hunter" #!Empty_LineInfo!
-	PRETHORYN_SHIP_crusader_s_refrain: "Crusader's Refrain" #!Empty_LineInfo!
-	PRETHORYN_SHIP_trial_of_faith: "Trial of Faith" #!Empty_LineInfo!
-	PRETHORYN_SHIP_vong_viper: "Vong Viper" #!Empty_LineInfo!
-	PRETHORYN_SHIP_yuuzhan_vong_swarmship: "Yuuzhan Vong Swarmship" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_harla: "Battle Group of Yun-Harla" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_q_aah: "Battle Group of Yun-Q'aah" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_txiin: "Battle Group of Yun-Txiin" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_yammka: "Battle Group of Yun-Yammka" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_yuuzhan: "Battle Group of Yun-Yuuzhan" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_ne_shel: "Battle Group of Yun-Ne'Shel" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_shuno: "Battle Group of Yun-Shuno" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_lingni: "Battle Group of Yun-Lingni" #!Empty_LineInfo!
-	PRETHORYN_FLEET_battle_group_of_yun_o: "Battle Group of Yun'o" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_harla: "Martyrs of Yun-Harla" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_q_aah: "Martyrs of Yun-Q'aah" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_txiin: "Martyrs of Yun-Txiin" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_yammka: "Martyrs of Yun-Yammka" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_yuuzhan: "Martyrs of Yun-Yuuzhan" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_ne_shel: "Martyrs of Yun-Ne'Shel" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_shuno: "Martyrs of Yun-Shuno" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_lingni: "Martyrs of Yun-Lingni" #!Empty_LineInfo!
-	PRETHORYN_FLEET_martyrs_of_yun_o: "Martyrs of Yun'o" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_harla: "Prophets of Yun-Harla" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_q_aah: "Prophets of Yun-Q'aah" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_txiin: "Prophets of Yun-Txiin" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_yammka: "Prophets of Yun-Yammka" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_yuuzhan: "Prophets of Yun-Yuuzhan" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_ne_shel: "Prophets of Yun-Ne'Shel" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_shuno: "Prophets of Yun-Shuno" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_lingni: "Prophets of Yun-Lingni" #!Empty_LineInfo!
-	PRETHORYN_FLEET_prophets_of_yun_o: "Prophets of Yun'o" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_harla_s_faithful: "Yun-Harla's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_q_aah_s_faithful: "Yun-Q'aah's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_txiin_s_faithful: "Yun-Txiin's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_yammka_s_faithful: "Yun-Yammka's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_yuuzhan_s_faithful: "Yun-Yuuzhan's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_ne_shel_s_faithful: "Yun-Ne'Shel's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_shuno_s_faithful: "Yun-Shuno's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_lingni_s_faithful: "Yun-Lingni's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yun_o_s_faithful: "Yun'o's Faithful" #!Empty_LineInfo!
-	PRETHORYN_FLEET_yuuzhan_vong_war_party_ORD: "$ORD$ Yuuzhan Vong War Party" #!Empty_LineInfo!
-	PRETHORYN_CHR_shaper_nom_anor: "Shaper Nom Anor" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_nom_gesor: "Warmaster Nom Gesor" #!Empty_LineInfo!
-	PRETHORYN_CHR_subaltern_nom_venor: "Subaltern Nom Venor" #!Empty_LineInfo!
-	PRETHORYN_CHR_commander_nom_lah: "Commander Nom Lah" #!Empty_LineInfo!
-	PRETHORYN_CHR_priest_nei_rin: "Priest Nei Rin" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_neila_mahg: "Warmaster Neila Mahg" #!Empty_LineInfo!
-	PRETHORYN_CHR_subaltern_tsavong_lah: "Subaltern Tsavong Lah" #!Empty_LineInfo!
-	PRETHORYN_CHR_commander_tsavong_lorkh: "Commander Tsavong Lorkh" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_mezhan_kwaad: "Warmaster Mezhan Kwaad" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_norma_kwaad: "Warmaster Norma Kwaad" #!Empty_LineInfo!
-	PRETHORYN_CHR_subaltern_quoreal: "Subaltern Quoreal" #!Empty_LineInfo!
-	PRETHORYN_CHR_commander_nen_yim: "Commander Nen Yim" #!Empty_LineInfo!
-	PRETHORYN_CHR_shaper_nen_yuuz: "Shaper Nen Yuuz" #!Empty_LineInfo!
-	PRETHORYN_CHR_priest_nas_choka: "Priest Nas Choka" #!Empty_LineInfo!
-	PRETHORYN_CHR_warrior_nasala_korka: "Warrior Nasala Korka" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_shedao_shai: "Warmaster Shedao Shai" #!Empty_LineInfo!
-	PRETHORYN_CHR_shaper_zenoc_quah: "Shaper Zenoc Quah" #!Empty_LineInfo!
-	PRETHORYN_CHR_high_priest_thresher: "High Priest Thresher" #!Empty_LineInfo!
-	PRETHORYN_CHR_warrior_orah_jamaane: "Warrior Orah Jamaane" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_viull_gorsat: "Warmaster Viull Gorsat" #!Empty_LineInfo!
-	PRETHORYN_CHR_shaper_arkyla_kwaaha: "Shaper Arkyla Kwaaha" #!Empty_LineInfo!
-	PRETHORYN_CHR_high_priest_feede_quaha: "High Priest Feede Quaha" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_tsarah_anoora: "Warmaster Tsarah Anoora" #!Empty_LineInfo!
-	PRETHORYN_CHR_warmaster_nomma_ying: "Warmaster Nomma Ying" #!Empty_LineInfo!
+ PRETHORYN_SHIP_agony_s_child: "Дитя Агонии"
+ PRETHORYN_SHIP_blade: "Лезвие"
+ PRETHORYN_SHIP_of: "Оф"
+ PRETHORYN_SHIP_sacrifice: "Жертва"
+ PRETHORYN_SHIP_fu_ulanh: "Фууланх"
+ PRETHORYN_SHIP_keeper: "Кипер"
+ PRETHORYN_SHIP_kur_hashan: "Кур-хашан"
+ PRETHORYN_SHIP_lowca: "Лоука"
+ PRETHORYN_SHIP_noble_sacrifice: "Благородная жертва"
+ PRETHORYN_SHIP_realm_of_death: "Царство смерти"
+ PRETHORYN_SHIP_red_qurang: "Красный Коранг"
+ PRETHORYN_SHIP_river_of_blood: "Река крови"
+ PRETHORYN_SHIP_serpent_s_kiss: "Поцелуй змеи"
+ PRETHORYN_SHIP_slayer_s_conceit: "Тщеславие истребительницы"
+ PRETHORYN_SHIP_throat_slasher: "Перерезающий горло"
+ PRETHORYN_SHIP_yammka_s_mount: "Скакун Яммки"
+ PRETHORYN_SHIP_collaborator: "Коллаборационист"
+ PRETHORYN_SHIP_stalking_moon: "Крадущаяся луна"
+ PRETHORYN_SHIP_chreche: "Криче"
+ PRETHORYN_SHIP_legacy_of_torment: "Наследие мучений"
+ PRETHORYN_SHIP_exquisite_death: "Изысканная смерть"
+ PRETHORYN_SHIP_kratak: "Кратак"
+ PRETHORYN_SHIP_burning_pride: "Пылающая гордость"
+ PRETHORYN_SHIP_yammka: "Ямм'ка"
+ PRETHORYN_SHIP_gift_of_anguish: "Дар мучений"
+ PRETHORYN_SHIP_kusurrun: "Кусуррун"
+ PRETHORYN_SHIP_reaver: "Разбойник"
+ PRETHORYN_SHIP_trickster: "Обманщик"
+ PRETHORYN_SHIP_heart_of_artorias: "Сердце Арториаса"
+ PRETHORYN_SHIP_maledoth: "Маледот"
+ PRETHORYN_SHIP_sacred_pyre: "Священный погребальный костер"
+ PRETHORYN_SHIP_sunulok: "Сунулок"
+ PRETHORYN_SHIP_guttural: "Гюттурал"
+ PRETHORYN_SHIP_decapitator: "Обезглавливатель"
+ PRETHORYN_SHIP_gleeful_cut: "Радостный отрыв"
+ PRETHORYN_SHIP_beautiful_agony: "Прекрасная агония"
+ PRETHORYN_SHIP_suffering_eternal: "Вечные страдания"
+ PRETHORYN_SHIP_tortured_bliss: "Мучительное блаженство"
+ PRETHORYN_SHIP_glory_of_grief: "Слава скорби"
+ PRETHORYN_SHIP_griefdrinker: "Горе-пьяница"
+ PRETHORYN_SHIP_affliction_of_penance: "Страдание от покаяния"
+ PRETHORYN_SHIP_traumatic_edge: "Травматический край"
+ PRETHORYN_SHIP_jagged_edge: "Зазубренный край"
+ PRETHORYN_SHIP_weeping_blade: "Плачущий клинок"
+ PRETHORYN_SHIP_fang_of_torment: "Клык мучения"
+ PRETHORYN_SHIP_tormentor_s_brand: "Клеймо мучителя"
+ PRETHORYN_SHIP_misery: "Страдание"
+ PRETHORYN_SHIP_misery_s_companion: "Спутник несчастья"
+ PRETHORYN_SHIP_consort_of_misery: "Супруга несчастья"
+ PRETHORYN_SHIP_follower_of_pain: "Последователь боли"
+ PRETHORYN_SHIP_path_of_pain: "Путь боли"
+ PRETHORYN_SHIP_woe_letter: "Письмо-скорбь"
+ PRETHORYN_SHIP_tide_of_tears: "Прилив слез"
+ PRETHORYN_SHIP_mortal_end: "Смертный конец"
+ PRETHORYN_SHIP_valorant_scar: "Доблестный шрам"
+ PRETHORYN_SHIP_crimson_scar: "Багровый шрам"
+ PRETHORYN_SHIP_ritual: "Ритуал"
+ PRETHORYN_SHIP_heretic_s_end: "Конец еретика"
+ PRETHORYN_SHIP_purifier: "Очиститель"
+ PRETHORYN_SHIP_purger: "Очиститель"
+ PRETHORYN_SHIP_yun_tchilat: "Юн'тчилат"
+ PRETHORYN_SHIP_nom_o_tu_tchilat: "Номо-ту чилат"
+ PRETHORYN_SHIP_yun_yuuzhan: "Юн-Йуужань"
+ PRETHORYN_SHIP_sos_nom_o: "Сос Ном'о"
+ PRETHORYN_SHIP_yenagh_o_nom_o: "Йенаг'о Ном'о"
+ PRETHORYN_SHIP_knotte_yun_o: "Кнотте Юно"
+ PRETHORYN_SHIP_al_tanna: "Ал'танна"
+ PRETHORYN_SHIP_belek: "Белек"
+ PRETHORYN_SHIP_bos_sos: "Бос сос"
+ PRETHORYN_SHIP_brenzlit: "Брензлит"
+ PRETHORYN_SHIP_bruk_tukken: "Брук Туккен"
+ PRETHORYN_SHIP_al_tanna_brenzlit: "Ал'танна Брензлит"
+ PRETHORYN_SHIP_do_ro_ik: "До-роик"
+ PRETHORYN_SHIP_duwin: "Дювин"
+ PRETHORYN_SHIP_fy_y_roog: "К твоему сведению, Руг"
+ PRETHORYN_SHIP_gadma_dar: "Гадма дар"
+ PRETHORYN_SHIP_grishna: "Гришна"
+ PRETHORYN_SHIP_br_rok: "Бр'рок"
+ PRETHORYN_SHIP_ukal_hai: "Укал-хай"
+ PRETHORYN_SHIP_osam_ga_akren: "Осам'га Акрен"
+ PRETHORYN_SHIP_akri: "Акри"
+ PRETHORYN_SHIP_vushta: "Вушта"
+ PRETHORYN_SHIP_guvvuk: "Гуввук"
+ PRETHORYN_SHIP_hrosha_gul: "Гроша-Гуль"
+ PRETHORYN_SHIP_price_of_pain: "Цена боли"
+ PRETHORYN_SHIP_hu_carjen_tok: "Ху-карьен Ток"
+ PRETHORYN_SHIP_izai: "Изай"
+ PRETHORYN_SHIP_khattazz: "Хаттазз"
+ PRETHORYN_SHIP_krel_os_a: "Крел ос'а"
+ PRETHORYN_SHIP_hmi_va_ta: "Hmi Ва Та"
+ PRETHORYN_SHIP_mon_mawl_rrish: "Мон-Маул Риш"
+ PRETHORYN_SHIP_nang_hul: "Нанг Хул"
+ PRETHORYN_SHIP_pazhkic: "Пажикич"
+ PRETHORYN_SHIP_qorih: "Корихх"
+ PRETHORYN_SHIP_remaga: "Ремага"
+ PRETHORYN_SHIP_rrush_hok: "Руш'хок"
+ PRETHORYN_SHIP_ichnar: "Ичнар"
+ PRETHORYN_SHIP_vinim_hok: "Виним'хок"
+ PRETHORYN_SHIP_yun_shuno: "Юн-Шуно"
+ PRETHORYN_SHIP_sha_grunnik: "Ша Грунник"
+ PRETHORYN_SHIP_skerr: "Скерр"
+ PRETHORYN_SHIP_kyrric: "Киррик"
+ PRETHORYN_SHIP_taan_yun_forqana_zhoi: "Таан Юн-форкана Чжой"
+ PRETHORYN_SHIP_tizo_pil_yun_tchilat: "Тизо'пил Юн'тчилат"
+ PRETHORYN_SHIP_tsaisi: "Цаиси"
+ PRETHORYN_SHIP_tssi_dau: "Цси дау"
+ PRETHORYN_SHIP_tchurokk: "Чурокк"
+ PRETHORYN_SHIP_tchurrok_tiz: "Чурроктиз"
+ PRETHORYN_SHIP_tu_q: "Ту'к"
+ PRETHORYN_SHIP_ukla_na: "Укла-на"
+ PRETHORYN_SHIP_vissa_crai: "Висса Крэй"
+ PRETHORYN_SHIP_yun_yammka: "Юн-Яммка"
+ PRETHORYN_SHIP_anger_in_pride: "Гнев в гордыне"
+ PRETHORYN_SHIP_viccae: "Викки"
+ PRETHORYN_SHIP_yadag_dakl: "Йадаг дакл"
+ PRETHORYN_SHIP_yun: "Юнь"
+ PRETHORYN_SHIP_great_one: "Первый Великий"
+ PRETHORYN_SHIP_yun_o: "Юно"
+ PRETHORYN_SHIP_yun_harla: "Юн-Харла"
+ PRETHORYN_SHIP_yun_ne_shel: "Юн-Не'Шель"
+ PRETHORYN_SHIP_yun_txiin: "Юнь-Тсиинь"
+ PRETHORYN_SHIP_yun_q_aah: "Юн-К'аах"
+ PRETHORYN_SHIP_yuth_ugg: "Ют Угг"
+ PRETHORYN_SHIP_zhaelor: "Жэлор"
+ PRETHORYN_SHIP_truth: "Истина"
+ PRETHORYN_SHIP_zhaetor_zhae: "Жаэтор-жае"
+ PRETHORYN_SHIP_glory: "Слава"
+ PRETHORYN_SHIP_harla: "Харла"
+ PRETHORYN_SHIP_khot: "Хот"
+ PRETHORYN_SHIP_nom: "Ном"
+ PRETHORYN_SHIP_jeedai_q_aah: "Джидай К'аах"
+ PRETHORYN_SHIP_sor_jeedai: "Сор Джидай"
+ PRETHORYN_SHIP_appropriate_submission: "Соответствующее представление"
+ PRETHORYN_SHIP_willing_submission: "Добровольное подчинение"
+ PRETHORYN_SHIP_embrace_of_pain: "Объятия боли"
+ PRETHORYN_SHIP_suffering_s_embrace: "Объятия страдания"
+ PRETHORYN_SHIP_exacting_suffering: "Изнуряющие страдания"
+ PRETHORYN_SHIP_unmasker: "Разоблачитель"
+ PRETHORYN_SHIP_first_of_the_living: "Первый из живущих"
+ PRETHORYN_SHIP_last_of_the_dead: "Последний из мертвых"
+ PRETHORYN_SHIP_will_to_power: "Воля к власти"
+ PRETHORYN_SHIP_wretched_peace: "Жалкий мир"
+ PRETHORYN_SHIP_inevitable_dominance: "Неизбежное доминирование"
+ PRETHORYN_SHIP_affliction_of_redress: "Нуждающийся в возмещении ущерба"
+ PRETHORYN_SHIP_throes_of_agony: "Муки агонии"
+ PRETHORYN_SHIP_brand_of_wretches: "Клеймо негодяев"
+ PRETHORYN_SHIP_glorious_torment: "Восхитительные мучения"
+ PRETHORYN_SHIP_pain_letter: "Письмо с выражением боли"
+ PRETHORYN_SHIP_amputator: "Ампутатор"
+ PRETHORYN_SHIP_slice_of_torment: "Кусочек мучений"
+ PRETHORYN_SHIP_pangs_of_conquest: "Муки завоевания"
+ PRETHORYN_SHIP_labor_of_strain: "Напряженный труд"
+ PRETHORYN_SHIP_strain_of_war: "Напряжение войны"
+ PRETHORYN_SHIP_burning_blade: "Пылающий клинок"
+ PRETHORYN_SHIP_inferno_of_exultation: "Ад ликования"
+ PRETHORYN_SHIP_stinging_exhortation: "Язвительное увещевание"
+ PRETHORYN_SHIP_gleeful_burn: "Ликующий ожог"
+ PRETHORYN_SHIP_gleeful_sting: "Радостное жало"
+ PRETHORYN_SHIP_willing_victim: "Добровольная жертва"
+ PRETHORYN_SHIP_willing_sufferance: "Добровольное терпение"
+ PRETHORYN_SHIP_servant_of_pain: "Слуга боли"
+ PRETHORYN_SHIP_aching_torment: "Мучительная боль"
+ PRETHORYN_SHIP_twin_aches: "Двойная боль"
+ PRETHORYN_SHIP_chronic_sufferer: "Хронический страдалец"
+ PRETHORYN_SHIP_sorrow_of_tomorrow: "Печаль завтрашнего дня"
+ PRETHORYN_SHIP_griefbound: "Прикованный к скорби"
+ PRETHORYN_SHIP_griefstricken: "Охваченный горем"
+ PRETHORYN_SHIP_blinding_claw: "Ослепляющий коготь"
+ PRETHORYN_SHIP_rending_hand: "Раздирающая рука"
+ PRETHORYN_SHIP_crimson_render: "Малиновый рендер"
+ PRETHORYN_SHIP_yearning_of_pennance: "Тоска по вымпелу"
+ PRETHORYN_SHIP_zonoma: "Зонома"
+ PRETHORYN_SHIP_sekot: "Секот"
+ PRETHORYN_SHIP_seed_of_hatred: "Семя ненависти"
+ PRETHORYN_SHIP_stricken: "Пораженный"
+ PRETHORYN_SHIP_pain_stricken: "Охваченный болью"
+ PRETHORYN_SHIP_striking_blow: "Наносящий удар"
+ PRETHORYN_SHIP_twin_hungers: "Двойной голод"
+ PRETHORYN_SHIP_glutton_of_punishment: "Жаждущий наказания"
+ PRETHORYN_SHIP_punishing_one: "Карающий"
+ PRETHORYN_SHIP_dolorous_bell: "Скорбный колокол"
+ PRETHORYN_SHIP_dirge_of_affliction: "Панихида по скорби"
+ PRETHORYN_SHIP_wretched_endurance: "Жалкая выносливость"
+ PRETHORYN_SHIP_forebearance_of_misery: "Предчувствие несчастья"
+ PRETHORYN_SHIP_subjected_one: "Подвергнутый"
+ PRETHORYN_SHIP_deserving: "Заслуживающий"
+ PRETHORYN_SHIP_tormentor: "Мучитель"
+ PRETHORYN_SHIP_ectasy_of_torment: "Экстаз мучений"
+ PRETHORYN_SHIP_soul_angst: "Душевная тоска"
+ PRETHORYN_SHIP_blossom_of_abuse: "Цветок насилия"
+ PRETHORYN_SHIP_open_wound: "Открытая рана"
+ PRETHORYN_SHIP_harsh_treatment: "Жестокое обращение"
+ PRETHORYN_SHIP_prayer_of_the_guilty: "Молитва виновных"
+ PRETHORYN_SHIP_rightful_pennance: "Законный вымпел"
+ PRETHORYN_SHIP_righteous_suffering: "Праведные страдания"
+ PRETHORYN_SHIP_righteous_agony: "Праведная агония"
+ PRETHORYN_SHIP_martyr_of_glory: "Мученик славы"
+ PRETHORYN_SHIP_ache_of_the_martyr: "Боль мученика"
+ PRETHORYN_SHIP_bane_of_the_souless: "Проклятие бездушных"
+ PRETHORYN_SHIP_brand_of_the_soul: "Бренд души"
+ PRETHORYN_SHIP_mark_of_the_martyr: "Знак мученика"
+ PRETHORYN_SHIP_heart_of_the_penitent: "Сердце кающегося"
+ PRETHORYN_SHIP_hilt_of_the_dying: "Рукоять умирающего"
+ PRETHORYN_SHIP_gravebound: "Прикованный к могиле"
+ PRETHORYN_SHIP_burial_shroud: "Погребальный саван"
+ PRETHORYN_SHIP_pyre_of_the_faithful: "Погребальный костер верующих"
+ PRETHORYN_SHIP_immolation_of_the_willing: "Принесение в жертву Желающих"
+ PRETHORYN_SHIP_immolating_hand: "Рука Жертвоприношения"
+ PRETHORYN_SHIP_charred_fist: "Обугленный кулак"
+ PRETHORYN_SHIP_gouger: "Раздолбай"
+ PRETHORYN_SHIP_world_breaker: "Разрушитель миров"
+ PRETHORYN_SHIP_living_burial: "Живое погребение"
+ PRETHORYN_SHIP_scent_of_the_fearful: "Запах страшилища"
+ PRETHORYN_SHIP_strength_of_the_fearless: "Сила бесстрашных"
+ PRETHORYN_SHIP_offering_of_the_flesh: "Приношение плоти"
+ PRETHORYN_SHIP_willing_sacrifice: "Добровольная жертва"
+ PRETHORYN_SHIP_torturous_atonement: "Мучительное искупление"
+ PRETHORYN_SHIP_mask_of_the_faithful: "Маска верующего"
+ PRETHORYN_SHIP_woe_of_the_misbegotten: "Горе незаконнорожденным"
+ PRETHORYN_SHIP_heresy_s_destruction: "Уничтожение ереси"
+ PRETHORYN_SHIP_end_of_tolerance: "Конец терпимости"
+ PRETHORYN_SHIP_skinning_hand: "Сдирающая кожу рука"
+ PRETHORYN_SHIP_tearing_fang: "Рвущий Клык"
+ PRETHORYN_SHIP_manhewer: "Пожиратель людей"
+ PRETHORYN_SHIP_flesh_hewer: "Рубящий плоть"
+ PRETHORYN_SHIP_feast_of_bones: "Пир костей"
+ PRETHORYN_SHIP_crucifier: "Распинающий"
+ PRETHORYN_SHIP_brass_bull: "Медный бык"
+ PRETHORYN_SHIP_mutilator: "Калечитель"
+ PRETHORYN_SHIP_offspring_of_mutiliation: "Порождение мутации"
+ PRETHORYN_SHIP_bounty_of_mutilation: "Награда за увечья"
+ PRETHORYN_SHIP_child_of_the_maimed: "Дитя увечных"
+ PRETHORYN_SHIP_god_maimed: "искалеченный богом"
+ PRETHORYN_SHIP_maimed_feast: "Праздник увечных"
+ PRETHORYN_SHIP_pleasure_of_the_mutilator: "Удовольствие калеки"
+ PRETHORYN_SHIP_song_of_the_mutilated: "Песня изувеченных"
+ PRETHORYN_SHIP_dismembered_glory: "Расчлененная слава"
+ PRETHORYN_SHIP_memory_of_dismemberment: "Память о расчленении"
+ PRETHORYN_SHIP_sterilizer: "Стерилизатор"
+ PRETHORYN_SHIP_castrator: "Кастратор"
+ PRETHORYN_SHIP_castrating_fire: "Кастрирующий огонь"
+ PRETHORYN_SHIP_folly_of_desecration: "Безумие осквернения"
+ PRETHORYN_SHIP_hubris_of_pleasure: "Гордыня удовольствия"
+ PRETHORYN_SHIP_vanity_of_health: "Тщета здоровья"
+ PRETHORYN_SHIP_feast_of_heretics: "Пир еретиков"
+ PRETHORYN_SHIP_man_peeler: "Овощечистка для мужчин"
+ PRETHORYN_SHIP_tanner_of_men: "Кожевник людей"
+ PRETHORYN_SHIP_flayer: "Живодер"
+ PRETHORYN_SHIP_secret_of_the_flayed: "Тайна содранной кожи"
+ PRETHORYN_SHIP_twilight_flaying: "Сдирание кожи с сумерек"
+ PRETHORYN_SHIP_deserving_flayed: "Заслуживающий содранной кожи"
+ PRETHORYN_SHIP_relish_of_the_flayed: "Вкус освежеванного"
+ PRETHORYN_SHIP_flayed_one: "Освежеванный"
+ PRETHORYN_SHIP_flayed_secret: "Тайна содранной кожи"
+ PRETHORYN_SHIP_flaying_blade: "Лезвие для снятия кожи"
+ PRETHORYN_SHIP_viscera_of_health: "Внутренности здоровья"
+ PRETHORYN_SHIP_clean_hunt: "Чистая охота"
+ PRETHORYN_SHIP_clean_death: "Чистая смерть"
+ PRETHORYN_SHIP_heirloom_of_sufferance: "Семейная реликвия терпения"
+ PRETHORYN_SHIP_promise_to_heathens: "Обещание язычникам"
+ PRETHORYN_SHIP_denial_of_the_tolerant: "Отрицание толерантного"
+ PRETHORYN_SHIP_unerring_justice: "Безошибочное правосудие"
+ PRETHORYN_SHIP_nom_anor: "Ном Анор"
+ PRETHORYN_SHIP_chain_of_marrow: "Цепь костного мозга"
+ PRETHORYN_SHIP_vein_letter: "Вэйн Леттер"
+ PRETHORYN_SHIP_vanity_of_the_meek: "Тщеславие кротких"
+ PRETHORYN_SHIP_pomposity_of_the_servile: "Напыщенность раболепствующего"
+ PRETHORYN_SHIP_unending_sacrifice: "Бесконечная жертва"
+ PRETHORYN_SHIP_eternal_reward: "Вечная награда"
+ PRETHORYN_SHIP_perpetuation_of_pain: "Увековечение боли"
+ PRETHORYN_SHIP_triumph_of_trauma: "Триумф травмы"
+ PRETHORYN_SHIP_fearful_demise: "Страшная кончина"
+ PRETHORYN_SHIP_nameless_grave: "безымянная могила"
+ PRETHORYN_SHIP_deliverance_of_the_crypt: "Освобождение склепа"
+ PRETHORYN_SHIP_charnel_house: "Склепный дом"
+ PRETHORYN_SHIP_abattoir: "Скотобойня"
+ PRETHORYN_SHIP_necessary_slaughter: "Необходимая бойня"
+ PRETHORYN_SHIP_glory_of_the_slaughter: "Слава бойни"
+ PRETHORYN_SHIP_slaughtered_road: "Забитая дорога"
+ PRETHORYN_SHIP_red_slaughter: "Красная резня"
+ PRETHORYN_SHIP_wasteless_butcher: "Безотходный мясник"
+ PRETHORYN_SHIP_fair_butchery: "Честная бойня"
+ PRETHORYN_SHIP_butcher_of_chazrach: "Мясник из Хазраха"
+ PRETHORYN_SHIP_fate_of_the_abominable: "Судьба отвратительных"
+ PRETHORYN_SHIP_ancestral_animate: "Одушевленное существо-предок"
+ PRETHORYN_SHIP_living_glory: "Живая слава"
+ PRETHORYN_SHIP_cremlevian_crucible: "Кремлевский тигель"
+ PRETHORYN_SHIP_fire_of_cremlevia: "Огонь Кремлевии"
+ PRETHORYN_SHIP_severer: "Более суровый"
+ PRETHORYN_SHIP_sevrance: "Севранс"
+ PRETHORYN_SHIP_yo_gand: "Йо'ганд"
+ PRETHORYN_SHIP_steng: "Стена"
+ PRETHORYN_SHIP_master_of_war: "Мастер войны"
+ PRETHORYN_SHIP_bone_of_ygziir: "Кость Игзиира"
+ PRETHORYN_SHIP_overship: "Главный корабль"
+ PRETHORYN_SHIP_quoreal: "Стандартный"
+ PRETHORYN_SHIP_place_of_the_intendant: "Место интенданта"
+ PRETHORYN_SHIP_dangerous_game: "Опасная игра"
+ PRETHORYN_SHIP_ancestor_s_watch: "Часы предков"
+ PRETHORYN_SHIP_forerunner_s_pride: "Гордость Предтеч"
+ PRETHORYN_SHIP_pride_of_the_precursors: "Гордость предтеч"
+ PRETHORYN_SHIP_forebearer_s_lesson: "Урок предков"
+ PRETHORYN_SHIP_knowledge_of_the_before: "Знание о прошлом"
+ PRETHORYN_SHIP_puzzle_of_war: "Загадка войны"
+ PRETHORYN_SHIP_longing_of_battle: "Жажда битвы"
+ PRETHORYN_SHIP_journey_s_end: "Конец путешествия"
+ PRETHORYN_SHIP_sighted_providence: "Зрячее Провидение"
+ PRETHORYN_SHIP_rightful_inheritance: "Законное наследование"
+ PRETHORYN_SHIP_mantle_of_purification: "Мантия очищения"
+ PRETHORYN_SHIP_responsibility_of_the_pure: "Ответственность чистых"
+ PRETHORYN_SHIP_brand_of_the_unscarred: "Клеймо без шрамов"
+ PRETHORYN_SHIP_deserving_ruination: "Заслуживающий разорения"
+ PRETHORYN_SHIP_ruin_of_the_souless: "Гибель бездушных"
+ PRETHORYN_SHIP_exhultant_scream: "Крик на выдохе"
+ PRETHORYN_SHIP_piercing_cry: "пронзительный крик"
+ PRETHORYN_SHIP_tearful_wail: "Жалобный вопль"
+ PRETHORYN_SHIP_mournful_ectasy: "Скорбный экстаз"
+ PRETHORYN_SHIP_joy_of_agony: "Радость агонии"
+ PRETHORYN_SHIP_joyous_death: "Радостная смерть"
+ PRETHORYN_SHIP_bonfire_of_the_joyful: "Костер радости"
+ PRETHORYN_SHIP_scarred_discerner: "Искушенный в шрамах"
+ PRETHORYN_SHIP_choir_of_the_agonized: "Хор агонизирующих"
+ PRETHORYN_SHIP_sea_of_tears: "Море слез"
+ PRETHORYN_SHIP_bloodborne: "Рожденный в крови"
+ PRETHORYN_SHIP_bloodmoore: "Кровавый Мур"
+ PRETHORYN_SHIP_thunder_and_blood: "Гром и кровь"
+ PRETHORYN_SHIP_sacrifice_of_blood: "Кровавое жертвоприношение"
+ PRETHORYN_SHIP_extinguisher: "Огнетушитель"
+ PRETHORYN_SHIP_death_of_the_deserving: "Смерть достойных"
+ PRETHORYN_SHIP_striving_perfection: "Стремление к совершенству"
+ PRETHORYN_SHIP_merit_of_war: "Военные заслуги"
+ PRETHORYN_SHIP_gift_of_the_above: "Дар Свыше"
+ PRETHORYN_SHIP_symbiotic_hatred: "Симбиотическая ненависть"
+ PRETHORYN_SHIP_mirror_of_the_embittered: "Зеркало озлобленных"
+ PRETHORYN_SHIP_smile_of_the_whip: "Улыбка хлыста"
+ PRETHORYN_SHIP_ectasy_of_the_lashed: "Экстаз избитых"
+ PRETHORYN_SHIP_lash_of_the_heretic: "Плеть еретика"
+ PRETHORYN_SHIP_flesh_of_the_scourge: "Плоть от плоти плети"
+ PRETHORYN_SHIP_ritual_consumer: "Потребитель ритуальных услуг"
+ PRETHORYN_SHIP_bountiful_harvest: "Обильный урожай"
+ PRETHORYN_SHIP_in_fetters_clad: "Закованный в кандалы"
+ PRETHORYN_SHIP_end_of_the_line: "Конец очереди"
+ PRETHORYN_SHIP_circle_of_war: "Круг войны"
+ PRETHORYN_SHIP_sphere_of_conflict: "Сфера конфликта"
+ PRETHORYN_SHIP_nature_of_struggle: "Природа борьбы"
+ PRETHORYN_SHIP_natural_struggle: "Естественная борьба"
+ PRETHORYN_SHIP_struggle_of_supremacy: "Борьба за превосходство"
+ PRETHORYN_SHIP_outcome_of_struggle: "Исход борьбы"
+ PRETHORYN_SHIP_reward_of_struggle: "Награда за борьбу"
+ PRETHORYN_SHIP_warring_feast: "Пир воюющих"
+ PRETHORYN_SHIP_hammerer_of_the_infidel: "Молотобоец неверных"
+ PRETHORYN_SHIP_infidel_s_bane: "Проклятие неверных"
+ PRETHORYN_SHIP_god_of_war: "Бог войны"
+ PRETHORYN_SHIP_war_goddess: "Богиня войны"
+ PRETHORYN_SHIP_terror_drinker: "Любитель ужасов"
+ PRETHORYN_SHIP_terror_of_the_damned: "Ужас проклятых"
+ PRETHORYN_SHIP_rebuking_hand: "Рука упрека"
+ PRETHORYN_SHIP_clenched_fist_of_perdition: "Сжатый кулак погибели"
+ PRETHORYN_SHIP_bone_sworn: "Поклявшийся костью"
+ PRETHORYN_SHIP_scar_sworn: "Присягнувший Шрамом"
+ PRETHORYN_SHIP_godsworn: "Поклявшиймя Богу"
+ PRETHORYN_SHIP_forsworn: "Отрекшийся"
+ PRETHORYN_SHIP_bong_voyage: "Путешествие бонга"
+ PRETHORYN_SHIP_grik_tal: "Грик Тал"
+ PRETHORYN_SHIP_memory_of_the_seas: "Память морей"
+ PRETHORYN_SHIP_dream_of_the_mountains: "Мечта о горах"
+ PRETHORYN_SHIP_prophecy_of_the_sky: "Пророчество неба"
+ PRETHORYN_SHIP_castigation_of_the_impure: "Бичевание нечистых"
+ PRETHORYN_SHIP_castigating_fire: "Карательный огонь"
+ PRETHORYN_SHIP_blade_of_revocation: "Клинок отзыва"
+ PRETHORYN_SHIP_spear_of_the_warrior: "Копье воина"
+ PRETHORYN_SHIP_heart_of_the_warrior: "Сердце воина"
+ PRETHORYN_SHIP_warrior_s_honor: "Честь воина"
+ PRETHORYN_SHIP_caste_sworn: "Присягнувший касте"
+ PRETHORYN_SHIP_claimiant_of_the_lost: "Искатель утраченного"
+ PRETHORYN_SHIP_journeyed_claimant: "Странствующий претендент"
+ PRETHORYN_SHIP_image_of_pain: "Образ боли"
+ PRETHORYN_SHIP_lash_of_the_beloved: "Удар возлюбленной"
+ PRETHORYN_SHIP_tender_torment: "Нежные мучения"
+ PRETHORYN_SHIP_joy_of_submission: "Радость подчинения"
+ PRETHORYN_SHIP_lifekeeper: "Спасатель"
+ PRETHORYN_SHIP_debt_of_blood: "Долг крови"
+ PRETHORYN_SHIP_breath_of_the_hallowed: "Дыхание священного"
+ PRETHORYN_SHIP_tide_of_woe: "Волна горя"
+ PRETHORYN_SHIP_root_of_terror: "Корень ужаса"
+ PRETHORYN_SHIP_uzhai_vuu: "Ужай Ву"
+ PRETHORYN_SHIP_kyenyuu_varu: "Кенью Вару"
+ PRETHORYN_SHIP_vrok_shi_rot_kyu: "Врок Ши Рот'кью"
+ PRETHORYN_SHIP_va_nang_krel: "Ва Нанг Крел"
+ PRETHORYN_SHIP_sightblinder: "Ослепляющий зрение"
+ PRETHORYN_SHIP_barbed_purity: "Колючая чистота"
+ PRETHORYN_SHIP_splinter_of_bone: "Осколок кости"
+ PRETHORYN_SHIP_cruel_dominion: "Жестокий доминион"
+ PRETHORYN_SHIP_penalty_of_the_divine: "Божественная кара"
+ PRETHORYN_SHIP_divine_punishment: "Божественное наказание"
+ PRETHORYN_SHIP_wordless_roar: "Бессловесный рев"
+ PRETHORYN_SHIP_spasm_of_retort: "Ответный спазм"
+ PRETHORYN_SHIP_voxyn: "Воксин"
+ PRETHORYN_SHIP_spur_of_the_faithless: "Шпора неверных"
+ PRETHORYN_SHIP_paradise_won: "Рай завоеван"
+ PRETHORYN_SHIP_promised_land: "Земля обетованная"
+ PRETHORYN_SHIP_thus_to_unbelievers: "Так для неверующих"
+ PRETHORYN_SHIP_rage_of_the_fallen: "Ярость падших"
+ PRETHORYN_SHIP_fist_of_the_yun: "Кулак Юнь"
+ PRETHORYN_SHIP_spirit_of_the_yun: "Дух юнь"
+ PRETHORYN_SHIP_warchild: "Дитя войны"
+ PRETHORYN_SHIP_seed_of_destruction: "Семя разрушения"
+ PRETHORYN_SHIP_seed_of_rebirth: "Семя возрождения"
+ PRETHORYN_SHIP_righteous_obedience: "Праведное послушание"
+ PRETHORYN_SHIP_barbed_fist_of_yun: "Колючий кулак Юнь"
+ PRETHORYN_SHIP_striking_adder: "Поразительная гадюка"
+ PRETHORYN_SHIP_sacred_agony: "Священная агония"
+ PRETHORYN_SHIP_child_of_agony: "Дитя Агонии"
+ PRETHORYN_SHIP_heavenly_affliction: "Небесное бедствие"
+ PRETHORYN_SHIP_spiked_exhortation: "Острое Увещевание"
+ PRETHORYN_SHIP_impaled_promise: "Невыполненное обещание"
+ PRETHORYN_SHIP_impaled_glory: "Пронзенная слава"
+ PRETHORYN_SHIP_on_impaled_wings: "На пронзенных крыльях"
+ PRETHORYN_SHIP_holy_impaler: "Святой Цепеш"
+ PRETHORYN_SHIP_pinning_beast: "Прижимающий зверь"
+ PRETHORYN_SHIP_gored_fang_of_yun_harla: "Окровавленный Клык Юн-Харлы"
+ PRETHORYN_SHIP_czulkang_lah: "Чулканг Ла"
+ PRETHORYN_SHIP_exalted_barb: "Возвышенная колючка"
+ PRETHORYN_SHIP_relished_feast: "Вкусное угощение"
+ PRETHORYN_SHIP_offering_of_flesh: "Приношение плоти"
+ PRETHORYN_SHIP_ritual_of_the_willing: "Ритуал волеизъявления"
+ PRETHORYN_SHIP_scalded_offering: "Обжаренное подношение"
+ PRETHORYN_SHIP_immolated_offering: "Жертвоприношение"
+ PRETHORYN_SHIP_gallant_heart: "Доблестное сердце"
+ PRETHORYN_SHIP_unyielding_persecutor: "Непреклонный преследователь"
+ PRETHORYN_SHIP_blinding_pressure: "Ослепляющее давление"
+ PRETHORYN_SHIP_bounded_suffering: "Ограниченное страдание"
+ PRETHORYN_SHIP_lash_of_the_above: "Удар вышесказанного"
+ PRETHORYN_SHIP_nurtured_wrath: "Взращенный гнев"
+ PRETHORYN_SHIP_pinned_hope: "Возлагал надежды"
+ PRETHORYN_SHIP_chains_of_the_nonbeliever: "Цепи неверующего"
+ PRETHORYN_SHIP_breaker_of_sin: "Сокрушитель грехов"
+ PRETHORYN_SHIP_willingly_offered: "Добровольно предложил"
+ PRETHORYN_SHIP_coral_of_control: "Коралл контроля"
+ PRETHORYN_SHIP_slaughter_of_the_shamed: "Резня опозоренных"
+ PRETHORYN_SHIP_end_of_the_shamed: "Конец опозоренных"
+ PRETHORYN_SHIP_spiked_embrace: "Шипастые объятия"
+ PRETHORYN_SHIP_rended_brood: "Растерзанный выводок"
+ PRETHORYN_SHIP_exalted_pilgrim: "Возвышенный паломник"
+ PRETHORYN_SHIP_brother_of_war: "Боевой брат"
+ PRETHORYN_SHIP_warsister: "Сестра войны"
+ PRETHORYN_SHIP_word_of_the_brave: "Слово храбреца"
+ PRETHORYN_SHIP_final_word: "Последнее слово"
+ PRETHORYN_SHIP_blessed_death: "Благословенная смерть"
+ PRETHORYN_SHIP_final_blessing: "Последнее благословение"
+ PRETHORYN_SHIP_daughter_of_blades: "Дочь клинков"
+ PRETHORYN_SHIP_scarlet_hunter: "Алый охотник"
+ PRETHORYN_SHIP_crimson_spine: "Багровый хребет"
+ PRETHORYN_SHIP_spire_of_agony: "Шпиль Агонии"
+ PRETHORYN_SHIP_victory_s_hilt: "Рукоять победы"
+ PRETHORYN_SHIP_trickster_s_daughter: "Дочь трикстера"
+ PRETHORYN_SHIP_loving_eye: "Любящий взгляд"
+ PRETHORYN_SHIP_blood_of_the_brood: "Кровь выводка"
+ PRETHORYN_SHIP_voided_light: "Пустой свет"
+ PRETHORYN_SHIP_blissful_end: "Блаженный конец"
+ PRETHORYN_SHIP_barbed_bliss: "Колючее блаженство"
+ PRETHORYN_SHIP_fervor_of_belief: "Пыл веры"
+ PRETHORYN_SHIP_stricken_of_doubt: "Охваченный сомнением"
+ PRETHORYN_SHIP_cleansed_of_fear: "Очищенный от страха"
+ PRETHORYN_SHIP_slayer_s_hound: "Гончая истребительницы"
+ PRETHORYN_SHIP_scouring_implement: "Чистящий инструмент"
+ PRETHORYN_SHIP_forced_peace: "Вынужденный мир"
+ PRETHORYN_SHIP_cradle_of_sight: "Колыбель зрения"
+ PRETHORYN_SHIP_cradle_of_power: "Колыбель власти"
+ PRETHORYN_SHIP_wild_hunt: "Дикая охота"
+ PRETHORYN_SHIP_wild_abandon: "Дикий отказ"
+ PRETHORYN_SHIP_wrath_of_the_wild: "Гнев дикой природы"
+ PRETHORYN_SHIP_warrior_s_cradle: "Колыбель воина"
+ PRETHORYN_SHIP_pulpit_of_the_chosen: "Кафедра избранных"
+ PRETHORYN_SHIP_altar_of_sacrifice: "Алтарь жертвоприношения"
+ PRETHORYN_SHIP_altar_of_war: "Алтарь войны"
+ PRETHORYN_SHIP_altar_of_sight: "Алтарь зрения"
+ PRETHORYN_SHIP_altar_of_immolation: "Алтарь жертвоприношения"
+ PRETHORYN_SHIP_scalded_hand: "ошпаренная рука"
+ PRETHORYN_SHIP_blissful_ache: "Блаженная боль"
+ PRETHORYN_SHIP_strangled_cry: "Сдавленный крик"
+ PRETHORYN_SHIP_smothered_howl: "Сдавленный вой"
+ PRETHORYN_SHIP_promise_of_savagery: "Обещание дикости"
+ PRETHORYN_SHIP_well_of_ire: "Источник гнева"
+ PRETHORYN_SHIP_root_of_vengeance: "Корень мести"
+ PRETHORYN_SHIP_seething_void: "бурлящая пустота"
+ PRETHORYN_SHIP_tearful_worship: "Слезливое поклонение"
+ PRETHORYN_SHIP_worshipper: "Поклоняющийся"
+ PRETHORYN_SHIP_worshipper_s_gift: "Дар поклоняющегося"
+ PRETHORYN_SHIP_scalded_worship: "Обожженное поклонение"
+ PRETHORYN_SHIP_avatar_of_punishment: "Аватар наказания"
+ PRETHORYN_SHIP_bill_of_punishment: "Законопроект о наказании"
+ PRETHORYN_SHIP_warrant_of_domination: "Ордер на доминирование"
+ PRETHORYN_SHIP_stinging_bliss: "Жгучее блаженство"
+ PRETHORYN_SHIP_stinging_worship: "Жгучее поклонение"
+ PRETHORYN_SHIP_pulpit_of_stings: "Кафедра жал"
+ PRETHORYN_SHIP_sacred_brand: "Священное Клеймо"
+ PRETHORYN_SHIP_mark_of_the_purifier: "Знак Очистителя"
+ PRETHORYN_SHIP_instrument_of_damnation: "Орудие проклятия"
+ PRETHORYN_SHIP_instrument_of_the_yun: "Инструмент Юнь"
+ PRETHORYN_SHIP_cut_of_grace: "Изящный покрой"
+ PRETHORYN_SHIP_hand_of_flaying: "Рука сдирания кожи"
+ PRETHORYN_SHIP_spirit_of_the_knife: "Дух ножа"
+ PRETHORYN_SHIP_mandate_of_oblivion: "Мандат забвения"
+ PRETHORYN_SHIP_heretic_s_ruin: "Гибель еретика"
+ PRETHORYN_SHIP_shape_of_fate: "Форма судьбы"
+ PRETHORYN_SHIP_destined_wound: "Предначертанная рана"
+ PRETHORYN_SHIP_slayer_of_idols: "Истребительница идолов"
+ PRETHORYN_SHIP_true_idol: "Настоящий идол"
+ PRETHORYN_SHIP_idolatry_s_end: "Конец идолопоклонству"
+ PRETHORYN_SHIP_heathen_pyre: "Языческий погребальный костер"
+ PRETHORYN_SHIP_idolatress__fate: "Судьба идолопоклонницы"
+ PRETHORYN_SHIP_righteous_flaying: "Праведное содрание кожи"
+ PRETHORYN_SHIP_slow_slice: "Медленный срез"
+ PRETHORYN_SHIP_righteous_cruelty: "Праведная жестокость"
+ PRETHORYN_SHIP_woespawn: "Порождение Скорби"
+ PRETHORYN_SHIP_bliss_of_refusal: "Блаженство отказа"
+ PRETHORYN_SHIP_ecstasy_of_denial: "Экстаз отрицания"
+ PRETHORYN_SHIP_slayer_s_mark: "Метка истребительницы"
+ PRETHORYN_SHIP_catechism: "Катехизис"
+ PRETHORYN_SHIP_repentance: "Покаяние"
+ PRETHORYN_SHIP_repenter: "Кающийся"
+ PRETHORYN_SHIP_bridle_of_the_false: "Уздечка лжи"
+ PRETHORYN_SHIP_blasphemer_s_yoke: "Иго богохульника"
+ PRETHORYN_SHIP_hidden_truth: "Скрытая истина"
+ PRETHORYN_SHIP_end_of_charity: "Конец благотворительности"
+ PRETHORYN_SHIP_breath_of_annihilation: "Дыхание уничтожения"
+ PRETHORYN_SHIP_day_of_rage: "День гнева"
+ PRETHORYN_SHIP_blightbane: "Губитель"
+ PRETHORYN_SHIP_solemn_charity: "Торжественная благотворительность"
+ PRETHORYN_SHIP_salve_of_contrition: "Бальзам раскаяния"
+ PRETHORYN_SHIP_ecstasy_of_excruciation: "Экстаз мучения"
+ PRETHORYN_SHIP_excruciating_ecstasy: "Мучительный экстаз"
+ PRETHORYN_SHIP_salve_of_excruciation: "Бальзам от мучений"
+ PRETHORYN_SHIP_taste_of_cruelty: "Вкус жестокости"
+ PRETHORYN_SHIP_excruciator: "Мучитель"
+ PRETHORYN_SHIP_searing_glory: "Испепеляющая слава"
+ PRETHORYN_SHIP_grievous_joy: "Горькая радость"
+ PRETHORYN_SHIP_racking_bliss: "Мучительное блаженство"
+ PRETHORYN_SHIP_stabbing_exhilaration: "Колющее возбуждение"
+ PRETHORYN_SHIP_agonized_joy: "Мучительная радость"
+ PRETHORYN_SHIP_unbearable: "Невыносимо"
+ PRETHORYN_SHIP_debilitator: "Ослабитель"
+ PRETHORYN_SHIP_debilitated: "Ослабленный"
+ PRETHORYN_SHIP_excruciating_sacrament: "Мучительное таинство"
+ PRETHORYN_SHIP_axiom_of_redress: "Аксиома возмещения ущерба"
+ PRETHORYN_SHIP_absolution: "Отпущение грехов"
+ PRETHORYN_SHIP_blight_of_the_profane: "Проклятие профанов"
+ PRETHORYN_SHIP_ardent_follower: "Ярый последователь"
+ PRETHORYN_SHIP_agony_s_consort: "Супруга Агонии"
+ PRETHORYN_SHIP_brilliant_pain: "Ослепительная боль"
+ PRETHORYN_SHIP_prophecy_of_suffering: "Пророчество о страдании"
+ PRETHORYN_SHIP_misery_s_prophet: "Пророк несчастья"
+ PRETHORYN_SHIP_cleansing_fire: "Очищающий огонь"
+ PRETHORYN_SHIP_jubilant_sacrifice: "Ликующая жертва"
+ PRETHORYN_SHIP_divine_anger: "Божественный гнев"
+ PRETHORYN_SHIP_elegy_of_wrath: "Элегия гнева"
+ PRETHORYN_SHIP_penitent_s_elegy: "Элегия кающегося"
+ PRETHORYN_SHIP_pleasure_s_lament: "Плач удовольствия"
+ PRETHORYN_SHIP_eternal_damnation: "Вечное проклятие"
+ PRETHORYN_SHIP_far_sight: "Дальний прицел"
+ PRETHORYN_SHIP_staff_of_faith: "Посох веры"
+ PRETHORYN_SHIP_rod_of_servitude: "Жезл рабства"
+ PRETHORYN_SHIP_spoils_of_agony: "Трофеи Агонии"
+ PRETHORYN_SHIP_torturous_sustenance: "Мучительное пропитание"
+ PRETHORYN_SHIP_succor_of_the_afterlife: "Помощь в загробной жизни"
+ PRETHORYN_SHIP_night_of_knives: "Ночь ножей"
+ PRETHORYN_SHIP_carver_s_sacrament: "Таинство резчика"
+ PRETHORYN_SHIP_perpetual_devotion: "Вечная преданность"
+ PRETHORYN_SHIP_blood_devoted: "Посвященный крови"
+ PRETHORYN_SHIP_pious_rage: "Благочестивый гнев"
+ PRETHORYN_SHIP_revelation_of_war: "Откровение войны"
+ PRETHORYN_SHIP_vision_of_conquest: "Видение завоевания"
+ PRETHORYN_SHIP_pitiless: "безжалостный"
+ PRETHORYN_SHIP_spiritual_resolve: "Духовная Решимость"
+ PRETHORYN_SHIP_rapturous_arc: "Восторженная дуга"
+ PRETHORYN_SHIP_rapturous_fire: "Восторженный огонь"
+ PRETHORYN_SHIP_solemn_guard: "Торжественный караул"
+ PRETHORYN_SHIP_protector_of_eternity: "Защитник вечности"
+ PRETHORYN_SHIP_eye_of_damnation: "Око проклятия"
+ PRETHORYN_SHIP_spear_of_splendor: "Великолепное копье"
+ PRETHORYN_SHIP_supplicant: "Проситель"
+ PRETHORYN_SHIP_supplicant_of_tears: "Проситель слез"
+ PRETHORYN_SHIP_wound_of_remembrance: "Рана памяти"
+ PRETHORYN_SHIP_slow_death: "Медленная смерть"
+ PRETHORYN_SHIP_refrain_of_the_hunter: "Припев охотника"
+ PRETHORYN_SHIP_crusader_s_refrain: "Припев крестоносца"
+ PRETHORYN_SHIP_trial_of_faith: "Испытание верой"
+ PRETHORYN_SHIP_vong_viper: "Вонгская гадюка"
+ PRETHORYN_SHIP_yuuzhan_vong_swarmship: "Роевой корабль йуужань-вонгов"
+ PRETHORYN_FLEET_battle_group_of_yun_harla: "Боевая группа Юн-Харла"
+ PRETHORYN_FLEET_battle_group_of_yun_q_aah: "Боевая группа Юн-К'аа"
+ PRETHORYN_FLEET_battle_group_of_yun_txiin: "Боевая группа Юнь-Тсиина"
+ PRETHORYN_FLEET_battle_group_of_yun_yammka: "Боевая группа Юн-Яммки"
+ PRETHORYN_FLEET_battle_group_of_yun_yuuzhan: "Боевая группа Юн-йуужаня"
+ PRETHORYN_FLEET_battle_group_of_yun_ne_shel: "Боевая группа Юн-Не'Шел"
+ PRETHORYN_FLEET_battle_group_of_yun_shuno: "Боевая группа Юнь-Шуно"
+ PRETHORYN_FLEET_battle_group_of_yun_lingni: "Боевая группа Юнь-Линни"
+ PRETHORYN_FLEET_battle_group_of_yun_o: "Боевая группа Юньо'о"
+ PRETHORYN_FLEET_martyrs_of_yun_harla: "Мученики Юн-Харлы"
+ PRETHORYN_FLEET_martyrs_of_yun_q_aah: "Мученики Юн-К'аа"
+ PRETHORYN_FLEET_martyrs_of_yun_txiin: "Мученики Юнь-Тсиина"
+ PRETHORYN_FLEET_martyrs_of_yun_yammka: "Мученики Юн-Яммки"
+ PRETHORYN_FLEET_martyrs_of_yun_yuuzhan: "Мученики Юн-Йуужаня"
+ PRETHORYN_FLEET_martyrs_of_yun_ne_shel: "Мученики Юн-Не'Шеля"
+ PRETHORYN_FLEET_martyrs_of_yun_shuno: "Мученики Юн-Шуно"
+ PRETHORYN_FLEET_martyrs_of_yun_lingni: "Мученики Юн-Линни"
+ PRETHORYN_FLEET_martyrs_of_yun_o: "Мученики Юно"
+ PRETHORYN_FLEET_prophets_of_yun_harla: "Пророки Юн-Харлы"
+ PRETHORYN_FLEET_prophets_of_yun_q_aah: "Пророки Юн-Каха"
+ PRETHORYN_FLEET_prophets_of_yun_txiin: "Пророки Юнь-Тсиина"
+ PRETHORYN_FLEET_prophets_of_yun_yammka: "Пророки Юн-Яммки"
+ PRETHORYN_FLEET_prophets_of_yun_yuuzhan: "Пророки Юн-Йуужаня"
+ PRETHORYN_FLEET_prophets_of_yun_ne_shel: "Пророки Юн-Не'Шела"
+ PRETHORYN_FLEET_prophets_of_yun_shuno: "Пророки Юнь-Шуно"
+ PRETHORYN_FLEET_prophets_of_yun_lingni: "Пророки Юнь-Линни"
+ PRETHORYN_FLEET_prophets_of_yun_o: "Пророки Юно"
+ PRETHORYN_FLEET_yun_harla_s_faithful: "Верный Юн-Харла"
+ PRETHORYN_FLEET_yun_q_aah_s_faithful: "Верный Юн-К'а"
+ PRETHORYN_FLEET_yun_txiin_s_faithful: "Верный Юнь-Тсиин"
+ PRETHORYN_FLEET_yun_yammka_s_faithful: "Верный Юн-Яммка"
+ PRETHORYN_FLEET_yun_yuuzhan_s_faithful: "Верный Юн-Йуужань"
+ PRETHORYN_FLEET_yun_ne_shel_s_faithful: "Верный Юн-Не'Шел"
+ PRETHORYN_FLEET_yun_shuno_s_faithful: "Верный Юн-Шуно"
+ PRETHORYN_FLEET_yun_lingni_s_faithful: "Верная Юнь Линни"
+ PRETHORYN_FLEET_yun_o_s_faithful: "Верный Юно"
+ PRETHORYN_FLEET_yuuzhan_vong_war_party_ORD: "$ORD$ Военный отряд Йуужань-вонгов"
+ PRETHORYN_CHR_shaper_nom_anor: "Шейпер Ном Анор"
+ PRETHORYN_CHR_warmaster_nom_gesor: "Воитель Ном Гесор"
+ PRETHORYN_CHR_subaltern_nom_venor: "Подчиненный Ном Венор"
+ PRETHORYN_CHR_commander_nom_lah: "Командер Ном Ла"
+ PRETHORYN_CHR_priest_nei_rin: "Священник Нэй Рин"
+ PRETHORYN_CHR_warmaster_neila_mahg: "Воитель Нила Махг"
+ PRETHORYN_CHR_subaltern_tsavong_lah: "Подчиненный Цавонг Ла"
+ PRETHORYN_CHR_commander_tsavong_lorkh: "Командер Цавонг Лорх"
+ PRETHORYN_CHR_warmaster_mezhan_kwaad: "Воитель Межан Кваад"
+ PRETHORYN_CHR_warmaster_norma_kwaad: "Воитель Норма Кваад"
+ PRETHORYN_CHR_subaltern_quoreal: "Младший офицерский состав"
+ PRETHORYN_CHR_commander_nen_yim: "Командир Нен Йим"
+ PRETHORYN_CHR_shaper_nen_yuuz: "Формирователь Нен Юуз"
+ PRETHORYN_CHR_priest_nas_choka: "Священник Нас Чока"
+ PRETHORYN_CHR_warrior_nasala_korka: "Воин Насала Корка"
+ PRETHORYN_CHR_warmaster_shedao_shai: "Воитель Шедао Шай"
+ PRETHORYN_CHR_shaper_zenoc_quah: "Формирователь Зенок Куах"
+ PRETHORYN_CHR_high_priest_thresher: "Верховный Жрец-Молотильщик"
+ PRETHORYN_CHR_warrior_orah_jamaane: "Воин Ора Джамаане"
+ PRETHORYN_CHR_warmaster_viull_gorsat: "Воитель Виулл Горсат"
+ PRETHORYN_CHR_shaper_arkyla_kwaaha: "Шейпер Аркила Квааха"
+ PRETHORYN_CHR_high_priest_feede_quaha: "Верховный жрец Фидеа Куаха"
+ PRETHORYN_CHR_warmaster_tsarah_anoora: "Воитель Царах Аноура"
+ PRETHORYN_CHR_warmaster_nomma_ying: "Воитель Номма Ин"

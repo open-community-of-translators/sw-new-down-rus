@@ -59,19 +59,19 @@
  ### New 4.4.2023 ###
  #Chiss lore events
  swnd_chiss_events.10.name: "Разведывательная миссия"
- swnd_chiss_events.10.desc: "В §YДоминации§! царит чувство тревоги. Внутренние распри среди §HАристокров§!, созданные агентом §YГегемонии Грисков§!, стоили карьеры §HСтаршему капитану Митт«рау»нуруодо§!. В результате превентивного удара - действия, нарушающего как §HСовет Оборонительной иерархии§!, так и законы §YДоминации§! - §HМитт«рау»нуруодо!§! был изгнан и лишен своего воинского звания, привилегий и статуса в семье §HМитт§!.\n\Некоторые члены §HСовета Оборонительной иерархии§! считают, что изгнание §HТрауна§! - это прикрытие для разведывательной миссии в §BМалом пространстве§!, чтобы установить контакт с §YГалактической империей§! и определить, могут ли они быть ценным союзником против §YГегемонии Грисков§! и других, угрожающих §YДоминации§!."
+ swnd_chiss_events.10.desc: "В §YДоминации§! царит чувство тревоги. Внутренние распри среди §HАристокров§!, созданные агентом §YГегемонии Грисков§!, стоили карьеры §HСтаршему капитану Митт'рау'нуруодо§!. В результате превентивного удара - действия, нарушающего как §HСовет Оборонительной иерархии§!, так и законы §YДоминации§! - §HМитт'рау'нуруодо!§! был изгнан и лишен своего воинского звания, привилегий и статуса в семье §HМитт§!.\n\Некоторые члены §HСовета Оборонительной иерархии§! считают, что изгнание §HТрауна§! - это прикрытие для разведывательной миссии в §BМалом пространстве§!, чтобы установить контакт с §YГалактической империей§! и определить, могут ли они быть ценным союзником против §YГегемонии Грисков§! и других, угрожающих §YДоминации§!."
  swnd_chiss_events.10.a: "Пусть удача воина будет на его стороне."
  swnd_chiss_events.20.name: "Протеже"
- swnd_chiss_events.20_desc: "Старшие офицеры §HСил экспансии и обороны§! отмечают достижения §HИризи«ар»алани§!. Будучи протеже §HТраун§, командный состав признает его лидерские способности и тактическую хватку."
+ swnd_chiss_events.20_desc: "Старшие офицеры §HСил экспансии и обороны§! отмечают достижения §HИризи'ар'алани§!. Будучи протеже §HТраун§, командный состав признает его лидерские способности и тактическую хватку."
  swnd_chiss_events.20.a: "Отличные новости, добро пожаловать на борт!"
  swnd_chiss_events.30.name: "Атташе"
- swnd_chiss_events.30.desc: "Поступающие отчеты из §BМалого пространства§! показывают, что §HТраун§! сделал себе имя в §YГалактической Империи§! получив звание §HГранд-адмирала§!. Его верность §YИмперии§! вызывает беспокойство, однако нет никаких сомнений, что речь идет об угрозах, которые таятся в §BХаосе§!.\n\nС его новым повышением, §HТраун§! отправляет другого своего протеже, имперца по имени §HИлай«вэн»то§!, действовать в качестве атташе в §YДоминации§!. Это близкий друг гранд-адмирала, он поможет нашей империи."
- swnd_chiss_events.30.a: "§YДоминация§! приветствует вас, §HИлай«вэн»то§!."
+ swnd_chiss_events.30.desc: "Поступающие отчеты из §BМалого пространства§! показывают, что §HТраун§! сделал себе имя в §YГалактической Империи§! получив звание §HГранд-адмирала§!. Его верность §YИмперии§! вызывает беспокойство, однако нет никаких сомнений, что речь идет об угрозах, которые таятся в §BХаосе§!.\n\nС его новым повышением, §HТраун§! отправляет другого своего протеже, имперца по имени §HИлай'вэн'то§!, действовать в качестве атташе в §YДоминации§!. Это близкий друг гранд-адмирала, он поможет нашей империи."
+ swnd_chiss_events.30.a: "§YДоминация§! приветствует вас, §HИлай'вэн'то§!."
 
 
  ## 5 July 2023 ##
  ## Adaptability Fix ##
- tr_adaptability_recycling_desc:1 "Затраты £tibanna_gas£ £electronics£ £bacta£ £spice£ §YСтратегических ресурсов§ на §Yпостройку§! и §Yсодержание§! §Yсооружений§! и §Yрайонов§! снижены на  §G-10%§!."
+ tr_adaptability_recycling_desc:1 "Затраты £tibanna_gas£ £electronics£ £bacta£ £spice£ §YСтратегических ресурсов§ на §Yпостройку§! и §Yсодержание§! §Yсооружений§! и §Yрайонов§! снижены на §G-10%§!."
  r_nd_strategic: "£tibanna_gas£ £electronics£ £bacta£ £spice£ §YСтратегический ресурс§!"
  r_nd_strategic_plural: "£tibanna_gas£ £electronics£ £bacta£ £spice£ §YСтратегические ресурсы§!"
  mod_planet_structures_tibanna_gas_upkeep_mult: "Содержание районов и сооружений в газе Тибанна"
@@ -83,7 +83,7 @@
  mod_planet_structures_spice_cost_mult: "Затраты Спайса на районы и сооружения"
  mod_planet_structures_spice_upkeep_mult: "Содержание районов и сооружений в Спайсе"
 
-  ## 17 May 2024 ##
+ ## 17 May 2024 ##
  ring_world_2_intermediate_MEGASTRUCTURE_DETAILS: ""
  ring_world_3_intermediate_MEGASTRUCTURE_DETAILS: ""
 
@@ -128,7 +128,7 @@
  crisis_new_order_level_3_desc: "Новый порядок Уровень 3"
  crisis_new_order_level_4_desc: "Новый порядок Уровень 4"
  crisis_new_order_level_5_desc: "Новый порядок Уровень 5"
-  
+ 
  crisis_crusade_level_1: "Крестовый поход"
  crisis_crusade_level_2: "Новая эра"
  crisis_crusade_level_3: "Разведка"
@@ -299,7 +299,7 @@
  swnd_partisans.5002.a: "Да будет так." 
 
 ### ignore this section, its stuff I might reuse later ###
-#Early opposition in the senate led to sixty-three senators being arrested by  
+#Early opposition in the senate led to sixty-three senators being arrested by 
 #Every session starts the same way with a seemingly mindless repetition of an oath to peace and bounty throughout the Empire. The oathkeeper«s call and the senators» response. Every session ends with something being chipped away at from the foundation of the Republic. Increased military spending, the introduction of a new currency, the disregard for the rights and lives of non-Humans. 
 #Principled Dissension
 #The wealth of House Organa is for more than just outward appearances. Through the charitable efforts of Bail Organa, Alderaan proves itself as a key player in galactic aid and relief efforts. Even as the Imperial Senate chips away at the freedoms throughout the galaxy, Bail continues his effort to provide help to those in need. His actions have even rubbed off on his daughter, Leia.

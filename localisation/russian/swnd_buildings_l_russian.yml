@@ -206,7 +206,7 @@
  building_recruiting_center_scaling_tooltip: "Для обеспечения стабильной поставки £job_resolnare£ $job_resolnare_plural$, количество предоставляемых рабочих мест должно варьироваться между §Y100§! и §Y300§!, в зависимости от §Yприроста поселений§!.\n\n" 
  
  ########################################
- ## Districts                         ##
+ ## Districts ##
  ######################################## 
  district_habitat: "Жилой район"
  district_habitat_plural: "Жилые районы"
@@ -365,7 +365,7 @@
  decision_ecumenopolis_ruined_effects_short: "Увеличивает £housing£ §Y$PLANET_HOUSING_TITLE$§!, §Yпроизводство ресурсов§! и §Yрост поселений§!\nОткрывает £district£ §Yрайоны Аркологии§!\nБлокирует строительтсво £district£ §YЭнергетических§!, §YГорнодобывающих§! и §YСельскохозяйственных районов§!"
 
  ########################################
- ## Starbase Modules and Buildings     ##
+ ## Starbase Modules and Buildings ##
  ######################################## 
  sm_module_orbital_defense: "Модуль орбитальной обороны"
  sm_module_orbital_defense_desc: "Резервные генераторы щитов и дополнительная броня защищают эту звездную базу от атак."

@@ -1,966 +1,966 @@
 ﻿l_russian:
-	WOOKIEE_SHIP_rwookrrorro: "Rwookrrorro" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chenachochan: "Chenachochan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grunnrurr: "Grunnrurr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hoorrkhukk: "Hoorrkhukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kachirho: "Kachirho" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kahiyuk: "Kahiyuk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerritamba: "Kerritamba" #!Empty_LineInfo!
-	WOOKIEE_SHIP_maarwraawroo: "Maarwraawroo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_northaykk: "Northaykk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_okikuti: "Okikuti" #!Empty_LineInfo!
-	WOOKIEE_SHIP_orriorr: "Orriorr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_palsaang: "Palsaang" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rarrhkrrorrho: "Rarrhkrrorrho" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rowrakruk: "Rowrakruk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_truvvhhurr: "Truvvhhurr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tunnatuitkan: "Tunnatuitkan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_warralokk: "Warralokk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wawaat: "Wawaat" #!Empty_LineInfo!
-	WOOKIEE_SHIP_awrathakka: "Awrathakka" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ittummi: "Ittummi" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kamarkiia: "Kamarkiia" #!Empty_LineInfo!
-	WOOKIEE_SHIP_karryntora: "Karryntora" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kepitenochan: "Kepitenochan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kroohhuhwoor: "Kroohhuhwoor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_waarwraawroo: "Waarwraawroo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mattichek: "Mattichek" #!Empty_LineInfo!
-	WOOKIEE_SHIP_thikkiiana: "Thikkiiana" #!Empty_LineInfo!
-	WOOKIEE_SHIP_webweaver: "Webweaver" #!Empty_LineInfo!
-	WOOKIEE_SHIP_etyyr: "Etyyr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ryratt: "Ryratt" #!Empty_LineInfo!
-	WOOKIEE_SHIP_merumeru: "Merumeru" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tarfful: "Tarfful" #!Empty_LineInfo!
-	WOOKIEE_SHIP_zaalbar: "Zaalbar" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attichitcuk: "Attichitcuk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_freyyr: "Freyyr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attabura: "Attabura" #!Empty_LineInfo!
-	WOOKIEE_SHIP_bacca: "Bacca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rothrrrawr: "Rothrrrawr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_yarua: "Yarua" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerrithrarr: "Kerrithrarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hrrtayyk: "Hrrtayyk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rrakktoor: "Rrakktoor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wartaki: "Wartaki" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tyvokka: "Tyvokka" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rikummee: "Rikummee" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grakchawwaa: "Grakchawwaa" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kkowir: "Kkowir" #!Empty_LineInfo!
-	WOOKIEE_SHIP_myyydri: "Myyydri" #!Empty_LineInfo!
-	WOOKIEE_SHIP_anakkona: "Anakkona" #!Empty_LineInfo!
-	WOOKIEE_SHIP_charkarr: "Charkarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_factryn: "Factryn" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gorryl: "Gorryl" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jyykle: "Jyykle" #!Empty_LineInfo!
-	WOOKIEE_SHIP_katarn: "Katarn" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kinrath: "Kinrath" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kkorrwrot: "Kkorrwrot" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kkryytch: "Kkryytch" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kououra: "Kououra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mykal: "Mykal" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ro_roo: "Ro-roo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_sureggi: "Sureggi" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tach: "Tach" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tharriarr: "Tharriarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_uller: "Uller" #!Empty_LineInfo!
-	WOOKIEE_SHIP_urnsor_is: "Urnsor'is" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wyyyschokk: "Wyyyschokk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_yuugrr: "Yuugrr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_yoda_gwyaaaag: "Yoda Gwyaaaag" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ryuraygu: "Ryuraygu" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hnn_rowr: "Hnn-Rowr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_uwaga: "Uwaga" #!Empty_LineInfo!
-	WOOKIEE_SHIP_guwah: "Guwah" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rrrooaarrgghh: "Rrrooaarrgghh" #!Empty_LineInfo!
-	WOOKIEE_SHIP_awa: "Awa" #!Empty_LineInfo!
-	WOOKIEE_SHIP_muaarga: "Muaarga" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arriurra: "Arriurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arriykam: "Arriykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busurra: "Busurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busykam: "Busykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirurra: "Ciiirurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiiykam: "Ciiiykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalurra: "Chalurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalykam: "Chalykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chewurra: "Chewurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chewykam: "Chewykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_dryurra: "Dryurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_dryykam: "Dryykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_frourra: "Frourra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_froykam: "Froykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gaarurra: "Gaarurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gaarykam: "Gaarykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyurra: "Geyyurra" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyykam: "Geyyykam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_graura: "Graura" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grayka: "Grayka" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busaddik: "Busaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busanta: "Busanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_drychit: "Drychit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_dryaddik: "Dryaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowaddik: "Jowaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowahab: "Jowahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowanta: "Jowanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowchit: "Jowchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowevge: "Jowevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowbecca: "Jowbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowtatha: "Jowtatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jowwarr: "Jowwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arriaddik: "Arriaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arriahab: "Arriahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arrianta: "Arrianta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arribecca: "Arribecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arrichit: "Arrichit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arrievge: "Arrievge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arritatha: "Arritatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arriwarr: "Arriwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attiaddik: "Attiaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attiahab: "Attiahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attianta: "Attianta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attibecca: "Attibecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attichit: "Attichit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attievge: "Attievge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attitatha: "Attitatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attiwarr: "Attiwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busahab: "Busahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busbecca: "Busbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_buschit: "Buschit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busevge: "Busevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_bustatha: "Bustatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_buswarr: "Buswarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiiraddik: "Ciiiraddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirahab: "Ciiirahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiiranta: "Ciiiranta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirbecca: "Ciiirbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirchit: "Ciiirchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirevge: "Ciiirevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirtatha: "Ciiirtatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirwarr: "Ciiirwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chaladdik: "Chaladdik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalahab: "Chalahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalanta: "Chalanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalbecca: "Chalbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalchit: "Chalchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalevge: "Chalevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chaltatha: "Chaltatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalwarr: "Chalwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyaddik: "Geyyaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyahab: "Geyyahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyanta: "Geyyanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyybecca: "Geyybecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyychit: "Geyychit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyevge: "Geyyevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyytatha: "Geyytatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyywarr: "Geyywarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozaddik: "Grozaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozahab: "Grozahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozanta: "Grozanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozbecca: "Grozbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozchit: "Grozchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozevge: "Grozevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_groztatha: "Groztatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grozwarr: "Grozwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallaaddik: "Kallaaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallaahab: "Kallaahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallaanta: "Kallaanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallabecca: "Kallabecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallachit: "Kallachit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallaevge: "Kallaevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallatatha: "Kallatatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kallawarr: "Kallawarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitaddik: "Kitaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitahab: "Kitahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitanta: "Kitanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitbecca: "Kitbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitchit: "Kitchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitevge: "Kitevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kittatha: "Kittatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kitwarr: "Kitwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakaddik: "Liakaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakahab: "Liakahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakanta: "Liakanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakbecca: "Liakbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakchit: "Liakchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakevge: "Liakevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liaktatha: "Liaktatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_liakwarr: "Liakwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofaddik: "Lofaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofahab: "Lofahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofanta: "Lofanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofbecca: "Lofbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofchit: "Lofchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofevge: "Lofevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_loftatha: "Loftatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofwarr: "Lofwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagaddik: "Nagaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagahab: "Nagahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_naganta: "Naganta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagbecca: "Nagbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagchit: "Nagchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagevge: "Nagevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagtatha: "Nagtatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nagwarr: "Nagwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shoraddik: "Shoraddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shorahab: "Shorahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shoranta: "Shoranta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shorbecca: "Shorbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shorchit: "Shorchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shorevge: "Shorevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shortatha: "Shortatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shorwarr: "Shorwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoaddik: "Snoaddik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoahab: "Snoahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoanta: "Snoanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snobecca: "Snobecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snochit: "Snochit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoevge: "Snoevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snotatha: "Snotatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snowarr: "Snowarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrladdik: "Wrrladdik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlahab: "Wrrlahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlanta: "Wrrlanta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlbecca: "Wrrlbecca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlchit: "Wrrlchit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlevge: "Wrrlevge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrltatha: "Wrrltatha" #!Empty_LineInfo!
-	WOOKIEE_SHIP_wrrlwarr: "Wrrlwarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_okikbarr: "Okikbarr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_myyydril: "Myyydril" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chevappa: "Chevappa" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chyakk: "Chyakk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gkrur: "Gkrur" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grrobahrr: "Grrobahrr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kaapauku: "Kaapauku" #!Empty_LineInfo!
-	WOOKIEE_SHIP_nysshyyyk: "Nysshyyyk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_puurrgerr: "Puurrgerr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tojj: "Tojj" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ruhr: "Ruhr" #!Empty_LineInfo!
-	WOOKIEE_SHIP_salporin: "Salporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_graaa_shad: "Graaa'shad" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tarkazza: "Tarkazza" #!Empty_LineInfo!
-	WOOKIEE_SHIP_vorlocca: "Vorlocca" #!Empty_LineInfo!
-	WOOKIEE_SHIP_oevvaor: "Oevvaor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_shyyyo: "Shyyyo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_slyyyg: "Slyyyg" #!Empty_LineInfo!
-	WOOKIEE_SHIP_trakkrrrn: "Trakkrrrn" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rroshm: "Rroshm" #!Empty_LineInfo!
-	WOOKIEE_SHIP_rkkrrkkrl: "Rkkrrkkrl" #!Empty_LineInfo!
-	WOOKIEE_SHIP_oryyka: "Oryyka" #!Empty_LineInfo!
-	WOOKIEE_SHIP_neocomora: "Neocomora" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ah_wu_aaa: "Ah Wu Aaa" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirkabukk: "Ciiirkabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalkabukk: "Chalkabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerrikabukk: "Kerrikabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofkabukk: "Lofkabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_salkabukk: "Salkabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snokabukk: "Snokabukk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirnik: "Ciiirnik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalnik: "Chalnik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerrinik: "Kerrinik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofnik: "Lofnik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_salnik: "Salnik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snonik: "Snonik" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirova: "Ciiirova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalova: "Chalova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerriova: "Kerriova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofova: "Lofova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_salova: "Salova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoova: "Snoova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ciiirporin: "Ciiirporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chalporin: "Chalporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kerriporin: "Kerriporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lofporin: "Lofporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_snoporin: "Snoporin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_haaag: "Haaag" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attibev: "Attibev" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busbev: "Busbev" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gaarbev: "Gaarbev" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mallabev: "Mallabev" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ralrbev: "Ralrbev" #!Empty_LineInfo!
-	WOOKIEE_SHIP_attibow: "Attibow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busbow: "Busbow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gaarbow: "Gaarbow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mallabow: "Mallabow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ralrbow: "Ralrbow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_busraoao: "Busraoao" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gaarraoao: "Gaarraoao" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mallaraoao: "Mallaraoao" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ralrraoao: "Ralrraoao" #!Empty_LineInfo!
-	WOOKIEE_SHIP_graahab: "Graahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lowahab: "Lowahab" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arrian: "Arrian" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyyan: "Geyyan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_graan: "Graan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lowan: "Lowan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arribow: "Arribow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyybow: "Geyybow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grabow: "Grabow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lowbow: "Lowbow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_arrimum: "Arrimum" #!Empty_LineInfo!
-	WOOKIEE_SHIP_geyymum: "Geyymum" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gramum: "Gramum" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lowmum: "Lowmum" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	WOOKIEE_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	WOOKIEE_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	WOOKIEE_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	WOOKIEE_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	WOOKIEE_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	WOOKIEE_SHIP_acre: "Acre" #!Empty_LineInfo!
-	WOOKIEE_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	WOOKIEE_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	WOOKIEE_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	WOOKIEE_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	WOOKIEE_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	WOOKIEE_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	WOOKIEE_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	WOOKIEE_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	WOOKIEE_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_newport: "Newport" #!Empty_LineInfo!
-	WOOKIEE_SHIP_guam: "Guam" #!Empty_LineInfo!
-	WOOKIEE_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	WOOKIEE_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	WOOKIEE_SHIP_everest: "Everest" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	WOOKIEE_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	WOOKIEE_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	WOOKIEE_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	WOOKIEE_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	WOOKIEE_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	WOOKIEE_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	WOOKIEE_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	WOOKIEE_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	WOOKIEE_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	WOOKIEE_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	WOOKIEE_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	WOOKIEE_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	WOOKIEE_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	WOOKIEE_SHIP_perry: "Perry" #!Empty_LineInfo!
-	WOOKIEE_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	WOOKIEE_SHIP_morris: "Morris" #!Empty_LineInfo!
-	WOOKIEE_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hart: "Hart" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	WOOKIEE_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	WOOKIEE_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	WOOKIEE_SHIP_turner: "Turner" #!Empty_LineInfo!
-	WOOKIEE_SHIP_doria: "Doria" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	WOOKIEE_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	WOOKIEE_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	WOOKIEE_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	WOOKIEE_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_durham: "Durham" #!Empty_LineInfo!
-	WOOKIEE_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	WOOKIEE_SHIP_milne: "Milne" #!Empty_LineInfo!
-	WOOKIEE_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	WOOKIEE_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	WOOKIEE_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	WOOKIEE_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	WOOKIEE_SHIP_pound: "Pound" #!Empty_LineInfo!
-	WOOKIEE_SHIP_king: "King" #!Empty_LineInfo!
-	WOOKIEE_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	WOOKIEE_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	WOOKIEE_SHIP_essen: "Essen" #!Empty_LineInfo!
-	WOOKIEE_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	WOOKIEE_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	WOOKIEE_SHIP_treville: "Treville" #!Empty_LineInfo!
-	WOOKIEE_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	WOOKIEE_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	WOOKIEE_SHIP_byng: "Byng" #!Empty_LineInfo!
-	WOOKIEE_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	WOOKIEE_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	WOOKIEE_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	WOOKIEE_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	WOOKIEE_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	WOOKIEE_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	WOOKIEE_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	WOOKIEE_FLEET_wroshyr_squadron: "Wroshyr Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_trakkrrrn_squadron: "Trakkrrrn Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_kshyy_squadron: "Kshyy Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_katarn_squadron: "Katarn Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_shyyyo_squadron: "Shyyyo Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_wyyyschokk_squadron: "Wyyyschokk Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_asyyyriak_squadron: "Asyyyriak Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_kkorrwrot_squadron: "Kkorrwrot Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_rkkrrkkrl_squadron: "Rkkrrkkrl Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_oryyka_squadron: "Oryyka Squadron" #!Empty_LineInfo!
-	WOOKIEE_FLEET_kaskyyyk_expeditionary_force_ORD: "$ORD$ Kaskyyyk Expeditionary Force" #!Empty_LineInfo!
-	WOOKIEE_ARMY_tree_guard_ORD: "$ORD$ Tree Guard" #!Empty_LineInfo!
-	WOOKIEE_ARMY_war_claws_ORD: "$ORD$ War Claws" #!Empty_LineInfo!
-	WOOKIEE_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	WOOKIEE_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rock_claws_ORD: "$ORD$ Rock Claws" #!Empty_LineInfo!
-	WOOKIEE_ARMY_iron_claws_ORD: "$ORD$ Iron Claws" #!Empty_LineInfo!
-	WOOKIEE_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	WOOKIEE_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_tree_rangers_ORD: "$ORD$ Tree Rangers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_iron_watchers_ORD: "$ORD$ Iron Watchers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_village_warband_SEQ: "Village Warband $C$" #!Empty_LineInfo!
-	WOOKIEE_ARMY_village_army_SEQ: "Village Army $C$" #!Empty_LineInfo!
-	WOOKIEE_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	WOOKIEE_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	WOOKIEE_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	WOOKIEE_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	WOOKIEE_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	WOOKIEE_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	WOOKIEE_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	WOOKIEE_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	WOOKIEE_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	WOOKIEE_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	WOOKIEE_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	WOOKIEE_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	WOOKIEE_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	WOOKIEE_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	WOOKIEE_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	WOOKIEE_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	WOOKIEE_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	WOOKIEE_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	WOOKIEE_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	WOOKIEE_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	WOOKIEE_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	WOOKIEE_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	WOOKIEE_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	WOOKIEE_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	WOOKIEE_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	WOOKIEE_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	WOOKIEE_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	WOOKIEE_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	WOOKIEE_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	WOOKIEE_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	WOOKIEE_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	WOOKIEE_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	WOOKIEE_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	WOOKIEE_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	WOOKIEE_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	WOOKIEE_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	WOOKIEE_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	WOOKIEE_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	WOOKIEE_CHR_achonnko: "Achonnko" #!Empty_LineInfo!
-	WOOKIEE_CHR_burryaga: "Burryaga" #!Empty_LineInfo!
-	WOOKIEE_CHR_agaburry: "Agaburry" #!Empty_LineInfo!
-	WOOKIEE_CHR_attichitcuk: "Attichitcuk" #!Empty_LineInfo!
-	WOOKIEE_CHR_alrrark: "Alrrark" #!Empty_LineInfo!
-	WOOKIEE_CHR_arrogha: "Arrogha" #!Empty_LineInfo!
-	WOOKIEE_CHR_arrworr: "Arrworr" #!Empty_LineInfo!
-	WOOKIEE_CHR_attimun: "Attimun" #!Empty_LineInfo!
-	WOOKIEE_CHR_bacca: "Bacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_krrsantan: "Krrsantan" #!Empty_LineInfo!
-	WOOKIEE_CHR_barraak: "Barraak" #!Empty_LineInfo!
-	WOOKIEE_CHR_barrarro: "Barrarro" #!Empty_LineInfo!
-	WOOKIEE_CHR_blaschowwa: "Blaschowwa" #!Empty_LineInfo!
-	WOOKIEE_CHR_bokwarro: "Bokwarro" #!Empty_LineInfo!
-	WOOKIEE_CHR_bowdaar: "Bowdaar" #!Empty_LineInfo!
-	WOOKIEE_CHR_burtiin: "Burtiin" #!Empty_LineInfo!
-	WOOKIEE_CHR_busurra: "Busurra" #!Empty_LineInfo!
-	WOOKIEE_CHR_caroowar: "Caroowar" #!Empty_LineInfo!
-	WOOKIEE_CHR_chalkazza: "Chalkazza" #!Empty_LineInfo!
-	WOOKIEE_CHR_chalmun: "Chalmun" #!Empty_LineInfo!
-	WOOKIEE_CHR_chalurrekk: "Chalurrekk" #!Empty_LineInfo!
-	WOOKIEE_CHR_chambamakk: "Chambamakk" #!Empty_LineInfo!
-	WOOKIEE_CHR_chatook: "Chatook" #!Empty_LineInfo!
-	WOOKIEE_CHR_chawroo: "Chawroo" #!Empty_LineInfo!
-	WOOKIEE_CHR_chenlambec: "Chenlambec" #!Empty_LineInfo!
-	WOOKIEE_CHR_cherioer: "Cherioer" #!Empty_LineInfo!
-	WOOKIEE_CHR_cheyerooto: "Cheyerooto" #!Empty_LineInfo!
-	WOOKIEE_CHR_chorrawl: "Chorrawl" #!Empty_LineInfo!
-	WOOKIEE_CHR_choyyssyk: "Choyyssyk" #!Empty_LineInfo!
-	WOOKIEE_CHR_chrilooc: "Chrilooc" #!Empty_LineInfo!
-	WOOKIEE_CHR_chywarra: "Chywarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_d_koetaa: "D'Koetaa" #!Empty_LineInfo!
-	WOOKIEE_CHR_dalborra: "Dalborra" #!Empty_LineInfo!
-	WOOKIEE_CHR_drokkatta: "Drokkatta" #!Empty_LineInfo!
-	WOOKIEE_CHR_drrlirm: "Drrlirm" #!Empty_LineInfo!
-	WOOKIEE_CHR_dryanta: "Dryanta" #!Empty_LineInfo!
-	WOOKIEE_CHR_erriya: "Erriya" #!Empty_LineInfo!
-	WOOKIEE_CHR_eugroothwa: "Eugroothwa" #!Empty_LineInfo!
-	WOOKIEE_CHR_freyrr: "Freyrr" #!Empty_LineInfo!
-	WOOKIEE_CHR_friyahrr: "Friyahrr" #!Empty_LineInfo!
-	WOOKIEE_CHR_g_hhurrlha: "G'hhurrlha" #!Empty_LineInfo!
-	WOOKIEE_CHR_gaarkhan: "Gaarkhan" #!Empty_LineInfo!
-	WOOKIEE_CHR_gaartatha: "Gaartatha" #!Empty_LineInfo!
-	WOOKIEE_CHR_gaharrag: "Gaharrag" #!Empty_LineInfo!
-	WOOKIEE_CHR_ganarho: "Ganarho" #!Empty_LineInfo!
-	WOOKIEE_CHR_gargachykk: "Gargachykk" #!Empty_LineInfo!
-	WOOKIEE_CHR_garwooken: "Garwooken" #!Empty_LineInfo!
-	WOOKIEE_CHR_gerraba: "Gerraba" #!Empty_LineInfo!
-	WOOKIEE_CHR_gharcanna: "Gharcanna" #!Empty_LineInfo!
-	WOOKIEE_CHR_ghraggka: "Ghraggka" #!Empty_LineInfo!
-	WOOKIEE_CHR_gorbacca: "Gorbacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_gorwooken: "Gorwooken" #!Empty_LineInfo!
-	WOOKIEE_CHR_grabathar: "Grabathar" #!Empty_LineInfo!
-	WOOKIEE_CHR_grabow: "Grabow" #!Empty_LineInfo!
-	WOOKIEE_CHR_grahuur: "Grahuur" #!Empty_LineInfo!
-	WOOKIEE_CHR_grakchawwaa: "Grakchawwaa" #!Empty_LineInfo!
-	WOOKIEE_CHR_grarwwaar: "Grarwwaar" #!Empty_LineInfo!
-	WOOKIEE_CHR_grasheel: "Grasheel" #!Empty_LineInfo!
-	WOOKIEE_CHR_greybok: "Greybok" #!Empty_LineInfo!
-	WOOKIEE_CHR_grimyk: "Grimyk" #!Empty_LineInfo!
-	WOOKIEE_CHR_grouaggerl: "Grouaggerl" #!Empty_LineInfo!
-	WOOKIEE_CHR_grrallo: "Grrallo" #!Empty_LineInfo!
-	WOOKIEE_CHR_grrrwahrr: "Grrrwahrr" #!Empty_LineInfo!
-	WOOKIEE_CHR_gryyzak: "Gryyzak" #!Empty_LineInfo!
-	WOOKIEE_CHR_gumbaeki: "Gumbaeki" #!Empty_LineInfo!
-	WOOKIEE_CHR_gwarror: "Gwarror" #!Empty_LineInfo!
-	WOOKIEE_CHR_gyylghrard: "Gyylghrard" #!Empty_LineInfo!
-	WOOKIEE_CHR_hahrynyar: "Hahrynyar" #!Empty_LineInfo!
-	WOOKIEE_CHR_hanharr: "Hanharr" #!Empty_LineInfo!
-	WOOKIEE_CHR_harrgun: "Harrgun" #!Empty_LineInfo!
-	WOOKIEE_CHR_harwakokok: "Harwakokok" #!Empty_LineInfo!
-	WOOKIEE_CHR_hrrgn: "Hrrgn" #!Empty_LineInfo!
-	WOOKIEE_CHR_hurrwarr: "Hurrwarr" #!Empty_LineInfo!
-	WOOKIEE_CHR_isshaddik: "Isshaddik" #!Empty_LineInfo!
-	WOOKIEE_CHR_isshtharr: "Isshtharr" #!Empty_LineInfo!
-	WOOKIEE_CHR_jaarak: "Jaarak" #!Empty_LineInfo!
-	WOOKIEE_CHR_jakarro: "Jakarro" #!Empty_LineInfo!
-	WOOKIEE_CHR_jowmaac: "Jowmaac" #!Empty_LineInfo!
-	WOOKIEE_CHR_kaarror: "Kaarror" #!Empty_LineInfo!
-	WOOKIEE_CHR_kallaaddik: "Kallaaddik" #!Empty_LineInfo!
-	WOOKIEE_CHR_kallaarac: "Kallaarac" #!Empty_LineInfo!
-	WOOKIEE_CHR_karundabar: "Karundabar" #!Empty_LineInfo!
-	WOOKIEE_CHR_katykam: "Katykam" #!Empty_LineInfo!
-	WOOKIEE_CHR_kentara: "Kentara" #!Empty_LineInfo!
-	WOOKIEE_CHR_kerritamba: "Kerritamba" #!Empty_LineInfo!
-	WOOKIEE_CHR_kerrithraar: "Kerrithraar" #!Empty_LineInfo!
-	WOOKIEE_CHR_khyyynett: "Khyyynett" #!Empty_LineInfo!
-	WOOKIEE_CHR_kiaanta: "Kiaanta" #!Empty_LineInfo!
-	WOOKIEE_CHR_kichiir: "Kichiir" #!Empty_LineInfo!
-	WOOKIEE_CHR_kirroo: "Kirroo" #!Empty_LineInfo!
-	WOOKIEE_CHR_kitwarr: "Kitwarr" #!Empty_LineInfo!
-	WOOKIEE_CHR_kkatamik: "Kkatamik" #!Empty_LineInfo!
-	WOOKIEE_CHR_kravengash: "Kravengash" #!Empty_LineInfo!
-	WOOKIEE_CHR_kriyystak: "Kriyystak" #!Empty_LineInfo!
-	WOOKIEE_CHR_kropporrr: "Kropporrr" #!Empty_LineInfo!
-	WOOKIEE_CHR_krotorra: "Krotorra" #!Empty_LineInfo!
-	WOOKIEE_CHR_kuykenda: "Kuykenda" #!Empty_LineInfo!
-	WOOKIEE_CHR_lachichuk: "Lachichuk" #!Empty_LineInfo!
-	WOOKIEE_CHR_lamorrack: "Lamorrack" #!Empty_LineInfo!
-	WOOKIEE_CHR_lawadaa: "Lawadaa" #!Empty_LineInfo!
-	WOOKIEE_CHR_lobarorr: "Lobarorr" #!Empty_LineInfo!
-	WOOKIEE_CHR_lofryyhn: "Lofryyhn" #!Empty_LineInfo!
-	WOOKIEE_CHR_lowbacca: "Lowbacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_lowhhrick: "Lowhhrick" #!Empty_LineInfo!
-	WOOKIEE_CHR_lumpawaroo: "Lumpawaroo" #!Empty_LineInfo!
-	WOOKIEE_CHR_mahraccor: "Mahraccor" #!Empty_LineInfo!
-	WOOKIEE_CHR_merumeru: "Merumeru" #!Empty_LineInfo!
-	WOOKIEE_CHR_montacca: "Montacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_motamba: "Motamba" #!Empty_LineInfo!
-	WOOKIEE_CHR_nagraoao: "Nagraoao" #!Empty_LineInfo!
-	WOOKIEE_CHR_nawruun: "Nawruun" #!Empty_LineInfo!
-	WOOKIEE_CHR_nilwoon: "Nilwoon" #!Empty_LineInfo!
-	WOOKIEE_CHR_nyrkar: "Nyrkar" #!Empty_LineInfo!
-	WOOKIEE_CHR_olayyyk: "Olayyyk" #!Empty_LineInfo!
-	WOOKIEE_CHR_onurruka: "Onurruka" #!Empty_LineInfo!
-	WOOKIEE_CHR_oolovv: "Oolovv" #!Empty_LineInfo!
-	WOOKIEE_CHR_ooorlak: "Ooorlak" #!Empty_LineInfo!
-	WOOKIEE_CHR_oraalarri: "Oraalarri" #!Empty_LineInfo!
-	WOOKIEE_CHR_orooroo: "Orooroo" #!Empty_LineInfo!
-	WOOKIEE_CHR_orrekazzapirr: "Orrekazzapirr" #!Empty_LineInfo!
-	WOOKIEE_CHR_owacchi: "Owacchi" #!Empty_LineInfo!
-	WOOKIEE_CHR_ryyk: "Ryyk" #!Empty_LineInfo!
-	WOOKIEE_CHR_quaagan: "Quaagan" #!Empty_LineInfo!
-	WOOKIEE_CHR_quagga: "Quagga" #!Empty_LineInfo!
-	WOOKIEE_CHR_radrrl: "Radrrl" #!Empty_LineInfo!
-	WOOKIEE_CHR_rakika: "Rakika" #!Empty_LineInfo!
-	WOOKIEE_CHR_ralera: "Ralera" #!Empty_LineInfo!
-	WOOKIEE_CHR_ralrracheen: "Ralrracheen" #!Empty_LineInfo!
-	WOOKIEE_CHR_rarrook: "Rarrook" #!Empty_LineInfo!
-	WOOKIEE_CHR_rashtah: "Rashtah" #!Empty_LineInfo!
-	WOOKIEE_CHR_rawarok: "Rawarok" #!Empty_LineInfo!
-	WOOKIEE_CHR_reerookachuck: "Reerookachuck" #!Empty_LineInfo!
-	WOOKIEE_CHR_rholl: "Rholl" #!Empty_LineInfo!
-	WOOKIEE_CHR_rikummee: "Rikummee" #!Empty_LineInfo!
-	WOOKIEE_CHR_rojarra: "Rojarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_rooarwaa: "Rooarwaa" #!Empty_LineInfo!
-	WOOKIEE_CHR_roogar: "Roogar" #!Empty_LineInfo!
-	WOOKIEE_CHR_rorjow: "Rorjow" #!Empty_LineInfo!
-	WOOKIEE_CHR_rorworr: "Rorworr" #!Empty_LineInfo!
-	WOOKIEE_CHR_rowralorr: "Rowralorr" #!Empty_LineInfo!
-	WOOKIEE_CHR_rralla: "Rralla" #!Empty_LineInfo!
-	WOOKIEE_CHR_rrawkee: "Rrawkee" #!Empty_LineInfo!
-	WOOKIEE_CHR_rrelbocco: "Rrelbocco" #!Empty_LineInfo!
-	WOOKIEE_CHR_rroggerr: "Rroggerr" #!Empty_LineInfo!
-	WOOKIEE_CHR_rruurrfhurra: "Rruurrfhurra" #!Empty_LineInfo!
-	WOOKIEE_CHR_rufarr: "Rufarr" #!Empty_LineInfo!
-	WOOKIEE_CHR_ruhr: "Ruhr" #!Empty_LineInfo!
-	WOOKIEE_CHR_rukurruka: "Rukurruka" #!Empty_LineInfo!
-	WOOKIEE_CHR_saarcheen: "Saarcheen" #!Empty_LineInfo!
-	WOOKIEE_CHR_sagwa: "Sagwa" #!Empty_LineInfo!
-	WOOKIEE_CHR_salporin: "Salporin" #!Empty_LineInfo!
-	WOOKIEE_CHR_sarkkin: "Sarkkin" #!Empty_LineInfo!
-	WOOKIEE_CHR_shoran: "Shoran" #!Empty_LineInfo!
-	WOOKIEE_CHR_shorwarr: "Shorwarr" #!Empty_LineInfo!
-	WOOKIEE_CHR_snoova: "Snoova" #!Empty_LineInfo!
-	WOOKIEE_CHR_snotharr: "Snotharr" #!Empty_LineInfo!
-	WOOKIEE_CHR_snrrrlagga: "Snrrrlagga" #!Empty_LineInfo!
-	WOOKIEE_CHR_surracca: "Surracca" #!Empty_LineInfo!
-	WOOKIEE_CHR_syirlabradawk: "Syirlabradawk" #!Empty_LineInfo!
-	WOOKIEE_CHR_tahnchukka: "Tahnchukka" #!Empty_LineInfo!
-	WOOKIEE_CHR_takook: "Takook" #!Empty_LineInfo!
-	WOOKIEE_CHR_tallamitta: "Tallamitta" #!Empty_LineInfo!
-	WOOKIEE_CHR_tantarra: "Tantarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_tarkazza: "Tarkazza" #!Empty_LineInfo!
-	WOOKIEE_CHR_tojjelnoot: "Tojjelnoot" #!Empty_LineInfo!
-	WOOKIEE_CHR_tojjevvuk: "Tojjevvuk" #!Empty_LineInfo!
-	WOOKIEE_CHR_touda: "Touda" #!Empty_LineInfo!
-	WOOKIEE_CHR_triebakk: "Triebakk" #!Empty_LineInfo!
-	WOOKIEE_CHR_tyrrdko: "Tyrrdko" #!Empty_LineInfo!
-	WOOKIEE_CHR_tyvokka: "Tyvokka" #!Empty_LineInfo!
-	WOOKIEE_CHR_ulaaar: "Ulaaar" #!Empty_LineInfo!
-	WOOKIEE_CHR_ulibacca: "Ulibacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_urothko: "Urothko" #!Empty_LineInfo!
-	WOOKIEE_CHR_urrurrowo: "Urrurrowo" #!Empty_LineInfo!
-	WOOKIEE_CHR_utchakkaloch: "Utchakkaloch" #!Empty_LineInfo!
-	WOOKIEE_CHR_vorlocca: "Vorlocca" #!Empty_LineInfo!
-	WOOKIEE_CHR_vryyr: "Vryyr" #!Empty_LineInfo!
-	WOOKIEE_CHR_vryyyr: "Vryyyr" #!Empty_LineInfo!
-	WOOKIEE_CHR_warrchallra: "Warrchallra" #!Empty_LineInfo!
-	WOOKIEE_CHR_weebacca: "Weebacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_whumparrin: "Whumparrin" #!Empty_LineInfo!
-	WOOKIEE_CHR_wojarra: "Wojarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_woorwill: "Woorwill" #!Empty_LineInfo!
-	WOOKIEE_CHR_worrroznor: "Worrroznor" #!Empty_LineInfo!
-	WOOKIEE_CHR_worrumba: "Worrumba" #!Empty_LineInfo!
-	WOOKIEE_CHR_wrelaac: "Wrelaac" #!Empty_LineInfo!
-	WOOKIEE_CHR_wrhisch: "Wrhisch" #!Empty_LineInfo!
-	WOOKIEE_CHR_wrrlevgebev: "Wrrlevgebev" #!Empty_LineInfo!
-	WOOKIEE_CHR_wrrl: "Wrrl" #!Empty_LineInfo!
-	WOOKIEE_CHR_wullffwarro: "Wullffwarro" #!Empty_LineInfo!
-	WOOKIEE_CHR_wurokkk: "Wurokkk" #!Empty_LineInfo!
-	WOOKIEE_CHR_wyhyatt: "Wyhyatt" #!Empty_LineInfo!
-	WOOKIEE_CHR_yaawl: "Yaawl" #!Empty_LineInfo!
-	WOOKIEE_CHR_yiprukk: "Yiprukk" #!Empty_LineInfo!
-	WOOKIEE_CHR_yrrcanna: "Yrrcanna" #!Empty_LineInfo!
-	WOOKIEE_CHR_yubookoo: "Yubookoo" #!Empty_LineInfo!
-	WOOKIEE_CHR_zaalbar: "Zaalbar" #!Empty_LineInfo!
-	WOOKIEE_CHR_ovarra: "Ovarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_anarra: "Anarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_athnalu: "Athnalu" #!Empty_LineInfo!
-	WOOKIEE_CHR_attierra: "Attierra" #!Empty_LineInfo!
-	WOOKIEE_CHR_beruga: "Beruga" #!Empty_LineInfo!
-	WOOKIEE_CHR_brahtikka: "Brahtikka" #!Empty_LineInfo!
-	WOOKIEE_CHR_chalpal: "Chalpal" #!Empty_LineInfo!
-	WOOKIEE_CHR_colara: "Colara" #!Empty_LineInfo!
-	WOOKIEE_CHR_dewlanna: "Dewlanna" #!Empty_LineInfo!
-	WOOKIEE_CHR_dewlannamapia: "Dewlannamapia" #!Empty_LineInfo!
-	WOOKIEE_CHR_enacca: "Enacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_froera: "Froera" #!Empty_LineInfo!
-	WOOKIEE_CHR_frorral: "Frorral" #!Empty_LineInfo!
-	WOOKIEE_CHR_gchalla: "Gchalla" #!Empty_LineInfo!
-	WOOKIEE_CHR_gorrlyn: "Gorrlyn" #!Empty_LineInfo!
-	WOOKIEE_CHR_grakkata: "Grakkata" #!Empty_LineInfo!
-	WOOKIEE_CHR_granakk: "Granakk" #!Empty_LineInfo!
-	WOOKIEE_CHR_grayyshk: "Grayyshk" #!Empty_LineInfo!
-	WOOKIEE_CHR_gworrall: "Gworrall" #!Empty_LineInfo!
-	WOOKIEE_CHR_huhunna: "Huhunna" #!Empty_LineInfo!
-	WOOKIEE_CHR_hwruarca: "Hwruarca" #!Empty_LineInfo!
-	WOOKIEE_CHR_jiprirr: "Jiprirr" #!Empty_LineInfo!
-	WOOKIEE_CHR_jowdrrl: "Jowdrrl" #!Empty_LineInfo!
-	WOOKIEE_CHR_kallabow: "Kallabow" #!Empty_LineInfo!
-	WOOKIEE_CHR_karashki: "Karashki" #!Empty_LineInfo!
-	WOOKIEE_CHR_katarra: "Katarra" #!Empty_LineInfo!
-	WOOKIEE_CHR_kirratha: "Kirratha" #!Empty_LineInfo!
-	WOOKIEE_CHR_kivvaaa: "Kivvaaa" #!Empty_LineInfo!
-	WOOKIEE_CHR_kohlbacca: "Kohlbacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_kybacca: "Kybacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_kymayrr: "Kymayrr" #!Empty_LineInfo!
-	WOOKIEE_CHR_kyobuk: "Kyobuk" #!Empty_LineInfo!
-	WOOKIEE_CHR_lunacca: "Lunacca" #!Empty_LineInfo!
-	WOOKIEE_CHR_mallatobuck: "Mallatobuck" #!Empty_LineInfo!
-	WOOKIEE_CHR_n_arrghela: "N'arrghela" #!Empty_LineInfo!
-	WOOKIEE_CHR_nardakka: "Nardakka" #!Empty_LineInfo!
-	WOOKIEE_CHR_raabakyysh: "Raabakyysh" #!Empty_LineInfo!
-	WOOKIEE_CHR_roshyk: "Roshyk" #!Empty_LineInfo!
-	WOOKIEE_CHR_rowrrhaffee: "Rowrrhaffee" #!Empty_LineInfo!
-	WOOKIEE_CHR_rroorgli: "Rroorgli" #!Empty_LineInfo!
-	WOOKIEE_CHR_rroow: "Rroow" #!Empty_LineInfo!
-	WOOKIEE_CHR_sebaracca: "Sebaracca" #!Empty_LineInfo!
-	WOOKIEE_CHR_shrandhnrignh: "Shrandhnrignh" #!Empty_LineInfo!
-	WOOKIEE_CHR_sirrakuk: "Sirrakuk" #!Empty_LineInfo!
-	WOOKIEE_CHR_spetbecca: "Spetbecca" #!Empty_LineInfo!
-	WOOKIEE_CHR_sunchoo: "Sunchoo" #!Empty_LineInfo!
-	WOOKIEE_CHR_syychi: "Syychi" #!Empty_LineInfo!
-	WOOKIEE_CHR_tirranna: "Tirranna" #!Empty_LineInfo!
-	WOOKIEE_CHR_ulucca: "Ulucca" #!Empty_LineInfo!
-	WOOKIEE_CHR_urartu: "Urartu" #!Empty_LineInfo!
-	WOOKIEE_CHR_whyrrryk: "Whyrrryk" #!Empty_LineInfo!
-	WOOKIEE_CHR_wurrooba: "Wurrooba" #!Empty_LineInfo!
-	WOOKIEE_CHR_wynni: "Wynni" #!Empty_LineInfo!
-	WOOKIEE_CHR_yarua: "Yarua" #!Empty_LineInfo!
-	WOOKIEE_CHR_yawrocca: "Yawrocca" #!Empty_LineInfo!
-	WOOKIEE_CHR_zittaasabba: "Zittaasabba" #!Empty_LineInfo!
+ WOOKIEE_SHIP_rwookrrorro: "Рвоокррорро"
+ WOOKIEE_SHIP_chenachochan: "Ченачочан"
+ WOOKIEE_SHIP_grunnrurr: "Груннрурр"
+ WOOKIEE_SHIP_hoorrkhukk: "Хоррхукк"
+ WOOKIEE_SHIP_kachirho: "Качирхо"
+ WOOKIEE_SHIP_kahiyuk: "Кахиюк"
+ WOOKIEE_SHIP_kerritamba: "Керритамба"
+ WOOKIEE_SHIP_maarwraawroo: "Маарраавру"
+ WOOKIEE_SHIP_northaykk: "Нортхайкк"
+ WOOKIEE_SHIP_okikuti: "Окикути"
+ WOOKIEE_SHIP_orriorr: "Орриорр"
+ WOOKIEE_SHIP_palsaang: "Пальсаанг"
+ WOOKIEE_SHIP_rarrhkrrorrho: "Рарркрорро"
+ WOOKIEE_SHIP_rowrakruk: "Ровракрук"
+ WOOKIEE_SHIP_truvvhhurr: "Труввхурр"
+ WOOKIEE_SHIP_tunnatuitkan: "Туннатиткан"
+ WOOKIEE_SHIP_warralokk: "Варралокк"
+ WOOKIEE_SHIP_wawaat: "Ваваат"
+ WOOKIEE_SHIP_awrathakka: "Авратхакка"
+ WOOKIEE_SHIP_ittummi: "Иттумми"
+ WOOKIEE_SHIP_kamarkiia: "Камаркия"
+ WOOKIEE_SHIP_karryntora: "Карринтора"
+ WOOKIEE_SHIP_kepitenochan: "Кепитеночан"
+ WOOKIEE_SHIP_kroohhuhwoor: "Крухухвур"
+ WOOKIEE_SHIP_waarwraawroo: "Ваарвраавру"
+ WOOKIEE_SHIP_mattichek: "Маттичек"
+ WOOKIEE_SHIP_thikkiiana: "Тиккияна"
+ WOOKIEE_SHIP_webweaver: "Вебвивер"
+ WOOKIEE_SHIP_etyyr: "Этийыр"
+ WOOKIEE_SHIP_ryratt: "Райратт"
+ WOOKIEE_SHIP_merumeru: "Мерумеру"
+ WOOKIEE_SHIP_tarfful: "Тарффул"
+ WOOKIEE_SHIP_zaalbar: "Заалбар"
+ WOOKIEE_SHIP_attichitcuk: "Аттичитчук"
+ WOOKIEE_SHIP_freyyr: "Фреййр"
+ WOOKIEE_SHIP_attabura: "Аттабура"
+ WOOKIEE_SHIP_bacca: "Бакка"
+ WOOKIEE_SHIP_rothrrrawr: "Ротррравр"
+ WOOKIEE_SHIP_yarua: "Яруа"
+ WOOKIEE_SHIP_kerrithrarr: "Керритрарр"
+ WOOKIEE_SHIP_hrrtayyk: "Хрртайык"
+ WOOKIEE_SHIP_rrakktoor: "Рракктур"
+ WOOKIEE_SHIP_wartaki: "Вартаки"
+ WOOKIEE_SHIP_tyvokka: "Тайвокка"
+ WOOKIEE_SHIP_rikummee: "Рикумми"
+ WOOKIEE_SHIP_grakchawwaa: "Гракчавва"
+ WOOKIEE_SHIP_kkowir: "Кковир"
+ WOOKIEE_SHIP_myyydri: "Мийдри"
+ WOOKIEE_SHIP_anakkona: "Анаккона"
+ WOOKIEE_SHIP_charkarr: "Чаркарр"
+ WOOKIEE_SHIP_factryn: "Фактрин"
+ WOOKIEE_SHIP_gorryl: "Горрил"
+ WOOKIEE_SHIP_jyykle: "Джийкл"
+ WOOKIEE_SHIP_katarn: "Катарн"
+ WOOKIEE_SHIP_kinrath: "Кинрат"
+ WOOKIEE_SHIP_kkorrwrot: "Ккоррврот"
+ WOOKIEE_SHIP_kkryytch: "Ккрыйтч"
+ WOOKIEE_SHIP_kououra: "Куура"
+ WOOKIEE_SHIP_mykal: "Микал"
+ WOOKIEE_SHIP_ro_roo: "Ро-ру"
+ WOOKIEE_SHIP_sureggi: "Сурегги"
+ WOOKIEE_SHIP_tach: "Тахометр"
+ WOOKIEE_SHIP_tharriarr: "Тарриарр"
+ WOOKIEE_SHIP_uller: "Уллер"
+ WOOKIEE_SHIP_urnsor_is: "Урнсор'ис"
+ WOOKIEE_SHIP_wyyyschokk: "Виййшокк"
+ WOOKIEE_SHIP_yuugrr: "Юугрр"
+ WOOKIEE_SHIP_yoda_gwyaaaag: "Йода-Гвяаааг"
+ WOOKIEE_SHIP_ryuraygu: "Рюрайгу"
+ WOOKIEE_SHIP_hnn_rowr: "Хнн-Рор"
+ WOOKIEE_SHIP_uwaga: "Увага"
+ WOOKIEE_SHIP_guwah: "Гувах"
+ WOOKIEE_SHIP_rrrooaarrgghh: "Рррооаарргхх"
+ WOOKIEE_SHIP_awa: "Ава"
+ WOOKIEE_SHIP_muaarga: "Муаарга"
+ WOOKIEE_SHIP_arriurra: "Арриурра"
+ WOOKIEE_SHIP_arriykam: "Аррийкам"
+ WOOKIEE_SHIP_busurra: "Бусурра"
+ WOOKIEE_SHIP_busykam: "Бусыкам"
+ WOOKIEE_SHIP_ciiirurra: "Чииирурра"
+ WOOKIEE_SHIP_ciiiykam: "Чиийкам"
+ WOOKIEE_SHIP_chalurra: "Чалурра"
+ WOOKIEE_SHIP_chalykam: "Чалыкам"
+ WOOKIEE_SHIP_chewurra: "Чевурра"
+ WOOKIEE_SHIP_chewykam: "Чуйкам"
+ WOOKIEE_SHIP_dryurra: "Дрюрра"
+ WOOKIEE_SHIP_dryykam: "Дрыйкам"
+ WOOKIEE_SHIP_frourra: "Фрурра"
+ WOOKIEE_SHIP_froykam: "Фройкам"
+ WOOKIEE_SHIP_gaarurra: "Гаарурра"
+ WOOKIEE_SHIP_gaarykam: "Гаарыкам"
+ WOOKIEE_SHIP_geyyurra: "Гейюрра"
+ WOOKIEE_SHIP_geyyykam: "Гейыйкам"
+ WOOKIEE_SHIP_graura: "Граура"
+ WOOKIEE_SHIP_grayka: "Грайка"
+ WOOKIEE_SHIP_busaddik: "Бусаддик"
+ WOOKIEE_SHIP_busanta: "Бусанта"
+ WOOKIEE_SHIP_drychit: "Дричит"
+ WOOKIEE_SHIP_dryaddik: "Дриаддик"
+ WOOKIEE_SHIP_jowaddik: "Джоваддик"
+ WOOKIEE_SHIP_jowahab: "Джовахаб"
+ WOOKIEE_SHIP_jowanta: "Джованта"
+ WOOKIEE_SHIP_jowchit: "Джоучит"
+ WOOKIEE_SHIP_jowevge: "Джовевдж"
+ WOOKIEE_SHIP_jowbecca: "Джоубекка"
+ WOOKIEE_SHIP_jowtatha: "Джаутата"
+ WOOKIEE_SHIP_jowwarr: "Джоуварр"
+ WOOKIEE_SHIP_arriaddik: "Арриаддик"
+ WOOKIEE_SHIP_arriahab: "Арриахаб"
+ WOOKIEE_SHIP_arrianta: "Аррианта"
+ WOOKIEE_SHIP_arribecca: "Аррибекка"
+ WOOKIEE_SHIP_arrichit: "Арихит"
+ WOOKIEE_SHIP_arrievge: "Арривдж"
+ WOOKIEE_SHIP_arritatha: "Арритата"
+ WOOKIEE_SHIP_arriwarr: "Арриварр"
+ WOOKIEE_SHIP_attiaddik: "Аттиаддик"
+ WOOKIEE_SHIP_attiahab: "Аттиахаб"
+ WOOKIEE_SHIP_attianta: "Аттианта"
+ WOOKIEE_SHIP_attibecca: "Аттибекка"
+ WOOKIEE_SHIP_attichit: "Аттичит"
+ WOOKIEE_SHIP_attievge: "Аттиевге"
+ WOOKIEE_SHIP_attitatha: "Аттитата"
+ WOOKIEE_SHIP_attiwarr: "Аттиварр"
+ WOOKIEE_SHIP_busahab: "Бусахаб"
+ WOOKIEE_SHIP_busbecca: "Бусбекка"
+ WOOKIEE_SHIP_buschit: "Бушит"
+ WOOKIEE_SHIP_busevge: "Бусевге"
+ WOOKIEE_SHIP_bustatha: "Бустата"
+ WOOKIEE_SHIP_buswarr: "Бусварр"
+ WOOKIEE_SHIP_ciiiraddik: "Чииираддик"
+ WOOKIEE_SHIP_ciiirahab: "Чииирахаб"
+ WOOKIEE_SHIP_ciiiranta: "Чииранта"
+ WOOKIEE_SHIP_ciiirbecca: "Чиирбекка"
+ WOOKIEE_SHIP_ciiirchit: "Цирчит"
+ WOOKIEE_SHIP_ciiirevge: "Цииревдж"
+ WOOKIEE_SHIP_ciiirtatha: "Киртатха"
+ WOOKIEE_SHIP_ciiirwarr: "Циирварр"
+ WOOKIEE_SHIP_chaladdik: "Чаладдик"
+ WOOKIEE_SHIP_chalahab: "Халахаб"
+ WOOKIEE_SHIP_chalanta: "Чаланта"
+ WOOKIEE_SHIP_chalbecca: "Чальбекка"
+ WOOKIEE_SHIP_chalchit: "Чалчит"
+ WOOKIEE_SHIP_chalevge: "Халевге"
+ WOOKIEE_SHIP_chaltatha: "Чалтата"
+ WOOKIEE_SHIP_chalwarr: "Чалварр"
+ WOOKIEE_SHIP_geyyaddik: "Гейяддик"
+ WOOKIEE_SHIP_geyyahab: "Гейяхаб"
+ WOOKIEE_SHIP_geyyanta: "Гейянта"
+ WOOKIEE_SHIP_geyybecca: "Гейбекка"
+ WOOKIEE_SHIP_geyychit: "Гейчит"
+ WOOKIEE_SHIP_geyyevge: "Гейевге"
+ WOOKIEE_SHIP_geyytatha: "Гейитата"
+ WOOKIEE_SHIP_geyywarr: "Гейварр"
+ WOOKIEE_SHIP_grozaddik: "Грозаддик"
+ WOOKIEE_SHIP_grozahab: "Грозахаб"
+ WOOKIEE_SHIP_grozanta: "Грозанта"
+ WOOKIEE_SHIP_grozbecca: "Грозбекка"
+ WOOKIEE_SHIP_grozchit: "Грозчить"
+ WOOKIEE_SHIP_grozevge: "Грозевге"
+ WOOKIEE_SHIP_groztatha: "Грозтата"
+ WOOKIEE_SHIP_grozwarr: "Грозварр"
+ WOOKIEE_SHIP_kallaaddik: "Каллааддик"
+ WOOKIEE_SHIP_kallaahab: "Каллаахаб"
+ WOOKIEE_SHIP_kallaanta: "Каллаанта"
+ WOOKIEE_SHIP_kallabecca: "Каллабекка"
+ WOOKIEE_SHIP_kallachit: "Каллачит"
+ WOOKIEE_SHIP_kallaevge: "Каллаевге"
+ WOOKIEE_SHIP_kallatatha: "Каллатата"
+ WOOKIEE_SHIP_kallawarr: "Каллаварр"
+ WOOKIEE_SHIP_kitaddik: "Китаддик"
+ WOOKIEE_SHIP_kitahab: "Китахаб"
+ WOOKIEE_SHIP_kitanta: "Китанта"
+ WOOKIEE_SHIP_kitbecca: "Китбекка"
+ WOOKIEE_SHIP_kitchit: "Китчит"
+ WOOKIEE_SHIP_kitevge: "Китевге"
+ WOOKIEE_SHIP_kittatha: "Киттата"
+ WOOKIEE_SHIP_kitwarr: "Китварр"
+ WOOKIEE_SHIP_liakaddik: "Лиакаддик"
+ WOOKIEE_SHIP_liakahab: "Лиакахаб"
+ WOOKIEE_SHIP_liakanta: "Лиаканта"
+ WOOKIEE_SHIP_liakbecca: "Лиакбекка"
+ WOOKIEE_SHIP_liakchit: "Лиакчит"
+ WOOKIEE_SHIP_liakevge: "Лиакевге"
+ WOOKIEE_SHIP_liaktatha: "Лиактатха"
+ WOOKIEE_SHIP_liakwarr: "Лиакварр"
+ WOOKIEE_SHIP_lofaddik: "Лофаддик"
+ WOOKIEE_SHIP_lofahab: "Лофахаб"
+ WOOKIEE_SHIP_lofanta: "Лофанта"
+ WOOKIEE_SHIP_lofbecca: "Лофбекка"
+ WOOKIEE_SHIP_lofchit: "Лофчит"
+ WOOKIEE_SHIP_lofevge: "Лофевге"
+ WOOKIEE_SHIP_loftatha: "Лофтата"
+ WOOKIEE_SHIP_lofwarr: "Лофварр"
+ WOOKIEE_SHIP_nagaddik: "Нагаддик"
+ WOOKIEE_SHIP_nagahab: "Нагахаб"
+ WOOKIEE_SHIP_naganta: "Наганта"
+ WOOKIEE_SHIP_nagbecca: "Нагбекка"
+ WOOKIEE_SHIP_nagchit: "Нагчить"
+ WOOKIEE_SHIP_nagevge: "Нагевге"
+ WOOKIEE_SHIP_nagtatha: "Нагтатха"
+ WOOKIEE_SHIP_nagwarr: "Нагварр"
+ WOOKIEE_SHIP_shoraddik: "Шораддик"
+ WOOKIEE_SHIP_shorahab: "Шорахаб"
+ WOOKIEE_SHIP_shoranta: "Шоранта"
+ WOOKIEE_SHIP_shorbecca: "Шорбекка"
+ WOOKIEE_SHIP_shorchit: "Шорчит"
+ WOOKIEE_SHIP_shorevge: "Шоревге"
+ WOOKIEE_SHIP_shortatha: "Шортата"
+ WOOKIEE_SHIP_shorwarr: "Шорварр"
+ WOOKIEE_SHIP_snoaddik: "Сноаддик"
+ WOOKIEE_SHIP_snoahab: "Сноахаб"
+ WOOKIEE_SHIP_snoanta: "Сноанта"
+ WOOKIEE_SHIP_snobecca: "Снобекка"
+ WOOKIEE_SHIP_snochit: "Сночить"
+ WOOKIEE_SHIP_snoevge: "Сноевге"
+ WOOKIEE_SHIP_snotatha: "Снотата"
+ WOOKIEE_SHIP_snowarr: "Сноарр"
+ WOOKIEE_SHIP_wrrladdik: "Вррладдик"
+ WOOKIEE_SHIP_wrrlahab: "Вррлахаб"
+ WOOKIEE_SHIP_wrrlanta: "Вррланта"
+ WOOKIEE_SHIP_wrrlbecca: "Вррбекка"
+ WOOKIEE_SHIP_wrrlchit: "Врррлчит"
+ WOOKIEE_SHIP_wrrlevge: "Вррлевже"
+ WOOKIEE_SHIP_wrrltatha: "Вррлтата"
+ WOOKIEE_SHIP_wrrlwarr: "Врррлварр"
+ WOOKIEE_SHIP_okikbarr: "Окикбарр"
+ WOOKIEE_SHIP_myyydril: "Миидрил"
+ WOOKIEE_SHIP_chevappa: "Чеваппа"
+ WOOKIEE_SHIP_chyakk: "Чякк"
+ WOOKIEE_SHIP_gkrur: "Гкрур"
+ WOOKIEE_SHIP_grrobahrr: "Грробахрр"
+ WOOKIEE_SHIP_kaapauku: "Каапауку"
+ WOOKIEE_SHIP_nysshyyyk: "Нисшийык"
+ WOOKIEE_SHIP_puurrgerr: "Пурргерр"
+ WOOKIEE_SHIP_tojj: "Тодж"
+ WOOKIEE_SHIP_ruhr: "Рур"
+ WOOKIEE_SHIP_salporin: "Салпорин"
+ WOOKIEE_SHIP_graaa_shad: "Грааа'шад"
+ WOOKIEE_SHIP_tarkazza: "Тарказза"
+ WOOKIEE_SHIP_vorlocca: "Форлокка"
+ WOOKIEE_SHIP_oevvaor: "Эвваор"
+ WOOKIEE_SHIP_shyyyo: "Шийе"
+ WOOKIEE_SHIP_slyyyg: "Слаййг"
+ WOOKIEE_SHIP_trakkrrrn: "Траккррррн"
+ WOOKIEE_SHIP_rroshm: "Ррошм"
+ WOOKIEE_SHIP_rkkrrkkrl: "Рккррккрл"
+ WOOKIEE_SHIP_oryyka: "Орыйка"
+ WOOKIEE_SHIP_neocomora: "Неокомора"
+ WOOKIEE_SHIP_ah_wu_aaa: "Ах-Ву-Ааа"
+ WOOKIEE_SHIP_ciiirkabukk: "Цииркабукк"
+ WOOKIEE_SHIP_chalkabukk: "Чалкэбукк"
+ WOOKIEE_SHIP_kerrikabukk: "Керрикабукк"
+ WOOKIEE_SHIP_lofkabukk: "Лофкабукк"
+ WOOKIEE_SHIP_salkabukk: "Салкабукк"
+ WOOKIEE_SHIP_snokabukk: "Снокабукк"
+ WOOKIEE_SHIP_ciiirnik: "Чииирник"
+ WOOKIEE_SHIP_chalnik: "Чальник"
+ WOOKIEE_SHIP_kerrinik: "Керриник"
+ WOOKIEE_SHIP_lofnik: "Лофник"
+ WOOKIEE_SHIP_salnik: "Сальник"
+ WOOKIEE_SHIP_snonik: "Сноник"
+ WOOKIEE_SHIP_ciiirova: "Чииирова"
+ WOOKIEE_SHIP_chalova: "Чалова"
+ WOOKIEE_SHIP_kerriova: "Керриова"
+ WOOKIEE_SHIP_lofova: "Лофова"
+ WOOKIEE_SHIP_salova: "Салова"
+ WOOKIEE_SHIP_snoova: "Снува"
+ WOOKIEE_SHIP_ciiirporin: "Цииирпорин"
+ WOOKIEE_SHIP_chalporin: "Чалпорин"
+ WOOKIEE_SHIP_kerriporin: "Керрипорин"
+ WOOKIEE_SHIP_lofporin: "Лофпорин"
+ WOOKIEE_SHIP_snoporin: "Снопорин"
+ WOOKIEE_SHIP_haaag: "Хаааг"
+ WOOKIEE_SHIP_attibev: "Аттибев"
+ WOOKIEE_SHIP_busbev: "Бусбев"
+ WOOKIEE_SHIP_gaarbev: "Гаарбев"
+ WOOKIEE_SHIP_mallabev: "Маллабев"
+ WOOKIEE_SHIP_ralrbev: "Ралрбев"
+ WOOKIEE_SHIP_attibow: "Аттибоу"
+ WOOKIEE_SHIP_busbow: "Бусбоу"
+ WOOKIEE_SHIP_gaarbow: "Гаарбоу"
+ WOOKIEE_SHIP_mallabow: "Маллабоу"
+ WOOKIEE_SHIP_ralrbow: "Ралрбоу"
+ WOOKIEE_SHIP_busraoao: "Бусраоао"
+ WOOKIEE_SHIP_gaarraoao: "Гаарраоао"
+ WOOKIEE_SHIP_mallaraoao: "Маллараоао"
+ WOOKIEE_SHIP_ralrraoao: "Ралрраоао"
+ WOOKIEE_SHIP_graahab: "Граахаб"
+ WOOKIEE_SHIP_lowahab: "Ловахаб"
+ WOOKIEE_SHIP_arrian: "Арриан"
+ WOOKIEE_SHIP_geyyan: "Гейян"
+ WOOKIEE_SHIP_graan: "Граан"
+ WOOKIEE_SHIP_lowan: "Лован"
+ WOOKIEE_SHIP_arribow: "Аррибоу"
+ WOOKIEE_SHIP_geyybow: "Гейбоу"
+ WOOKIEE_SHIP_grabow: "Грабоу"
+ WOOKIEE_SHIP_lowbow: "Лоубоу"
+ WOOKIEE_SHIP_arrimum: "Арримум"
+ WOOKIEE_SHIP_geyymum: "Геймум"
+ WOOKIEE_SHIP_gramum: "Грамм"
+ WOOKIEE_SHIP_lowmum: "Лоумум"
+ WOOKIEE_SHIP_ground_transport: "Наземный транспорт"
+ WOOKIEE_SHIP_spacegun_victory: "Космическая пушка Победа"
+ WOOKIEE_SHIP_spacegun_success: "Космическая пушка Успех"
+ WOOKIEE_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ WOOKIEE_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ WOOKIEE_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ WOOKIEE_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ WOOKIEE_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ WOOKIEE_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ WOOKIEE_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ WOOKIEE_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ WOOKIEE_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ WOOKIEE_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ WOOKIEE_SHIP_spacegun_honor: "Космическая пушка Честь"
+ WOOKIEE_SHIP_spacegun_renown: "Космическая пушка Величие"
+ WOOKIEE_SHIP_spacegun_glory: "Космическая пушка Слава"
+ WOOKIEE_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ WOOKIEE_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ WOOKIEE_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ WOOKIEE_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ WOOKIEE_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ WOOKIEE_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ WOOKIEE_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ WOOKIEE_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ WOOKIEE_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ WOOKIEE_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ WOOKIEE_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ WOOKIEE_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ WOOKIEE_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ WOOKIEE_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ WOOKIEE_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ WOOKIEE_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ WOOKIEE_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ WOOKIEE_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ WOOKIEE_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ WOOKIEE_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ WOOKIEE_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ WOOKIEE_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ WOOKIEE_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ WOOKIEE_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ WOOKIEE_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ WOOKIEE_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ WOOKIEE_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ WOOKIEE_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ WOOKIEE_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ WOOKIEE_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ WOOKIEE_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ WOOKIEE_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ WOOKIEE_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ WOOKIEE_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ WOOKIEE_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ WOOKIEE_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ WOOKIEE_SHIP_citadel: "Цитадель"
+ WOOKIEE_SHIP_albacore: "Альбакор"
+ WOOKIEE_SHIP_gateway: "Шлюз"
+ WOOKIEE_SHIP_vincent: "Винсент"
+ WOOKIEE_SHIP_babylon: "Вавилон"
+ WOOKIEE_SHIP_caernavon: "Кэрнавон"
+ WOOKIEE_SHIP_acre: "Акро"
+ WOOKIEE_SHIP_pembroke: "Пембрук"
+ WOOKIEE_SHIP_acheron: "Ахерон"
+ WOOKIEE_SHIP_spithead: "Спитхед"
+ WOOKIEE_SHIP_halifax: "Галифакс"
+ WOOKIEE_SHIP_victoria: "Виктория"
+ WOOKIEE_SHIP_chatham: "Чатем"
+ WOOKIEE_SHIP_anchorage: "Анкорхед"
+ WOOKIEE_SHIP_scapa_flow: "Скапа Флоу"
+ WOOKIEE_SHIP_hampton_roads: "хэмптон-роудз"
+ WOOKIEE_SHIP_brooklyn: "Бруклин"
+ WOOKIEE_SHIP_norfolk: "Норфолк"
+ WOOKIEE_SHIP_newport: "Ньюпорт"
+ WOOKIEE_SHIP_guam: "Гуам"
+ WOOKIEE_SHIP_pensacola: "Пенсакола"
+ WOOKIEE_SHIP_vesuvius: "Везувий"
+ WOOKIEE_SHIP_mckinley: "Маккинли"
+ WOOKIEE_SHIP_everest: "Эверест"
+ WOOKIEE_SHIP_kilimanjaro: "Килиманджаро"
+ WOOKIEE_SHIP_aconcagua: "Аконкагуа"
+ WOOKIEE_SHIP_elbrus: "Эльбрус"
+ WOOKIEE_SHIP_st__helens: "Святая Елена"
+ WOOKIEE_SHIP_fuji: "Фудзи"
+ WOOKIEE_SHIP_olympus: "Олимп"
+ WOOKIEE_SHIP_sinai: "Синай"
+ WOOKIEE_SHIP_ambrose: "Эмброуз"
+ WOOKIEE_SHIP_bermuda: "Бермудские острова"
+ WOOKIEE_SHIP_farpoint: "Дальняя точка"
+ WOOKIEE_SHIP_blue_star: "Голубая звезда"
+ WOOKIEE_SHIP_olympus_mons: "Олимп Монс"
+ WOOKIEE_SHIP_tharsis: "Тарсис"
+ WOOKIEE_SHIP_syrtis: "Сиртис"
+ WOOKIEE_SHIP_blackham: "Блэкхэм"
+ WOOKIEE_SHIP_fletcher: "Флетчер"
+ WOOKIEE_SHIP_perry: "Перри"
+ WOOKIEE_SHIP_butakov: "Бутаков"
+ WOOKIEE_SHIP_morris: "Моррис"
+ WOOKIEE_SHIP_moorsom: "Мурсом"
+ WOOKIEE_SHIP_hart: "Харт"
+ WOOKIEE_SHIP_hargood: "Харгуд"
+ WOOKIEE_SHIP_spruance: "Пружина"
+ WOOKIEE_SHIP_tanaka: "Танака"
+ WOOKIEE_SHIP_halsey: "Хэлси"
+ WOOKIEE_SHIP_turner: "Тернер"
+ WOOKIEE_SHIP_doria: "Дориа"
+ WOOKIEE_SHIP_tirpitz: "Тирпиц"
+ WOOKIEE_SHIP_cunningham: "Каннингем"
+ WOOKIEE_SHIP_jellicoe: "Джеллико"
+ WOOKIEE_SHIP_hipper: "Хиппер"
+ WOOKIEE_SHIP_beatty: "Битти"
+ WOOKIEE_SHIP_potemkin: "Потемкин"
+ WOOKIEE_SHIP_durham: "Дарем"
+ WOOKIEE_SHIP_codrington: "Кодрингтон"
+ WOOKIEE_SHIP_milne: "Милн"
+ WOOKIEE_SHIP_laforey: "Лафори"
+ WOOKIEE_SHIP_tyler: "Тайлер"
+ WOOKIEE_SHIP_hawke: "Хоук"
+ WOOKIEE_SHIP_yonai: "Йонай"
+ WOOKIEE_SHIP_pound: "Фунт"
+ WOOKIEE_SHIP_king: "Король"
+ WOOKIEE_SHIP_crutchley: "Кратчли"
+ WOOKIEE_SHIP_mountbatten: "Маунтбеттен"
+ WOOKIEE_SHIP_kountouriotis: "Кунтуриотис"
+ WOOKIEE_SHIP_kuznetsov: "Кузнецов"
+ WOOKIEE_SHIP_essen: "Эссен"
+ WOOKIEE_SHIP_kornilov: "Корнилов"
+ WOOKIEE_SHIP_suffren: "Сюффрен"
+ WOOKIEE_SHIP_treville: "Тревиль"
+ WOOKIEE_SHIP_villeneuve: "Вильнёв"
+ WOOKIEE_SHIP_grasse: "Грасс"
+ WOOKIEE_SHIP_byng: "Бинг"
+ WOOKIEE_SHIP_lezo: "Лезо"
+ WOOKIEE_SHIP_bombard: "Космическая пушка Бомбарда"
+ WOOKIEE_SHIP_ballista: "Баллиста"
+ WOOKIEE_SHIP_catapult: "Космическая пушка Катапульта"
+ WOOKIEE_SHIP_harpoon: "Космическая пушка Гарпун"
+ WOOKIEE_SHIP_polybolos: "Космическая пушка Полиболос"
+ WOOKIEE_SHIP_culverin: "Космическая пушка Кулеврина"
+ WOOKIEE_SHIP_exemplary: "Космическая пушка Образцовый"
+ WOOKIEE_SHIP_CLASS_cr_90: "CR-90"
+ WOOKIEE_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ WOOKIEE_SHIP_CLASS_lupus: "Люпус"
+ WOOKIEE_SHIP_CLASS_asdroni: "Асдрони"
+ WOOKIEE_SHIP_CLASS_customs: "Таможня"
+ WOOKIEE_SHIP_CLASS_hammerhead: "Молотоглав"
+ WOOKIEE_SHIP_CLASS_scurge: "Мерзость"
+ WOOKIEE_SHIP_CLASS_krayt: "Крайт"
+ WOOKIEE_SHIP_CLASS_diamond: "Бриллиант"
+ WOOKIEE_SHIP_CLASS_etti: "Этти"
+ WOOKIEE_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ WOOKIEE_SHIP_CLASS_vigil: "Бдение"
+ WOOKIEE_SHIP_CLASS_dp20: "DP20"
+ WOOKIEE_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ WOOKIEE_SHIP_CLASS_raider: "Рейдер"
+ WOOKIEE_SHIP_CLASS_dornean: "Дорнейский"
+ WOOKIEE_SHIP_CLASS_crusader: "Крестоносец"
+ WOOKIEE_SHIP_CLASS_marauder: "Мародер"
+ WOOKIEE_SHIP_CLASS_arquitens: "Аркитенс"
+ WOOKIEE_SHIP_CLASS_kiltirin: "Килтирин"
+ WOOKIEE_SHIP_CLASS_pelta: "Пельта"
+ WOOKIEE_SHIP_CLASS_pinnace: "Катер"
+ WOOKIEE_SHIP_CLASS_nova: "Нова"
+ WOOKIEE_SHIP_CLASS_vigilance: "Бдительность"
+ WOOKIEE_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ WOOKIEE_SHIP_CLASS_cg_273: "CG-273"
+ WOOKIEE_SHIP_CLASS_kariek: "Кариек"
+ WOOKIEE_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ WOOKIEE_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ WOOKIEE_SHIP_CLASS_lancer: "Лансер"
+ WOOKIEE_SHIP_CLASS_teroch: "Терох"
+ WOOKIEE_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ WOOKIEE_SHIP_CLASS_nova_ii: "Нова II"
+ WOOKIEE_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ WOOKIEE_SHIP_CLASS_velox: "Велокс"
+ WOOKIEE_SHIP_CLASS_mc30c: "MC30c"
+ WOOKIEE_SHIP_CLASS_vengeance: "Месть"
+ WOOKIEE_SHIP_CLASS_kariek_ii: "Кариек II"
+ WOOKIEE_SHIP_CLASS_cc_7700: "CC-7700"
+ WOOKIEE_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ WOOKIEE_SHIP_CLASS_wavecrest: "Гребень волны"
+ WOOKIEE_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ WOOKIEE_SHIP_CLASS_nuruodo: "Нуруодо"
+ WOOKIEE_SHIP_CLASS_sabaoth: "Саваоф"
+ WOOKIEE_SHIP_CLASS_kontos: "Контос"
+ WOOKIEE_SHIP_CLASS_mc40: "MC40"
+ WOOKIEE_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ WOOKIEE_SHIP_CLASS_broadside: "Залп"
+ WOOKIEE_SHIP_CLASS_protector: "Защитник"
+ WOOKIEE_SHIP_CLASS_warlord: "Военачальник"
+ WOOKIEE_SHIP_CLASS_gladiator: "Гладиатор"
+ WOOKIEE_SHIP_CLASS_beviin: "Бевиин"
+ WOOKIEE_SHIP_CLASS_liberator: "Освободитель"
+ WOOKIEE_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ WOOKIEE_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ WOOKIEE_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ WOOKIEE_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ WOOKIEE_SHIP_CLASS_massias: "Массиас"
+ WOOKIEE_SHIP_CLASS_dreadnought: "Дредноут"
+ WOOKIEE_SHIP_CLASS_kyramud: "Кирамуд"
+ WOOKIEE_SHIP_CLASS_munificent: "Щедрый"
+ WOOKIEE_SHIP_CLASS_prosvoli: "Просволи"
+ WOOKIEE_SHIP_CLASS_acclamator: "Аккламатор"
+ WOOKIEE_SHIP_CLASS_lictor: "Ликтор"
+ WOOKIEE_SHIP_CLASS_bulwark: "Оплот"
+ WOOKIEE_SHIP_CLASS_victory_i: "Победа I"
+ WOOKIEE_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ WOOKIEE_SHIP_CLASS_bulk: "Массивный"
+ WOOKIEE_SHIP_CLASS_vindicator: "Защитник"
+ WOOKIEE_SHIP_CLASS_dauntless: "Бесстрашный"
+ WOOKIEE_SHIP_CLASS_captor: "Похититель"
+ WOOKIEE_SHIP_CLASS_au_riette: "О'риетт"
+ WOOKIEE_SHIP_CLASS_mc55: "MC55"
+ WOOKIEE_SHIP_CLASS_afthonia: "Афтония"
+ WOOKIEE_SHIP_CLASS_victory_ii: "Победа II"
+ WOOKIEE_SHIP_CLASS_beroya: "Бероя"
+ WOOKIEE_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ WOOKIEE_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ WOOKIEE_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ WOOKIEE_SHIP_CLASS_venator: "Венатор"
+ WOOKIEE_SHIP_CLASS_centurion: "Центурион"
+ WOOKIEE_SHIP_CLASS_mc75: "MC75"
+ WOOKIEE_SHIP_CLASS_kandosii: "Кандосии"
+ WOOKIEE_SHIP_CLASS_corellian: "Кореллианский"
+ WOOKIEE_SHIP_CLASS_providence: "Провидение"
+ WOOKIEE_SHIP_CLASS_syndic: "Синдик"
+ WOOKIEE_SHIP_CLASS_recusant: "Отступник"
+ WOOKIEE_SHIP_CLASS_invincible: "Непобедимый"
+ WOOKIEE_SHIP_CLASS_imperial_i: "Имперский I"
+ WOOKIEE_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ WOOKIEE_SHIP_CLASS_procursator: "Прокурсатор"
+ WOOKIEE_SHIP_CLASS_mc80a: "MC80a"
+ WOOKIEE_SHIP_CLASS_dh_omni: "DH-Омни"
+ WOOKIEE_SHIP_CLASS_aggressor: "Агрессор"
+ WOOKIEE_SHIP_CLASS_syndic_ii: "Синдик II"
+ WOOKIEE_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ WOOKIEE_SHIP_CLASS_keldabe: "Келдабе"
+ WOOKIEE_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ WOOKIEE_SHIP_CLASS_chaf: "Чаф"
+ WOOKIEE_SHIP_CLASS_imperial_ii: "Имперский II"
+ WOOKIEE_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ WOOKIEE_SHIP_CLASS_ascendancy: "Господство"
+ WOOKIEE_SHIP_CLASS_dominator: "Властелин"
+ WOOKIEE_SHIP_CLASS_allegiance: "Верность"
+ WOOKIEE_SHIP_CLASS_lucrehulk: "Барышник"
+ WOOKIEE_SHIP_CLASS_phalanx: "Фаланга"
+ WOOKIEE_SHIP_CLASS_titan: "Титан"
+ WOOKIEE_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ WOOKIEE_SHIP_CLASS_star_home: "Звездный дом"
+ WOOKIEE_SHIP_CLASS_subjugator: "Покоритель"
+ WOOKIEE_SHIP_CLASS_bellator: "Беллатор"
+ WOOKIEE_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ WOOKIEE_SHIP_CLASS_executor: "Палач"
+ WOOKIEE_FLEET_wroshyr_squadron: "Эскадрилья Врошир"
+ WOOKIEE_FLEET_trakkrrrn_squadron: "Эскадрилья Траккрррн"
+ WOOKIEE_FLEET_kshyy_squadron: "Эскадрилья Кши"
+ WOOKIEE_FLEET_katarn_squadron: "Эскадрилья Катарнов"
+ WOOKIEE_FLEET_shyyyo_squadron: "Эскадрилья Шайе"
+ WOOKIEE_FLEET_wyyyschokk_squadron: "Эскадрилья Вайййшокк"
+ WOOKIEE_FLEET_asyyyriak_squadron: "Эскадрилья Асийриаков"
+ WOOKIEE_FLEET_kkorrwrot_squadron: "Эскадрилья Ккоррврот"
+ WOOKIEE_FLEET_rkkrrkkrl_squadron: "Эскадрилья Рккррккрл"
+ WOOKIEE_FLEET_oryyka_squadron: "Эскадрилья Орийка"
+ WOOKIEE_FLEET_kaskyyyk_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус Кашиика"
+ WOOKIEE_ARMY_tree_guard_ORD: "$ORD$ Защита дерева"
+ WOOKIEE_ARMY_war_claws_ORD: "$ORD$ Боевые когти"
+ WOOKIEE_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ WOOKIEE_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ WOOKIEE_ARMY_rock_claws_ORD: "$ORD$ Каменные когти"
+ WOOKIEE_ARMY_iron_claws_ORD: "$ORD$ Железные когти"
+ WOOKIEE_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ WOOKIEE_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ WOOKIEE_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ WOOKIEE_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ WOOKIEE_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ WOOKIEE_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ WOOKIEE_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ WOOKIEE_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ WOOKIEE_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ WOOKIEE_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ WOOKIEE_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ WOOKIEE_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ WOOKIEE_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ WOOKIEE_ARMY_tree_rangers_ORD: "$ORD$ Лесные рейнджеры"
+ WOOKIEE_ARMY_iron_watchers_ORD: "$ORD$ Железные стражи порядка"
+ WOOKIEE_ARMY_village_warband_SEQ: "Деревенский боевой отряд $C$"
+ WOOKIEE_ARMY_village_army_SEQ: "Деревенская армия $C$"
+ WOOKIEE_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ WOOKIEE_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ WOOKIEE_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ WOOKIEE_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ WOOKIEE_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ WOOKIEE_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ WOOKIEE_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ WOOKIEE_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ WOOKIEE_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ WOOKIEE_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ WOOKIEE_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ WOOKIEE_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ WOOKIEE_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ WOOKIEE_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ WOOKIEE_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ WOOKIEE_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ WOOKIEE_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ WOOKIEE_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ WOOKIEE_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ WOOKIEE_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ WOOKIEE_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ WOOKIEE_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ WOOKIEE_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ WOOKIEE_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ WOOKIEE_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ WOOKIEE_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ WOOKIEE_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ WOOKIEE_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ WOOKIEE_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ WOOKIEE_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ WOOKIEE_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ WOOKIEE_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ WOOKIEE_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ WOOKIEE_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ WOOKIEE_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ WOOKIEE_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ WOOKIEE_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ WOOKIEE_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ WOOKIEE_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ WOOKIEE_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ WOOKIEE_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ WOOKIEE_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ WOOKIEE_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ WOOKIEE_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ WOOKIEE_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ WOOKIEE_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ WOOKIEE_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ WOOKIEE_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ WOOKIEE_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ WOOKIEE_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ WOOKIEE_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ WOOKIEE_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ WOOKIEE_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ WOOKIEE_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ WOOKIEE_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ WOOKIEE_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ WOOKIEE_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ WOOKIEE_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ WOOKIEE_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ WOOKIEE_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ WOOKIEE_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ WOOKIEE_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ WOOKIEE_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ WOOKIEE_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ WOOKIEE_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ WOOKIEE_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ WOOKIEE_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ WOOKIEE_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ WOOKIEE_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ WOOKIEE_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ WOOKIEE_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ WOOKIEE_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ WOOKIEE_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ WOOKIEE_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ WOOKIEE_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ WOOKIEE_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ WOOKIEE_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ WOOKIEE_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ WOOKIEE_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ WOOKIEE_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ WOOKIEE_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ WOOKIEE_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ WOOKIEE_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ WOOKIEE_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ WOOKIEE_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ WOOKIEE_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ WOOKIEE_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ WOOKIEE_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ WOOKIEE_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ WOOKIEE_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ WOOKIEE_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ WOOKIEE_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ WOOKIEE_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ WOOKIEE_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ WOOKIEE_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ WOOKIEE_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ WOOKIEE_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ WOOKIEE_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ WOOKIEE_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ WOOKIEE_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ WOOKIEE_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ WOOKIEE_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ WOOKIEE_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ WOOKIEE_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ WOOKIEE_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ WOOKIEE_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ WOOKIEE_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ WOOKIEE_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ WOOKIEE_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ WOOKIEE_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ WOOKIEE_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ WOOKIEE_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ WOOKIEE_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ WOOKIEE_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ WOOKIEE_ARMY_acklay_ORD: "$ORD$ Аклай"
+ WOOKIEE_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ WOOKIEE_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ WOOKIEE_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ WOOKIEE_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ WOOKIEE_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ WOOKIEE_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ WOOKIEE_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ WOOKIEE_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ WOOKIEE_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ WOOKIEE_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ WOOKIEE_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ WOOKIEE_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ WOOKIEE_CHR_achonnko: "Ахоннко"
+ WOOKIEE_CHR_burryaga: "Бурряга"
+ WOOKIEE_CHR_agaburry: "Агабурри"
+ WOOKIEE_CHR_attichitcuk: "Аттичитчук"
+ WOOKIEE_CHR_alrrark: "Алрарк"
+ WOOKIEE_CHR_arrogha: "Высокомерие"
+ WOOKIEE_CHR_arrworr: "Аррворр"
+ WOOKIEE_CHR_attimun: "Аттимун"
+ WOOKIEE_CHR_bacca: "Бакка"
+ WOOKIEE_CHR_krrsantan: "Кршантан"
+ WOOKIEE_CHR_barraak: "Барраак"
+ WOOKIEE_CHR_barrarro: "Баррарро"
+ WOOKIEE_CHR_blaschowwa: "Блашовва"
+ WOOKIEE_CHR_bokwarro: "Бокварро"
+ WOOKIEE_CHR_bowdaar: "Боудаар"
+ WOOKIEE_CHR_burtiin: "Буртиин"
+ WOOKIEE_CHR_busurra: "Бусурра"
+ WOOKIEE_CHR_caroowar: "Карувар"
+ WOOKIEE_CHR_chalkazza: "Чалказза"
+ WOOKIEE_CHR_chalmun: "Чалмун"
+ WOOKIEE_CHR_chalurrekk: "Чалуррекк"
+ WOOKIEE_CHR_chambamakk: "Чамбамакк"
+ WOOKIEE_CHR_chatook: "Чатук"
+ WOOKIEE_CHR_chawroo: "Чавру"
+ WOOKIEE_CHR_chenlambec: "Ченламбек"
+ WOOKIEE_CHR_cherioer: "Чериоер"
+ WOOKIEE_CHR_cheyerooto: "Чейеруто"
+ WOOKIEE_CHR_chorrawl: "Чорраул"
+ WOOKIEE_CHR_choyyssyk: "Чойысык"
+ WOOKIEE_CHR_chrilooc: "Крилук"
+ WOOKIEE_CHR_chywarra: "Чиварра"
+ WOOKIEE_CHR_d_koetaa: "Д'Коэтаа"
+ WOOKIEE_CHR_dalborra: "Дальборра"
+ WOOKIEE_CHR_drokkatta: "Дроккатта"
+ WOOKIEE_CHR_drrlirm: "Дррлирм"
+ WOOKIEE_CHR_dryanta: "Дрианта"
+ WOOKIEE_CHR_erriya: "Эррия"
+ WOOKIEE_CHR_eugroothwa: "Эвротва"
+ WOOKIEE_CHR_freyrr: "Фрейрр"
+ WOOKIEE_CHR_friyahrr: "Фрияхрр"
+ WOOKIEE_CHR_g_hhurrlha: "Г'хуррлха"
+ WOOKIEE_CHR_gaarkhan: "Гаархан"
+ WOOKIEE_CHR_gaartatha: "Гаартата"
+ WOOKIEE_CHR_gaharrag: "Гахарраг"
+ WOOKIEE_CHR_ganarho: "Ганархо"
+ WOOKIEE_CHR_gargachykk: "Гаргачыкк"
+ WOOKIEE_CHR_garwooken: "Гарвукен"
+ WOOKIEE_CHR_gerraba: "Герраба"
+ WOOKIEE_CHR_gharcanna: "Гарканна"
+ WOOKIEE_CHR_ghraggka: "Грэггка"
+ WOOKIEE_CHR_gorbacca: "Горбачка"
+ WOOKIEE_CHR_gorwooken: "Горвукен"
+ WOOKIEE_CHR_grabathar: "Грабатар"
+ WOOKIEE_CHR_grabow: "Грабоу"
+ WOOKIEE_CHR_grahuur: "Грахуур"
+ WOOKIEE_CHR_grakchawwaa: "Гракчавва"
+ WOOKIEE_CHR_grarwwaar: "Грарвваар"
+ WOOKIEE_CHR_grasheel: "Грэшил"
+ WOOKIEE_CHR_greybok: "Грейбок"
+ WOOKIEE_CHR_grimyk: "Гримык"
+ WOOKIEE_CHR_grouaggerl: "Груаггерл"
+ WOOKIEE_CHR_grrallo: "Грралло"
+ WOOKIEE_CHR_grrrwahrr: "Грррварр"
+ WOOKIEE_CHR_gryyzak: "Грыйзак"
+ WOOKIEE_CHR_gumbaeki: "Гумбаеки"
+ WOOKIEE_CHR_gwarror: "Гваррор"
+ WOOKIEE_CHR_gyylghrard: "Гилгрард"
+ WOOKIEE_CHR_hahrynyar: "Хариньяр"
+ WOOKIEE_CHR_hanharr: "Ханхарр"
+ WOOKIEE_CHR_harrgun: "Харрган"
+ WOOKIEE_CHR_harwakokok: "Харвакокок"
+ WOOKIEE_CHR_hrrgn: "Хрргн"
+ WOOKIEE_CHR_hurrwarr: "Хуррварр"
+ WOOKIEE_CHR_isshaddik: "Ишаддик"
+ WOOKIEE_CHR_isshtharr: "Иштарр"
+ WOOKIEE_CHR_jaarak: "Джаарак"
+ WOOKIEE_CHR_jakarro: "Джакарро"
+ WOOKIEE_CHR_jowmaac: "Джоумаак"
+ WOOKIEE_CHR_kaarror: "Кааррор"
+ WOOKIEE_CHR_kallaaddik: "Каллааддик"
+ WOOKIEE_CHR_kallaarac: "Каллаарак"
+ WOOKIEE_CHR_karundabar: "Карундабар"
+ WOOKIEE_CHR_katykam: "Катыкам"
+ WOOKIEE_CHR_kentara: "Кентара"
+ WOOKIEE_CHR_kerritamba: "Керритамба"
+ WOOKIEE_CHR_kerrithraar: "Керритраар"
+ WOOKIEE_CHR_khyyynett: "Хайинетт"
+ WOOKIEE_CHR_kiaanta: "Киаанта"
+ WOOKIEE_CHR_kichiir: "Кичиир"
+ WOOKIEE_CHR_kirroo: "Кирру"
+ WOOKIEE_CHR_kitwarr: "Китварр"
+ WOOKIEE_CHR_kkatamik: "Ккатамик"
+ WOOKIEE_CHR_kravengash: "Кравенгаш"
+ WOOKIEE_CHR_kriyystak: "Крийистак"
+ WOOKIEE_CHR_kropporrr: "Кропппоррр"
+ WOOKIEE_CHR_krotorra: "Кроторра"
+ WOOKIEE_CHR_kuykenda: "Куйкенда"
+ WOOKIEE_CHR_lachichuk: "Лачичук"
+ WOOKIEE_CHR_lamorrack: "Ламоррак"
+ WOOKIEE_CHR_lawadaa: "Лавадаа"
+ WOOKIEE_CHR_lobarorr: "Лобарорр"
+ WOOKIEE_CHR_lofryyhn: "Лофрихн"
+ WOOKIEE_CHR_lowbacca: "Лоубакка"
+ WOOKIEE_CHR_lowhhrick: "Лоухрик"
+ WOOKIEE_CHR_lumpawaroo: "Лампавару"
+ WOOKIEE_CHR_mahraccor: "Махраккор"
+ WOOKIEE_CHR_merumeru: "Мерумеру"
+ WOOKIEE_CHR_montacca: "Монтакка"
+ WOOKIEE_CHR_motamba: "Мотамба"
+ WOOKIEE_CHR_nagraoao: "Награоао"
+ WOOKIEE_CHR_nawruun: "Навруун"
+ WOOKIEE_CHR_nilwoon: "Нилвун"
+ WOOKIEE_CHR_nyrkar: "Нюркар"
+ WOOKIEE_CHR_olayyyk: "Олайык"
+ WOOKIEE_CHR_onurruka: "Онуррука"
+ WOOKIEE_CHR_oolovv: "Ооловв"
+ WOOKIEE_CHR_ooorlak: "Уорлак"
+ WOOKIEE_CHR_oraalarri: "Орааларри"
+ WOOKIEE_CHR_orooroo: "Ороору"
+ WOOKIEE_CHR_orrekazzapirr: "Орреказзапирр"
+ WOOKIEE_CHR_owacchi: "Овакки"
+ WOOKIEE_CHR_ryyk: "Рыык"
+ WOOKIEE_CHR_quaagan: "Куаган"
+ WOOKIEE_CHR_quagga: "Квагга"
+ WOOKIEE_CHR_radrrl: "Радррл"
+ WOOKIEE_CHR_rakika: "Ракика"
+ WOOKIEE_CHR_ralera: "Ралера"
+ WOOKIEE_CHR_ralrracheen: "Ралррачин"
+ WOOKIEE_CHR_rarrook: "Раррук"
+ WOOKIEE_CHR_rashtah: "Раштах"
+ WOOKIEE_CHR_rawarok: "Раварок"
+ WOOKIEE_CHR_reerookachuck: "Рерукачук"
+ WOOKIEE_CHR_rholl: "Ролл"
+ WOOKIEE_CHR_rikummee: "Рикумми"
+ WOOKIEE_CHR_rojarra: "Рохарра"
+ WOOKIEE_CHR_rooarwaa: "Руарваа"
+ WOOKIEE_CHR_roogar: "Рогар"
+ WOOKIEE_CHR_rorjow: "Рорджоу"
+ WOOKIEE_CHR_rorworr: "Рорворр"
+ WOOKIEE_CHR_rowralorr: "Роуралорр"
+ WOOKIEE_CHR_rralla: "Рралла"
+ WOOKIEE_CHR_rrawkee: "Рроуки"
+ WOOKIEE_CHR_rrelbocco: "Ррелбокко"
+ WOOKIEE_CHR_rroggerr: "Рроггерр"
+ WOOKIEE_CHR_rruurrfhurra: "Ррууррфхурра"
+ WOOKIEE_CHR_rufarr: "Руфарр"
+ WOOKIEE_CHR_ruhr: "Рур"
+ WOOKIEE_CHR_rukurruka: "Рукуррука"
+ WOOKIEE_CHR_saarcheen: "Саархин"
+ WOOKIEE_CHR_sagwa: "Сагва"
+ WOOKIEE_CHR_salporin: "Салпорин"
+ WOOKIEE_CHR_sarkkin: "Сарккин"
+ WOOKIEE_CHR_shoran: "Шооран"
+ WOOKIEE_CHR_shorwarr: "Шорварр"
+ WOOKIEE_CHR_snoova: "Снува"
+ WOOKIEE_CHR_snotharr: "Снотарр"
+ WOOKIEE_CHR_snrrrlagga: "Снррлагга"
+ WOOKIEE_CHR_surracca: "Сурракка"
+ WOOKIEE_CHR_syirlabradawk: "Сиирлабрадок"
+ WOOKIEE_CHR_tahnchukka: "Танчукка"
+ WOOKIEE_CHR_takook: "Такук"
+ WOOKIEE_CHR_tallamitta: "Талламитта"
+ WOOKIEE_CHR_tantarra: "Тантарра"
+ WOOKIEE_CHR_tarkazza: "Тарказза"
+ WOOKIEE_CHR_tojjelnoot: "Тоджжелнут"
+ WOOKIEE_CHR_tojjevvuk: "Тоджеввук"
+ WOOKIEE_CHR_touda: "Тоуда"
+ WOOKIEE_CHR_triebakk: "Трибакк"
+ WOOKIEE_CHR_tyrrdko: "Тиррдко"
+ WOOKIEE_CHR_tyvokka: "Тайвокка"
+ WOOKIEE_CHR_ulaaar: "Улаар"
+ WOOKIEE_CHR_ulibacca: "Улибакка"
+ WOOKIEE_CHR_urothko: "Уротко"
+ WOOKIEE_CHR_urrurrowo: "Урруррово"
+ WOOKIEE_CHR_utchakkaloch: "Утчаккалоч"
+ WOOKIEE_CHR_vorlocca: "Форлокка"
+ WOOKIEE_CHR_vryyr: "Врыйр"
+ WOOKIEE_CHR_vryyyr: "Врыйыр"
+ WOOKIEE_CHR_warrchallra: "Варрхаллра"
+ WOOKIEE_CHR_weebacca: "Уибакка"
+ WOOKIEE_CHR_whumparrin: "Вампаррин"
+ WOOKIEE_CHR_wojarra: "Воджарра"
+ WOOKIEE_CHR_woorwill: "Вурвилл"
+ WOOKIEE_CHR_worrroznor: "Воррознор"
+ WOOKIEE_CHR_worrumba: "Воррумба"
+ WOOKIEE_CHR_wrelaac: "Врелаак"
+ WOOKIEE_CHR_wrhisch: "Вриш"
+ WOOKIEE_CHR_wrrlevgebev: "Вррлевгебев"
+ WOOKIEE_CHR_wrrl: "Врлл"
+ WOOKIEE_CHR_wullffwarro: "Вулффварро"
+ WOOKIEE_CHR_wurokkk: "Уроккк"
+ WOOKIEE_CHR_wyhyatt: "Вайятт"
+ WOOKIEE_CHR_yaawl: "Яавл"
+ WOOKIEE_CHR_yiprukk: "Йипрукк"
+ WOOKIEE_CHR_yrrcanna: "Иррканна"
+ WOOKIEE_CHR_yubookoo: "Юбуку"
+ WOOKIEE_CHR_zaalbar: "Заалбар"
+ WOOKIEE_CHR_ovarra: "Оварра"
+ WOOKIEE_CHR_anarra: "Анарра"
+ WOOKIEE_CHR_athnalu: "Атналу"
+ WOOKIEE_CHR_attierra: "Аттиерра"
+ WOOKIEE_CHR_beruga: "Беруга"
+ WOOKIEE_CHR_brahtikka: "Брахтикка"
+ WOOKIEE_CHR_chalpal: "Чалпал"
+ WOOKIEE_CHR_colara: "Колара"
+ WOOKIEE_CHR_dewlanna: "Девланна"
+ WOOKIEE_CHR_dewlannamapia: "Девланнамапия"
+ WOOKIEE_CHR_enacca: "Энакка"
+ WOOKIEE_CHR_froera: "Фроера"
+ WOOKIEE_CHR_frorral: "Фрорал"
+ WOOKIEE_CHR_gchalla: "Гчалла"
+ WOOKIEE_CHR_gorrlyn: "Горрлин"
+ WOOKIEE_CHR_grakkata: "Гракката"
+ WOOKIEE_CHR_granakk: "Гранакк"
+ WOOKIEE_CHR_grayyshk: "Грайишк"
+ WOOKIEE_CHR_gworrall: "Гворралл"
+ WOOKIEE_CHR_huhunna: "Хухунна"
+ WOOKIEE_CHR_hwruarca: "Хруарка"
+ WOOKIEE_CHR_jiprirr: "Джиприрр"
+ WOOKIEE_CHR_jowdrrl: "Джоудррл"
+ WOOKIEE_CHR_kallabow: "Каллабоу"
+ WOOKIEE_CHR_karashki: "Карашки"
+ WOOKIEE_CHR_katarra: "Катарра"
+ WOOKIEE_CHR_kirratha: "Киррата"
+ WOOKIEE_CHR_kivvaaa: "Киввааа"
+ WOOKIEE_CHR_kohlbacca: "Кольбакка"
+ WOOKIEE_CHR_kybacca: "Кибакка"
+ WOOKIEE_CHR_kymayrr: "Кимайрр"
+ WOOKIEE_CHR_kyobuk: "Кебук"
+ WOOKIEE_CHR_lunacca: "Лунакка"
+ WOOKIEE_CHR_mallatobuck: "Маллатобук"
+ WOOKIEE_CHR_n_arrghela: "Н'аргела"
+ WOOKIEE_CHR_nardakka: "Нардакка"
+ WOOKIEE_CHR_raabakyysh: "Раабакыш"
+ WOOKIEE_CHR_roshyk: "Росик"
+ WOOKIEE_CHR_rowrrhaffee: "Роуррхаффи"
+ WOOKIEE_CHR_rroorgli: "Ррооргли"
+ WOOKIEE_CHR_rroow: "Рроу"
+ WOOKIEE_CHR_sebaracca: "Себаракка"
+ WOOKIEE_CHR_shrandhnrignh: "Шранднригнх"
+ WOOKIEE_CHR_sirrakuk: "Сирракук"
+ WOOKIEE_CHR_spetbecca: "Спецбекка"
+ WOOKIEE_CHR_sunchoo: "Сунчу"
+ WOOKIEE_CHR_syychi: "Сийчи"
+ WOOKIEE_CHR_tirranna: "Тиранна"
+ WOOKIEE_CHR_ulucca: "Улукка"
+ WOOKIEE_CHR_urartu: "Урарту"
+ WOOKIEE_CHR_whyrrryk: "Уиррик"
+ WOOKIEE_CHR_wurrooba: "Вурруба"
+ WOOKIEE_CHR_wynni: "Винни"
+ WOOKIEE_CHR_yarua: "Яруа"
+ WOOKIEE_CHR_yawrocca: "Яврокка"
+ WOOKIEE_CHR_zittaasabba: "Зиттаасабба"

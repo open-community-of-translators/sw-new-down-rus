@@ -1,1027 +1,1027 @@
 ﻿l_russian:
-	MANDALORIAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_razor_crest: "Razor Crest" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gratua: "Gratua" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_parjai: "Parjai" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aay_han: "Aay'han" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_beroya: "Beroya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_beskad: "Beskad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_cornucopia: "Cornucopia" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_coronet: "Coronet" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_death_rattle: "Death Rattle" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_first_blood: "First Blood" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_free_mandalore: "Free Mandalore" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kom_rk: "Kom'rk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shriek_hawk: "Shriek-hawk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jaster_s_legacy: "Jaster's Legacy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_discovery: "Discovery" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mar_eyce: "Mar'eyce" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_orar: "Orar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_thunder: "Thunder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_victory: "Victory" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spirit_of_vengeance: "Spirit of Vengeance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_victus: "Victus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_word_of_thunder: "Word of Thunder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaavi_spar: "Akaavi Spar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_a_den: "A'den" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rage: "Rage" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aranar: "Aranar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_atiniir: "Atiniir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_brokar: "Brokar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_duraanir: "Duraanir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jurir: "Jurir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jurkadir: "Jurkadir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kar_taylir: "Kar'taylir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_motir: "Motir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_narir: "Narir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_nynir: "Nynir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_oya: "Oya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_adenn: "Adenn" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aaray: "Aaray" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_abiik: "Abiik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ad_ika: "Ad'ika" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaan_ad: "Akaan'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_arpat_akaan: "Arpat'akaan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ad_bes_bavar: "Ad'bes'bavar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ad_werda: "Ad'werda" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_parjai_ad: "Parjai'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tor_ad: "Tor'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tra_ad: "Tra'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ad_haran: "Ad'haran" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_haran_ad: "Haran'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aaray_ad: "Aaray'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaan: "Akaan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akalenedat: "Akalenedat" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_alii_gai: "Alii'gai" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aliik: "Aliik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aliit: "Aliit" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ara_nov: "Ara'nov" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_balac: "Balac" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bes_bavar: "Bes'bavar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bes_bev: "Bes'bev" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_be_senaar: "Be'senaar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_be_sol: "Be'sol" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dha_ulik: "Dha'ulik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_haran_ulik: "Haran'ulik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_cuy_val_dar: "Cuy'val Dar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dar_buir: "Dar'buir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dar_entye: "Dar'entye" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_entye: "Entye" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gra_tua: "Gra'tua" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_haran_kad: "Haran'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dha_kad: "Dha'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_cabur_kad: "Cabur'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaan_kad: "Akaan'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aaray_kad: "Aaray'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaan_ulik: "Akaan'ulik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_child_of_war: "Child of War" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hellchild: "Hellchild" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warblade: "Warblade" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_sword_of_war: "Sword of War" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warbeast: "Warbeast" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hellbeast: "Hellbeast" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_saber_of_the_beast: "Saber of the Beast" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ka_rta: "Ka'rta" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kot_kal: "Kot'kal" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kote: "Kote" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_glory: "Glory" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kot_tsad: "Kot'tsad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kote_tsad: "Kote'tsad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ne_ta_orar: "Ne'ta Orar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_black_thunder: "Black Thunder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ramikad: "Ramikad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_commando: "Commando" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ori_vod: "Ori'vod" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_prudii: "Prudii" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_runi: "Runi" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shereshoy: "Shereshoy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_crushgaunt: "Crushgaunt" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shuk_orok: "Shuk'orok" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tal_kad: "Tal'kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tal_ulik: "Tal'ulik" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_beast_of_blood: "Beast of Blood" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_justice: "Justice" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_daughter_of_fire: "Daughter of Fire" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tracinya: "Tracinya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ember: "Ember" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_inferno: "Inferno" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tracyn: "Tracyn" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vencuyot: "Vencuyot" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_verd: "Verd" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ba_slan: "Ba'slan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_strategic: "Strategic" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shev_la: "Shev'la" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_disappearance: "Disappearance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_honor: "Honor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_truth: "Truth" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_haat: "Haat" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ijaa: "Ijaa" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_haiit: "Haiit" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vision: "Vision" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_k_oyacyi: "K'oyacyi" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_draar_digu: "Draar Digu" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kyramud: "Kyramud" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_skotah_iisa: "Skotah Iisa" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_long_memory: "Long Memory" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dralshy_a: "Dralshy'a" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_sheab_rud: "Sheab'rud" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ori_jate: "Ori'jate" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_all_truth: "All Truth" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_resol_nare: "Resol'nare" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tenent: "Tenent" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_just_in_case: "Just In Case" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ret_lini: "Ret'lini" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warrior_of_the_shadow: "Warrior of the Shadow" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dha_werda_verda: "Dha Werda Verda" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_glory_of_the_zhell: "Glory of the Zhell" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_doom_of_ulmarah: "Doom of Ulmarah" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rexutu_the_unconquerable: "Rexutu the Unconquerable" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_maker_s_unmaking: "Maker's Unmaking" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ichor_of_zell: "Ichor of Zell" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hand_of_the_taung: "Hand of the Taung" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kad_ha_rangir: "Kad Ha'rangir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ash_of_the_taung: "Ash of the Taung" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_noble_son: "Noble Son" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_first_son: "First Son" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vengeance_burns: "Vengeance Burns" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gra_tua_cuun: "Gra'tua Cuun" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ka_rta_tor: "Ka'rta Tor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vode_an: "Vode An" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_olhak: "Olhak" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_destroyer: "Destroyer" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shogun_vision: "Shogun Vision" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vhonte_tervho: "Vhonte Tervho" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mij_gilamar: "Mij Gilamar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kal_skirata: "Kal Skirata" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_walon_vau: "Walon Vau" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_striile: "Striile" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_lord_mirdalan: "Lord Mirdalan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rav_bralor: "Rav Bralor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kaddak: "Kaddak" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_wad_e_tay_haai: "Wad'e Tay'haai" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_huntress: "Huntress" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kyrimorut: "Kyrimorut" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mythosaur: "Mythosaur" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_signet: "Signet" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mavrix_varad: "Mavrix Varad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaan_gaan: "Akaan'gaan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warfinder: "Warfinder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_akaanati_kar_oya: "Akaanati'kar'oya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_seeker: "Seeker" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_nite_owl: "Nite Owl" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hydra: "Hydra" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rally_master: "Rally Master" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_circle_of_battle: "Circle of Battle" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tears_of_the_thousand: "Tears of the Thousand" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pathandr_fury: "Pathandr Fury" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_canon_of_honor: "Canon of Honor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_grand_champion: "Grand Champion" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_great_hunt: "Great Hunt" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gai_bal_manda: "Gai Bal Manda" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_artus_lok: "Artus Lok" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_iron_heart: "Iron Heart" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_keldabe_kiss: "Keldabe Kiss" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ka_ra: "Ka'ra" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ceremonial_death: "Ceremonial Death" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vambrace: "Vambrace" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rising_phoenix: "Rising Phoenix" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_return: "Return" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_protector: "Protector" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blood_duel: "Blood Duel" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hod_ha_ran: "Hod Ha'ran" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_trickster: "Trickster" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_annihilation: "Annihilation" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dral_han: "Dral'Han" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_sundari: "Sundari" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_keldabe: "Keldabe" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_marauder: "Marauder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blademaster: "Blademaster" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_whistling_bird: "Whistling Bird" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bevii_ragir: "Bevii'ragir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rangehunter: "Rangehunter" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_verd_goten: "Verd'goten" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kelita: "Kelita" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_olankur: "Olankur" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_oyu_baat: "Oyu'baat" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tokursh: "Tokursh" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tarre_vizsla: "Tarre Vizsla" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_taylir: "Taylir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_preserver: "Preserver" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hammerborn: "Hammerborn" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_binder: "Binder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_canderous: "Canderous" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aga_awaud: "Aga Awaud" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shae_vizla: "Shae Vizla" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ranah_teh_naast: "Ranah Teh Naast" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_te_sol_yc: "Te Sol'yc" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_te_ani_la: "Te Ani'la" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_father_of_shadows: "Father of Shadows" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_awaud_s_honor: "Awaud's Honor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blade_of_beroya: "Blade of Beroya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hammer_of_beviin: "Hammer of Beviin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shield_of_bralor: "Shield of Bralor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_song_of_cadera: "Song of Cadera" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hymn_of_war: "Hymn of War" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_chorn_s_pride: "Chorn's Pride" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_thorn_of_deshra: "Thorn of Deshra" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_detta_s_wrath: "Detta's Wrath" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_farr_sight: "Farr Sight" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dirge_of_the_fett: "Dirge of the Fett" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_cassus: "Cassus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_echo_of_malachor: "Echo of Malachor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jaster_mereel: "Jaster Mereel" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_journeyman: "Journeyman" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_true_heir: "True Heir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gedyc_s_edge: "Gedyc's Edge" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mantle_of_itera: "Mantle of Itera" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_strength_of_jeban: "Strength of Jeban" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jendri_strike: "Jendri Strike" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_eye_of_jennis: "Eye of Jennis" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kelborn: "Kelborn" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_keldau: "Keldau" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kryze: "Kryze" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pledge_of_lok: "Pledge of Lok" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_lonestar: "Lonestar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ordo_star: "Ordo Star" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_right_of_rodarch: "Right of Rodarch" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_rook: "Rook" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_saxon_s_sabre: "Saxon's Sabre" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_fist_of_sharratt: "Fist of Sharratt" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_skirata: "Skirata" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_flame_of_cornell: "Flame of Cornell" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tenau_s_command: "Tenau's Command" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_heart_of_varad: "Heart of Varad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vizsla_invictus: "Vizsla Invictus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vevut_oath: "Vevut Oath" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_wren_s_wrath: "Wren's Wrath" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_champion: "Champion" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_void_watcher: "Void Watcher" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_safeguard: "Safeguard" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_excision_s_due: "Excision's Due" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_warlord: "Warlord" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_on_glory_s_road: "On Glory's Road" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_galaar: "Galaar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_shatual: "Shatual" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_stathas: "Stathas" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vhe_viin: "Vhe'viin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_conflagration: "Conflagration" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_firestorm: "Firestorm" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blazing_spear: "Blazing Spear" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_huntmaster: "Huntmaster" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_indigo: "Indigo" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ash_ad: "Ash'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tur_mukan: "Tur-Mukan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kad_ika: "Kad'ika" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mavrix: "Mavrix" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tarre: "Tarre" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tal_galar: "Tal'galar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hibirar: "Hibirar" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jorhaa_ir: "Jorhaa'ir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_nau_ur: "Nau'ur" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_burc_ya: "Burc'ya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mirshe: "Mirshe" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_munit_tome_tayl: "Munit Tome'tayl" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_dadita: "Dadita" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_troan: "Troan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_foundling: "Foundling" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mando_ad: "Mando'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_agol: "Agol" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_anade_ad: "Anade'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_arpat_concord: "Arpat Concord" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mando_a_arpat: "Mando'a'arpat" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_birikad: "Birikad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_buir: "Buir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_runi_ad: "Runi'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jorso_ran: "Jorso'ran" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kad: "Kad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_udesii: "Udesii" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_neral: "Neral" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ba_vodu: "Ba'vodu" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vhett: "Vhett" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pakod_ad: "Pakod'ad" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jatne: "Jatne" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bantov: "Bantov" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mandalorian_dropship: "Mandalorian Dropship" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_acre: "Acre" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_newport: "Newport" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_guam: "Guam" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_everest: "Everest" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_perry: "Perry" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_morris: "Morris" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hart: "Hart" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_turner: "Turner" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_doria: "Doria" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_durham: "Durham" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_milne: "Milne" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_pound: "Pound" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_king: "King" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_essen: "Essen" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_treville: "Treville" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_byng: "Byng" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	MANDALORIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_ultimate: "Warfleet Ultimate" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_indomitable: "Warfleet Indomitable" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_vindicated: "Warfleet Vindicated" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_avenger: "Warfleet Avenger" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_destroyer: "Warfleet Destroyer" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_resurrector: "Warfleet Resurrector" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_preserver: "Warfleet Preserver" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_conqueror: "Warfleet Conqueror" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_warfleet_binder: "Warfleet Binder" #!Empty_LineInfo!
-	MANDALORIAN_FLEET_battlegroup_ORD: "$ORD$ Battlegroup" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_commando_guard_ORD: "$ORD$ Commando Guard" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_crusader_force_ORD: "$ORD$ Crusader Force" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_conscripted_rifles_ORD: "$ORD$ Conscripted Rifles" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	MANDALORIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	MANDALORIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	MANDALORIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	MANDALORIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ghes: "Ghes" #!Empty_LineInfo!
-	MANDALORIAN_CHR_din: "Din" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jaster: "Jaster" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kal: "Kal" #!Empty_LineInfo!
-	MANDALORIAN_CHR_pre: "Pre" #!Empty_LineInfo!
-	MANDALORIAN_CHR_cassus: "Cassus" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tal: "Tal" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tor: "Tor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dred: "Dred" #!Empty_LineInfo!
-	MANDALORIAN_CHR_fen: "Fen" #!Empty_LineInfo!
-	MANDALORIAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_artus: "Artus" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jagger: "Jagger" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tiber: "Tiber" #!Empty_LineInfo!
-	MANDALORIAN_CHR_a_den: "A'den" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jaing: "Jaing" #!Empty_LineInfo!
-	MANDALORIAN_CHR_atin: "Atin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_darman: "Darman" #!Empty_LineInfo!
-	MANDALORIAN_CHR_silas: "Silas" #!Empty_LineInfo!
-	MANDALORIAN_CHR_walon: "Walon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mirta: "Mirta" #!Empty_LineInfo!
-	MANDALORIAN_CHR_arla: "Arla" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mira: "Mira" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ailyn: "Ailyn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sintas: "Sintas" #!Empty_LineInfo!
-	MANDALORIAN_CHR_shyla: "Shyla" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sasha: "Sasha" #!Empty_LineInfo!
-	MANDALORIAN_CHR_shae: "Shae" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sabine: "Sabine" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ursa: "Ursa" #!Empty_LineInfo!
-	MANDALORIAN_CHR_fett: "Fett" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ordo: "Ordo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kryze: "Kryze" #!Empty_LineInfo!
-	MANDALORIAN_CHR_saxon: "Saxon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_skirata: "Skirata" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vizsla: "Vizsla" #!Empty_LineInfo!
-	MANDALORIAN_CHR_wren: "Wren" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jango: "Jango" #!Empty_LineInfo!
-	MANDALORIAN_CHR_boba: "Boba" #!Empty_LineInfo!
-	MANDALORIAN_CHR_canderous: "Canderous" #!Empty_LineInfo!
-	MANDALORIAN_CHR_montross: "Montross" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ijaat: "Ijaat" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ilippi: "Ilippi" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jagi: "Jagi" #!Empty_LineInfo!
-	MANDALORIAN_CHR_adiik: "Adiik" #!Empty_LineInfo!
-	MANDALORIAN_CHR_akero: "Akero" #!Empty_LineInfo!
-	MANDALORIAN_CHR_b_arin: "B'arin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_randun: "Randun" #!Empty_LineInfo!
-	MANDALORIAN_CHR_barduun: "Barduun" #!Empty_LineInfo!
-	MANDALORIAN_CHR_berardesco: "Berardesco" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jos: "Jos" #!Empty_LineInfo!
-	MANDALORIAN_CHR_nam: "Nam" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tarro: "Tarro" #!Empty_LineInfo!
-	MANDALORIAN_CHR_braum: "Braum" #!Empty_LineInfo!
-	MANDALORIAN_CHR_branger: "Branger" #!Empty_LineInfo!
-	MANDALORIAN_CHR_brank: "Brank" #!Empty_LineInfo!
-	MANDALORIAN_CHR_briike: "Briike" #!Empty_LineInfo!
-	MANDALORIAN_CHR_deron: "Deron" #!Empty_LineInfo!
-	MANDALORIAN_CHR_baltan: "Baltan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_breyer: "Breyer" #!Empty_LineInfo!
-	MANDALORIAN_CHR_cikartan: "Cikartan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lux: "Lux" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gar: "Gar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_fenri: "Fenri" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ikito: "Ikito" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mord: "Mord" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kellov: "Kellov" #!Empty_LineInfo!
-	MANDALORIAN_CHR_meltch: "Meltch" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kro: "Kro" #!Empty_LineInfo!
-	MANDALORIAN_CHR_melkket: "Melkket" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ralnar: "Ralnar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hudu: "Hudu" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vherr: "Vherr" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dorrick: "Dorrick" #!Empty_LineInfo!
-	MANDALORIAN_CHR_monta: "Monta" #!Empty_LineInfo!
-	MANDALORIAN_CHR_roggar: "Roggar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_eirik: "Eirik" #!Empty_LineInfo!
-	MANDALORIAN_CHR_yenko: "Yenko" #!Empty_LineInfo!
-	MANDALORIAN_CHR_deagan: "Deagan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_janx: "Janx" #!Empty_LineInfo!
-	MANDALORIAN_CHR_eskol: "Eskol" #!Empty_LineInfo!
-	MANDALORIAN_CHR_genter: "Genter" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gezda: "Gezda" #!Empty_LineInfo!
-	MANDALORIAN_CHR_duran: "Duran" #!Empty_LineInfo!
-	MANDALORIAN_CHR_galron: "Galron" #!Empty_LineInfo!
-	MANDALORIAN_CHR_geden: "Geden" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mij: "Mij" #!Empty_LineInfo!
-	MANDALORIAN_CHR_graad: "Graad" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hark: "Hark" #!Empty_LineInfo!
-	MANDALORIAN_CHR_redok: "Redok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hashar: "Hashar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hayar: "Hayar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ghez: "Ghez" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jun: "Jun" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jakal: "Jakal" #!Empty_LineInfo!
-	MANDALORIAN_CHR_janard: "Janard" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jarkyc: "Jarkyc" #!Empty_LineInfo!
-	MANDALORIAN_CHR_johun: "Johun" #!Empty_LineInfo!
-	MANDALORIAN_CHR_joram: "Joram" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bardan: "Bardan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kad: "Kad" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hondo: "Hondo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_novin: "Novin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sedyn: "Sedyn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vaor: "Vaor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vol: "Vol" #!Empty_LineInfo!
-	MANDALORIAN_CHR_valen: "Valen" #!Empty_LineInfo!
-	MANDALORIAN_CHR_deth: "Deth" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jindo: "Jindo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kyrenic: "Kyrenic" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lek: "Lek" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lem_ofars: "Lem-Ofars" #!Empty_LineInfo!
-	MANDALORIAN_CHR_levet: "Levet" #!Empty_LineInfo!
-	MANDALORIAN_CHR_droga: "Droga" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bosann: "Bosann" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gorse: "Gorse" #!Empty_LineInfo!
-	MANDALORIAN_CHR_garon: "Garon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bralor: "Bralor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_zayne: "Zayne" #!Empty_LineInfo!
-	MANDALORIAN_CHR_davrel: "Davrel" #!Empty_LineInfo!
-	MANDALORIAN_CHR_demagol: "Demagol" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ergeron: "Ergeron" #!Empty_LineInfo!
-	MANDALORIAN_CHR_esok: "Esok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dhagon: "Dhagon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gorrga: "Gorrga" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jarg: "Jarg" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dorjander: "Dorjander" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kelborn: "Kelborn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kex: "Kex" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kumus: "Kumus" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ferrun: "Ferrun" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tegris: "Tegris" #!Empty_LineInfo!
-	MANDALORIAN_CHR_reeza: "Reeza" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sherruk: "Sherruk" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tagren: "Tagren" #!Empty_LineInfo!
-	MANDALORIAN_CHR_xarga: "Xarga" #!Empty_LineInfo!
-	MANDALORIAN_CHR_zuka: "Zuka" #!Empty_LineInfo!
-	MANDALORIAN_CHR_goran: "Goran" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tobbi: "Tobbi" #!Empty_LineInfo!
-	MANDALORIAN_CHR_cham: "Cham" #!Empty_LineInfo!
-	MANDALORIAN_CHR_suvar: "Suvar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_parma: "Parma" #!Empty_LineInfo!
-	MANDALORIAN_CHR_belok: "Belok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tem: "Tem" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tiroc: "Tiroc" #!Empty_LineInfo!
-	MANDALORIAN_CHR_teroch: "Teroch" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jintar: "Jintar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_shalk: "Shalk" #!Empty_LineInfo!
-	MANDALORIAN_CHR_medrit: "Medrit" #!Empty_LineInfo!
-	MANDALORIAN_CHR_neth: "Neth" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rav: "Rav" #!Empty_LineInfo!
-	MANDALORIAN_CHR_salus: "Salus" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jogo: "Jogo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jicoln: "Jicoln" #!Empty_LineInfo!
-	MANDALORIAN_CHR_torian: "Torian" #!Empty_LineInfo!
-	MANDALORIAN_CHR_khomo: "Khomo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vorten: "Vorten" #!Empty_LineInfo!
-	MANDALORIAN_CHR_makin: "Makin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_merrk: "Merrk" #!Empty_LineInfo!
-	MANDALORIAN_CHR_adonai: "Adonai" #!Empty_LineInfo!
-	MANDALORIAN_CHR_korkie: "Korkie" #!Empty_LineInfo!
-	MANDALORIAN_CHR_zadik: "Zadik" #!Empty_LineInfo!
-	MANDALORIAN_CHR_chernan: "Chernan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_corridan: "Corridan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_edric: "Edric" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tayari: "Tayari" #!Empty_LineInfo!
-	MANDALORIAN_CHR_almec: "Almec" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kom_rk: "Kom'rk" #!Empty_LineInfo!
-	MANDALORIAN_CHR_prudii: "Prudii" #!Empty_LineInfo!
-	MANDALORIAN_CHR_venku: "Venku" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ruusaan: "Ruusaan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_braxx: "Braxx" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kandon: "Kandon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lothor: "Lothor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tiru: "Tiru" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mavrix: "Mavrix" #!Empty_LineInfo!
-	MANDALORIAN_CHR_novak: "Novak" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gen: "Gen" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tarre: "Tarre" #!Empty_LineInfo!
-	MANDALORIAN_CHR_alrich: "Alrich" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tristan: "Tristan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_agerin: "Agerin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_moburi: "Moburi" #!Empty_LineInfo!
-	MANDALORIAN_CHR_randor: "Randor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_amis: "Amis" #!Empty_LineInfo!
-	MANDALORIAN_CHR_aramis: "Aramis" #!Empty_LineInfo!
-	MANDALORIAN_CHR_arel: "Arel" #!Empty_LineInfo!
-	MANDALORIAN_CHR_armatan: "Armatan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_davu: "Davu" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jerec: "Jerec" #!Empty_LineInfo!
-	MANDALORIAN_CHR_zak: "Zak" #!Empty_LineInfo!
-	MANDALORIAN_CHR_siddiq: "Siddiq" #!Empty_LineInfo!
-	MANDALORIAN_CHR_patrok: "Patrok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ohta: "Ohta" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kassor: "Kassor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ralebedth: "Ralebedth" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kreegan: "Kreegan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rellu: "Rellu" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rhigoth: "Rhigoth" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rimark: "Rimark" #!Empty_LineInfo!
-	MANDALORIAN_CHR_roegr: "Roegr" #!Empty_LineInfo!
-	MANDALORIAN_CHR_scarn: "Scarn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_akshae: "Akshae" #!Empty_LineInfo!
-	MANDALORIAN_CHR_avin: "Avin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hedarr: "Hedarr" #!Empty_LineInfo!
-	MANDALORIAN_CHR_corbo: "Corbo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_takan: "Takan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tanik: "Tanik" #!Empty_LineInfo!
-	MANDALORIAN_CHR_varek: "Varek" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vatok: "Vatok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_thraijon: "Thraijon" #!Empty_LineInfo!
-	MANDALORIAN_CHR_thron: "Thron" #!Empty_LineInfo!
-	MANDALORIAN_CHR_beviin: "Beviin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vevec: "Vevec" #!Empty_LineInfo!
-	MANDALORIAN_CHR_paz: "Paz" #!Empty_LineInfo!
-	MANDALORIAN_CHR_herik: "Herik" #!Empty_LineInfo!
-	MANDALORIAN_CHR_llats: "Llats" #!Empty_LineInfo!
-	MANDALORIAN_CHR_oren: "Oren" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ram: "Ram" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vipsanis: "Vipsanis" #!Empty_LineInfo!
-	MANDALORIAN_CHR_warr_an: "Warr'an" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jir: "Jir" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gustav: "Gustav" #!Empty_LineInfo!
-	MANDALORIAN_CHR_valk: "Valk" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vera: "Vera" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gizka: "Gizka" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lorka: "Lorka" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bo_katan: "Bo-Katan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rook: "Rook" #!Empty_LineInfo!
-	MANDALORIAN_CHR_veraslayn: "Veraslayn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_isbet: "Isbet" #!Empty_LineInfo!
-	MANDALORIAN_CHR_issy: "Issy" #!Empty_LineInfo!
-	MANDALORIAN_CHR_karin: "Karin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_feresyl: "Feresyl" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jhan: "Jhan" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jogotha: "Jogotha" #!Empty_LineInfo!
-	MANDALORIAN_CHR_benna: "Benna" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mirli: "Mirli" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ralia: "Ralia" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jaska: "Jaska" #!Empty_LineInfo!
-	MANDALORIAN_CHR_koblus: "Koblus" #!Empty_LineInfo!
-	MANDALORIAN_CHR_briika: "Briika" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dinua: "Dinua" #!Empty_LineInfo!
-	MANDALORIAN_CHR_joy: "Joy" #!Empty_LineInfo!
-	MANDALORIAN_CHR_briila: "Briila" #!Empty_LineInfo!
-	MANDALORIAN_CHR_cetta: "Cetta" #!Empty_LineInfo!
-	MANDALORIAN_CHR_veela: "Veela" #!Empty_LineInfo!
-	MANDALORIAN_CHR_marn: "Marn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_hayca: "Hayca" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lagos: "Lagos" #!Empty_LineInfo!
-	MANDALORIAN_CHR_soniee: "Soniee" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ketsu: "Ketsu" #!Empty_LineInfo!
-	MANDALORIAN_CHR_mirgo: "Mirgo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_dao: "Dao" #!Empty_LineInfo!
-	MANDALORIAN_CHR_isko: "Isko" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tani: "Tani" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vhonte: "Vhonte" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tes: "Tes" #!Empty_LineInfo!
-	MANDALORIAN_CHR_awaud: "Awaud" #!Empty_LineInfo!
-	MANDALORIAN_CHR_beroya: "Beroya" #!Empty_LineInfo!
-	MANDALORIAN_CHR_cadera: "Cadera" #!Empty_LineInfo!
-	MANDALORIAN_CHR_carid: "Carid" #!Empty_LineInfo!
-	MANDALORIAN_CHR_chorn: "Chorn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_deshra: "Deshra" #!Empty_LineInfo!
-	MANDALORIAN_CHR_farr: "Farr" #!Empty_LineInfo!
-	MANDALORIAN_CHR_gedyc: "Gedyc" #!Empty_LineInfo!
-	MANDALORIAN_CHR_itera: "Itera" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jeban: "Jeban" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jendri: "Jendri" #!Empty_LineInfo!
-	MANDALORIAN_CHR_jennis: "Jennis" #!Empty_LineInfo!
-	MANDALORIAN_CHR_keldau: "Keldau" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lok: "Lok" #!Empty_LineInfo!
-	MANDALORIAN_CHR_lone: "Lone" #!Empty_LineInfo!
-	MANDALORIAN_CHR_rodarch: "Rodarch" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sharratt: "Sharratt" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sornell: "Sornell" #!Empty_LineInfo!
-	MANDALORIAN_CHR_spar: "Spar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tenau: "Tenau" #!Empty_LineInfo!
-	MANDALORIAN_CHR_varad: "Varad" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vevut: "Vevut" #!Empty_LineInfo!
-	MANDALORIAN_CHR_axe: "Axe" #!Empty_LineInfo!
-	MANDALORIAN_CHR_woves: "Woves" #!Empty_LineInfo!
-	MANDALORIAN_CHR_koska: "Koska" #!Empty_LineInfo!
-	MANDALORIAN_CHR_reeves: "Reeves" #!Empty_LineInfo!
-	MANDALORIAN_CHR_ragnar: "Ragnar" #!Empty_LineInfo!
-	MANDALORIAN_CHR_yaga: "Yaga" #!Empty_LineInfo!
-	MANDALORIAN_CHR_auchs: "Auchs" #!Empty_LineInfo!
-	MANDALORIAN_CHR_orade: "Orade" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tawr: "Tawr" #!Empty_LineInfo!
-	MANDALORIAN_CHR_onyo: "Onyo" #!Empty_LineInfo!
-	MANDALORIAN_CHR_priest: "Priest" #!Empty_LineInfo!
-	MANDALORIAN_CHR_vau: "Vau" #!Empty_LineInfo!
-	MANDALORIAN_CHR_djarin: "Djarin" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bask: "Bask" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sunn: "Sunn" #!Empty_LineInfo!
-	MANDALORIAN_CHR_bretu: "Bretu" #!Empty_LineInfo!
-	MANDALORIAN_CHR_inor: "Inor" #!Empty_LineInfo!
-	MANDALORIAN_CHR_kregg: "Kregg" #!Empty_LineInfo!
-	MANDALORIAN_CHR_tervho: "Tervho" #!Empty_LineInfo!
-	MANDALORIAN_CHR_sofi: "Sofi" #!Empty_LineInfo!
-	MANDALORIAN_CHR_zavird: "Zavird" #!Empty_LineInfo!
+ MANDALORIAN_SHIP_crusader: "Крестоносец"
+ MANDALORIAN_SHIP_razor_crest: "Бритвенный гребень"
+ MANDALORIAN_SHIP_gratua: "Безвозмездно"
+ MANDALORIAN_SHIP_parjai: "Парджай"
+ MANDALORIAN_SHIP_aay_han: "Ай'хан"
+ MANDALORIAN_SHIP_beroya: "Бероя"
+ MANDALORIAN_SHIP_beskad: "Бескад"
+ MANDALORIAN_SHIP_cornucopia: "Рог изобилия"
+ MANDALORIAN_SHIP_coronet: "Корона"
+ MANDALORIAN_SHIP_death_rattle: "Предсмертный хрип"
+ MANDALORIAN_SHIP_first_blood: "Первая кровь"
+ MANDALORIAN_SHIP_free_mandalore: "Свободный Мандалор"
+ MANDALORIAN_SHIP_gauntlet: "Перчатка"
+ MANDALORIAN_SHIP_kom_rk: "Комната"
+ MANDALORIAN_SHIP_shriek_hawk: "Крикливый ястреб"
+ MANDALORIAN_SHIP_jaster_s_legacy: "Наследие Джастера"
+ MANDALORIAN_SHIP_discovery: "Открытие"
+ MANDALORIAN_SHIP_mar_eyce: "Мар'эйс"
+ MANDALORIAN_SHIP_orar: "Орар"
+ MANDALORIAN_SHIP_thunder: "Гром"
+ MANDALORIAN_SHIP_victory: "Победа"
+ MANDALORIAN_SHIP_spirit_of_vengeance: "Дух мести"
+ MANDALORIAN_SHIP_victus: "Победа"
+ MANDALORIAN_SHIP_word_of_thunder: "Слово грома"
+ MANDALORIAN_SHIP_akaavi_spar: "Акаави Спар"
+ MANDALORIAN_SHIP_a_den: "А'ден"
+ MANDALORIAN_SHIP_rage: "Ярость"
+ MANDALORIAN_SHIP_aranar: "Аранар"
+ MANDALORIAN_SHIP_atiniir: "Атиниир"
+ MANDALORIAN_SHIP_brokar: "Брокар"
+ MANDALORIAN_SHIP_duraanir: "Дураанир"
+ MANDALORIAN_SHIP_jurir: "Юрир"
+ MANDALORIAN_SHIP_jurkadir: "Джуркадыр"
+ MANDALORIAN_SHIP_kar_taylir: "Кар'тайлир"
+ MANDALORIAN_SHIP_motir: "Мотир"
+ MANDALORIAN_SHIP_narir: "Нарир"
+ MANDALORIAN_SHIP_nynir: "Найнир"
+ MANDALORIAN_SHIP_oya: "Ойя"
+ MANDALORIAN_SHIP_adenn: "Аденн"
+ MANDALORIAN_SHIP_aaray: "Арай"
+ MANDALORIAN_SHIP_abiik: "Абиик"
+ MANDALORIAN_SHIP_ad_ika: "Ад'ика"
+ MANDALORIAN_SHIP_akaan_ad: "Акаан'ад"
+ MANDALORIAN_SHIP_arpat_akaan: "Арпат'акаан"
+ MANDALORIAN_SHIP_ad_bes_bavar: "Ад'беб'бавар"
+ MANDALORIAN_SHIP_ad_werda: "Ад'верда"
+ MANDALORIAN_SHIP_parjai_ad: "Парджай'ад"
+ MANDALORIAN_SHIP_tor_ad: "Тор'ад"
+ MANDALORIAN_SHIP_tra_ad: "Тра'ад"
+ MANDALORIAN_SHIP_ad_haran: "Ад'харан"
+ MANDALORIAN_SHIP_haran_ad: "Харан'ад"
+ MANDALORIAN_SHIP_aaray_ad: "Арай'ад"
+ MANDALORIAN_SHIP_akaan: "Акаан"
+ MANDALORIAN_SHIP_akalenedat: "Акаленедат"
+ MANDALORIAN_SHIP_alii_gai: "Али'гай"
+ MANDALORIAN_SHIP_aliik: "Алиик"
+ MANDALORIAN_SHIP_aliit: "Алиит"
+ MANDALORIAN_SHIP_ara_nov: "Ара'нов"
+ MANDALORIAN_SHIP_balac: "Балак"
+ MANDALORIAN_SHIP_bes_bavar: "Бес'бавар"
+ MANDALORIAN_SHIP_bes_bev: "Бес'бев"
+ MANDALORIAN_SHIP_be_senaar: "Бе'зенаар"
+ MANDALORIAN_SHIP_be_sol: "Бе'соль"
+ MANDALORIAN_SHIP_dha_ulik: "Даулик"
+ MANDALORIAN_SHIP_haran_ulik: "Харан'улик"
+ MANDALORIAN_SHIP_cuy_val_dar: "Кай'вал Дар"
+ MANDALORIAN_SHIP_dar_buir: "Дар'буир"
+ MANDALORIAN_SHIP_dar_entye: "Дар'энти"
+ MANDALORIAN_SHIP_entye: "Энти"
+ MANDALORIAN_SHIP_gra_tua: "Гра'туа"
+ MANDALORIAN_SHIP_haran_kad: "Харан'кад"
+ MANDALORIAN_SHIP_dha_kad: "Да'кад"
+ MANDALORIAN_SHIP_cabur_kad: "Кабур'кад"
+ MANDALORIAN_SHIP_akaan_kad: "Акаан'кад"
+ MANDALORIAN_SHIP_aaray_kad: "Арай'кад"
+ MANDALORIAN_SHIP_akaan_ulik: "Акаан'улик"
+ MANDALORIAN_SHIP_child_of_war: "Дитя войны"
+ MANDALORIAN_SHIP_hellchild: "Хеллчайлд"
+ MANDALORIAN_SHIP_warblade: "Боевой клинок"
+ MANDALORIAN_SHIP_sword_of_war: "Меч войны"
+ MANDALORIAN_SHIP_warbeast: "Зверь войны"
+ MANDALORIAN_SHIP_hellbeast: "Исчадие ада"
+ MANDALORIAN_SHIP_saber_of_the_beast: "Сабля зверя"
+ MANDALORIAN_SHIP_ka_rta: "Ка'рта"
+ MANDALORIAN_SHIP_kot_kal: "Кот'кал"
+ MANDALORIAN_SHIP_kote: "Котэ"
+ MANDALORIAN_SHIP_glory: "Слава"
+ MANDALORIAN_SHIP_kot_tsad: "Кот'цад"
+ MANDALORIAN_SHIP_kote_tsad: "Коте'цад"
+ MANDALORIAN_SHIP_ne_ta_orar: "Не'та Орар"
+ MANDALORIAN_SHIP_black_thunder: "Черный гром"
+ MANDALORIAN_SHIP_ramikad: "Рамикад"
+ MANDALORIAN_SHIP_commando: "Коммандос"
+ MANDALORIAN_SHIP_ori_vod: "Ори'вод"
+ MANDALORIAN_SHIP_prudii: "Пруди"
+ MANDALORIAN_SHIP_shadow: "Тень"
+ MANDALORIAN_SHIP_runi: "Руни"
+ MANDALORIAN_SHIP_shereshoy: "Шерешей"
+ MANDALORIAN_SHIP_crushgaunt: "Крашгонт"
+ MANDALORIAN_SHIP_shuk_orok: "Шук'орок"
+ MANDALORIAN_SHIP_tal_kad: "Тал'кад"
+ MANDALORIAN_SHIP_tal_ulik: "Тал'улик"
+ MANDALORIAN_SHIP_beast_of_blood: "Кровавый зверь"
+ MANDALORIAN_SHIP_justice: "Справедливость"
+ MANDALORIAN_SHIP_daughter_of_fire: "Дочь огня"
+ MANDALORIAN_SHIP_tracinya: "Трасиня"
+ MANDALORIAN_SHIP_ember: "Эмбер"
+ MANDALORIAN_SHIP_inferno: "Инферно"
+ MANDALORIAN_SHIP_tracyn: "Трейсин"
+ MANDALORIAN_SHIP_vencuyot: "Венкуйот"
+ MANDALORIAN_SHIP_verd: "Верд"
+ MANDALORIAN_SHIP_warrior: "Воин"
+ MANDALORIAN_SHIP_ba_slan: "Ба'слан"
+ MANDALORIAN_SHIP_strategic: "Стратегический"
+ MANDALORIAN_SHIP_shev_la: "Шевла"
+ MANDALORIAN_SHIP_disappearance: "Исчезновение"
+ MANDALORIAN_SHIP_honor: "Честь"
+ MANDALORIAN_SHIP_truth: "Истина"
+ MANDALORIAN_SHIP_haat: "Хаат"
+ MANDALORIAN_SHIP_ijaa: "Иджаа"
+ MANDALORIAN_SHIP_haiit: "Хаиит"
+ MANDALORIAN_SHIP_vision: "Видение"
+ MANDALORIAN_SHIP_k_oyacyi: "К'ояцьи"
+ MANDALORIAN_SHIP_draar_digu: "Драар Дигу"
+ MANDALORIAN_SHIP_kyramud: "Кирамуд"
+ MANDALORIAN_SHIP_skotah_iisa: "SСкотах Ииса"
+ MANDALORIAN_SHIP_long_memory: "Долгая память"
+ MANDALORIAN_SHIP_dralshy_a: "Дралшия"
+ MANDALORIAN_SHIP_sheab_rud: "Шиб'руд"
+ MANDALORIAN_SHIP_ori_jate: "Ори'джейт"
+ MANDALORIAN_SHIP_all_truth: "Вся правда"
+ MANDALORIAN_SHIP_resol_nare: "Ресол'наре"
+ MANDALORIAN_SHIP_tenent: "Тэнент"
+ MANDALORIAN_SHIP_just_in_case: "На всякий случай"
+ MANDALORIAN_SHIP_ret_lini: "Рет'лини"
+ MANDALORIAN_SHIP_warrior_of_the_shadow: "Воин Тени"
+ MANDALORIAN_SHIP_dha_werda_verda: "Дха Уирда Верда"
+ MANDALORIAN_SHIP_glory_of_the_zhell: "Слава Желла"
+ MANDALORIAN_SHIP_doom_of_ulmarah: "Гибель Ульмары"
+ MANDALORIAN_SHIP_rexutu_the_unconquerable: "Рексуту Непобедимый"
+ MANDALORIAN_SHIP_maker_s_unmaking: "Разрушение создателя"
+ MANDALORIAN_SHIP_ichor_of_zell: "Ихор из Целля"
+ MANDALORIAN_SHIP_reaver: "Разбойник"
+ MANDALORIAN_SHIP_hand_of_the_taung: "Рука таунга"
+ MANDALORIAN_SHIP_kad_ha_rangir: "Кад Ха'рангир"
+ MANDALORIAN_SHIP_ash_of_the_taung: "Пепел Таунга"
+ MANDALORIAN_SHIP_noble_son: "Благородный сын"
+ MANDALORIAN_SHIP_first_son: "Первый сын"
+ MANDALORIAN_SHIP_vengeance_burns: "Месть пылает"
+ MANDALORIAN_SHIP_gra_tua_cuun: "Гра'туа Куун"
+ MANDALORIAN_SHIP_ka_rta_tor: "Ка'рта Тор"
+ MANDALORIAN_SHIP_vode_an: "Водэ Ан"
+ MANDALORIAN_SHIP_olhak: "Олхак"
+ MANDALORIAN_SHIP_destroyer: "Разрушитель"
+ MANDALORIAN_SHIP_shogun_vision: "Видение сегуна"
+ MANDALORIAN_SHIP_vhonte_tervho: "Вхонте Тервхо"
+ MANDALORIAN_SHIP_mij_gilamar: "Мидж Гиламар"
+ MANDALORIAN_SHIP_kal_skirata: "Кал Скирата"
+ MANDALORIAN_SHIP_walon_vau: "Уолон Вэу"
+ MANDALORIAN_SHIP_striile: "Страйл"
+ MANDALORIAN_SHIP_lord_mirdalan: "Лорд Мирдалан"
+ MANDALORIAN_SHIP_rav_bralor: "Рав Бралор"
+ MANDALORIAN_SHIP_kaddak: "Каддак"
+ MANDALORIAN_SHIP_wad_e_tay_haai: "Вад'э Тай'хаай"
+ MANDALORIAN_SHIP_huntress: "Охотница"
+ MANDALORIAN_SHIP_kyrimorut: "Кириморут"
+ MANDALORIAN_SHIP_mythosaur: "Мифозавр"
+ MANDALORIAN_SHIP_signet: "Печатка"
+ MANDALORIAN_SHIP_mavrix_varad: "Маврикс Варад"
+ MANDALORIAN_SHIP_akaan_gaan: "Аккан'гаан"
+ MANDALORIAN_SHIP_warfinder: "Войноискатель"
+ MANDALORIAN_SHIP_akaanati_kar_oya: "Аканати'ка'ойя"
+ MANDALORIAN_SHIP_seeker: "Искатель"
+ MANDALORIAN_SHIP_nite_owl: "Ночная сова"
+ MANDALORIAN_SHIP_centurion: "Центурион"
+ MANDALORIAN_SHIP_hydra: "Гидра"
+ MANDALORIAN_SHIP_vanguard: "Авангард"
+ MANDALORIAN_SHIP_rally_master: "Мастер ралли"
+ MANDALORIAN_SHIP_circle_of_battle: "Круг битвы"
+ MANDALORIAN_SHIP_tears_of_the_thousand: "Слезы тысячи"
+ MANDALORIAN_SHIP_pathandr_fury: "Патандр Фьюри"
+ MANDALORIAN_SHIP_canon_of_honor: "Канон чести"
+ MANDALORIAN_SHIP_grand_champion: "Великий чемпион"
+ MANDALORIAN_SHIP_great_hunt: "Великая охота"
+ MANDALORIAN_SHIP_gai_bal_manda: "Гай Бал Манда"
+ MANDALORIAN_SHIP_artus_lok: "Артус Лок"
+ MANDALORIAN_SHIP_iron_heart: "Железное сердце"
+ MANDALORIAN_SHIP_keldabe_kiss: "Поцелуй Келдабе"
+ MANDALORIAN_SHIP_ka_ra: "Ка'ра"
+ MANDALORIAN_SHIP_ceremonial_death: "Церемониальная смерть"
+ MANDALORIAN_SHIP_vambrace: "Наручи"
+ MANDALORIAN_SHIP_rising_phoenix: "Восходящий феникс"
+ MANDALORIAN_SHIP_return: "Возврат"
+ MANDALORIAN_SHIP_protector: "Защитник"
+ MANDALORIAN_SHIP_blood_duel: "Кровавая дуэль"
+ MANDALORIAN_SHIP_hod_ha_ran: "Ход Харан"
+ MANDALORIAN_SHIP_trickster: "Обманщик"
+ MANDALORIAN_SHIP_annihilation: "Уничтожение"
+ MANDALORIAN_SHIP_dral_han: "Драл'Хан"
+ MANDALORIAN_SHIP_faithful: "Верный"
+ MANDALORIAN_SHIP_sundari: "Сундари"
+ MANDALORIAN_SHIP_keldabe: "Келдабе"
+ MANDALORIAN_SHIP_marauder: "Мародер"
+ MANDALORIAN_SHIP_blademaster: "Мастер клинка"
+ MANDALORIAN_SHIP_whistling_bird: "Свистящая птица"
+ MANDALORIAN_SHIP_bevii_ragir: "Беви'рагир"
+ MANDALORIAN_SHIP_rangehunter: "Рейнджхантер"
+ MANDALORIAN_SHIP_verd_goten: "Верд'готен"
+ MANDALORIAN_SHIP_kelita: "Келита"
+ MANDALORIAN_SHIP_olankur: "Оланкур"
+ MANDALORIAN_SHIP_oyu_baat: "Ойубат"
+ MANDALORIAN_SHIP_tokursh: "Токурш"
+ MANDALORIAN_SHIP_tarre_vizsla: "Тарре Визсла"
+ MANDALORIAN_SHIP_taylir: "Тайлир"
+ MANDALORIAN_SHIP_preserver: "Хранитель"
+ MANDALORIAN_SHIP_hammerborn: "Рожденный молотом"
+ MANDALORIAN_SHIP_conqueror: "Завоеватель"
+ MANDALORIAN_SHIP_avenger: "Мститель"
+ MANDALORIAN_SHIP_binder: "Связующее"
+ MANDALORIAN_SHIP_indomitable: "Неукротимый"
+ MANDALORIAN_SHIP_vindicator: "Защитник"
+ MANDALORIAN_SHIP_canderous: "Откровенный"
+ MANDALORIAN_SHIP_aga_awaud: "Ага Авауд"
+ MANDALORIAN_SHIP_shae_vizla: "Шае Визла"
+ MANDALORIAN_SHIP_ranah_teh_naast: "Ранах Тех Нааст"
+ MANDALORIAN_SHIP_te_sol_yc: "Те Солик"
+ MANDALORIAN_SHIP_te_ani_la: "Те Ани'ла"
+ MANDALORIAN_SHIP_father_of_shadows: "Отец теней"
+ MANDALORIAN_SHIP_awaud_s_honor: "Честь Аво"
+ MANDALORIAN_SHIP_blade_of_beroya: "Клинок Берои"
+ MANDALORIAN_SHIP_hammer_of_beviin: "Молот Бевиина"
+ MANDALORIAN_SHIP_shield_of_bralor: "Щит Бралора"
+ MANDALORIAN_SHIP_song_of_cadera: "Песнь о Кадере"
+ MANDALORIAN_SHIP_hymn_of_war: "Гимн войны"
+ MANDALORIAN_SHIP_chorn_s_pride: "Гордость Чорна"
+ MANDALORIAN_SHIP_thorn_of_deshra: "Шип Дешры"
+ MANDALORIAN_SHIP_detta_s_wrath: "Гнев Детты"
+ MANDALORIAN_SHIP_farr_sight: "Дальний прицел"
+ MANDALORIAN_SHIP_dirge_of_the_fett: "Панихида по Фетту"
+ MANDALORIAN_SHIP_cassus: "Кассус"
+ MANDALORIAN_SHIP_echo_of_malachor: "Эхо Малахора"
+ MANDALORIAN_SHIP_jaster_mereel: "Джастер Мереель"
+ MANDALORIAN_SHIP_journeyman: "Подмастерье"
+ MANDALORIAN_SHIP_true_heir: "Истинный наследник"
+ MANDALORIAN_SHIP_gedyc_s_edge: "Край Гедика"
+ MANDALORIAN_SHIP_mantle_of_itera: "Мантия Итеры"
+ MANDALORIAN_SHIP_strength_of_jeban: "Сила Джебана"
+ MANDALORIAN_SHIP_jendri_strike: "Джендри Страйк"
+ MANDALORIAN_SHIP_eye_of_jennis: "Око Дженнис"
+ MANDALORIAN_SHIP_kelborn: "Келборн"
+ MANDALORIAN_SHIP_keldau: "Кельдау"
+ MANDALORIAN_SHIP_kryze: "Крайз"
+ MANDALORIAN_SHIP_pledge_of_lok: "Залог Лока"
+ MANDALORIAN_SHIP_lonestar: "Одинокая звезда"
+ MANDALORIAN_SHIP_ordo_star: "Звезда Ордо"
+ MANDALORIAN_SHIP_right_of_rodarch: "Право Родарча"
+ MANDALORIAN_SHIP_rook: "Ладья"
+ MANDALORIAN_SHIP_saxon_s_sabre: "Саксонская сабля"
+ MANDALORIAN_SHIP_fist_of_sharratt: "Кулак Шарратта"
+ MANDALORIAN_SHIP_skirata: "Скирата"
+ MANDALORIAN_SHIP_flame_of_cornell: "Пламя Корнелла"
+ MANDALORIAN_SHIP_tenau_s_command: "Команда Тенау"
+ MANDALORIAN_SHIP_heart_of_varad: "Сердце Варада"
+ MANDALORIAN_SHIP_vizsla_invictus: "Визсла Непокоренная"
+ MANDALORIAN_SHIP_vevut_oath: "Клятва Вевута"
+ MANDALORIAN_SHIP_wren_s_wrath: "Гнев Рена"
+ MANDALORIAN_SHIP_champion: "Чемпион"
+ MANDALORIAN_SHIP_void_watcher: "Наблюдатель пустоты"
+ MANDALORIAN_SHIP_guardian: "Страж"
+ MANDALORIAN_SHIP_safeguard: "Защита"
+ MANDALORIAN_SHIP_excision_s_due: "Требуется удаление"
+ MANDALORIAN_SHIP_warlord: "Военачальник"
+ MANDALORIAN_SHIP_on_glory_s_road: "На пути славы"
+ MANDALORIAN_SHIP_galaar: "Галаар"
+ MANDALORIAN_SHIP_shatual: "Шатуаль"
+ MANDALORIAN_SHIP_stathas: "Статас"
+ MANDALORIAN_SHIP_vhe_viin: "Вхе'виин"
+ MANDALORIAN_SHIP_conflagration: "Пожар"
+ MANDALORIAN_SHIP_firestorm: "Огненный шторм"
+ MANDALORIAN_SHIP_blazing_spear: "Пылающее копье"
+ MANDALORIAN_SHIP_huntmaster: "Мастер охоты"
+ MANDALORIAN_SHIP_indigo: "Индиго"
+ MANDALORIAN_SHIP_ash_ad: "Аш'ад"
+ MANDALORIAN_SHIP_tur_mukan: "Тур-Мукан"
+ MANDALORIAN_SHIP_kad_ika: "Кад'ика"
+ MANDALORIAN_SHIP_mavrix: "Маврикс"
+ MANDALORIAN_SHIP_tarre: "Тарре"
+ MANDALORIAN_SHIP_tal_galar: "Тал'галар"
+ MANDALORIAN_SHIP_hibirar: "Гибирар"
+ MANDALORIAN_SHIP_jorhaa_ir: "Джорха'ир"
+ MANDALORIAN_SHIP_nau_ur: "Нау'ур"
+ MANDALORIAN_SHIP_burc_ya: "Бурча"
+ MANDALORIAN_SHIP_mirshe: "Мирше"
+ MANDALORIAN_SHIP_munit_tome_tayl: "Мунит Томе'тайл"
+ MANDALORIAN_SHIP_dadita: "Дадита"
+ MANDALORIAN_SHIP_troan: "Троан"
+ MANDALORIAN_SHIP_foundling: "Подкидыш"
+ MANDALORIAN_SHIP_mando_ad: "Мандоад"
+ MANDALORIAN_SHIP_agol: "Агол"
+ MANDALORIAN_SHIP_anade_ad: "Анадеад"
+ MANDALORIAN_SHIP_arpat_concord: "Арпат Конкорд"
+ MANDALORIAN_SHIP_mando_a_arpat: "Мандо'арпат"
+ MANDALORIAN_SHIP_birikad: "Бирикад"
+ MANDALORIAN_SHIP_buir: "Буир"
+ MANDALORIAN_SHIP_runi_ad: "Руниад"
+ MANDALORIAN_SHIP_jorso_ran: "Джорсо'ран"
+ MANDALORIAN_SHIP_kad: "Кад"
+ MANDALORIAN_SHIP_udesii: "Удесии"
+ MANDALORIAN_SHIP_neral: "Нераль"
+ MANDALORIAN_SHIP_ba_vodu: "Баводу"
+ MANDALORIAN_SHIP_vhett: "Ветт"
+ MANDALORIAN_SHIP_pakod_ad: "Пакодад"
+ MANDALORIAN_SHIP_jatne: "Джатне"
+ MANDALORIAN_SHIP_bantov: "Бантов"
+ MANDALORIAN_SHIP_mandalorian_dropship: "Мандалорианский десантный корабль"
+ MANDALORIAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ MANDALORIAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ MANDALORIAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ MANDALORIAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ MANDALORIAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ MANDALORIAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ MANDALORIAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ MANDALORIAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ MANDALORIAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ MANDALORIAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ MANDALORIAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ MANDALORIAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ MANDALORIAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ MANDALORIAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ MANDALORIAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ MANDALORIAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ MANDALORIAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ MANDALORIAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ MANDALORIAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ MANDALORIAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ MANDALORIAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ MANDALORIAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ MANDALORIAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ MANDALORIAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ MANDALORIAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ MANDALORIAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ MANDALORIAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ MANDALORIAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ MANDALORIAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ MANDALORIAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ MANDALORIAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ MANDALORIAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ MANDALORIAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ MANDALORIAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ MANDALORIAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ MANDALORIAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ MANDALORIAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ MANDALORIAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ MANDALORIAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ MANDALORIAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ MANDALORIAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ MANDALORIAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ MANDALORIAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ MANDALORIAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ MANDALORIAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ MANDALORIAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ MANDALORIAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ MANDALORIAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ MANDALORIAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ MANDALORIAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ MANDALORIAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ MANDALORIAN_SHIP_citadel: "Цитадель"
+ MANDALORIAN_SHIP_albacore: "Альбакор"
+ MANDALORIAN_SHIP_gateway: "Шлюз"
+ MANDALORIAN_SHIP_vincent: "Винсент"
+ MANDALORIAN_SHIP_babylon: "Вавилон"
+ MANDALORIAN_SHIP_caernavon: "Кэрнавон"
+ MANDALORIAN_SHIP_acre: "Акро"
+ MANDALORIAN_SHIP_pembroke: "Пембрук"
+ MANDALORIAN_SHIP_acheron: "Ахерон"
+ MANDALORIAN_SHIP_spithead: "Спитхед"
+ MANDALORIAN_SHIP_halifax: "Галифакс"
+ MANDALORIAN_SHIP_victoria: "Виктория"
+ MANDALORIAN_SHIP_chatham: "Чатем"
+ MANDALORIAN_SHIP_anchorage: "Анкорхед"
+ MANDALORIAN_SHIP_scapa_flow: "Скапа Флоу"
+ MANDALORIAN_SHIP_hampton_roads: "хэмптон-роудз"
+ MANDALORIAN_SHIP_brooklyn: "Бруклин"
+ MANDALORIAN_SHIP_norfolk: "Норфолк"
+ MANDALORIAN_SHIP_newport: "Ньюпорт"
+ MANDALORIAN_SHIP_guam: "Гуам"
+ MANDALORIAN_SHIP_pensacola: "Пенсакола"
+ MANDALORIAN_SHIP_vesuvius: "Везувий"
+ MANDALORIAN_SHIP_mckinley: "Маккинли"
+ MANDALORIAN_SHIP_everest: "Эверест"
+ MANDALORIAN_SHIP_kilimanjaro: "Килиманджаро"
+ MANDALORIAN_SHIP_aconcagua: "Аконкагуа"
+ MANDALORIAN_SHIP_elbrus: "Эльбрус"
+ MANDALORIAN_SHIP_st__helens: "Святая Елена"
+ MANDALORIAN_SHIP_fuji: "Фудзи"
+ MANDALORIAN_SHIP_olympus: "Олимп"
+ MANDALORIAN_SHIP_sinai: "Синай"
+ MANDALORIAN_SHIP_ambrose: "Эмброуз"
+ MANDALORIAN_SHIP_bermuda: "Бермудские острова"
+ MANDALORIAN_SHIP_farpoint: "Дальняя точка"
+ MANDALORIAN_SHIP_blue_star: "Голубая звезда"
+ MANDALORIAN_SHIP_olympus_mons: "Олимп Монс"
+ MANDALORIAN_SHIP_tharsis: "Тарсис"
+ MANDALORIAN_SHIP_syrtis: "Сиртис"
+ MANDALORIAN_SHIP_blackham: "Блэкхэм"
+ MANDALORIAN_SHIP_fletcher: "Флетчер"
+ MANDALORIAN_SHIP_perry: "Перри"
+ MANDALORIAN_SHIP_butakov: "Бутаков"
+ MANDALORIAN_SHIP_morris: "Моррис"
+ MANDALORIAN_SHIP_moorsom: "Мурсом"
+ MANDALORIAN_SHIP_hart: "Харт"
+ MANDALORIAN_SHIP_hargood: "Харгуд"
+ MANDALORIAN_SHIP_spruance: "Пружина"
+ MANDALORIAN_SHIP_tanaka: "Танака"
+ MANDALORIAN_SHIP_halsey: "Хэлси"
+ MANDALORIAN_SHIP_turner: "Тернер"
+ MANDALORIAN_SHIP_doria: "Дориа"
+ MANDALORIAN_SHIP_tirpitz: "Тирпиц"
+ MANDALORIAN_SHIP_cunningham: "Каннингем"
+ MANDALORIAN_SHIP_jellicoe: "Джеллико"
+ MANDALORIAN_SHIP_hipper: "Хиппер"
+ MANDALORIAN_SHIP_beatty: "Битти"
+ MANDALORIAN_SHIP_potemkin: "Потемкин"
+ MANDALORIAN_SHIP_durham: "Дарем"
+ MANDALORIAN_SHIP_codrington: "Кодрингтон"
+ MANDALORIAN_SHIP_milne: "Милн"
+ MANDALORIAN_SHIP_laforey: "Лафори"
+ MANDALORIAN_SHIP_tyler: "Тайлер"
+ MANDALORIAN_SHIP_hawke: "Хоук"
+ MANDALORIAN_SHIP_yonai: "Йонай"
+ MANDALORIAN_SHIP_pound: "Фунт"
+ MANDALORIAN_SHIP_king: "Король"
+ MANDALORIAN_SHIP_crutchley: "Кратчли"
+ MANDALORIAN_SHIP_mountbatten: "Маунтбеттен"
+ MANDALORIAN_SHIP_kountouriotis: "Кунтуриотис"
+ MANDALORIAN_SHIP_kuznetsov: "Кузнецов"
+ MANDALORIAN_SHIP_essen: "Эссен"
+ MANDALORIAN_SHIP_kornilov: "Корнилов"
+ MANDALORIAN_SHIP_suffren: "Сюффрен"
+ MANDALORIAN_SHIP_treville: "Тревиль"
+ MANDALORIAN_SHIP_villeneuve: "Вильнёв"
+ MANDALORIAN_SHIP_grasse: "Грасс"
+ MANDALORIAN_SHIP_byng: "Бинг"
+ MANDALORIAN_SHIP_lezo: "Лезо"
+ MANDALORIAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ MANDALORIAN_SHIP_ballista: "Баллиста"
+ MANDALORIAN_SHIP_catapult: "Космическая пушка Катапульта"
+ MANDALORIAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ MANDALORIAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ MANDALORIAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ MANDALORIAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ MANDALORIAN_SHIP_CLASS_cr_90: "CR-90"
+ MANDALORIAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ MANDALORIAN_SHIP_CLASS_lupus: "Люпус"
+ MANDALORIAN_SHIP_CLASS_asdroni: "Асдрони"
+ MANDALORIAN_SHIP_CLASS_customs: "Таможня"
+ MANDALORIAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ MANDALORIAN_SHIP_CLASS_scurge: "Мерзость"
+ MANDALORIAN_SHIP_CLASS_krayt: "Крайт"
+ MANDALORIAN_SHIP_CLASS_diamond: "Бриллиант"
+ MANDALORIAN_SHIP_CLASS_etti: "Этти"
+ MANDALORIAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ MANDALORIAN_SHIP_CLASS_vigil: "Бдение"
+ MANDALORIAN_SHIP_CLASS_dp20: "DP20"
+ MANDALORIAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ MANDALORIAN_SHIP_CLASS_raider: "Рейдер"
+ MANDALORIAN_SHIP_CLASS_dornean: "Дорнейский"
+ MANDALORIAN_SHIP_CLASS_crusader: "Крестоносец"
+ MANDALORIAN_SHIP_CLASS_marauder: "Мародер"
+ MANDALORIAN_SHIP_CLASS_arquitens: "Аркитенс"
+ MANDALORIAN_SHIP_CLASS_kiltirin: "Килтирин"
+ MANDALORIAN_SHIP_CLASS_pelta: "Пельта"
+ MANDALORIAN_SHIP_CLASS_pinnace: "Катер"
+ MANDALORIAN_SHIP_CLASS_nova: "Нова"
+ MANDALORIAN_SHIP_CLASS_vigilance: "Бдительность"
+ MANDALORIAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ MANDALORIAN_SHIP_CLASS_cg_273: "CG-273"
+ MANDALORIAN_SHIP_CLASS_kariek: "Кариек"
+ MANDALORIAN_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ MANDALORIAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ MANDALORIAN_SHIP_CLASS_lancer: "Лансер"
+ MANDALORIAN_SHIP_CLASS_teroch: "Терох"
+ MANDALORIAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ MANDALORIAN_SHIP_CLASS_nova_ii: "Нова II"
+ MANDALORIAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ MANDALORIAN_SHIP_CLASS_velox: "Велокс"
+ MANDALORIAN_SHIP_CLASS_mc30c: "MC30c"
+ MANDALORIAN_SHIP_CLASS_vengeance: "Месть"
+ MANDALORIAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ MANDALORIAN_SHIP_CLASS_cc_7700: "CC-7700"
+ MANDALORIAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ MANDALORIAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ MANDALORIAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ MANDALORIAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ MANDALORIAN_SHIP_CLASS_sabaoth: "Саваоф"
+ MANDALORIAN_SHIP_CLASS_kontos: "Контос"
+ MANDALORIAN_SHIP_CLASS_mc40: "MC40"
+ MANDALORIAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ MANDALORIAN_SHIP_CLASS_broadside: "Залп"
+ MANDALORIAN_SHIP_CLASS_protector: "Защитник"
+ MANDALORIAN_SHIP_CLASS_warlord: "Военачальник"
+ MANDALORIAN_SHIP_CLASS_gladiator: "Гладиатор"
+ MANDALORIAN_SHIP_CLASS_beviin: "Бевиин"
+ MANDALORIAN_SHIP_CLASS_liberator: "Освободитель"
+ MANDALORIAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ MANDALORIAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ MANDALORIAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ MANDALORIAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ MANDALORIAN_SHIP_CLASS_massias: "Массиас"
+ MANDALORIAN_SHIP_CLASS_dreadnought: "Дредноут"
+ MANDALORIAN_SHIP_CLASS_kyramud: "Кирамуд"
+ MANDALORIAN_SHIP_CLASS_munificent: "Щедрый"
+ MANDALORIAN_SHIP_CLASS_prosvoli: "Просволи"
+ MANDALORIAN_SHIP_CLASS_acclamator: "Аккламатор"
+ MANDALORIAN_SHIP_CLASS_lictor: "Ликтор"
+ MANDALORIAN_SHIP_CLASS_bulwark: "Оплот"
+ MANDALORIAN_SHIP_CLASS_victory_i: "Победа I"
+ MANDALORIAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ MANDALORIAN_SHIP_CLASS_bulk: "Массивный"
+ MANDALORIAN_SHIP_CLASS_vindicator: "Защитник"
+ MANDALORIAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ MANDALORIAN_SHIP_CLASS_captor: "Похититель"
+ MANDALORIAN_SHIP_CLASS_au_riette: "О'риетт"
+ MANDALORIAN_SHIP_CLASS_mc55: "MC55"
+ MANDALORIAN_SHIP_CLASS_afthonia: "Афтония"
+ MANDALORIAN_SHIP_CLASS_victory_ii: "Победа II"
+ MANDALORIAN_SHIP_CLASS_beroya: "Бероя"
+ MANDALORIAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ MANDALORIAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ MANDALORIAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ MANDALORIAN_SHIP_CLASS_venator: "Венатор"
+ MANDALORIAN_SHIP_CLASS_centurion: "Центурион"
+ MANDALORIAN_SHIP_CLASS_mc75: "MC75"
+ MANDALORIAN_SHIP_CLASS_kandosii: "Кандосии"
+ MANDALORIAN_SHIP_CLASS_corellian: "Кореллианский"
+ MANDALORIAN_SHIP_CLASS_providence: "Провидение"
+ MANDALORIAN_SHIP_CLASS_syndic: "Синдик"
+ MANDALORIAN_SHIP_CLASS_recusant: "Отступник"
+ MANDALORIAN_SHIP_CLASS_invincible: "Непобедимый"
+ MANDALORIAN_SHIP_CLASS_imperial_i: "Имперский I"
+ MANDALORIAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ MANDALORIAN_SHIP_CLASS_procursator: "Прокурсатор"
+ MANDALORIAN_SHIP_CLASS_mc80a: "MC80a"
+ MANDALORIAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ MANDALORIAN_SHIP_CLASS_aggressor: "Агрессор"
+ MANDALORIAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ MANDALORIAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ MANDALORIAN_SHIP_CLASS_keldabe: "Келдабе"
+ MANDALORIAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ MANDALORIAN_SHIP_CLASS_chaf: "Чаф"
+ MANDALORIAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ MANDALORIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ MANDALORIAN_SHIP_CLASS_ascendancy: "Господство"
+ MANDALORIAN_SHIP_CLASS_dominator: "Властелин"
+ MANDALORIAN_SHIP_CLASS_allegiance: "Верность"
+ MANDALORIAN_SHIP_CLASS_lucrehulk: "Барышник"
+ MANDALORIAN_SHIP_CLASS_phalanx: "Фаланга"
+ MANDALORIAN_SHIP_CLASS_titan: "Титан"
+ MANDALORIAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ MANDALORIAN_SHIP_CLASS_star_home: "Звездный дом"
+ MANDALORIAN_SHIP_CLASS_subjugator: "Покоритель"
+ MANDALORIAN_SHIP_CLASS_bellator: "Беллатор"
+ MANDALORIAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ MANDALORIAN_SHIP_CLASS_executor: "Палач"
+ MANDALORIAN_FLEET_warfleet_ultimate: "Военный флот Ультима"
+ MANDALORIAN_FLEET_warfleet_indomitable: "Военный флот Непоколебимый"
+ MANDALORIAN_FLEET_warfleet_vindicated: "Военный флот Доказавший"
+ MANDALORIAN_FLEET_warfleet_avenger: "Военный флот Мститель"
+ MANDALORIAN_FLEET_warfleet_destroyer: "Военный флот Разрушитель"
+ MANDALORIAN_FLEET_warfleet_resurrector: "Военный флот Воскреситель"
+ MANDALORIAN_FLEET_warfleet_preserver: "Военный флот Хранитель"
+ MANDALORIAN_FLEET_warfleet_conqueror: "Военный флот Завоеватель"
+ MANDALORIAN_FLEET_warfleet_binder: "Военный флот Связующий"
+ MANDALORIAN_FLEET_battlegroup_ORD: "$ORD$ Боевая группа"
+ MANDALORIAN_ARMY_commando_guard_ORD: "$ORD$ Воины-коммпандос"
+ MANDALORIAN_ARMY_crusader_force_ORD: "$ORD$ Войска крестоносцев"
+ MANDALORIAN_ARMY_conscripted_rifles_ORD: "$ORD$ Призывные стрелки"
+ MANDALORIAN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ MANDALORIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ MANDALORIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ MANDALORIAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ MANDALORIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ MANDALORIAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ MANDALORIAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ MANDALORIAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ MANDALORIAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ MANDALORIAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ MANDALORIAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ MANDALORIAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ MANDALORIAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ MANDALORIAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ MANDALORIAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ MANDALORIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ MANDALORIAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ MANDALORIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ MANDALORIAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ MANDALORIAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ MANDALORIAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ MANDALORIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ MANDALORIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ MANDALORIAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ MANDALORIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ MANDALORIAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ MANDALORIAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ MANDALORIAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ MANDALORIAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ MANDALORIAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ MANDALORIAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ MANDALORIAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ MANDALORIAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ MANDALORIAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ MANDALORIAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ MANDALORIAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ MANDALORIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ MANDALORIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ MANDALORIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ MANDALORIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ MANDALORIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ MANDALORIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ MANDALORIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ MANDALORIAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ MANDALORIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ MANDALORIAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ MANDALORIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ MANDALORIAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ MANDALORIAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ MANDALORIAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ MANDALORIAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ MANDALORIAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ MANDALORIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ MANDALORIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ MANDALORIAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ MANDALORIAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ MANDALORIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ MANDALORIAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ MANDALORIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ MANDALORIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ MANDALORIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ MANDALORIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ MANDALORIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ MANDALORIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ MANDALORIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ MANDALORIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ MANDALORIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ MANDALORIAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ MANDALORIAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ MANDALORIAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ MANDALORIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ MANDALORIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ MANDALORIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ MANDALORIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ MANDALORIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ MANDALORIAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ MANDALORIAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ MANDALORIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ MANDALORIAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ MANDALORIAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ MANDALORIAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ MANDALORIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ MANDALORIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ MANDALORIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ MANDALORIAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ MANDALORIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ MANDALORIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ MANDALORIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ MANDALORIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ MANDALORIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ MANDALORIAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ MANDALORIAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ MANDALORIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ MANDALORIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ MANDALORIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ MANDALORIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ MANDALORIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ MANDALORIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ MANDALORIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ MANDALORIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ MANDALORIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ MANDALORIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ MANDALORIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ MANDALORIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ MANDALORIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ MANDALORIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ MANDALORIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ MANDALORIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ MANDALORIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ MANDALORIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ MANDALORIAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ MANDALORIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ MANDALORIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ MANDALORIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ MANDALORIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ MANDALORIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ MANDALORIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ MANDALORIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ MANDALORIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ MANDALORIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ MANDALORIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ MANDALORIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ MANDALORIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ MANDALORIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ MANDALORIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ MANDALORIAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ MANDALORIAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ MANDALORIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ MANDALORIAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ MANDALORIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ MANDALORIAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ MANDALORIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ MANDALORIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ MANDALORIAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ MANDALORIAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ MANDALORIAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ MANDALORIAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ MANDALORIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ MANDALORIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ MANDALORIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ MANDALORIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ MANDALORIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ MANDALORIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ MANDALORIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ MANDALORIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ MANDALORIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ MANDALORIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ MANDALORIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ MANDALORIAN_CHR_ghes: "Гес"
+ MANDALORIAN_CHR_din: "Дин"
+ MANDALORIAN_CHR_jaster: "Джастер"
+ MANDALORIAN_CHR_kal: "Кал"
+ MANDALORIAN_CHR_pre: "Пре"
+ MANDALORIAN_CHR_cassus: "Кассус"
+ MANDALORIAN_CHR_tal: "Тал"
+ MANDALORIAN_CHR_tor: "Тор"
+ MANDALORIAN_CHR_dred: "Дрэд"
+ MANDALORIAN_CHR_fen: "Фен"
+ MANDALORIAN_CHR_fenn: "Фенн"
+ MANDALORIAN_CHR_artus: "Артус"
+ MANDALORIAN_CHR_jagger: "Джаггер"
+ MANDALORIAN_CHR_tiber: "Тибр"
+ MANDALORIAN_CHR_a_den: "А'ден"
+ MANDALORIAN_CHR_jaing: "Джайнг"
+ MANDALORIAN_CHR_atin: "Атин"
+ MANDALORIAN_CHR_darman: "Дарман"
+ MANDALORIAN_CHR_silas: "Сайлас"
+ MANDALORIAN_CHR_walon: "Волон"
+ MANDALORIAN_CHR_mirta: "Мирта"
+ MANDALORIAN_CHR_arla: "Арла"
+ MANDALORIAN_CHR_mira: "Мира"
+ MANDALORIAN_CHR_ailyn: "Эйлин"
+ MANDALORIAN_CHR_sintas: "Синтас"
+ MANDALORIAN_CHR_shyla: "Шайла"
+ MANDALORIAN_CHR_sasha: "Саша"
+ MANDALORIAN_CHR_shae: "Шай"
+ MANDALORIAN_CHR_sabine: "Сабина"
+ MANDALORIAN_CHR_ursa: "Урса"
+ MANDALORIAN_CHR_fett: "Фетт"
+ MANDALORIAN_CHR_ordo: "Ордо"
+ MANDALORIAN_CHR_kryze: "Крайз"
+ MANDALORIAN_CHR_saxon: "Саксон"
+ MANDALORIAN_CHR_skirata: "Скирата"
+ MANDALORIAN_CHR_vizsla: "Визсла"
+ MANDALORIAN_CHR_wren: "Рен"
+ MANDALORIAN_CHR_jango: "Джанго"
+ MANDALORIAN_CHR_boba: "Боба"
+ MANDALORIAN_CHR_canderous: "Откровенный"
+ MANDALORIAN_CHR_montross: "Монтросс"
+ MANDALORIAN_CHR_ijaat: "Иджаат"
+ MANDALORIAN_CHR_ilippi: "Илиппи"
+ MANDALORIAN_CHR_jagi: "Джаги"
+ MANDALORIAN_CHR_adiik: "Адиик"
+ MANDALORIAN_CHR_akero: "Акеро"
+ MANDALORIAN_CHR_b_arin: "Б'арин"
+ MANDALORIAN_CHR_randun: "Рандун"
+ MANDALORIAN_CHR_barduun: "Бардуун"
+ MANDALORIAN_CHR_berardesco: "Берардеско"
+ MANDALORIAN_CHR_jos: "Джос"
+ MANDALORIAN_CHR_nam: "Нам"
+ MANDALORIAN_CHR_tarro: "Тарро"
+ MANDALORIAN_CHR_braum: "Браум"
+ MANDALORIAN_CHR_branger: "Брэнгер"
+ MANDALORIAN_CHR_brank: "Бранк"
+ MANDALORIAN_CHR_briike: "Бриике"
+ MANDALORIAN_CHR_deron: "Дерон"
+ MANDALORIAN_CHR_baltan: "Балтан"
+ MANDALORIAN_CHR_breyer: "Брейер"
+ MANDALORIAN_CHR_cikartan: "Чикартан"
+ MANDALORIAN_CHR_lux: "Люкс"
+ MANDALORIAN_CHR_gar: "Гар"
+ MANDALORIAN_CHR_fenri: "Фенри"
+ MANDALORIAN_CHR_ikito: "Икито"
+ MANDALORIAN_CHR_mord: "Морд"
+ MANDALORIAN_CHR_kellov: "Келлов"
+ MANDALORIAN_CHR_meltch: "Мелч"
+ MANDALORIAN_CHR_kro: "Кро"
+ MANDALORIAN_CHR_melkket: "Мелккет"
+ MANDALORIAN_CHR_ralnar: "Ральнар"
+ MANDALORIAN_CHR_hudu: "Худу"
+ MANDALORIAN_CHR_vherr: "Вхерр"
+ MANDALORIAN_CHR_dorrick: "Доррик"
+ MANDALORIAN_CHR_monta: "Монта"
+ MANDALORIAN_CHR_roggar: "Роггар"
+ MANDALORIAN_CHR_eirik: "Эйрик"
+ MANDALORIAN_CHR_yenko: "Йенко"
+ MANDALORIAN_CHR_deagan: "Диган"
+ MANDALORIAN_CHR_janx: "Джанкс"
+ MANDALORIAN_CHR_eskol: "Эскол"
+ MANDALORIAN_CHR_genter: "Гентер"
+ MANDALORIAN_CHR_gezda: "Гезда"
+ MANDALORIAN_CHR_duran: "Дюран"
+ MANDALORIAN_CHR_galron: "Галрон"
+ MANDALORIAN_CHR_geden: "Geden"
+ MANDALORIAN_CHR_mij: "Мий"
+ MANDALORIAN_CHR_graad: "Граад"
+ MANDALORIAN_CHR_hark: "Слушай"
+ MANDALORIAN_CHR_redok: "Редок"
+ MANDALORIAN_CHR_hashar: "Хашар"
+ MANDALORIAN_CHR_hayar: "Хайар"
+ MANDALORIAN_CHR_ghez: "Гез"
+ MANDALORIAN_CHR_jun: "Июнь"
+ MANDALORIAN_CHR_jakal: "Джакал"
+ MANDALORIAN_CHR_janard: "Джанард"
+ MANDALORIAN_CHR_jarkyc: "Джаркик"
+ MANDALORIAN_CHR_johun: "Джоан"
+ MANDALORIAN_CHR_joram: "Джорам"
+ MANDALORIAN_CHR_bardan: "Бардан"
+ MANDALORIAN_CHR_kad: "Кад"
+ MANDALORIAN_CHR_hondo: "Хондо"
+ MANDALORIAN_CHR_novin: "Новин"
+ MANDALORIAN_CHR_sedyn: "Седин"
+ MANDALORIAN_CHR_vaor: "Ваор"
+ MANDALORIAN_CHR_vol: "Объем"
+ MANDALORIAN_CHR_valen: "Вален"
+ MANDALORIAN_CHR_deth: "Дет"
+ MANDALORIAN_CHR_jindo: "Джиндо"
+ MANDALORIAN_CHR_kyrenic: "Киреник"
+ MANDALORIAN_CHR_lek: "Лек"
+ MANDALORIAN_CHR_lem_ofars: "Лем-Офары"
+ MANDALORIAN_CHR_levet: "Левет"
+ MANDALORIAN_CHR_droga: "Дрога"
+ MANDALORIAN_CHR_bosann: "Босанн"
+ MANDALORIAN_CHR_gorse: "Утесник"
+ MANDALORIAN_CHR_garon: "Гарон"
+ MANDALORIAN_CHR_bralor: "Бралор"
+ MANDALORIAN_CHR_zayne: "Зейн"
+ MANDALORIAN_CHR_davrel: "Даврел"
+ MANDALORIAN_CHR_demagol: "Демагол"
+ MANDALORIAN_CHR_ergeron: "Эргерон"
+ MANDALORIAN_CHR_esok: "Эсок"
+ MANDALORIAN_CHR_dhagon: "Дагон"
+ MANDALORIAN_CHR_gorrga: "Горрга"
+ MANDALORIAN_CHR_jarg: "Жаргон"
+ MANDALORIAN_CHR_dorjander: "Дорджандер"
+ MANDALORIAN_CHR_kelborn: "Келборн"
+ MANDALORIAN_CHR_kex: "Кекс"
+ MANDALORIAN_CHR_kumus: "Кумус"
+ MANDALORIAN_CHR_ferrun: "Феррун"
+ MANDALORIAN_CHR_tegris: "Тегрис"
+ MANDALORIAN_CHR_reeza: "Риза"
+ MANDALORIAN_CHR_sherruk: "Шеррук"
+ MANDALORIAN_CHR_tagren: "Тагрен"
+ MANDALORIAN_CHR_xarga: "Ксарга"
+ MANDALORIAN_CHR_zuka: "Зука"
+ MANDALORIAN_CHR_goran: "Горан"
+ MANDALORIAN_CHR_tobbi: "Тобби"
+ MANDALORIAN_CHR_cham: "Чам"
+ MANDALORIAN_CHR_suvar: "Сувар"
+ MANDALORIAN_CHR_parma: "Парма"
+ MANDALORIAN_CHR_belok: "Белок"
+ MANDALORIAN_CHR_tem: "Тем"
+ MANDALORIAN_CHR_tiroc: "Тирок"
+ MANDALORIAN_CHR_teroch: "Терох"
+ MANDALORIAN_CHR_jintar: "Джинтар"
+ MANDALORIAN_CHR_shalk: "Шалк"
+ MANDALORIAN_CHR_medrit: "Медрит"
+ MANDALORIAN_CHR_neth: "Нет"
+ MANDALORIAN_CHR_rav: "Рав"
+ MANDALORIAN_CHR_salus: "Салус"
+ MANDALORIAN_CHR_jogo: "Джого"
+ MANDALORIAN_CHR_jicoln: "Джикольн"
+ MANDALORIAN_CHR_torian: "Торианец"
+ MANDALORIAN_CHR_khomo: "Хомо"
+ MANDALORIAN_CHR_vorten: "Вортен"
+ MANDALORIAN_CHR_makin: "Макин"
+ MANDALORIAN_CHR_merrk: "Меррк"
+ MANDALORIAN_CHR_adonai: "Адонай"
+ MANDALORIAN_CHR_korkie: "Корки"
+ MANDALORIAN_CHR_zadik: "Цадик"
+ MANDALORIAN_CHR_chernan: "Чернан"
+ MANDALORIAN_CHR_corridan: "Корридан"
+ MANDALORIAN_CHR_edric: "Эдрик"
+ MANDALORIAN_CHR_tayari: "Тайари"
+ MANDALORIAN_CHR_almec: "Алмек"
+ MANDALORIAN_CHR_kom_rk: "Комната"
+ MANDALORIAN_CHR_prudii: "Пруди"
+ MANDALORIAN_CHR_venku: "Венку"
+ MANDALORIAN_CHR_ruusaan: "Руусаан"
+ MANDALORIAN_CHR_braxx: "Бракс"
+ MANDALORIAN_CHR_kandon: "Кандон"
+ MANDALORIAN_CHR_lothor: "Лотор"
+ MANDALORIAN_CHR_tiru: "Тиру"
+ MANDALORIAN_CHR_mavrix: "Маврикс"
+ MANDALORIAN_CHR_novak: "Новак"
+ MANDALORIAN_CHR_gen: "Ген"
+ MANDALORIAN_CHR_tarre: "Тарре"
+ MANDALORIAN_CHR_alrich: "Альрих"
+ MANDALORIAN_CHR_tristan: "Тристан"
+ MANDALORIAN_CHR_agerin: "Агерин"
+ MANDALORIAN_CHR_moburi: "Мобури"
+ MANDALORIAN_CHR_randor: "Рэндор"
+ MANDALORIAN_CHR_amis: "Амис"
+ MANDALORIAN_CHR_aramis: "Арамис"
+ MANDALORIAN_CHR_arel: "Арел"
+ MANDALORIAN_CHR_armatan: "Арматан"
+ MANDALORIAN_CHR_davu: "Даву"
+ MANDALORIAN_CHR_jerec: "Джерек"
+ MANDALORIAN_CHR_zak: "Зак"
+ MANDALORIAN_CHR_siddiq: "Сиддик"
+ MANDALORIAN_CHR_patrok: "Патруль"
+ MANDALORIAN_CHR_ohta: "Охта"
+ MANDALORIAN_CHR_kassor: "Кассор"
+ MANDALORIAN_CHR_ralebedth: "Ралебедт"
+ MANDALORIAN_CHR_kreegan: "Криган"
+ MANDALORIAN_CHR_rellu: "Реллу"
+ MANDALORIAN_CHR_rhigoth: "Ригот"
+ MANDALORIAN_CHR_rimark: "Римарк"
+ MANDALORIAN_CHR_roegr: "Рёгр"
+ MANDALORIAN_CHR_scarn: "Скарн"
+ MANDALORIAN_CHR_akshae: "Акшае"
+ MANDALORIAN_CHR_avin: "Авин"
+ MANDALORIAN_CHR_hedarr: "Хедарр"
+ MANDALORIAN_CHR_corbo: "Корбо"
+ MANDALORIAN_CHR_takan: "Такан"
+ MANDALORIAN_CHR_tanik: "Таник"
+ MANDALORIAN_CHR_varek: "Варек"
+ MANDALORIAN_CHR_vatok: "Ваток"
+ MANDALORIAN_CHR_thraijon: "Трейджон"
+ MANDALORIAN_CHR_thron: "Трон"
+ MANDALORIAN_CHR_beviin: "Бевиин"
+ MANDALORIAN_CHR_vevec: "Вевек"
+ MANDALORIAN_CHR_paz: "Паз"
+ MANDALORIAN_CHR_herik: "Херик"
+ MANDALORIAN_CHR_llats: "Ллатс"
+ MANDALORIAN_CHR_oren: "Орен"
+ MANDALORIAN_CHR_ram: "Рам"
+ MANDALORIAN_CHR_vipsanis: "Випсанис"
+ MANDALORIAN_CHR_warr_an: "Варран"
+ MANDALORIAN_CHR_jir: "Джир"
+ MANDALORIAN_CHR_gustav: "Густав"
+ MANDALORIAN_CHR_valk: "Валк"
+ MANDALORIAN_CHR_vera: "Вера"
+ MANDALORIAN_CHR_gizka: "Гизка"
+ MANDALORIAN_CHR_lorka: "Лорка"
+ MANDALORIAN_CHR_bo_katan: "Бо-Катан"
+ MANDALORIAN_CHR_rook: "Ладья"
+ MANDALORIAN_CHR_veraslayn: "Вераслайн"
+ MANDALORIAN_CHR_isbet: "Исбет"
+ MANDALORIAN_CHR_issy: "Исси"
+ MANDALORIAN_CHR_karin: "Карин"
+ MANDALORIAN_CHR_feresyl: "Ферезил"
+ MANDALORIAN_CHR_jhan: "Джхан"
+ MANDALORIAN_CHR_jogotha: "Йогота"
+ MANDALORIAN_CHR_benna: "Бенна"
+ MANDALORIAN_CHR_mirli: "Мирли"
+ MANDALORIAN_CHR_ralia: "Ралия"
+ MANDALORIAN_CHR_jaska: "Джаска"
+ MANDALORIAN_CHR_koblus: "Коблус"
+ MANDALORIAN_CHR_briika: "Бриика"
+ MANDALORIAN_CHR_dinua: "Динуа"
+ MANDALORIAN_CHR_joy: "Джой"
+ MANDALORIAN_CHR_briila: "Бриила"
+ MANDALORIAN_CHR_cetta: "Четта"
+ MANDALORIAN_CHR_veela: "Вейла"
+ MANDALORIAN_CHR_marn: "Марн"
+ MANDALORIAN_CHR_hayca: "Хайка"
+ MANDALORIAN_CHR_lagos: "Лагос"
+ MANDALORIAN_CHR_soniee: "Сони"
+ MANDALORIAN_CHR_ketsu: "Кецу"
+ MANDALORIAN_CHR_mirgo: "Мирго"
+ MANDALORIAN_CHR_dao: "Дао"
+ MANDALORIAN_CHR_isko: "Иско"
+ MANDALORIAN_CHR_tani: "Тани"
+ MANDALORIAN_CHR_vhonte: "Вхонте"
+ MANDALORIAN_CHR_tes: "Тэс"
+ MANDALORIAN_CHR_awaud: "Авауд"
+ MANDALORIAN_CHR_beroya: "Бероя"
+ MANDALORIAN_CHR_cadera: "Кадера"
+ MANDALORIAN_CHR_carid: "Карид"
+ MANDALORIAN_CHR_chorn: "Чорн"
+ MANDALORIAN_CHR_deshra: "Дешра"
+ MANDALORIAN_CHR_farr: "Фарр"
+ MANDALORIAN_CHR_gedyc: "Гедыц"
+ MANDALORIAN_CHR_itera: "Итера"
+ MANDALORIAN_CHR_jeban: "Джебан"
+ MANDALORIAN_CHR_jendri: "Джендри"
+ MANDALORIAN_CHR_jennis: "Дженнис"
+ MANDALORIAN_CHR_keldau: "Кельдау"
+ MANDALORIAN_CHR_lok: "Лок"
+ MANDALORIAN_CHR_lone: "Одинокий"
+ MANDALORIAN_CHR_rodarch: "Родарч"
+ MANDALORIAN_CHR_sharratt: "Шарратт"
+ MANDALORIAN_CHR_sornell: "Сорнелл"
+ MANDALORIAN_CHR_spar: "Лонжерон"
+ MANDALORIAN_CHR_tenau: "Тенау"
+ MANDALORIAN_CHR_varad: "Варад"
+ MANDALORIAN_CHR_vevut: "Вевут"
+ MANDALORIAN_CHR_axe: "Топор"
+ MANDALORIAN_CHR_woves: "Плетет"
+ MANDALORIAN_CHR_koska: "Коска"
+ MANDALORIAN_CHR_reeves: "Ривз"
+ MANDALORIAN_CHR_ragnar: "Рагнар"
+ MANDALORIAN_CHR_yaga: "Яга"
+ MANDALORIAN_CHR_auchs: "Аухс"
+ MANDALORIAN_CHR_orade: "Ораде"
+ MANDALORIAN_CHR_tawr: "Тавр"
+ MANDALORIAN_CHR_onyo: "Оньо"
+ MANDALORIAN_CHR_priest: "Приест"
+ MANDALORIAN_CHR_vau: "Вау"
+ MANDALORIAN_CHR_djarin: "Джарин"
+ MANDALORIAN_CHR_bask: "Погреться"
+ MANDALORIAN_CHR_sunn: "Санн"
+ MANDALORIAN_CHR_bretu: "Брету"
+ MANDALORIAN_CHR_inor: "Инор"
+ MANDALORIAN_CHR_kregg: "Крегг"
+ MANDALORIAN_CHR_tervho: "Тервхо"
+ MANDALORIAN_CHR_sofi: "Софи"
+ MANDALORIAN_CHR_zavird: "Завирд"

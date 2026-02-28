@@ -1,1102 +1,1102 @@
 ﻿l_russian:
-	EWOKS_SHIP_mystic: "Mystic" #!Empty_LineInfo!
-	EWOKS_SHIP_naiad: "Naiad" #!Empty_LineInfo!
-	EWOKS_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
-	EWOKS_SHIP_nebula: "Nebula" #!Empty_LineInfo!
-	EWOKS_SHIP_nimble: "Nimble" #!Empty_LineInfo!
-	EWOKS_SHIP_north_star: "North Star" #!Empty_LineInfo!
-	EWOKS_SHIP_nymph: "Nymph" #!Empty_LineInfo!
-	EWOKS_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
-	EWOKS_SHIP_ocean: "Ocean" #!Empty_LineInfo!
-	EWOKS_SHIP_onward: "Onward" #!Empty_LineInfo!
-	EWOKS_SHIP_oracle: "Oracle" #!Empty_LineInfo!
-	EWOKS_SHIP_paradox: "Paradox" #!Empty_LineInfo!
-	EWOKS_SHIP_paragon: "Paragon" #!Empty_LineInfo!
-	EWOKS_SHIP_pearl: "Pearl" #!Empty_LineInfo!
-	EWOKS_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
-	EWOKS_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
-	EWOKS_SHIP_marksman: "Marksman" #!Empty_LineInfo!
-	EWOKS_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
-	EWOKS_SHIP_sniper: "Sniper" #!Empty_LineInfo!
-	EWOKS_SHIP_trident: "Trident" #!Empty_LineInfo!
-	EWOKS_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
-	EWOKS_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
-	EWOKS_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
-	EWOKS_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
-	EWOKS_SHIP_venture: "Venture" #!Empty_LineInfo!
-	EWOKS_SHIP_versatile: "Versatile" #!Empty_LineInfo!
-	EWOKS_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
-	EWOKS_SHIP_viper: "Viper" #!Empty_LineInfo!
-	EWOKS_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
-	EWOKS_SHIP_winger: "Winger" #!Empty_LineInfo!
-	EWOKS_SHIP_wizard: "Wizard" #!Empty_LineInfo!
-	EWOKS_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
-	EWOKS_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
-	EWOKS_SHIP_devastator: "Devastator" #!Empty_LineInfo!
-	EWOKS_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
-	EWOKS_SHIP_retribution: "Retribution" #!Empty_LineInfo!
-	EWOKS_SHIP_senator: "Senator" #!Empty_LineInfo!
-	EWOKS_SHIP_tornado: "Tornado" #!Empty_LineInfo!
-	EWOKS_SHIP_infinity: "Infinity" #!Empty_LineInfo!
-	EWOKS_SHIP_usurper: "Usurper" #!Empty_LineInfo!
-	EWOKS_SHIP_utmost: "Utmost" #!Empty_LineInfo!
-	EWOKS_SHIP_valorous: "Valorous" #!Empty_LineInfo!
-	EWOKS_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
-	EWOKS_SHIP_athena: "Athena" #!Empty_LineInfo!
-	EWOKS_SHIP_artemis: "Artemis" #!Empty_LineInfo!
-	EWOKS_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
-	EWOKS_SHIP_decimator: "Decimator" #!Empty_LineInfo!
-	EWOKS_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
-	EWOKS_SHIP_goliath: "Goliath" #!Empty_LineInfo!
-	EWOKS_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
-	EWOKS_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
-	EWOKS_SHIP_blazer: "Blazer" #!Empty_LineInfo!
-	EWOKS_SHIP_audacity: "Audacity" #!Empty_LineInfo!
-	EWOKS_SHIP_gallant: "Gallant" #!Empty_LineInfo!
-	EWOKS_SHIP_nova: "Nova" #!Empty_LineInfo!
-	EWOKS_SHIP_shadow: "Shadow" #!Empty_LineInfo!
-	EWOKS_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
-	EWOKS_SHIP_challenger: "Challenger" #!Empty_LineInfo!
-	EWOKS_SHIP_fearless: "Fearless" #!Empty_LineInfo!
-	EWOKS_SHIP_protector: "Protector" #!Empty_LineInfo!
-	EWOKS_SHIP_guardian: "Guardian" #!Empty_LineInfo!
-	EWOKS_SHIP_victorious: "Victorious" #!Empty_LineInfo!
-	EWOKS_SHIP_courageous: "Courageous" #!Empty_LineInfo!
-	EWOKS_SHIP_defiance: "Defiance" #!Empty_LineInfo!
-	EWOKS_SHIP_azrael: "Azrael" #!Empty_LineInfo!
-	EWOKS_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
-	EWOKS_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
-	EWOKS_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
-	EWOKS_SHIP_armistice: "Armistice" #!Empty_LineInfo!
-	EWOKS_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
-	EWOKS_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	EWOKS_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
-	EWOKS_SHIP_borealis: "Borealis" #!Empty_LineInfo!
-	EWOKS_SHIP_caelus: "Caelus" #!Empty_LineInfo!
-	EWOKS_SHIP_caravan: "Caravan" #!Empty_LineInfo!
-	EWOKS_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
-	EWOKS_SHIP_commenor: "Commenor" #!Empty_LineInfo!
-	EWOKS_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
-	EWOKS_SHIP_corellia: "Corellia" #!Empty_LineInfo!
-	EWOKS_SHIP_courteous: "Courteous" #!Empty_LineInfo!
-	EWOKS_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
-	EWOKS_SHIP_defiant: "Defiant" #!Empty_LineInfo!
-	EWOKS_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
-	EWOKS_SHIP_derapha: "Derapha" #!Empty_LineInfo!
-	EWOKS_SHIP_devout: "Devout" #!Empty_LineInfo!
-	EWOKS_SHIP_empirical: "Empirical" #!Empty_LineInfo!
-	EWOKS_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
-	EWOKS_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
-	EWOKS_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
-	EWOKS_SHIP_farstar: "Farstar" #!Empty_LineInfo!
-	EWOKS_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
-	EWOKS_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
-	EWOKS_SHIP_garrote: "Garrote" #!Empty_LineInfo!
-	EWOKS_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
-	EWOKS_SHIP_halleck: "Halleck" #!Empty_LineInfo!
-	EWOKS_SHIP_hunter: "Hunter" #!Empty_LineInfo!
-	EWOKS_SHIP_intractable: "Intractable" #!Empty_LineInfo!
-	EWOKS_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
-	EWOKS_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
-	EWOKS_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
-	EWOKS_SHIP_lathir: "Lathir" #!Empty_LineInfo!
-	EWOKS_SHIP_liberty: "Liberty" #!Empty_LineInfo!
-	EWOKS_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
-	EWOKS_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
-	EWOKS_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
-	EWOKS_SHIP_mercy: "Mercy" #!Empty_LineInfo!
-	EWOKS_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
-	EWOKS_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
-	EWOKS_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
-	EWOKS_SHIP_obedience: "Obedience" #!Empty_LineInfo!
-	EWOKS_SHIP_olemp: "Olemp" #!Empty_LineInfo!
-	EWOKS_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
-	EWOKS_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
-	EWOKS_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
-	EWOKS_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
-	EWOKS_SHIP_predominance: "Predominance" #!Empty_LineInfo!
-	EWOKS_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
-	EWOKS_SHIP_purity: "Purity" #!Empty_LineInfo!
-	EWOKS_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
-	EWOKS_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
-	EWOKS_SHIP_redma: "Redma" #!Empty_LineInfo!
-	EWOKS_SHIP_reliable: "Reliable" #!Empty_LineInfo!
-	EWOKS_SHIP_reliant: "Reliant" #!Empty_LineInfo!
-	EWOKS_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
-	EWOKS_SHIP_republic: "Republic" #!Empty_LineInfo!
-	EWOKS_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
-	EWOKS_SHIP_resolve: "Resolve" #!Empty_LineInfo!
-	EWOKS_SHIP_respectable: "Respectable" #!Empty_LineInfo!
-	EWOKS_SHIP_revenge: "Revenge" #!Empty_LineInfo!
-	EWOKS_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
-	EWOKS_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
-	EWOKS_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
-	EWOKS_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
-	EWOKS_SHIP_starveil: "Starveil" #!Empty_LineInfo!
-	EWOKS_SHIP_undying: "Undying" #!Empty_LineInfo!
-	EWOKS_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
-	EWOKS_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
-	EWOKS_SHIP_valiant: "Valiant" #!Empty_LineInfo!
-	EWOKS_SHIP_valor: "Valor" #!Empty_LineInfo!
-	EWOKS_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
-	EWOKS_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
-	EWOKS_SHIP_visseon: "Visseon" #!Empty_LineInfo!
-	EWOKS_SHIP_wennis: "Wennis" #!Empty_LineInfo!
-	EWOKS_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
-	EWOKS_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
-	EWOKS_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
-	EWOKS_SHIP_agile: "Agile" #!Empty_LineInfo!
-	EWOKS_SHIP_archer: "Archer" #!Empty_LineInfo!
-	EWOKS_SHIP_arrow: "Arrow" #!Empty_LineInfo!
-	EWOKS_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
-	EWOKS_SHIP_cherub: "Cherub" #!Empty_LineInfo!
-	EWOKS_SHIP_chimera: "Chimera" #!Empty_LineInfo!
-	EWOKS_SHIP_claymore: "Claymore" #!Empty_LineInfo!
-	EWOKS_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
-	EWOKS_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
-	EWOKS_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
-	EWOKS_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
-	EWOKS_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
-	EWOKS_SHIP_errant: "Errant" #!Empty_LineInfo!
-	EWOKS_SHIP_faithful: "Faithful" #!Empty_LineInfo!
-	EWOKS_SHIP_fierce: "Fierce" #!Empty_LineInfo!
-	EWOKS_SHIP_gladius: "Gladius" #!Empty_LineInfo!
-	EWOKS_SHIP_longbow: "Longbow" #!Empty_LineInfo!
-	EWOKS_SHIP_grappler: "Grappler" #!Empty_LineInfo!
-	EWOKS_SHIP_hammer: "Hammer" #!Empty_LineInfo!
-	EWOKS_SHIP_vampire: "Vampire" #!Empty_LineInfo!
-	EWOKS_SHIP_velox: "Velox" #!Empty_LineInfo!
-	EWOKS_SHIP_venator: "Venator" #!Empty_LineInfo!
-	EWOKS_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
-	EWOKS_SHIP_venerable: "Venerable" #!Empty_LineInfo!
-	EWOKS_SHIP_venomous: "Venomous" #!Empty_LineInfo!
-	EWOKS_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
-	EWOKS_SHIP_supreme: "Supreme" #!Empty_LineInfo!
-	EWOKS_SHIP_success: "Success" #!Empty_LineInfo!
-	EWOKS_SHIP_shredder: "Shredder" #!Empty_LineInfo!
-	EWOKS_SHIP_seraph: "Seraph" #!Empty_LineInfo!
-	EWOKS_SHIP_serpent: "Serpent" #!Empty_LineInfo!
-	EWOKS_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
-	EWOKS_SHIP_stalker: "Stalker" #!Empty_LineInfo!
-	EWOKS_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
-	EWOKS_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
-	EWOKS_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
-	EWOKS_SHIP_scourge: "Scourge" #!Empty_LineInfo!
-	EWOKS_SHIP_scythe: "Scythe" #!Empty_LineInfo!
-	EWOKS_SHIP_revenant: "Revenant" #!Empty_LineInfo!
-	EWOKS_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
-	EWOKS_SHIP_raptor: "Raptor" #!Empty_LineInfo!
-	EWOKS_SHIP_reaver: "Reaver" #!Empty_LineInfo!
-	EWOKS_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
-	EWOKS_SHIP_rapier: "Rapier" #!Empty_LineInfo!
-	EWOKS_SHIP_prudent: "Prudent" #!Empty_LineInfo!
-	EWOKS_SHIP_persistent: "Persistent" #!Empty_LineInfo!
-	EWOKS_SHIP_peerless: "Peerless" #!Empty_LineInfo!
-	EWOKS_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
-	EWOKS_SHIP_indignant: "Indignant" #!Empty_LineInfo!
-	EWOKS_SHIP_javelin: "Javelin" #!Empty_LineInfo!
-	EWOKS_SHIP_knight: "Knight" #!Empty_LineInfo!
-	EWOKS_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
-	EWOKS_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
-	EWOKS_SHIP_adventure: "Adventure" #!Empty_LineInfo!
-	EWOKS_SHIP_boxer: "Boxer" #!Empty_LineInfo!
-	EWOKS_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
-	EWOKS_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
-	EWOKS_SHIP_celestial: "Celestial" #!Empty_LineInfo!
-	EWOKS_SHIP_chariot: "Chariot" #!Empty_LineInfo!
-	EWOKS_SHIP_comet: "Comet" #!Empty_LineInfo!
-	EWOKS_SHIP_crucible: "Crucible" #!Empty_LineInfo!
-	EWOKS_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
-	EWOKS_SHIP_decisive: "Decisive" #!Empty_LineInfo!
-	EWOKS_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
-	EWOKS_SHIP_diadem: "Diadem" #!Empty_LineInfo!
-	EWOKS_SHIP_earnest: "Earnest" #!Empty_LineInfo!
-	EWOKS_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
-	EWOKS_SHIP_forger: "Forger" #!Empty_LineInfo!
-	EWOKS_SHIP_fortune: "Fortune" #!Empty_LineInfo!
-	EWOKS_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
-	EWOKS_SHIP_griffin: "Griffin" #!Empty_LineInfo!
-	EWOKS_SHIP_horizon: "Horizon" #!Empty_LineInfo!
-	EWOKS_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
-	EWOKS_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
-	EWOKS_SHIP_hussar: "Hussar" #!Empty_LineInfo!
-	EWOKS_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
-	EWOKS_SHIP_lancer: "Lancer" #!Empty_LineInfo!
-	EWOKS_SHIP_lightning: "Lightning" #!Empty_LineInfo!
-	EWOKS_SHIP_magic: "Magic" #!Empty_LineInfo!
-	EWOKS_SHIP_mediator: "Mediator" #!Empty_LineInfo!
-	EWOKS_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
-	EWOKS_SHIP_meteor: "Meteor" #!Empty_LineInfo!
-	EWOKS_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
-	EWOKS_SHIP_miranda: "Miranda" #!Empty_LineInfo!
-	EWOKS_SHIP_mustang: "Mustang" #!Empty_LineInfo!
-	EWOKS_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
-	EWOKS_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
-	EWOKS_SHIP_centaur: "Centaur" #!Empty_LineInfo!
-	EWOKS_SHIP_adversary: "Adversary" #!Empty_LineInfo!
-	EWOKS_SHIP_assassin: "Assassin" #!Empty_LineInfo!
-	EWOKS_SHIP_dagger: "Dagger" #!Empty_LineInfo!
-	EWOKS_SHIP_daring: "Daring" #!Empty_LineInfo!
-	EWOKS_SHIP_duty: "Duty" #!Empty_LineInfo!
-	EWOKS_SHIP_havoc: "Havoc" #!Empty_LineInfo!
-	EWOKS_SHIP_hero: "Hero" #!Empty_LineInfo!
-	EWOKS_SHIP_justice: "Justice" #!Empty_LineInfo!
-	EWOKS_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
-	EWOKS_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
-	EWOKS_SHIP_infernal: "Infernal" #!Empty_LineInfo!
-	EWOKS_SHIP_loyal: "Loyal" #!Empty_LineInfo!
-	EWOKS_SHIP_matchless: "Matchless" #!Empty_LineInfo!
-	EWOKS_SHIP_mauler: "Mauler" #!Empty_LineInfo!
-	EWOKS_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
-	EWOKS_SHIP_malice: "Malice" #!Empty_LineInfo!
-	EWOKS_SHIP_menace: "Menace" #!Empty_LineInfo!
-	EWOKS_SHIP_merciless: "Merciless" #!Empty_LineInfo!
-	EWOKS_SHIP_mischief: "Mischief" #!Empty_LineInfo!
-	EWOKS_SHIP_monarch: "Monarch" #!Empty_LineInfo!
-	EWOKS_SHIP_patriot: "Patriot" #!Empty_LineInfo!
-	EWOKS_SHIP_predator: "Predator" #!Empty_LineInfo!
-	EWOKS_SHIP_powerful: "Powerful" #!Empty_LineInfo!
-	EWOKS_SHIP_punisher: "Punisher" #!Empty_LineInfo!
-	EWOKS_SHIP_ravager: "Ravager" #!Empty_LineInfo!
-	EWOKS_SHIP_reaper: "Reaper" #!Empty_LineInfo!
-	EWOKS_SHIP_savage: "Savage" #!Empty_LineInfo!
-	EWOKS_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
-	EWOKS_SHIP_templar: "Templar" #!Empty_LineInfo!
-	EWOKS_SHIP_terminator: "Terminator" #!Empty_LineInfo!
-	EWOKS_SHIP_terror: "Terror" #!Empty_LineInfo!
-	EWOKS_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
-	EWOKS_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
-	EWOKS_SHIP_manticore: "Manticore" #!Empty_LineInfo!
-	EWOKS_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
-	EWOKS_SHIP_intruder: "Intruder" #!Empty_LineInfo!
-	EWOKS_SHIP_hydra: "Hydra" #!Empty_LineInfo!
-	EWOKS_SHIP_enfield: "Enfield" #!Empty_LineInfo!
-	EWOKS_SHIP_harasser: "Harasser" #!Empty_LineInfo!
-	EWOKS_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
-	EWOKS_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
-	EWOKS_SHIP_zealous: "Zealous" #!Empty_LineInfo!
-	EWOKS_SHIP_petulant: "Petulant" #!Empty_LineInfo!
-	EWOKS_SHIP_phantom: "Phantom" #!Empty_LineInfo!
-	EWOKS_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
-	EWOKS_SHIP_pike: "Pike" #!Empty_LineInfo!
-	EWOKS_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
-	EWOKS_SHIP_raider: "Raider" #!Empty_LineInfo!
-	EWOKS_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
-	EWOKS_SHIP_rapid: "Rapid" #!Empty_LineInfo!
-	EWOKS_SHIP_redemption: "Redemption" #!Empty_LineInfo!
-	EWOKS_SHIP_relentless: "Relentless" #!Empty_LineInfo!
-	EWOKS_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
-	EWOKS_SHIP_robust: "Robust" #!Empty_LineInfo!
-	EWOKS_SHIP_sabre: "Sabre" #!Empty_LineInfo!
-	EWOKS_SHIP_salvation: "Salvation" #!Empty_LineInfo!
-	EWOKS_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
-	EWOKS_SHIP_scarab: "Scarab" #!Empty_LineInfo!
-	EWOKS_SHIP_scepter: "Scepter" #!Empty_LineInfo!
-	EWOKS_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
-	EWOKS_SHIP_siren: "Siren" #!Empty_LineInfo!
-	EWOKS_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
-	EWOKS_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
-	EWOKS_SHIP_specter: "Specter" #!Empty_LineInfo!
-	EWOKS_SHIP_spirit: "Spirit" #!Empty_LineInfo!
-	EWOKS_SHIP_splendid: "Splendid" #!Empty_LineInfo!
-	EWOKS_SHIP_stallion: "Stallion" #!Empty_LineInfo!
-	EWOKS_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
-	EWOKS_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
-	EWOKS_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
-	EWOKS_SHIP_superb: "Superb" #!Empty_LineInfo!
-	EWOKS_SHIP_supernova: "Supernova" #!Empty_LineInfo!
-	EWOKS_SHIP_surprise: "Surprise" #!Empty_LineInfo!
-	EWOKS_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
-	EWOKS_SHIP_talent: "Talent" #!Empty_LineInfo!
-	EWOKS_SHIP_talisman: "Talisman" #!Empty_LineInfo!
-	EWOKS_SHIP_talon: "Talon" #!Empty_LineInfo!
-	EWOKS_SHIP_taurus: "Taurus" #!Empty_LineInfo!
-	EWOKS_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
-	EWOKS_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
-	EWOKS_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
-	EWOKS_SHIP_tireless: "Tireless" #!Empty_LineInfo!
-	EWOKS_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
-	EWOKS_SHIP_righteous: "Righteous" #!Empty_LineInfo!
-	EWOKS_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	EWOKS_SHIP_achilles: "Achilles" #!Empty_LineInfo!
-	EWOKS_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
-	EWOKS_SHIP_amphion: "Amphion" #!Empty_LineInfo!
-	EWOKS_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
-	EWOKS_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
-	EWOKS_SHIP_argus: "Argus" #!Empty_LineInfo!
-	EWOKS_SHIP_ariel: "Ariel" #!Empty_LineInfo!
-	EWOKS_SHIP_aurora: "Aurora" #!Empty_LineInfo!
-	EWOKS_SHIP_avernus: "Avernus" #!Empty_LineInfo!
-	EWOKS_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
-	EWOKS_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
-	EWOKS_SHIP_calliope: "Calliope" #!Empty_LineInfo!
-	EWOKS_SHIP_calypso: "Calypso" #!Empty_LineInfo!
-	EWOKS_SHIP_castor: "Castor" #!Empty_LineInfo!
-	EWOKS_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
-	EWOKS_SHIP_circe: "Circe" #!Empty_LineInfo!
-	EWOKS_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
-	EWOKS_SHIP_constantine: "Constantine" #!Empty_LineInfo!
-	EWOKS_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
-	EWOKS_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
-	EWOKS_SHIP_damocles: "Damocles" #!Empty_LineInfo!
-	EWOKS_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
-	EWOKS_SHIP_darius: "Darius" #!Empty_LineInfo!
-	EWOKS_SHIP_diomede: "Diomede" #!Empty_LineInfo!
-	EWOKS_SHIP_dryad: "Dryad" #!Empty_LineInfo!
-	EWOKS_SHIP_electra: "Electra" #!Empty_LineInfo!
-	EWOKS_SHIP_endymion: "Endymion" #!Empty_LineInfo!
-	EWOKS_SHIP_erebus: "Erebus" #!Empty_LineInfo!
-	EWOKS_SHIP_fenris: "Fenris" #!Empty_LineInfo!
-	EWOKS_SHIP_freya: "Freya" #!Empty_LineInfo!
-	EWOKS_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
-	EWOKS_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
-	EWOKS_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
-	EWOKS_SHIP_hecate: "Hecate" #!Empty_LineInfo!
-	EWOKS_SHIP_hector: "Hector" #!Empty_LineInfo!
-	EWOKS_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
-	EWOKS_SHIP_janus: "Janus" #!Empty_LineInfo!
-	EWOKS_SHIP_jason: "Jason" #!Empty_LineInfo!
-	EWOKS_SHIP_juno: "Juno" #!Empty_LineInfo!
-	EWOKS_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
-	EWOKS_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
-	EWOKS_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
-	EWOKS_SHIP_leander: "Leander" #!Empty_LineInfo!
-	EWOKS_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
-	EWOKS_SHIP_lysander: "Lysander" #!Empty_LineInfo!
-	EWOKS_SHIP_maenad: "Maenad" #!Empty_LineInfo!
-	EWOKS_SHIP_mars: "Mars" #!Empty_LineInfo!
-	EWOKS_SHIP_medea: "Medea" #!Empty_LineInfo!
-	EWOKS_SHIP_medusa: "Medusa" #!Empty_LineInfo!
-	EWOKS_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
-	EWOKS_SHIP_mercury: "Mercury" #!Empty_LineInfo!
-	EWOKS_SHIP_merlin: "Merlin" #!Empty_LineInfo!
-	EWOKS_SHIP_minerva: "Minerva" #!Empty_LineInfo!
-	EWOKS_SHIP_minos: "Minos" #!Empty_LineInfo!
-	EWOKS_SHIP_neptune: "Neptune" #!Empty_LineInfo!
-	EWOKS_SHIP_nessus: "Nessus" #!Empty_LineInfo!
-	EWOKS_SHIP_nestor: "Nestor" #!Empty_LineInfo!
-	EWOKS_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
-	EWOKS_SHIP_niobe: "Niobe" #!Empty_LineInfo!
-	EWOKS_SHIP_oberon: "Oberon" #!Empty_LineInfo!
-	EWOKS_SHIP_odin: "Odin" #!Empty_LineInfo!
-	EWOKS_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
-	EWOKS_SHIP_orestes: "Orestes" #!Empty_LineInfo!
-	EWOKS_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
-	EWOKS_SHIP_osiris: "Osiris" #!Empty_LineInfo!
-	EWOKS_SHIP_pandora: "Pandora" #!Empty_LineInfo!
-	EWOKS_SHIP_penelope: "Penelope" #!Empty_LineInfo!
-	EWOKS_SHIP_persephone: "Persephone" #!Empty_LineInfo!
-	EWOKS_SHIP_perseus: "Perseus" #!Empty_LineInfo!
-	EWOKS_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
-	EWOKS_SHIP_pluto: "Pluto" #!Empty_LineInfo!
-	EWOKS_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
-	EWOKS_SHIP_proteus: "Proteus" #!Empty_LineInfo!
-	EWOKS_SHIP_pylades: "Pylades" #!Empty_LineInfo!
-	EWOKS_SHIP_serapis: "Serapis" #!Empty_LineInfo!
-	EWOKS_SHIP_stygian: "Stygian" #!Empty_LineInfo!
-	EWOKS_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
-	EWOKS_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
-	EWOKS_SHIP_theseus: "Theseus" #!Empty_LineInfo!
-	EWOKS_SHIP_thor: "Thor" #!Empty_LineInfo!
-	EWOKS_SHIP_trajan: "Trajan" #!Empty_LineInfo!
-	EWOKS_SHIP_triton: "Triton" #!Empty_LineInfo!
-	EWOKS_SHIP_venus: "Venus" #!Empty_LineInfo!
-	EWOKS_SHIP_adamant: "Adamant" #!Empty_LineInfo!
-	EWOKS_SHIP_ardent: "Ardent" #!Empty_LineInfo!
-	EWOKS_SHIP_assail: "Assail" #!Empty_LineInfo!
-	EWOKS_SHIP_austere: "Austere" #!Empty_LineInfo!
-	EWOKS_SHIP_archon: "Archon" #!Empty_LineInfo!
-	EWOKS_SHIP_adroit: "Adroit" #!Empty_LineInfo!
-	EWOKS_SHIP_aegis: "Aegis" #!Empty_LineInfo!
-	EWOKS_SHIP_anchor: "Anchor" #!Empty_LineInfo!
-	EWOKS_SHIP_corsair: "Corsair" #!Empty_LineInfo!
-	EWOKS_SHIP_banshee: "Banshee" #!Empty_LineInfo!
-	EWOKS_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
-	EWOKS_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
-	EWOKS_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
-	EWOKS_SHIP_legion: "Legion" #!Empty_LineInfo!
-	EWOKS_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
-	EWOKS_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
-	EWOKS_SHIP_assault: "Assault" #!Empty_LineInfo!
-	EWOKS_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
-	EWOKS_SHIP_imperator: "Imperator" #!Empty_LineInfo!
-	EWOKS_SHIP_excellence: "Excellence" #!Empty_LineInfo!
-	EWOKS_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
-	EWOKS_SHIP_warlord: "Warlord" #!Empty_LineInfo!
-	EWOKS_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
-	EWOKS_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
-	EWOKS_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
-	EWOKS_SHIP_avenger: "Avenger" #!Empty_LineInfo!
-	EWOKS_SHIP_champion: "Champion" #!Empty_LineInfo!
-	EWOKS_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
-	EWOKS_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	EWOKS_SHIP_glory: "Glory" #!Empty_LineInfo!
-	EWOKS_SHIP_immortal: "Immortal" #!Empty_LineInfo!
-	EWOKS_SHIP_judicator: "Judicator" #!Empty_LineInfo!
-	EWOKS_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
-	EWOKS_SHIP_renown: "Renown" #!Empty_LineInfo!
-	EWOKS_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
-	EWOKS_SHIP_dragon: "Dragon" #!Empty_LineInfo!
-	EWOKS_SHIP_executor: "Executor" #!Empty_LineInfo!
-	EWOKS_SHIP_furious: "Furious" #!Empty_LineInfo!
-	EWOKS_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
-	EWOKS_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
-	EWOKS_SHIP_ogre: "Ogre" #!Empty_LineInfo!
-	EWOKS_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
-	EWOKS_SHIP_vehement: "Vehement" #!Empty_LineInfo!
-	EWOKS_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
-	EWOKS_SHIP_tempest: "Tempest" #!Empty_LineInfo!
-	EWOKS_SHIP_overlord: "Overlord" #!Empty_LineInfo!
-	EWOKS_SHIP_warrior: "Warrior" #!Empty_LineInfo!
-	EWOKS_SHIP_titan: "Titan" #!Empty_LineInfo!
-	EWOKS_SHIP_colossus: "Colossus" #!Empty_LineInfo!
-	EWOKS_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
-	EWOKS_SHIP_nike: "Nike" #!Empty_LineInfo!
-	EWOKS_SHIP_paladin: "Paladin" #!Empty_LineInfo!
-	EWOKS_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
-	EWOKS_SHIP_repulse: "Repulse" #!Empty_LineInfo!
-	EWOKS_SHIP_majestic: "Majestic" #!Empty_LineInfo!
-	EWOKS_SHIP_avatar: "Avatar" #!Empty_LineInfo!
-	EWOKS_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
-	EWOKS_SHIP_centurion: "Centurion" #!Empty_LineInfo!
-	EWOKS_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	EWOKS_SHIP_katana: "Katana" #!Empty_LineInfo!
-	EWOKS_SHIP_kraken: "Kraken" #!Empty_LineInfo!
-	EWOKS_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
-	EWOKS_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
-	EWOKS_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	EWOKS_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
-	EWOKS_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
-	EWOKS_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
-	EWOKS_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
-	EWOKS_SHIP_galatea: "Galatea" #!Empty_LineInfo!
-	EWOKS_SHIP_ambush: "Ambush" #!Empty_LineInfo!
-	EWOKS_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
-	EWOKS_SHIP_crescent: "Crescent" #!Empty_LineInfo!
-	EWOKS_SHIP_diligent: "Diligent" #!Empty_LineInfo!
-	EWOKS_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
-	EWOKS_SHIP_enigma: "Enigma" #!Empty_LineInfo!
-	EWOKS_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
-	EWOKS_SHIP_scylla: "Scylla" #!Empty_LineInfo!
-	EWOKS_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
-	EWOKS_SHIP_asperity: "Asperity" #!Empty_LineInfo!
-	EWOKS_SHIP_eminence: "Eminence" #!Empty_LineInfo!
-	EWOKS_SHIP_astute: "Astute" #!Empty_LineInfo!
-	EWOKS_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
-	EWOKS_SHIP_satyr: "Satyr" #!Empty_LineInfo!
-	EWOKS_SHIP_prospero: "Prospero" #!Empty_LineInfo!
-	EWOKS_SHIP_untiring: "Untiring" #!Empty_LineInfo!
-	EWOKS_SHIP_zenith: "Zenith" #!Empty_LineInfo!
-	EWOKS_SHIP_torch: "Torch" #!Empty_LineInfo!
-	EWOKS_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
-	EWOKS_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
-	EWOKS_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
-	EWOKS_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
-	EWOKS_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
-	EWOKS_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
-	EWOKS_SHIP_emissary: "Emissary" #!Empty_LineInfo!
-	EWOKS_SHIP_nomad: "Nomad" #!Empty_LineInfo!
-	EWOKS_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
-	EWOKS_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
-	EWOKS_SHIP_traveler: "Traveler" #!Empty_LineInfo!
-	EWOKS_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
-	EWOKS_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
-	EWOKS_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
-	EWOKS_SHIP_virtue: "Virtue" #!Empty_LineInfo!
-	EWOKS_SHIP_potential: "Potential" #!Empty_LineInfo!
-	EWOKS_SHIP_expansion: "Expansion" #!Empty_LineInfo!
-	EWOKS_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
-	EWOKS_SHIP_summit: "Summit" #!Empty_LineInfo!
-	EWOKS_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
-	EWOKS_SHIP_seeder: "Seeder" #!Empty_LineInfo!
-	EWOKS_SHIP_harvest: "Harvest" #!Empty_LineInfo!
-	EWOKS_SHIP_demeter: "Demeter" #!Empty_LineInfo!
-	EWOKS_SHIP_isis: "Isis" #!Empty_LineInfo!
-	EWOKS_SHIP_ceres: "Ceres" #!Empty_LineInfo!
-	EWOKS_SHIP_exodus: "Exodus" #!Empty_LineInfo!
-	EWOKS_SHIP_foundation: "Foundation" #!Empty_LineInfo!
-	EWOKS_SHIP_scion: "Scion" #!Empty_LineInfo!
-	EWOKS_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	EWOKS_SHIP_obligation: "Obligation" #!Empty_LineInfo!
-	EWOKS_SHIP_purpose: "Purpose" #!Empty_LineInfo!
-	EWOKS_SHIP_provider: "Provider" #!Empty_LineInfo!
-	EWOKS_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
-	EWOKS_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
-	EWOKS_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
-	EWOKS_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
-	EWOKS_SHIP_community: "Community" #!Empty_LineInfo!
-	EWOKS_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
-	EWOKS_SHIP_industry: "Industry" #!Empty_LineInfo!
-	EWOKS_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
-	EWOKS_SHIP_effort: "Effort" #!Empty_LineInfo!
-	EWOKS_SHIP_laborer: "Laborer" #!Empty_LineInfo!
-	EWOKS_SHIP_builder: "Builder" #!Empty_LineInfo!
-	EWOKS_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
-	EWOKS_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
-	EWOKS_SHIP_progress: "Progress" #!Empty_LineInfo!
-	EWOKS_SHIP_engineer: "Engineer" #!Empty_LineInfo!
-	EWOKS_SHIP_promise: "Promise" #!Empty_LineInfo!
-	EWOKS_SHIP_service: "Service" #!Empty_LineInfo!
-	EWOKS_SHIP_shelter: "Shelter" #!Empty_LineInfo!
-	EWOKS_SHIP_beast: "Beast" #!Empty_LineInfo!
-	EWOKS_SHIP_creator: "Creator" #!Empty_LineInfo!
-	EWOKS_SHIP_developer: "Developer" #!Empty_LineInfo!
-	EWOKS_SHIP_foundry: "Foundry" #!Empty_LineInfo!
-	EWOKS_SHIP_factory: "Factory" #!Empty_LineInfo!
-	EWOKS_SHIP_anvil: "Anvil" #!Empty_LineInfo!
-	EWOKS_SHIP_pillar: "Pillar" #!Empty_LineInfo!
-	EWOKS_SHIP_architect: "Architect" #!Empty_LineInfo!
-	EWOKS_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
-	EWOKS_SHIP_ptah: "Ptah" #!Empty_LineInfo!
-	EWOKS_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
-	EWOKS_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
-	EWOKS_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
-	EWOKS_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
-	EWOKS_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
-	EWOKS_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
-	EWOKS_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
-	EWOKS_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
-	EWOKS_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
-	EWOKS_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
-	EWOKS_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
-	EWOKS_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	EWOKS_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	EWOKS_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	EWOKS_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	EWOKS_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	EWOKS_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	EWOKS_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	EWOKS_SHIP_acre: "Acre" #!Empty_LineInfo!
-	EWOKS_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	EWOKS_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	EWOKS_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	EWOKS_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	EWOKS_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	EWOKS_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	EWOKS_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	EWOKS_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	EWOKS_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	EWOKS_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	EWOKS_SHIP_newport: "Newport" #!Empty_LineInfo!
-	EWOKS_SHIP_guam: "Guam" #!Empty_LineInfo!
-	EWOKS_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	EWOKS_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	EWOKS_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	EWOKS_SHIP_everest: "Everest" #!Empty_LineInfo!
-	EWOKS_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	EWOKS_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	EWOKS_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	EWOKS_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	EWOKS_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	EWOKS_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	EWOKS_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	EWOKS_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	EWOKS_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	EWOKS_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	EWOKS_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	EWOKS_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	EWOKS_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	EWOKS_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	EWOKS_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	EWOKS_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	EWOKS_SHIP_perry: "Perry" #!Empty_LineInfo!
-	EWOKS_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	EWOKS_SHIP_morris: "Morris" #!Empty_LineInfo!
-	EWOKS_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	EWOKS_SHIP_hart: "Hart" #!Empty_LineInfo!
-	EWOKS_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	EWOKS_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	EWOKS_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	EWOKS_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	EWOKS_SHIP_turner: "Turner" #!Empty_LineInfo!
-	EWOKS_SHIP_doria: "Doria" #!Empty_LineInfo!
-	EWOKS_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	EWOKS_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	EWOKS_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	EWOKS_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	EWOKS_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	EWOKS_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	EWOKS_SHIP_durham: "Durham" #!Empty_LineInfo!
-	EWOKS_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	EWOKS_SHIP_milne: "Milne" #!Empty_LineInfo!
-	EWOKS_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	EWOKS_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	EWOKS_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	EWOKS_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	EWOKS_SHIP_pound: "Pound" #!Empty_LineInfo!
-	EWOKS_SHIP_king: "King" #!Empty_LineInfo!
-	EWOKS_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	EWOKS_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	EWOKS_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	EWOKS_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	EWOKS_SHIP_essen: "Essen" #!Empty_LineInfo!
-	EWOKS_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	EWOKS_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	EWOKS_SHIP_treville: "Treville" #!Empty_LineInfo!
-	EWOKS_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	EWOKS_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	EWOKS_SHIP_byng: "Byng" #!Empty_LineInfo!
-	EWOKS_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	EWOKS_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	EWOKS_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	EWOKS_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	EWOKS_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	EWOKS_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	EWOKS_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	EWOKS_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	EWOKS_FLEET_armada_ORD: "$ORD$ Armada" #!Empty_LineInfo!
-	EWOKS_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
-	EWOKS_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
-	EWOKS_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	EWOKS_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	EWOKS_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	EWOKS_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	EWOKS_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	EWOKS_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	EWOKS_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	EWOKS_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	EWOKS_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	EWOKS_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	EWOKS_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	EWOKS_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	EWOKS_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	EWOKS_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	EWOKS_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	EWOKS_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	EWOKS_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	EWOKS_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	EWOKS_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	EWOKS_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	EWOKS_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	EWOKS_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	EWOKS_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	EWOKS_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	EWOKS_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	EWOKS_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	EWOKS_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	EWOKS_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	EWOKS_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	EWOKS_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	EWOKS_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	EWOKS_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	EWOKS_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	EWOKS_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	EWOKS_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	EWOKS_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	EWOKS_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	EWOKS_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	EWOKS_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	EWOKS_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	EWOKS_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	EWOKS_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	EWOKS_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	EWOKS_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	EWOKS_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	EWOKS_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	EWOKS_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	EWOKS_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	EWOKS_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	EWOKS_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	EWOKS_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	EWOKS_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	EWOKS_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	EWOKS_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	EWOKS_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	EWOKS_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	EWOKS_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	EWOKS_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	EWOKS_CHR_arbo: "Arbo" #!Empty_LineInfo!
-	EWOKS_CHR_barneeson: "Barneeson" #!Empty_LineInfo!
-	EWOKS_CHR_benjamin: "Benjamin" #!Empty_LineInfo!
-	EWOKS_CHR_bert: "Bert" #!Empty_LineInfo!
-	EWOKS_CHR_brethupp: "Brethupp" #!Empty_LineInfo!
-	EWOKS_CHR_chakka: "Chakka" #!Empty_LineInfo!
-	EWOKS_CHR_chirpa: "Chirpa" #!Empty_LineInfo!
-	EWOKS_CHR_chubbray: "Chubbray" #!Empty_LineInfo!
-	EWOKS_CHR_chukha_trok: "Chukha-Trok" #!Empty_LineInfo!
-	EWOKS_CHR_deej: "Deej" #!Empty_LineInfo!
-	EWOKS_CHR_ebab: "Ebab" #!Empty_LineInfo!
-	EWOKS_CHR_erpham: "Erpham" #!Empty_LineInfo!
-	EWOKS_CHR_fersin: "Fersin" #!Empty_LineInfo!
-	EWOKS_CHR_flitchee: "Flitchee" #!Empty_LineInfo!
-	EWOKS_CHR_graak: "Graak" #!Empty_LineInfo!
-	EWOKS_CHR_grael: "Grael" #!Empty_LineInfo!
-	EWOKS_CHR_greemon: "Greemon" #!Empty_LineInfo!
-	EWOKS_CHR_gwig: "Gwig" #!Empty_LineInfo!
-	EWOKS_CHR_kazak: "Kazak" #!Empty_LineInfo!
-	EWOKS_CHR_kelbe: "Kelbe" #!Empty_LineInfo!
-	EWOKS_CHR_keoulkeech: "Keoulkeech" #!Empty_LineInfo!
-	EWOKS_CHR_kettch: "Kettch" #!Empty_LineInfo!
-	EWOKS_CHR_khungata: "Khungata" #!Empty_LineInfo!
-	EWOKS_CHR_kolot: "Kolot" #!Empty_LineInfo!
-	EWOKS_CHR_kyoopid: "Kyoopid" #!Empty_LineInfo!
-	EWOKS_CHR_lakotup: "Lakotup" #!Empty_LineInfo!
-	EWOKS_CHR_leektar: "Leektar" #!Empty_LineInfo!
-	EWOKS_CHR_logray: "Logray" #!Empty_LineInfo!
-	EWOKS_CHR_lumat: "Lumat" #!Empty_LineInfo!
-	EWOKS_CHR_machook: "Machook" #!Empty_LineInfo!
-	EWOKS_CHR_megawok: "Megawok" #!Empty_LineInfo!
-	EWOKS_CHR_nanta: "Nanta" #!Empty_LineInfo!
-	EWOKS_CHR_neddoo: "Neddoo" #!Empty_LineInfo!
-	EWOKS_CHR_nho_apakk: "Nho'Apakk" #!Empty_LineInfo!
-	EWOKS_CHR_nicki: "Nicki" #!Empty_LineInfo!
-	EWOKS_CHR_oochee: "Oochee" #!Empty_LineInfo!
-	EWOKS_CHR_orbo: "Orbo" #!Empty_LineInfo!
-	EWOKS_CHR_paploo: "Paploo" #!Empty_LineInfo!
-	EWOKS_CHR_pondo: "Pondo" #!Empty_LineInfo!
-	EWOKS_CHR_ponto: "Ponto" #!Empty_LineInfo!
-	EWOKS_CHR_rabin: "Rabin" #!Empty_LineInfo!
-	EWOKS_CHR_rakra: "Rakra" #!Empty_LineInfo!
-	EWOKS_CHR_romba: "Romba" #!Empty_LineInfo!
-	EWOKS_CHR_simon: "Simon" #!Empty_LineInfo!
-	EWOKS_CHR_stemzee: "Stemzee" #!Empty_LineInfo!
-	EWOKS_CHR_tak: "Tak" #!Empty_LineInfo!
-	EWOKS_CHR_tammala: "Tammala" #!Empty_LineInfo!
-	EWOKS_CHR_taras: "Taras" #!Empty_LineInfo!
-	EWOKS_CHR_tarfang: "Tarfang" #!Empty_LineInfo!
-	EWOKS_CHR_teebo: "Teebo" #!Empty_LineInfo!
-	EWOKS_CHR_tippet: "Tippet" #!Empty_LineInfo!
-	EWOKS_CHR_tokkat: "Tokkat" #!Empty_LineInfo!
-	EWOKS_CHR_warok: "Warok" #!Empty_LineInfo!
-	EWOKS_CHR_weechee: "Weechee" #!Empty_LineInfo!
-	EWOKS_CHR_wicket: "Wicket" #!Empty_LineInfo!
-	EWOKS_CHR_widdle: "Widdle" #!Empty_LineInfo!
-	EWOKS_CHR_wijunkee: "Wijunkee" #!Empty_LineInfo!
-	EWOKS_CHR_wiley: "Wiley" #!Empty_LineInfo!
-	EWOKS_CHR_wunka: "Wunka" #!Empty_LineInfo!
-	EWOKS_CHR_wuta: "Wuta" #!Empty_LineInfo!
-	EWOKS_CHR_wystri: "Wystri" #!Empty_LineInfo!
-	EWOKS_CHR_zarrak: "Zarrak" #!Empty_LineInfo!
-	EWOKS_CHR_grelick: "Grelick" #!Empty_LineInfo!
-	EWOKS_CHR_kesteeck: "Kesteeck" #!Empty_LineInfo!
-	EWOKS_CHR_kregi: "Kregi" #!Empty_LineInfo!
-	EWOKS_CHR_oorpat: "Oorpat" #!Empty_LineInfo!
-	EWOKS_CHR_ridri: "Ridri" #!Empty_LineInfo!
-	EWOKS_CHR_wibik: "Wibik" #!Empty_LineInfo!
-	EWOKS_CHR_asha: "Asha" #!Empty_LineInfo!
-	EWOKS_CHR_batcheela: "Batcheela" #!Empty_LineInfo!
-	EWOKS_CHR_bozzie: "Bozzie" #!Empty_LineInfo!
-	EWOKS_CHR_chesea: "Chesea" #!Empty_LineInfo!
-	EWOKS_CHR_chirita: "Chirita" #!Empty_LineInfo!
-	EWOKS_CHR_fufu: "Fufu" #!Empty_LineInfo!
-	EWOKS_CHR_fufuneek: "Fufuneek" #!Empty_LineInfo!
-	EWOKS_CHR_kaink: "Kaink" #!Empty_LineInfo!
-	EWOKS_CHR_kamida: "Kamida" #!Empty_LineInfo!
-	EWOKS_CHR_kneesaa: "Kneesaa" #!Empty_LineInfo!
-	EWOKS_CHR_latara: "Latara" #!Empty_LineInfo!
-	EWOKS_CHR_leeni: "Leeni" #!Empty_LineInfo!
-	EWOKS_CHR_malani: "Malani" #!Empty_LineInfo!
-	EWOKS_CHR_mookiee: "Mookiee" #!Empty_LineInfo!
-	EWOKS_CHR_nippet: "Nippet" #!Empty_LineInfo!
-	EWOKS_CHR_ra_lee: "Ra-Lee" #!Empty_LineInfo!
-	EWOKS_CHR_salina: "Salina" #!Empty_LineInfo!
-	EWOKS_CHR_shodu: "Shodu" #!Empty_LineInfo!
-	EWOKS_CHR_treek: "Treek" #!Empty_LineInfo!
-	EWOKS_CHR_winda: "Winda" #!Empty_LineInfo!
-	EWOKS_CHR_wispeth: "Wispeth" #!Empty_LineInfo!
-	EWOKS_CHR_zephee: "Zephee" #!Empty_LineInfo!
-	EWOKS_CHR_apre: "Apre" #!Empty_LineInfo!
-	EWOKS_CHR_arpa: "Arpa" #!Empty_LineInfo!
-	EWOKS_CHR_ashee: "Ashee" #!Empty_LineInfo!
-	EWOKS_CHR_bani: "Bani" #!Empty_LineInfo!
-	EWOKS_CHR_baagna: "Baagna" #!Empty_LineInfo!
-	EWOKS_CHR_berpalla: "Berpalla" #!Empty_LineInfo!
-	EWOKS_CHR_billi: "Billi" #!Empty_LineInfo!
-	EWOKS_CHR_chepata: "Chepata" #!Empty_LineInfo!
-	EWOKS_CHR_chinigree: "Chinigree" #!Empty_LineInfo!
-	EWOKS_CHR_chirpe: "Chirpe" #!Empty_LineInfo!
-	EWOKS_CHR_chisa: "Chisa" #!Empty_LineInfo!
-	EWOKS_CHR_dagli: "Dagli" #!Empty_LineInfo!
-	EWOKS_CHR_dalee: "Dalee" #!Empty_LineInfo!
-	EWOKS_CHR_disipra: "Disipra" #!Empty_LineInfo!
-	EWOKS_CHR_eda: "Eda" #!Empty_LineInfo!
-	EWOKS_CHR_eka: "Eka" #!Empty_LineInfo!
-	EWOKS_CHR_ellagni: "Ellagni" #!Empty_LineInfo!
-	EWOKS_CHR_ezzi: "Ezzi" #!Empty_LineInfo!
-	EWOKS_CHR_fyni: "Fyni" #!Empty_LineInfo!
-	EWOKS_CHR_gagra: "Gagra" #!Empty_LineInfo!
-	EWOKS_CHR_galaa: "Galaa" #!Empty_LineInfo!
-	EWOKS_CHR_gimoogna: "Gimoogna" #!Empty_LineInfo!
-	EWOKS_CHR_glerphi: "Glerphi" #!Empty_LineInfo!
-	EWOKS_CHR_glestepa: "Glestepa" #!Empty_LineInfo!
-	EWOKS_CHR_kesi: "Kesi" #!Empty_LineInfo!
-	EWOKS_CHR_kirrigla: "Kirrigla" #!Empty_LineInfo!
-	EWOKS_CHR_kniti: "Kniti" #!Empty_LineInfo!
-	EWOKS_CHR_lari: "Lari" #!Empty_LineInfo!
-	EWOKS_CHR_larpoo: "Larpoo" #!Empty_LineInfo!
-	EWOKS_CHR_micki: "Micki" #!Empty_LineInfo!
-	EWOKS_CHR_mirri: "Mirri" #!Empty_LineInfo!
-	EWOKS_CHR_neshi: "Neshi" #!Empty_LineInfo!
-	EWOKS_CHR_ninali: "Ninali" #!Empty_LineInfo!
-	EWOKS_CHR_oosee: "Oosee" #!Empty_LineInfo!
-	EWOKS_CHR_pashama: "Pashama" #!Empty_LineInfo!
-	EWOKS_CHR_pyzza: "Pyzza" #!Empty_LineInfo!
-	EWOKS_CHR_rada: "Rada" #!Empty_LineInfo!
-	EWOKS_CHR_raka: "Raka" #!Empty_LineInfo!
-	EWOKS_CHR_ralloory: "Ralloory" #!Empty_LineInfo!
-	EWOKS_CHR_rari: "Rari" #!Empty_LineInfo!
-	EWOKS_CHR_rarri: "Rarri" #!Empty_LineInfo!
-	EWOKS_CHR_reta: "Reta" #!Empty_LineInfo!
-	EWOKS_CHR_tagla: "Tagla" #!Empty_LineInfo!
-	EWOKS_CHR_tani: "Tani" #!Empty_LineInfo!
-	EWOKS_CHR_tapoo: "Tapoo" #!Empty_LineInfo!
-	EWOKS_CHR_terraa: "Terraa" #!Empty_LineInfo!
-	EWOKS_CHR_tripi: "Tripi" #!Empty_LineInfo!
-	EWOKS_CHR_fahn: "Fahn" #!Empty_LineInfo!
-	EWOKS_CHR_gondula: "Gondula" #!Empty_LineInfo!
-	EWOKS_CHR_kintaka: "Kintaka" #!Empty_LineInfo!
-	EWOKS_CHR_panshee: "Panshee" #!Empty_LineInfo!
-	EWOKS_CHR_warrick: "Warrick" #!Empty_LineInfo!
+ EWOKS_SHIP_mystic: "Мистик"
+ EWOKS_SHIP_naiad: "Наяда"
+ EWOKS_SHIP_nautilus: "Наутилус"
+ EWOKS_SHIP_nebula: "Туманность"
+ EWOKS_SHIP_nimble: "Проворный"
+ EWOKS_SHIP_north_star: "Полярная звезда"
+ EWOKS_SHIP_nymph: "Нимфа"
+ EWOKS_SHIP_obdurate: "Упрямый"
+ EWOKS_SHIP_ocean: "Океан"
+ EWOKS_SHIP_onward: "Вперед"
+ EWOKS_SHIP_oracle: "Оракул"
+ EWOKS_SHIP_paradox: "Парадокс"
+ EWOKS_SHIP_paragon: "Образец совершенства"
+ EWOKS_SHIP_pearl: "Жемчужина"
+ EWOKS_SHIP_peregrine: "Перегрин"
+ EWOKS_SHIP_perseverance: "Настойчивость"
+ EWOKS_SHIP_marksman: "Меткий стрелок"
+ EWOKS_SHIP_rifleman: "Стрелок"
+ EWOKS_SHIP_sniper: "Снайпер"
+ EWOKS_SHIP_trident: "Трезубец"
+ EWOKS_SHIP_trumpet: "Труба"
+ EWOKS_SHIP_truncheon: "Дубинка"
+ EWOKS_SHIP_typhoon: "Тайфун"
+ EWOKS_SHIP_undaunted: "Неустрашимый"
+ EWOKS_SHIP_venture: "Предприятие"
+ EWOKS_SHIP_versatile: "Универсальный"
+ EWOKS_SHIP_vigorous: "Энергичный"
+ EWOKS_SHIP_viper: "Гадюка"
+ EWOKS_SHIP_vivacious: "Жизнерадостный"
+ EWOKS_SHIP_winger: "Вингер"
+ EWOKS_SHIP_wizard: "Волшебник"
+ EWOKS_SHIP_wyvern: "Виверн"
+ EWOKS_SHIP_wolfhound: "Волкодав"
+ EWOKS_SHIP_devastator: "Опустошитель"
+ EWOKS_SHIP_warhammer: "Боевой молот"
+ EWOKS_SHIP_retribution: "Возмездие"
+ EWOKS_SHIP_senator: "Сенатор"
+ EWOKS_SHIP_tornado: "Торнадо"
+ EWOKS_SHIP_infinity: "Бесконечность"
+ EWOKS_SHIP_usurper: "Узурпатор"
+ EWOKS_SHIP_utmost: "Предельный"
+ EWOKS_SHIP_valorous: "Доблестный"
+ EWOKS_SHIP_whirlwind: "Вихрь"
+ EWOKS_SHIP_athena: "Афина"
+ EWOKS_SHIP_artemis: "Артемида"
+ EWOKS_SHIP_vigilance: "Бдительность"
+ EWOKS_SHIP_decimator: "Уничтожитель"
+ EWOKS_SHIP_indomitable: "Неукротимый"
+ EWOKS_SHIP_goliath: "Голиаф"
+ EWOKS_SHIP_sentinel: "Страж"
+ EWOKS_SHIP_brilliant: "Блестящий"
+ EWOKS_SHIP_blazer: "Блейзер"
+ EWOKS_SHIP_audacity: "Дерзость"
+ EWOKS_SHIP_gallant: "Галантный"
+ EWOKS_SHIP_nova: "Нова"
+ EWOKS_SHIP_shadow: "Тень"
+ EWOKS_SHIP_allegiance: "Верность"
+ EWOKS_SHIP_challenger: "Претендент"
+ EWOKS_SHIP_fearless: "Бесстрашный"
+ EWOKS_SHIP_protector: "Защитник"
+ EWOKS_SHIP_guardian: "Страж"
+ EWOKS_SHIP_victorious: "Победоносный"
+ EWOKS_SHIP_courageous: "Мужественный"
+ EWOKS_SHIP_defiance: "Неповиновение"
+ EWOKS_SHIP_azrael: "Азраил"
+ EWOKS_SHIP_adamantine: "Адамантин"
+ EWOKS_SHIP_aralanni: "Араланни"
+ EWOKS_SHIP_ardent_iv: "Ардент IV"
+ EWOKS_SHIP_armistice: "Перемирие"
+ EWOKS_SHIP_avengeance: "Месть"
+ EWOKS_SHIP_ballista: "Баллиста"
+ EWOKS_SHIP_bloodstripe: "Кровавая полоса"
+ EWOKS_SHIP_borealis: "Бореалис"
+ EWOKS_SHIP_caelus: "Целус"
+ EWOKS_SHIP_caravan: "Караван"
+ EWOKS_SHIP_chaf_envoy: "Посланник Чафа"
+ EWOKS_SHIP_commenor: "Комменор"
+ EWOKS_SHIP_corbantis: "Корбантис"
+ EWOKS_SHIP_corellia: "Кореллия"
+ EWOKS_SHIP_courteous: "Вежливый"
+ EWOKS_SHIP_dauntless: "Бесстрашный"
+ EWOKS_SHIP_defiant: "Непокорный"
+ EWOKS_SHIP_deliverance: "Избавление"
+ EWOKS_SHIP_derapha: "Дерафа"
+ EWOKS_SHIP_devout: "Набожный"
+ EWOKS_SHIP_empirical: "Эмпирический"
+ EWOKS_SHIP_empyrean: "Эмпирей"
+ EWOKS_SHIP_era_daimanos: "Эра Даймано"
+ EWOKS_SHIP_eye_of_the_storm: "Око бури"
+ EWOKS_SHIP_farstar: "Фарстар"
+ EWOKS_SHIP_fastblast: "Фастбласт"
+ EWOKS_SHIP_galaaron: "Галаарон"
+ EWOKS_SHIP_garrote: "Удавка"
+ EWOKS_SHIP_gilagimar: "Гилагимар"
+ EWOKS_SHIP_halleck: "Халлек"
+ EWOKS_SHIP_hunter: "Охотник"
+ EWOKS_SHIP_intractable: "Несговорчивый"
+ EWOKS_SHIP_ithor_lady: "Леди Итор"
+ EWOKS_SHIP_justice_crusader: "Борец за справедливость"
+ EWOKS_SHIP_kana_s_steel: "Сталь Каны"
+ EWOKS_SHIP_lathir: "Латир"
+ EWOKS_SHIP_liberty: "Свобода"
+ EWOKS_SHIP_lillibanca: "Лилибанкас"
+ EWOKS_SHIP_maelstrom: "Водоворот"
+ EWOKS_SHIP_malachite_scent: "Аромат малахита"
+ EWOKS_SHIP_mercy: "Милосердие"
+ EWOKS_SHIP_myrkos: "Миркос"
+ EWOKS_SHIP_nebula_chaser: "Охотник за туманностями"
+ EWOKS_SHIP_nova_viper: "Новая гадюка"
+ EWOKS_SHIP_obedience: "Послушание"
+ EWOKS_SHIP_olemp: "Олемп"
+ EWOKS_SHIP_pegasus: "Пегас"
+ EWOKS_SHIP_perspicacity: "Проницательность"
+ EWOKS_SHIP_phalanx: "Фаланга"
+ EWOKS_SHIP_plooriod_bodkin: "Плоуриод Бодкин"
+ EWOKS_SHIP_predominance: "Преобладание"
+ EWOKS_SHIP_prosperity: "Процветание"
+ EWOKS_SHIP_purity: "Чистота"
+ EWOKS_SHIP_recalcitrant: "Непокорный"
+ EWOKS_SHIP_red_nova: "Красная нова"
+ EWOKS_SHIP_redma: "Редма"
+ EWOKS_SHIP_reliable: "Достоверный"
+ EWOKS_SHIP_reliant: "Надежный"
+ EWOKS_SHIP_reluctant: "Вынужденный"
+ EWOKS_SHIP_republic: "Республика"
+ EWOKS_SHIP_republic_s_return: "Возвращение республики"
+ EWOKS_SHIP_resolve: "Разрешить"
+ EWOKS_SHIP_respectable: "Респектабельный"
+ EWOKS_SHIP_revenge: "Месть"
+ EWOKS_SHIP_shadowblade: "Клинок Тени"
+ EWOKS_SHIP_spritespray: "Спрайтспрей"
+ EWOKS_SHIP_star_dream: "Звездная мечта"
+ EWOKS_SHIP_stark_wing: "Крыло Старка"
+ EWOKS_SHIP_starveil: "Голодный"
+ EWOKS_SHIP_undying: "Бессмертный"
+ EWOKS_SHIP_vaathkree: "Вааткри"
+ EWOKS_SHIP_vainglorious: "Тщеславный"
+ EWOKS_SHIP_valiant: "Доблестный"
+ EWOKS_SHIP_valor: "Доблесть"
+ EWOKS_SHIP_vanquisher: "Победитель"
+ EWOKS_SHIP_vinsor: "Винсор"
+ EWOKS_SHIP_visseon: "Виссон"
+ EWOKS_SHIP_wennis: "Веннис"
+ EWOKS_SHIP_yavin_s_glory: "Слава Явина"
+ EWOKS_SHIP_moldy_crow: "Заплесневелая ворона"
+ EWOKS_SHIP_raven_s_claw: "Коготь Ворона"
+ EWOKS_SHIP_agile: "Проворный"
+ EWOKS_SHIP_archer: "Лучник"
+ EWOKS_SHIP_arrow: "Стрелка"
+ EWOKS_SHIP_bruiser: "Громила"
+ EWOKS_SHIP_cherub: "Херувим"
+ EWOKS_SHIP_chimera: "Химера"
+ EWOKS_SHIP_claymore: "Клеймор"
+ EWOKS_SHIP_broadsword: "Палаш"
+ EWOKS_SHIP_battleaxe: "Боевой топор"
+ EWOKS_SHIP_crossbow: "Арбалет"
+ EWOKS_SHIP_cutlass: "Кортик"
+ EWOKS_SHIP_deterrent: "Сдерживающий фактор"
+ EWOKS_SHIP_errant: "Странствующий"
+ EWOKS_SHIP_faithful: "Верный"
+ EWOKS_SHIP_fierce: "Свирепый"
+ EWOKS_SHIP_gladius: "Гладиус"
+ EWOKS_SHIP_longbow: "Длинный лук"
+ EWOKS_SHIP_grappler: "Грэпплер"
+ EWOKS_SHIP_hammer: "Хаммер"
+ EWOKS_SHIP_vampire: "Вампир"
+ EWOKS_SHIP_velox: "Велокс"
+ EWOKS_SHIP_venator: "Венатор"
+ EWOKS_SHIP_vendetta: "Вендетта"
+ EWOKS_SHIP_venerable: "Достопочтенный"
+ EWOKS_SHIP_venomous: "Ядовитый"
+ EWOKS_SHIP_taciturn: "Неразговорчивый"
+ EWOKS_SHIP_supreme: "Высший"
+ EWOKS_SHIP_success: "Успех"
+ EWOKS_SHIP_shredder: "Измельчитель"
+ EWOKS_SHIP_seraph: "Серафим"
+ EWOKS_SHIP_serpent: "Змей"
+ EWOKS_SHIP_spitfire: "Спитфайр"
+ EWOKS_SHIP_stalker: "Сталкер"
+ EWOKS_SHIP_stratagem: "Стратегическая уловка"
+ EWOKS_SHIP_scimitar: "Ятаган"
+ EWOKS_SHIP_scorcher: "Выжигатель"
+ EWOKS_SHIP_scourge: "Бич"
+ EWOKS_SHIP_scythe: "Коса"
+ EWOKS_SHIP_revenant: "Выживший"
+ EWOKS_SHIP_redoubtable: "Грозный"
+ EWOKS_SHIP_raptor: "Раптор"
+ EWOKS_SHIP_reaver: "Разбойник"
+ EWOKS_SHIP_prodigal: "Блудный сын"
+ EWOKS_SHIP_rapier: "Рапира"
+ EWOKS_SHIP_prudent: "Благоразумный"
+ EWOKS_SHIP_persistent: "Постоянный"
+ EWOKS_SHIP_peerless: "Несравненный"
+ EWOKS_SHIP_myrmidon: "Мирмидон"
+ EWOKS_SHIP_indignant: "Возмущенный"
+ EWOKS_SHIP_javelin: "Джавелин"
+ EWOKS_SHIP_knight: "Рыцарь"
+ EWOKS_SHIP_starwolf: "Звездный волк"
+ EWOKS_SHIP_bonaventure: "Бонавентура"
+ EWOKS_SHIP_adventure: "Приключение"
+ EWOKS_SHIP_boxer: "Боксер"
+ EWOKS_SHIP_buccaneer: "Пират"
+ EWOKS_SHIP_cavalier: "Кавалер"
+ EWOKS_SHIP_celestial: "Небесный"
+ EWOKS_SHIP_chariot: "Колесница"
+ EWOKS_SHIP_comet: "Комета"
+ EWOKS_SHIP_crucible: "Крусибл"
+ EWOKS_SHIP_cyclone: "Циклон"
+ EWOKS_SHIP_decisive: "Решающий"
+ EWOKS_SHIP_dexterous: "Ловкий"
+ EWOKS_SHIP_diadem: "Диадема"
+ EWOKS_SHIP_earnest: "Серьезный"
+ EWOKS_SHIP_eclipse: "Затмение"
+ EWOKS_SHIP_forger: "Фальсификатор"
+ EWOKS_SHIP_fortune: "Фортуна"
+ EWOKS_SHIP_gauntlet: "Перчатка"
+ EWOKS_SHIP_griffin: "Гриффин"
+ EWOKS_SHIP_horizon: "Горизонт"
+ EWOKS_SHIP_hotspur: "Отчаянный"
+ EWOKS_SHIP_hurricane: "Ураган"
+ EWOKS_SHIP_hussar: "Гусар"
+ EWOKS_SHIP_jubilant: "Ликующий"
+ EWOKS_SHIP_lancer: "Лансер"
+ EWOKS_SHIP_lightning: "Молния"
+ EWOKS_SHIP_magic: "Магия"
+ EWOKS_SHIP_mediator: "Посредник"
+ EWOKS_SHIP_mermaid: "Русалка"
+ EWOKS_SHIP_meteor: "Метеор"
+ EWOKS_SHIP_minstrel: "Менестрель"
+ EWOKS_SHIP_miranda: "Миранда"
+ EWOKS_SHIP_mustang: "Мустанг"
+ EWOKS_SHIP_sharpshooter: "Снайпер"
+ EWOKS_SHIP_cyclops: "Циклоп"
+ EWOKS_SHIP_centaur: "Кентавр"
+ EWOKS_SHIP_adversary: "Противник"
+ EWOKS_SHIP_assassin: "Убийца"
+ EWOKS_SHIP_dagger: "Кинжал"
+ EWOKS_SHIP_daring: "Дерзкий"
+ EWOKS_SHIP_duty: "Долг"
+ EWOKS_SHIP_havoc: "Хаос"
+ EWOKS_SHIP_hero: "Герой"
+ EWOKS_SHIP_justice: "Справедливость"
+ EWOKS_SHIP_impeccable: "Безупречный"
+ EWOKS_SHIP_interceptor: "Перехватчик"
+ EWOKS_SHIP_infernal: "Инфернальный"
+ EWOKS_SHIP_loyal: "Верный"
+ EWOKS_SHIP_matchless: "Бесподобный"
+ EWOKS_SHIP_mauler: "Маулер"
+ EWOKS_SHIP_mayhem: "Беспредел"
+ EWOKS_SHIP_malice: "Злоба"
+ EWOKS_SHIP_menace: "Угроза"
+ EWOKS_SHIP_merciless: "Беспощадный"
+ EWOKS_SHIP_mischief: "Озорство"
+ EWOKS_SHIP_monarch: "Монарх"
+ EWOKS_SHIP_patriot: "Патриот"
+ EWOKS_SHIP_predator: "Хищник"
+ EWOKS_SHIP_powerful: "Могущественный"
+ EWOKS_SHIP_punisher: "Каратель"
+ EWOKS_SHIP_ravager: "Разрушитель"
+ EWOKS_SHIP_reaper: "Жнец"
+ EWOKS_SHIP_savage: "Дикарь"
+ EWOKS_SHIP_spiteful: "Злобный"
+ EWOKS_SHIP_templar: "Тамплиер"
+ EWOKS_SHIP_terminator: "Терминатор"
+ EWOKS_SHIP_terror: "Террор"
+ EWOKS_SHIP_thrasher: "Трэшер"
+ EWOKS_SHIP_minotaur: "Минотавр"
+ EWOKS_SHIP_manticore: "Мантикора"
+ EWOKS_SHIP_interdictor: "Перехватчик"
+ EWOKS_SHIP_intruder: "Злоумышленник"
+ EWOKS_SHIP_hydra: "Гидра"
+ EWOKS_SHIP_enfield: "Энфилд"
+ EWOKS_SHIP_harasser: "Преследователь"
+ EWOKS_SHIP_unbeaten: "Непобедимый"
+ EWOKS_SHIP_werewolf: "Оборотень"
+ EWOKS_SHIP_zealous: "Ревностный"
+ EWOKS_SHIP_petulant: "Раздражительный"
+ EWOKS_SHIP_phantom: "Фантом"
+ EWOKS_SHIP_phoenix: "Феникс"
+ EWOKS_SHIP_pike: "Щука"
+ EWOKS_SHIP_pursuer: "Преследователь"
+ EWOKS_SHIP_raider: "Рейдер"
+ EWOKS_SHIP_rainbow: "Радуга"
+ EWOKS_SHIP_rapid: "Рапид"
+ EWOKS_SHIP_redemption: "Искупление"
+ EWOKS_SHIP_relentless: "Неумолимый"
+ EWOKS_SHIP_rigorous: "Строгий"
+ EWOKS_SHIP_robust: "Надежный"
+ EWOKS_SHIP_sabre: "Сейбр"
+ EWOKS_SHIP_salvation: "Спасение"
+ EWOKS_SHIP_sanguine: "Сангвиник"
+ EWOKS_SHIP_scarab: "Скарабей"
+ EWOKS_SHIP_scepter: "Скипетр"
+ EWOKS_SHIP_sea_witch: "Морская ведьма"
+ EWOKS_SHIP_siren: "Сирена"
+ EWOKS_SHIP_sorceress: "Волшебница"
+ EWOKS_SHIP_spearhead: "Острие копья"
+ EWOKS_SHIP_specter: "Призрак"
+ EWOKS_SHIP_spirit: "Дух"
+ EWOKS_SHIP_splendid: "Великолепно"
+ EWOKS_SHIP_stallion: "Жеребец"
+ EWOKS_SHIP_stalwart: "Стойкий"
+ EWOKS_SHIP_steadfast: "Стойкий"
+ EWOKS_SHIP_strenuous: "Напряженный"
+ EWOKS_SHIP_superb: "Превосходно"
+ EWOKS_SHIP_supernova: "Сверхновая"
+ EWOKS_SHIP_surprise: "Сюрприз"
+ EWOKS_SHIP_swiftsure: "Свифтсур"
+ EWOKS_SHIP_talent: "Талант"
+ EWOKS_SHIP_talisman: "Талисман"
+ EWOKS_SHIP_talon: "Коготь"
+ EWOKS_SHIP_taurus: "Телец"
+ EWOKS_SHIP_tenacious: "Цепкий"
+ EWOKS_SHIP_thunder_child: "Дитя грома"
+ EWOKS_SHIP_thunderous: "Громоподобный"
+ EWOKS_SHIP_tireless: "Неутомимый"
+ EWOKS_SHIP_trenchant: "Резкий"
+ EWOKS_SHIP_righteous: "Праведный"
+ EWOKS_SHIP_acheron: "Ахерон"
+ EWOKS_SHIP_achilles: "Ахилл"
+ EWOKS_SHIP_agamemnon: "Агамемнон"
+ EWOKS_SHIP_amphion: "Амфион"
+ EWOKS_SHIP_aquilon: "Аквилон"
+ EWOKS_SHIP_argonaut: "Аргонавт"
+ EWOKS_SHIP_argus: "Аргус"
+ EWOKS_SHIP_ariel: "Ариэль"
+ EWOKS_SHIP_aurora: "Аврора"
+ EWOKS_SHIP_avernus: "Авернус"
+ EWOKS_SHIP_bacchus: "Вакх"
+ EWOKS_SHIP_bucephalus: "Буцефал"
+ EWOKS_SHIP_calliope: "Каллиопа"
+ EWOKS_SHIP_calypso: "Калипсо"
+ EWOKS_SHIP_castor: "Кастор"
+ EWOKS_SHIP_charybdis: "Харибда"
+ EWOKS_SHIP_circe: "Цирцея"
+ EWOKS_SHIP_cleopatra: "Клеопатра"
+ EWOKS_SHIP_constantine: "Константин"
+ EWOKS_SHIP_cordelia: "Корделия"
+ EWOKS_SHIP_cyrus: "Сайрус"
+ EWOKS_SHIP_damocles: "Дамоклов"
+ EWOKS_SHIP_daedalus: "Дедал"
+ EWOKS_SHIP_darius: "Дариус"
+ EWOKS_SHIP_diomede: "Диомед"
+ EWOKS_SHIP_dryad: "Дриада"
+ EWOKS_SHIP_electra: "Электра"
+ EWOKS_SHIP_endymion: "Эндимион"
+ EWOKS_SHIP_erebus: "Эребус"
+ EWOKS_SHIP_fenris: "Фенрис"
+ EWOKS_SHIP_freya: "Фрейя"
+ EWOKS_SHIP_gilgamesh: "Гильгамеш"
+ EWOKS_SHIP_gorgon: "Горгона"
+ EWOKS_SHIP_halcyon: "Гальцион"
+ EWOKS_SHIP_hecate: "Геката"
+ EWOKS_SHIP_hector: "Гектор"
+ EWOKS_SHIP_hesperus: "Гесперус"
+ EWOKS_SHIP_janus: "Янус"
+ EWOKS_SHIP_jason: "Джейсон"
+ EWOKS_SHIP_juno: "Юнона"
+ EWOKS_SHIP_jupiter: "Юпитер"
+ EWOKS_SHIP_lancelot: "Ланселот"
+ EWOKS_SHIP_lazarus: "Лазарь"
+ EWOKS_SHIP_leander: "Линдер"
+ EWOKS_SHIP_leonidas: "Леонидас"
+ EWOKS_SHIP_lysander: "Лисандр"
+ EWOKS_SHIP_maenad: "Менада"
+ EWOKS_SHIP_mars: "Марс"
+ EWOKS_SHIP_medea: "Медея"
+ EWOKS_SHIP_medusa: "Медуза"
+ EWOKS_SHIP_menestheus: "Menestheus"
+ EWOKS_SHIP_mercury: "Меркурий"
+ EWOKS_SHIP_merlin: "Мерлин"
+ EWOKS_SHIP_minerva: "Минерва"
+ EWOKS_SHIP_minos: "Минос"
+ EWOKS_SHIP_neptune: "Нептун"
+ EWOKS_SHIP_nessus: "Нессус"
+ EWOKS_SHIP_nestor: "Нестор"
+ EWOKS_SHIP_nimrod: "Нимрод"
+ EWOKS_SHIP_niobe: "Ниобе"
+ EWOKS_SHIP_oberon: "Оберон"
+ EWOKS_SHIP_odin: "Один"
+ EWOKS_SHIP_ophelia: "Офелия"
+ EWOKS_SHIP_orestes: "Орест"
+ EWOKS_SHIP_orpheus: "Орфей"
+ EWOKS_SHIP_osiris: "Осирис"
+ EWOKS_SHIP_pandora: "Пандора"
+ EWOKS_SHIP_penelope: "Пенелопа"
+ EWOKS_SHIP_persephone: "Персефона"
+ EWOKS_SHIP_perseus: "Персей"
+ EWOKS_SHIP_phoebe: "Фиби"
+ EWOKS_SHIP_pluto: "Плутон"
+ EWOKS_SHIP_poseidon: "Посейдон"
+ EWOKS_SHIP_proteus: "Протей"
+ EWOKS_SHIP_pylades: "Пилады"
+ EWOKS_SHIP_serapis: "Серапис"
+ EWOKS_SHIP_stygian: "Стигийский"
+ EWOKS_SHIP_tantalus: "Тантал"
+ EWOKS_SHIP_telemachus: "Телемах"
+ EWOKS_SHIP_theseus: "Тесей"
+ EWOKS_SHIP_thor: "Тор"
+ EWOKS_SHIP_trajan: "Траян"
+ EWOKS_SHIP_triton: "Тритон"
+ EWOKS_SHIP_venus: "Венера"
+ EWOKS_SHIP_adamant: "Адамант"
+ EWOKS_SHIP_ardent: "Пылкий"
+ EWOKS_SHIP_assail: "Нападение"
+ EWOKS_SHIP_austere: "Строгий"
+ EWOKS_SHIP_archon: "Архонт"
+ EWOKS_SHIP_adroit: "Ловкий"
+ EWOKS_SHIP_aegis: "Эгида"
+ EWOKS_SHIP_anchor: "Якорь"
+ EWOKS_SHIP_corsair: "Корсар"
+ EWOKS_SHIP_banshee: "Банши"
+ EWOKS_SHIP_enchantress: "Чародейка"
+ EWOKS_SHIP_eradicator: "Искоренитель"
+ EWOKS_SHIP_tormentor: "Мучитель"
+ EWOKS_SHIP_legion: "Легион"
+ EWOKS_SHIP_reprisal: "Возмездие"
+ EWOKS_SHIP_aggressor: "Агрессор"
+ EWOKS_SHIP_assault: "Нападение"
+ EWOKS_SHIP_eviscerator: "Потрошитель"
+ EWOKS_SHIP_imperator: "Император"
+ EWOKS_SHIP_excellence: "Превосходство"
+ EWOKS_SHIP_unrivalled: "Непревзойденный"
+ EWOKS_SHIP_warlord: "Военачальник"
+ EWOKS_SHIP_vengeance: "Месть"
+ EWOKS_SHIP_triumphant: "Триумфатор"
+ EWOKS_SHIP_nemesis: "Немезида"
+ EWOKS_SHIP_avenger: "Мститель"
+ EWOKS_SHIP_champion: "Чемпион"
+ EWOKS_SHIP_conqueror: "Завоеватель"
+ EWOKS_SHIP_crusader: "Крестоносец"
+ EWOKS_SHIP_glory: "Слава"
+ EWOKS_SHIP_immortal: "Бессмертный"
+ EWOKS_SHIP_judicator: "Судья"
+ EWOKS_SHIP_vanguard: "Авангард"
+ EWOKS_SHIP_renown: "Известность"
+ EWOKS_SHIP_demolisher: "Разрушитель"
+ EWOKS_SHIP_dragon: "Дракон"
+ EWOKS_SHIP_executor: "Палач"
+ EWOKS_SHIP_furious: "Яростный"
+ EWOKS_SHIP_gladiator: "Гладиатор"
+ EWOKS_SHIP_magnificent: "Великолепный"
+ EWOKS_SHIP_ogre: "Людоед"
+ EWOKS_SHIP_onslaught: "Натиск"
+ EWOKS_SHIP_vehement: "Неистовый"
+ EWOKS_SHIP_basilisk: "Василиск"
+ EWOKS_SHIP_tempest: "Буря"
+ EWOKS_SHIP_overlord: "Повелитель"
+ EWOKS_SHIP_warrior: "Воин"
+ EWOKS_SHIP_titan: "Титан"
+ EWOKS_SHIP_colossus: "Колосс"
+ EWOKS_SHIP_prometheus: "Прометей"
+ EWOKS_SHIP_nike: "Найк"
+ EWOKS_SHIP_paladin: "Паладин"
+ EWOKS_SHIP_sovereign: "Суверенный"
+ EWOKS_SHIP_repulse: "Отпор"
+ EWOKS_SHIP_majestic: "Маджестик"
+ EWOKS_SHIP_avatar: "Аватар"
+ EWOKS_SHIP_behemoth: "Бегемот"
+ EWOKS_SHIP_centurion: "Центурион"
+ EWOKS_SHIP_citadel: "Цитадель"
+ EWOKS_SHIP_katana: "Катана"
+ EWOKS_SHIP_kraken: "Кракен"
+ EWOKS_SHIP_cerberus: "Цербер"
+ EWOKS_SHIP_valkyrie: "Валькирия"
+ EWOKS_SHIP_dreadnought: "Дредноут"
+ EWOKS_SHIP_harbinger: "Предвестник"
+ EWOKS_SHIP_juggernaut: "Джаггернаут"
+ EWOKS_SHIP_leviathan: "Левиафан"
+ EWOKS_SHIP_hyperion: "Гиперион"
+ EWOKS_SHIP_galatea: "Галатея"
+ EWOKS_SHIP_ambush: "Засада"
+ EWOKS_SHIP_vindicator: "Защитник"
+ EWOKS_SHIP_crescent: "Полумесяц"
+ EWOKS_SHIP_diligent: "Прилежный"
+ EWOKS_SHIP_zephyr: "Зефир"
+ EWOKS_SHIP_enigma: "Энигма"
+ EWOKS_SHIP_conquistador: "Конкистадор"
+ EWOKS_SHIP_scylla: "Сцилла"
+ EWOKS_SHIP_arbiter: "Арбитр"
+ EWOKS_SHIP_asperity: "Неровность"
+ EWOKS_SHIP_eminence: "Высокопреосвященство"
+ EWOKS_SHIP_astute: "Проницательный"
+ EWOKS_SHIP_alacrity: "Готовность"
+ EWOKS_SHIP_satyr: "Сатир"
+ EWOKS_SHIP_prospero: "Просперо"
+ EWOKS_SHIP_untiring: "Неутомимый"
+ EWOKS_SHIP_zenith: "Зенит"
+ EWOKS_SHIP_torch: "Факел"
+ EWOKS_SHIP_remembrance: "Воспоминание"
+ EWOKS_SHIP_pilgrim: "Пилигрим"
+ EWOKS_SHIP_trailblazer: "Первопроходец"
+ EWOKS_SHIP_vagabond: "Бродяга"
+ EWOKS_SHIP_wayfarer: "Путник"
+ EWOKS_SHIP_ambassador: "Посол"
+ EWOKS_SHIP_emissary: "Эмиссар"
+ EWOKS_SHIP_nomad: "Кочевник"
+ EWOKS_SHIP_pathfinder: "Следопыт"
+ EWOKS_SHIP_wanderer: "Странник"
+ EWOKS_SHIP_traveler: "Путешественник"
+ EWOKS_SHIP_godspeed: "Счастливого пути"
+ EWOKS_SHIP_prophecy: "Пророчество"
+ EWOKS_SHIP_manifest_destiny: "Явное Предначертание"
+ EWOKS_SHIP_virtue: "Добродетель"
+ EWOKS_SHIP_potential: "Потенциал"
+ EWOKS_SHIP_expansion: "Расширение"
+ EWOKS_SHIP_pioneer_spirit: "Дух первопроходца"
+ EWOKS_SHIP_summit: "Саммит"
+ EWOKS_SHIP_pinnacle: "Вершина"
+ EWOKS_SHIP_seeder: "Сеялка"
+ EWOKS_SHIP_harvest: "Урожай"
+ EWOKS_SHIP_demeter: "Деметра"
+ EWOKS_SHIP_isis: "Изида"
+ EWOKS_SHIP_ceres: "Церера"
+ EWOKS_SHIP_exodus: "Исход"
+ EWOKS_SHIP_foundation: "Основание"
+ EWOKS_SHIP_scion: "Наследник"
+ EWOKS_SHIP_progeny: "Потомство"
+ EWOKS_SHIP_obligation: "Обязательство"
+ EWOKS_SHIP_purpose: "Цель"
+ EWOKS_SHIP_provider: "Провайдер"
+ EWOKS_SHIP_shining_city: "Сияющий город"
+ EWOKS_SHIP_acquirer: "Покупатель"
+ EWOKS_SHIP_cultivator: "Культиватор"
+ EWOKS_SHIP_dawn_of_civilization: "Рассвет цивилизации"
+ EWOKS_SHIP_community: "Сообщество"
+ EWOKS_SHIP_brotherhood: "Братство"
+ EWOKS_SHIP_industry: "Промышленность"
+ EWOKS_SHIP_assiduity: "Усидчивость"
+ EWOKS_SHIP_effort: "Усилие"
+ EWOKS_SHIP_laborer: "Чернорабочий"
+ EWOKS_SHIP_builder: "Строитель"
+ EWOKS_SHIP_craftsman: "Мастер"
+ EWOKS_SHIP_hard_hat: "Каска"
+ EWOKS_SHIP_progress: "Прогресс"
+ EWOKS_SHIP_engineer: "Инженер"
+ EWOKS_SHIP_promise: "Обещание"
+ EWOKS_SHIP_service: "Сервис"
+ EWOKS_SHIP_shelter: "Убежище"
+ EWOKS_SHIP_beast: "Зверь"
+ EWOKS_SHIP_creator: "Создатель"
+ EWOKS_SHIP_developer: "Разработчик"
+ EWOKS_SHIP_foundry: "Литейный цех"
+ EWOKS_SHIP_factory: "Фабрика"
+ EWOKS_SHIP_anvil: "Наковальня"
+ EWOKS_SHIP_pillar: "Столп"
+ EWOKS_SHIP_architect: "Архитектор"
+ EWOKS_SHIP_accommodator: "Жилец"
+ EWOKS_SHIP_ptah: "Птах"
+ EWOKS_SHIP_ilmarinen: "Ильмаринен"
+ EWOKS_SHIP_creidhne: "Крейдне"
+ EWOKS_SHIP_gobannus: "Гобаннус"
+ EWOKS_SHIP_luchtaine: "Лучтейн"
+ EWOKS_SHIP_goibniu: "Гоибниу"
+ EWOKS_SHIP_vishvakarman: "Вишвакарман"
+ EWOKS_SHIP_tvastar: "Твастар"
+ EWOKS_SHIP_ikenga: "Икенга"
+ EWOKS_SHIP_qaynan: "Кайнан"
+ EWOKS_SHIP_ucuetis: "Укуетис"
+ EWOKS_SHIP_ogoun: "Огун"
+ EWOKS_SHIP_ground_transport: "Наземный транспорт"
+ EWOKS_SHIP_spacegun_victory: "Космическая пушка Победа"
+ EWOKS_SHIP_spacegun_success: "Космическая пушка Успех"
+ EWOKS_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ EWOKS_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ EWOKS_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ EWOKS_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ EWOKS_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ EWOKS_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ EWOKS_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ EWOKS_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ EWOKS_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ EWOKS_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ EWOKS_SHIP_spacegun_honor: "Космическая пушка Честь"
+ EWOKS_SHIP_spacegun_renown: "Космическая пушка Величие"
+ EWOKS_SHIP_spacegun_glory: "Космическая пушка Слава"
+ EWOKS_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ EWOKS_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ EWOKS_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ EWOKS_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ EWOKS_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ EWOKS_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ EWOKS_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ EWOKS_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ EWOKS_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ EWOKS_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ EWOKS_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ EWOKS_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ EWOKS_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ EWOKS_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ EWOKS_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ EWOKS_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ EWOKS_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ EWOKS_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ EWOKS_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ EWOKS_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ EWOKS_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ EWOKS_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ EWOKS_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ EWOKS_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ EWOKS_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ EWOKS_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ EWOKS_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ EWOKS_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ EWOKS_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ EWOKS_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ EWOKS_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ EWOKS_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ EWOKS_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ EWOKS_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ EWOKS_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ EWOKS_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ EWOKS_SHIP_albacore: "Альбакор"
+ EWOKS_SHIP_gateway: "Шлюз"
+ EWOKS_SHIP_vincent: "Винсент"
+ EWOKS_SHIP_babylon: "Вавилон"
+ EWOKS_SHIP_caernavon: "Кэрнавон"
+ EWOKS_SHIP_acre: "Акро"
+ EWOKS_SHIP_pembroke: "Пембрук"
+ EWOKS_SHIP_spithead: "Спитхед"
+ EWOKS_SHIP_halifax: "Галифакс"
+ EWOKS_SHIP_victoria: "Виктория"
+ EWOKS_SHIP_chatham: "Чатем"
+ EWOKS_SHIP_anchorage: "Анкорхед"
+ EWOKS_SHIP_scapa_flow: "Скапа Флоу"
+ EWOKS_SHIP_hampton_roads: "хэмптон-роудз"
+ EWOKS_SHIP_brooklyn: "Бруклин"
+ EWOKS_SHIP_norfolk: "Норфолк"
+ EWOKS_SHIP_newport: "Ньюпорт"
+ EWOKS_SHIP_guam: "Гуам"
+ EWOKS_SHIP_pensacola: "Пенсакола"
+ EWOKS_SHIP_vesuvius: "Везувий"
+ EWOKS_SHIP_mckinley: "Маккинли"
+ EWOKS_SHIP_everest: "Эверест"
+ EWOKS_SHIP_kilimanjaro: "Килиманджаро"
+ EWOKS_SHIP_aconcagua: "Аконкагуа"
+ EWOKS_SHIP_elbrus: "Эльбрус"
+ EWOKS_SHIP_st__helens: "Святая Елена"
+ EWOKS_SHIP_fuji: "Фудзи"
+ EWOKS_SHIP_olympus: "Олимп"
+ EWOKS_SHIP_sinai: "Синай"
+ EWOKS_SHIP_ambrose: "Эмброуз"
+ EWOKS_SHIP_bermuda: "Бермудские острова"
+ EWOKS_SHIP_farpoint: "Дальняя точка"
+ EWOKS_SHIP_blue_star: "Голубая звезда"
+ EWOKS_SHIP_olympus_mons: "Олимп Монс"
+ EWOKS_SHIP_tharsis: "Тарсис"
+ EWOKS_SHIP_syrtis: "Сиртис"
+ EWOKS_SHIP_blackham: "Блэкхэм"
+ EWOKS_SHIP_fletcher: "Флетчер"
+ EWOKS_SHIP_perry: "Перри"
+ EWOKS_SHIP_butakov: "Бутаков"
+ EWOKS_SHIP_morris: "Моррис"
+ EWOKS_SHIP_moorsom: "Мурсом"
+ EWOKS_SHIP_hart: "Харт"
+ EWOKS_SHIP_hargood: "Харгуд"
+ EWOKS_SHIP_spruance: "Пружина"
+ EWOKS_SHIP_tanaka: "Танака"
+ EWOKS_SHIP_halsey: "Хэлси"
+ EWOKS_SHIP_turner: "Тернер"
+ EWOKS_SHIP_doria: "Дориа"
+ EWOKS_SHIP_tirpitz: "Тирпиц"
+ EWOKS_SHIP_cunningham: "Каннингем"
+ EWOKS_SHIP_jellicoe: "Джеллико"
+ EWOKS_SHIP_hipper: "Хиппер"
+ EWOKS_SHIP_beatty: "Битти"
+ EWOKS_SHIP_potemkin: "Потемкин"
+ EWOKS_SHIP_durham: "Дарем"
+ EWOKS_SHIP_codrington: "Кодрингтон"
+ EWOKS_SHIP_milne: "Милн"
+ EWOKS_SHIP_laforey: "Лафори"
+ EWOKS_SHIP_tyler: "Тайлер"
+ EWOKS_SHIP_hawke: "Хоук"
+ EWOKS_SHIP_yonai: "Йонай"
+ EWOKS_SHIP_pound: "Фунт"
+ EWOKS_SHIP_king: "Король"
+ EWOKS_SHIP_crutchley: "Кратчли"
+ EWOKS_SHIP_mountbatten: "Маунтбеттен"
+ EWOKS_SHIP_kountouriotis: "Кунтуриотис"
+ EWOKS_SHIP_kuznetsov: "Кузнецов"
+ EWOKS_SHIP_essen: "Эссен"
+ EWOKS_SHIP_kornilov: "Корнилов"
+ EWOKS_SHIP_suffren: "Сюффрен"
+ EWOKS_SHIP_treville: "Тревиль"
+ EWOKS_SHIP_villeneuve: "Вильнёв"
+ EWOKS_SHIP_grasse: "Грасс"
+ EWOKS_SHIP_byng: "Бинг"
+ EWOKS_SHIP_lezo: "Лезо"
+ EWOKS_SHIP_bombard: "Космическая пушка Бомбарда"
+ EWOKS_SHIP_catapult: "Космическая пушка Катапульта"
+ EWOKS_SHIP_harpoon: "Космическая пушка Гарпун"
+ EWOKS_SHIP_polybolos: "Космическая пушка Полиболос"
+ EWOKS_SHIP_culverin: "Космическая пушка Кулеврина"
+ EWOKS_SHIP_exemplary: "Космическая пушка Образцовый"
+ EWOKS_SHIP_CLASS_cr_90: "CR-90"
+ EWOKS_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ EWOKS_SHIP_CLASS_lupus: "Люпус"
+ EWOKS_SHIP_CLASS_asdroni: "Асдрони"
+ EWOKS_SHIP_CLASS_customs: "Таможня"
+ EWOKS_SHIP_CLASS_hammerhead: "Молотоглав"
+ EWOKS_SHIP_CLASS_scurge: "Мерзость"
+ EWOKS_SHIP_CLASS_krayt: "Крайт"
+ EWOKS_SHIP_CLASS_diamond: "Бриллиант"
+ EWOKS_SHIP_CLASS_etti: "Этти"
+ EWOKS_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ EWOKS_SHIP_CLASS_vigil: "Бдение"
+ EWOKS_SHIP_CLASS_dp20: "DP20"
+ EWOKS_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ EWOKS_SHIP_CLASS_raider: "Рейдер"
+ EWOKS_SHIP_CLASS_dornean: "Дорнейский"
+ EWOKS_SHIP_CLASS_crusader: "Крестоносец"
+ EWOKS_SHIP_CLASS_marauder: "Мародер"
+ EWOKS_SHIP_CLASS_arquitens: "Аркитенс"
+ EWOKS_SHIP_CLASS_kiltirin: "Килтирин"
+ EWOKS_SHIP_CLASS_pelta: "Пельта"
+ EWOKS_SHIP_CLASS_pinnace: "Катер"
+ EWOKS_SHIP_CLASS_nova: "Нова"
+ EWOKS_SHIP_CLASS_vigilance: "Бдительность"
+ EWOKS_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ EWOKS_SHIP_CLASS_cg_273: "CG-273"
+ EWOKS_SHIP_CLASS_kariek: "Кариек"
+ EWOKS_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ EWOKS_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ EWOKS_SHIP_CLASS_lancer: "Лансер"
+ EWOKS_SHIP_CLASS_teroch: "Терох"
+ EWOKS_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ EWOKS_SHIP_CLASS_nova_ii: "Нова II"
+ EWOKS_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ EWOKS_SHIP_CLASS_velox: "Велокс"
+ EWOKS_SHIP_CLASS_mc30c: "MC30c"
+ EWOKS_SHIP_CLASS_vengeance: "Месть"
+ EWOKS_SHIP_CLASS_kariek_ii: "Кариек II"
+ EWOKS_SHIP_CLASS_cc_7700: "CC-7700"
+ EWOKS_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ EWOKS_SHIP_CLASS_wavecrest: "Гребень волны"
+ EWOKS_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ EWOKS_SHIP_CLASS_nuruodo: "Нуруодо"
+ EWOKS_SHIP_CLASS_sabaoth: "Саваоф"
+ EWOKS_SHIP_CLASS_kontos: "Контос"
+ EWOKS_SHIP_CLASS_mc40: "MC40"
+ EWOKS_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ EWOKS_SHIP_CLASS_broadside: "Залп"
+ EWOKS_SHIP_CLASS_protector: "Защитник"
+ EWOKS_SHIP_CLASS_warlord: "Военачальник"
+ EWOKS_SHIP_CLASS_gladiator: "Гладиатор"
+ EWOKS_SHIP_CLASS_beviin: "Бевиин"
+ EWOKS_SHIP_CLASS_liberator: "Освободитель"
+ EWOKS_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ EWOKS_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ EWOKS_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ EWOKS_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ EWOKS_SHIP_CLASS_massias: "Массиас"
+ EWOKS_SHIP_CLASS_dreadnought: "Дредноут"
+ EWOKS_SHIP_CLASS_kyramud: "Кирамуд"
+ EWOKS_SHIP_CLASS_munificent: "Щедрый"
+ EWOKS_SHIP_CLASS_prosvoli: "Просволи"
+ EWOKS_SHIP_CLASS_acclamator: "Аккламатор"
+ EWOKS_SHIP_CLASS_lictor: "Ликтор"
+ EWOKS_SHIP_CLASS_bulwark: "Оплот"
+ EWOKS_SHIP_CLASS_victory_i: "Победа I"
+ EWOKS_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ EWOKS_SHIP_CLASS_bulk: "Массивный"
+ EWOKS_SHIP_CLASS_vindicator: "Защитник"
+ EWOKS_SHIP_CLASS_dauntless: "Бесстрашный"
+ EWOKS_SHIP_CLASS_captor: "Похититель"
+ EWOKS_SHIP_CLASS_au_riette: "О'риетт"
+ EWOKS_SHIP_CLASS_mc55: "MC55"
+ EWOKS_SHIP_CLASS_afthonia: "Афтония"
+ EWOKS_SHIP_CLASS_victory_ii: "Победа II"
+ EWOKS_SHIP_CLASS_beroya: "Бероя"
+ EWOKS_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ EWOKS_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ EWOKS_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ EWOKS_SHIP_CLASS_venator: "Венатор"
+ EWOKS_SHIP_CLASS_centurion: "Центурион"
+ EWOKS_SHIP_CLASS_mc75: "MC75"
+ EWOKS_SHIP_CLASS_kandosii: "Кандосии"
+ EWOKS_SHIP_CLASS_corellian: "Кореллианский"
+ EWOKS_SHIP_CLASS_providence: "Провидение"
+ EWOKS_SHIP_CLASS_syndic: "Синдик"
+ EWOKS_SHIP_CLASS_recusant: "Отступник"
+ EWOKS_SHIP_CLASS_invincible: "Непобедимый"
+ EWOKS_SHIP_CLASS_imperial_i: "Имперский I"
+ EWOKS_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ EWOKS_SHIP_CLASS_procursator: "Прокурсатор"
+ EWOKS_SHIP_CLASS_mc80a: "MC80a"
+ EWOKS_SHIP_CLASS_dh_omni: "DH-Омни"
+ EWOKS_SHIP_CLASS_aggressor: "Агрессор"
+ EWOKS_SHIP_CLASS_syndic_ii: "Синдик II"
+ EWOKS_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ EWOKS_SHIP_CLASS_keldabe: "Келдабе"
+ EWOKS_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ EWOKS_SHIP_CLASS_chaf: "Чаф"
+ EWOKS_SHIP_CLASS_imperial_ii: "Имперский II"
+ EWOKS_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ EWOKS_SHIP_CLASS_ascendancy: "Господство"
+ EWOKS_SHIP_CLASS_dominator: "Властелин"
+ EWOKS_SHIP_CLASS_allegiance: "Верность"
+ EWOKS_SHIP_CLASS_lucrehulk: "Барышник"
+ EWOKS_SHIP_CLASS_phalanx: "Фаланга"
+ EWOKS_SHIP_CLASS_titan: "Титан"
+ EWOKS_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ EWOKS_SHIP_CLASS_star_home: "Звездный дом"
+ EWOKS_SHIP_CLASS_subjugator: "Покоритель"
+ EWOKS_SHIP_CLASS_bellator: "Беллатор"
+ EWOKS_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ EWOKS_SHIP_CLASS_executor: "Палач"
+ EWOKS_FLEET_armada_ORD: "$ORD$ Армада"
+ EWOKS_ARMY_planetary_guard_ORD: "$ORD$ планетарная стража"
+ EWOKS_ARMY_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус"
+ EWOKS_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ EWOKS_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ EWOKS_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ EWOKS_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ EWOKS_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ EWOKS_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ EWOKS_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ EWOKS_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ EWOKS_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ EWOKS_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ EWOKS_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ EWOKS_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ EWOKS_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ EWOKS_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ EWOKS_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ EWOKS_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ EWOKS_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ EWOKS_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ EWOKS_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ EWOKS_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ EWOKS_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ EWOKS_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ EWOKS_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ EWOKS_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ EWOKS_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ EWOKS_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ EWOKS_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ EWOKS_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ EWOKS_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ EWOKS_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ EWOKS_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ EWOKS_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ EWOKS_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ EWOKS_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ EWOKS_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ EWOKS_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ EWOKS_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ EWOKS_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ EWOKS_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ EWOKS_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ EWOKS_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ EWOKS_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ EWOKS_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ EWOKS_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ EWOKS_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ EWOKS_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ EWOKS_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ EWOKS_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ EWOKS_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ EWOKS_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ EWOKS_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ EWOKS_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ EWOKS_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ EWOKS_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ EWOKS_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ EWOKS_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ EWOKS_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ EWOKS_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ EWOKS_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ EWOKS_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ EWOKS_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ EWOKS_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ EWOKS_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ EWOKS_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ EWOKS_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ EWOKS_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ EWOKS_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ EWOKS_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ EWOKS_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ EWOKS_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ EWOKS_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ EWOKS_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ EWOKS_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ EWOKS_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ EWOKS_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ EWOKS_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ EWOKS_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ EWOKS_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ EWOKS_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ EWOKS_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ EWOKS_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ EWOKS_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ EWOKS_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ EWOKS_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ EWOKS_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ EWOKS_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ EWOKS_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ EWOKS_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ EWOKS_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ EWOKS_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ EWOKS_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ EWOKS_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ EWOKS_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ EWOKS_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ EWOKS_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ EWOKS_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ EWOKS_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ EWOKS_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ EWOKS_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ EWOKS_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ EWOKS_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ EWOKS_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ EWOKS_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ EWOKS_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ EWOKS_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ EWOKS_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ EWOKS_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ EWOKS_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ EWOKS_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ EWOKS_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ EWOKS_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ EWOKS_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ EWOKS_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ EWOKS_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ EWOKS_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ EWOKS_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ EWOKS_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ EWOKS_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ EWOKS_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ EWOKS_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ EWOKS_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ EWOKS_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ EWOKS_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ EWOKS_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ EWOKS_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ EWOKS_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ EWOKS_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ EWOKS_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ EWOKS_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ EWOKS_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ EWOKS_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ EWOKS_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ EWOKS_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ EWOKS_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ EWOKS_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ EWOKS_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ EWOKS_ARMY_acklay_ORD: "$ORD$ Аклай"
+ EWOKS_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ EWOKS_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ EWOKS_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ EWOKS_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ EWOKS_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ EWOKS_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ EWOKS_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ EWOKS_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ EWOKS_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ EWOKS_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ EWOKS_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ EWOKS_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ EWOKS_CHR_arbo: "Арбо"
+ EWOKS_CHR_barneeson: "Барнисон"
+ EWOKS_CHR_benjamin: "Бенджамин"
+ EWOKS_CHR_bert: "Берт"
+ EWOKS_CHR_brethupp: "Бретупп"
+ EWOKS_CHR_chakka: "Чакка"
+ EWOKS_CHR_chirpa: "Чириканье"
+ EWOKS_CHR_chubbray: "Чаббрэй"
+ EWOKS_CHR_chukha_trok: "Чуха-Трок"
+ EWOKS_CHR_deej: "Ди Джей"
+ EWOKS_CHR_ebab: "Ебаб"
+ EWOKS_CHR_erpham: "Эрфам"
+ EWOKS_CHR_fersin: "Ферсин"
+ EWOKS_CHR_flitchee: "Флитчи"
+ EWOKS_CHR_graak: "Граак"
+ EWOKS_CHR_grael: "Граэль"
+ EWOKS_CHR_greemon: "Гримон"
+ EWOKS_CHR_gwig: "Гвиг"
+ EWOKS_CHR_kazak: "Казак"
+ EWOKS_CHR_kelbe: "Кельбе"
+ EWOKS_CHR_keoulkeech: "Кеулкич"
+ EWOKS_CHR_kettch: "Кетчуп"
+ EWOKS_CHR_khungata: "Хунгата"
+ EWOKS_CHR_kolot: "Колот"
+ EWOKS_CHR_kyoopid: "Куупид"
+ EWOKS_CHR_lakotup: "Лакотуп"
+ EWOKS_CHR_leektar: "Лектар"
+ EWOKS_CHR_logray: "Логрей"
+ EWOKS_CHR_lumat: "Люмат"
+ EWOKS_CHR_machook: "Мачукъ"
+ EWOKS_CHR_megawok: "Мегавок"
+ EWOKS_CHR_nanta: "Нанта"
+ EWOKS_CHR_neddoo: "Недду"
+ EWOKS_CHR_nho_apakk: "Нхоапакк"
+ EWOKS_CHR_nicki: "Ники"
+ EWOKS_CHR_oochee: "Ооочи"
+ EWOKS_CHR_orbo: "Орбо"
+ EWOKS_CHR_paploo: "Паплу"
+ EWOKS_CHR_pondo: "Пондо"
+ EWOKS_CHR_ponto: "Понто"
+ EWOKS_CHR_rabin: "Рабин"
+ EWOKS_CHR_rakra: "Ракра"
+ EWOKS_CHR_romba: "Ромба"
+ EWOKS_CHR_simon: "Саймон"
+ EWOKS_CHR_stemzee: "Стемзи"
+ EWOKS_CHR_tak: "Так"
+ EWOKS_CHR_tammala: "Таммала"
+ EWOKS_CHR_taras: "Тарас"
+ EWOKS_CHR_tarfang: "Тарфанг"
+ EWOKS_CHR_teebo: "Тибо"
+ EWOKS_CHR_tippet: "Палантин"
+ EWOKS_CHR_tokkat: "Токкат"
+ EWOKS_CHR_warok: "Варок"
+ EWOKS_CHR_weechee: "Уичи"
+ EWOKS_CHR_wicket: "Калитка"
+ EWOKS_CHR_widdle: "Широкий"
+ EWOKS_CHR_wijunkee: "Виджанки"
+ EWOKS_CHR_wiley: "Уайли"
+ EWOKS_CHR_wunka: "Вунка"
+ EWOKS_CHR_wuta: "Вута"
+ EWOKS_CHR_wystri: "Выстри"
+ EWOKS_CHR_zarrak: "Заррак"
+ EWOKS_CHR_grelick: "Грелик"
+ EWOKS_CHR_kesteeck: "Кестик"
+ EWOKS_CHR_kregi: "Креги"
+ EWOKS_CHR_oorpat: "Урпат"
+ EWOKS_CHR_ridri: "Ридри"
+ EWOKS_CHR_wibik: "Вибик"
+ EWOKS_CHR_asha: "Аша"
+ EWOKS_CHR_batcheela: "Батчила"
+ EWOKS_CHR_bozzie: "Боззи"
+ EWOKS_CHR_chesea: "Чесея"
+ EWOKS_CHR_chirita: "Кирита"
+ EWOKS_CHR_fufu: "Фуфу"
+ EWOKS_CHR_fufuneek: "Фуфунек"
+ EWOKS_CHR_kaink: "Кайнк"
+ EWOKS_CHR_kamida: "Кимада"
+ EWOKS_CHR_kneesaa: "Коленяаа"
+ EWOKS_CHR_latara: "Латара"
+ EWOKS_CHR_leeni: "Лини"
+ EWOKS_CHR_malani: "Малани"
+ EWOKS_CHR_mookiee: "Муки"
+ EWOKS_CHR_nippet: "Ниппет"
+ EWOKS_CHR_ra_lee: "Ра-Ли"
+ EWOKS_CHR_salina: "Салина"
+ EWOKS_CHR_shodu: "Шоду"
+ EWOKS_CHR_treek: "Дерево"
+ EWOKS_CHR_winda: "Винда"
+ EWOKS_CHR_wispeth: "Уиспет"
+ EWOKS_CHR_zephee: "Зефи"
+ EWOKS_CHR_apre: "Апрэ"
+ EWOKS_CHR_arpa: "Арпа"
+ EWOKS_CHR_ashee: "Эши"
+ EWOKS_CHR_bani: "Бани"
+ EWOKS_CHR_baagna: "Баагна"
+ EWOKS_CHR_berpalla: "Берпалла"
+ EWOKS_CHR_billi: "Билли"
+ EWOKS_CHR_chepata: "Чепата"
+ EWOKS_CHR_chinigree: "Чинигрей"
+ EWOKS_CHR_chirpe: "Чириканье"
+ EWOKS_CHR_chisa: "Чиза"
+ EWOKS_CHR_dagli: "Дагли"
+ EWOKS_CHR_dalee: "Дали"
+ EWOKS_CHR_disipra: "Дизипра"
+ EWOKS_CHR_eda: "Эда"
+ EWOKS_CHR_eka: "Эка"
+ EWOKS_CHR_ellagni: "Эллагни"
+ EWOKS_CHR_ezzi: "Эззи"
+ EWOKS_CHR_fyni: "Фуни"
+ EWOKS_CHR_gagra: "Гагра"
+ EWOKS_CHR_galaa: "Галаа"
+ EWOKS_CHR_gimoogna: "Гимугна"
+ EWOKS_CHR_glerphi: "Глерфи"
+ EWOKS_CHR_glestepa: "Глестепа"
+ EWOKS_CHR_kesi: "Кеси"
+ EWOKS_CHR_kirrigla: "Кирригла"
+ EWOKS_CHR_kniti: "Книти"
+ EWOKS_CHR_lari: "Лари"
+ EWOKS_CHR_larpoo: "Ларпу"
+ EWOKS_CHR_micki: "Мики"
+ EWOKS_CHR_mirri: "Мирри"
+ EWOKS_CHR_neshi: "Неши"
+ EWOKS_CHR_ninali: "Нинали"
+ EWOKS_CHR_oosee: "Оузи"
+ EWOKS_CHR_pashama: "Пашама"
+ EWOKS_CHR_pyzza: "Пизза"
+ EWOKS_CHR_rada: "Рада"
+ EWOKS_CHR_raka: "Пака"
+ EWOKS_CHR_ralloory: "Раллори"
+ EWOKS_CHR_rari: "Рари"
+ EWOKS_CHR_rarri: "Рарри"
+ EWOKS_CHR_reta: "Валорук"
+ EWOKS_CHR_tagla: "Тагла"
+ EWOKS_CHR_tani: "Тани"
+ EWOKS_CHR_tapoo: "Тапу"
+ EWOKS_CHR_terraa: "Терра"
+ EWOKS_CHR_tripi: "Трипи"
+ EWOKS_CHR_fahn: "Фан"
+ EWOKS_CHR_gondula: "Гондула"
+ EWOKS_CHR_kintaka: "Кинтака"
+ EWOKS_CHR_panshee: "Пэнши"
+ EWOKS_CHR_warrick: "Уоррик"

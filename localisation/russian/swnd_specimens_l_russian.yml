@@ -1,11 +1,11 @@
 ﻿ l_english:
  ###########################################################################################################
- # Specimens Localization                                                                                  #
- #                                                                                                         #
- # Specimens use two description keys, depending on where/when they are displayed.                         #
- # Either SPECIMEN_DESC_SHORT or SPECIMEN_DESC_COMPLETE by called in the code depending on the situation.  #
- # - SPECIMEN_DESC_SHORT uses only the X_desc_short key                                                    #
- # - SPECIMEN_DESC_COMPLETE concatenates both X_desc_short and X_desc_details                              #
+ # Specimens Localization #
+ # #
+ # Specimens use two description keys, depending on where/when they are displayed. #
+ # Either SPECIMEN_DESC_SHORT or SPECIMEN_DESC_COMPLETE by called in the code depending on the situation. #
+ # - SPECIMEN_DESC_SHORT uses only the X_desc_short key #
+ # - SPECIMEN_DESC_COMPLETE concatenates both X_desc_short and X_desc_details #
  ###########################################################################################################
 
  ## New Dawn Specimens by Bosmer ##
@@ -222,9 +222,9 @@
  corellian_jedi_credit: "Кредит зеленых Джедаев" 
  corellian_jedi_credit_desc_short: "Уникальная валюта Кореллианского анклава Джедаев" 
  corellian_jedi_credit_desc_details: "Кредиты Джедаев были декоративными жетонами, используемыми Зелеными Джедаями во времена Старой Республики. Они имели значение, поскольку вручались рыцарям, получившим звание Мастера." 
- vor_na_tu: "Вор«На»Ту" 
+ vor_na_tu: "Вор'На'Ту" 
  vor_na_tu_desc_short: "Мистический кристалл" 
- vor_na_tu_desc_details: "Вор«На»Ту — мистический кристалл, который охранялся Орденом Джедаев до его падения. Его предназначение до конца не известно, но, похоже, он вызывает реакцию у зеленых нова-кристаллов." 
+ vor_na_tu_desc_details: "Вор'На'Ту — мистический кристалл, который охранялся Орденом Джедаев до его падения. Его предназначение до конца не известно, но, похоже, он вызывает реакцию у зеленых нова-кристаллов." 
  healing_crystals: "Целебные кристаллы огня" 
  healing_crystals_desc_short: "Мощные целебные камни" 
  healing_crystals_desc_details: "Целебные кристаллы огня были одним из величайших сокровищ Ордена джедаев до Великой чистки джедаев. По слухам, они были найдены на Ауре, охранялись кругом целителей-Джедаев и использовались для лечения тяжелых ран. Сообщается, что они могли исцелять людей на грани смерти. Говорят, что ученик мастера Квай-Гон Джинна однажды попытался украсть кристаллы, но его планы провалились." 

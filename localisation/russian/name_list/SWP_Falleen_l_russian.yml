@@ -1,1143 +1,1143 @@
 ﻿l_russian:
-	FALLEEN_SHIP_footpad: "Footpad" #!Empty_LineInfo!
-	FALLEEN_SHIP_assassin: "Assassin" #!Empty_LineInfo!
-	FALLEEN_SHIP_executioner: "Executioner" #!Empty_LineInfo!
-	FALLEEN_SHIP_butcher: "Butcher" #!Empty_LineInfo!
-	FALLEEN_SHIP_hired_gun: "Hired Gun" #!Empty_LineInfo!
-	FALLEEN_SHIP_exterminator: "Exterminator" #!Empty_LineInfo!
-	FALLEEN_SHIP_liquidator: "Liquidator" #!Empty_LineInfo!
-	FALLEEN_SHIP_thuggee: "Thuggee" #!Empty_LineInfo!
-	FALLEEN_SHIP_swindler: "Swindler" #!Empty_LineInfo!
-	FALLEEN_SHIP_deceiver: "Deceiver" #!Empty_LineInfo!
-	FALLEEN_SHIP_viper: "Viper" #!Empty_LineInfo!
-	FALLEEN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
-	FALLEEN_SHIP_adder: "Adder" #!Empty_LineInfo!
-	FALLEEN_SHIP_viper_s_kiss: "Viper's Kiss" #!Empty_LineInfo!
-	FALLEEN_SHIP_molder: "Molder" #!Empty_LineInfo!
-	FALLEEN_SHIP_robber_barron: "Robber Barron" #!Empty_LineInfo!
-	FALLEEN_SHIP_burglar: "Burglar" #!Empty_LineInfo!
-	FALLEEN_SHIP_mugger: "Mugger" #!Empty_LineInfo!
-	FALLEEN_SHIP_raider: "Raider" #!Empty_LineInfo!
-	FALLEEN_SHIP_looter: "Looter" #!Empty_LineInfo!
-	FALLEEN_SHIP_pillager: "Pillager" #!Empty_LineInfo!
-	FALLEEN_SHIP_pilferer: "Pilferer" #!Empty_LineInfo!
-	FALLEEN_SHIP_solar_thief: "Solar Thief" #!Empty_LineInfo!
-	FALLEEN_SHIP_bandit: "Bandit" #!Empty_LineInfo!
-	FALLEEN_SHIP_brigand: "Brigand" #!Empty_LineInfo!
-	FALLEEN_SHIP_highwayman: "Highwayman" #!Empty_LineInfo!
-	FALLEEN_SHIP_dacoit: "Dacoit" #!Empty_LineInfo!
-	FALLEEN_SHIP_marauder: "Marauder" #!Empty_LineInfo!
-	FALLEEN_SHIP_poison: "Poison" #!Empty_LineInfo!
-	FALLEEN_SHIP_stiletto: "Stiletto" #!Empty_LineInfo!
-	FALLEEN_SHIP_bodkin: "Bodkin" #!Empty_LineInfo!
-	FALLEEN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
-	FALLEEN_SHIP_dirk: "Dirk" #!Empty_LineInfo!
-	FALLEEN_SHIP_poniard: "Poniard" #!Empty_LineInfo!
-	FALLEEN_SHIP_scalpel: "Scalpel" #!Empty_LineInfo!
-	FALLEEN_SHIP_sickle: "Sickle" #!Empty_LineInfo!
-	FALLEEN_SHIP_sabre: "Sabre" #!Empty_LineInfo!
-	FALLEEN_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
-	FALLEEN_SHIP_scythe: "Scythe" #!Empty_LineInfo!
-	FALLEEN_SHIP_shank: "Shank" #!Empty_LineInfo!
-	FALLEEN_SHIP_shiv: "Shiv" #!Empty_LineInfo!
-	FALLEEN_SHIP_switchblade: "Switchblade" #!Empty_LineInfo!
-	FALLEEN_SHIP_tickler: "Tickler" #!Empty_LineInfo!
-	FALLEEN_SHIP_skiver: "Skiver" #!Empty_LineInfo!
-	FALLEEN_SHIP_strongarm: "Strongarm" #!Empty_LineInfo!
-	FALLEEN_SHIP_bully_boy: "Bully-boy" #!Empty_LineInfo!
-	FALLEEN_SHIP_coercer: "Coercer" #!Empty_LineInfo!
-	FALLEEN_SHIP_intimidator: "Intimidator" #!Empty_LineInfo!
-	FALLEEN_SHIP_cheap_shot: "Cheap Shot" #!Empty_LineInfo!
-	FALLEEN_SHIP_black_eye: "Black Eye" #!Empty_LineInfo!
-	FALLEEN_SHIP_invective_rex: "Invective Rex" #!Empty_LineInfo!
-	FALLEEN_SHIP_opprobrium: "Opprobrium" #!Empty_LineInfo!
-	FALLEEN_SHIP_impertinence: "Impertinence" #!Empty_LineInfo!
-	FALLEEN_SHIP_impudence: "Impudence" #!Empty_LineInfo!
-	FALLEEN_SHIP_ignominy: "Ignominy" #!Empty_LineInfo!
-	FALLEEN_SHIP_slanderer: "Slanderer" #!Empty_LineInfo!
-	FALLEEN_SHIP_whisperer: "Whisperer" #!Empty_LineInfo!
-	FALLEEN_SHIP_maven: "Maven" #!Empty_LineInfo!
-	FALLEEN_SHIP_vitriol: "Vitriol" #!Empty_LineInfo!
-	FALLEEN_SHIP_shipcracker: "Shipcracker" #!Empty_LineInfo!
-	FALLEEN_SHIP_implication: "Implication" #!Empty_LineInfo!
-	FALLEEN_SHIP_capo: "Capo" #!Empty_LineInfo!
-	FALLEEN_SHIP_right_hand: "Right Hand" #!Empty_LineInfo!
-	FALLEEN_SHIP_left_hand: "Left Hand" #!Empty_LineInfo!
-	FALLEEN_SHIP_big_boss: "Big Boss" #!Empty_LineInfo!
-	FALLEEN_SHIP_godfather: "Godfather" #!Empty_LineInfo!
-	FALLEEN_SHIP_godmother: "Godmother" #!Empty_LineInfo!
-	FALLEEN_SHIP_made_man: "Made Man" #!Empty_LineInfo!
-	FALLEEN_SHIP_wook_s_charm: "Wook's Charm" #!Empty_LineInfo!
-	FALLEEN_SHIP_silent_goodbye: "Silent Goodbye" #!Empty_LineInfo!
-	FALLEEN_SHIP_goodnight: "Goodnight" #!Empty_LineInfo!
-	FALLEEN_SHIP_kneecapper: "Kneecapper" #!Empty_LineInfo!
-	FALLEEN_SHIP_tail_snapper: "Tail Snapper" #!Empty_LineInfo!
-	FALLEEN_SHIP_protection_money: "Protection Money" #!Empty_LineInfo!
-	FALLEEN_SHIP_air_quotes: "Air Quotes" #!Empty_LineInfo!
-	FALLEEN_SHIP_payoff: "Payoff" #!Empty_LineInfo!
-	FALLEEN_SHIP_payback: "Payback" #!Empty_LineInfo!
-	FALLEEN_SHIP_waste_manager: "Waste Manager" #!Empty_LineInfo!
-	FALLEEN_SHIP_ill_omen: "Ill Omen" #!Empty_LineInfo!
-	FALLEEN_SHIP_heavy_hitter: "Heavy Hitter" #!Empty_LineInfo!
-	FALLEEN_SHIP_dame: "Dame" #!Empty_LineInfo!
-	FALLEEN_SHIP_fait_accompli: "Fait Accompli" #!Empty_LineInfo!
-	FALLEEN_SHIP_irreversible: "Irreversible" #!Empty_LineInfo!
-	FALLEEN_SHIP_indebted: "Indebted" #!Empty_LineInfo!
-	FALLEEN_SHIP_quiet_knife: "Quiet Knife" #!Empty_LineInfo!
-	FALLEEN_SHIP_racket: "Racket" #!Empty_LineInfo!
-	FALLEEN_SHIP_cosa_nostra: "Cosa Nostra" #!Empty_LineInfo!
-	FALLEEN_SHIP_salvatore: "Salvatore" #!Empty_LineInfo!
-	FALLEEN_SHIP_masseria: "Masseria" #!Empty_LineInfo!
-	FALLEEN_SHIP_rizzuti_s_end: "Rizzuti's End" #!Empty_LineInfo!
-	FALLEEN_SHIP_blood_water: "Blood Water" #!Empty_LineInfo!
-	FALLEEN_SHIP_don_of_civilization: "Don of Civilization" #!Empty_LineInfo!
-	FALLEEN_SHIP_corleone: "Corleone" #!Empty_LineInfo!
-	FALLEEN_SHIP_heartbreak_kid: "Heartbreak Kid" #!Empty_LineInfo!
-	FALLEEN_SHIP_associate: "Associate" #!Empty_LineInfo!
-	FALLEEN_SHIP_duracrete_shoe: "Duracrete Shoe" #!Empty_LineInfo!
-	FALLEEN_SHIP_clipper: "Clipper" #!Empty_LineInfo!
-	FALLEEN_SHIP_code_of_silence: "Code of Silence" #!Empty_LineInfo!
-	FALLEEN_SHIP_consigliere: "Consigliere" #!Empty_LineInfo!
-	FALLEEN_SHIP_cugine: "Cugine" #!Empty_LineInfo!
-	FALLEEN_SHIP_earner: "Earner" #!Empty_LineInfo!
-	FALLEEN_SHIP_initiator: "Initiator" #!Empty_LineInfo!
-	FALLEEN_SHIP_message_job: "Message Job" #!Empty_LineInfo!
-	FALLEEN_SHIP_oathbound: "Oathbound" #!Empty_LineInfo!
-	FALLEEN_SHIP_temporary_reprieve: "Temporary Reprieve" #!Empty_LineInfo!
-	FALLEEN_SHIP_shy_prince: "Shy Prince" #!Empty_LineInfo!
-	FALLEEN_SHIP_underboss: "Underboss" #!Empty_LineInfo!
-	FALLEEN_SHIP_vigorish: "Vigorish" #!Empty_LineInfo!
-	FALLEEN_SHIP_second_nephew: "Second Nephew" #!Empty_LineInfo!
-	FALLEEN_SHIP_falleen_s_fury: "Falleen's Fury" #!Empty_LineInfo!
-	FALLEEN_SHIP_falleen_s_fist: "Falleen's Fist" #!Empty_LineInfo!
-	FALLEEN_SHIP_anzat_one: "Anzat One" #!Empty_LineInfo!
-	FALLEEN_SHIP_arc_razor: "Arc Razor" #!Empty_LineInfo!
-	FALLEEN_SHIP_azure_queen: "Azure Queen" #!Empty_LineInfo!
-	FALLEEN_SHIP_yanov: "Yanov" #!Empty_LineInfo!
-	FALLEEN_SHIP_lupus_maroo: "Lupus Maroo" #!Empty_LineInfo!
-	FALLEEN_SHIP_virago: "Virago" #!Empty_LineInfo!
-	FALLEEN_SHIP_venomator: "Venomator" #!Empty_LineInfo!
-	FALLEEN_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
-	FALLEEN_SHIP_stinger: "Stinger" #!Empty_LineInfo!
-	FALLEEN_SHIP_scarlet_vertha: "Scarlet Vertha" #!Empty_LineInfo!
-	FALLEEN_SHIP_tragic_flaw: "Tragic Flaw" #!Empty_LineInfo!
-	FALLEEN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
-	FALLEEN_SHIP_rude_awakening: "Rude Awakening" #!Empty_LineInfo!
-	FALLEEN_SHIP_racketeer: "Racketeer" #!Empty_LineInfo!
-	FALLEEN_SHIP_hooligan: "Hooligan" #!Empty_LineInfo!
-	FALLEEN_SHIP_bedlam: "Bedlam" #!Empty_LineInfo!
-	FALLEEN_SHIP_desperado: "Desperado" #!Empty_LineInfo!
-	FALLEEN_SHIP_ruthless: "Ruthless" #!Empty_LineInfo!
-	FALLEEN_SHIP_pitiless: "Pitiless" #!Empty_LineInfo!
-	FALLEEN_SHIP_merciless: "Merciless" #!Empty_LineInfo!
-	FALLEEN_SHIP_libertine: "Libertine" #!Empty_LineInfo!
-	FALLEEN_SHIP_visible_hand: "Visible Hand" #!Empty_LineInfo!
-	FALLEEN_SHIP_high_jack: "High Jack" #!Empty_LineInfo!
-	FALLEEN_SHIP_low_blow: "Low Blow" #!Empty_LineInfo!
-	FALLEEN_SHIP_lackey: "Lackey" #!Empty_LineInfo!
-	FALLEEN_SHIP_rough_hand: "Rough Hand" #!Empty_LineInfo!
-	FALLEEN_SHIP_delinquent: "Delinquent" #!Empty_LineInfo!
-	FALLEEN_SHIP_derelict: "Derelict" #!Empty_LineInfo!
-	FALLEEN_SHIP_dereliction: "Dereliction" #!Empty_LineInfo!
-	FALLEEN_SHIP_razor_walk: "Razor Walk" #!Empty_LineInfo!
-	FALLEEN_SHIP_hamstringer: "Hamstringer" #!Empty_LineInfo!
-	FALLEEN_SHIP_degenerate: "Degenerate" #!Empty_LineInfo!
-	FALLEEN_SHIP_profligate: "Profligate" #!Empty_LineInfo!
-	FALLEEN_SHIP_shakedown: "Shakedown" #!Empty_LineInfo!
-	FALLEEN_SHIP_ruffian: "Ruffian" #!Empty_LineInfo!
-	FALLEEN_SHIP_heist: "Heist" #!Empty_LineInfo!
-	FALLEEN_SHIP_last_caper: "Last Caper" #!Empty_LineInfo!
-	FALLEEN_SHIP_stickup: "Stickup" #!Empty_LineInfo!
-	FALLEEN_SHIP_breakout: "Breakout" #!Empty_LineInfo!
-	FALLEEN_SHIP_impulsive: "Impulsive" #!Empty_LineInfo!
-	FALLEEN_SHIP_concierge: "Concierge" #!Empty_LineInfo!
-	FALLEEN_SHIP_liecentious: "Liecentious" #!Empty_LineInfo!
-	FALLEEN_SHIP_salacious: "Salacious" #!Empty_LineInfo!
-	FALLEEN_SHIP_fluid_meaning: "Fluid Meaning" #!Empty_LineInfo!
-	FALLEEN_SHIP_recumbent_end: "Recumbent End" #!Empty_LineInfo!
-	FALLEEN_SHIP_dirt_nap: "Dirt Nap" #!Empty_LineInfo!
-	FALLEEN_SHIP_spoiler: "Spoiler" #!Empty_LineInfo!
-	FALLEEN_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
-	FALLEEN_SHIP_strumpet: "Strumpet" #!Empty_LineInfo!
-	FALLEEN_SHIP_brazen: "Brazen" #!Empty_LineInfo!
-	FALLEEN_SHIP_charlatan: "Charlatan" #!Empty_LineInfo!
-	FALLEEN_SHIP_punishing_one: "Punishing One" #!Empty_LineInfo!
-	FALLEEN_SHIP_troublemaker: "Troublemaker" #!Empty_LineInfo!
-	FALLEEN_SHIP_assailant: "Assailant" #!Empty_LineInfo!
-	FALLEEN_SHIP_disturber: "Disturber" #!Empty_LineInfo!
-	FALLEEN_SHIP_extortioner: "Extortioner" #!Empty_LineInfo!
-	FALLEEN_SHIP_blackmail: "Blackmail" #!Empty_LineInfo!
-	FALLEEN_SHIP_outlaw: "Outlaw" #!Empty_LineInfo!
-	FALLEEN_SHIP_stigma: "Stigma" #!Empty_LineInfo!
-	FALLEEN_SHIP_innuendo: "Innuendo" #!Empty_LineInfo!
-	FALLEEN_SHIP_insinuator: "Insinuator" #!Empty_LineInfo!
-	FALLEEN_SHIP_double_tap: "Double Tap" #!Empty_LineInfo!
-	FALLEEN_SHIP_gambit: "Gambit" #!Empty_LineInfo!
-	FALLEEN_SHIP_ransom: "Ransom" #!Empty_LineInfo!
-	FALLEEN_SHIP_malcontent: "Malcontent" #!Empty_LineInfo!
-	FALLEEN_SHIP_mischevous: "Mischevous" #!Empty_LineInfo!
-	FALLEEN_SHIP_broken_pike: "Broken Pike" #!Empty_LineInfo!
-	FALLEEN_SHIP_acrimony: "Acrimony" #!Empty_LineInfo!
-	FALLEEN_SHIP_instigator: "Instigator" #!Empty_LineInfo!
-	FALLEEN_SHIP_wanton: "Wanton" #!Empty_LineInfo!
-	FALLEEN_SHIP_line_s_end: "Line's End" #!Empty_LineInfo!
-	FALLEEN_SHIP_kissed_ring: "Kissed Ring" #!Empty_LineInfo!
-	FALLEEN_SHIP_ill_repute: "Ill Repute" #!Empty_LineInfo!
-	FALLEEN_SHIP_crossed_line: "Crossed Line" #!Empty_LineInfo!
-	FALLEEN_SHIP_misery_s_end: "Misery's End" #!Empty_LineInfo!
-	FALLEEN_SHIP_true_grift: "True Grift" #!Empty_LineInfo!
-	FALLEEN_SHIP_sleight_of_hand: "Sleight of Hand" #!Empty_LineInfo!
-	FALLEEN_SHIP_double_dealer: "Double Dealer" #!Empty_LineInfo!
-	FALLEEN_SHIP_backstab: "Backstab" #!Empty_LineInfo!
-	FALLEEN_SHIP_two_timer: "Two-Timer" #!Empty_LineInfo!
-	FALLEEN_SHIP_bad_faith: "Bad Faith" #!Empty_LineInfo!
-	FALLEEN_SHIP_bad_influence: "Bad Influence" #!Empty_LineInfo!
-	FALLEEN_SHIP_underhand: "Underhand" #!Empty_LineInfo!
-	FALLEEN_SHIP_infidel: "Infidel" #!Empty_LineInfo!
-	FALLEEN_SHIP_artful_dodger: "Artful Dodger" #!Empty_LineInfo!
-	FALLEEN_SHIP_sucker_punch: "Sucker Punch" #!Empty_LineInfo!
-	FALLEEN_SHIP_shade: "Shade" #!Empty_LineInfo!
-	FALLEEN_SHIP_silence: "Silence" #!Empty_LineInfo!
-	FALLEEN_SHIP_hoaxer: "Hoaxer" #!Empty_LineInfo!
-	FALLEEN_SHIP_harlequin: "Harlequin" #!Empty_LineInfo!
-	FALLEEN_SHIP_dellarte: "Dellarte" #!Empty_LineInfo!
-	FALLEEN_SHIP_lazi: "Lazi" #!Empty_LineInfo!
-	FALLEEN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
-	FALLEEN_SHIP_python: "Python" #!Empty_LineInfo!
-	FALLEEN_SHIP_garter: "Garter" #!Empty_LineInfo!
-	FALLEEN_SHIP_cobra: "Cobra" #!Empty_LineInfo!
-	FALLEEN_SHIP_anaconda: "Anaconda" #!Empty_LineInfo!
-	FALLEEN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
-	FALLEEN_SHIP_mamba: "Mamba" #!Empty_LineInfo!
-	FALLEEN_SHIP_taipani: "Taipani" #!Empty_LineInfo!
-	FALLEEN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
-	FALLEEN_SHIP_astute: "Astute" #!Empty_LineInfo!
-	FALLEEN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
-	FALLEEN_SHIP_asp: "Asp" #!Empty_LineInfo!
-	FALLEEN_SHIP_bonarro: "Bonarro" #!Empty_LineInfo!
-	FALLEEN_SHIP_zolombo: "Zolombo" #!Empty_LineInfo!
-	FALLEEN_SHIP_chimbino: "Chimbino" #!Empty_LineInfo!
-	FALLEEN_SHIP_negovese: "Negovese" #!Empty_LineInfo!
-	FALLEEN_SHIP_lucbrie: "Lucbrie" #!Empty_LineInfo!
-	FALLEEN_SHIP_pentad: "Pentad" #!Empty_LineInfo!
-	FALLEEN_SHIP_viddari: "Viddari" #!Empty_LineInfo!
-	FALLEEN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
-	FALLEEN_SHIP_pentito: "Pentito" #!Empty_LineInfo!
-	FALLEEN_SHIP_dragnheta: "Dragnheta" #!Empty_LineInfo!
-	FALLEEN_SHIP_famorra: "Famorra" #!Empty_LineInfo!
-	FALLEEN_SHIP_korwickesi: "Korwickesi" #!Empty_LineInfo!
-	FALLEEN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
-	FALLEEN_SHIP_handdio: "Handdio" #!Empty_LineInfo!
-	FALLEEN_SHIP_commissioner: "Commissioner" #!Empty_LineInfo!
-	FALLEEN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
-	FALLEEN_SHIP_territorial: "Territorial" #!Empty_LineInfo!
-	FALLEEN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
-	FALLEEN_SHIP_claimant: "Claimant" #!Empty_LineInfo!
-	FALLEEN_SHIP_potential: "Potential" #!Empty_LineInfo!
-	FALLEEN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
-	FALLEEN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
-	FALLEEN_SHIP_taker: "Taker" #!Empty_LineInfo!
-	FALLEEN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
-	FALLEEN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
-	FALLEEN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
-	FALLEEN_SHIP_possessor: "Possessor" #!Empty_LineInfo!
-	FALLEEN_SHIP_franchise: "Franchise" #!Empty_LineInfo!
-	FALLEEN_SHIP_consumer: "Consumer" #!Empty_LineInfo!
-	FALLEEN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
-	FALLEEN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
-	FALLEEN_SHIP_scion: "Scion" #!Empty_LineInfo!
-	FALLEEN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	FALLEEN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
-	FALLEEN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
-	FALLEEN_SHIP_provider: "Provider" #!Empty_LineInfo!
-	FALLEEN_SHIP_nova_city: "Nova City" #!Empty_LineInfo!
-	FALLEEN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
-	FALLEEN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
-	FALLEEN_SHIP_dawn_of_falleen: "Dawn of Falleen" #!Empty_LineInfo!
-	FALLEEN_SHIP_purity: "Purity" #!Empty_LineInfo!
-	FALLEEN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
-	FALLEEN_SHIP_industry: "Industry" #!Empty_LineInfo!
-	FALLEEN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
-	FALLEEN_SHIP_effort: "Effort" #!Empty_LineInfo!
-	FALLEEN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
-	FALLEEN_SHIP_builder: "Builder" #!Empty_LineInfo!
-	FALLEEN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
-	FALLEEN_SHIP_riina: "Riina" #!Empty_LineInfo!
-	FALLEEN_SHIP_progress: "Progress" #!Empty_LineInfo!
-	FALLEEN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
-	FALLEEN_SHIP_promise: "Promise" #!Empty_LineInfo!
-	FALLEEN_SHIP_service: "Service" #!Empty_LineInfo!
-	FALLEEN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
-	FALLEEN_SHIP_beast: "Beast" #!Empty_LineInfo!
-	FALLEEN_SHIP_creator: "Creator" #!Empty_LineInfo!
-	FALLEEN_SHIP_developer: "Developer" #!Empty_LineInfo!
-	FALLEEN_SHIP_forger: "Forger" #!Empty_LineInfo!
-	FALLEEN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
-	FALLEEN_SHIP_factory: "Factory" #!Empty_LineInfo!
-	FALLEEN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
-	FALLEEN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
-	FALLEEN_SHIP_architect: "Architect" #!Empty_LineInfo!
-	FALLEEN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
-	FALLEEN_SHIP_ptah: "Ptah" #!Empty_LineInfo!
-	FALLEEN_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
-	FALLEEN_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
-	FALLEEN_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
-	FALLEEN_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
-	FALLEEN_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
-	FALLEEN_SHIP_mook: "Mook" #!Empty_LineInfo!
-	FALLEEN_SHIP_stiff: "Stiff" #!Empty_LineInfo!
-	FALLEEN_SHIP_workship: "Workship" #!Empty_LineInfo!
-	FALLEEN_SHIP_erector: "Erector" #!Empty_LineInfo!
-	FALLEEN_SHIP_colossi: "Colossi" #!Empty_LineInfo!
-	FALLEEN_SHIP_palazzo: "Palazzo" #!Empty_LineInfo!
-	FALLEEN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	FALLEEN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	FALLEEN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	FALLEEN_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	FALLEEN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	FALLEEN_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	FALLEEN_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	FALLEEN_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	FALLEEN_SHIP_acre: "Acre" #!Empty_LineInfo!
-	FALLEEN_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	FALLEEN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	FALLEEN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	FALLEEN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	FALLEEN_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	FALLEEN_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	FALLEEN_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	FALLEEN_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	FALLEEN_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	FALLEEN_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	FALLEEN_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	FALLEEN_SHIP_newport: "Newport" #!Empty_LineInfo!
-	FALLEEN_SHIP_guam: "Guam" #!Empty_LineInfo!
-	FALLEEN_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	FALLEEN_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	FALLEEN_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	FALLEEN_SHIP_everest: "Everest" #!Empty_LineInfo!
-	FALLEEN_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	FALLEEN_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	FALLEEN_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	FALLEEN_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	FALLEEN_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	FALLEEN_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	FALLEEN_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	FALLEEN_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	FALLEEN_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	FALLEEN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	FALLEEN_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	FALLEEN_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	FALLEEN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	FALLEEN_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	FALLEEN_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	FALLEEN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	FALLEEN_SHIP_perry: "Perry" #!Empty_LineInfo!
-	FALLEEN_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	FALLEEN_SHIP_morris: "Morris" #!Empty_LineInfo!
-	FALLEEN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	FALLEEN_SHIP_hart: "Hart" #!Empty_LineInfo!
-	FALLEEN_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	FALLEEN_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	FALLEEN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	FALLEEN_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	FALLEEN_SHIP_turner: "Turner" #!Empty_LineInfo!
-	FALLEEN_SHIP_doria: "Doria" #!Empty_LineInfo!
-	FALLEEN_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	FALLEEN_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	FALLEEN_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	FALLEEN_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	FALLEEN_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	FALLEEN_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	FALLEEN_SHIP_durham: "Durham" #!Empty_LineInfo!
-	FALLEEN_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	FALLEEN_SHIP_milne: "Milne" #!Empty_LineInfo!
-	FALLEEN_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	FALLEEN_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	FALLEEN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	FALLEEN_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	FALLEEN_SHIP_pound: "Pound" #!Empty_LineInfo!
-	FALLEEN_SHIP_king: "King" #!Empty_LineInfo!
-	FALLEEN_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	FALLEEN_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	FALLEEN_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	FALLEEN_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	FALLEEN_SHIP_essen: "Essen" #!Empty_LineInfo!
-	FALLEEN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	FALLEEN_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	FALLEEN_SHIP_treville: "Treville" #!Empty_LineInfo!
-	FALLEEN_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	FALLEEN_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	FALLEEN_SHIP_byng: "Byng" #!Empty_LineInfo!
-	FALLEEN_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	FALLEEN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	FALLEEN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	FALLEEN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	FALLEEN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	FALLEEN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	FALLEEN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	FALLEEN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	FALLEEN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	FALLEEN_FLEET_black_cabal: "Black Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_ebon_cabal: "Ebon Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_onyx_cabal: "Onyx Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_obsidian_cabal: "Obsidian Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_sable_cabal: "Sable Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_ashen_cabal: "Ashen Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_gray_cabal: "Gray Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_dusk_cabal: "Dusk Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_midnight_cabal: "Midnight Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_raven_cabal: "Raven Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_sunless_cabal: "Sunless Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_shadow_cabal: "Shadow Cabal" #!Empty_LineInfo!
-	FALLEEN_FLEET_cabal_ORD: "$ORD$ Cabal" #!Empty_LineInfo!
-	FALLEEN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
-	FALLEEN_ARMY_death_squad_ORD: "$ORD$ Death Squad" #!Empty_LineInfo!
-	FALLEEN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	FALLEEN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	FALLEEN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	FALLEEN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	FALLEEN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	FALLEEN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	FALLEEN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	FALLEEN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	FALLEEN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	FALLEEN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	FALLEEN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	FALLEEN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	FALLEEN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	FALLEEN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	FALLEEN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	FALLEEN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	FALLEEN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	FALLEEN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	FALLEEN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	FALLEEN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	FALLEEN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	FALLEEN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	FALLEEN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	FALLEEN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	FALLEEN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	FALLEEN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	FALLEEN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	FALLEEN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	FALLEEN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	FALLEEN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	FALLEEN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	FALLEEN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	FALLEEN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	FALLEEN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	FALLEEN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	FALLEEN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	FALLEEN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	FALLEEN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	FALLEEN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	FALLEEN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	FALLEEN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	FALLEEN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	FALLEEN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	FALLEEN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	FALLEEN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	FALLEEN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	FALLEEN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	FALLEEN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	FALLEEN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	FALLEEN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	FALLEEN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	FALLEEN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	FALLEEN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	FALLEEN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	FALLEEN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	FALLEEN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	FALLEEN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	FALLEEN_CHR_haxim: "Haxim" #!Empty_LineInfo!
-	FALLEEN_CHR_xomit: "Xomit" #!Empty_LineInfo!
-	FALLEEN_CHR_kel: "Kel" #!Empty_LineInfo!
-	FALLEEN_CHR_zenex: "Zenex" #!Empty_LineInfo!
-	FALLEEN_CHR_thann: "Thann" #!Empty_LineInfo!
-	FALLEEN_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
-	FALLEEN_CHR_livintius: "Livintius" #!Empty_LineInfo!
-	FALLEEN_CHR_xerda: "Xerda" #!Empty_LineInfo!
-	FALLEEN_CHR_carth: "Carth" #!Empty_LineInfo!
-	FALLEEN_CHR_kir: "Kir" #!Empty_LineInfo!
-	FALLEEN_CHR_mebba: "Mebba" #!Empty_LineInfo!
-	FALLEEN_CHR_dagos: "Dagos" #!Empty_LineInfo!
-	FALLEEN_CHR_xad: "Xad" #!Empty_LineInfo!
-	FALLEEN_CHR_xist: "Xist" #!Empty_LineInfo!
-	FALLEEN_CHR_forren: "Forren" #!Empty_LineInfo!
-	FALLEEN_CHR_kavarros: "Kavarros" #!Empty_LineInfo!
-	FALLEEN_CHR_jeho: "Jeho" #!Empty_LineInfo!
-	FALLEEN_CHR_lee: "Lee" #!Empty_LineInfo!
-	FALLEEN_CHR_varko: "Varko" #!Empty_LineInfo!
-	FALLEEN_CHR_milo: "Milo" #!Empty_LineInfo!
-	FALLEEN_CHR_aeron: "Aeron" #!Empty_LineInfo!
-	FALLEEN_CHR_byrec: "Byrec" #!Empty_LineInfo!
-	FALLEEN_CHR_strata: "Strata" #!Empty_LineInfo!
-	FALLEEN_CHR_kanzin: "Kanzin" #!Empty_LineInfo!
-	FALLEEN_CHR_zeak: "Zeak" #!Empty_LineInfo!
-	FALLEEN_CHR_niuk: "Niuk" #!Empty_LineInfo!
-	FALLEEN_CHR_savren: "Savren" #!Empty_LineInfo!
-	FALLEEN_CHR_xavran: "Xavran" #!Empty_LineInfo!
-	FALLEEN_CHR_valek: "Valek" #!Empty_LineInfo!
-	FALLEEN_CHR_aran: "Aran" #!Empty_LineInfo!
-	FALLEEN_CHR_valis: "Valis" #!Empty_LineInfo!
-	FALLEEN_CHR_zeven: "Zeven" #!Empty_LineInfo!
-	FALLEEN_CHR_yakown: "Yakown" #!Empty_LineInfo!
-	FALLEEN_CHR_sibar: "Sibar" #!Empty_LineInfo!
-	FALLEEN_CHR_sairix: "Sairix" #!Empty_LineInfo!
-	FALLEEN_CHR_klai: "Klai" #!Empty_LineInfo!
-	FALLEEN_CHR_vuras: "Vuras" #!Empty_LineInfo!
-	FALLEEN_CHR_imay: "Imay" #!Empty_LineInfo!
-	FALLEEN_CHR_traest: "Traest" #!Empty_LineInfo!
-	FALLEEN_CHR_sarkli: "Sarkli" #!Empty_LineInfo!
-	FALLEEN_CHR_riyan: "Riyan" #!Empty_LineInfo!
-	FALLEEN_CHR_kavren: "Kavren" #!Empty_LineInfo!
-	FALLEEN_CHR_sarek: "Sarek" #!Empty_LineInfo!
-	FALLEEN_CHR_xato: "Xato" #!Empty_LineInfo!
-	FALLEEN_CHR_silus: "Silus" #!Empty_LineInfo!
-	FALLEEN_CHR_kej: "Kej" #!Empty_LineInfo!
-	FALLEEN_CHR_vago: "Vago" #!Empty_LineInfo!
-	FALLEEN_CHR_kallyx: "Kallyx" #!Empty_LineInfo!
-	FALLEEN_CHR_annor: "Annor" #!Empty_LineInfo!
-	FALLEEN_CHR_ulas: "Ulas" #!Empty_LineInfo!
-	FALLEEN_CHR_sakal: "Sakal" #!Empty_LineInfo!
-	FALLEEN_CHR_tal: "Tal" #!Empty_LineInfo!
-	FALLEEN_CHR_korax: "Korax" #!Empty_LineInfo!
-	FALLEEN_CHR_torin: "Torin" #!Empty_LineInfo!
-	FALLEEN_CHR_karn: "Karn" #!Empty_LineInfo!
-	FALLEEN_CHR_davith: "Davith" #!Empty_LineInfo!
-	FALLEEN_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
-	FALLEEN_CHR_bertos: "Bertos" #!Empty_LineInfo!
-	FALLEEN_CHR_corrus: "Corrus" #!Empty_LineInfo!
-	FALLEEN_CHR_malius: "Malius" #!Empty_LineInfo!
-	FALLEEN_CHR_kale: "Kale" #!Empty_LineInfo!
-	FALLEEN_CHR_xandros: "Xandros" #!Empty_LineInfo!
-	FALLEEN_CHR_kalen: "Kalen" #!Empty_LineInfo!
-	FALLEEN_CHR_zekk: "Zekk" #!Empty_LineInfo!
-	FALLEEN_CHR_trezza: "Trezza" #!Empty_LineInfo!
-	FALLEEN_CHR_valhoun: "Valhoun" #!Empty_LineInfo!
-	FALLEEN_CHR_gentti: "Gentti" #!Empty_LineInfo!
-	FALLEEN_CHR_xu_sien: "Xu-Sien" #!Empty_LineInfo!
-	FALLEEN_CHR_vaux: "Vaux" #!Empty_LineInfo!
-	FALLEEN_CHR_verxes: "Verxes" #!Empty_LineInfo!
-	FALLEEN_CHR_sidias: "Sidias" #!Empty_LineInfo!
-	FALLEEN_CHR_haken: "Haken" #!Empty_LineInfo!
-	FALLEEN_CHR_zyn: "Zyn" #!Empty_LineInfo!
-	FALLEEN_CHR_vidown: "Vidown" #!Empty_LineInfo!
-	FALLEEN_CHR_vares: "Vares" #!Empty_LineInfo!
-	FALLEEN_CHR_xithan: "Xithan" #!Empty_LineInfo!
-	FALLEEN_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
-	FALLEEN_CHR_varys: "Varys" #!Empty_LineInfo!
-	FALLEEN_CHR_xim: "Xim" #!Empty_LineInfo!
-	FALLEEN_CHR_vossi: "Vossi" #!Empty_LineInfo!
-	FALLEEN_CHR_abric: "Abric" #!Empty_LineInfo!
-	FALLEEN_CHR_darg: "Darg" #!Empty_LineInfo!
-	FALLEEN_CHR_gaman: "Gaman" #!Empty_LineInfo!
-	FALLEEN_CHR_vaxherub: "VaxHerub" #!Empty_LineInfo!
-	FALLEEN_CHR_marius: "Marius" #!Empty_LineInfo!
-	FALLEEN_CHR_zherron: "Zherron" #!Empty_LineInfo!
-	FALLEEN_CHR_zetha: "Zetha" #!Empty_LineInfo!
-	FALLEEN_CHR_xan: "Xan" #!Empty_LineInfo!
-	FALLEEN_CHR_ver: "Ver" #!Empty_LineInfo!
-	FALLEEN_CHR_cric: "Cric" #!Empty_LineInfo!
-	FALLEEN_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
-	FALLEEN_CHR_xandral: "Xandral" #!Empty_LineInfo!
-	FALLEEN_CHR_xander: "Xander" #!Empty_LineInfo!
-	FALLEEN_CHR_baz: "Baz" #!Empty_LineInfo!
-	FALLEEN_CHR_zuud: "Zuud" #!Empty_LineInfo!
-	FALLEEN_CHR_erek: "Erek" #!Empty_LineInfo!
-	FALLEEN_CHR_zon: "Zon" #!Empty_LineInfo!
-	FALLEEN_CHR_karrst: "Karrst" #!Empty_LineInfo!
-	FALLEEN_CHR_varl: "Varl" #!Empty_LineInfo!
-	FALLEEN_CHR_vanukar: "Vanukar" #!Empty_LineInfo!
-	FALLEEN_CHR_talan: "Talan" #!Empty_LineInfo!
-	FALLEEN_CHR_varell: "Varell" #!Empty_LineInfo!
-	FALLEEN_CHR_kannon: "Kannon" #!Empty_LineInfo!
-	FALLEEN_CHR_kaden: "Kaden" #!Empty_LineInfo!
-	FALLEEN_CHR_sarev: "Sarev" #!Empty_LineInfo!
-	FALLEEN_CHR_xargon: "Xargon" #!Empty_LineInfo!
-	FALLEEN_CHR_zeto: "Zeto" #!Empty_LineInfo!
-	FALLEEN_CHR_zhios: "Zhios" #!Empty_LineInfo!
-	FALLEEN_CHR_xarga: "Xarga" #!Empty_LineInfo!
-	FALLEEN_CHR_flash: "Flash" #!Empty_LineInfo!
-	FALLEEN_CHR_waseem: "Waseem" #!Empty_LineInfo!
-	FALLEEN_CHR_bendak: "Bendak" #!Empty_LineInfo!
-	FALLEEN_CHR_kaz: "Kaz" #!Empty_LineInfo!
-	FALLEEN_CHR_vrath: "Vrath" #!Empty_LineInfo!
-	FALLEEN_CHR_zellos: "Zellos" #!Empty_LineInfo!
-	FALLEEN_CHR_xalven: "Xalven" #!Empty_LineInfo!
-	FALLEEN_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
-	FALLEEN_CHR_zhou: "Zhou" #!Empty_LineInfo!
-	FALLEEN_CHR_rebar: "Rebar" #!Empty_LineInfo!
-	FALLEEN_CHR_vander: "Vander" #!Empty_LineInfo!
-	FALLEEN_CHR_aramil: "Aramil" #!Empty_LineInfo!
-	FALLEEN_CHR_vandro: "Vandro" #!Empty_LineInfo!
-	FALLEEN_CHR_caalin: "Caalin" #!Empty_LineInfo!
-	FALLEEN_CHR_vanth: "Vanth" #!Empty_LineInfo!
-	FALLEEN_CHR_vikar: "Vikar" #!Empty_LineInfo!
-	FALLEEN_CHR_zan: "Zan" #!Empty_LineInfo!
-	FALLEEN_CHR_zentilo: "Zentilo" #!Empty_LineInfo!
-	FALLEEN_CHR_vasp: "Vasp" #!Empty_LineInfo!
-	FALLEEN_CHR_predor: "Predor" #!Empty_LineInfo!
-	FALLEEN_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
-	FALLEEN_CHR_boaz: "Boaz" #!Empty_LineInfo!
-	FALLEEN_CHR_zem: "Zem" #!Empty_LineInfo!
-	FALLEEN_CHR_zander: "Zander" #!Empty_LineInfo!
-	FALLEEN_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
-	FALLEEN_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
-	FALLEEN_CHR_zharen: "Zharen" #!Empty_LineInfo!
-	FALLEEN_CHR_sogan: "Sogan" #!Empty_LineInfo!
-	FALLEEN_CHR_varek: "Varek" #!Empty_LineInfo!
-	FALLEEN_CHR_svante: "Svante" #!Empty_LineInfo!
-	FALLEEN_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
-	FALLEEN_CHR_xar_me: "Xar'me" #!Empty_LineInfo!
-	FALLEEN_CHR_dekar: "Dekar" #!Empty_LineInfo!
-	FALLEEN_CHR_varazen: "Varazen" #!Empty_LineInfo!
-	FALLEEN_CHR_varak: "Varak" #!Empty_LineInfo!
-	FALLEEN_CHR_zadran: "Zadran" #!Empty_LineInfo!
-	FALLEEN_CHR_kaddreth: "Kaddreth" #!Empty_LineInfo!
-	FALLEEN_CHR_zyix: "Zyix" #!Empty_LineInfo!
-	FALLEEN_CHR_savan: "Savan" #!Empty_LineInfo!
-	FALLEEN_CHR_obs: "Obs" #!Empty_LineInfo!
-	FALLEEN_CHR_sizhran: "Sizhran" #!Empty_LineInfo!
-	FALLEEN_CHR_kamlin: "Kamlin" #!Empty_LineInfo!
-	FALLEEN_CHR_mylla: "Mylla" #!Empty_LineInfo!
-	FALLEEN_CHR_seena: "Seena" #!Empty_LineInfo!
-	FALLEEN_CHR_areta: "Areta" #!Empty_LineInfo!
-	FALLEEN_CHR_natua: "Natua" #!Empty_LineInfo!
-	FALLEEN_CHR_xora: "Xora" #!Empty_LineInfo!
-	FALLEEN_CHR_nile: "Nile" #!Empty_LineInfo!
-	FALLEEN_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
-	FALLEEN_CHR_kasmyn: "Kasmyn" #!Empty_LineInfo!
-	FALLEEN_CHR_satra: "Satra" #!Empty_LineInfo!
-	FALLEEN_CHR_shehish: "Shehish" #!Empty_LineInfo!
-	FALLEEN_CHR_sarna: "Sarna" #!Empty_LineInfo!
-	FALLEEN_CHR_krava: "Krava" #!Empty_LineInfo!
-	FALLEEN_CHR_mavari: "Mavari" #!Empty_LineInfo!
-	FALLEEN_CHR_xishel: "Xishel" #!Empty_LineInfo!
-	FALLEEN_CHR_aqua: "Aqua" #!Empty_LineInfo!
-	FALLEEN_CHR_maryna: "Maryna" #!Empty_LineInfo!
-	FALLEEN_CHR_essaj: "Essaj" #!Empty_LineInfo!
-	FALLEEN_CHR_varda: "Varda" #!Empty_LineInfo!
-	FALLEEN_CHR_teeana: "Teeana" #!Empty_LineInfo!
-	FALLEEN_CHR_raena: "Raena" #!Empty_LineInfo!
-	FALLEEN_CHR_xula: "Xula" #!Empty_LineInfo!
-	FALLEEN_CHR_vifi: "Vifi" #!Empty_LineInfo!
-	FALLEEN_CHR_vania: "Vania" #!Empty_LineInfo!
-	FALLEEN_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
-	FALLEEN_CHR_aerena: "Aerena" #!Empty_LineInfo!
-	FALLEEN_CHR_nataya: "Nataya" #!Empty_LineInfo!
-	FALLEEN_CHR_vernida: "Vernida" #!Empty_LineInfo!
-	FALLEEN_CHR_kavala: "Kavala" #!Empty_LineInfo!
-	FALLEEN_CHR_karella: "Karella" #!Empty_LineInfo!
-	FALLEEN_CHR_sirra: "Sirra" #!Empty_LineInfo!
-	FALLEEN_CHR_variise: "Variise" #!Empty_LineInfo!
-	FALLEEN_CHR_varla: "Varla" #!Empty_LineInfo!
-	FALLEEN_CHR_xuss: "Xuss" #!Empty_LineInfo!
-	FALLEEN_CHR_riema: "Riema" #!Empty_LineInfo!
-	FALLEEN_CHR_erri: "Erri" #!Empty_LineInfo!
-	FALLEEN_CHR_shanna: "Shanna" #!Empty_LineInfo!
-	FALLEEN_CHR_lyra: "Lyra" #!Empty_LineInfo!
-	FALLEEN_CHR_valera: "Valera" #!Empty_LineInfo!
-	FALLEEN_CHR_zenoc: "Zenoc" #!Empty_LineInfo!
-	FALLEEN_CHR_zera: "Zera" #!Empty_LineInfo!
-	FALLEEN_CHR_viqi: "Viqi" #!Empty_LineInfo!
-	FALLEEN_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
-	FALLEEN_CHR_vixtra: "Vixtra" #!Empty_LineInfo!
-	FALLEEN_CHR_selena: "Selena" #!Empty_LineInfo!
-	FALLEEN_CHR_zana: "Zana" #!Empty_LineInfo!
-	FALLEEN_CHR_tuija: "Tuija" #!Empty_LineInfo!
-	FALLEEN_CHR_railin: "Railin" #!Empty_LineInfo!
-	FALLEEN_CHR_sassi: "Sassi" #!Empty_LineInfo!
-	FALLEEN_CHR_shyon: "Shyon" #!Empty_LineInfo!
-	FALLEEN_CHR_zelen: "Zelen" #!Empty_LineInfo!
-	FALLEEN_CHR_rylla: "Rylla" #!Empty_LineInfo!
-	FALLEEN_CHR_kavara: "Kavara" #!Empty_LineInfo!
-	FALLEEN_CHR_vau: "Vau" #!Empty_LineInfo!
-	FALLEEN_CHR_zema: "Zema" #!Empty_LineInfo!
-	FALLEEN_CHR_xanta: "Xanta" #!Empty_LineInfo!
-	FALLEEN_CHR_kazala: "Kazala" #!Empty_LineInfo!
-	FALLEEN_CHR_aama: "Aama" #!Empty_LineInfo!
-	FALLEEN_CHR_shorya: "Shorya" #!Empty_LineInfo!
-	FALLEEN_CHR_melfina: "Melfina" #!Empty_LineInfo!
-	FALLEEN_CHR_davessi: "Davessi" #!Empty_LineInfo!
-	FALLEEN_CHR_larana: "Larana" #!Empty_LineInfo!
-	FALLEEN_CHR_xaverri: "Xaverri" #!Empty_LineInfo!
-	FALLEEN_CHR_nola: "Nola" #!Empty_LineInfo!
-	FALLEEN_CHR_xanda: "Xanda" #!Empty_LineInfo!
-	FALLEEN_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
-	FALLEEN_CHR_zyna: "Zyna" #!Empty_LineInfo!
-	FALLEEN_CHR_xevrina: "Xevrina" #!Empty_LineInfo!
-	FALLEEN_CHR_yana: "Yana" #!Empty_LineInfo!
-	FALLEEN_CHR_zoras: "Zoras" #!Empty_LineInfo!
-	FALLEEN_CHR_ree: "Ree" #!Empty_LineInfo!
-	FALLEEN_CHR_grace: "Grace" #!Empty_LineInfo!
-	FALLEEN_CHR_tantema: "Tantema" #!Empty_LineInfo!
-	FALLEEN_CHR_van: "Van" #!Empty_LineInfo!
-	FALLEEN_CHR_una: "Una" #!Empty_LineInfo!
-	FALLEEN_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
-	FALLEEN_CHR_xerna: "Xerna" #!Empty_LineInfo!
-	FALLEEN_CHR_sovi: "Sovi" #!Empty_LineInfo!
-	FALLEEN_CHR_sartya: "Sartya" #!Empty_LineInfo!
-	FALLEEN_CHR_vucora: "Vucora" #!Empty_LineInfo!
-	FALLEEN_CHR_xasha: "Xasha" #!Empty_LineInfo!
-	FALLEEN_CHR_joi: "Joi" #!Empty_LineInfo!
-	FALLEEN_CHR_stryka: "Stryka" #!Empty_LineInfo!
-	FALLEEN_CHR_shandra: "Shandra" #!Empty_LineInfo!
-	FALLEEN_CHR_zilpha: "Zilpha" #!Empty_LineInfo!
-	FALLEEN_CHR_veraslayn: "Veraslayn" #!Empty_LineInfo!
-	FALLEEN_CHR_karin: "Karin" #!Empty_LineInfo!
-	FALLEEN_CHR_siala: "Siala" #!Empty_LineInfo!
-	FALLEEN_CHR_reki: "Reki" #!Empty_LineInfo!
-	FALLEEN_CHR_maydla: "Maydla" #!Empty_LineInfo!
-	FALLEEN_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
-	FALLEEN_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
-	FALLEEN_CHR_zulara: "Zulara" #!Empty_LineInfo!
-	FALLEEN_CHR_viehenda: "Viehenda" #!Empty_LineInfo!
-	FALLEEN_CHR_karissa: "Karissa" #!Empty_LineInfo!
-	FALLEEN_CHR_zilar: "Zilar" #!Empty_LineInfo!
-	FALLEEN_CHR_haruko: "Haruko" #!Empty_LineInfo!
-	FALLEEN_CHR_kana: "Kana" #!Empty_LineInfo!
-	FALLEEN_CHR_liana: "Liana" #!Empty_LineInfo!
-	FALLEEN_CHR_rale: "Rale" #!Empty_LineInfo!
-	FALLEEN_CHR_megara: "Megara" #!Empty_LineInfo!
-	FALLEEN_CHR_aria: "Aria" #!Empty_LineInfo!
-	FALLEEN_CHR_akiva: "Akiva" #!Empty_LineInfo!
-	FALLEEN_CHR_nalah: "Nalah" #!Empty_LineInfo!
-	FALLEEN_CHR_erlem: "Erlem" #!Empty_LineInfo!
-	FALLEEN_CHR_nali: "Nali" #!Empty_LineInfo!
-	FALLEEN_CHR_fallah: "Fallah" #!Empty_LineInfo!
-	FALLEEN_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
-	FALLEEN_CHR_aayla: "Aayla" #!Empty_LineInfo!
-	FALLEEN_CHR_kalira: "Kalira" #!Empty_LineInfo!
-	FALLEEN_CHR_arani: "Arani" #!Empty_LineInfo!
-	FALLEEN_CHR_zota: "Zota" #!Empty_LineInfo!
-	FALLEEN_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
-	FALLEEN_CHR_arcas: "Arcas" #!Empty_LineInfo!
-	FALLEEN_CHR_rane: "Rane" #!Empty_LineInfo!
-	FALLEEN_CHR_nayru: "Nayru" #!Empty_LineInfo!
-	FALLEEN_CHR_zylas: "Zylas" #!Empty_LineInfo!
-	FALLEEN_CHR_vexa: "Vexa" #!Empty_LineInfo!
-	FALLEEN_CHR_xea: "Xea" #!Empty_LineInfo!
-	FALLEEN_CHR_grunseit: "Grunseit" #!Empty_LineInfo!
-	FALLEEN_CHR_kaj: "Kaj" #!Empty_LineInfo!
-	FALLEEN_CHR_wahia: "Wahia" #!Empty_LineInfo!
-	FALLEEN_CHR_mithric: "Mithric" #!Empty_LineInfo!
-	FALLEEN_CHR_unic: "Unic" #!Empty_LineInfo!
-	FALLEEN_CHR_xiss: "Xiss" #!Empty_LineInfo!
-	FALLEEN_CHR_nakcohh: "Nakcohh" #!Empty_LineInfo!
-	FALLEEN_CHR_vitaan: "Vitaan" #!Empty_LineInfo!
-	FALLEEN_CHR_varo: "Varo" #!Empty_LineInfo!
-	FALLEEN_CHR_daklan: "Daklan" #!Empty_LineInfo!
-	FALLEEN_CHR_kenzee: "Kenzee" #!Empty_LineInfo!
-	FALLEEN_CHR_kamiroz: "Kamiroz" #!Empty_LineInfo!
-	FALLEEN_CHR_thegas: "Thegas" #!Empty_LineInfo!
-	FALLEEN_CHR_moryne: "Moryne" #!Empty_LineInfo!
-	FALLEEN_CHR_valda: "Valda" #!Empty_LineInfo!
-	FALLEEN_CHR_sato: "Sato" #!Empty_LineInfo!
-	FALLEEN_CHR_vekozev: "Vekozev" #!Empty_LineInfo!
-	FALLEEN_CHR_zykken: "Zykken" #!Empty_LineInfo!
-	FALLEEN_CHR_sassich: "Sassich" #!Empty_LineInfo!
-	FALLEEN_CHR_zo: "Zo" #!Empty_LineInfo!
-	FALLEEN_CHR_lasek: "Lasek" #!Empty_LineInfo!
-	FALLEEN_CHR_valladian: "Valladian" #!Empty_LineInfo!
-	FALLEEN_CHR_zuma: "Zuma" #!Empty_LineInfo!
-	FALLEEN_CHR_vane: "Vane" #!Empty_LineInfo!
-	FALLEEN_CHR_wan: "Wan" #!Empty_LineInfo!
-	FALLEEN_CHR_vanten: "Vanten" #!Empty_LineInfo!
-	FALLEEN_CHR_valkaz: "Valkaz" #!Empty_LineInfo!
-	FALLEEN_CHR_zirkonn: "Zirkonn" #!Empty_LineInfo!
-	FALLEEN_CHR_rar: "Rar" #!Empty_LineInfo!
-	FALLEEN_CHR_sartoris: "Sartoris" #!Empty_LineInfo!
-	FALLEEN_CHR_kessler: "Kessler" #!Empty_LineInfo!
-	FALLEEN_CHR_shaia: "Shaia" #!Empty_LineInfo!
-	FALLEEN_CHR_zo_tannath: "Zo'Tannath" #!Empty_LineInfo!
-	FALLEEN_CHR_zar: "Zar" #!Empty_LineInfo!
-	FALLEEN_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
-	FALLEEN_CHR_zackin: "Zackin" #!Empty_LineInfo!
-	FALLEEN_CHR_sazek: "Sazek" #!Empty_LineInfo!
-	FALLEEN_CHR_zian: "Zian" #!Empty_LineInfo!
-	FALLEEN_CHR_zett: "Zett" #!Empty_LineInfo!
-	FALLEEN_CHR_kang: "Kang" #!Empty_LineInfo!
-	FALLEEN_CHR_nalto: "Nalto" #!Empty_LineInfo!
-	FALLEEN_CHR_zural: "Zural" #!Empty_LineInfo!
-	FALLEEN_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
-	FALLEEN_CHR_colsan: "Colsan" #!Empty_LineInfo!
-	FALLEEN_CHR_zhanks: "Zhanks" #!Empty_LineInfo!
-	FALLEEN_CHR_solon: "Solon" #!Empty_LineInfo!
-	FALLEEN_CHR_merquise: "Merquise" #!Empty_LineInfo!
-	FALLEEN_CHR_varn: "Varn" #!Empty_LineInfo!
-	FALLEEN_CHR_basai: "Basai" #!Empty_LineInfo!
-	FALLEEN_CHR_vallan: "Vallan" #!Empty_LineInfo!
-	FALLEEN_CHR_xanosro: "Xanosro" #!Empty_LineInfo!
-	FALLEEN_CHR_elyxsar: "Elyxsar" #!Empty_LineInfo!
-	FALLEEN_CHR_zindalai: "Zindalai" #!Empty_LineInfo!
-	FALLEEN_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
-	FALLEEN_CHR_remex: "Remex" #!Empty_LineInfo!
-	FALLEEN_CHR_sarreti: "Sarreti" #!Empty_LineInfo!
-	FALLEEN_CHR_xandret: "Xandret" #!Empty_LineInfo!
-	FALLEEN_CHR_dago: "Dago" #!Empty_LineInfo!
-	FALLEEN_CHR_moj: "Moj" #!Empty_LineInfo!
-	FALLEEN_CHR_stithta: "Stithta" #!Empty_LineInfo!
-	FALLEEN_CHR_ker: "Ker" #!Empty_LineInfo!
-	FALLEEN_CHR_zenfrei: "Zenfrei" #!Empty_LineInfo!
-	FALLEEN_CHR_klakk: "Klakk" #!Empty_LineInfo!
-	FALLEEN_CHR_zhorrid: "Zhorrid" #!Empty_LineInfo!
-	FALLEEN_CHR_lefex: "Lefex" #!Empty_LineInfo!
-	FALLEEN_CHR_minn: "Minn" #!Empty_LineInfo!
-	FALLEEN_CHR_irokini: "Irokini" #!Empty_LineInfo!
-	FALLEEN_CHR_zin_zula: "zin'Zula" #!Empty_LineInfo!
-	FALLEEN_CHR_danakar: "Danakar" #!Empty_LineInfo!
-	FALLEEN_CHR_zenlav: "Zenlav" #!Empty_LineInfo!
-	FALLEEN_CHR_xrexus: "Xrexus" #!Empty_LineInfo!
-	FALLEEN_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
-	FALLEEN_CHR_corcer: "Corcer" #!Empty_LineInfo!
-	FALLEEN_CHR_zin: "Zin" #!Empty_LineInfo!
-	FALLEEN_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
-	FALLEEN_CHR_golladio: "Golladio" #!Empty_LineInfo!
-	FALLEEN_CHR_xarran: "Xarran" #!Empty_LineInfo!
-	FALLEEN_CHR_xodell: "Xodell" #!Empty_LineInfo!
-	FALLEEN_CHR_zentis: "Zentis" #!Empty_LineInfo!
-	FALLEEN_CHR_valn: "Valn" #!Empty_LineInfo!
-	FALLEEN_CHR_ziering: "Ziering" #!Empty_LineInfo!
-	FALLEEN_CHR_valan: "Valan" #!Empty_LineInfo!
-	FALLEEN_CHR_angavel: "Angavel" #!Empty_LineInfo!
-	FALLEEN_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
-	FALLEEN_CHR_zothip: "Zothip" #!Empty_LineInfo!
-	FALLEEN_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
-	FALLEEN_CHR_valoruk: "Valoruk" #!Empty_LineInfo!
-	FALLEEN_CHR_zsing: "Zsing" #!Empty_LineInfo!
-	FALLEEN_CHR_tisa: "Tisa" #!Empty_LineInfo!
-	FALLEEN_CHR_xion: "Xion" #!Empty_LineInfo!
-	FALLEEN_CHR_soylon: "Soylon" #!Empty_LineInfo!
-	FALLEEN_CHR_lerann: "Lerann" #!Empty_LineInfo!
-	FALLEEN_CHR_chro: "Chro" #!Empty_LineInfo!
-	FALLEEN_CHR_ziam: "Ziam" #!Empty_LineInfo!
-	FALLEEN_CHR_zell: "Zell" #!Empty_LineInfo!
-	FALLEEN_CHR_zenzo: "Zenzo" #!Empty_LineInfo!
-	FALLEEN_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
-	FALLEEN_CHR_zokar: "Zokar" #!Empty_LineInfo!
-	FALLEEN_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
-	FALLEEN_CHR_zorn: "Zorn" #!Empty_LineInfo!
-	FALLEEN_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
-	FALLEEN_CHR_zibsara: "Zibsara" #!Empty_LineInfo!
-	FALLEEN_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
-	FALLEEN_CHR_kodd: "Kodd" #!Empty_LineInfo!
-	FALLEEN_CHR_morin: "Morin" #!Empty_LineInfo!
-	FALLEEN_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
-	FALLEEN_CHR_tade: "Tade" #!Empty_LineInfo!
-	FALLEEN_CHR_zhord: "Zhord" #!Empty_LineInfo!
-	FALLEEN_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
-	FALLEEN_CHR_zev: "Zev" #!Empty_LineInfo!
-	FALLEEN_CHR_precore: "Precore" #!Empty_LineInfo!
-	FALLEEN_CHR_solborne: "Solborne" #!Empty_LineInfo!
-	FALLEEN_CHR_sarne: "Sarne" #!Empty_LineInfo!
-	FALLEEN_CHR_katarn: "Katarn" #!Empty_LineInfo!
-	FALLEEN_CHR_anjek: "Anjek" #!Empty_LineInfo!
-	FALLEEN_CHR_zmittri: "Zmittri" #!Empty_LineInfo!
-	FALLEEN_CHR_kast: "Kast" #!Empty_LineInfo!
-	FALLEEN_CHR_airerith: "Airerith" #!Empty_LineInfo!
-	FALLEEN_CHR_tarrid: "Tarrid" #!Empty_LineInfo!
-	FALLEEN_CHR_ziemba: "Ziemba" #!Empty_LineInfo!
-	FALLEEN_CHR_zho: "Zho" #!Empty_LineInfo!
-	FALLEEN_CHR_jalba: "Jalba" #!Empty_LineInfo!
-	FALLEEN_CHR_benn: "Benn" #!Empty_LineInfo!
-	FALLEEN_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
-	FALLEEN_CHR_roice: "Roice" #!Empty_LineInfo!
-	FALLEEN_CHR_lokar: "Lokar" #!Empty_LineInfo!
-	FALLEEN_CHR_korpil: "Korpil" #!Empty_LineInfo!
-	FALLEEN_CHR_turon: "Turon" #!Empty_LineInfo!
-	FALLEEN_CHR_cavi: "Cavi" #!Empty_LineInfo!
-	FALLEEN_CHR_deece: "Deece" #!Empty_LineInfo!
-	FALLEEN_CHR_braitano: "Braitano" #!Empty_LineInfo!
-	FALLEEN_CHR_zilnor: "Zilnor" #!Empty_LineInfo!
-	FALLEEN_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
-	FALLEEN_CHR_zepwim: "Zepwim" #!Empty_LineInfo!
-	FALLEEN_CHR_xerk: "Xerk" #!Empty_LineInfo!
-	FALLEEN_CHR_drayven: "Drayven" #!Empty_LineInfo!
-	FALLEEN_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
-	FALLEEN_CHR_zend: "Zend" #!Empty_LineInfo!
-	FALLEEN_CHR_defelice: "Defelice" #!Empty_LineInfo!
-	FALLEEN_CHR_zerex: "Zerex" #!Empty_LineInfo!
-	FALLEEN_CHR_zey: "Zey" #!Empty_LineInfo!
-	FALLEEN_CHR_sarvool: "Sarvool" #!Empty_LineInfo!
-	FALLEEN_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
-	FALLEEN_CHR_xergo: "Xergo" #!Empty_LineInfo!
-	FALLEEN_CHR_sarat: "Sarat" #!Empty_LineInfo!
-	FALLEEN_CHR_vercet: "Vercet" #!Empty_LineInfo!
-	FALLEEN_CHR_zerga: "Zerga" #!Empty_LineInfo!
-	FALLEEN_CHR_zudan: "Zudan" #!Empty_LineInfo!
-	FALLEEN_CHR_zuur: "Zuur" #!Empty_LineInfo!
-	FALLEEN_CHR_xzushal: "Xzushal" #!Empty_LineInfo!
-	FALLEEN_CHR_xizor: "Xizor" #!Empty_LineInfo!
-	FALLEEN_CHR_zurros: "Zurros" #!Empty_LineInfo!
-	FALLEEN_CHR_ziton: "Ziton" #!Empty_LineInfo!
-	FALLEEN_CHR_zann: "Zann" #!Empty_LineInfo!
-	FALLEEN_CHR_tanner: "Tanner" #!Empty_LineInfo!
-	FALLEEN_CHR_vi: "Vi" #!Empty_LineInfo!
-	FALLEEN_CHR_rush: "Rush" #!Empty_LineInfo!
-	FALLEEN_CHR_danry: "Danry" #!Empty_LineInfo!
-	FALLEEN_CHR_zule: "Zule" #!Empty_LineInfo!
-	FALLEEN_CHR_senna: "Senna" #!Empty_LineInfo!
-	FALLEEN_CHR_bana: "Bana" #!Empty_LineInfo!
-	FALLEEN_CHR_xanya: "Xanya" #!Empty_LineInfo!
-	FALLEEN_CHR_zexa: "Zexa" #!Empty_LineInfo!
-	FALLEEN_CHR_andrell: "Andrell" #!Empty_LineInfo!
-	FALLEEN_CHR_varrak: "Varrak" #!Empty_LineInfo!
-	FALLEEN_CHR_xiono: "Xiono" #!Empty_LineInfo!
-	FALLEEN_CHR_varga: "Varga" #!Empty_LineInfo!
-	FALLEEN_CHR_sarke: "Sarke" #!Empty_LineInfo!
+ FALLEEN_SHIP_footpad: "Подставка для ног"
+ FALLEEN_SHIP_assassin: "Убийца"
+ FALLEEN_SHIP_executioner: "Палач"
+ FALLEEN_SHIP_butcher: "Мясник"
+ FALLEEN_SHIP_hired_gun: "Наемный убийца"
+ FALLEEN_SHIP_exterminator: "Уничтожитель"
+ FALLEEN_SHIP_liquidator: "Ликвидатор"
+ FALLEEN_SHIP_thuggee: "Бандит"
+ FALLEEN_SHIP_swindler: "Мошенник"
+ FALLEEN_SHIP_deceiver: "Обманщик"
+ FALLEEN_SHIP_viper: "Гадюка"
+ FALLEEN_SHIP_serpent: "Змей"
+ FALLEEN_SHIP_adder: "Сумматор"
+ FALLEEN_SHIP_viper_s_kiss: "Поцелуй гадюки"
+ FALLEEN_SHIP_molder: "Формовщик"
+ FALLEEN_SHIP_robber_barron: "Грабитель Бэррон"
+ FALLEEN_SHIP_burglar: "Грабитель"
+ FALLEEN_SHIP_mugger: "Грабитель"
+ FALLEEN_SHIP_raider: "Рейдер"
+ FALLEEN_SHIP_looter: "Мародер"
+ FALLEEN_SHIP_pillager: "Грабитель"
+ FALLEEN_SHIP_pilferer: "Воришка"
+ FALLEEN_SHIP_solar_thief: "Похититель солнца"
+ FALLEEN_SHIP_bandit: "Бандит"
+ FALLEEN_SHIP_brigand: "Разбойник"
+ FALLEEN_SHIP_highwayman: "Разбойник с большой дороги"
+ FALLEEN_SHIP_dacoit: "Бандит"
+ FALLEEN_SHIP_marauder: "Мародер"
+ FALLEEN_SHIP_poison: "Яд"
+ FALLEEN_SHIP_stiletto: "Стилет"
+ FALLEEN_SHIP_bodkin: "Бодкин"
+ FALLEEN_SHIP_cutlass: "Кортик"
+ FALLEEN_SHIP_dirk: "Кортик"
+ FALLEEN_SHIP_poniard: "Кинжал"
+ FALLEEN_SHIP_scalpel: "Скальпель"
+ FALLEEN_SHIP_sickle: "Серп"
+ FALLEEN_SHIP_sabre: "Сейбр"
+ FALLEEN_SHIP_scimitar: "Ятаган"
+ FALLEEN_SHIP_scythe: "Коса"
+ FALLEEN_SHIP_shank: "Хвостовик"
+ FALLEEN_SHIP_shiv: "Заточка"
+ FALLEEN_SHIP_switchblade: "Складной нож"
+ FALLEEN_SHIP_tickler: "Щекотун"
+ FALLEEN_SHIP_skiver: "Скивер"
+ FALLEEN_SHIP_strongarm: "Сильное оружие"
+ FALLEEN_SHIP_bully_boy: "Мальчик-хулиган"
+ FALLEEN_SHIP_coercer: "Принуждающий"
+ FALLEEN_SHIP_intimidator: "Устрашитель"
+ FALLEEN_SHIP_cheap_shot: "Дешевый выстрел"
+ FALLEEN_SHIP_black_eye: "Подбитый глаз"
+ FALLEEN_SHIP_invective_rex: "Инвективный король"
+ FALLEEN_SHIP_opprobrium: "Поношение"
+ FALLEEN_SHIP_impertinence: "Дерзость"
+ FALLEEN_SHIP_impudence: "Наглость"
+ FALLEEN_SHIP_ignominy: "Позор"
+ FALLEEN_SHIP_slanderer: "Клеветник"
+ FALLEEN_SHIP_whisperer: "Шепчущий"
+ FALLEEN_SHIP_maven: "Мэйвен"
+ FALLEEN_SHIP_vitriol: "Купорос"
+ FALLEEN_SHIP_shipcracker: "Взломщик кораблей"
+ FALLEEN_SHIP_implication: "Подтекст"
+ FALLEEN_SHIP_capo: "Капо"
+ FALLEEN_SHIP_right_hand: "Правая Рука"
+ FALLEEN_SHIP_left_hand: "Левая рука"
+ FALLEEN_SHIP_big_boss: "Большой босс"
+ FALLEEN_SHIP_godfather: "Крестный отец"
+ FALLEEN_SHIP_godmother: "Крестная мать"
+ FALLEEN_SHIP_made_man: "Созданный человек"
+ FALLEEN_SHIP_wook_s_charm: "Очарование Вука"
+ FALLEEN_SHIP_silent_goodbye: "Тихое прощание"
+ FALLEEN_SHIP_goodnight: "Спокойной ночи"
+ FALLEEN_SHIP_kneecapper: "Наколенник"
+ FALLEEN_SHIP_tail_snapper: "Кусачий хвост"
+ FALLEEN_SHIP_protection_money: "Деньги на защиту"
+ FALLEEN_SHIP_air_quotes: "Воздушные кавычки"
+ FALLEEN_SHIP_payoff: "Выигрыш"
+ FALLEEN_SHIP_payback: "Расплата"
+ FALLEEN_SHIP_waste_manager: "Менеджер по отходам"
+ FALLEEN_SHIP_ill_omen: "Дурное предзнаменование"
+ FALLEEN_SHIP_heavy_hitter: "Тяжелый атакующий"
+ FALLEEN_SHIP_dame: "Дама"
+ FALLEEN_SHIP_fait_accompli: "Свершившийся факт"
+ FALLEEN_SHIP_irreversible: "Необратимый"
+ FALLEEN_SHIP_indebted: "Задолженность"
+ FALLEEN_SHIP_quiet_knife: "Тихий нож"
+ FALLEEN_SHIP_racket: "Рэкет"
+ FALLEEN_SHIP_cosa_nostra: "Коза Ностра"
+ FALLEEN_SHIP_salvatore: "Сальваторе"
+ FALLEEN_SHIP_masseria: "Массерия"
+ FALLEEN_SHIP_rizzuti_s_end: "Конец Риццути"
+ FALLEEN_SHIP_blood_water: "Кровавая вода"
+ FALLEEN_SHIP_don_of_civilization: "Дон цивилизации"
+ FALLEEN_SHIP_corleone: "Корлеоне"
+ FALLEEN_SHIP_heartbreak_kid: "Ребенок с разбитым сердцем"
+ FALLEEN_SHIP_associate: "Партнер"
+ FALLEEN_SHIP_duracrete_shoe: "Дюракритовый башмак"
+ FALLEEN_SHIP_clipper: "Клипер"
+ FALLEEN_SHIP_code_of_silence: "Кодекс молчания"
+ FALLEEN_SHIP_consigliere: "Консильери"
+ FALLEEN_SHIP_cugine: "Кьюджин"
+ FALLEEN_SHIP_earner: "Добытчик"
+ FALLEEN_SHIP_initiator: "Инициатор"
+ FALLEEN_SHIP_message_job: "Задание сообщения"
+ FALLEEN_SHIP_oathbound: "Связанный клятвой"
+ FALLEEN_SHIP_temporary_reprieve: "Временная отсрочка"
+ FALLEEN_SHIP_shy_prince: "Застенчивый принц"
+ FALLEEN_SHIP_underboss: "Младший босс"
+ FALLEEN_SHIP_vigorish: "Энергичный"
+ FALLEEN_SHIP_second_nephew: "Второй племянник"
+ FALLEEN_SHIP_falleen_s_fury: "Ярость Фоллина"
+ FALLEEN_SHIP_falleen_s_fist: "Кулак Фоллина"
+ FALLEEN_SHIP_anzat_one: "Анзат Один"
+ FALLEEN_SHIP_arc_razor: "Дуговая бритва"
+ FALLEEN_SHIP_azure_queen: "Лазурная королева"
+ FALLEEN_SHIP_yanov: "Янов"
+ FALLEEN_SHIP_lupus_maroo: "Люпус Мару"
+ FALLEEN_SHIP_virago: "Вираго"
+ FALLEEN_SHIP_venomator: "Веноматор"
+ FALLEEN_SHIP_vendetta: "Вендетта"
+ FALLEEN_SHIP_stinger: "Стингер"
+ FALLEEN_SHIP_scarlet_vertha: "Алая Верта"
+ FALLEEN_SHIP_tragic_flaw: "Трагический изъян"
+ FALLEEN_SHIP_raptor: "Раптор"
+ FALLEEN_SHIP_rude_awakening: "Грубое пробуждение"
+ FALLEEN_SHIP_racketeer: "Рэкетир"
+ FALLEEN_SHIP_hooligan: "Хулиган"
+ FALLEEN_SHIP_bedlam: "Бедлам"
+ FALLEEN_SHIP_desperado: "Отчаянный"
+ FALLEEN_SHIP_ruthless: "Безжалостный"
+ FALLEEN_SHIP_pitiless: "безжалостный"
+ FALLEEN_SHIP_merciless: "Беспощадный"
+ FALLEEN_SHIP_libertine: "Распутник"
+ FALLEEN_SHIP_visible_hand: "Видимая рука"
+ FALLEEN_SHIP_high_jack: "Высокий Джек"
+ FALLEEN_SHIP_low_blow: "Непростительный удар"
+ FALLEEN_SHIP_lackey: "Лакей"
+ FALLEEN_SHIP_rough_hand: "Грубая рука"
+ FALLEEN_SHIP_delinquent: "Правонарушитель"
+ FALLEEN_SHIP_derelict: "Покинутый"
+ FALLEEN_SHIP_dereliction: "Оставление"
+ FALLEEN_SHIP_razor_walk: "Прогулка по лезвию"
+ FALLEEN_SHIP_hamstringer: "Подколенное сухожилие"
+ FALLEEN_SHIP_degenerate: "Дегенерат"
+ FALLEEN_SHIP_profligate: "Распутник"
+ FALLEEN_SHIP_shakedown: "Вымогательство"
+ FALLEEN_SHIP_ruffian: "Негодяй"
+ FALLEEN_SHIP_heist: "Ограбление"
+ FALLEEN_SHIP_last_caper: "Последний трюк"
+ FALLEEN_SHIP_stickup: "Ограбление"
+ FALLEEN_SHIP_breakout: "Прорыв"
+ FALLEEN_SHIP_impulsive: "Импульсивный"
+ FALLEEN_SHIP_concierge: "Консьерж"
+ FALLEEN_SHIP_liecentious: "Лживый"
+ FALLEEN_SHIP_salacious: "Непристойный"
+ FALLEEN_SHIP_fluid_meaning: "Гибкое намерение"
+ FALLEEN_SHIP_recumbent_end: "Лежачий конец"
+ FALLEEN_SHIP_dirt_nap: "Грязный ворс"
+ FALLEEN_SHIP_spoiler: "Спойлер"
+ FALLEEN_SHIP_recalcitrant: "Непокорный"
+ FALLEEN_SHIP_strumpet: "Шлюха"
+ FALLEEN_SHIP_brazen: "Наглый"
+ FALLEEN_SHIP_charlatan: "Шарлатан"
+ FALLEEN_SHIP_punishing_one: "Карающий"
+ FALLEEN_SHIP_troublemaker: "Нарушитель спокойствия"
+ FALLEEN_SHIP_assailant: "Нападавший"
+ FALLEEN_SHIP_disturber: "Нарушитель спокойствия"
+ FALLEEN_SHIP_extortioner: "Вымогатель"
+ FALLEEN_SHIP_blackmail: "Шантаж"
+ FALLEEN_SHIP_outlaw: "Вне закона"
+ FALLEEN_SHIP_stigma: "Стигма"
+ FALLEEN_SHIP_innuendo: "Намек"
+ FALLEEN_SHIP_insinuator: "Инсинуатор"
+ FALLEEN_SHIP_double_tap: "Двойное нажатие"
+ FALLEEN_SHIP_gambit: "Гамбит"
+ FALLEEN_SHIP_ransom: "Выкуп"
+ FALLEEN_SHIP_malcontent: "Недовольный"
+ FALLEEN_SHIP_mischevous: "Озорной"
+ FALLEEN_SHIP_broken_pike: "Сломанная пика"
+ FALLEEN_SHIP_acrimony: "Язвительность"
+ FALLEEN_SHIP_instigator: "Подстрекатель"
+ FALLEEN_SHIP_wanton: "Распутница"
+ FALLEEN_SHIP_line_s_end: "Конец строки"
+ FALLEEN_SHIP_kissed_ring: "Кольцо для поцелуя"
+ FALLEEN_SHIP_ill_repute: "Дурная репутация"
+ FALLEEN_SHIP_crossed_line: "Пересеченная линия"
+ FALLEEN_SHIP_misery_s_end: "Конец страданий"
+ FALLEEN_SHIP_true_grift: "Настоящий мошенник"
+ FALLEEN_SHIP_sleight_of_hand: "Ловкость рук"
+ FALLEEN_SHIP_double_dealer: "Двойной дилер"
+ FALLEEN_SHIP_backstab: "Удар в спину"
+ FALLEEN_SHIP_two_timer: "Двухпозиционный"
+ FALLEEN_SHIP_bad_faith: "Недобросовестность"
+ FALLEEN_SHIP_bad_influence: "Дурное влияние"
+ FALLEEN_SHIP_underhand: "Тайный"
+ FALLEEN_SHIP_infidel: "Неверный"
+ FALLEEN_SHIP_artful_dodger: "Ловкий плут"
+ FALLEEN_SHIP_sucker_punch: "Сокрушительный удар"
+ FALLEEN_SHIP_shade: "Тень"
+ FALLEEN_SHIP_silence: "Тишина"
+ FALLEEN_SHIP_hoaxer: "Мистификатор"
+ FALLEEN_SHIP_harlequin: "Арлекин"
+ FALLEEN_SHIP_dellarte: "Делларт"
+ FALLEEN_SHIP_lazi: "Ленивый"
+ FALLEEN_SHIP_punisher: "Каратель"
+ FALLEEN_SHIP_python: "python"
+ FALLEEN_SHIP_garter: "Подвязка"
+ FALLEEN_SHIP_cobra: "Кобра"
+ FALLEEN_SHIP_anaconda: "Анаконда"
+ FALLEEN_SHIP_scylla: "Сцилла"
+ FALLEEN_SHIP_mamba: "Мамба"
+ FALLEEN_SHIP_taipani: "Тайпани"
+ FALLEEN_SHIP_eminence: "Высокопреосвященство"
+ FALLEEN_SHIP_astute: "Проницательный"
+ FALLEEN_SHIP_alacrity: "Готовность"
+ FALLEEN_SHIP_asp: "Асп"
+ FALLEEN_SHIP_bonarro: "Бонарро"
+ FALLEEN_SHIP_zolombo: "Золомбо"
+ FALLEEN_SHIP_chimbino: "Чимбино"
+ FALLEEN_SHIP_negovese: "Неговезе"
+ FALLEEN_SHIP_lucbrie: "Лакбри"
+ FALLEEN_SHIP_pentad: "Пентад"
+ FALLEEN_SHIP_viddari: "Виддари"
+ FALLEEN_SHIP_vagabond: "Бродяга"
+ FALLEEN_SHIP_pentito: "Пентито"
+ FALLEEN_SHIP_dragnheta: "Драгнета"
+ FALLEEN_SHIP_famorra: "Фаморра"
+ FALLEEN_SHIP_korwickesi: "Корвикеси"
+ FALLEEN_SHIP_pathfinder: "Следопыт"
+ FALLEEN_SHIP_handdio: "Хэндио"
+ FALLEEN_SHIP_commissioner: "Комиссар"
+ FALLEEN_SHIP_expansion: "Расширение"
+ FALLEEN_SHIP_territorial: "Территориальный"
+ FALLEEN_SHIP_manifest_destiny: "Явное Предначертание"
+ FALLEEN_SHIP_claimant: "Истец"
+ FALLEEN_SHIP_potential: "Потенциал"
+ FALLEEN_SHIP_pioneer_spirit: "Дух первопроходца"
+ FALLEEN_SHIP_prosperity: "Процветание"
+ FALLEEN_SHIP_taker: "Берущий"
+ FALLEEN_SHIP_pinnacle: "Вершина"
+ FALLEEN_SHIP_seeder: "Сеялка"
+ FALLEEN_SHIP_harvest: "Урожай"
+ FALLEEN_SHIP_possessor: "Обладатель"
+ FALLEEN_SHIP_franchise: "Франшиза"
+ FALLEEN_SHIP_consumer: "Потребитель"
+ FALLEEN_SHIP_exodus: "Исход"
+ FALLEEN_SHIP_foundation: "Основание"
+ FALLEEN_SHIP_scion: "Наследник"
+ FALLEEN_SHIP_progeny: "Потомство"
+ FALLEEN_SHIP_obligation: "Обязательство"
+ FALLEEN_SHIP_purpose: "Цель"
+ FALLEEN_SHIP_provider: "Провайдер"
+ FALLEEN_SHIP_nova_city: "Нова Сити"
+ FALLEEN_SHIP_acquirer: "Покупатель"
+ FALLEEN_SHIP_cultivator: "Культиватор"
+ FALLEEN_SHIP_dawn_of_falleen: "Рассвет Фоллина"
+ FALLEEN_SHIP_purity: "Чистота"
+ FALLEEN_SHIP_brotherhood: "Братство"
+ FALLEEN_SHIP_industry: "Промышленность"
+ FALLEEN_SHIP_assiduity: "Усидчивость"
+ FALLEEN_SHIP_effort: "Усилие"
+ FALLEEN_SHIP_laborer: "Чернорабочий"
+ FALLEEN_SHIP_builder: "Строитель"
+ FALLEEN_SHIP_craftsman: "Мастер"
+ FALLEEN_SHIP_riina: "Риина"
+ FALLEEN_SHIP_progress: "Прогресс"
+ FALLEEN_SHIP_engineer: "Инженер"
+ FALLEEN_SHIP_promise: "Обещание"
+ FALLEEN_SHIP_service: "Сервис"
+ FALLEEN_SHIP_shelter: "Убежище"
+ FALLEEN_SHIP_beast: "Зверь"
+ FALLEEN_SHIP_creator: "Создатель"
+ FALLEEN_SHIP_developer: "Разработчик"
+ FALLEEN_SHIP_forger: "Фальсификатор"
+ FALLEEN_SHIP_foundry: "Литейный цех"
+ FALLEEN_SHIP_factory: "Фабрика"
+ FALLEEN_SHIP_anvil: "Наковальня"
+ FALLEEN_SHIP_pillar: "Столп"
+ FALLEEN_SHIP_architect: "Архитектор"
+ FALLEEN_SHIP_accommodator: "Жилец"
+ FALLEEN_SHIP_ptah: "Птах"
+ FALLEEN_SHIP_ilmarinen: "Ильмаринен"
+ FALLEEN_SHIP_creidhne: "Крейдне"
+ FALLEEN_SHIP_gobannus: "Гобаннус"
+ FALLEEN_SHIP_luchtaine: "Лучтейн"
+ FALLEEN_SHIP_goibniu: "Гоибниу"
+ FALLEEN_SHIP_mook: "Мук"
+ FALLEEN_SHIP_stiff: "Жесткий"
+ FALLEEN_SHIP_workship: "Рабочее судно"
+ FALLEEN_SHIP_erector: "Эректор"
+ FALLEEN_SHIP_colossi: "Колоссы"
+ FALLEEN_SHIP_palazzo: "Палаццо"
+ FALLEEN_SHIP_ground_transport: "Наземный транспорт"
+ FALLEEN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ FALLEEN_SHIP_spacegun_success: "Космическая пушка Успех"
+ FALLEEN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ FALLEEN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ FALLEEN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ FALLEEN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ FALLEEN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ FALLEEN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ FALLEEN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ FALLEEN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ FALLEEN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ FALLEEN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ FALLEEN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ FALLEEN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ FALLEEN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ FALLEEN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ FALLEEN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ FALLEEN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ FALLEEN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ FALLEEN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ FALLEEN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ FALLEEN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ FALLEEN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ FALLEEN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ FALLEEN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ FALLEEN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ FALLEEN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ FALLEEN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ FALLEEN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ FALLEEN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ FALLEEN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ FALLEEN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ FALLEEN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ FALLEEN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ FALLEEN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ FALLEEN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ FALLEEN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ FALLEEN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ FALLEEN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ FALLEEN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ FALLEEN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ FALLEEN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ FALLEEN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ FALLEEN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ FALLEEN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ FALLEEN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ FALLEEN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ FALLEEN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ FALLEEN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ FALLEEN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ FALLEEN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ FALLEEN_SHIP_citadel: "Цитадель"
+ FALLEEN_SHIP_albacore: "Альбакор"
+ FALLEEN_SHIP_gateway: "Шлюз"
+ FALLEEN_SHIP_vincent: "Винсент"
+ FALLEEN_SHIP_babylon: "Вавилон"
+ FALLEEN_SHIP_caernavon: "Кэрнавон"
+ FALLEEN_SHIP_acre: "Акро"
+ FALLEEN_SHIP_pembroke: "Пембрук"
+ FALLEEN_SHIP_acheron: "Ахерон"
+ FALLEEN_SHIP_spithead: "Спитхед"
+ FALLEEN_SHIP_halifax: "Галифакс"
+ FALLEEN_SHIP_victoria: "Виктория"
+ FALLEEN_SHIP_chatham: "Чатем"
+ FALLEEN_SHIP_anchorage: "Анкорхед"
+ FALLEEN_SHIP_scapa_flow: "Скапа Флоу"
+ FALLEEN_SHIP_hampton_roads: "хэмптон-роудз"
+ FALLEEN_SHIP_brooklyn: "Бруклин"
+ FALLEEN_SHIP_norfolk: "Норфолк"
+ FALLEEN_SHIP_newport: "Ньюпорт"
+ FALLEEN_SHIP_guam: "Гуам"
+ FALLEEN_SHIP_pensacola: "Пенсакола"
+ FALLEEN_SHIP_vesuvius: "Везувий"
+ FALLEEN_SHIP_mckinley: "Маккинли"
+ FALLEEN_SHIP_everest: "Эверест"
+ FALLEEN_SHIP_kilimanjaro: "Килиманджаро"
+ FALLEEN_SHIP_aconcagua: "Аконкагуа"
+ FALLEEN_SHIP_elbrus: "Эльбрус"
+ FALLEEN_SHIP_st__helens: "Святая Елена"
+ FALLEEN_SHIP_fuji: "Фудзи"
+ FALLEEN_SHIP_olympus: "Олимп"
+ FALLEEN_SHIP_sinai: "Синай"
+ FALLEEN_SHIP_ambrose: "Эмброуз"
+ FALLEEN_SHIP_bermuda: "Бермудские острова"
+ FALLEEN_SHIP_farpoint: "Дальняя точка"
+ FALLEEN_SHIP_blue_star: "Голубая звезда"
+ FALLEEN_SHIP_olympus_mons: "Олимп Монс"
+ FALLEEN_SHIP_tharsis: "Тарсис"
+ FALLEEN_SHIP_syrtis: "Сиртис"
+ FALLEEN_SHIP_blackham: "Блэкхэм"
+ FALLEEN_SHIP_fletcher: "Флетчер"
+ FALLEEN_SHIP_perry: "Перри"
+ FALLEEN_SHIP_butakov: "Бутаков"
+ FALLEEN_SHIP_morris: "Моррис"
+ FALLEEN_SHIP_moorsom: "Мурсом"
+ FALLEEN_SHIP_hart: "Харт"
+ FALLEEN_SHIP_hargood: "Харгуд"
+ FALLEEN_SHIP_spruance: "Пружина"
+ FALLEEN_SHIP_tanaka: "Танака"
+ FALLEEN_SHIP_halsey: "Хэлси"
+ FALLEEN_SHIP_turner: "Тернер"
+ FALLEEN_SHIP_doria: "Дориа"
+ FALLEEN_SHIP_tirpitz: "Тирпиц"
+ FALLEEN_SHIP_cunningham: "Каннингем"
+ FALLEEN_SHIP_jellicoe: "Джеллико"
+ FALLEEN_SHIP_hipper: "Хиппер"
+ FALLEEN_SHIP_beatty: "Битти"
+ FALLEEN_SHIP_potemkin: "Потемкин"
+ FALLEEN_SHIP_durham: "Дарем"
+ FALLEEN_SHIP_codrington: "Кодрингтон"
+ FALLEEN_SHIP_milne: "Милн"
+ FALLEEN_SHIP_laforey: "Лафори"
+ FALLEEN_SHIP_tyler: "Тайлер"
+ FALLEEN_SHIP_hawke: "Хоук"
+ FALLEEN_SHIP_yonai: "Йонай"
+ FALLEEN_SHIP_pound: "Фунт"
+ FALLEEN_SHIP_king: "Король"
+ FALLEEN_SHIP_crutchley: "Кратчли"
+ FALLEEN_SHIP_mountbatten: "Маунтбеттен"
+ FALLEEN_SHIP_kountouriotis: "Кунтуриотис"
+ FALLEEN_SHIP_kuznetsov: "Кузнецов"
+ FALLEEN_SHIP_essen: "Эссен"
+ FALLEEN_SHIP_kornilov: "Корнилов"
+ FALLEEN_SHIP_suffren: "Сюффрен"
+ FALLEEN_SHIP_treville: "Тревиль"
+ FALLEEN_SHIP_villeneuve: "Вильнёв"
+ FALLEEN_SHIP_grasse: "Грасс"
+ FALLEEN_SHIP_byng: "Бинг"
+ FALLEEN_SHIP_lezo: "Лезо"
+ FALLEEN_SHIP_bombard: "Космическая пушка Бомбарда"
+ FALLEEN_SHIP_ballista: "Баллиста"
+ FALLEEN_SHIP_catapult: "Космическая пушка Катапульта"
+ FALLEEN_SHIP_harpoon: "Космическая пушка Гарпун"
+ FALLEEN_SHIP_polybolos: "Космическая пушка Полиболос"
+ FALLEEN_SHIP_culverin: "Космическая пушка Кулеврина"
+ FALLEEN_SHIP_exemplary: "Космическая пушка Образцовый"
+ FALLEEN_SHIP_CLASS_cr_90: "CR-90"
+ FALLEEN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ FALLEEN_SHIP_CLASS_lupus: "Люпус"
+ FALLEEN_SHIP_CLASS_asdroni: "Асдрони"
+ FALLEEN_SHIP_CLASS_customs: "Таможня"
+ FALLEEN_SHIP_CLASS_hammerhead: "Молотоглав"
+ FALLEEN_SHIP_CLASS_scurge: "Мерзость"
+ FALLEEN_SHIP_CLASS_krayt: "Крайт"
+ FALLEEN_SHIP_CLASS_diamond: "Бриллиант"
+ FALLEEN_SHIP_CLASS_etti: "Этти"
+ FALLEEN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ FALLEEN_SHIP_CLASS_vigil: "Бдение"
+ FALLEEN_SHIP_CLASS_dp20: "DP20"
+ FALLEEN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ FALLEEN_SHIP_CLASS_raider: "Рейдер"
+ FALLEEN_SHIP_CLASS_dornean: "Дорнейский"
+ FALLEEN_SHIP_CLASS_crusader: "Крестоносец"
+ FALLEEN_SHIP_CLASS_marauder: "Мародер"
+ FALLEEN_SHIP_CLASS_arquitens: "Аркитенс"
+ FALLEEN_SHIP_CLASS_kiltirin: "Килтирин"
+ FALLEEN_SHIP_CLASS_pelta: "Пельта"
+ FALLEEN_SHIP_CLASS_pinnace: "Катер"
+ FALLEEN_SHIP_CLASS_nova: "Нова"
+ FALLEEN_SHIP_CLASS_vigilance: "Бдительность"
+ FALLEEN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ FALLEEN_SHIP_CLASS_cg_273: "CG-273"
+ FALLEEN_SHIP_CLASS_kariek: "Кариек"
+ FALLEEN_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ FALLEEN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ FALLEEN_SHIP_CLASS_lancer: "Лансер"
+ FALLEEN_SHIP_CLASS_teroch: "Терох"
+ FALLEEN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ FALLEEN_SHIP_CLASS_nova_ii: "Нова II"
+ FALLEEN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ FALLEEN_SHIP_CLASS_velox: "Велокс"
+ FALLEEN_SHIP_CLASS_mc30c: "MC30c"
+ FALLEEN_SHIP_CLASS_vengeance: "Месть"
+ FALLEEN_SHIP_CLASS_kariek_ii: "Кариек II"
+ FALLEEN_SHIP_CLASS_cc_7700: "CC-7700"
+ FALLEEN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ FALLEEN_SHIP_CLASS_wavecrest: "Гребень волны"
+ FALLEEN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ FALLEEN_SHIP_CLASS_nuruodo: "Нуруодо"
+ FALLEEN_SHIP_CLASS_sabaoth: "Саваоф"
+ FALLEEN_SHIP_CLASS_kontos: "Контос"
+ FALLEEN_SHIP_CLASS_mc40: "MC40"
+ FALLEEN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ FALLEEN_SHIP_CLASS_broadside: "Залп"
+ FALLEEN_SHIP_CLASS_protector: "Защитник"
+ FALLEEN_SHIP_CLASS_warlord: "Военачальник"
+ FALLEEN_SHIP_CLASS_gladiator: "Гладиатор"
+ FALLEEN_SHIP_CLASS_beviin: "Бевиин"
+ FALLEEN_SHIP_CLASS_liberator: "Освободитель"
+ FALLEEN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ FALLEEN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ FALLEEN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ FALLEEN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ FALLEEN_SHIP_CLASS_massias: "Массиас"
+ FALLEEN_SHIP_CLASS_dreadnought: "Дредноут"
+ FALLEEN_SHIP_CLASS_kyramud: "Кирамуд"
+ FALLEEN_SHIP_CLASS_munificent: "Щедрый"
+ FALLEEN_SHIP_CLASS_prosvoli: "Просволи"
+ FALLEEN_SHIP_CLASS_acclamator: "Аккламатор"
+ FALLEEN_SHIP_CLASS_lictor: "Ликтор"
+ FALLEEN_SHIP_CLASS_bulwark: "Оплот"
+ FALLEEN_SHIP_CLASS_victory_i: "Победа I"
+ FALLEEN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ FALLEEN_SHIP_CLASS_bulk: "Массивный"
+ FALLEEN_SHIP_CLASS_vindicator: "Защитник"
+ FALLEEN_SHIP_CLASS_dauntless: "Бесстрашный"
+ FALLEEN_SHIP_CLASS_captor: "Похититель"
+ FALLEEN_SHIP_CLASS_au_riette: "О'риетт"
+ FALLEEN_SHIP_CLASS_mc55: "MC55"
+ FALLEEN_SHIP_CLASS_afthonia: "Афтония"
+ FALLEEN_SHIP_CLASS_victory_ii: "Победа II"
+ FALLEEN_SHIP_CLASS_beroya: "Бероя"
+ FALLEEN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ FALLEEN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ FALLEEN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ FALLEEN_SHIP_CLASS_venator: "Венатор"
+ FALLEEN_SHIP_CLASS_centurion: "Центурион"
+ FALLEEN_SHIP_CLASS_mc75: "MC75"
+ FALLEEN_SHIP_CLASS_kandosii: "Кандосии"
+ FALLEEN_SHIP_CLASS_corellian: "Кореллианский"
+ FALLEEN_SHIP_CLASS_providence: "Провидение"
+ FALLEEN_SHIP_CLASS_syndic: "Синдик"
+ FALLEEN_SHIP_CLASS_recusant: "Отступник"
+ FALLEEN_SHIP_CLASS_invincible: "Непобедимый"
+ FALLEEN_SHIP_CLASS_imperial_i: "Имперский I"
+ FALLEEN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ FALLEEN_SHIP_CLASS_procursator: "Прокурсатор"
+ FALLEEN_SHIP_CLASS_mc80a: "MC80a"
+ FALLEEN_SHIP_CLASS_dh_omni: "DH-Омни"
+ FALLEEN_SHIP_CLASS_aggressor: "Агрессор"
+ FALLEEN_SHIP_CLASS_syndic_ii: "Синдик II"
+ FALLEEN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ FALLEEN_SHIP_CLASS_keldabe: "Келдабе"
+ FALLEEN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ FALLEEN_SHIP_CLASS_chaf: "Чаф"
+ FALLEEN_SHIP_CLASS_imperial_ii: "Имперский II"
+ FALLEEN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ FALLEEN_SHIP_CLASS_ascendancy: "Господство"
+ FALLEEN_SHIP_CLASS_dominator: "Властелин"
+ FALLEEN_SHIP_CLASS_allegiance: "Верность"
+ FALLEEN_SHIP_CLASS_lucrehulk: "Барышник"
+ FALLEEN_SHIP_CLASS_phalanx: "Фаланга"
+ FALLEEN_SHIP_CLASS_titan: "Титан"
+ FALLEEN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ FALLEEN_SHIP_CLASS_star_home: "Звездный дом"
+ FALLEEN_SHIP_CLASS_subjugator: "Покоритель"
+ FALLEEN_SHIP_CLASS_bellator: "Беллатор"
+ FALLEEN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ FALLEEN_SHIP_CLASS_executor: "Палач"
+ FALLEEN_FLEET_black_cabal: "Черная клика"
+ FALLEEN_FLEET_ebon_cabal: "Эбонитовая клика"
+ FALLEEN_FLEET_onyx_cabal: "Клика Оникса"
+ FALLEEN_FLEET_obsidian_cabal: "Обсидиановая клика"
+ FALLEEN_FLEET_sable_cabal: "Заговор соболей"
+ FALLEEN_FLEET_ashen_cabal: "Клика Пепельных"
+ FALLEEN_FLEET_gray_cabal: "Серая клика"
+ FALLEEN_FLEET_dusk_cabal: "Сумеречный заговор"
+ FALLEEN_FLEET_midnight_cabal: "Полуночный заговор"
+ FALLEEN_FLEET_raven_cabal: "Заговор Воронов"
+ FALLEEN_FLEET_sunless_cabal: "Заговор Бессолнечных"
+ FALLEEN_FLEET_shadow_cabal: "Тайный заговор"
+ FALLEEN_FLEET_cabal_ORD: "$ORD$ Кабал"
+ FALLEEN_ARMY_planetary_guard_ORD: "$ORD$ планетарная стража"
+ FALLEEN_ARMY_death_squad_ORD: "$ORD$ Эскадрон смерти"
+ FALLEEN_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ FALLEEN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ FALLEEN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ FALLEEN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ FALLEEN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ FALLEEN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ FALLEEN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ FALLEEN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ FALLEEN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ FALLEEN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ FALLEEN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ FALLEEN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ FALLEEN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ FALLEEN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ FALLEEN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ FALLEEN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ FALLEEN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ FALLEEN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ FALLEEN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ FALLEEN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ FALLEEN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ FALLEEN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ FALLEEN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ FALLEEN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ FALLEEN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ FALLEEN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ FALLEEN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ FALLEEN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ FALLEEN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ FALLEEN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ FALLEEN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ FALLEEN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ FALLEEN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ FALLEEN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ FALLEEN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ FALLEEN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ FALLEEN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ FALLEEN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ FALLEEN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ FALLEEN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ FALLEEN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ FALLEEN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ FALLEEN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ FALLEEN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ FALLEEN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ FALLEEN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ FALLEEN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ FALLEEN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ FALLEEN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ FALLEEN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ FALLEEN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ FALLEEN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ FALLEEN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ FALLEEN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ FALLEEN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ FALLEEN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ FALLEEN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ FALLEEN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ FALLEEN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ FALLEEN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ FALLEEN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ FALLEEN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ FALLEEN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ FALLEEN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ FALLEEN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ FALLEEN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ FALLEEN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ FALLEEN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ FALLEEN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ FALLEEN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ FALLEEN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ FALLEEN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ FALLEEN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ FALLEEN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ FALLEEN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ FALLEEN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ FALLEEN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ FALLEEN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ FALLEEN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ FALLEEN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ FALLEEN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ FALLEEN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ FALLEEN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ FALLEEN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ FALLEEN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ FALLEEN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ FALLEEN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ FALLEEN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ FALLEEN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ FALLEEN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ FALLEEN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ FALLEEN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ FALLEEN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ FALLEEN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ FALLEEN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ FALLEEN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ FALLEEN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ FALLEEN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ FALLEEN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ FALLEEN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ FALLEEN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ FALLEEN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ FALLEEN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ FALLEEN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ FALLEEN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ FALLEEN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ FALLEEN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ FALLEEN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ FALLEEN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ FALLEEN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ FALLEEN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ FALLEEN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ FALLEEN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ FALLEEN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ FALLEEN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ FALLEEN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ FALLEEN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ FALLEEN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ FALLEEN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ FALLEEN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ FALLEEN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ FALLEEN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ FALLEEN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ FALLEEN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ FALLEEN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ FALLEEN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ FALLEEN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ FALLEEN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ FALLEEN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ FALLEEN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ FALLEEN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ FALLEEN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ FALLEEN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ FALLEEN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ FALLEEN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ FALLEEN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ FALLEEN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ FALLEEN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ FALLEEN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ FALLEEN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ FALLEEN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ FALLEEN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ FALLEEN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ FALLEEN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ FALLEEN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ FALLEEN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ FALLEEN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ FALLEEN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ FALLEEN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ FALLEEN_CHR_haxim: "Хаксим"
+ FALLEEN_CHR_xomit: "Хомит"
+ FALLEEN_CHR_kel: "Кел"
+ FALLEEN_CHR_zenex: "Зенекс"
+ FALLEEN_CHR_thann: "Танн"
+ FALLEEN_CHR_abraxis: "Абраксис"
+ FALLEEN_CHR_livintius: "Ливинтий"
+ FALLEEN_CHR_xerda: "Ксерда"
+ FALLEEN_CHR_carth: "Карт"
+ FALLEEN_CHR_kir: "Кир"
+ FALLEEN_CHR_mebba: "Мебба"
+ FALLEEN_CHR_dagos: "Дагос"
+ FALLEEN_CHR_xad: "Ксад"
+ FALLEEN_CHR_xist: "Ксист"
+ FALLEEN_CHR_forren: "Форрен"
+ FALLEEN_CHR_kavarros: "Каваррос"
+ FALLEEN_CHR_jeho: "Джехо"
+ FALLEEN_CHR_lee: "Ли"
+ FALLEEN_CHR_varko: "Варко"
+ FALLEEN_CHR_milo: "Мило"
+ FALLEEN_CHR_aeron: "Аэрон"
+ FALLEEN_CHR_byrec: "Бирек"
+ FALLEEN_CHR_strata: "Слои"
+ FALLEEN_CHR_kanzin: "Канзин"
+ FALLEEN_CHR_zeak: "Зик"
+ FALLEEN_CHR_niuk: "Ниук"
+ FALLEEN_CHR_savren: "Саврен"
+ FALLEEN_CHR_xavran: "Ксавран"
+ FALLEEN_CHR_valek: "Валек"
+ FALLEEN_CHR_aran: "Аран"
+ FALLEEN_CHR_valis: "Валис"
+ FALLEEN_CHR_zeven: "Зевен"
+ FALLEEN_CHR_yakown: "Якоун"
+ FALLEEN_CHR_sibar: "Сибар"
+ FALLEEN_CHR_sairix: "Сайрикс"
+ FALLEEN_CHR_klai: "Клай"
+ FALLEEN_CHR_vuras: "Вурас"
+ FALLEEN_CHR_imay: "Имай"
+ FALLEEN_CHR_traest: "Траест"
+ FALLEEN_CHR_sarkli: "Саркли"
+ FALLEEN_CHR_riyan: "Риян"
+ FALLEEN_CHR_kavren: "Каврен"
+ FALLEEN_CHR_sarek: "Сарек"
+ FALLEEN_CHR_xato: "Ксато"
+ FALLEEN_CHR_silus: "Силус"
+ FALLEEN_CHR_kej: "Кей"
+ FALLEEN_CHR_vago: "Ваго"
+ FALLEEN_CHR_kallyx: "Калликс"
+ FALLEEN_CHR_annor: "Аннор"
+ FALLEEN_CHR_ulas: "Улас"
+ FALLEEN_CHR_sakal: "Сакал"
+ FALLEEN_CHR_tal: "Тал"
+ FALLEEN_CHR_korax: "Коракс"
+ FALLEEN_CHR_torin: "Торин"
+ FALLEEN_CHR_karn: "Карн"
+ FALLEEN_CHR_davith: "Давит"
+ FALLEEN_CHR_jorgen: "Йорген"
+ FALLEEN_CHR_bertos: "Бертос"
+ FALLEEN_CHR_corrus: "Коррус"
+ FALLEEN_CHR_malius: "Малиус"
+ FALLEEN_CHR_kale: "Капуста"
+ FALLEEN_CHR_xandros: "Ксандрос"
+ FALLEEN_CHR_kalen: "Кален"
+ FALLEEN_CHR_zekk: "Зекк"
+ FALLEEN_CHR_trezza: "Трезза"
+ FALLEEN_CHR_valhoun: "Валхаун"
+ FALLEEN_CHR_gentti: "Джентти"
+ FALLEEN_CHR_xu_sien: "Сюй-Сянь"
+ FALLEEN_CHR_vaux: "Ваукс"
+ FALLEEN_CHR_verxes: "Вершины"
+ FALLEEN_CHR_sidias: "Сидиас"
+ FALLEEN_CHR_haken: "Хакен"
+ FALLEEN_CHR_zyn: "Зин"
+ FALLEEN_CHR_vidown: "Видоун"
+ FALLEEN_CHR_vares: "Варес"
+ FALLEEN_CHR_xithan: "Ситан"
+ FALLEEN_CHR_cul_utaan: "Кул-утаан"
+ FALLEEN_CHR_varys: "Варис"
+ FALLEEN_CHR_xim: "Ксам"
+ FALLEEN_CHR_vossi: "Восси"
+ FALLEEN_CHR_abric: "Абрик"
+ FALLEEN_CHR_darg: "Дарг"
+ FALLEEN_CHR_gaman: "Гаман"
+ FALLEEN_CHR_vaxherub: "ВакХеруб"
+ FALLEEN_CHR_marius: "Мариус"
+ FALLEEN_CHR_zherron: "Жеррон"
+ FALLEEN_CHR_zetha: "Зета"
+ FALLEEN_CHR_xan: "Ксан"
+ FALLEEN_CHR_ver: "Вер"
+ FALLEEN_CHR_cric: "Кри"
+ FALLEEN_CHR_foxdi: "Фоксди"
+ FALLEEN_CHR_xandral: "Ксандрал"
+ FALLEEN_CHR_xander: "Ксандр"
+ FALLEEN_CHR_baz: "Баз"
+ FALLEEN_CHR_zuud: "Зууд"
+ FALLEEN_CHR_erek: "Эрек"
+ FALLEEN_CHR_zon: "Зона"
+ FALLEEN_CHR_karrst: "Каррст"
+ FALLEEN_CHR_varl: "Варл"
+ FALLEEN_CHR_vanukar: "Ванукар"
+ FALLEEN_CHR_talan: "Талан"
+ FALLEEN_CHR_varell: "Варелл"
+ FALLEEN_CHR_kannon: "Каннон"
+ FALLEEN_CHR_kaden: "Кейден"
+ FALLEEN_CHR_sarev: "Сарев"
+ FALLEEN_CHR_xargon: "Ксаргон"
+ FALLEEN_CHR_zeto: "Дзето"
+ FALLEEN_CHR_zhios: "Жиос"
+ FALLEEN_CHR_xarga: "Ксарга"
+ FALLEEN_CHR_flash: "Вспышка"
+ FALLEEN_CHR_waseem: "Васим"
+ FALLEEN_CHR_bendak: "Бендак"
+ FALLEEN_CHR_kaz: "Каз"
+ FALLEEN_CHR_vrath: "Врат"
+ FALLEEN_CHR_zellos: "Зеллос"
+ FALLEEN_CHR_xalven: "Ксальвен"
+ FALLEEN_CHR_vincenzo: "Винченцо"
+ FALLEEN_CHR_zhou: "Чжоу"
+ FALLEEN_CHR_rebar: "Арматура"
+ FALLEEN_CHR_vander: "Вандер"
+ FALLEEN_CHR_aramil: "Арамиль"
+ FALLEEN_CHR_vandro: "Вандро"
+ FALLEEN_CHR_caalin: "Каалин"
+ FALLEEN_CHR_vanth: "Вант"
+ FALLEEN_CHR_vikar: "Викар"
+ FALLEEN_CHR_zan: "Зан"
+ FALLEEN_CHR_zentilo: "Зентило"
+ FALLEEN_CHR_vasp: "Васп"
+ FALLEEN_CHR_predor: "Предор"
+ FALLEEN_CHR_tarlson: "Тарлсон"
+ FALLEEN_CHR_boaz: "Вооз"
+ FALLEEN_CHR_zem: "Зем"
+ FALLEEN_CHR_zander: "Зандер"
+ FALLEEN_CHR_raltharan: "Ралтаран"
+ FALLEEN_CHR_zerrid: "Зеррид"
+ FALLEEN_CHR_zharen: "Жарен"
+ FALLEEN_CHR_sogan: "Соган"
+ FALLEEN_CHR_varek: "Варек"
+ FALLEEN_CHR_svante: "Сванте"
+ FALLEEN_CHR_tesvalo: "Тешвало"
+ FALLEEN_CHR_xar_me: "Ксарме"
+ FALLEEN_CHR_dekar: "Декар"
+ FALLEEN_CHR_varazen: "Варазен"
+ FALLEEN_CHR_varak: "Варак"
+ FALLEEN_CHR_zadran: "Задран"
+ FALLEEN_CHR_kaddreth: "Каддрет"
+ FALLEEN_CHR_zyix: "Зийк"
+ FALLEEN_CHR_savan: "Саван"
+ FALLEEN_CHR_obs: "Обс"
+ FALLEEN_CHR_sizhran: "Сижран"
+ FALLEEN_CHR_kamlin: "Камлин"
+ FALLEEN_CHR_mylla: "Майлла"
+ FALLEEN_CHR_seena: "Сина"
+ FALLEEN_CHR_areta: "Арета"
+ FALLEEN_CHR_natua: "Натуа"
+ FALLEEN_CHR_xora: "Ксора"
+ FALLEEN_CHR_nile: "Нил"
+ FALLEEN_CHR_kiyfi: "Кифи"
+ FALLEEN_CHR_kasmyn: "Касмин"
+ FALLEEN_CHR_satra: "Сатра"
+ FALLEEN_CHR_shehish: "Шехиш"
+ FALLEEN_CHR_sarna: "Сарна"
+ FALLEEN_CHR_krava: "Крава"
+ FALLEEN_CHR_mavari: "Мавари"
+ FALLEEN_CHR_xishel: "Ксишел"
+ FALLEEN_CHR_aqua: "Аква"
+ FALLEEN_CHR_maryna: "Марина"
+ FALLEEN_CHR_essaj: "Эссаж"
+ FALLEEN_CHR_varda: "Варда"
+ FALLEEN_CHR_teeana: "Тиана"
+ FALLEEN_CHR_raena: "Раена"
+ FALLEEN_CHR_xula: "Ксула"
+ FALLEEN_CHR_vifi: "Вифи"
+ FALLEEN_CHR_vania: "Ваня"
+ FALLEEN_CHR_jeanida: "Джанида"
+ FALLEEN_CHR_aerena: "Аэрена"
+ FALLEEN_CHR_nataya: "Натая"
+ FALLEEN_CHR_vernida: "Вернида"
+ FALLEEN_CHR_kavala: "Кавала"
+ FALLEEN_CHR_karella: "Карелла"
+ FALLEEN_CHR_sirra: "Сирра"
+ FALLEEN_CHR_variise: "Вариация"
+ FALLEEN_CHR_varla: "Варла"
+ FALLEEN_CHR_xuss: "Ксюша"
+ FALLEEN_CHR_riema: "Римма"
+ FALLEEN_CHR_erri: "Эрри"
+ FALLEEN_CHR_shanna: "Шанна"
+ FALLEEN_CHR_lyra: "Лира"
+ FALLEEN_CHR_valera: "Валера"
+ FALLEEN_CHR_zenoc: "Зенок"
+ FALLEEN_CHR_zera: "Зера"
+ FALLEEN_CHR_viqi: "Вики"
+ FALLEEN_CHR_hadriel: "Адриэль"
+ FALLEEN_CHR_vixtra: "Викстра"
+ FALLEEN_CHR_selena: "Селена"
+ FALLEEN_CHR_zana: "Зана"
+ FALLEEN_CHR_tuija: "Туйя"
+ FALLEEN_CHR_railin: "Рейлин"
+ FALLEEN_CHR_sassi: "Сасси"
+ FALLEEN_CHR_shyon: "Шайон"
+ FALLEEN_CHR_zelen: "Зелен"
+ FALLEEN_CHR_rylla: "Рилла"
+ FALLEEN_CHR_kavara: "Кавара"
+ FALLEEN_CHR_vau: "Вау"
+ FALLEEN_CHR_zema: "Зема"
+ FALLEEN_CHR_xanta: "Ксанта"
+ FALLEEN_CHR_kazala: "Казала"
+ FALLEEN_CHR_aama: "Аама"
+ FALLEEN_CHR_shorya: "Шорья"
+ FALLEEN_CHR_melfina: "Мелфина"
+ FALLEEN_CHR_davessi: "Давесси"
+ FALLEEN_CHR_larana: "Ларана"
+ FALLEEN_CHR_xaverri: "Ксаверри"
+ FALLEEN_CHR_nola: "Нола"
+ FALLEEN_CHR_xanda: "Ксанда"
+ FALLEEN_CHR_jauhzmynn: "Джаузминн"
+ FALLEEN_CHR_zyna: "Зийна"
+ FALLEEN_CHR_xevrina: "Ксеврина"
+ FALLEEN_CHR_yana: "Яна"
+ FALLEEN_CHR_zoras: "Зорас"
+ FALLEEN_CHR_ree: "Ри"
+ FALLEEN_CHR_grace: "Грейс"
+ FALLEEN_CHR_tantema: "Тантема"
+ FALLEEN_CHR_van: "Фургон"
+ FALLEEN_CHR_una: "Уна"
+ FALLEEN_CHR_dalharil: "Далхарил"
+ FALLEEN_CHR_xerna: "Ксерна"
+ FALLEEN_CHR_sovi: "Сови"
+ FALLEEN_CHR_sartya: "Сартья"
+ FALLEEN_CHR_vucora: "Вукора"
+ FALLEEN_CHR_xasha: "Ксаша"
+ FALLEEN_CHR_joi: "Дзеи"
+ FALLEEN_CHR_stryka: "Стрыка"
+ FALLEEN_CHR_shandra: "Шандра"
+ FALLEEN_CHR_zilpha: "Зилфа"
+ FALLEEN_CHR_veraslayn: "Вераслайн"
+ FALLEEN_CHR_karin: "Карин"
+ FALLEEN_CHR_siala: "Сиала"
+ FALLEEN_CHR_reki: "Реки"
+ FALLEEN_CHR_maydla: "Майдла"
+ FALLEEN_CHR_kiandra: "Киандра"
+ FALLEEN_CHR_xilaren: "Ксиларен"
+ FALLEEN_CHR_zulara: "Зулара"
+ FALLEEN_CHR_viehenda: "Вьехенда"
+ FALLEEN_CHR_karissa: "Карисса"
+ FALLEEN_CHR_zilar: "Зилар"
+ FALLEEN_CHR_haruko: "Харуко"
+ FALLEEN_CHR_kana: "Кана"
+ FALLEEN_CHR_liana: "Лиана"
+ FALLEEN_CHR_rale: "Рале"
+ FALLEEN_CHR_megara: "Мегара"
+ FALLEEN_CHR_aria: "Ария"
+ FALLEEN_CHR_akiva: "Акива"
+ FALLEEN_CHR_nalah: "Нала"
+ FALLEEN_CHR_erlem: "Эрлем"
+ FALLEEN_CHR_nali: "Нали"
+ FALLEEN_CHR_fallah: "Фаллах"
+ FALLEEN_CHR_kotrana: "Котрана"
+ FALLEEN_CHR_aayla: "Айла"
+ FALLEEN_CHR_kalira: "Калира"
+ FALLEEN_CHR_arani: "Арани"
+ FALLEEN_CHR_zota: "Зота"
+ FALLEEN_CHR_lyyr: "Лиир"
+ FALLEEN_CHR_arcas: "Аркас"
+ FALLEEN_CHR_rane: "Рейн"
+ FALLEEN_CHR_nayru: "Найру"
+ FALLEEN_CHR_zylas: "Зилас"
+ FALLEEN_CHR_vexa: "Векса"
+ FALLEEN_CHR_xea: "Ксеа"
+ FALLEEN_CHR_grunseit: "Грюнсайт"
+ FALLEEN_CHR_kaj: "Кайд"
+ FALLEEN_CHR_wahia: "Вахия"
+ FALLEEN_CHR_mithric: "Митрич"
+ FALLEEN_CHR_unic: "Уник"
+ FALLEEN_CHR_xiss: "Ксисс"
+ FALLEEN_CHR_nakcohh: "Наккох"
+ FALLEEN_CHR_vitaan: "Витаан"
+ FALLEEN_CHR_varo: "Варо"
+ FALLEEN_CHR_daklan: "Даклан"
+ FALLEEN_CHR_kenzee: "Кензи"
+ FALLEEN_CHR_kamiroz: "Камироз"
+ FALLEEN_CHR_thegas: "Цегаc"
+ FALLEEN_CHR_moryne: "Морин"
+ FALLEEN_CHR_valda: "Валда"
+ FALLEEN_CHR_sato: "Сато"
+ FALLEEN_CHR_vekozev: "Векозев"
+ FALLEEN_CHR_zykken: "Зыккен"
+ FALLEEN_CHR_sassich: "Сассич"
+ FALLEEN_CHR_zo: "Зо"
+ FALLEEN_CHR_lasek: "Ласек"
+ FALLEEN_CHR_valladian: "Валладиан"
+ FALLEEN_CHR_zuma: "Зума"
+ FALLEEN_CHR_vane: "Флюгер"
+ FALLEEN_CHR_wan: "Ван"
+ FALLEEN_CHR_vanten: "Вантен"
+ FALLEEN_CHR_valkaz: "Валказ"
+ FALLEEN_CHR_zirkonn: "Зирконн"
+ FALLEEN_CHR_rar: "Рар"
+ FALLEEN_CHR_sartoris: "Сарторис"
+ FALLEEN_CHR_kessler: "Кесслер"
+ FALLEEN_CHR_shaia: "Шайя"
+ FALLEEN_CHR_zo_tannath: "Зо'Таннат"
+ FALLEEN_CHR_zar: "Зар"
+ FALLEEN_CHR_vrieska: "Вриеска"
+ FALLEEN_CHR_zackin: "Закин"
+ FALLEEN_CHR_sazek: "Сазек"
+ FALLEEN_CHR_zian: "Зиан"
+ FALLEEN_CHR_zett: "Зетт"
+ FALLEEN_CHR_kang: "Канг"
+ FALLEEN_CHR_nalto: "Налто"
+ FALLEEN_CHR_zural: "Зурал"
+ FALLEEN_CHR_dubreas: "Дюбреас"
+ FALLEEN_CHR_colsan: "Колсан"
+ FALLEEN_CHR_zhanks: "Жанки"
+ FALLEEN_CHR_solon: "Солон"
+ FALLEEN_CHR_merquise: "Меркиз"
+ FALLEEN_CHR_varn: "Варн"
+ FALLEEN_CHR_basai: "Басаи"
+ FALLEEN_CHR_vallan: "Валлан"
+ FALLEEN_CHR_xanosro: "Ксаносро"
+ FALLEEN_CHR_elyxsar: "Эликсар"
+ FALLEEN_CHR_zindalai: "Зиндалай"
+ FALLEEN_CHR_slahlvo: "Слахлво"
+ FALLEEN_CHR_remex: "Ремекс"
+ FALLEEN_CHR_sarreti: "Саррети"
+ FALLEEN_CHR_xandret: "Ксандрет"
+ FALLEEN_CHR_dago: "Даго"
+ FALLEEN_CHR_moj: "Модж"
+ FALLEEN_CHR_stithta: "Стифта"
+ FALLEEN_CHR_ker: "Кер"
+ FALLEEN_CHR_zenfrei: "Зенфрей"
+ FALLEEN_CHR_klakk: "Клакк"
+ FALLEEN_CHR_zhorrid: "Жоррид"
+ FALLEEN_CHR_lefex: "Лефекс"
+ FALLEEN_CHR_minn: "Минн"
+ FALLEEN_CHR_irokini: "Ирокини"
+ FALLEEN_CHR_zin_zula: "зин'Зула"
+ FALLEEN_CHR_danakar: "Данакар"
+ FALLEEN_CHR_zenlav: "Зенлав"
+ FALLEEN_CHR_xrexus: "Крехус"
+ FALLEEN_CHR_shenuri: "Шенури"
+ FALLEEN_CHR_corcer: "Корсет"
+ FALLEEN_CHR_zin: "Зин"
+ FALLEEN_CHR_tagratt: "Тагратт"
+ FALLEEN_CHR_golladio: "Голладио"
+ FALLEEN_CHR_xarran: "Ксарран"
+ FALLEEN_CHR_xodell: "Ксоделл"
+ FALLEEN_CHR_zentis: "Зентис"
+ FALLEEN_CHR_valn: "Валн"
+ FALLEEN_CHR_ziering: "Зиринг"
+ FALLEEN_CHR_valan: "Валан"
+ FALLEEN_CHR_angavel: "Ангавель"
+ FALLEEN_CHR_tyrnith: "Тирнит"
+ FALLEEN_CHR_zothip: "Зотип"
+ FALLEEN_CHR_kelbier: "Кельбьер"
+ FALLEEN_CHR_valoruk: "Валорук"
+ FALLEEN_CHR_zsing: "Зсинг"
+ FALLEEN_CHR_tisa: "Тиса"
+ FALLEEN_CHR_xion: "Сион"
+ FALLEEN_CHR_soylon: "Сойлон"
+ FALLEEN_CHR_lerann: "Леранн"
+ FALLEEN_CHR_chro: "Хро"
+ FALLEEN_CHR_ziam: "Зям"
+ FALLEEN_CHR_zell: "Зелл"
+ FALLEEN_CHR_zenzo: "Зензо"
+ FALLEEN_CHR_vekarr: "Векарр"
+ FALLEEN_CHR_zokar: "Зокар"
+ FALLEEN_CHR_thiddex: "Тиддекс"
+ FALLEEN_CHR_zorn: "Зорн"
+ FALLEEN_CHR_selkayim: "Селкаим"
+ FALLEEN_CHR_zibsara: "Зибсара"
+ FALLEEN_CHR_dhuramav: "Дхурамав"
+ FALLEEN_CHR_kodd: "Кодд"
+ FALLEEN_CHR_morin: "Морин"
+ FALLEEN_CHR_kobylarz: "Кобыларз"
+ FALLEEN_CHR_tade: "Тейд"
+ FALLEEN_CHR_zhord: "Жорд"
+ FALLEEN_CHR_bintaghr: "Бинтагр"
+ FALLEEN_CHR_zev: "Зев"
+ FALLEEN_CHR_precore: "Прекор"
+ FALLEEN_CHR_solborne: "Солборн"
+ FALLEEN_CHR_sarne: "Сарн"
+ FALLEEN_CHR_katarn: "Катарн"
+ FALLEEN_CHR_anjek: "Анжек"
+ FALLEEN_CHR_zmittri: "Дмитрий"
+ FALLEEN_CHR_kast: "Каст"
+ FALLEEN_CHR_airerith: "Айррит"
+ FALLEEN_CHR_tarrid: "Терпкий"
+ FALLEEN_CHR_ziemba: "Зиемба"
+ FALLEEN_CHR_zho: "Чжо"
+ FALLEEN_CHR_jalba: "Джалба"
+ FALLEEN_CHR_benn: "Бенн"
+ FALLEEN_CHR_haruhana: "Харухана"
+ FALLEEN_CHR_roice: "Ройс"
+ FALLEEN_CHR_lokar: "Локар"
+ FALLEEN_CHR_korpil: "Корпил"
+ FALLEEN_CHR_turon: "Турон"
+ FALLEEN_CHR_cavi: "Кави"
+ FALLEEN_CHR_deece: "Диси"
+ FALLEEN_CHR_braitano: "Брайтано"
+ FALLEEN_CHR_zilnor: "Зильнор"
+ FALLEEN_CHR_tyandas: "Тьяндас"
+ FALLEEN_CHR_zepwim: "Зепвим"
+ FALLEEN_CHR_xerk: "Ксерк"
+ FALLEEN_CHR_drayven: "Драйв"
+ FALLEEN_CHR_zaposug: "Запосуг"
+ FALLEEN_CHR_zend: "Зенд"
+ FALLEEN_CHR_defelice: "Дефеличе"
+ FALLEEN_CHR_zerex: "Зерекс"
+ FALLEEN_CHR_zey: "Зей"
+ FALLEEN_CHR_sarvool: "Сарвул"
+ FALLEEN_CHR_hodrren: "Ходррен"
+ FALLEEN_CHR_xergo: "Хёрги"
+ FALLEEN_CHR_sarat: "Сарат"
+ FALLEEN_CHR_vercet: "Версе"
+ FALLEEN_CHR_zerga: "Зерга"
+ FALLEEN_CHR_zudan: "Зудан"
+ FALLEEN_CHR_zuur: "Зюр"
+ FALLEEN_CHR_xzushal: "Кзушал"
+ FALLEEN_CHR_xizor: "Ксизор"
+ FALLEEN_CHR_zurros: "Зуррос"
+ FALLEEN_CHR_ziton: "Зитон"
+ FALLEEN_CHR_zann: "Занн"
+ FALLEEN_CHR_tanner: "Кожевник"
+ FALLEEN_CHR_vi: "Ви"
+ FALLEEN_CHR_rush: "Раш"
+ FALLEEN_CHR_danry: "Дэнри"
+ FALLEEN_CHR_zule: "Зуле"
+ FALLEEN_CHR_senna: "Сенна"
+ FALLEEN_CHR_bana: "Бана"
+ FALLEEN_CHR_xanya: "Ксанья"
+ FALLEEN_CHR_zexa: "Зекса"
+ FALLEEN_CHR_andrell: "Андрелл"
+ FALLEEN_CHR_varrak: "Варрак"
+ FALLEEN_CHR_xiono: "Сионо"
+ FALLEEN_CHR_varga: "Варга"
+ FALLEEN_CHR_sarke: "Сарк"

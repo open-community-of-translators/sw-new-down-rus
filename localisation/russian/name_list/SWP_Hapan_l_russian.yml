@@ -1,850 +1,850 @@
 ﻿l_russian:
-	HAPAN_SHIP_consort: "Consort" #!Empty_LineInfo!
-	HAPAN_SHIP_paladin: "Paladin" #!Empty_LineInfo!
-	HAPAN_SHIP_halberd: "Halberd" #!Empty_LineInfo!
-	HAPAN_SHIP_chalice: "Chalice" #!Empty_LineInfo!
-	HAPAN_SHIP_vow_eternal: "Vow Eternal" #!Empty_LineInfo!
-	HAPAN_SHIP_gorget: "Gorget" #!Empty_LineInfo!
-	HAPAN_SHIP_pauldron: "Pauldron" #!Empty_LineInfo!
-	HAPAN_SHIP_glory: "Glory" #!Empty_LineInfo!
-	HAPAN_SHIP_bannerlady: "Bannerlady" #!Empty_LineInfo!
-	HAPAN_SHIP_indenturer: "Indenturer" #!Empty_LineInfo!
-	HAPAN_SHIP_abbess: "Abbess" #!Empty_LineInfo!
-	HAPAN_SHIP_bannersworn: "Bannersworn" #!Empty_LineInfo!
-	HAPAN_SHIP_claymore: "Claymore" #!Empty_LineInfo!
-	HAPAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
-	HAPAN_SHIP_yeowoman: "Yeowoman" #!Empty_LineInfo!
-	HAPAN_SHIP_armswoman: "Armswoman" #!Empty_LineInfo!
-	HAPAN_SHIP_shield_maiden: "Shield Maiden" #!Empty_LineInfo!
-	HAPAN_SHIP_in_her_majesty_s_service: "In Her Majesty's Service" #!Empty_LineInfo!
-	HAPAN_SHIP_virtuous: "Virtuous" #!Empty_LineInfo!
-	HAPAN_SHIP_cannonness: "Cannonness" #!Empty_LineInfo!
-	HAPAN_SHIP_trumpeter: "Trumpeter" #!Empty_LineInfo!
-	HAPAN_SHIP_fencer: "Fencer" #!Empty_LineInfo!
-	HAPAN_SHIP_champion: "Champion" #!Empty_LineInfo!
-	HAPAN_SHIP_queen_mother_s_revenge: "Queen Mother's Revenge" #!Empty_LineInfo!
-	HAPAN_SHIP_isoldant: "Isoldant" #!Empty_LineInfo!
-	HAPAN_SHIP_mistrunner: "Mistrunner" #!Empty_LineInfo!
-	HAPAN_SHIP_huntress: "Huntress" #!Empty_LineInfo!
-	HAPAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
-	HAPAN_SHIP_courser: "Courser" #!Empty_LineInfo!
-	HAPAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
-	HAPAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	HAPAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
-	HAPAN_SHIP_knight_errant: "Knight Errant" #!Empty_LineInfo!
-	HAPAN_SHIP_windfavored: "Windfavored" #!Empty_LineInfo!
-	HAPAN_SHIP_windfinder: "Windfinder" #!Empty_LineInfo!
-	HAPAN_SHIP_navigator: "Navigator" #!Empty_LineInfo!
-	HAPAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
-	HAPAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
-	HAPAN_SHIP_implacable: "Implacable" #!Empty_LineInfo!
-	HAPAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
-	HAPAN_SHIP_lady_in_waiting: "Lady-in-Waiting" #!Empty_LineInfo!
-	HAPAN_SHIP_paramour: "Paramour" #!Empty_LineInfo!
-	HAPAN_SHIP_queensman: "Queensman" #!Empty_LineInfo!
-	HAPAN_SHIP_retainer: "Retainer" #!Empty_LineInfo!
-	HAPAN_SHIP_charger: "Charger" #!Empty_LineInfo!
-	HAPAN_SHIP_liegeman: "Liegeman" #!Empty_LineInfo!
-	HAPAN_SHIP_maiden: "Maiden" #!Empty_LineInfo!
-	HAPAN_SHIP_amazon: "Amazon" #!Empty_LineInfo!
-	HAPAN_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
-	HAPAN_SHIP_leal_duty: "Leal Duty" #!Empty_LineInfo!
-	HAPAN_SHIP_baroness: "Baroness" #!Empty_LineInfo!
-	HAPAN_SHIP_our_blessed_lady_of_kavan: "Our Blessed Lady of Kavan" #!Empty_LineInfo!
-	HAPAN_SHIP_resplendant: "Resplendant" #!Empty_LineInfo!
-	HAPAN_SHIP_commandment: "Commandment" #!Empty_LineInfo!
-	HAPAN_SHIP_eternal_reign: "Eternal Reign" #!Empty_LineInfo!
-	HAPAN_SHIP_clarion: "Clarion" #!Empty_LineInfo!
-	HAPAN_SHIP_wellfarer: "Wellfarer" #!Empty_LineInfo!
-	HAPAN_SHIP_savior: "Savior" #!Empty_LineInfo!
-	HAPAN_SHIP_armitage: "Armitage" #!Empty_LineInfo!
-	HAPAN_SHIP_seeker: "Seeker" #!Empty_LineInfo!
-	HAPAN_SHIP_ereneda: "Ereneda" #!Empty_LineInfo!
-	HAPAN_SHIP_squire: "Squire" #!Empty_LineInfo!
-	HAPAN_SHIP_herald: "Herald" #!Empty_LineInfo!
-	HAPAN_SHIP_magnamity: "Magnamity" #!Empty_LineInfo!
-	HAPAN_SHIP_fogcutter: "Fogcutter" #!Empty_LineInfo!
-	HAPAN_SHIP_gloom_watcher: "Gloom Watcher" #!Empty_LineInfo!
-	HAPAN_SHIP_warden: "Warden" #!Empty_LineInfo!
-	HAPAN_SHIP_footman: "Footman" #!Empty_LineInfo!
-	HAPAN_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
-	HAPAN_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
-	HAPAN_SHIP_hussar: "Hussar" #!Empty_LineInfo!
-	HAPAN_SHIP_thunderer: "Thunderer" #!Empty_LineInfo!
-	HAPAN_SHIP_bright_lance: "Bright Lance" #!Empty_LineInfo!
-	HAPAN_SHIP_shield_of_cheruba: "Shield of Cheruba" #!Empty_LineInfo!
-	HAPAN_SHIP_daughter_of_lorell: "Daughter of Lorell" #!Empty_LineInfo!
-	HAPAN_SHIP_terror_of_terephon: "Terror of Terephon" #!Empty_LineInfo!
-	HAPAN_SHIP_beneficent: "Beneficent" #!Empty_LineInfo!
-	HAPAN_SHIP_magnanimous: "Magnanimous" #!Empty_LineInfo!
-	HAPAN_SHIP_heir_of_command: "Heir of Command" #!Empty_LineInfo!
-	HAPAN_SHIP_princess: "Princess" #!Empty_LineInfo!
-	HAPAN_SHIP_duchess: "Duchess" #!Empty_LineInfo!
-	HAPAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
-	HAPAN_SHIP_aristocrat: "Aristocrat" #!Empty_LineInfo!
-	HAPAN_SHIP_tsarina: "Tsarina" #!Empty_LineInfo!
-	HAPAN_SHIP_poleaxe: "Poleaxe" #!Empty_LineInfo!
-	HAPAN_SHIP_castellan: "Castellan" #!Empty_LineInfo!
-	HAPAN_SHIP_limitless: "Limitless" #!Empty_LineInfo!
-	HAPAN_SHIP_paraphet: "Paraphet" #!Empty_LineInfo!
-	HAPAN_SHIP_unto_the_rampart: "Unto the Rampart" #!Empty_LineInfo!
-	HAPAN_SHIP_full_tilt: "Full Tilt" #!Empty_LineInfo!
-	HAPAN_SHIP_equerry: "Equerry" #!Empty_LineInfo!
-	HAPAN_SHIP_praetorian: "Praetorian" #!Empty_LineInfo!
-	HAPAN_SHIP_fidelity: "Fidelity" #!Empty_LineInfo!
-	HAPAN_SHIP_allegiant: "Allegiant" #!Empty_LineInfo!
-	HAPAN_SHIP_obedient: "Obedient" #!Empty_LineInfo!
-	HAPAN_SHIP_jouster: "Jouster" #!Empty_LineInfo!
-	HAPAN_SHIP_white_knight: "White Knight" #!Empty_LineInfo!
-	HAPAN_SHIP_rainbow_chevalier: "Rainbow Chevalier" #!Empty_LineInfo!
-	HAPAN_SHIP_equestrian: "Equestrian" #!Empty_LineInfo!
-	HAPAN_SHIP_sister_trung: "Sister Trung" #!Empty_LineInfo!
-	HAPAN_SHIP_allaya: "Allaya" #!Empty_LineInfo!
-	HAPAN_SHIP_kalenfire: "Kalenfire" #!Empty_LineInfo!
-	HAPAN_SHIP_chume: "Chume" #!Empty_LineInfo!
-	HAPAN_SHIP_song_of_war: "Song of War" #!Empty_LineInfo!
-	HAPAN_SHIP_daphoros: "Daphoros" #!Empty_LineInfo!
-	HAPAN_SHIP_deserving_gem: "Deserving Gem" #!Empty_LineInfo!
-	HAPAN_SHIP_dragon_queen: "Dragon Queen" #!Empty_LineInfo!
-	HAPAN_SHIP_jeweled_delight: "Jeweled Delight" #!Empty_LineInfo!
-	HAPAN_SHIP_kendall: "Kendall" #!Empty_LineInfo!
-	HAPAN_SHIP_loyal_dragon: "Loyal Dragon" #!Empty_LineInfo!
-	HAPAN_SHIP_lucky_dragon: "Lucky Dragon" #!Empty_LineInfo!
-	HAPAN_SHIP_lady_worby: "Lady Worby" #!Empty_LineInfo!
-	HAPAN_SHIP_rock_drake: "Rock Drake" #!Empty_LineInfo!
-	HAPAN_SHIP_star_home: "Star Home" #!Empty_LineInfo!
-	HAPAN_SHIP_starsprite: "Starsprite" #!Empty_LineInfo!
-	HAPAN_SHIP_thunder_wraith: "Thunder Wraith" #!Empty_LineInfo!
-	HAPAN_SHIP_alophon: "Alophon" #!Empty_LineInfo!
-	HAPAN_SHIP_remela: "Remela" #!Empty_LineInfo!
-	HAPAN_SHIP_beknighted: "Beknighted" #!Empty_LineInfo!
-	HAPAN_SHIP_relic: "Relic" #!Empty_LineInfo!
-	HAPAN_SHIP_invincible: "Invincible" #!Empty_LineInfo!
-	HAPAN_SHIP_sea_drake: "Sea Drake" #!Empty_LineInfo!
-	HAPAN_SHIP_talon: "Talon" #!Empty_LineInfo!
-	HAPAN_SHIP_scaleheart: "Scaleheart" #!Empty_LineInfo!
-	HAPAN_SHIP_dragoness: "Dragoness" #!Empty_LineInfo!
-	HAPAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
-	HAPAN_SHIP_gale_serpent: "Gale Serpent" #!Empty_LineInfo!
-	HAPAN_SHIP_gatekeeper: "Gatekeeper" #!Empty_LineInfo!
-	HAPAN_SHIP_maiden_blade: "Maiden Blade" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_oak: "Royal Oak" #!Empty_LineInfo!
-	HAPAN_SHIP_warspite: "Warspite" #!Empty_LineInfo!
-	HAPAN_SHIP_vampire: "Vampire" #!Empty_LineInfo!
-	HAPAN_SHIP_indefatigable: "Indefatigable" #!Empty_LineInfo!
-	HAPAN_SHIP_intrepid: "Intrepid" #!Empty_LineInfo!
-	HAPAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
-	HAPAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
-	HAPAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
-	HAPAN_SHIP_ark_royal: "Ark Royal" #!Empty_LineInfo!
-	HAPAN_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
-	HAPAN_SHIP_venerable: "Venerable" #!Empty_LineInfo!
-	HAPAN_SHIP_majestic: "Majestic" #!Empty_LineInfo!
-	HAPAN_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
-	HAPAN_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
-	HAPAN_SHIP_audacious: "Audacious" #!Empty_LineInfo!
-	HAPAN_SHIP_duke_of_cheruba: "Duke of Cheruba" #!Empty_LineInfo!
-	HAPAN_SHIP_prince_of_lorelli: "Prince of Lorelli" #!Empty_LineInfo!
-	HAPAN_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_soverign: "Royal Soverign" #!Empty_LineInfo!
-	HAPAN_SHIP_resolution: "Resolution" #!Empty_LineInfo!
-	HAPAN_SHIP_repulse: "Repulse" #!Empty_LineInfo!
-	HAPAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
-	HAPAN_SHIP_princess_calfa: "Princess Calfa" #!Empty_LineInfo!
-	HAPAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
-	HAPAN_SHIP_formidable: "Formidable" #!Empty_LineInfo!
-	HAPAN_SHIP_bulwark: "Bulwark" #!Empty_LineInfo!
-	HAPAN_SHIP_commonwealth: "Commonwealth" #!Empty_LineInfo!
-	HAPAN_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
-	HAPAN_SHIP_triumph: "Triumph" #!Empty_LineInfo!
-	HAPAN_SHIP_lord_gallinore: "Lord Gallinore" #!Empty_LineInfo!
-	HAPAN_SHIP_superb: "Superb" #!Empty_LineInfo!
-	HAPAN_SHIP_temerity: "Temerity" #!Empty_LineInfo!
-	HAPAN_SHIP_our_lady_of_baldavia: "Our Lady of Baldavia" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_remit: "Royal Remit" #!Empty_LineInfo!
-	HAPAN_SHIP_iron_duchess: "Iron Duchess" #!Empty_LineInfo!
-	HAPAN_SHIP_valorous: "Valorous" #!Empty_LineInfo!
-	HAPAN_SHIP_princess_royal: "Princess Royal" #!Empty_LineInfo!
-	HAPAN_SHIP_repulsor: "Repulsor" #!Empty_LineInfo!
-	HAPAN_SHIP_renown: "Renown" #!Empty_LineInfo!
-	HAPAN_SHIP_courageous: "Courageous" #!Empty_LineInfo!
-	HAPAN_SHIP_glorious: "Glorious" #!Empty_LineInfo!
-	HAPAN_SHIP_furious: "Furious" #!Empty_LineInfo!
-	HAPAN_SHIP_black_prince: "Black Prince" #!Empty_LineInfo!
-	HAPAN_SHIP_scorpiox: "Scorpiox" #!Empty_LineInfo!
-	HAPAN_SHIP_heror: "Heror" #!Empty_LineInfo!
-	HAPAN_SHIP_monitor: "Monitor" #!Empty_LineInfo!
-	HAPAN_SHIP_silverine: "Silverine" #!Empty_LineInfo!
-	HAPAN_SHIP_katahdin: "Katahdin" #!Empty_LineInfo!
-	HAPAN_SHIP_polybellum: "Polybellum" #!Empty_LineInfo!
-	HAPAN_SHIP_surprise: "Surprise" #!Empty_LineInfo!
-	HAPAN_SHIP_witch_of_rynmar: "Witch of Rynmar" #!Empty_LineInfo!
-	HAPAN_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
-	HAPAN_SHIP_endeavour: "Endeavour" #!Empty_LineInfo!
-	HAPAN_SHIP_providence: "Providence" #!Empty_LineInfo!
-	HAPAN_SHIP_void_ranger: "Void Ranger" #!Empty_LineInfo!
-	HAPAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
-	HAPAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
-	HAPAN_SHIP_warlock: "Warlock" #!Empty_LineInfo!
-	HAPAN_SHIP_viperous: "Viperous" #!Empty_LineInfo!
-	HAPAN_SHIP_null_tiger: "Null Tiger" #!Empty_LineInfo!
-	HAPAN_SHIP_makepeace: "Makepeace" #!Empty_LineInfo!
-	HAPAN_SHIP_daring: "Daring" #!Empty_LineInfo!
-	HAPAN_SHIP_peremptory: "Peremptory" #!Empty_LineInfo!
-	HAPAN_SHIP_absolution: "Absolution" #!Empty_LineInfo!
-	HAPAN_SHIP_advocator: "Advocator" #!Empty_LineInfo!
-	HAPAN_SHIP_campaigner: "Campaigner" #!Empty_LineInfo!
-	HAPAN_SHIP_upholder: "Upholder" #!Empty_LineInfo!
-	HAPAN_SHIP_preeminent: "Preeminent" #!Empty_LineInfo!
-	HAPAN_SHIP_accolade: "Accolade" #!Empty_LineInfo!
-	HAPAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
-	HAPAN_SHIP_exultant: "Exultant" #!Empty_LineInfo!
-	HAPAN_SHIP_hapan_delight: "Hapan Delight" #!Empty_LineInfo!
-	HAPAN_SHIP_grandeur: "Grandeur" #!Empty_LineInfo!
-	HAPAN_SHIP_radiant: "Radiant" #!Empty_LineInfo!
-	HAPAN_SHIP_brilliance: "Brilliance" #!Empty_LineInfo!
-	HAPAN_SHIP_mist_taken: "Mist Taken" #!Empty_LineInfo!
-	HAPAN_SHIP_stormcloud: "Stormcloud" #!Empty_LineInfo!
-	HAPAN_SHIP_fogdriver: "Fogdriver" #!Empty_LineInfo!
-	HAPAN_SHIP_hazebreaker: "Hazebreaker" #!Empty_LineInfo!
-	HAPAN_SHIP_murkpiercer: "Murkpiercer" #!Empty_LineInfo!
-	HAPAN_SHIP_gloomsnapper: "Gloomsnapper" #!Empty_LineInfo!
-	HAPAN_SHIP_hapan_nova: "Hapan Nova" #!Empty_LineInfo!
-	HAPAN_SHIP_challenger: "Challenger" #!Empty_LineInfo!
-	HAPAN_SHIP_zarbatross: "Zarbatross" #!Empty_LineInfo!
-	HAPAN_SHIP_planetoid: "Planetoid" #!Empty_LineInfo!
-	HAPAN_SHIP_northern_star: "Northern Star" #!Empty_LineInfo!
-	HAPAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
-	HAPAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
-	HAPAN_SHIP_gentlewoman: "Gentlewoman" #!Empty_LineInfo!
-	HAPAN_SHIP_cottage: "Cottage" #!Empty_LineInfo!
-	HAPAN_SHIP_seabreeze: "Seabreeze" #!Empty_LineInfo!
-	HAPAN_SHIP_squall: "Squall" #!Empty_LineInfo!
-	HAPAN_SHIP_tempest: "Tempest" #!Empty_LineInfo!
-	HAPAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
-	HAPAN_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
-	HAPAN_SHIP_brief_gale: "Brief Gale" #!Empty_LineInfo!
-	HAPAN_SHIP_windgust: "Windgust" #!Empty_LineInfo!
-	HAPAN_SHIP_breezefinder: "Breezefinder" #!Empty_LineInfo!
-	HAPAN_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
-	HAPAN_SHIP_solarstorm: "Solarstorm" #!Empty_LineInfo!
-	HAPAN_SHIP_queen_s_blessing: "Queen's Blessing" #!Empty_LineInfo!
-	HAPAN_SHIP_queen_s_man: "Queen's Man" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_destiny: "Royal Destiny" #!Empty_LineInfo!
-	HAPAN_SHIP_silver_swan: "Silver Swan" #!Empty_LineInfo!
-	HAPAN_SHIP_western_driver: "Western Driver" #!Empty_LineInfo!
-	HAPAN_SHIP_novastar: "Novastar" #!Empty_LineInfo!
-	HAPAN_SHIP_corsair_spirit: "Corsair Spirit" #!Empty_LineInfo!
-	HAPAN_SHIP_stranded_goose: "Stranded Goose" #!Empty_LineInfo!
-	HAPAN_SHIP_blue_rose: "Blue Rose" #!Empty_LineInfo!
-	HAPAN_SHIP_dancing_dragon: "Dancing Dragon" #!Empty_LineInfo!
-	HAPAN_SHIP_evening_star: "Evening Star" #!Empty_LineInfo!
-	HAPAN_SHIP_crown_s_grace: "Crown's Grace" #!Empty_LineInfo!
-	HAPAN_SHIP_golden_future: "Golden Future" #!Empty_LineInfo!
-	HAPAN_SHIP_good_queen: "Good Queen" #!Empty_LineInfo!
-	HAPAN_SHIP_duster: "Duster" #!Empty_LineInfo!
-	HAPAN_SHIP_wind_s_favor: "Wind's Favor" #!Empty_LineInfo!
-	HAPAN_SHIP_tipsy_drake: "Tipsy Drake" #!Empty_LineInfo!
-	HAPAN_SHIP_twice_removed: "Twice Removed" #!Empty_LineInfo!
-	HAPAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	HAPAN_SHIP_prodigal_daughter: "Prodigal Daughter" #!Empty_LineInfo!
-	HAPAN_SHIP_consort_of_courage: "Consort of Courage" #!Empty_LineInfo!
-	HAPAN_SHIP_wayland: "Wayland" #!Empty_LineInfo!
-	HAPAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
-	HAPAN_SHIP_plum_blossom: "Plum Blossom" #!Empty_LineInfo!
-	HAPAN_SHIP_white_ring: "White Ring" #!Empty_LineInfo!
-	HAPAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
-	HAPAN_SHIP_osran_gar: "Osran'gar" #!Empty_LineInfo!
-	HAPAN_SHIP_sisterhood: "Sisterhood" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_architect: "Royal Architect" #!Empty_LineInfo!
-	HAPAN_SHIP_steelmason: "Steelmason" #!Empty_LineInfo!
-	HAPAN_SHIP_studious: "Studious" #!Empty_LineInfo!
-	HAPAN_SHIP_dutiful: "Dutiful" #!Empty_LineInfo!
-	HAPAN_SHIP_requisite: "Requisite" #!Empty_LineInfo!
-	HAPAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
-	HAPAN_SHIP_guildmaster: "Guildmaster" #!Empty_LineInfo!
-	HAPAN_SHIP_mistress_queen: "Mistress Queen" #!Empty_LineInfo!
-	HAPAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
-	HAPAN_SHIP_tradeswoman: "Tradeswoman" #!Empty_LineInfo!
-	HAPAN_SHIP_artisan: "Artisan" #!Empty_LineInfo!
-	HAPAN_SHIP_stellarwright: "Stellarwright" #!Empty_LineInfo!
-	HAPAN_SHIP_voidsmith: "Voidsmith" #!Empty_LineInfo!
-	HAPAN_SHIP_voidmaker: "Voidmaker" #!Empty_LineInfo!
-	HAPAN_SHIP_developer: "Developer" #!Empty_LineInfo!
-	HAPAN_SHIP_starbuilder: "Starbuilder" #!Empty_LineInfo!
-	HAPAN_SHIP_journeywoman: "Journeywoman" #!Empty_LineInfo!
-	HAPAN_SHIP_overseer: "Overseer" #!Empty_LineInfo!
-	HAPAN_SHIP_forewoman: "Forewoman" #!Empty_LineInfo!
-	HAPAN_SHIP_charterer: "Charterer" #!Empty_LineInfo!
-	HAPAN_SHIP_architect: "Architect" #!Empty_LineInfo!
-	HAPAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
-	HAPAN_SHIP_royal_dropship: "Royal Dropship" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	HAPAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	HAPAN_SHIP_sargon: "Sargon" #!Empty_LineInfo!
-	HAPAN_SHIP_modus: "Modus" #!Empty_LineInfo!
-	HAPAN_SHIP_vergill: "Vergill" #!Empty_LineInfo!
-	HAPAN_SHIP_maires: "Maires" #!Empty_LineInfo!
-	HAPAN_SHIP_lovola: "Lovola" #!Empty_LineInfo!
-	HAPAN_SHIP_ket: "Ket" #!Empty_LineInfo!
-	HAPAN_SHIP_daruvvia: "Daruvvia" #!Empty_LineInfo!
-	HAPAN_SHIP_lorell_yards: "Lorell Yards" #!Empty_LineInfo!
-	HAPAN_SHIP_divora: "Divora" #!Empty_LineInfo!
-	HAPAN_SHIP_jodaka: "Jodaka" #!Empty_LineInfo!
-	HAPAN_SHIP_stalisinek: "Stalisinek" #!Empty_LineInfo!
-	HAPAN_SHIP_nantuker: "Nantuker" #!Empty_LineInfo!
-	HAPAN_SHIP_k_farri: "k'Farri" #!Empty_LineInfo!
-	HAPAN_SHIP_calfa: "Calfa" #!Empty_LineInfo!
-	HAPAN_SHIP_dreena: "Dreena" #!Empty_LineInfo!
-	HAPAN_SHIP_reboam: "Reboam" #!Empty_LineInfo!
-	HAPAN_SHIP_shedu_watch: "Shedu Watch" #!Empty_LineInfo!
-	HAPAN_SHIP_roqoo: "Roqoo" #!Empty_LineInfo!
-	HAPAN_SHIP_terephon: "Terephon" #!Empty_LineInfo!
-	HAPAN_SHIP_zalori: "Zalori" #!Empty_LineInfo!
-	HAPAN_SHIP_rainboh: "Rainboh" #!Empty_LineInfo!
-	HAPAN_SHIP_rynmar: "Rynmar" #!Empty_LineInfo!
-	HAPAN_SHIP_orelon: "Orelon" #!Empty_LineInfo!
-	HAPAN_SHIP_febrini: "Febrini" #!Empty_LineInfo!
-	HAPAN_SHIP_zadaria: "Zadaria" #!Empty_LineInfo!
-	HAPAN_SHIP_phelope: "Phelope" #!Empty_LineInfo!
-	HAPAN_SHIP_ediorun: "Ediorun" #!Empty_LineInfo!
-	HAPAN_SHIP_tumani: "Tumani" #!Empty_LineInfo!
-	HAPAN_SHIP_tinta: "Tinta" #!Empty_LineInfo!
-	HAPAN_SHIP_rbollea: "Rbollea" #!Empty_LineInfo!
-	HAPAN_SHIP_carlania: "Carlania" #!Empty_LineInfo!
-	HAPAN_SHIP_arabanth: "Arabanth" #!Empty_LineInfo!
-	HAPAN_SHIP_ult: "Ult" #!Empty_LineInfo!
-	HAPAN_SHIP_hartera: "Hartera" #!Empty_LineInfo!
-	HAPAN_SHIP_lemmi: "Lemmi" #!Empty_LineInfo!
-	HAPAN_SHIP_thrakia: "Thrakia" #!Empty_LineInfo!
-	HAPAN_SHIP_lovaria: "Lovaria" #!Empty_LineInfo!
-	HAPAN_SHIP_selab: "Selab" #!Empty_LineInfo!
-	HAPAN_SHIP_archais: "Archais" #!Empty_LineInfo!
-	HAPAN_SHIP_lalym_ash: "Lalym'ash" #!Empty_LineInfo!
-	HAPAN_SHIP_milinar: "Milinar" #!Empty_LineInfo!
-	HAPAN_SHIP_theselon: "Theselon" #!Empty_LineInfo!
-	HAPAN_SHIP_baldavia: "Baldavia" #!Empty_LineInfo!
-	HAPAN_SHIP_gallin_s_seat: "Gallin's Seat" #!Empty_LineInfo!
-	HAPAN_SHIP_novi: "Novi" #!Empty_LineInfo!
-	HAPAN_SHIP_fanica: "Fanica" #!Empty_LineInfo!
-	HAPAN_SHIP_sivoria: "Sivoria" #!Empty_LineInfo!
-	HAPAN_SHIP_talcharaim: "Talcharaim" #!Empty_LineInfo!
-	HAPAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	HAPAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	HAPAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	HAPAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	HAPAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	HAPAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	HAPAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	HAPAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	HAPAN_FLEET_royal_navy_ORD: "$ORD$ Royal Navy" #!Empty_LineInfo!
-	HAPAN_ARMY_royal_guard_ORD: "$ORD$ Royal Guard" #!Empty_LineInfo!
-	HAPAN_ARMY_voidstream_grenadiers_ORD: "$ORD$ Voidstream Grenadiers" #!Empty_LineInfo!
-	HAPAN_ARMY_queen_s_rifles_ORD: "$ORD$ Queen's Rifles" #!Empty_LineInfo!
-	HAPAN_ARMY_clone_rifles_ORD: "$ORD$ Clone Rifles" #!Empty_LineInfo!
-	HAPAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	HAPAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	HAPAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	HAPAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	HAPAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	HAPAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	HAPAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	HAPAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	HAPAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	HAPAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	HAPAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	HAPAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	HAPAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	HAPAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	HAPAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	HAPAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	HAPAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	HAPAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	HAPAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	HAPAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	HAPAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	HAPAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	HAPAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	HAPAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	HAPAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	HAPAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	HAPAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	HAPAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	HAPAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	HAPAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	HAPAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	HAPAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	HAPAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	HAPAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	HAPAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	HAPAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	HAPAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	HAPAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	HAPAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	HAPAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	HAPAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	HAPAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	HAPAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	HAPAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	HAPAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	HAPAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	HAPAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	HAPAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	HAPAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	HAPAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	HAPAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	HAPAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	HAPAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	HAPAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	HAPAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	HAPAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	HAPAN_CHR_prince_brok: "Prince Brok" #!Empty_LineInfo!
-	HAPAN_CHR_lord_isolder: "Lord Isolder" #!Empty_LineInfo!
-	HAPAN_CHR_baron_benwick: "Baron Benwick" #!Empty_LineInfo!
-	HAPAN_CHR_duke_vonce: "Duke Vonce" #!Empty_LineInfo!
-	HAPAN_CHR_prince_droekle: "Prince Droekle" #!Empty_LineInfo!
-	HAPAN_CHR_lord_mirana: "Lord Mirana" #!Empty_LineInfo!
-	HAPAN_CHR_baron_trisdin: "Baron Trisdin" #!Empty_LineInfo!
-	HAPAN_CHR_duke_aleson: "Duke Aleson" #!Empty_LineInfo!
-	HAPAN_CHR_prince_kalen: "Prince Kalen" #!Empty_LineInfo!
-	HAPAN_CHR_lord_harravan: "Lord Harravan" #!Empty_LineInfo!
-	HAPAN_CHR_baron_sinsor: "Baron Sinsor" #!Empty_LineInfo!
-	HAPAN_CHR_duke_livette: "Duke Livette" #!Empty_LineInfo!
-	HAPAN_CHR_prince_lol: "Prince Lol" #!Empty_LineInfo!
-	HAPAN_CHR_lord_seth: "Lord Seth" #!Empty_LineInfo!
-	HAPAN_CHR_baron_beed: "Baron Beed" #!Empty_LineInfo!
-	HAPAN_CHR_duke_ubris: "Duke Ubris" #!Empty_LineInfo!
-	HAPAN_CHR_prince_vivil: "Prince Vivil" #!Empty_LineInfo!
-	HAPAN_CHR_lord_haemon: "Lord Haemon" #!Empty_LineInfo!
-	HAPAN_CHR_baron_bryn: "Baron Bryn" #!Empty_LineInfo!
-	HAPAN_CHR_prince_gaereth: "Prince Gaereth" #!Empty_LineInfo!
-	HAPAN_CHR_lord_bandor: "Lord Bandor" #!Empty_LineInfo!
-	HAPAN_CHR_baron_banley: "Baron Banley" #!Empty_LineInfo!
-	HAPAN_CHR_duke_cardacs: "Duke Cardacs" #!Empty_LineInfo!
-	HAPAN_CHR_prince_cerik: "Prince Cerik" #!Empty_LineInfo!
-	HAPAN_CHR_lord_cristov: "Lord Cristov" #!Empty_LineInfo!
-	HAPAN_CHR_baron_coris: "Baron Coris" #!Empty_LineInfo!
-	HAPAN_CHR_duke_falk: "Duke Falk" #!Empty_LineInfo!
-	HAPAN_CHR_prince_daek: "Prince Daek" #!Empty_LineInfo!
-	HAPAN_CHR_lord_devdera: "Lord Devdera" #!Empty_LineInfo!
-	HAPAN_CHR_baron_omatrev: "Baron Omatrev" #!Empty_LineInfo!
-	HAPAN_CHR_duke_jamidan: "Duke Jamidan" #!Empty_LineInfo!
-	HAPAN_CHR_prince_sagzac: "Prince Sagzac" #!Empty_LineInfo!
-	HAPAN_CHR_lord_jartok: "Lord Jartok" #!Empty_LineInfo!
-	HAPAN_CHR_baron_roncarl: "Baron Roncarl" #!Empty_LineInfo!
-	HAPAN_CHR_duke_huschar: "Duke Huschar" #!Empty_LineInfo!
-	HAPAN_CHR_prince_guyger: "Prince Guyger" #!Empty_LineInfo!
-	HAPAN_CHR_lord_maxjar: "Lord Maxjar" #!Empty_LineInfo!
-	HAPAN_CHR_baron_irel: "Baron Irel" #!Empty_LineInfo!
-	HAPAN_CHR_duke_leotyol: "Duke Leotyol" #!Empty_LineInfo!
-	HAPAN_CHR_prince_tyrol: "Prince Tyrol" #!Empty_LineInfo!
-	HAPAN_CHR_lord_coltrev: "Lord Coltrev" #!Empty_LineInfo!
-	HAPAN_CHR_baron_robenn: "Baron Robenn" #!Empty_LineInfo!
-	HAPAN_CHR_prince_mattrim: "Prince Mattrim" #!Empty_LineInfo!
-	HAPAN_CHR_lord_matton: "Lord Matton" #!Empty_LineInfo!
-	HAPAN_CHR_baron_lan: "Baron Lan" #!Empty_LineInfo!
-	HAPAN_CHR_duke_nigel: "Duke Nigel" #!Empty_LineInfo!
-	HAPAN_CHR_prince_tyrevan: "Prince Tyrevan" #!Empty_LineInfo!
-	HAPAN_CHR_lord_garrity: "Lord Garrity" #!Empty_LineInfo!
-	HAPAN_CHR_baron_bryke: "Baron Bryke" #!Empty_LineInfo!
-	HAPAN_CHR_duke_osgriff: "Duke Osgriff" #!Empty_LineInfo!
-	HAPAN_CHR_prince_kriswill: "Prince Kriswill" #!Empty_LineInfo!
-	HAPAN_CHR_lord_perrin: "Lord Perrin" #!Empty_LineInfo!
-	HAPAN_CHR_baron_rand: "Baron Rand" #!Empty_LineInfo!
-	HAPAN_CHR_duke_tamlin: "Duke Tamlin" #!Empty_LineInfo!
-	HAPAN_CHR_prince_gallad: "Prince Gallad" #!Empty_LineInfo!
-	HAPAN_CHR_lord_demandred: "Lord Demandred" #!Empty_LineInfo!
-	HAPAN_CHR_baron_tigraine: "Baron Tigraine" #!Empty_LineInfo!
-	HAPAN_CHR_duke_taringail: "Duke Taringail" #!Empty_LineInfo!
-	HAPAN_CHR_prince_gawyn: "Prince Gawyn" #!Empty_LineInfo!
-	HAPAN_CHR_lord_henre: "Lord Henre" #!Empty_LineInfo!
-	HAPAN_CHR_baron_eamon: "Baron Eamon" #!Empty_LineInfo!
-	HAPAN_CHR_duke_alwyn: "Duke Alwyn" #!Empty_LineInfo!
-	HAPAN_CHR_prince_rodel: "Prince Rodel" #!Empty_LineInfo!
-	HAPAN_CHR_lord_pedron: "Lord Pedron" #!Empty_LineInfo!
-	HAPAN_CHR_baron_dain: "Baron Dain" #!Empty_LineInfo!
-	HAPAN_CHR_prince_byar: "Prince Byar" #!Empty_LineInfo!
-	HAPAN_CHR_lord_tham: "Lord Tham" #!Empty_LineInfo!
-	HAPAN_CHR_baron_abel: "Baron Abel" #!Empty_LineInfo!
-	HAPAN_CHR_duke_allin: "Duke Allin" #!Empty_LineInfo!
-	HAPAN_CHR_prince_valbert: "Prince Valbert" #!Empty_LineInfo!
-	HAPAN_CHR_lord_eazil: "Lord Eazil" #!Empty_LineInfo!
-	HAPAN_CHR_baron_avin: "Baron Avin" #!Empty_LineInfo!
-	HAPAN_CHR_duke_ewin: "Duke Ewin" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_allana: "Ducha Allana" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_alyssia: "Duch'da Alyssia" #!Empty_LineInfo!
-	HAPAN_CHR_countess_astarta: "Countess Astarta" #!Empty_LineInfo!
-	HAPAN_CHR_lady_beyele: "Lady Beyele" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_chelik: "Baroness Chelik" #!Empty_LineInfo!
-	HAPAN_CHR_duchess_beyele: "Duchess Beyele" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_moreem: "Ducha Moreem" #!Empty_LineInfo!
-	HAPAN_CHR_lady_chell: "Lady Chell" #!Empty_LineInfo!
-	HAPAN_CHR_countess_yliri: "Countess Yliri" #!Empty_LineInfo!
-	HAPAN_CHR_lady_elliar: "Lady Elliar" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_ithila: "Baroness Ithila" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_hesha: "Viscountess Hesha" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_meala: "Ducha Meala" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_lalu: "Duch'da Lalu" #!Empty_LineInfo!
-	HAPAN_CHR_countess_roh: "Countess Roh" #!Empty_LineInfo!
-	HAPAN_CHR_lady_secciah: "Lady Secciah" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_skela: "Baroness Skela" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_tika: "Viscountess Tika" #!Empty_LineInfo!
-	HAPAN_CHR_lady_ta_a: "Lady Ta'a" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_taryn: "Duch'da Taryn" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_trista: "Duch'da Trista" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_nyana: "Ducha Nyana" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_nisain: "Duch'da Nisain" #!Empty_LineInfo!
-	HAPAN_CHR_countess_afara: "Countess Afara" #!Empty_LineInfo!
-	HAPAN_CHR_lady_lelaine: "Lady Lelaine" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_teire: "Baroness Teire" #!Empty_LineInfo!
-	HAPAN_CHR_duchess_desandre: "Duchess Desandre" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_meilwyn: "Ducha Meilwyn" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_ashmanali: "Duch'da Ashmanali" #!Empty_LineInfo!
-	HAPAN_CHR_countess_ballair: "Countess Ballair" #!Empty_LineInfo!
-	HAPAN_CHR_lady_jala: "Lady Jala" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_gelarna: "Baroness Gelarna" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_zenaira: "Viscountess Zenaira" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_janya: "Ducha Janya" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_tarna: "Duch'da Tarna" #!Empty_LineInfo!
-	HAPAN_CHR_countess_andaya: "Countess Andaya" #!Empty_LineInfo!
-	HAPAN_CHR_lady_careane: "Lady Careane" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_valera: "Baroness Valera" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_liandra: "Viscountess Liandra" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_rina: "Ducha Rina" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_escarla: "Duch'da Escarla" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_faeldra: "Duch'da Faeldra" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_bera: "Ducha Bera" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_eldrith: "Duch'da Eldrith" #!Empty_LineInfo!
-	HAPAN_CHR_countess_tessia: "Countess Tessia" #!Empty_LineInfo!
-	HAPAN_CHR_lady_marasa: "Lady Marasa" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_vayelle: "Baroness Vayelle" #!Empty_LineInfo!
-	HAPAN_CHR_duchess_moria: "Duchess Moria" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_gerra: "Ducha Gerra" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_lairain: "Duch'da Lairain" #!Empty_LineInfo!
-	HAPAN_CHR_countess_serenia: "Countess Serenia" #!Empty_LineInfo!
-	HAPAN_CHR_lady_theondrimetta: "Lady Theondrimetta" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_sedora: "Baroness Sedora" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_myriam: "Viscountess Myriam" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_danella: "Ducha Danella" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_ajala: "Duch'da Ajala" #!Empty_LineInfo!
-	HAPAN_CHR_countess_velaine: "Countess Velaine" #!Empty_LineInfo!
-	HAPAN_CHR_lady_sheria: "Lady Sheria" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_erian: "Baroness Erian" #!Empty_LineInfo!
-	HAPAN_CHR_viscountess_silviana: "Viscountess Silviana" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_brenva: "Ducha Brenva" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_mitsora: "Duch'da Mitsora" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_anaya: "Duch'da Anaya" #!Empty_LineInfo!
-	HAPAN_CHR_duchess_zomanda: "Duchess Zomanda" #!Empty_LineInfo!
-	HAPAN_CHR_lady_rafela: "Lady Rafela" #!Empty_LineInfo!
-	HAPAN_CHR_countess_nirelle: "Countess Nirelle" #!Empty_LineInfo!
-	HAPAN_CHR_lady_copan: "Lady Copan" #!Empty_LineInfo!
-	HAPAN_CHR_baroness_mindretta: "Baroness Mindretta" #!Empty_LineInfo!
-	HAPAN_CHR_duchess_kat: "Duchess Kat" #!Empty_LineInfo!
-	HAPAN_CHR_ducha_morerain: "Ducha Morerain" #!Empty_LineInfo!
-	HAPAN_CHR_duch_da_nyaneva: "Duch'da Nyaneva" #!Empty_LineInfo!
-	HAPAN_CHR_countess_kailista: "Countess Kailista" #!Empty_LineInfo!
-	HAPAN_CHR_lady_juliox: "Lady Juliox" #!Empty_LineInfo!
-	HAPAN_CHR_algray: "AlGray" #!Empty_LineInfo!
-	HAPAN_CHR_aros: "Aros" #!Empty_LineInfo!
-	HAPAN_CHR_espara: "Espara" #!Empty_LineInfo!
-	HAPAN_CHR_consta: "Consta" #!Empty_LineInfo!
-	HAPAN_CHR_fioro: "Fioro" #!Empty_LineInfo!
-	HAPAN_CHR_galney: "Galney" #!Empty_LineInfo!
-	HAPAN_CHR_gheer: "Gheer" #!Empty_LineInfo!
-	HAPAN_CHR_gray: "Gray" #!Empty_LineInfo!
-	HAPAN_CHR_khal: "Khal" #!Empty_LineInfo!
-	HAPAN_CHR_lovett: "Lovett" #!Empty_LineInfo!
-	HAPAN_CHR_luvalle: "Luvalle" #!Empty_LineInfo!
-	HAPAN_CHR_maluri: "Maluri" #!Empty_LineInfo!
-	HAPAN_CHR_miilarta: "Miilarta" #!Empty_LineInfo!
-	HAPAN_CHR_morwan: "Morwan" #!Empty_LineInfo!
-	HAPAN_CHR_requud: "Requud" #!Empty_LineInfo!
-	HAPAN_CHR_thane: "Thane" #!Empty_LineInfo!
-	HAPAN_CHR_zel: "Zel" #!Empty_LineInfo!
-	HAPAN_CHR_charubah: "Charubah" #!Empty_LineInfo!
-	HAPAN_CHR_firecam: "Firecam" #!Empty_LineInfo!
-	HAPAN_CHR_kadrim: "Kadrim" #!Empty_LineInfo!
-	HAPAN_CHR_locke: "Locke" #!Empty_LineInfo!
-	HAPAN_CHR_kam: "Kam" #!Empty_LineInfo!
-	HAPAN_CHR_erek: "Erek" #!Empty_LineInfo!
-	HAPAN_CHR_arslan: "Arslan" #!Empty_LineInfo!
-	HAPAN_CHR_lerak: "Lerak" #!Empty_LineInfo!
-	HAPAN_CHR_morla: "Morla" #!Empty_LineInfo!
-	HAPAN_CHR_mas: "Mas" #!Empty_LineInfo!
-	HAPAN_CHR_wain: "Wain" #!Empty_LineInfo!
-	HAPAN_CHR_bail: "Bail" #!Empty_LineInfo!
-	HAPAN_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
-	HAPAN_CHR_dewell: "Dewell" #!Empty_LineInfo!
-	HAPAN_CHR_tanner: "Tanner" #!Empty_LineInfo!
-	HAPAN_CHR_vi: "Vi" #!Empty_LineInfo!
-	HAPAN_CHR_rush: "Rush" #!Empty_LineInfo!
-	HAPAN_CHR_danry: "Danry" #!Empty_LineInfo!
-	HAPAN_CHR_callista: "Callista" #!Empty_LineInfo!
-	HAPAN_CHR_mara: "Mara" #!Empty_LineInfo!
-	HAPAN_CHR_seena: "Seena" #!Empty_LineInfo!
-	HAPAN_CHR_areta: "Areta" #!Empty_LineInfo!
-	HAPAN_CHR_padm_: "Padmé" #!Empty_LineInfo!
-	HAPAN_CHR_fema: "Fema" #!Empty_LineInfo!
-	HAPAN_CHR_mina: "Mina" #!Empty_LineInfo!
-	HAPAN_CHR_bana: "Bana" #!Empty_LineInfo!
-	HAPAN_CHR_tyreca: "Tyreca" #!Empty_LineInfo!
-	HAPAN_CHR_halle: "Halle" #!Empty_LineInfo!
-	HAPAN_CHR_lexi: "Lexi" #!Empty_LineInfo!
-	HAPAN_CHR_leia: "Leia" #!Empty_LineInfo!
-	HAPAN_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
-	HAPAN_CHR_leanna: "Leanna" #!Empty_LineInfo!
-	HAPAN_CHR_arya: "Arya" #!Empty_LineInfo!
-	HAPAN_CHR_drakarian: "Drakarian" #!Empty_LineInfo!
-	HAPAN_CHR_djo: "Djo" #!Empty_LineInfo!
+ HAPAN_SHIP_consort: "Консорт"
+ HAPAN_SHIP_paladin: "Паладин"
+ HAPAN_SHIP_halberd: "Алебарда"
+ HAPAN_SHIP_chalice: "Чаша"
+ HAPAN_SHIP_vow_eternal: "Вечный обет"
+ HAPAN_SHIP_gorget: "Горжет"
+ HAPAN_SHIP_pauldron: "Наплечник"
+ HAPAN_SHIP_glory: "Слава"
+ HAPAN_SHIP_bannerlady: "Баннерледи"
+ HAPAN_SHIP_indenturer: "Участник договора"
+ HAPAN_SHIP_abbess: "Настоятельница"
+ HAPAN_SHIP_bannersworn: "Потертый баннер"
+ HAPAN_SHIP_claymore: "Клеймор"
+ HAPAN_SHIP_lancer: "Лансер"
+ HAPAN_SHIP_yeowoman: "Йеоменка"
+ HAPAN_SHIP_armswoman: "Оруженосец"
+ HAPAN_SHIP_shield_maiden: "Дева-воительница"
+ HAPAN_SHIP_in_her_majesty_s_service: "На службе Ее Величества"
+ HAPAN_SHIP_virtuous: "Добродетельный"
+ HAPAN_SHIP_cannonness: "Пушечность"
+ HAPAN_SHIP_trumpeter: "Трубач"
+ HAPAN_SHIP_fencer: "Фехтовальщик"
+ HAPAN_SHIP_champion: "Чемпион"
+ HAPAN_SHIP_queen_mother_s_revenge: "Месть королевы-матери"
+ HAPAN_SHIP_isoldant: "Изольдант"
+ HAPAN_SHIP_mistrunner: "Бегущий по недоразумению"
+ HAPAN_SHIP_huntress: "Охотница"
+ HAPAN_SHIP_gallant: "Галантный"
+ HAPAN_SHIP_courser: "Курсант"
+ HAPAN_SHIP_stallion: "Жеребец"
+ HAPAN_SHIP_crusader: "Крестоносец"
+ HAPAN_SHIP_righteous: "Праведный"
+ HAPAN_SHIP_knight_errant: "Странствующий рыцарь"
+ HAPAN_SHIP_windfavored: "Любимец ветра"
+ HAPAN_SHIP_windfinder: "Ищущий ветер"
+ HAPAN_SHIP_navigator: "Навигатор"
+ HAPAN_SHIP_stalwart: "Стойкий"
+ HAPAN_SHIP_steadfast: "Стойкий"
+ HAPAN_SHIP_implacable: "Неумолимый"
+ HAPAN_SHIP_paragon: "Образец совершенства"
+ HAPAN_SHIP_lady_in_waiting: "Фрейлина"
+ HAPAN_SHIP_paramour: "Любовник"
+ HAPAN_SHIP_queensman: "Квинсмен"
+ HAPAN_SHIP_retainer: "Фиксатор"
+ HAPAN_SHIP_charger: "Зарядное устройство"
+ HAPAN_SHIP_liegeman: "Вассал"
+ HAPAN_SHIP_maiden: "Дева"
+ HAPAN_SHIP_amazon: "Амазонка"
+ HAPAN_SHIP_valkyrie: "Валькирия"
+ HAPAN_SHIP_leal_duty: "Законный долг"
+ HAPAN_SHIP_baroness: "Баронесса"
+ HAPAN_SHIP_our_blessed_lady_of_kavan: "Наша Благословенная Леди Каван"
+ HAPAN_SHIP_resplendant: "Блистательный"
+ HAPAN_SHIP_commandment: "Заповедь"
+ HAPAN_SHIP_eternal_reign: "Вечное царствование"
+ HAPAN_SHIP_clarion: "Кларион"
+ HAPAN_SHIP_wellfarer: "Путешественник"
+ HAPAN_SHIP_savior: "Спаситель"
+ HAPAN_SHIP_armitage: "Армитаж"
+ HAPAN_SHIP_seeker: "Искатель"
+ HAPAN_SHIP_ereneda: "Эренеда"
+ HAPAN_SHIP_squire: "Оруженосец"
+ HAPAN_SHIP_herald: "Вестник"
+ HAPAN_SHIP_magnamity: "Величие"
+ HAPAN_SHIP_fogcutter: "Противотуманный истребитель"
+ HAPAN_SHIP_gloom_watcher: "Наблюдатель мрака"
+ HAPAN_SHIP_warden: "надзиратель"
+ HAPAN_SHIP_footman: "Лакей"
+ HAPAN_SHIP_triumphant: "Триумфатор"
+ HAPAN_SHIP_cavalier: "Кавалер"
+ HAPAN_SHIP_hussar: "Гусар"
+ HAPAN_SHIP_thunderer: "Громовержец"
+ HAPAN_SHIP_bright_lance: "Яркое копье"
+ HAPAN_SHIP_shield_of_cheruba: "Щит Херувима"
+ HAPAN_SHIP_daughter_of_lorell: "Дочь Лорелл"
+ HAPAN_SHIP_terror_of_terephon: "Ужас Терефона"
+ HAPAN_SHIP_beneficent: "Благотворный"
+ HAPAN_SHIP_magnanimous: "Великодушный"
+ HAPAN_SHIP_heir_of_command: "Наследник командования"
+ HAPAN_SHIP_princess: "Принцесса"
+ HAPAN_SHIP_duchess: "Герцогиня"
+ HAPAN_SHIP_monarch: "Монарх"
+ HAPAN_SHIP_aristocrat: "Аристократ"
+ HAPAN_SHIP_tsarina: "Царица"
+ HAPAN_SHIP_poleaxe: "Секира"
+ HAPAN_SHIP_castellan: "Смотритель"
+ HAPAN_SHIP_limitless: "Безграничный"
+ HAPAN_SHIP_paraphet: "Парафет"
+ HAPAN_SHIP_unto_the_rampart: "К крепостному валу"
+ HAPAN_SHIP_full_tilt: "Полный наклон"
+ HAPAN_SHIP_equerry: "Конюший"
+ HAPAN_SHIP_praetorian: "Преторианец"
+ HAPAN_SHIP_fidelity: "Верность"
+ HAPAN_SHIP_allegiant: "Верный"
+ HAPAN_SHIP_obedient: "Послушный"
+ HAPAN_SHIP_jouster: "Рыцарский турнир"
+ HAPAN_SHIP_white_knight: "Белый рыцарь"
+ HAPAN_SHIP_rainbow_chevalier: "Кавалер радуги"
+ HAPAN_SHIP_equestrian: "Наездник"
+ HAPAN_SHIP_sister_trung: "Сестра Трунг"
+ HAPAN_SHIP_allaya: "Аллайя"
+ HAPAN_SHIP_kalenfire: "Каленфайр"
+ HAPAN_SHIP_chume: "Чум"
+ HAPAN_SHIP_song_of_war: "Песня войны"
+ HAPAN_SHIP_daphoros: "Дафорос"
+ HAPAN_SHIP_deserving_gem: "Достойная жемчужина"
+ HAPAN_SHIP_dragon_queen: "Королева драконов"
+ HAPAN_SHIP_jeweled_delight: "Драгоценное наслаждение"
+ HAPAN_SHIP_kendall: "Кендалл"
+ HAPAN_SHIP_loyal_dragon: "Верный дракон"
+ HAPAN_SHIP_lucky_dragon: "Счастливый дракон"
+ HAPAN_SHIP_lady_worby: "Леди Уорби"
+ HAPAN_SHIP_rock_drake: "Рок Дрейк"
+ HAPAN_SHIP_star_home: "Звездный дом"
+ HAPAN_SHIP_starsprite: "Звездный источник"
+ HAPAN_SHIP_thunder_wraith: "Призрак Грома"
+ HAPAN_SHIP_alophon: "Алофон"
+ HAPAN_SHIP_remela: "Ремела"
+ HAPAN_SHIP_beknighted: "Посвящен в рыцари"
+ HAPAN_SHIP_relic: "Реликвия"
+ HAPAN_SHIP_invincible: "Непобедимый"
+ HAPAN_SHIP_sea_drake: "Морской дракон"
+ HAPAN_SHIP_talon: "Коготь"
+ HAPAN_SHIP_scaleheart: "Чешуйчатое сердце"
+ HAPAN_SHIP_dragoness: "Дракониха"
+ HAPAN_SHIP_faithful: "Верный"
+ HAPAN_SHIP_gale_serpent: "Штормовой змей"
+ HAPAN_SHIP_gatekeeper: "Привратник"
+ HAPAN_SHIP_maiden_blade: "Девичий клинок"
+ HAPAN_SHIP_royal_oak: "Королевский дуб"
+ HAPAN_SHIP_warspite: "Ярость войны"
+ HAPAN_SHIP_vampire: "Вампир"
+ HAPAN_SHIP_indefatigable: "Неутомимый"
+ HAPAN_SHIP_intrepid: "Бесстрашный"
+ HAPAN_SHIP_valiant: "Доблестный"
+ HAPAN_SHIP_defiant: "Непокорный"
+ HAPAN_SHIP_vanguard: "Авангард"
+ HAPAN_SHIP_ark_royal: "Арк Ройял"
+ HAPAN_SHIP_battleaxe: "Боевой топор"
+ HAPAN_SHIP_venerable: "Достопочтенный"
+ HAPAN_SHIP_majestic: "Маджестик"
+ HAPAN_SHIP_leviathan: "Левиафан"
+ HAPAN_SHIP_magnificent: "Великолепный"
+ HAPAN_SHIP_audacious: "Дерзкий"
+ HAPAN_SHIP_duke_of_cheruba: "Герцог Херувимский"
+ HAPAN_SHIP_prince_of_lorelli: "Принц Лорелли"
+ HAPAN_SHIP_hotspur: "Отчаянный"
+ HAPAN_SHIP_royal_soverign: "Королевский суверен"
+ HAPAN_SHIP_resolution: "Разрешение"
+ HAPAN_SHIP_repulse: "Отпор"
+ HAPAN_SHIP_centurion: "Центурион"
+ HAPAN_SHIP_princess_calfa: "Принцесса Калфа"
+ HAPAN_SHIP_victorious: "Победоносный"
+ HAPAN_SHIP_formidable: "Грозный"
+ HAPAN_SHIP_bulwark: "Оплот"
+ HAPAN_SHIP_commonwealth: "Содружество"
+ HAPAN_SHIP_swiftsure: "Свифтсур"
+ HAPAN_SHIP_triumph: "Триумф"
+ HAPAN_SHIP_lord_gallinore: "Лорд Галлинор"
+ HAPAN_SHIP_superb: "Превосходно"
+ HAPAN_SHIP_temerity: "Безрассудство"
+ HAPAN_SHIP_our_lady_of_baldavia: "Богоматерь Балдавийская"
+ HAPAN_SHIP_royal_remit: "Королевская компетенция"
+ HAPAN_SHIP_iron_duchess: "Железная герцогиня"
+ HAPAN_SHIP_valorous: "Доблестный"
+ HAPAN_SHIP_princess_royal: "Королевская принцесса"
+ HAPAN_SHIP_repulsor: "Репульсор"
+ HAPAN_SHIP_renown: "Известность"
+ HAPAN_SHIP_courageous: "Мужественный"
+ HAPAN_SHIP_glorious: "Великолепно"
+ HAPAN_SHIP_furious: "Яростный"
+ HAPAN_SHIP_black_prince: "Черный принц"
+ HAPAN_SHIP_scorpiox: "Скорпиокс"
+ HAPAN_SHIP_heror: "Герой"
+ HAPAN_SHIP_monitor: "Монитор"
+ HAPAN_SHIP_silverine: "Серебристый"
+ HAPAN_SHIP_katahdin: "Катадин"
+ HAPAN_SHIP_polybellum: "Полибеллум"
+ HAPAN_SHIP_surprise: "Сюрприз"
+ HAPAN_SHIP_witch_of_rynmar: "Ведьма из Ринмара"
+ HAPAN_SHIP_dauntless: "Бесстрашный"
+ HAPAN_SHIP_endeavour: "Индевор"
+ HAPAN_SHIP_providence: "Провидение"
+ HAPAN_SHIP_void_ranger: "Рейнджер пустоты"
+ HAPAN_SHIP_gladiator: "Гладиатор"
+ HAPAN_SHIP_vagabond: "Бродяга"
+ HAPAN_SHIP_warlock: "Чернокнижник"
+ HAPAN_SHIP_viperous: "Злобный"
+ HAPAN_SHIP_null_tiger: "Нулевой тигр"
+ HAPAN_SHIP_makepeace: "Мейкпис"
+ HAPAN_SHIP_daring: "Дерзкий"
+ HAPAN_SHIP_peremptory: "Императивный"
+ HAPAN_SHIP_absolution: "Отпущение грехов"
+ HAPAN_SHIP_advocator: "Защитник"
+ HAPAN_SHIP_campaigner: "Участник кампании"
+ HAPAN_SHIP_upholder: "Сторонник"
+ HAPAN_SHIP_preeminent: "Выдающийся"
+ HAPAN_SHIP_accolade: "Награда"
+ HAPAN_SHIP_eminence: "Высокопреосвященство"
+ HAPAN_SHIP_exultant: "Ликующий"
+ HAPAN_SHIP_hapan_delight: "Хапанский восторг"
+ HAPAN_SHIP_grandeur: "Величие"
+ HAPAN_SHIP_radiant: "Сияющий"
+ HAPAN_SHIP_brilliance: "Великолепие"
+ HAPAN_SHIP_mist_taken: "Взят туман"
+ HAPAN_SHIP_stormcloud: "Грозовая туча"
+ HAPAN_SHIP_fogdriver: "Противотуманный драйвер"
+ HAPAN_SHIP_hazebreaker: "Разрушитель тумана"
+ HAPAN_SHIP_murkpiercer: "Смертоносец"
+ HAPAN_SHIP_gloomsnapper: "Похититель мрака"
+ HAPAN_SHIP_hapan_nova: "Хапан Нова"
+ HAPAN_SHIP_challenger: "Претендент"
+ HAPAN_SHIP_zarbatross: "Зарбатросс"
+ HAPAN_SHIP_planetoid: "Планетоид"
+ HAPAN_SHIP_northern_star: "Северная звезда"
+ HAPAN_SHIP_untiring: "Неутомимый"
+ HAPAN_SHIP_zenith: "Зенит"
+ HAPAN_SHIP_gentlewoman: "Благородная женщина"
+ HAPAN_SHIP_cottage: "Коттедж"
+ HAPAN_SHIP_seabreeze: "Морской бриз"
+ HAPAN_SHIP_squall: "Шквал"
+ HAPAN_SHIP_tempest: "Буря"
+ HAPAN_SHIP_typhoon: "Тайфун"
+ HAPAN_SHIP_cyclone: "Циклон"
+ HAPAN_SHIP_brief_gale: "Короткий шторм"
+ HAPAN_SHIP_windgust: "Порыв ветра"
+ HAPAN_SHIP_breezefinder: "Бризфайндер"
+ HAPAN_SHIP_hurricane: "Ураган"
+ HAPAN_SHIP_solarstorm: "Солнечная буря"
+ HAPAN_SHIP_queen_s_blessing: "Благословение королевы"
+ HAPAN_SHIP_queen_s_man: "Человек королевы"
+ HAPAN_SHIP_royal_destiny: "Королевская судьба"
+ HAPAN_SHIP_silver_swan: "Серебряный лебедь"
+ HAPAN_SHIP_western_driver: "Водитель с Запада"
+ HAPAN_SHIP_novastar: "Новастар"
+ HAPAN_SHIP_corsair_spirit: "Корсарский дух"
+ HAPAN_SHIP_stranded_goose: "Выброшенный на берег гусь"
+ HAPAN_SHIP_blue_rose: "Голубая роза"
+ HAPAN_SHIP_dancing_dragon: "Танцующий дракон"
+ HAPAN_SHIP_evening_star: "Вечерняя звезда"
+ HAPAN_SHIP_crown_s_grace: "Милость короны"
+ HAPAN_SHIP_golden_future: "Золотое будущее"
+ HAPAN_SHIP_good_queen: "Добрая королева"
+ HAPAN_SHIP_duster: "Тряпка"
+ HAPAN_SHIP_wind_s_favor: "Попутный ветер"
+ HAPAN_SHIP_tipsy_drake: "Подвыпивший Дрейк"
+ HAPAN_SHIP_twice_removed: "Дважды удалено"
+ HAPAN_SHIP_progeny: "Потомство"
+ HAPAN_SHIP_prodigal_daughter: "Блудная дочь"
+ HAPAN_SHIP_consort_of_courage: "Супруга мужества"
+ HAPAN_SHIP_wayland: "Вэйленд"
+ HAPAN_SHIP_shining_city: "Сияющий город"
+ HAPAN_SHIP_plum_blossom: "Цветок сливы"
+ HAPAN_SHIP_white_ring: "Белое кольцо"
+ HAPAN_SHIP_wayfarer: "Путник"
+ HAPAN_SHIP_osran_gar: "Осран'гар"
+ HAPAN_SHIP_sisterhood: "Сестринство"
+ HAPAN_SHIP_royal_architect: "Королевский архитектор"
+ HAPAN_SHIP_steelmason: "Стальной каменщик"
+ HAPAN_SHIP_studious: "Прилежный"
+ HAPAN_SHIP_dutiful: "Исполнительный"
+ HAPAN_SHIP_requisite: "Необходимое условие"
+ HAPAN_SHIP_craftsman: "Мастер"
+ HAPAN_SHIP_guildmaster: "Глава гильдии"
+ HAPAN_SHIP_mistress_queen: "Госпожа королева"
+ HAPAN_SHIP_engineer: "Инженер"
+ HAPAN_SHIP_tradeswoman: "Торговка"
+ HAPAN_SHIP_artisan: "Ремесленник"
+ HAPAN_SHIP_stellarwright: "Звездный художник"
+ HAPAN_SHIP_voidsmith: "Кузнец пустоты"
+ HAPAN_SHIP_voidmaker: "Создатель пустоты"
+ HAPAN_SHIP_developer: "Разработчик"
+ HAPAN_SHIP_starbuilder: "Звездостроитель"
+ HAPAN_SHIP_journeywoman: "Путешественница"
+ HAPAN_SHIP_overseer: "Надзиратель"
+ HAPAN_SHIP_forewoman: "Старшая сестра"
+ HAPAN_SHIP_charterer: "Фрахтователь"
+ HAPAN_SHIP_architect: "Архитектор"
+ HAPAN_SHIP_accommodator: "Жилец"
+ HAPAN_SHIP_royal_dropship: "Королевский десантный корабль"
+ HAPAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ HAPAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ HAPAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ HAPAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ HAPAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ HAPAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ HAPAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ HAPAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ HAPAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ HAPAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ HAPAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ HAPAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ HAPAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ HAPAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ HAPAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ HAPAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ HAPAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ HAPAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ HAPAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ HAPAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ HAPAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ HAPAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ HAPAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ HAPAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ HAPAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ HAPAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ HAPAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ HAPAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ HAPAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ HAPAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ HAPAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ HAPAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ HAPAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ HAPAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ HAPAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ HAPAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ HAPAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ HAPAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ HAPAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ HAPAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ HAPAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ HAPAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ HAPAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ HAPAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ HAPAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ HAPAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ HAPAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ HAPAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ HAPAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ HAPAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ HAPAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ HAPAN_SHIP_sargon: "Саргон"
+ HAPAN_SHIP_modus: "Способ"
+ HAPAN_SHIP_vergill: "Верджилл"
+ HAPAN_SHIP_maires: "Майрес"
+ HAPAN_SHIP_lovola: "Ловола"
+ HAPAN_SHIP_ket: "Кет"
+ HAPAN_SHIP_daruvvia: "Даруввия"
+ HAPAN_SHIP_lorell_yards: "Лорелл Ярдс"
+ HAPAN_SHIP_divora: "Дивора"
+ HAPAN_SHIP_jodaka: "Джодака"
+ HAPAN_SHIP_stalisinek: "Сталисинек"
+ HAPAN_SHIP_nantuker: "Нантукер"
+ HAPAN_SHIP_k_farri: "к'Фарри"
+ HAPAN_SHIP_calfa: "Кальфа"
+ HAPAN_SHIP_dreena: "Дрина"
+ HAPAN_SHIP_reboam: "Ребоам"
+ HAPAN_SHIP_shedu_watch: "Шеду Уотч"
+ HAPAN_SHIP_roqoo: "Року"
+ HAPAN_SHIP_terephon: "Терефон"
+ HAPAN_SHIP_zalori: "Залори"
+ HAPAN_SHIP_rainboh: "Рейнбо"
+ HAPAN_SHIP_rynmar: "Ринмар"
+ HAPAN_SHIP_orelon: "Орелон"
+ HAPAN_SHIP_febrini: "Фебрини"
+ HAPAN_SHIP_zadaria: "Задария"
+ HAPAN_SHIP_phelope: "Фелопа"
+ HAPAN_SHIP_ediorun: "Эдиорун"
+ HAPAN_SHIP_tumani: "Тумани"
+ HAPAN_SHIP_tinta: "Тинта"
+ HAPAN_SHIP_rbollea: "Рболлеа"
+ HAPAN_SHIP_carlania: "Карлания"
+ HAPAN_SHIP_arabanth: "Арабант"
+ HAPAN_SHIP_ult: "Ульт"
+ HAPAN_SHIP_hartera: "Хартера"
+ HAPAN_SHIP_lemmi: "Лемми"
+ HAPAN_SHIP_thrakia: "Фракия"
+ HAPAN_SHIP_lovaria: "Ловария"
+ HAPAN_SHIP_selab: "Селаб"
+ HAPAN_SHIP_archais: "Архаис"
+ HAPAN_SHIP_lalym_ash: "Лалимаш"
+ HAPAN_SHIP_milinar: "Милинар"
+ HAPAN_SHIP_theselon: "Тезелон"
+ HAPAN_SHIP_baldavia: "Балдавия"
+ HAPAN_SHIP_gallin_s_seat: "Место Галлина"
+ HAPAN_SHIP_novi: "Нови"
+ HAPAN_SHIP_fanica: "Фаника"
+ HAPAN_SHIP_sivoria: "Сивория"
+ HAPAN_SHIP_talcharaim: "Талхараим"
+ HAPAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ HAPAN_SHIP_ballista: "Баллиста"
+ HAPAN_SHIP_catapult: "Космическая пушка Катапульта"
+ HAPAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ HAPAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ HAPAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ HAPAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ HAPAN_SHIP_CLASS_cr_90: "CR-90"
+ HAPAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ HAPAN_SHIP_CLASS_lupus: "Люпус"
+ HAPAN_SHIP_CLASS_asdroni: "Асдрони"
+ HAPAN_SHIP_CLASS_customs: "Таможня"
+ HAPAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ HAPAN_SHIP_CLASS_scurge: "Мерзость"
+ HAPAN_SHIP_CLASS_krayt: "Крайт"
+ HAPAN_SHIP_CLASS_diamond: "Бриллиант"
+ HAPAN_SHIP_CLASS_etti: "Этти"
+ HAPAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ HAPAN_SHIP_CLASS_vigil: "Бдение"
+ HAPAN_SHIP_CLASS_dp20: "DP20"
+ HAPAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ HAPAN_SHIP_CLASS_raider: "Рейдер"
+ HAPAN_SHIP_CLASS_dornean: "Дорнейский"
+ HAPAN_SHIP_CLASS_crusader: "Крестоносец"
+ HAPAN_SHIP_CLASS_marauder: "Мародер"
+ HAPAN_SHIP_CLASS_arquitens: "Аркитенс"
+ HAPAN_SHIP_CLASS_kiltirin: "Килтирин"
+ HAPAN_SHIP_CLASS_pelta: "Пельта"
+ HAPAN_SHIP_CLASS_pinnace: "Катер"
+ HAPAN_SHIP_CLASS_nova: "Нова"
+ HAPAN_SHIP_CLASS_vigilance: "Бдительность"
+ HAPAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ HAPAN_SHIP_CLASS_cg_273: "CG-273"
+ HAPAN_SHIP_CLASS_kariek: "Кариек"
+ HAPAN_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ HAPAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ HAPAN_SHIP_CLASS_lancer: "Лансер"
+ HAPAN_SHIP_CLASS_teroch: "Терох"
+ HAPAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ HAPAN_SHIP_CLASS_nova_ii: "Нова II"
+ HAPAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ HAPAN_SHIP_CLASS_velox: "Велокс"
+ HAPAN_SHIP_CLASS_mc30c: "MC30c"
+ HAPAN_SHIP_CLASS_vengeance: "Месть"
+ HAPAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ HAPAN_SHIP_CLASS_cc_7700: "CC-7700"
+ HAPAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ HAPAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ HAPAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ HAPAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ HAPAN_SHIP_CLASS_sabaoth: "Саваоф"
+ HAPAN_SHIP_CLASS_kontos: "Контос"
+ HAPAN_SHIP_CLASS_mc40: "MC40"
+ HAPAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ HAPAN_SHIP_CLASS_broadside: "Залп"
+ HAPAN_SHIP_CLASS_protector: "Защитник"
+ HAPAN_SHIP_CLASS_warlord: "Военачальник"
+ HAPAN_SHIP_CLASS_gladiator: "Гладиатор"
+ HAPAN_SHIP_CLASS_beviin: "Бевиин"
+ HAPAN_SHIP_CLASS_liberator: "Освободитель"
+ HAPAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ HAPAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ HAPAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ HAPAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ HAPAN_SHIP_CLASS_massias: "Массиас"
+ HAPAN_SHIP_CLASS_dreadnought: "Дредноут"
+ HAPAN_SHIP_CLASS_kyramud: "Кирамуд"
+ HAPAN_SHIP_CLASS_munificent: "Щедрый"
+ HAPAN_SHIP_CLASS_prosvoli: "Просволи"
+ HAPAN_SHIP_CLASS_acclamator: "Аккламатор"
+ HAPAN_SHIP_CLASS_lictor: "Ликтор"
+ HAPAN_SHIP_CLASS_bulwark: "Оплот"
+ HAPAN_SHIP_CLASS_victory_i: "Победа I"
+ HAPAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ HAPAN_SHIP_CLASS_bulk: "Массивный"
+ HAPAN_SHIP_CLASS_vindicator: "Защитник"
+ HAPAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ HAPAN_SHIP_CLASS_captor: "Похититель"
+ HAPAN_SHIP_CLASS_au_riette: "О'риетт"
+ HAPAN_SHIP_CLASS_mc55: "MC55"
+ HAPAN_SHIP_CLASS_afthonia: "Афтония"
+ HAPAN_SHIP_CLASS_victory_ii: "Победа II"
+ HAPAN_SHIP_CLASS_beroya: "Бероя"
+ HAPAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ HAPAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ HAPAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ HAPAN_SHIP_CLASS_venator: "Венатор"
+ HAPAN_SHIP_CLASS_centurion: "Центурион"
+ HAPAN_SHIP_CLASS_mc75: "MC75"
+ HAPAN_SHIP_CLASS_kandosii: "Кандосии"
+ HAPAN_SHIP_CLASS_corellian: "Кореллианский"
+ HAPAN_SHIP_CLASS_providence: "Провидение"
+ HAPAN_SHIP_CLASS_syndic: "Синдик"
+ HAPAN_SHIP_CLASS_recusant: "Отступник"
+ HAPAN_SHIP_CLASS_invincible: "Непобедимый"
+ HAPAN_SHIP_CLASS_imperial_i: "Имперский I"
+ HAPAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ HAPAN_SHIP_CLASS_procursator: "Прокурсатор"
+ HAPAN_SHIP_CLASS_mc80a: "MC80a"
+ HAPAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ HAPAN_SHIP_CLASS_aggressor: "Агрессор"
+ HAPAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ HAPAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ HAPAN_SHIP_CLASS_keldabe: "Келдабе"
+ HAPAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ HAPAN_SHIP_CLASS_chaf: "Чаф"
+ HAPAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ HAPAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ HAPAN_SHIP_CLASS_ascendancy: "Господство"
+ HAPAN_SHIP_CLASS_dominator: "Властелин"
+ HAPAN_SHIP_CLASS_allegiance: "Верность"
+ HAPAN_SHIP_CLASS_lucrehulk: "Барышник"
+ HAPAN_SHIP_CLASS_phalanx: "Фаланга"
+ HAPAN_SHIP_CLASS_titan: "Титан"
+ HAPAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ HAPAN_SHIP_CLASS_star_home: "Звездный дом"
+ HAPAN_SHIP_CLASS_subjugator: "Покоритель"
+ HAPAN_SHIP_CLASS_bellator: "Беллатор"
+ HAPAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ HAPAN_SHIP_CLASS_executor: "Палач"
+ HAPAN_FLEET_royal_navy_ORD: "$ORD$ Королевский военный флот"
+ HAPAN_ARMY_royal_guard_ORD: "$ORD$ Королевская гвардия"
+ HAPAN_ARMY_voidstream_grenadiers_ORD: "$ORD$ Гранатометчики Пустотного Потока"
+ HAPAN_ARMY_queen_s_rifles_ORD: "$ORD$ Королевские винтовки"
+ HAPAN_ARMY_clone_rifles_ORD: "$ORD$ Винтовки-клоны"
+ HAPAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ HAPAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ HAPAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ HAPAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ HAPAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ HAPAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ HAPAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ HAPAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ HAPAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ HAPAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ HAPAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ HAPAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ HAPAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ HAPAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ HAPAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ HAPAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ HAPAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ HAPAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ HAPAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ HAPAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ HAPAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ HAPAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ HAPAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ HAPAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ HAPAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ HAPAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ HAPAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ HAPAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ HAPAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ HAPAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ HAPAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ HAPAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ HAPAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ HAPAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ HAPAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ HAPAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ HAPAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ HAPAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ HAPAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ HAPAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ HAPAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ HAPAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ HAPAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ HAPAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ HAPAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ HAPAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ HAPAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ HAPAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ HAPAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ HAPAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ HAPAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ HAPAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ HAPAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ HAPAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ HAPAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ HAPAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ HAPAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ HAPAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ HAPAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ HAPAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ HAPAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ HAPAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ HAPAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ HAPAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ HAPAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ HAPAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ HAPAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ HAPAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ HAPAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ HAPAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ HAPAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ HAPAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ HAPAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ HAPAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ HAPAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ HAPAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ HAPAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ HAPAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ HAPAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ HAPAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ HAPAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ HAPAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ HAPAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ HAPAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ HAPAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ HAPAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ HAPAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ HAPAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ HAPAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ HAPAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ HAPAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ HAPAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ HAPAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ HAPAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ HAPAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ HAPAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ HAPAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ HAPAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ HAPAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ HAPAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ HAPAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ HAPAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ HAPAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ HAPAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ HAPAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ HAPAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ HAPAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ HAPAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ HAPAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ HAPAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ HAPAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ HAPAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ HAPAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ HAPAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ HAPAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ HAPAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ HAPAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ HAPAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ HAPAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ HAPAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ HAPAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ HAPAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ HAPAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ HAPAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ HAPAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ HAPAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ HAPAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ HAPAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ HAPAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ HAPAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ HAPAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ HAPAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ HAPAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ HAPAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ HAPAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ HAPAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ HAPAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ HAPAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ HAPAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ HAPAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ HAPAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ HAPAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ HAPAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ HAPAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ HAPAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ HAPAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ HAPAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ HAPAN_CHR_prince_brok: "Принц Брок"
+ HAPAN_CHR_lord_isolder: "Лорд Исолдер"
+ HAPAN_CHR_baron_benwick: "Барон Бенвик"
+ HAPAN_CHR_duke_vonce: "Герцог Вонс"
+ HAPAN_CHR_prince_droekle: "Принц Дрекль"
+ HAPAN_CHR_lord_mirana: "Лорд Мирана"
+ HAPAN_CHR_baron_trisdin: "Барон Трисден"
+ HAPAN_CHR_duke_aleson: "Герцог Алесон"
+ HAPAN_CHR_prince_kalen: "Принц Кален"
+ HAPAN_CHR_lord_harravan: "Лорд Харраван"
+ HAPAN_CHR_baron_sinsor: "Барон Синсор"
+ HAPAN_CHR_duke_livette: "Герцог Ливетт"
+ HAPAN_CHR_prince_lol: "Принц Лол"
+ HAPAN_CHR_lord_seth: "Лорд Сет"
+ HAPAN_CHR_baron_beed: "Барон Бид"
+ HAPAN_CHR_duke_ubris: "Герцог Убрис"
+ HAPAN_CHR_prince_vivil: "Принц Вивил"
+ HAPAN_CHR_lord_haemon: "Лорд Хеймон"
+ HAPAN_CHR_baron_bryn: "Барон Брин"
+ HAPAN_CHR_prince_gaereth: "Принц Гаерет"
+ HAPAN_CHR_lord_bandor: "Лорд Бандор"
+ HAPAN_CHR_baron_banley: "Барон Банли"
+ HAPAN_CHR_duke_cardacs: "Герцог Кардакс"
+ HAPAN_CHR_prince_cerik: "Принц Керик"
+ HAPAN_CHR_lord_cristov: "Лорд Кристов"
+ HAPAN_CHR_baron_coris: "Барон Корис"
+ HAPAN_CHR_duke_falk: "Герцог Фальк"
+ HAPAN_CHR_prince_daek: "Принц Дэек"
+ HAPAN_CHR_lord_devdera: "Лорд Девдера"
+ HAPAN_CHR_baron_omatrev: "Барон Оматрев"
+ HAPAN_CHR_duke_jamidan: "Герцог Джамидан"
+ HAPAN_CHR_prince_sagzac: "Принц Сагзак"
+ HAPAN_CHR_lord_jartok: "Лорд Джарток"
+ HAPAN_CHR_baron_roncarl: "Барон Ронкарл"
+ HAPAN_CHR_duke_huschar: "Герцог Хушар"
+ HAPAN_CHR_prince_guyger: "Принц Гайгер"
+ HAPAN_CHR_lord_maxjar: "Лорд Максджар"
+ HAPAN_CHR_baron_irel: "Барон Ирель"
+ HAPAN_CHR_duke_leotyol: "Герцог Леотиоль"
+ HAPAN_CHR_prince_tyrol: "Принц Тироль"
+ HAPAN_CHR_lord_coltrev: "Лорд Колтрев"
+ HAPAN_CHR_baron_robenn: "Барон Робенн"
+ HAPAN_CHR_prince_mattrim: "Принц Маттрим"
+ HAPAN_CHR_lord_matton: "Лорд Мэттон"
+ HAPAN_CHR_baron_lan: "Барон Лан"
+ HAPAN_CHR_duke_nigel: "Герцог Найджел"
+ HAPAN_CHR_prince_tyrevan: "Принц Тиреван"
+ HAPAN_CHR_lord_garrity: "Лорд Гэррити"
+ HAPAN_CHR_baron_bryke: "Барон Брайк"
+ HAPAN_CHR_duke_osgriff: "Герцог Осгрифф"
+ HAPAN_CHR_prince_kriswill: "Принц Крисвилл"
+ HAPAN_CHR_lord_perrin: "Лорд Перрин"
+ HAPAN_CHR_baron_rand: "Барон Рэнд"
+ HAPAN_CHR_duke_tamlin: "Герцог Тамлин"
+ HAPAN_CHR_prince_gallad: "Принц Галлад"
+ HAPAN_CHR_lord_demandred: "Лорд Демандред"
+ HAPAN_CHR_baron_tigraine: "Барон Тигрейн"
+ HAPAN_CHR_duke_taringail: "Герцог Тарингейл"
+ HAPAN_CHR_prince_gawyn: "Принц Гавин"
+ HAPAN_CHR_lord_henre: "Лорд Генри"
+ HAPAN_CHR_baron_eamon: "Барон Эймон"
+ HAPAN_CHR_duke_alwyn: "Герцог Олвин"
+ HAPAN_CHR_prince_rodel: "Принц Родель"
+ HAPAN_CHR_lord_pedron: "Лорд Педрон"
+ HAPAN_CHR_baron_dain: "Барон Дейн"
+ HAPAN_CHR_prince_byar: "Принц Байар"
+ HAPAN_CHR_lord_tham: "Лорд Тэм"
+ HAPAN_CHR_baron_abel: "Барон Абель"
+ HAPAN_CHR_duke_allin: "Герцог Аллин"
+ HAPAN_CHR_prince_valbert: "Принц Вальберт"
+ HAPAN_CHR_lord_eazil: "Лорд Изил"
+ HAPAN_CHR_baron_avin: "Барон Эйвин"
+ HAPAN_CHR_duke_ewin: "Герцог Юин"
+ HAPAN_CHR_ducha_allana: "Герцогиня Аллана"
+ HAPAN_CHR_duch_da_alyssia: "Герцогиня Алисия"
+ HAPAN_CHR_countess_astarta: "Графиня Астарта"
+ HAPAN_CHR_lady_beyele: "Леди Бейеле"
+ HAPAN_CHR_baroness_chelik: "Баронесса Челик"
+ HAPAN_CHR_duchess_beyele: "Герцогиня Бейеле"
+ HAPAN_CHR_ducha_moreem: "Герцогиня Мореем"
+ HAPAN_CHR_lady_chell: "Леди Челл"
+ HAPAN_CHR_countess_yliri: "Графиня Илири"
+ HAPAN_CHR_lady_elliar: "Леди Эллиар"
+ HAPAN_CHR_baroness_ithila: "Баронесса Итила"
+ HAPAN_CHR_viscountess_hesha: "Виконтесса Хеша"
+ HAPAN_CHR_ducha_meala: "Герцогиня Мила"
+ HAPAN_CHR_duch_da_lalu: "Герцогиня Лалу"
+ HAPAN_CHR_countess_roh: "Графиня Ро"
+ HAPAN_CHR_lady_secciah: "Леди Секчия"
+ HAPAN_CHR_baroness_skela: "Баронесса Скела"
+ HAPAN_CHR_viscountess_tika: "Виконтесса Тика"
+ HAPAN_CHR_lady_ta_a: "Леди Та'а"
+ HAPAN_CHR_duch_da_taryn: "Герцогиня Тарин"
+ HAPAN_CHR_duch_da_trista: "Герцогиня Триста"
+ HAPAN_CHR_ducha_nyana: "Герцогиня Ньяна"
+ HAPAN_CHR_duch_da_nisain: "Герцогиня Нисайн"
+ HAPAN_CHR_countess_afara: "Графиня Афара"
+ HAPAN_CHR_lady_lelaine: "Леди Лилейн"
+ HAPAN_CHR_baroness_teire: "Баронесса Тейре"
+ HAPAN_CHR_duchess_desandre: "Герцогиня Десандр"
+ HAPAN_CHR_ducha_meilwyn: "Герцогиня Мейлвин"
+ HAPAN_CHR_duch_da_ashmanali: "Герцогиня Ашманали"
+ HAPAN_CHR_countess_ballair: "Графиня Баллер"
+ HAPAN_CHR_lady_jala: "Леди Джала"
+ HAPAN_CHR_baroness_gelarna: "Баронесса Геларна"
+ HAPAN_CHR_viscountess_zenaira: "Виконтесса Зенайра"
+ HAPAN_CHR_ducha_janya: "Герцогиня Джанья"
+ HAPAN_CHR_duch_da_tarna: "Герцогиня Тарна"
+ HAPAN_CHR_countess_andaya: "Графиня Андайя"
+ HAPAN_CHR_lady_careane: "Леди Карейн"
+ HAPAN_CHR_baroness_valera: "Баронесса Валера"
+ HAPAN_CHR_viscountess_liandra: "Виконтесса Лиандра"
+ HAPAN_CHR_ducha_rina: "Герцогиня Рина"
+ HAPAN_CHR_duch_da_escarla: "Герцогиня Эскарла"
+ HAPAN_CHR_duch_da_faeldra: "Герцогиня Фаэльдра"
+ HAPAN_CHR_ducha_bera: "Герцогиня Бера"
+ HAPAN_CHR_duch_da_eldrith: "Герцогиня Элдрит"
+ HAPAN_CHR_countess_tessia: "Графиня Тессия"
+ HAPAN_CHR_lady_marasa: "Леди Мараса"
+ HAPAN_CHR_baroness_vayelle: "Баронесса Вайель"
+ HAPAN_CHR_duchess_moria: "Герцогиня Мория"
+ HAPAN_CHR_ducha_gerra: "Герцогиня Герра"
+ HAPAN_CHR_duch_da_lairain: "Герцогиня Лайрейн"
+ HAPAN_CHR_countess_serenia: "Графиня Серения"
+ HAPAN_CHR_lady_theondrimetta: "Леди Теондриметта"
+ HAPAN_CHR_baroness_sedora: "Баронесса Седора"
+ HAPAN_CHR_viscountess_myriam: "Виконтесса Мириам"
+ HAPAN_CHR_ducha_danella: "Герцогиня Данелла"
+ HAPAN_CHR_duch_da_ajala: "Герцогиня Аджала"
+ HAPAN_CHR_countess_velaine: "Графиня Велейн"
+ HAPAN_CHR_lady_sheria: "Леди Шерия"
+ HAPAN_CHR_baroness_erian: "Баронесса Эриан"
+ HAPAN_CHR_viscountess_silviana: "Виконтесса Сильвиана"
+ HAPAN_CHR_ducha_brenva: "Герцогиня Бренва"
+ HAPAN_CHR_duch_da_mitsora: "Герцогиня Мицора"
+ HAPAN_CHR_duch_da_anaya: "Герцогиня Анайя"
+ HAPAN_CHR_duchess_zomanda: "Герцогиня Зоманда"
+ HAPAN_CHR_lady_rafela: "Леди Рафела"
+ HAPAN_CHR_countess_nirelle: "Графиня Нирель"
+ HAPAN_CHR_lady_copan: "Леди Копан"
+ HAPAN_CHR_baroness_mindretta: "Баронесса Миндретта"
+ HAPAN_CHR_duchess_kat: "Герцогиня Кэт"
+ HAPAN_CHR_ducha_morerain: "Герцогиня Морерайн"
+ HAPAN_CHR_duch_da_nyaneva: "Герцогиня Ньянева"
+ HAPAN_CHR_countess_kailista: "Графиня Кайлиста"
+ HAPAN_CHR_lady_juliox: "Леди Джулиокс"
+ HAPAN_CHR_algray: "АлГрей"
+ HAPAN_CHR_aros: "Арос"
+ HAPAN_CHR_espara: "Эспара"
+ HAPAN_CHR_consta: "Конста"
+ HAPAN_CHR_fioro: "Фиоро"
+ HAPAN_CHR_galney: "Гални"
+ HAPAN_CHR_gheer: "Гир"
+ HAPAN_CHR_gray: "Серый"
+ HAPAN_CHR_khal: "Кхал"
+ HAPAN_CHR_lovett: "Ловетт"
+ HAPAN_CHR_luvalle: "Лувалле"
+ HAPAN_CHR_maluri: "Малури"
+ HAPAN_CHR_miilarta: "Мииларта"
+ HAPAN_CHR_morwan: "Морван"
+ HAPAN_CHR_requud: "Запрос"
+ HAPAN_CHR_thane: "Тан"
+ HAPAN_CHR_zel: "Зел"
+ HAPAN_CHR_charubah: "Чаруба"
+ HAPAN_CHR_firecam: "Файркам"
+ HAPAN_CHR_kadrim: "Кадрим"
+ HAPAN_CHR_locke: "Локк"
+ HAPAN_CHR_kam: "Кам"
+ HAPAN_CHR_erek: "Эрек"
+ HAPAN_CHR_arslan: "Арслан"
+ HAPAN_CHR_lerak: "Лерак"
+ HAPAN_CHR_morla: "Морла"
+ HAPAN_CHR_mas: "Мас"
+ HAPAN_CHR_wain: "Фургон"
+ HAPAN_CHR_bail: "Залог"
+ HAPAN_CHR_gabrial: "Габриэль"
+ HAPAN_CHR_dewell: "Дьюэлл"
+ HAPAN_CHR_tanner: "Кожевник"
+ HAPAN_CHR_vi: "Ви"
+ HAPAN_CHR_rush: "Раш"
+ HAPAN_CHR_danry: "Дэнри"
+ HAPAN_CHR_callista: "Каллиста"
+ HAPAN_CHR_mara: "Мара"
+ HAPAN_CHR_seena: "Сина"
+ HAPAN_CHR_areta: "Арета"
+ HAPAN_CHR_padm_: "Падме"
+ HAPAN_CHR_fema: "Фема"
+ HAPAN_CHR_mina: "Мина"
+ HAPAN_CHR_bana: "Бана"
+ HAPAN_CHR_tyreca: "Тирека"
+ HAPAN_CHR_halle: "Халле"
+ HAPAN_CHR_lexi: "Лекси"
+ HAPAN_CHR_leia: "Лея"
+ HAPAN_CHR_alyssa: "Алисса"
+ HAPAN_CHR_leanna: "Лианна"
+ HAPAN_CHR_arya: "Арья"
+ HAPAN_CHR_drakarian: "Дракарианец"
+ HAPAN_CHR_djo: "Джо"

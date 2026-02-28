@@ -1,1446 +1,1446 @@
 ﻿l_russian:
-	CATHAR_SHIP_mystic: "Mystic" #!Empty_LineInfo!
-	CATHAR_SHIP_naiad: "Naiad" #!Empty_LineInfo!
-	CATHAR_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
-	CATHAR_SHIP_nebula: "Nebula" #!Empty_LineInfo!
-	CATHAR_SHIP_nimble: "Nimble" #!Empty_LineInfo!
-	CATHAR_SHIP_north_star: "North Star" #!Empty_LineInfo!
-	CATHAR_SHIP_nymph: "Nymph" #!Empty_LineInfo!
-	CATHAR_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
-	CATHAR_SHIP_ocean: "Ocean" #!Empty_LineInfo!
-	CATHAR_SHIP_onward: "Onward" #!Empty_LineInfo!
-	CATHAR_SHIP_oracle: "Oracle" #!Empty_LineInfo!
-	CATHAR_SHIP_paradox: "Paradox" #!Empty_LineInfo!
-	CATHAR_SHIP_paragon: "Paragon" #!Empty_LineInfo!
-	CATHAR_SHIP_pearl: "Pearl" #!Empty_LineInfo!
-	CATHAR_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
-	CATHAR_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
-	CATHAR_SHIP_marksman: "Marksman" #!Empty_LineInfo!
-	CATHAR_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
-	CATHAR_SHIP_sniper: "Sniper" #!Empty_LineInfo!
-	CATHAR_SHIP_trident: "Trident" #!Empty_LineInfo!
-	CATHAR_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
-	CATHAR_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
-	CATHAR_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
-	CATHAR_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
-	CATHAR_SHIP_venture: "Venture" #!Empty_LineInfo!
-	CATHAR_SHIP_versatile: "Versatile" #!Empty_LineInfo!
-	CATHAR_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
-	CATHAR_SHIP_viper: "Viper" #!Empty_LineInfo!
-	CATHAR_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
-	CATHAR_SHIP_winger: "Winger" #!Empty_LineInfo!
-	CATHAR_SHIP_wizard: "Wizard" #!Empty_LineInfo!
-	CATHAR_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
-	CATHAR_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
-	CATHAR_SHIP_devastator: "Devastator" #!Empty_LineInfo!
-	CATHAR_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
-	CATHAR_SHIP_retribution: "Retribution" #!Empty_LineInfo!
-	CATHAR_SHIP_senator: "Senator" #!Empty_LineInfo!
-	CATHAR_SHIP_tornado: "Tornado" #!Empty_LineInfo!
-	CATHAR_SHIP_infinity: "Infinity" #!Empty_LineInfo!
-	CATHAR_SHIP_usurper: "Usurper" #!Empty_LineInfo!
-	CATHAR_SHIP_utmost: "Utmost" #!Empty_LineInfo!
-	CATHAR_SHIP_valorous: "Valorous" #!Empty_LineInfo!
-	CATHAR_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
-	CATHAR_SHIP_athena: "Athena" #!Empty_LineInfo!
-	CATHAR_SHIP_artemis: "Artemis" #!Empty_LineInfo!
-	CATHAR_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
-	CATHAR_SHIP_decimator: "Decimator" #!Empty_LineInfo!
-	CATHAR_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
-	CATHAR_SHIP_goliath: "Goliath" #!Empty_LineInfo!
-	CATHAR_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
-	CATHAR_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
-	CATHAR_SHIP_blazer: "Blazer" #!Empty_LineInfo!
-	CATHAR_SHIP_audacity: "Audacity" #!Empty_LineInfo!
-	CATHAR_SHIP_gallant: "Gallant" #!Empty_LineInfo!
-	CATHAR_SHIP_nova: "Nova" #!Empty_LineInfo!
-	CATHAR_SHIP_shadow: "Shadow" #!Empty_LineInfo!
-	CATHAR_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
-	CATHAR_SHIP_challenger: "Challenger" #!Empty_LineInfo!
-	CATHAR_SHIP_fearless: "Fearless" #!Empty_LineInfo!
-	CATHAR_SHIP_protector: "Protector" #!Empty_LineInfo!
-	CATHAR_SHIP_guardian: "Guardian" #!Empty_LineInfo!
-	CATHAR_SHIP_victorious: "Victorious" #!Empty_LineInfo!
-	CATHAR_SHIP_courageous: "Courageous" #!Empty_LineInfo!
-	CATHAR_SHIP_defiance: "Defiance" #!Empty_LineInfo!
-	CATHAR_SHIP_azrael: "Azrael" #!Empty_LineInfo!
-	CATHAR_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
-	CATHAR_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
-	CATHAR_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
-	CATHAR_SHIP_armistice: "Armistice" #!Empty_LineInfo!
-	CATHAR_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
-	CATHAR_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	CATHAR_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
-	CATHAR_SHIP_borealis: "Borealis" #!Empty_LineInfo!
-	CATHAR_SHIP_caelus: "Caelus" #!Empty_LineInfo!
-	CATHAR_SHIP_caravan: "Caravan" #!Empty_LineInfo!
-	CATHAR_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
-	CATHAR_SHIP_commenor: "Commenor" #!Empty_LineInfo!
-	CATHAR_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
-	CATHAR_SHIP_corellia: "Corellia" #!Empty_LineInfo!
-	CATHAR_SHIP_courteous: "Courteous" #!Empty_LineInfo!
-	CATHAR_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
-	CATHAR_SHIP_defiant: "Defiant" #!Empty_LineInfo!
-	CATHAR_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
-	CATHAR_SHIP_derapha: "Derapha" #!Empty_LineInfo!
-	CATHAR_SHIP_devout: "Devout" #!Empty_LineInfo!
-	CATHAR_SHIP_empirical: "Empirical" #!Empty_LineInfo!
-	CATHAR_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
-	CATHAR_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
-	CATHAR_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
-	CATHAR_SHIP_farstar: "Farstar" #!Empty_LineInfo!
-	CATHAR_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
-	CATHAR_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
-	CATHAR_SHIP_garrote: "Garrote" #!Empty_LineInfo!
-	CATHAR_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
-	CATHAR_SHIP_halleck: "Halleck" #!Empty_LineInfo!
-	CATHAR_SHIP_hunter: "Hunter" #!Empty_LineInfo!
-	CATHAR_SHIP_intractable: "Intractable" #!Empty_LineInfo!
-	CATHAR_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
-	CATHAR_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
-	CATHAR_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
-	CATHAR_SHIP_lathir: "Lathir" #!Empty_LineInfo!
-	CATHAR_SHIP_liberty: "Liberty" #!Empty_LineInfo!
-	CATHAR_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
-	CATHAR_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
-	CATHAR_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
-	CATHAR_SHIP_mercy: "Mercy" #!Empty_LineInfo!
-	CATHAR_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
-	CATHAR_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
-	CATHAR_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
-	CATHAR_SHIP_obedience: "Obedience" #!Empty_LineInfo!
-	CATHAR_SHIP_olemp: "Olemp" #!Empty_LineInfo!
-	CATHAR_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
-	CATHAR_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
-	CATHAR_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
-	CATHAR_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
-	CATHAR_SHIP_predominance: "Predominance" #!Empty_LineInfo!
-	CATHAR_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
-	CATHAR_SHIP_purity: "Purity" #!Empty_LineInfo!
-	CATHAR_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
-	CATHAR_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
-	CATHAR_SHIP_redma: "Redma" #!Empty_LineInfo!
-	CATHAR_SHIP_reliable: "Reliable" #!Empty_LineInfo!
-	CATHAR_SHIP_reliant: "Reliant" #!Empty_LineInfo!
-	CATHAR_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
-	CATHAR_SHIP_republic: "Republic" #!Empty_LineInfo!
-	CATHAR_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
-	CATHAR_SHIP_resolve: "Resolve" #!Empty_LineInfo!
-	CATHAR_SHIP_respectable: "Respectable" #!Empty_LineInfo!
-	CATHAR_SHIP_revenge: "Revenge" #!Empty_LineInfo!
-	CATHAR_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
-	CATHAR_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
-	CATHAR_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
-	CATHAR_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
-	CATHAR_SHIP_starveil: "Starveil" #!Empty_LineInfo!
-	CATHAR_SHIP_undying: "Undying" #!Empty_LineInfo!
-	CATHAR_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
-	CATHAR_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
-	CATHAR_SHIP_valiant: "Valiant" #!Empty_LineInfo!
-	CATHAR_SHIP_valor: "Valor" #!Empty_LineInfo!
-	CATHAR_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
-	CATHAR_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
-	CATHAR_SHIP_visseon: "Visseon" #!Empty_LineInfo!
-	CATHAR_SHIP_wennis: "Wennis" #!Empty_LineInfo!
-	CATHAR_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
-	CATHAR_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
-	CATHAR_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
-	CATHAR_SHIP_agile: "Agile" #!Empty_LineInfo!
-	CATHAR_SHIP_archer: "Archer" #!Empty_LineInfo!
-	CATHAR_SHIP_arrow: "Arrow" #!Empty_LineInfo!
-	CATHAR_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
-	CATHAR_SHIP_cherub: "Cherub" #!Empty_LineInfo!
-	CATHAR_SHIP_chimera: "Chimera" #!Empty_LineInfo!
-	CATHAR_SHIP_claymore: "Claymore" #!Empty_LineInfo!
-	CATHAR_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
-	CATHAR_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
-	CATHAR_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
-	CATHAR_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
-	CATHAR_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
-	CATHAR_SHIP_errant: "Errant" #!Empty_LineInfo!
-	CATHAR_SHIP_faithful: "Faithful" #!Empty_LineInfo!
-	CATHAR_SHIP_fierce: "Fierce" #!Empty_LineInfo!
-	CATHAR_SHIP_gladius: "Gladius" #!Empty_LineInfo!
-	CATHAR_SHIP_longbow: "Longbow" #!Empty_LineInfo!
-	CATHAR_SHIP_grappler: "Grappler" #!Empty_LineInfo!
-	CATHAR_SHIP_hammer: "Hammer" #!Empty_LineInfo!
-	CATHAR_SHIP_vampire: "Vampire" #!Empty_LineInfo!
-	CATHAR_SHIP_velox: "Velox" #!Empty_LineInfo!
-	CATHAR_SHIP_venator: "Venator" #!Empty_LineInfo!
-	CATHAR_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
-	CATHAR_SHIP_venerable: "Venerable" #!Empty_LineInfo!
-	CATHAR_SHIP_venomous: "Venomous" #!Empty_LineInfo!
-	CATHAR_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
-	CATHAR_SHIP_supreme: "Supreme" #!Empty_LineInfo!
-	CATHAR_SHIP_success: "Success" #!Empty_LineInfo!
-	CATHAR_SHIP_shredder: "Shredder" #!Empty_LineInfo!
-	CATHAR_SHIP_seraph: "Seraph" #!Empty_LineInfo!
-	CATHAR_SHIP_serpent: "Serpent" #!Empty_LineInfo!
-	CATHAR_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
-	CATHAR_SHIP_stalker: "Stalker" #!Empty_LineInfo!
-	CATHAR_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
-	CATHAR_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
-	CATHAR_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
-	CATHAR_SHIP_scourge: "Scourge" #!Empty_LineInfo!
-	CATHAR_SHIP_scythe: "Scythe" #!Empty_LineInfo!
-	CATHAR_SHIP_revenant: "Revenant" #!Empty_LineInfo!
-	CATHAR_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
-	CATHAR_SHIP_raptor: "Raptor" #!Empty_LineInfo!
-	CATHAR_SHIP_reaver: "Reaver" #!Empty_LineInfo!
-	CATHAR_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
-	CATHAR_SHIP_rapier: "Rapier" #!Empty_LineInfo!
-	CATHAR_SHIP_prudent: "Prudent" #!Empty_LineInfo!
-	CATHAR_SHIP_persistent: "Persistent" #!Empty_LineInfo!
-	CATHAR_SHIP_peerless: "Peerless" #!Empty_LineInfo!
-	CATHAR_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
-	CATHAR_SHIP_indignant: "Indignant" #!Empty_LineInfo!
-	CATHAR_SHIP_javelin: "Javelin" #!Empty_LineInfo!
-	CATHAR_SHIP_knight: "Knight" #!Empty_LineInfo!
-	CATHAR_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
-	CATHAR_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
-	CATHAR_SHIP_adventure: "Adventure" #!Empty_LineInfo!
-	CATHAR_SHIP_boxer: "Boxer" #!Empty_LineInfo!
-	CATHAR_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
-	CATHAR_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
-	CATHAR_SHIP_celestial: "Celestial" #!Empty_LineInfo!
-	CATHAR_SHIP_chariot: "Chariot" #!Empty_LineInfo!
-	CATHAR_SHIP_comet: "Comet" #!Empty_LineInfo!
-	CATHAR_SHIP_crucible: "Crucible" #!Empty_LineInfo!
-	CATHAR_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
-	CATHAR_SHIP_decisive: "Decisive" #!Empty_LineInfo!
-	CATHAR_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
-	CATHAR_SHIP_diadem: "Diadem" #!Empty_LineInfo!
-	CATHAR_SHIP_earnest: "Earnest" #!Empty_LineInfo!
-	CATHAR_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
-	CATHAR_SHIP_forger: "Forger" #!Empty_LineInfo!
-	CATHAR_SHIP_fortune: "Fortune" #!Empty_LineInfo!
-	CATHAR_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
-	CATHAR_SHIP_griffin: "Griffin" #!Empty_LineInfo!
-	CATHAR_SHIP_horizon: "Horizon" #!Empty_LineInfo!
-	CATHAR_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
-	CATHAR_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
-	CATHAR_SHIP_hussar: "Hussar" #!Empty_LineInfo!
-	CATHAR_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
-	CATHAR_SHIP_lancer: "Lancer" #!Empty_LineInfo!
-	CATHAR_SHIP_lightning: "Lightning" #!Empty_LineInfo!
-	CATHAR_SHIP_magic: "Magic" #!Empty_LineInfo!
-	CATHAR_SHIP_mediator: "Mediator" #!Empty_LineInfo!
-	CATHAR_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
-	CATHAR_SHIP_meteor: "Meteor" #!Empty_LineInfo!
-	CATHAR_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
-	CATHAR_SHIP_miranda: "Miranda" #!Empty_LineInfo!
-	CATHAR_SHIP_mustang: "Mustang" #!Empty_LineInfo!
-	CATHAR_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
-	CATHAR_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
-	CATHAR_SHIP_centaur: "Centaur" #!Empty_LineInfo!
-	CATHAR_SHIP_adversary: "Adversary" #!Empty_LineInfo!
-	CATHAR_SHIP_assassin: "Assassin" #!Empty_LineInfo!
-	CATHAR_SHIP_dagger: "Dagger" #!Empty_LineInfo!
-	CATHAR_SHIP_daring: "Daring" #!Empty_LineInfo!
-	CATHAR_SHIP_duty: "Duty" #!Empty_LineInfo!
-	CATHAR_SHIP_havoc: "Havoc" #!Empty_LineInfo!
-	CATHAR_SHIP_hero: "Hero" #!Empty_LineInfo!
-	CATHAR_SHIP_justice: "Justice" #!Empty_LineInfo!
-	CATHAR_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
-	CATHAR_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
-	CATHAR_SHIP_infernal: "Infernal" #!Empty_LineInfo!
-	CATHAR_SHIP_loyal: "Loyal" #!Empty_LineInfo!
-	CATHAR_SHIP_matchless: "Matchless" #!Empty_LineInfo!
-	CATHAR_SHIP_mauler: "Mauler" #!Empty_LineInfo!
-	CATHAR_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
-	CATHAR_SHIP_malice: "Malice" #!Empty_LineInfo!
-	CATHAR_SHIP_menace: "Menace" #!Empty_LineInfo!
-	CATHAR_SHIP_merciless: "Merciless" #!Empty_LineInfo!
-	CATHAR_SHIP_mischief: "Mischief" #!Empty_LineInfo!
-	CATHAR_SHIP_monarch: "Monarch" #!Empty_LineInfo!
-	CATHAR_SHIP_patriot: "Patriot" #!Empty_LineInfo!
-	CATHAR_SHIP_predator: "Predator" #!Empty_LineInfo!
-	CATHAR_SHIP_powerful: "Powerful" #!Empty_LineInfo!
-	CATHAR_SHIP_punisher: "Punisher" #!Empty_LineInfo!
-	CATHAR_SHIP_ravager: "Ravager" #!Empty_LineInfo!
-	CATHAR_SHIP_reaper: "Reaper" #!Empty_LineInfo!
-	CATHAR_SHIP_savage: "Savage" #!Empty_LineInfo!
-	CATHAR_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
-	CATHAR_SHIP_templar: "Templar" #!Empty_LineInfo!
-	CATHAR_SHIP_terminator: "Terminator" #!Empty_LineInfo!
-	CATHAR_SHIP_terror: "Terror" #!Empty_LineInfo!
-	CATHAR_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
-	CATHAR_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
-	CATHAR_SHIP_manticore: "Manticore" #!Empty_LineInfo!
-	CATHAR_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
-	CATHAR_SHIP_intruder: "Intruder" #!Empty_LineInfo!
-	CATHAR_SHIP_hydra: "Hydra" #!Empty_LineInfo!
-	CATHAR_SHIP_enfield: "Enfield" #!Empty_LineInfo!
-	CATHAR_SHIP_harasser: "Harasser" #!Empty_LineInfo!
-	CATHAR_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
-	CATHAR_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
-	CATHAR_SHIP_zealous: "Zealous" #!Empty_LineInfo!
-	CATHAR_SHIP_petulant: "Petulant" #!Empty_LineInfo!
-	CATHAR_SHIP_phantom: "Phantom" #!Empty_LineInfo!
-	CATHAR_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
-	CATHAR_SHIP_pike: "Pike" #!Empty_LineInfo!
-	CATHAR_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
-	CATHAR_SHIP_raider: "Raider" #!Empty_LineInfo!
-	CATHAR_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
-	CATHAR_SHIP_rapid: "Rapid" #!Empty_LineInfo!
-	CATHAR_SHIP_redemption: "Redemption" #!Empty_LineInfo!
-	CATHAR_SHIP_relentless: "Relentless" #!Empty_LineInfo!
-	CATHAR_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
-	CATHAR_SHIP_robust: "Robust" #!Empty_LineInfo!
-	CATHAR_SHIP_sabre: "Sabre" #!Empty_LineInfo!
-	CATHAR_SHIP_salvation: "Salvation" #!Empty_LineInfo!
-	CATHAR_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
-	CATHAR_SHIP_scarab: "Scarab" #!Empty_LineInfo!
-	CATHAR_SHIP_scepter: "Scepter" #!Empty_LineInfo!
-	CATHAR_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
-	CATHAR_SHIP_siren: "Siren" #!Empty_LineInfo!
-	CATHAR_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
-	CATHAR_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
-	CATHAR_SHIP_specter: "Specter" #!Empty_LineInfo!
-	CATHAR_SHIP_spirit: "Spirit" #!Empty_LineInfo!
-	CATHAR_SHIP_splendid: "Splendid" #!Empty_LineInfo!
-	CATHAR_SHIP_stallion: "Stallion" #!Empty_LineInfo!
-	CATHAR_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
-	CATHAR_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
-	CATHAR_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
-	CATHAR_SHIP_superb: "Superb" #!Empty_LineInfo!
-	CATHAR_SHIP_supernova: "Supernova" #!Empty_LineInfo!
-	CATHAR_SHIP_surprise: "Surprise" #!Empty_LineInfo!
-	CATHAR_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
-	CATHAR_SHIP_talent: "Talent" #!Empty_LineInfo!
-	CATHAR_SHIP_talisman: "Talisman" #!Empty_LineInfo!
-	CATHAR_SHIP_talon: "Talon" #!Empty_LineInfo!
-	CATHAR_SHIP_taurus: "Taurus" #!Empty_LineInfo!
-	CATHAR_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
-	CATHAR_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
-	CATHAR_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
-	CATHAR_SHIP_tireless: "Tireless" #!Empty_LineInfo!
-	CATHAR_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
-	CATHAR_SHIP_righteous: "Righteous" #!Empty_LineInfo!
-	CATHAR_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	CATHAR_SHIP_achilles: "Achilles" #!Empty_LineInfo!
-	CATHAR_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
-	CATHAR_SHIP_amphion: "Amphion" #!Empty_LineInfo!
-	CATHAR_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
-	CATHAR_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
-	CATHAR_SHIP_argus: "Argus" #!Empty_LineInfo!
-	CATHAR_SHIP_ariel: "Ariel" #!Empty_LineInfo!
-	CATHAR_SHIP_aurora: "Aurora" #!Empty_LineInfo!
-	CATHAR_SHIP_avernus: "Avernus" #!Empty_LineInfo!
-	CATHAR_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
-	CATHAR_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
-	CATHAR_SHIP_calliope: "Calliope" #!Empty_LineInfo!
-	CATHAR_SHIP_calypso: "Calypso" #!Empty_LineInfo!
-	CATHAR_SHIP_castor: "Castor" #!Empty_LineInfo!
-	CATHAR_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
-	CATHAR_SHIP_circe: "Circe" #!Empty_LineInfo!
-	CATHAR_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
-	CATHAR_SHIP_constantine: "Constantine" #!Empty_LineInfo!
-	CATHAR_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
-	CATHAR_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
-	CATHAR_SHIP_damocles: "Damocles" #!Empty_LineInfo!
-	CATHAR_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
-	CATHAR_SHIP_darius: "Darius" #!Empty_LineInfo!
-	CATHAR_SHIP_diomede: "Diomede" #!Empty_LineInfo!
-	CATHAR_SHIP_dryad: "Dryad" #!Empty_LineInfo!
-	CATHAR_SHIP_electra: "Electra" #!Empty_LineInfo!
-	CATHAR_SHIP_endymion: "Endymion" #!Empty_LineInfo!
-	CATHAR_SHIP_erebus: "Erebus" #!Empty_LineInfo!
-	CATHAR_SHIP_fenris: "Fenris" #!Empty_LineInfo!
-	CATHAR_SHIP_freya: "Freya" #!Empty_LineInfo!
-	CATHAR_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
-	CATHAR_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
-	CATHAR_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
-	CATHAR_SHIP_hecate: "Hecate" #!Empty_LineInfo!
-	CATHAR_SHIP_hector: "Hector" #!Empty_LineInfo!
-	CATHAR_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
-	CATHAR_SHIP_janus: "Janus" #!Empty_LineInfo!
-	CATHAR_SHIP_jason: "Jason" #!Empty_LineInfo!
-	CATHAR_SHIP_juno: "Juno" #!Empty_LineInfo!
-	CATHAR_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
-	CATHAR_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
-	CATHAR_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
-	CATHAR_SHIP_leander: "Leander" #!Empty_LineInfo!
-	CATHAR_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
-	CATHAR_SHIP_lysander: "Lysander" #!Empty_LineInfo!
-	CATHAR_SHIP_maenad: "Maenad" #!Empty_LineInfo!
-	CATHAR_SHIP_mars: "Mars" #!Empty_LineInfo!
-	CATHAR_SHIP_medea: "Medea" #!Empty_LineInfo!
-	CATHAR_SHIP_medusa: "Medusa" #!Empty_LineInfo!
-	CATHAR_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
-	CATHAR_SHIP_mercury: "Mercury" #!Empty_LineInfo!
-	CATHAR_SHIP_merlin: "Merlin" #!Empty_LineInfo!
-	CATHAR_SHIP_minerva: "Minerva" #!Empty_LineInfo!
-	CATHAR_SHIP_minos: "Minos" #!Empty_LineInfo!
-	CATHAR_SHIP_neptune: "Neptune" #!Empty_LineInfo!
-	CATHAR_SHIP_nessus: "Nessus" #!Empty_LineInfo!
-	CATHAR_SHIP_nestor: "Nestor" #!Empty_LineInfo!
-	CATHAR_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
-	CATHAR_SHIP_niobe: "Niobe" #!Empty_LineInfo!
-	CATHAR_SHIP_oberon: "Oberon" #!Empty_LineInfo!
-	CATHAR_SHIP_odin: "Odin" #!Empty_LineInfo!
-	CATHAR_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
-	CATHAR_SHIP_orestes: "Orestes" #!Empty_LineInfo!
-	CATHAR_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
-	CATHAR_SHIP_osiris: "Osiris" #!Empty_LineInfo!
-	CATHAR_SHIP_pandora: "Pandora" #!Empty_LineInfo!
-	CATHAR_SHIP_penelope: "Penelope" #!Empty_LineInfo!
-	CATHAR_SHIP_persephone: "Persephone" #!Empty_LineInfo!
-	CATHAR_SHIP_perseus: "Perseus" #!Empty_LineInfo!
-	CATHAR_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
-	CATHAR_SHIP_pluto: "Pluto" #!Empty_LineInfo!
-	CATHAR_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
-	CATHAR_SHIP_proteus: "Proteus" #!Empty_LineInfo!
-	CATHAR_SHIP_pylades: "Pylades" #!Empty_LineInfo!
-	CATHAR_SHIP_serapis: "Serapis" #!Empty_LineInfo!
-	CATHAR_SHIP_stygian: "Stygian" #!Empty_LineInfo!
-	CATHAR_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
-	CATHAR_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
-	CATHAR_SHIP_theseus: "Theseus" #!Empty_LineInfo!
-	CATHAR_SHIP_thor: "Thor" #!Empty_LineInfo!
-	CATHAR_SHIP_trajan: "Trajan" #!Empty_LineInfo!
-	CATHAR_SHIP_triton: "Triton" #!Empty_LineInfo!
-	CATHAR_SHIP_venus: "Venus" #!Empty_LineInfo!
-	CATHAR_SHIP_adamant: "Adamant" #!Empty_LineInfo!
-	CATHAR_SHIP_ardent: "Ardent" #!Empty_LineInfo!
-	CATHAR_SHIP_assail: "Assail" #!Empty_LineInfo!
-	CATHAR_SHIP_austere: "Austere" #!Empty_LineInfo!
-	CATHAR_SHIP_archon: "Archon" #!Empty_LineInfo!
-	CATHAR_SHIP_adroit: "Adroit" #!Empty_LineInfo!
-	CATHAR_SHIP_aegis: "Aegis" #!Empty_LineInfo!
-	CATHAR_SHIP_anchor: "Anchor" #!Empty_LineInfo!
-	CATHAR_SHIP_corsair: "Corsair" #!Empty_LineInfo!
-	CATHAR_SHIP_banshee: "Banshee" #!Empty_LineInfo!
-	CATHAR_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
-	CATHAR_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
-	CATHAR_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
-	CATHAR_SHIP_legion: "Legion" #!Empty_LineInfo!
-	CATHAR_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
-	CATHAR_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
-	CATHAR_SHIP_assault: "Assault" #!Empty_LineInfo!
-	CATHAR_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
-	CATHAR_SHIP_imperator: "Imperator" #!Empty_LineInfo!
-	CATHAR_SHIP_excellence: "Excellence" #!Empty_LineInfo!
-	CATHAR_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
-	CATHAR_SHIP_warlord: "Warlord" #!Empty_LineInfo!
-	CATHAR_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
-	CATHAR_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
-	CATHAR_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
-	CATHAR_SHIP_avenger: "Avenger" #!Empty_LineInfo!
-	CATHAR_SHIP_champion: "Champion" #!Empty_LineInfo!
-	CATHAR_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
-	CATHAR_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	CATHAR_SHIP_glory: "Glory" #!Empty_LineInfo!
-	CATHAR_SHIP_immortal: "Immortal" #!Empty_LineInfo!
-	CATHAR_SHIP_judicator: "Judicator" #!Empty_LineInfo!
-	CATHAR_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
-	CATHAR_SHIP_renown: "Renown" #!Empty_LineInfo!
-	CATHAR_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
-	CATHAR_SHIP_dragon: "Dragon" #!Empty_LineInfo!
-	CATHAR_SHIP_executor: "Executor" #!Empty_LineInfo!
-	CATHAR_SHIP_furious: "Furious" #!Empty_LineInfo!
-	CATHAR_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
-	CATHAR_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
-	CATHAR_SHIP_ogre: "Ogre" #!Empty_LineInfo!
-	CATHAR_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
-	CATHAR_SHIP_vehement: "Vehement" #!Empty_LineInfo!
-	CATHAR_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
-	CATHAR_SHIP_tempest: "Tempest" #!Empty_LineInfo!
-	CATHAR_SHIP_overlord: "Overlord" #!Empty_LineInfo!
-	CATHAR_SHIP_warrior: "Warrior" #!Empty_LineInfo!
-	CATHAR_SHIP_titan: "Titan" #!Empty_LineInfo!
-	CATHAR_SHIP_colossus: "Colossus" #!Empty_LineInfo!
-	CATHAR_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
-	CATHAR_SHIP_nike: "Nike" #!Empty_LineInfo!
-	CATHAR_SHIP_paladin: "Paladin" #!Empty_LineInfo!
-	CATHAR_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
-	CATHAR_SHIP_repulse: "Repulse" #!Empty_LineInfo!
-	CATHAR_SHIP_majestic: "Majestic" #!Empty_LineInfo!
-	CATHAR_SHIP_avatar: "Avatar" #!Empty_LineInfo!
-	CATHAR_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
-	CATHAR_SHIP_centurion: "Centurion" #!Empty_LineInfo!
-	CATHAR_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	CATHAR_SHIP_katana: "Katana" #!Empty_LineInfo!
-	CATHAR_SHIP_kraken: "Kraken" #!Empty_LineInfo!
-	CATHAR_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
-	CATHAR_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
-	CATHAR_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	CATHAR_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
-	CATHAR_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
-	CATHAR_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
-	CATHAR_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
-	CATHAR_SHIP_galatea: "Galatea" #!Empty_LineInfo!
-	CATHAR_SHIP_ambush: "Ambush" #!Empty_LineInfo!
-	CATHAR_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
-	CATHAR_SHIP_crescent: "Crescent" #!Empty_LineInfo!
-	CATHAR_SHIP_diligent: "Diligent" #!Empty_LineInfo!
-	CATHAR_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
-	CATHAR_SHIP_enigma: "Enigma" #!Empty_LineInfo!
-	CATHAR_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
-	CATHAR_SHIP_scylla: "Scylla" #!Empty_LineInfo!
-	CATHAR_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
-	CATHAR_SHIP_asperity: "Asperity" #!Empty_LineInfo!
-	CATHAR_SHIP_eminence: "Eminence" #!Empty_LineInfo!
-	CATHAR_SHIP_astute: "Astute" #!Empty_LineInfo!
-	CATHAR_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
-	CATHAR_SHIP_satyr: "Satyr" #!Empty_LineInfo!
-	CATHAR_SHIP_prospero: "Prospero" #!Empty_LineInfo!
-	CATHAR_SHIP_untiring: "Untiring" #!Empty_LineInfo!
-	CATHAR_SHIP_zenith: "Zenith" #!Empty_LineInfo!
-	CATHAR_SHIP_torch: "Torch" #!Empty_LineInfo!
-	CATHAR_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
-	CATHAR_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
-	CATHAR_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
-	CATHAR_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
-	CATHAR_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
-	CATHAR_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
-	CATHAR_SHIP_emissary: "Emissary" #!Empty_LineInfo!
-	CATHAR_SHIP_nomad: "Nomad" #!Empty_LineInfo!
-	CATHAR_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
-	CATHAR_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
-	CATHAR_SHIP_traveler: "Traveler" #!Empty_LineInfo!
-	CATHAR_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
-	CATHAR_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
-	CATHAR_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
-	CATHAR_SHIP_virtue: "Virtue" #!Empty_LineInfo!
-	CATHAR_SHIP_potential: "Potential" #!Empty_LineInfo!
-	CATHAR_SHIP_expansion: "Expansion" #!Empty_LineInfo!
-	CATHAR_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
-	CATHAR_SHIP_summit: "Summit" #!Empty_LineInfo!
-	CATHAR_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
-	CATHAR_SHIP_seeder: "Seeder" #!Empty_LineInfo!
-	CATHAR_SHIP_harvest: "Harvest" #!Empty_LineInfo!
-	CATHAR_SHIP_demeter: "Demeter" #!Empty_LineInfo!
-	CATHAR_SHIP_isis: "Isis" #!Empty_LineInfo!
-	CATHAR_SHIP_ceres: "Ceres" #!Empty_LineInfo!
-	CATHAR_SHIP_exodus: "Exodus" #!Empty_LineInfo!
-	CATHAR_SHIP_foundation: "Foundation" #!Empty_LineInfo!
-	CATHAR_SHIP_scion: "Scion" #!Empty_LineInfo!
-	CATHAR_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	CATHAR_SHIP_obligation: "Obligation" #!Empty_LineInfo!
-	CATHAR_SHIP_purpose: "Purpose" #!Empty_LineInfo!
-	CATHAR_SHIP_provider: "Provider" #!Empty_LineInfo!
-	CATHAR_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
-	CATHAR_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
-	CATHAR_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
-	CATHAR_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
-	CATHAR_SHIP_community: "Community" #!Empty_LineInfo!
-	CATHAR_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
-	CATHAR_SHIP_industry: "Industry" #!Empty_LineInfo!
-	CATHAR_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
-	CATHAR_SHIP_effort: "Effort" #!Empty_LineInfo!
-	CATHAR_SHIP_laborer: "Laborer" #!Empty_LineInfo!
-	CATHAR_SHIP_builder: "Builder" #!Empty_LineInfo!
-	CATHAR_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
-	CATHAR_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
-	CATHAR_SHIP_progress: "Progress" #!Empty_LineInfo!
-	CATHAR_SHIP_engineer: "Engineer" #!Empty_LineInfo!
-	CATHAR_SHIP_promise: "Promise" #!Empty_LineInfo!
-	CATHAR_SHIP_service: "Service" #!Empty_LineInfo!
-	CATHAR_SHIP_shelter: "Shelter" #!Empty_LineInfo!
-	CATHAR_SHIP_beast: "Beast" #!Empty_LineInfo!
-	CATHAR_SHIP_creator: "Creator" #!Empty_LineInfo!
-	CATHAR_SHIP_developer: "Developer" #!Empty_LineInfo!
-	CATHAR_SHIP_foundry: "Foundry" #!Empty_LineInfo!
-	CATHAR_SHIP_factory: "Factory" #!Empty_LineInfo!
-	CATHAR_SHIP_anvil: "Anvil" #!Empty_LineInfo!
-	CATHAR_SHIP_pillar: "Pillar" #!Empty_LineInfo!
-	CATHAR_SHIP_architect: "Architect" #!Empty_LineInfo!
-	CATHAR_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
-	CATHAR_SHIP_ptah: "Ptah" #!Empty_LineInfo!
-	CATHAR_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
-	CATHAR_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
-	CATHAR_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
-	CATHAR_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
-	CATHAR_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
-	CATHAR_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
-	CATHAR_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
-	CATHAR_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
-	CATHAR_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
-	CATHAR_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
-	CATHAR_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
-	CATHAR_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	CATHAR_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	CATHAR_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	CATHAR_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	CATHAR_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	CATHAR_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	CATHAR_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	CATHAR_SHIP_acre: "Acre" #!Empty_LineInfo!
-	CATHAR_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	CATHAR_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	CATHAR_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	CATHAR_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	CATHAR_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	CATHAR_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	CATHAR_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	CATHAR_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	CATHAR_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	CATHAR_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	CATHAR_SHIP_newport: "Newport" #!Empty_LineInfo!
-	CATHAR_SHIP_guam: "Guam" #!Empty_LineInfo!
-	CATHAR_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	CATHAR_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	CATHAR_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	CATHAR_SHIP_everest: "Everest" #!Empty_LineInfo!
-	CATHAR_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	CATHAR_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	CATHAR_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	CATHAR_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	CATHAR_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	CATHAR_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	CATHAR_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	CATHAR_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	CATHAR_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	CATHAR_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	CATHAR_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	CATHAR_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	CATHAR_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	CATHAR_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	CATHAR_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	CATHAR_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	CATHAR_SHIP_perry: "Perry" #!Empty_LineInfo!
-	CATHAR_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	CATHAR_SHIP_morris: "Morris" #!Empty_LineInfo!
-	CATHAR_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	CATHAR_SHIP_hart: "Hart" #!Empty_LineInfo!
-	CATHAR_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	CATHAR_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	CATHAR_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	CATHAR_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	CATHAR_SHIP_turner: "Turner" #!Empty_LineInfo!
-	CATHAR_SHIP_doria: "Doria" #!Empty_LineInfo!
-	CATHAR_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	CATHAR_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	CATHAR_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	CATHAR_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	CATHAR_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	CATHAR_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	CATHAR_SHIP_durham: "Durham" #!Empty_LineInfo!
-	CATHAR_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	CATHAR_SHIP_milne: "Milne" #!Empty_LineInfo!
-	CATHAR_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	CATHAR_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	CATHAR_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	CATHAR_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	CATHAR_SHIP_pound: "Pound" #!Empty_LineInfo!
-	CATHAR_SHIP_king: "King" #!Empty_LineInfo!
-	CATHAR_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	CATHAR_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	CATHAR_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	CATHAR_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	CATHAR_SHIP_essen: "Essen" #!Empty_LineInfo!
-	CATHAR_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	CATHAR_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	CATHAR_SHIP_treville: "Treville" #!Empty_LineInfo!
-	CATHAR_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	CATHAR_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	CATHAR_SHIP_byng: "Byng" #!Empty_LineInfo!
-	CATHAR_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	CATHAR_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	CATHAR_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	CATHAR_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	CATHAR_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	CATHAR_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	CATHAR_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	CATHAR_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	CATHAR_FLEET_fleet_ORD: "$ORD$ Fleet" #!Empty_LineInfo!
-	CATHAR_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
-	CATHAR_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
-	CATHAR_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	CATHAR_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	CATHAR_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	CATHAR_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	CATHAR_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	CATHAR_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	CATHAR_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	CATHAR_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	CATHAR_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	CATHAR_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	CATHAR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	CATHAR_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	CATHAR_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	CATHAR_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	CATHAR_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	CATHAR_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	CATHAR_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	CATHAR_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	CATHAR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	CATHAR_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	CATHAR_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	CATHAR_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	CATHAR_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	CATHAR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	CATHAR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	CATHAR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	CATHAR_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	CATHAR_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	CATHAR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	CATHAR_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	CATHAR_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	CATHAR_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	CATHAR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	CATHAR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	CATHAR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	CATHAR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	CATHAR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	CATHAR_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	CATHAR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	CATHAR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	CATHAR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	CATHAR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	CATHAR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	CATHAR_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	CATHAR_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	CATHAR_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	CATHAR_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	CATHAR_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	CATHAR_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	CATHAR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	CATHAR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	CATHAR_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	CATHAR_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	CATHAR_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	CATHAR_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	CATHAR_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	CATHAR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	CATHAR_CHR_bail: "Bail" #!Empty_LineInfo!
-	CATHAR_CHR_ylenic: "Ylenic" #!Empty_LineInfo!
-	CATHAR_CHR_kel: "Kel" #!Empty_LineInfo!
-	CATHAR_CHR_gunn: "Gunn" #!Empty_LineInfo!
-	CATHAR_CHR_gregory: "Gregory" #!Empty_LineInfo!
-	CATHAR_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
-	CATHAR_CHR_jonas: "Jonas" #!Empty_LineInfo!
-	CATHAR_CHR_xerda: "Xerda" #!Empty_LineInfo!
-	CATHAR_CHR_carth: "Carth" #!Empty_LineInfo!
-	CATHAR_CHR_kir: "Kir" #!Empty_LineInfo!
-	CATHAR_CHR_mebba: "Mebba" #!Empty_LineInfo!
-	CATHAR_CHR_dagos: "Dagos" #!Empty_LineInfo!
-	CATHAR_CHR_adam: "Adam" #!Empty_LineInfo!
-	CATHAR_CHR_kyle: "Kyle" #!Empty_LineInfo!
-	CATHAR_CHR_forren: "Forren" #!Empty_LineInfo!
-	CATHAR_CHR_malcolm: "Malcolm" #!Empty_LineInfo!
-	CATHAR_CHR_jeho: "Jeho" #!Empty_LineInfo!
-	CATHAR_CHR_lee: "Lee" #!Empty_LineInfo!
-	CATHAR_CHR_griggs: "Griggs" #!Empty_LineInfo!
-	CATHAR_CHR_milo: "Milo" #!Empty_LineInfo!
-	CATHAR_CHR_aeron: "Aeron" #!Empty_LineInfo!
-	CATHAR_CHR_byrec: "Byrec" #!Empty_LineInfo!
-	CATHAR_CHR_strata: "Strata" #!Empty_LineInfo!
-	CATHAR_CHR_lancer: "Lancer" #!Empty_LineInfo!
-	CATHAR_CHR_zeak: "Zeak" #!Empty_LineInfo!
-	CATHAR_CHR_niuk: "Niuk" #!Empty_LineInfo!
-	CATHAR_CHR_lavidean: "Lavidean" #!Empty_LineInfo!
-	CATHAR_CHR_tanizandar: "Tanizandar" #!Empty_LineInfo!
-	CATHAR_CHR_japla: "Japla" #!Empty_LineInfo!
-	CATHAR_CHR_aran: "Aran" #!Empty_LineInfo!
-	CATHAR_CHR_rail: "Rail" #!Empty_LineInfo!
-	CATHAR_CHR_zeven: "Zeven" #!Empty_LineInfo!
-	CATHAR_CHR_yakown: "Yakown" #!Empty_LineInfo!
-	CATHAR_CHR_sibar: "Sibar" #!Empty_LineInfo!
-	CATHAR_CHR_sair: "Sair" #!Empty_LineInfo!
-	CATHAR_CHR_klai: "Klai" #!Empty_LineInfo!
-	CATHAR_CHR_imay: "Imay" #!Empty_LineInfo!
-	CATHAR_CHR_traest: "Traest" #!Empty_LineInfo!
-	CATHAR_CHR_simo: "Simo" #!Empty_LineInfo!
-	CATHAR_CHR_riyan: "Riyan" #!Empty_LineInfo!
-	CATHAR_CHR_magnus: "Magnus" #!Empty_LineInfo!
-	CATHAR_CHR_boceta: "Boceta" #!Empty_LineInfo!
-	CATHAR_CHR_agnook: "Agnook" #!Empty_LineInfo!
-	CATHAR_CHR_silus: "Silus" #!Empty_LineInfo!
-	CATHAR_CHR_rowan: "Rowan" #!Empty_LineInfo!
-	CATHAR_CHR_coren: "Coren" #!Empty_LineInfo!
-	CATHAR_CHR_jett: "Jett" #!Empty_LineInfo!
-	CATHAR_CHR_linth: "Linth" #!Empty_LineInfo!
-	CATHAR_CHR_annor: "Annor" #!Empty_LineInfo!
-	CATHAR_CHR_ulas: "Ulas" #!Empty_LineInfo!
-	CATHAR_CHR_fenn: "Fenn" #!Empty_LineInfo!
-	CATHAR_CHR_tal: "Tal" #!Empty_LineInfo!
-	CATHAR_CHR_plo: "Plo" #!Empty_LineInfo!
-	CATHAR_CHR_torin: "Torin" #!Empty_LineInfo!
-	CATHAR_CHR_boone: "Boone" #!Empty_LineInfo!
-	CATHAR_CHR_davith: "Davith" #!Empty_LineInfo!
-	CATHAR_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
-	CATHAR_CHR_bertos: "Bertos" #!Empty_LineInfo!
-	CATHAR_CHR_ress: "Ress" #!Empty_LineInfo!
-	CATHAR_CHR_malius: "Malius" #!Empty_LineInfo!
-	CATHAR_CHR_kale: "Kale" #!Empty_LineInfo!
-	CATHAR_CHR_cregan: "Cregan" #!Empty_LineInfo!
-	CATHAR_CHR_galen: "Galen" #!Empty_LineInfo!
-	CATHAR_CHR_zekk: "Zekk" #!Empty_LineInfo!
-	CATHAR_CHR_jinn_tu: "Jinn-Tu" #!Empty_LineInfo!
-	CATHAR_CHR_jaryn: "Jaryn" #!Empty_LineInfo!
-	CATHAR_CHR_gentti: "Gentti" #!Empty_LineInfo!
-	CATHAR_CHR_yu_sien: "Yu-Sien" #!Empty_LineInfo!
-	CATHAR_CHR_akela: "Akela" #!Empty_LineInfo!
-	CATHAR_CHR_arslan: "Arslan" #!Empty_LineInfo!
-	CATHAR_CHR_sidias: "Sidias" #!Empty_LineInfo!
-	CATHAR_CHR_haken: "Haken" #!Empty_LineInfo!
-	CATHAR_CHR_biran: "Biran" #!Empty_LineInfo!
-	CATHAR_CHR_vidown: "Vidown" #!Empty_LineInfo!
-	CATHAR_CHR_ares: "Ares" #!Empty_LineInfo!
-	CATHAR_CHR_ithan: "Ithan" #!Empty_LineInfo!
-	CATHAR_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
-	CATHAR_CHR_thoja: "Thoja" #!Empty_LineInfo!
-	CATHAR_CHR_cron: "Cron" #!Empty_LineInfo!
-	CATHAR_CHR_mossi: "Mossi" #!Empty_LineInfo!
-	CATHAR_CHR_abric: "Abric" #!Empty_LineInfo!
-	CATHAR_CHR_darg: "Darg" #!Empty_LineInfo!
-	CATHAR_CHR_gaman: "Gaman" #!Empty_LineInfo!
-	CATHAR_CHR_naiad: "Naiad" #!Empty_LineInfo!
-	CATHAR_CHR_herub: "Herub" #!Empty_LineInfo!
-	CATHAR_CHR_marius: "Marius" #!Empty_LineInfo!
-	CATHAR_CHR_torkin: "Torkin" #!Empty_LineInfo!
-	CATHAR_CHR_caton: "Caton" #!Empty_LineInfo!
-	CATHAR_CHR_kane: "Kane" #!Empty_LineInfo!
-	CATHAR_CHR_versita: "Versita" #!Empty_LineInfo!
-	CATHAR_CHR_cric: "Cric" #!Empty_LineInfo!
-	CATHAR_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
-	CATHAR_CHR_montacca: "Montacca" #!Empty_LineInfo!
-	CATHAR_CHR_jospi: "Jospi" #!Empty_LineInfo!
-	CATHAR_CHR_baz: "Baz" #!Empty_LineInfo!
-	CATHAR_CHR_kam: "Kam" #!Empty_LineInfo!
-	CATHAR_CHR_erek: "Erek" #!Empty_LineInfo!
-	CATHAR_CHR_lerak: "Lerak" #!Empty_LineInfo!
-	CATHAR_CHR_morla: "Morla" #!Empty_LineInfo!
-	CATHAR_CHR_baxter: "Baxter" #!Empty_LineInfo!
-	CATHAR_CHR_talan: "Talan" #!Empty_LineInfo!
-	CATHAR_CHR_thion: "Thion" #!Empty_LineInfo!
-	CATHAR_CHR_kannon: "Kannon" #!Empty_LineInfo!
-	CATHAR_CHR_corsair: "Corsair" #!Empty_LineInfo!
-	CATHAR_CHR_caster: "Caster" #!Empty_LineInfo!
-	CATHAR_CHR_elden: "Elden" #!Empty_LineInfo!
-	CATHAR_CHR_faelgrom: "Faelgrom" #!Empty_LineInfo!
-	CATHAR_CHR_jack: "Jack" #!Empty_LineInfo!
-	CATHAR_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
-	CATHAR_CHR_flash: "Flash" #!Empty_LineInfo!
-	CATHAR_CHR_waseem: "Waseem" #!Empty_LineInfo!
-	CATHAR_CHR_bendak: "Bendak" #!Empty_LineInfo!
-	CATHAR_CHR_kaz: "Kaz" #!Empty_LineInfo!
-	CATHAR_CHR_montileu: "Montileu" #!Empty_LineInfo!
-	CATHAR_CHR_gonoga: "Gonoga" #!Empty_LineInfo!
-	CATHAR_CHR_galven: "Galven" #!Empty_LineInfo!
-	CATHAR_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
-	CATHAR_CHR_ric: "Ric" #!Empty_LineInfo!
-	CATHAR_CHR_rebar: "Rebar" #!Empty_LineInfo!
-	CATHAR_CHR_jebediah: "Jebediah" #!Empty_LineInfo!
-	CATHAR_CHR_aramil: "Aramil" #!Empty_LineInfo!
-	CATHAR_CHR_delmi: "Delmi" #!Empty_LineInfo!
-	CATHAR_CHR_caalin: "Caalin" #!Empty_LineInfo!
-	CATHAR_CHR_rassth: "Rassth" #!Empty_LineInfo!
-	CATHAR_CHR_adorn: "Adorn" #!Empty_LineInfo!
-	CATHAR_CHR_cyrus: "Cyrus" #!Empty_LineInfo!
-	CATHAR_CHR_zhar_khan: "Zhar-Khan" #!Empty_LineInfo!
-	CATHAR_CHR_predor: "Predor" #!Empty_LineInfo!
-	CATHAR_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
-	CATHAR_CHR_boaz: "Boaz" #!Empty_LineInfo!
-	CATHAR_CHR_bradley: "Bradley" #!Empty_LineInfo!
-	CATHAR_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
-	CATHAR_CHR_bobecc: "Bobecc" #!Empty_LineInfo!
-	CATHAR_CHR_jelantos: "Jelantos" #!Empty_LineInfo!
-	CATHAR_CHR_jephego: "Jephego" #!Empty_LineInfo!
-	CATHAR_CHR_svante: "Svante" #!Empty_LineInfo!
-	CATHAR_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
-	CATHAR_CHR_aeon: "Aeon" #!Empty_LineInfo!
-	CATHAR_CHR_dekar: "Dekar" #!Empty_LineInfo!
-	CATHAR_CHR_jean_francois: "Jean-Francois" #!Empty_LineInfo!
-	CATHAR_CHR_elen: "Elen" #!Empty_LineInfo!
-	CATHAR_CHR_han: "Han" #!Empty_LineInfo!
-	CATHAR_CHR_owen: "Owen" #!Empty_LineInfo!
-	CATHAR_CHR_biggs: "Biggs" #!Empty_LineInfo!
-	CATHAR_CHR_charratha: "Charratha" #!Empty_LineInfo!
-	CATHAR_CHR_edaara: "Edaara" #!Empty_LineInfo!
-	CATHAR_CHR_bella: "Bella" #!Empty_LineInfo!
-	CATHAR_CHR_callista: "Callista" #!Empty_LineInfo!
-	CATHAR_CHR_mara: "Mara" #!Empty_LineInfo!
-	CATHAR_CHR_seena: "Seena" #!Empty_LineInfo!
-	CATHAR_CHR_areta: "Areta" #!Empty_LineInfo!
-	CATHAR_CHR_cord: "Cord" #!Empty_LineInfo!
-	CATHAR_CHR_cyrinity: "Cyrinity" #!Empty_LineInfo!
-	CATHAR_CHR_nile: "Nile" #!Empty_LineInfo!
-	CATHAR_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
-	CATHAR_CHR_yasmyn: "Yasmyn" #!Empty_LineInfo!
-	CATHAR_CHR_satra: "Satra" #!Empty_LineInfo!
-	CATHAR_CHR_shehish: "Shehish" #!Empty_LineInfo!
-	CATHAR_CHR_sarna: "Sarna" #!Empty_LineInfo!
-	CATHAR_CHR_krava: "Krava" #!Empty_LineInfo!
-	CATHAR_CHR_roxis: "Roxis" #!Empty_LineInfo!
-	CATHAR_CHR_jessa: "Jessa" #!Empty_LineInfo!
-	CATHAR_CHR_aqua: "Aqua" #!Empty_LineInfo!
-	CATHAR_CHR_maryna: "Maryna" #!Empty_LineInfo!
-	CATHAR_CHR_essaj: "Essaj" #!Empty_LineInfo!
-	CATHAR_CHR_looriw: "Looriw" #!Empty_LineInfo!
-	CATHAR_CHR_teeana: "Teeana" #!Empty_LineInfo!
-	CATHAR_CHR_raena: "Raena" #!Empty_LineInfo!
-	CATHAR_CHR_yula: "Yula" #!Empty_LineInfo!
-	CATHAR_CHR_vifi: "Vifi" #!Empty_LineInfo!
-	CATHAR_CHR_vania: "Vania" #!Empty_LineInfo!
-	CATHAR_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
-	CATHAR_CHR_aerena: "Aerena" #!Empty_LineInfo!
-	CATHAR_CHR_nataya: "Nataya" #!Empty_LineInfo!
-	CATHAR_CHR_bernarda: "Bernarda" #!Empty_LineInfo!
-	CATHAR_CHR_geela: "Geela" #!Empty_LineInfo!
-	CATHAR_CHR_lya: "Lya" #!Empty_LineInfo!
-	CATHAR_CHR_sirra: "Sirra" #!Empty_LineInfo!
-	CATHAR_CHR_teris: "Teris" #!Empty_LineInfo!
-	CATHAR_CHR_terral: "Terral" #!Empty_LineInfo!
-	CATHAR_CHR_riema: "Riema" #!Empty_LineInfo!
-	CATHAR_CHR_erri: "Erri" #!Empty_LineInfo!
-	CATHAR_CHR_shanna: "Shanna" #!Empty_LineInfo!
-	CATHAR_CHR_lyra: "Lyra" #!Empty_LineInfo!
-	CATHAR_CHR_pranda: "Pranda" #!Empty_LineInfo!
-	CATHAR_CHR_luna: "Luna" #!Empty_LineInfo!
-	CATHAR_CHR_cally: "Cally" #!Empty_LineInfo!
-	CATHAR_CHR_viqi: "Viqi" #!Empty_LineInfo!
-	CATHAR_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
-	CATHAR_CHR_lora: "Lora" #!Empty_LineInfo!
-	CATHAR_CHR_selena: "Selena" #!Empty_LineInfo!
-	CATHAR_CHR_zana: "Zana" #!Empty_LineInfo!
-	CATHAR_CHR_tuija: "Tuija" #!Empty_LineInfo!
-	CATHAR_CHR_railin: "Railin" #!Empty_LineInfo!
-	CATHAR_CHR_odona: "Odona" #!Empty_LineInfo!
-	CATHAR_CHR_shyon: "Shyon" #!Empty_LineInfo!
-	CATHAR_CHR_walas: "Walas" #!Empty_LineInfo!
-	CATHAR_CHR_rylla: "Rylla" #!Empty_LineInfo!
-	CATHAR_CHR_gara: "Gara" #!Empty_LineInfo!
-	CATHAR_CHR_delos: "Delos" #!Empty_LineInfo!
-	CATHAR_CHR_loretta: "Loretta" #!Empty_LineInfo!
-	CATHAR_CHR_luhon: "Luhon" #!Empty_LineInfo!
-	CATHAR_CHR_delinia: "Delinia" #!Empty_LineInfo!
-	CATHAR_CHR_aama: "Aama" #!Empty_LineInfo!
-	CATHAR_CHR_shorya: "Shorya" #!Empty_LineInfo!
-	CATHAR_CHR_melfina: "Melfina" #!Empty_LineInfo!
-	CATHAR_CHR_davessi: "Davessi" #!Empty_LineInfo!
-	CATHAR_CHR_larana: "Larana" #!Empty_LineInfo!
-	CATHAR_CHR_galatea: "Galatea" #!Empty_LineInfo!
-	CATHAR_CHR_nola: "Nola" #!Empty_LineInfo!
-	CATHAR_CHR_syna: "Syna" #!Empty_LineInfo!
-	CATHAR_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
-	CATHAR_CHR_anen: "Anen" #!Empty_LineInfo!
-	CATHAR_CHR_orona: "Orona" #!Empty_LineInfo!
-	CATHAR_CHR_yana: "Yana" #!Empty_LineInfo!
-	CATHAR_CHR_zoras: "Zoras" #!Empty_LineInfo!
-	CATHAR_CHR_ree: "Ree" #!Empty_LineInfo!
-	CATHAR_CHR_grace: "Grace" #!Empty_LineInfo!
-	CATHAR_CHR_tantema: "Tantema" #!Empty_LineInfo!
-	CATHAR_CHR_myn: "Myn" #!Empty_LineInfo!
-	CATHAR_CHR_una: "Una" #!Empty_LineInfo!
-	CATHAR_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
-	CATHAR_CHR_losa: "Losa" #!Empty_LineInfo!
-	CATHAR_CHR_sovi: "Sovi" #!Empty_LineInfo!
-	CATHAR_CHR_elaiza: "Elaiza" #!Empty_LineInfo!
-	CATHAR_CHR_vucora: "Vucora" #!Empty_LineInfo!
-	CATHAR_CHR_ava: "Ava" #!Empty_LineInfo!
-	CATHAR_CHR_joi: "Joi" #!Empty_LineInfo!
-	CATHAR_CHR_stryka: "Stryka" #!Empty_LineInfo!
-	CATHAR_CHR_shandra: "Shandra" #!Empty_LineInfo!
-	CATHAR_CHR_kely: "Kely" #!Empty_LineInfo!
-	CATHAR_CHR_caileta: "Caileta" #!Empty_LineInfo!
-	CATHAR_CHR_taia: "Taia" #!Empty_LineInfo!
-	CATHAR_CHR_siala: "Siala" #!Empty_LineInfo!
-	CATHAR_CHR_reki: "Reki" #!Empty_LineInfo!
-	CATHAR_CHR_maydla: "Maydla" #!Empty_LineInfo!
-	CATHAR_CHR_bot: "Bot" #!Empty_LineInfo!
-	CATHAR_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
-	CATHAR_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
-	CATHAR_CHR_zulara: "Zulara" #!Empty_LineInfo!
-	CATHAR_CHR_ren: "Ren" #!Empty_LineInfo!
-	CATHAR_CHR_karissa: "Karissa" #!Empty_LineInfo!
-	CATHAR_CHR_haruko: "Haruko" #!Empty_LineInfo!
-	CATHAR_CHR_jenna: "Jenna" #!Empty_LineInfo!
-	CATHAR_CHR_liana: "Liana" #!Empty_LineInfo!
-	CATHAR_CHR_rale: "Rale" #!Empty_LineInfo!
-	CATHAR_CHR_megara: "Megara" #!Empty_LineInfo!
-	CATHAR_CHR_aria: "Aria" #!Empty_LineInfo!
-	CATHAR_CHR_akiva: "Akiva" #!Empty_LineInfo!
-	CATHAR_CHR_nalah: "Nalah" #!Empty_LineInfo!
-	CATHAR_CHR_erlem: "Erlem" #!Empty_LineInfo!
-	CATHAR_CHR_nali: "Nali" #!Empty_LineInfo!
-	CATHAR_CHR_fallah: "Fallah" #!Empty_LineInfo!
-	CATHAR_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
-	CATHAR_CHR_aayla: "Aayla" #!Empty_LineInfo!
-	CATHAR_CHR_kalira: "Kalira" #!Empty_LineInfo!
-	CATHAR_CHR_arani: "Arani" #!Empty_LineInfo!
-	CATHAR_CHR_fama: "Fama" #!Empty_LineInfo!
-	CATHAR_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
-	CATHAR_CHR_arcas: "Arcas" #!Empty_LineInfo!
-	CATHAR_CHR_rane: "Rane" #!Empty_LineInfo!
-	CATHAR_CHR_nayru: "Nayru" #!Empty_LineInfo!
-	CATHAR_CHR_zylas: "Zylas" #!Empty_LineInfo!
-	CATHAR_CHR_vexa: "Vexa" #!Empty_LineInfo!
-	CATHAR_CHR_kana: "Kana" #!Empty_LineInfo!
-	CATHAR_CHR_beru: "Beru" #!Empty_LineInfo!
-	CATHAR_CHR_elysar: "Elysar" #!Empty_LineInfo!
-	CATHAR_CHR_tisa: "Tisa" #!Empty_LineInfo!
-	CATHAR_CHR_wahia: "Wahia" #!Empty_LineInfo!
-	CATHAR_CHR_wezz: "Wezz" #!Empty_LineInfo!
-	CATHAR_CHR_unic: "Unic" #!Empty_LineInfo!
-	CATHAR_CHR_tiovata: "Tiovata" #!Empty_LineInfo!
-	CATHAR_CHR_nakcohh: "Nakcohh" #!Empty_LineInfo!
-	CATHAR_CHR_vitaan: "Vitaan" #!Empty_LineInfo!
-	CATHAR_CHR_mefrid: "Mefrid" #!Empty_LineInfo!
-	CATHAR_CHR_daklan: "Daklan" #!Empty_LineInfo!
-	CATHAR_CHR_kenzee: "Kenzee" #!Empty_LineInfo!
-	CATHAR_CHR_joben: "Joben" #!Empty_LineInfo!
-	CATHAR_CHR_thegas: "Thegas" #!Empty_LineInfo!
-	CATHAR_CHR_moryne: "Moryne" #!Empty_LineInfo!
-	CATHAR_CHR_holgor: "Holgor" #!Empty_LineInfo!
-	CATHAR_CHR_ijaaz: "Ijaaz" #!Empty_LineInfo!
-	CATHAR_CHR_tromans: "Tromans" #!Empty_LineInfo!
-	CATHAR_CHR_sprax: "Sprax" #!Empty_LineInfo!
-	CATHAR_CHR_knesos: "Knesos" #!Empty_LineInfo!
-	CATHAR_CHR_lasek: "Lasek" #!Empty_LineInfo!
-	CATHAR_CHR_artis: "Artis" #!Empty_LineInfo!
-	CATHAR_CHR_pax: "Pax" #!Empty_LineInfo!
-	CATHAR_CHR_corso: "Corso" #!Empty_LineInfo!
-	CATHAR_CHR_fallon: "Fallon" #!Empty_LineInfo!
-	CATHAR_CHR_gundo: "Gundo" #!Empty_LineInfo!
-	CATHAR_CHR_ruana: "Ruana" #!Empty_LineInfo!
-	CATHAR_CHR_fremlin: "Fremlin" #!Empty_LineInfo!
-	CATHAR_CHR_thont: "Thont" #!Empty_LineInfo!
-	CATHAR_CHR_creel: "Creel" #!Empty_LineInfo!
-	CATHAR_CHR_rar: "Rar" #!Empty_LineInfo!
-	CATHAR_CHR_dusat: "Dusat" #!Empty_LineInfo!
-	CATHAR_CHR_kessler: "Kessler" #!Empty_LineInfo!
-	CATHAR_CHR_shaia: "Shaia" #!Empty_LineInfo!
-	CATHAR_CHR_el_theriam: "El-Theriam" #!Empty_LineInfo!
-	CATHAR_CHR_vanmeer: "VanMeer" #!Empty_LineInfo!
-	CATHAR_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
-	CATHAR_CHR_calway: "Calway" #!Empty_LineInfo!
-	CATHAR_CHR_yamaguchi: "Yamaguchi" #!Empty_LineInfo!
-	CATHAR_CHR_riggers: "Riggers" #!Empty_LineInfo!
-	CATHAR_CHR_brower: "Brower" #!Empty_LineInfo!
-	CATHAR_CHR_fash: "Fash" #!Empty_LineInfo!
-	CATHAR_CHR_nalto: "Nalto" #!Empty_LineInfo!
-	CATHAR_CHR_stryder: "Stryder" #!Empty_LineInfo!
-	CATHAR_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
-	CATHAR_CHR_colsan: "Colsan" #!Empty_LineInfo!
-	CATHAR_CHR_terrek: "Terrek" #!Empty_LineInfo!
-	CATHAR_CHR_solon: "Solon" #!Empty_LineInfo!
-	CATHAR_CHR_merquise: "Merquise" #!Empty_LineInfo!
-	CATHAR_CHR_varn: "Varn" #!Empty_LineInfo!
-	CATHAR_CHR_basai: "Basai" #!Empty_LineInfo!
-	CATHAR_CHR_froud: "Froud" #!Empty_LineInfo!
-	CATHAR_CHR_addacess: "Addacess" #!Empty_LineInfo!
-	CATHAR_CHR_durgen: "Durgen" #!Empty_LineInfo!
-	CATHAR_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
-	CATHAR_CHR_remex: "Remex" #!Empty_LineInfo!
-	CATHAR_CHR_madowki: "Madowki" #!Empty_LineInfo!
-	CATHAR_CHR_hayes: "Hayes" #!Empty_LineInfo!
-	CATHAR_CHR_ne: "Ne" #!Empty_LineInfo!
-	CATHAR_CHR_dago: "Dago" #!Empty_LineInfo!
-	CATHAR_CHR_greenback: "Greenback" #!Empty_LineInfo!
-	CATHAR_CHR_stithta: "Stithta" #!Empty_LineInfo!
-	CATHAR_CHR_ker: "Ker" #!Empty_LineInfo!
-	CATHAR_CHR_driet: "Driet" #!Empty_LineInfo!
-	CATHAR_CHR_klakk: "Klakk" #!Empty_LineInfo!
-	CATHAR_CHR_reed: "Reed" #!Empty_LineInfo!
-	CATHAR_CHR_lefex: "Lefex" #!Empty_LineInfo!
-	CATHAR_CHR_minn: "Minn" #!Empty_LineInfo!
-	CATHAR_CHR_irokini: "Irokini" #!Empty_LineInfo!
-	CATHAR_CHR_roye: "Roye" #!Empty_LineInfo!
-	CATHAR_CHR_danakar: "Danakar" #!Empty_LineInfo!
-	CATHAR_CHR_forin: "Forin" #!Empty_LineInfo!
-	CATHAR_CHR_glopio: "Glopio" #!Empty_LineInfo!
-	CATHAR_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
-	CATHAR_CHR_corcer: "Corcer" #!Empty_LineInfo!
-	CATHAR_CHR_ordo: "Ordo" #!Empty_LineInfo!
-	CATHAR_CHR_wan: "Wan" #!Empty_LineInfo!
-	CATHAR_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
-	CATHAR_CHR_golladio: "Golladio" #!Empty_LineInfo!
-	CATHAR_CHR_adramcsia: "Adramcsia" #!Empty_LineInfo!
-	CATHAR_CHR_jetberg: "Jetberg" #!Empty_LineInfo!
-	CATHAR_CHR_noth: "Noth" #!Empty_LineInfo!
-	CATHAR_CHR_taske: "Taske" #!Empty_LineInfo!
-	CATHAR_CHR_komo: "Komo" #!Empty_LineInfo!
-	CATHAR_CHR_styles: "Styles" #!Empty_LineInfo!
-	CATHAR_CHR_angavel: "Angavel" #!Empty_LineInfo!
-	CATHAR_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
-	CATHAR_CHR_yavoog: "Yavoog" #!Empty_LineInfo!
-	CATHAR_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
-	CATHAR_CHR_racto: "Racto" #!Empty_LineInfo!
-	CATHAR_CHR_degor: "Degor" #!Empty_LineInfo!
-	CATHAR_CHR_magre: "Magre" #!Empty_LineInfo!
-	CATHAR_CHR_soylon: "Soylon" #!Empty_LineInfo!
-	CATHAR_CHR_lerann: "Lerann" #!Empty_LineInfo!
-	CATHAR_CHR_chro: "Chro" #!Empty_LineInfo!
-	CATHAR_CHR_finn: "Finn" #!Empty_LineInfo!
-	CATHAR_CHR_blackmoor: "Blackmoor" #!Empty_LineInfo!
-	CATHAR_CHR_hwang: "Hwang" #!Empty_LineInfo!
-	CATHAR_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
-	CATHAR_CHR_amon: "Amon" #!Empty_LineInfo!
-	CATHAR_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
-	CATHAR_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
-	CATHAR_CHR_gilder: "Gilder" #!Empty_LineInfo!
-	CATHAR_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
-	CATHAR_CHR_kodd: "Kodd" #!Empty_LineInfo!
-	CATHAR_CHR_morin: "Morin" #!Empty_LineInfo!
-	CATHAR_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
-	CATHAR_CHR_tade: "Tade" #!Empty_LineInfo!
-	CATHAR_CHR_solman: "Solman" #!Empty_LineInfo!
-	CATHAR_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
-	CATHAR_CHR_marclonus: "Marclonus" #!Empty_LineInfo!
-	CATHAR_CHR_precore: "Precore" #!Empty_LineInfo!
-	CATHAR_CHR_solborne: "Solborne" #!Empty_LineInfo!
-	CATHAR_CHR_bailer: "Bailer" #!Empty_LineInfo!
-	CATHAR_CHR_katarn: "Katarn" #!Empty_LineInfo!
-	CATHAR_CHR_anjek: "Anjek" #!Empty_LineInfo!
-	CATHAR_CHR_dalgas: "Dalgas" #!Empty_LineInfo!
-	CATHAR_CHR_kast: "Kast" #!Empty_LineInfo!
-	CATHAR_CHR_airerith: "Airerith" #!Empty_LineInfo!
-	CATHAR_CHR_halo: "Halo" #!Empty_LineInfo!
-	CATHAR_CHR_clash: "Clash" #!Empty_LineInfo!
-	CATHAR_CHR_jalba: "Jalba" #!Empty_LineInfo!
-	CATHAR_CHR_benn: "Benn" #!Empty_LineInfo!
-	CATHAR_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
-	CATHAR_CHR_roice: "Roice" #!Empty_LineInfo!
-	CATHAR_CHR_lokar: "Lokar" #!Empty_LineInfo!
-	CATHAR_CHR_korpil: "Korpil" #!Empty_LineInfo!
-	CATHAR_CHR_turon: "Turon" #!Empty_LineInfo!
-	CATHAR_CHR_cavi: "Cavi" #!Empty_LineInfo!
-	CATHAR_CHR_deece: "Deece" #!Empty_LineInfo!
-	CATHAR_CHR_braitano: "Braitano" #!Empty_LineInfo!
-	CATHAR_CHR_garnik: "Garnik" #!Empty_LineInfo!
-	CATHAR_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
-	CATHAR_CHR_ka_taramas: "Ka'Taramas" #!Empty_LineInfo!
-	CATHAR_CHR_nuwest: "Nuwest" #!Empty_LineInfo!
-	CATHAR_CHR_forte: "Forte" #!Empty_LineInfo!
-	CATHAR_CHR_noshey: "Noshey" #!Empty_LineInfo!
-	CATHAR_CHR_gyyll: "Gyyll" #!Empty_LineInfo!
-	CATHAR_CHR_tallon: "Tallon" #!Empty_LineInfo!
-	CATHAR_CHR_lionne: "Lionne" #!Empty_LineInfo!
-	CATHAR_CHR_adras: "Adras" #!Empty_LineInfo!
-	CATHAR_CHR_peoly: "Peoly" #!Empty_LineInfo!
-	CATHAR_CHR_damiel: "Damiel" #!Empty_LineInfo!
-	CATHAR_CHR_chup_pau: "Chup-Pau" #!Empty_LineInfo!
-	CATHAR_CHR_drayven: "Drayven" #!Empty_LineInfo!
-	CATHAR_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
-	CATHAR_CHR_bela_trepada: "Bela-Trepada" #!Empty_LineInfo!
-	CATHAR_CHR_defelice: "Defelice" #!Empty_LineInfo!
-	CATHAR_CHR_monsula: "Monsula" #!Empty_LineInfo!
-	CATHAR_CHR_baralein: "Baralein" #!Empty_LineInfo!
-	CATHAR_CHR_denive: "Denive" #!Empty_LineInfo!
-	CATHAR_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
-	CATHAR_CHR_xergo: "Xergo" #!Empty_LineInfo!
-	CATHAR_CHR_sarat: "Sarat" #!Empty_LineInfo!
-	CATHAR_CHR_vercet: "Vercet" #!Empty_LineInfo!
-	CATHAR_CHR_ossaki: "Ossaki" #!Empty_LineInfo!
-	CATHAR_CHR_kappa: "Kappa" #!Empty_LineInfo!
-	CATHAR_CHR_zerga: "Zerga" #!Empty_LineInfo!
-	CATHAR_CHR_kopos: "Kopos" #!Empty_LineInfo!
-	CATHAR_CHR_aldrecht: "Aldrecht" #!Empty_LineInfo!
-	CATHAR_CHR_bohme: "Bohme" #!Empty_LineInfo!
-	CATHAR_CHR_tull: "Tull" #!Empty_LineInfo!
-	CATHAR_CHR_eldrel: "Eldrel" #!Empty_LineInfo!
-	CATHAR_CHR_marh: "Marh" #!Empty_LineInfo!
-	CATHAR_CHR_darksword: "Darksword" #!Empty_LineInfo!
-	CATHAR_CHR_krandor: "Krandor" #!Empty_LineInfo!
-	CATHAR_CHR_montag: "Montag" #!Empty_LineInfo!
-	CATHAR_CHR_dimodan: "Dimodan" #!Empty_LineInfo!
-	CATHAR_CHR_starfallen: "Starfallen" #!Empty_LineInfo!
-	CATHAR_CHR_fett: "Fett" #!Empty_LineInfo!
-	CATHAR_CHR_mohebbi: "Mohebbi" #!Empty_LineInfo!
-	CATHAR_CHR_runalian: "Runalian" #!Empty_LineInfo!
-	CATHAR_CHR_binette: "Binette" #!Empty_LineInfo!
-	CATHAR_CHR_laurent: "Laurent" #!Empty_LineInfo!
-	CATHAR_CHR_mavr: "Mavr" #!Empty_LineInfo!
-	CATHAR_CHR_ryra: "Ryra" #!Empty_LineInfo!
-	CATHAR_CHR_truden: "Truden" #!Empty_LineInfo!
-	CATHAR_CHR_solo: "Solo" #!Empty_LineInfo!
-	CATHAR_CHR_lars: "Lars" #!Empty_LineInfo!
-	CATHAR_CHR_amedda: "Amedda" #!Empty_LineInfo!
-	CATHAR_CHR_amidala: "Amidala" #!Empty_LineInfo!
-	CATHAR_CHR_andrell: "Andrell" #!Empty_LineInfo!
-	CATHAR_CHR_annon: "Annon" #!Empty_LineInfo!
-	CATHAR_CHR_antilles: "Antilles" #!Empty_LineInfo!
-	CATHAR_CHR_atanna: "Atanna" #!Empty_LineInfo!
-	CATHAR_CHR_baab: "Baab" #!Empty_LineInfo!
-	CATHAR_CHR_barc: "Barc" #!Empty_LineInfo!
-	CATHAR_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
-	CATHAR_CHR_breemu: "Breemu" #!Empty_LineInfo!
-	CATHAR_CHR_bremack: "Bremack" #!Empty_LineInfo!
-	CATHAR_CHR_bronk: "Bronk" #!Empty_LineInfo!
-	CATHAR_CHR_burtoni: "Burtoni" #!Empty_LineInfo!
-	CATHAR_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
-	CATHAR_CHR_callen: "Callen" #!Empty_LineInfo!
-	CATHAR_CHR_clovis: "Clovis" #!Empty_LineInfo!
-	CATHAR_CHR_ledwellow: "Ledwellow" #!Empty_LineInfo!
-	CATHAR_CHR_dio: "Dio" #!Empty_LineInfo!
-	CATHAR_CHR_organa: "Organa" #!Empty_LineInfo!
-	CATHAR_CHR_mas: "Mas" #!Empty_LineInfo!
-	CATHAR_CHR_wain: "Wain" #!Empty_LineInfo!
-	CATHAR_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
-	CATHAR_CHR_dewell: "Dewell" #!Empty_LineInfo!
-	CATHAR_CHR_tanner: "Tanner" #!Empty_LineInfo!
-	CATHAR_CHR_vi: "Vi" #!Empty_LineInfo!
-	CATHAR_CHR_rush: "Rush" #!Empty_LineInfo!
-	CATHAR_CHR_danry: "Danry" #!Empty_LineInfo!
-	CATHAR_CHR_padm_: "Padmé" #!Empty_LineInfo!
-	CATHAR_CHR_fema: "Fema" #!Empty_LineInfo!
-	CATHAR_CHR_mina: "Mina" #!Empty_LineInfo!
-	CATHAR_CHR_bana: "Bana" #!Empty_LineInfo!
-	CATHAR_CHR_tyreca: "Tyreca" #!Empty_LineInfo!
-	CATHAR_CHR_halle: "Halle" #!Empty_LineInfo!
-	CATHAR_CHR_lexi: "Lexi" #!Empty_LineInfo!
-	CATHAR_CHR_leia: "Leia" #!Empty_LineInfo!
-	CATHAR_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
-	CATHAR_CHR_leanna: "Leanna" #!Empty_LineInfo!
-	CATHAR_CHR_arya: "Arya" #!Empty_LineInfo!
-	CATHAR_CHR_panteer: "Panteer" #!Empty_LineInfo!
-	CATHAR_CHR_alde: "Alde" #!Empty_LineInfo!
-	CATHAR_CHR_frayus: "Frayus" #!Empty_LineInfo!
-	CATHAR_CHR_cortess: "Cortess" #!Empty_LineInfo!
-	CATHAR_CHR_killesa: "Killesa" #!Empty_LineInfo!
+ CATHAR_SHIP_mystic: "Мистик"
+ CATHAR_SHIP_naiad: "Наяда"
+ CATHAR_SHIP_nautilus: "Наутилус"
+ CATHAR_SHIP_nebula: "Туманность"
+ CATHAR_SHIP_nimble: "Проворный"
+ CATHAR_SHIP_north_star: "Полярная звезда"
+ CATHAR_SHIP_nymph: "Нимфа"
+ CATHAR_SHIP_obdurate: "Упрямый"
+ CATHAR_SHIP_ocean: "Океан"
+ CATHAR_SHIP_onward: "Вперед"
+ CATHAR_SHIP_oracle: "Оракул"
+ CATHAR_SHIP_paradox: "Парадокс"
+ CATHAR_SHIP_paragon: "Образец совершенства"
+ CATHAR_SHIP_pearl: "Жемчужина"
+ CATHAR_SHIP_peregrine: "Перегрин"
+ CATHAR_SHIP_perseverance: "Настойчивость"
+ CATHAR_SHIP_marksman: "Меткий стрелок"
+ CATHAR_SHIP_rifleman: "Стрелок"
+ CATHAR_SHIP_sniper: "Снайпер"
+ CATHAR_SHIP_trident: "Трезубец"
+ CATHAR_SHIP_trumpet: "Труба"
+ CATHAR_SHIP_truncheon: "Дубинка"
+ CATHAR_SHIP_typhoon: "Тайфун"
+ CATHAR_SHIP_undaunted: "Неустрашимый"
+ CATHAR_SHIP_venture: "Предприятие"
+ CATHAR_SHIP_versatile: "Универсальный"
+ CATHAR_SHIP_vigorous: "Энергичный"
+ CATHAR_SHIP_viper: "Гадюка"
+ CATHAR_SHIP_vivacious: "Жизнерадостный"
+ CATHAR_SHIP_winger: "Вингер"
+ CATHAR_SHIP_wizard: "Волшебник"
+ CATHAR_SHIP_wyvern: "Виверн"
+ CATHAR_SHIP_wolfhound: "Волкодав"
+ CATHAR_SHIP_devastator: "Опустошитель"
+ CATHAR_SHIP_warhammer: "Боевой молот"
+ CATHAR_SHIP_retribution: "Возмездие"
+ CATHAR_SHIP_senator: "Сенатор"
+ CATHAR_SHIP_tornado: "Торнадо"
+ CATHAR_SHIP_infinity: "Бесконечность"
+ CATHAR_SHIP_usurper: "Узурпатор"
+ CATHAR_SHIP_utmost: "Предельный"
+ CATHAR_SHIP_valorous: "Доблестный"
+ CATHAR_SHIP_whirlwind: "Вихрь"
+ CATHAR_SHIP_athena: "Афина"
+ CATHAR_SHIP_artemis: "Артемида"
+ CATHAR_SHIP_vigilance: "Бдительность"
+ CATHAR_SHIP_decimator: "Уничтожитель"
+ CATHAR_SHIP_indomitable: "Неукротимый"
+ CATHAR_SHIP_goliath: "Голиаф"
+ CATHAR_SHIP_sentinel: "Страж"
+ CATHAR_SHIP_brilliant: "Блестящий"
+ CATHAR_SHIP_blazer: "Блейзер"
+ CATHAR_SHIP_audacity: "Дерзость"
+ CATHAR_SHIP_gallant: "Галантный"
+ CATHAR_SHIP_nova: "Нова"
+ CATHAR_SHIP_shadow: "Тень"
+ CATHAR_SHIP_allegiance: "Верность"
+ CATHAR_SHIP_challenger: "Претендент"
+ CATHAR_SHIP_fearless: "Бесстрашный"
+ CATHAR_SHIP_protector: "Защитник"
+ CATHAR_SHIP_guardian: "Страж"
+ CATHAR_SHIP_victorious: "Победоносный"
+ CATHAR_SHIP_courageous: "Мужественный"
+ CATHAR_SHIP_defiance: "Неповиновение"
+ CATHAR_SHIP_azrael: "Азраил"
+ CATHAR_SHIP_adamantine: "Адамантин"
+ CATHAR_SHIP_aralanni: "Араланни"
+ CATHAR_SHIP_ardent_iv: "Ардент IV"
+ CATHAR_SHIP_armistice: "Перемирие"
+ CATHAR_SHIP_avengeance: "Месть"
+ CATHAR_SHIP_ballista: "Баллиста"
+ CATHAR_SHIP_bloodstripe: "Кровавая полоса"
+ CATHAR_SHIP_borealis: "Бореалис"
+ CATHAR_SHIP_caelus: "Целус"
+ CATHAR_SHIP_caravan: "Караван"
+ CATHAR_SHIP_chaf_envoy: "Посланник Чафа"
+ CATHAR_SHIP_commenor: "Комменор"
+ CATHAR_SHIP_corbantis: "Корбантис"
+ CATHAR_SHIP_corellia: "Кореллия"
+ CATHAR_SHIP_courteous: "Вежливый"
+ CATHAR_SHIP_dauntless: "Бесстрашный"
+ CATHAR_SHIP_defiant: "Непокорный"
+ CATHAR_SHIP_deliverance: "Избавление"
+ CATHAR_SHIP_derapha: "Дерафа"
+ CATHAR_SHIP_devout: "Набожный"
+ CATHAR_SHIP_empirical: "Эмпирический"
+ CATHAR_SHIP_empyrean: "Эмпирей"
+ CATHAR_SHIP_era_daimanos: "Эра Даймано"
+ CATHAR_SHIP_eye_of_the_storm: "Око бури"
+ CATHAR_SHIP_farstar: "Фарстар"
+ CATHAR_SHIP_fastblast: "Фастбласт"
+ CATHAR_SHIP_galaaron: "Галаарон"
+ CATHAR_SHIP_garrote: "Удавка"
+ CATHAR_SHIP_gilagimar: "Гилагимар"
+ CATHAR_SHIP_halleck: "Халлек"
+ CATHAR_SHIP_hunter: "Охотник"
+ CATHAR_SHIP_intractable: "Несговорчивый"
+ CATHAR_SHIP_ithor_lady: "Леди Итор"
+ CATHAR_SHIP_justice_crusader: "Борец за справедливость"
+ CATHAR_SHIP_kana_s_steel: "Сталь Каны"
+ CATHAR_SHIP_lathir: "Латир"
+ CATHAR_SHIP_liberty: "Свобода"
+ CATHAR_SHIP_lillibanca: "Лилибанкас"
+ CATHAR_SHIP_maelstrom: "Водоворот"
+ CATHAR_SHIP_malachite_scent: "Аромат малахита"
+ CATHAR_SHIP_mercy: "Милосердие"
+ CATHAR_SHIP_myrkos: "Миркос"
+ CATHAR_SHIP_nebula_chaser: "Охотник за туманностями"
+ CATHAR_SHIP_nova_viper: "Новая гадюка"
+ CATHAR_SHIP_obedience: "Послушание"
+ CATHAR_SHIP_olemp: "Олемп"
+ CATHAR_SHIP_pegasus: "Пегас"
+ CATHAR_SHIP_perspicacity: "Проницательность"
+ CATHAR_SHIP_phalanx: "Фаланга"
+ CATHAR_SHIP_plooriod_bodkin: "Плоуриод Бодкин"
+ CATHAR_SHIP_predominance: "Преобладание"
+ CATHAR_SHIP_prosperity: "Процветание"
+ CATHAR_SHIP_purity: "Чистота"
+ CATHAR_SHIP_recalcitrant: "Непокорный"
+ CATHAR_SHIP_red_nova: "Красная нова"
+ CATHAR_SHIP_redma: "Редма"
+ CATHAR_SHIP_reliable: "Достоверный"
+ CATHAR_SHIP_reliant: "Надежный"
+ CATHAR_SHIP_reluctant: "Вынужденный"
+ CATHAR_SHIP_republic: "Республика"
+ CATHAR_SHIP_republic_s_return: "Возвращение республики"
+ CATHAR_SHIP_resolve: "Разрешить"
+ CATHAR_SHIP_respectable: "Респектабельный"
+ CATHAR_SHIP_revenge: "Месть"
+ CATHAR_SHIP_shadowblade: "Клинок Тени"
+ CATHAR_SHIP_spritespray: "Спрайтспрей"
+ CATHAR_SHIP_star_dream: "Звездная мечта"
+ CATHAR_SHIP_stark_wing: "Крыло Старка"
+ CATHAR_SHIP_starveil: "Голодный"
+ CATHAR_SHIP_undying: "Бессмертный"
+ CATHAR_SHIP_vaathkree: "Вааткри"
+ CATHAR_SHIP_vainglorious: "Тщеславный"
+ CATHAR_SHIP_valiant: "Доблестный"
+ CATHAR_SHIP_valor: "Доблесть"
+ CATHAR_SHIP_vanquisher: "Победитель"
+ CATHAR_SHIP_vinsor: "Винсор"
+ CATHAR_SHIP_visseon: "Виссон"
+ CATHAR_SHIP_wennis: "Веннис"
+ CATHAR_SHIP_yavin_s_glory: "Слава Явина"
+ CATHAR_SHIP_moldy_crow: "Заплесневелая ворона"
+ CATHAR_SHIP_raven_s_claw: "Коготь Ворона"
+ CATHAR_SHIP_agile: "Проворный"
+ CATHAR_SHIP_archer: "Лучник"
+ CATHAR_SHIP_arrow: "Стрелка"
+ CATHAR_SHIP_bruiser: "Громила"
+ CATHAR_SHIP_cherub: "Херувим"
+ CATHAR_SHIP_chimera: "Химера"
+ CATHAR_SHIP_claymore: "Клеймор"
+ CATHAR_SHIP_broadsword: "Палаш"
+ CATHAR_SHIP_battleaxe: "Боевой топор"
+ CATHAR_SHIP_crossbow: "Арбалет"
+ CATHAR_SHIP_cutlass: "Кортик"
+ CATHAR_SHIP_deterrent: "Сдерживающий фактор"
+ CATHAR_SHIP_errant: "Странствующий"
+ CATHAR_SHIP_faithful: "Верный"
+ CATHAR_SHIP_fierce: "Свирепый"
+ CATHAR_SHIP_gladius: "Гладиус"
+ CATHAR_SHIP_longbow: "Длинный лук"
+ CATHAR_SHIP_grappler: "Грэпплер"
+ CATHAR_SHIP_hammer: "Хаммер"
+ CATHAR_SHIP_vampire: "Вампир"
+ CATHAR_SHIP_velox: "Велокс"
+ CATHAR_SHIP_venator: "Венатор"
+ CATHAR_SHIP_vendetta: "Вендетта"
+ CATHAR_SHIP_venerable: "Достопочтенный"
+ CATHAR_SHIP_venomous: "Ядовитый"
+ CATHAR_SHIP_taciturn: "Неразговорчивый"
+ CATHAR_SHIP_supreme: "Высший"
+ CATHAR_SHIP_success: "Успех"
+ CATHAR_SHIP_shredder: "Измельчитель"
+ CATHAR_SHIP_seraph: "Серафим"
+ CATHAR_SHIP_serpent: "Змей"
+ CATHAR_SHIP_spitfire: "Спитфайр"
+ CATHAR_SHIP_stalker: "Сталкер"
+ CATHAR_SHIP_stratagem: "Стратегическая уловка"
+ CATHAR_SHIP_scimitar: "Ятаган"
+ CATHAR_SHIP_scorcher: "Выжигатель"
+ CATHAR_SHIP_scourge: "Бич"
+ CATHAR_SHIP_scythe: "Коса"
+ CATHAR_SHIP_revenant: "Выживший"
+ CATHAR_SHIP_redoubtable: "Грозный"
+ CATHAR_SHIP_raptor: "Раптор"
+ CATHAR_SHIP_reaver: "Разбойник"
+ CATHAR_SHIP_prodigal: "Блудный сын"
+ CATHAR_SHIP_rapier: "Рапира"
+ CATHAR_SHIP_prudent: "Благоразумный"
+ CATHAR_SHIP_persistent: "Постоянный"
+ CATHAR_SHIP_peerless: "Несравненный"
+ CATHAR_SHIP_myrmidon: "Мирмидон"
+ CATHAR_SHIP_indignant: "Возмущенный"
+ CATHAR_SHIP_javelin: "Джавелин"
+ CATHAR_SHIP_knight: "Рыцарь"
+ CATHAR_SHIP_starwolf: "Звездный волк"
+ CATHAR_SHIP_bonaventure: "Бонавентура"
+ CATHAR_SHIP_adventure: "Приключение"
+ CATHAR_SHIP_boxer: "Боксер"
+ CATHAR_SHIP_buccaneer: "Пират"
+ CATHAR_SHIP_cavalier: "Кавалер"
+ CATHAR_SHIP_celestial: "Небесный"
+ CATHAR_SHIP_chariot: "Колесница"
+ CATHAR_SHIP_comet: "Комета"
+ CATHAR_SHIP_crucible: "Крусибл"
+ CATHAR_SHIP_cyclone: "Циклон"
+ CATHAR_SHIP_decisive: "Решающий"
+ CATHAR_SHIP_dexterous: "Ловкий"
+ CATHAR_SHIP_diadem: "Диадема"
+ CATHAR_SHIP_earnest: "Серьезный"
+ CATHAR_SHIP_eclipse: "Затмение"
+ CATHAR_SHIP_forger: "Фальсификатор"
+ CATHAR_SHIP_fortune: "Фортуна"
+ CATHAR_SHIP_gauntlet: "Перчатка"
+ CATHAR_SHIP_griffin: "Гриффин"
+ CATHAR_SHIP_horizon: "Горизонт"
+ CATHAR_SHIP_hotspur: "Отчаянный"
+ CATHAR_SHIP_hurricane: "Ураган"
+ CATHAR_SHIP_hussar: "Гусар"
+ CATHAR_SHIP_jubilant: "Ликующий"
+ CATHAR_SHIP_lancer: "Лансер"
+ CATHAR_SHIP_lightning: "Молния"
+ CATHAR_SHIP_magic: "Магия"
+ CATHAR_SHIP_mediator: "Посредник"
+ CATHAR_SHIP_mermaid: "Русалка"
+ CATHAR_SHIP_meteor: "Метеор"
+ CATHAR_SHIP_minstrel: "Менестрель"
+ CATHAR_SHIP_miranda: "Миранда"
+ CATHAR_SHIP_mustang: "Мустанг"
+ CATHAR_SHIP_sharpshooter: "Снайпер"
+ CATHAR_SHIP_cyclops: "Циклоп"
+ CATHAR_SHIP_centaur: "Кентавр"
+ CATHAR_SHIP_adversary: "Противник"
+ CATHAR_SHIP_assassin: "Убийца"
+ CATHAR_SHIP_dagger: "Кинжал"
+ CATHAR_SHIP_daring: "Дерзкий"
+ CATHAR_SHIP_duty: "Долг"
+ CATHAR_SHIP_havoc: "Хаос"
+ CATHAR_SHIP_hero: "Герой"
+ CATHAR_SHIP_justice: "Справедливость"
+ CATHAR_SHIP_impeccable: "Безупречный"
+ CATHAR_SHIP_interceptor: "Перехватчик"
+ CATHAR_SHIP_infernal: "Инфернальный"
+ CATHAR_SHIP_loyal: "Верный"
+ CATHAR_SHIP_matchless: "Бесподобный"
+ CATHAR_SHIP_mauler: "Маулер"
+ CATHAR_SHIP_mayhem: "Беспредел"
+ CATHAR_SHIP_malice: "Злоба"
+ CATHAR_SHIP_menace: "Угроза"
+ CATHAR_SHIP_merciless: "Беспощадный"
+ CATHAR_SHIP_mischief: "Озорство"
+ CATHAR_SHIP_monarch: "Монарх"
+ CATHAR_SHIP_patriot: "Патриот"
+ CATHAR_SHIP_predator: "Хищник"
+ CATHAR_SHIP_powerful: "Могущественный"
+ CATHAR_SHIP_punisher: "Каратель"
+ CATHAR_SHIP_ravager: "Разрушитель"
+ CATHAR_SHIP_reaper: "Жнец"
+ CATHAR_SHIP_savage: "Дикарь"
+ CATHAR_SHIP_spiteful: "Злобный"
+ CATHAR_SHIP_templar: "Тамплиер"
+ CATHAR_SHIP_terminator: "Терминатор"
+ CATHAR_SHIP_terror: "Террор"
+ CATHAR_SHIP_thrasher: "Трэшер"
+ CATHAR_SHIP_minotaur: "Минотавр"
+ CATHAR_SHIP_manticore: "Мантикора"
+ CATHAR_SHIP_interdictor: "Перехватчик"
+ CATHAR_SHIP_intruder: "Злоумышленник"
+ CATHAR_SHIP_hydra: "Гидра"
+ CATHAR_SHIP_enfield: "Энфилд"
+ CATHAR_SHIP_harasser: "Преследователь"
+ CATHAR_SHIP_unbeaten: "Непобедимый"
+ CATHAR_SHIP_werewolf: "Оборотень"
+ CATHAR_SHIP_zealous: "Ревностный"
+ CATHAR_SHIP_petulant: "Раздражительный"
+ CATHAR_SHIP_phantom: "Фантом"
+ CATHAR_SHIP_phoenix: "Феникс"
+ CATHAR_SHIP_pike: "Щука"
+ CATHAR_SHIP_pursuer: "Преследователь"
+ CATHAR_SHIP_raider: "Рейдер"
+ CATHAR_SHIP_rainbow: "Радуга"
+ CATHAR_SHIP_rapid: "Рапид"
+ CATHAR_SHIP_redemption: "Искупление"
+ CATHAR_SHIP_relentless: "Неумолимый"
+ CATHAR_SHIP_rigorous: "Строгий"
+ CATHAR_SHIP_robust: "Надежный"
+ CATHAR_SHIP_sabre: "Сейбр"
+ CATHAR_SHIP_salvation: "Спасение"
+ CATHAR_SHIP_sanguine: "Сангвиник"
+ CATHAR_SHIP_scarab: "Скарабей"
+ CATHAR_SHIP_scepter: "Скипетр"
+ CATHAR_SHIP_sea_witch: "Морская ведьма"
+ CATHAR_SHIP_siren: "Сирена"
+ CATHAR_SHIP_sorceress: "Волшебница"
+ CATHAR_SHIP_spearhead: "Острие копья"
+ CATHAR_SHIP_specter: "Призрак"
+ CATHAR_SHIP_spirit: "Дух"
+ CATHAR_SHIP_splendid: "Великолепно"
+ CATHAR_SHIP_stallion: "Жеребец"
+ CATHAR_SHIP_stalwart: "Стойкий"
+ CATHAR_SHIP_steadfast: "Стойкий"
+ CATHAR_SHIP_strenuous: "Напряженный"
+ CATHAR_SHIP_superb: "Превосходно"
+ CATHAR_SHIP_supernova: "Сверхновая"
+ CATHAR_SHIP_surprise: "Сюрприз"
+ CATHAR_SHIP_swiftsure: "Свифтсур"
+ CATHAR_SHIP_talent: "Талант"
+ CATHAR_SHIP_talisman: "Талисман"
+ CATHAR_SHIP_talon: "Коготь"
+ CATHAR_SHIP_taurus: "Телец"
+ CATHAR_SHIP_tenacious: "Цепкий"
+ CATHAR_SHIP_thunder_child: "Дитя грома"
+ CATHAR_SHIP_thunderous: "Громоподобный"
+ CATHAR_SHIP_tireless: "Неутомимый"
+ CATHAR_SHIP_trenchant: "Резкий"
+ CATHAR_SHIP_righteous: "Праведный"
+ CATHAR_SHIP_acheron: "Ахерон"
+ CATHAR_SHIP_achilles: "Ахилл"
+ CATHAR_SHIP_agamemnon: "Агамемнон"
+ CATHAR_SHIP_amphion: "Амфион"
+ CATHAR_SHIP_aquilon: "Аквилон"
+ CATHAR_SHIP_argonaut: "Аргонавт"
+ CATHAR_SHIP_argus: "Аргус"
+ CATHAR_SHIP_ariel: "Ариэль"
+ CATHAR_SHIP_aurora: "Аврора"
+ CATHAR_SHIP_avernus: "Авернус"
+ CATHAR_SHIP_bacchus: "Вакх"
+ CATHAR_SHIP_bucephalus: "Буцефал"
+ CATHAR_SHIP_calliope: "Каллиопа"
+ CATHAR_SHIP_calypso: "Калипсо"
+ CATHAR_SHIP_castor: "Кастор"
+ CATHAR_SHIP_charybdis: "Харибда"
+ CATHAR_SHIP_circe: "Цирцея"
+ CATHAR_SHIP_cleopatra: "Клеопатра"
+ CATHAR_SHIP_constantine: "Константин"
+ CATHAR_SHIP_cordelia: "Корделия"
+ CATHAR_SHIP_cyrus: "Сайрус"
+ CATHAR_SHIP_damocles: "Дамоклов"
+ CATHAR_SHIP_daedalus: "Дедал"
+ CATHAR_SHIP_darius: "Дариус"
+ CATHAR_SHIP_diomede: "Диомед"
+ CATHAR_SHIP_dryad: "Дриада"
+ CATHAR_SHIP_electra: "Электра"
+ CATHAR_SHIP_endymion: "Эндимион"
+ CATHAR_SHIP_erebus: "Эребус"
+ CATHAR_SHIP_fenris: "Фенрис"
+ CATHAR_SHIP_freya: "Фрейя"
+ CATHAR_SHIP_gilgamesh: "Гильгамеш"
+ CATHAR_SHIP_gorgon: "Горгона"
+ CATHAR_SHIP_halcyon: "Гальцион"
+ CATHAR_SHIP_hecate: "Геката"
+ CATHAR_SHIP_hector: "Гектор"
+ CATHAR_SHIP_hesperus: "Гесперус"
+ CATHAR_SHIP_janus: "Янус"
+ CATHAR_SHIP_jason: "Джейсон"
+ CATHAR_SHIP_juno: "Юнона"
+ CATHAR_SHIP_jupiter: "Юпитер"
+ CATHAR_SHIP_lancelot: "Ланселот"
+ CATHAR_SHIP_lazarus: "Лазарь"
+ CATHAR_SHIP_leander: "Линдер"
+ CATHAR_SHIP_leonidas: "Леонидас"
+ CATHAR_SHIP_lysander: "Лисандр"
+ CATHAR_SHIP_maenad: "Менада"
+ CATHAR_SHIP_mars: "Марс"
+ CATHAR_SHIP_medea: "Медея"
+ CATHAR_SHIP_medusa: "Медуза"
+ CATHAR_SHIP_menestheus: "Menestheus"
+ CATHAR_SHIP_mercury: "Меркурий"
+ CATHAR_SHIP_merlin: "Мерлин"
+ CATHAR_SHIP_minerva: "Минерва"
+ CATHAR_SHIP_minos: "Минос"
+ CATHAR_SHIP_neptune: "Нептун"
+ CATHAR_SHIP_nessus: "Нессус"
+ CATHAR_SHIP_nestor: "Нестор"
+ CATHAR_SHIP_nimrod: "Нимрод"
+ CATHAR_SHIP_niobe: "Ниобе"
+ CATHAR_SHIP_oberon: "Оберон"
+ CATHAR_SHIP_odin: "Один"
+ CATHAR_SHIP_ophelia: "Офелия"
+ CATHAR_SHIP_orestes: "Орест"
+ CATHAR_SHIP_orpheus: "Орфей"
+ CATHAR_SHIP_osiris: "Осирис"
+ CATHAR_SHIP_pandora: "Пандора"
+ CATHAR_SHIP_penelope: "Пенелопа"
+ CATHAR_SHIP_persephone: "Персефона"
+ CATHAR_SHIP_perseus: "Персей"
+ CATHAR_SHIP_phoebe: "Фиби"
+ CATHAR_SHIP_pluto: "Плутон"
+ CATHAR_SHIP_poseidon: "Посейдон"
+ CATHAR_SHIP_proteus: "Протей"
+ CATHAR_SHIP_pylades: "Пилады"
+ CATHAR_SHIP_serapis: "Серапис"
+ CATHAR_SHIP_stygian: "Стигийский"
+ CATHAR_SHIP_tantalus: "Тантал"
+ CATHAR_SHIP_telemachus: "Телемах"
+ CATHAR_SHIP_theseus: "Тесей"
+ CATHAR_SHIP_thor: "Тор"
+ CATHAR_SHIP_trajan: "Траян"
+ CATHAR_SHIP_triton: "Тритон"
+ CATHAR_SHIP_venus: "Венера"
+ CATHAR_SHIP_adamant: "Адамант"
+ CATHAR_SHIP_ardent: "Пылкий"
+ CATHAR_SHIP_assail: "Нападение"
+ CATHAR_SHIP_austere: "Строгий"
+ CATHAR_SHIP_archon: "Архонт"
+ CATHAR_SHIP_adroit: "Ловкий"
+ CATHAR_SHIP_aegis: "Эгида"
+ CATHAR_SHIP_anchor: "Якорь"
+ CATHAR_SHIP_corsair: "Корсар"
+ CATHAR_SHIP_banshee: "Банши"
+ CATHAR_SHIP_enchantress: "Чародейка"
+ CATHAR_SHIP_eradicator: "Искоренитель"
+ CATHAR_SHIP_tormentor: "Мучитель"
+ CATHAR_SHIP_legion: "Легион"
+ CATHAR_SHIP_reprisal: "Возмездие"
+ CATHAR_SHIP_aggressor: "Агрессор"
+ CATHAR_SHIP_assault: "Нападение"
+ CATHAR_SHIP_eviscerator: "Потрошитель"
+ CATHAR_SHIP_imperator: "Император"
+ CATHAR_SHIP_excellence: "Превосходство"
+ CATHAR_SHIP_unrivalled: "Непревзойденный"
+ CATHAR_SHIP_warlord: "Военачальник"
+ CATHAR_SHIP_vengeance: "Месть"
+ CATHAR_SHIP_triumphant: "Триумфатор"
+ CATHAR_SHIP_nemesis: "Немезида"
+ CATHAR_SHIP_avenger: "Мститель"
+ CATHAR_SHIP_champion: "Чемпион"
+ CATHAR_SHIP_conqueror: "Завоеватель"
+ CATHAR_SHIP_crusader: "Крестоносец"
+ CATHAR_SHIP_glory: "Слава"
+ CATHAR_SHIP_immortal: "Бессмертный"
+ CATHAR_SHIP_judicator: "Судья"
+ CATHAR_SHIP_vanguard: "Авангард"
+ CATHAR_SHIP_renown: "Известность"
+ CATHAR_SHIP_demolisher: "Разрушитель"
+ CATHAR_SHIP_dragon: "Дракон"
+ CATHAR_SHIP_executor: "Палач"
+ CATHAR_SHIP_furious: "Яростный"
+ CATHAR_SHIP_gladiator: "Гладиатор"
+ CATHAR_SHIP_magnificent: "Великолепный"
+ CATHAR_SHIP_ogre: "Людоед"
+ CATHAR_SHIP_onslaught: "Натиск"
+ CATHAR_SHIP_vehement: "Неистовый"
+ CATHAR_SHIP_basilisk: "Василиск"
+ CATHAR_SHIP_tempest: "Буря"
+ CATHAR_SHIP_overlord: "Повелитель"
+ CATHAR_SHIP_warrior: "Воин"
+ CATHAR_SHIP_titan: "Титан"
+ CATHAR_SHIP_colossus: "Колосс"
+ CATHAR_SHIP_prometheus: "Прометей"
+ CATHAR_SHIP_nike: "Найк"
+ CATHAR_SHIP_paladin: "Паладин"
+ CATHAR_SHIP_sovereign: "Суверенный"
+ CATHAR_SHIP_repulse: "Отпор"
+ CATHAR_SHIP_majestic: "Маджестик"
+ CATHAR_SHIP_avatar: "Аватар"
+ CATHAR_SHIP_behemoth: "Бегемот"
+ CATHAR_SHIP_centurion: "Центурион"
+ CATHAR_SHIP_citadel: "Цитадель"
+ CATHAR_SHIP_katana: "Катана"
+ CATHAR_SHIP_kraken: "Кракен"
+ CATHAR_SHIP_cerberus: "Цербер"
+ CATHAR_SHIP_valkyrie: "Валькирия"
+ CATHAR_SHIP_dreadnought: "Дредноут"
+ CATHAR_SHIP_harbinger: "Предвестник"
+ CATHAR_SHIP_juggernaut: "Джаггернаут"
+ CATHAR_SHIP_leviathan: "Левиафан"
+ CATHAR_SHIP_hyperion: "Гиперион"
+ CATHAR_SHIP_galatea: "Галатея"
+ CATHAR_SHIP_ambush: "Засада"
+ CATHAR_SHIP_vindicator: "Защитник"
+ CATHAR_SHIP_crescent: "Полумесяц"
+ CATHAR_SHIP_diligent: "Прилежный"
+ CATHAR_SHIP_zephyr: "Зефир"
+ CATHAR_SHIP_enigma: "Энигма"
+ CATHAR_SHIP_conquistador: "Конкистадор"
+ CATHAR_SHIP_scylla: "Сцилла"
+ CATHAR_SHIP_arbiter: "Арбитр"
+ CATHAR_SHIP_asperity: "Неровность"
+ CATHAR_SHIP_eminence: "Высокопреосвященство"
+ CATHAR_SHIP_astute: "Проницательный"
+ CATHAR_SHIP_alacrity: "Готовность"
+ CATHAR_SHIP_satyr: "Сатир"
+ CATHAR_SHIP_prospero: "Просперо"
+ CATHAR_SHIP_untiring: "Неутомимый"
+ CATHAR_SHIP_zenith: "Зенит"
+ CATHAR_SHIP_torch: "Факел"
+ CATHAR_SHIP_remembrance: "Воспоминание"
+ CATHAR_SHIP_pilgrim: "Пилигрим"
+ CATHAR_SHIP_trailblazer: "Первопроходец"
+ CATHAR_SHIP_vagabond: "Бродяга"
+ CATHAR_SHIP_wayfarer: "Путник"
+ CATHAR_SHIP_ambassador: "Посол"
+ CATHAR_SHIP_emissary: "Эмиссар"
+ CATHAR_SHIP_nomad: "Кочевник"
+ CATHAR_SHIP_pathfinder: "Следопыт"
+ CATHAR_SHIP_wanderer: "Странник"
+ CATHAR_SHIP_traveler: "Путешественник"
+ CATHAR_SHIP_godspeed: "Счастливого пути"
+ CATHAR_SHIP_prophecy: "Пророчество"
+ CATHAR_SHIP_manifest_destiny: "Явное Предначертание"
+ CATHAR_SHIP_virtue: "Добродетель"
+ CATHAR_SHIP_potential: "Потенциал"
+ CATHAR_SHIP_expansion: "Расширение"
+ CATHAR_SHIP_pioneer_spirit: "Дух первопроходца"
+ CATHAR_SHIP_summit: "Саммит"
+ CATHAR_SHIP_pinnacle: "Вершина"
+ CATHAR_SHIP_seeder: "Сеялка"
+ CATHAR_SHIP_harvest: "Урожай"
+ CATHAR_SHIP_demeter: "Деметра"
+ CATHAR_SHIP_isis: "Изида"
+ CATHAR_SHIP_ceres: "Церера"
+ CATHAR_SHIP_exodus: "Исход"
+ CATHAR_SHIP_foundation: "Основание"
+ CATHAR_SHIP_scion: "Наследник"
+ CATHAR_SHIP_progeny: "Потомство"
+ CATHAR_SHIP_obligation: "Обязательство"
+ CATHAR_SHIP_purpose: "Цель"
+ CATHAR_SHIP_provider: "Провайдер"
+ CATHAR_SHIP_shining_city: "Сияющий город"
+ CATHAR_SHIP_acquirer: "Покупатель"
+ CATHAR_SHIP_cultivator: "Культиватор"
+ CATHAR_SHIP_dawn_of_civilization: "Рассвет цивилизации"
+ CATHAR_SHIP_community: "Сообщество"
+ CATHAR_SHIP_brotherhood: "Братство"
+ CATHAR_SHIP_industry: "Промышленность"
+ CATHAR_SHIP_assiduity: "Усидчивость"
+ CATHAR_SHIP_effort: "Усилие"
+ CATHAR_SHIP_laborer: "Чернорабочий"
+ CATHAR_SHIP_builder: "Строитель"
+ CATHAR_SHIP_craftsman: "Мастер"
+ CATHAR_SHIP_hard_hat: "Каска"
+ CATHAR_SHIP_progress: "Прогресс"
+ CATHAR_SHIP_engineer: "Инженер"
+ CATHAR_SHIP_promise: "Обещание"
+ CATHAR_SHIP_service: "Сервис"
+ CATHAR_SHIP_shelter: "Убежище"
+ CATHAR_SHIP_beast: "Зверь"
+ CATHAR_SHIP_creator: "Создатель"
+ CATHAR_SHIP_developer: "Разработчик"
+ CATHAR_SHIP_foundry: "Литейный цех"
+ CATHAR_SHIP_factory: "Фабрика"
+ CATHAR_SHIP_anvil: "Наковальня"
+ CATHAR_SHIP_pillar: "Столп"
+ CATHAR_SHIP_architect: "Архитектор"
+ CATHAR_SHIP_accommodator: "Жилец"
+ CATHAR_SHIP_ptah: "Птах"
+ CATHAR_SHIP_ilmarinen: "Ильмаринен"
+ CATHAR_SHIP_creidhne: "Крейдне"
+ CATHAR_SHIP_gobannus: "Гобаннус"
+ CATHAR_SHIP_luchtaine: "Лучтейн"
+ CATHAR_SHIP_goibniu: "Гоибниу"
+ CATHAR_SHIP_vishvakarman: "Вишвакарман"
+ CATHAR_SHIP_tvastar: "Твастар"
+ CATHAR_SHIP_ikenga: "Икенга"
+ CATHAR_SHIP_qaynan: "Кайнан"
+ CATHAR_SHIP_ucuetis: "Укуетис"
+ CATHAR_SHIP_ogoun: "Огун"
+ CATHAR_SHIP_ground_transport: "Наземный транспорт"
+ CATHAR_SHIP_spacegun_victory: "Космическая пушка Победа"
+ CATHAR_SHIP_spacegun_success: "Космическая пушка Успех"
+ CATHAR_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ CATHAR_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ CATHAR_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ CATHAR_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ CATHAR_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ CATHAR_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ CATHAR_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ CATHAR_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ CATHAR_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ CATHAR_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ CATHAR_SHIP_spacegun_honor: "Космическая пушка Честь"
+ CATHAR_SHIP_spacegun_renown: "Космическая пушка Величие"
+ CATHAR_SHIP_spacegun_glory: "Космическая пушка Слава"
+ CATHAR_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ CATHAR_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ CATHAR_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ CATHAR_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ CATHAR_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ CATHAR_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ CATHAR_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ CATHAR_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ CATHAR_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ CATHAR_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ CATHAR_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ CATHAR_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ CATHAR_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ CATHAR_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ CATHAR_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ CATHAR_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ CATHAR_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ CATHAR_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ CATHAR_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ CATHAR_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ CATHAR_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ CATHAR_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ CATHAR_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ CATHAR_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ CATHAR_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ CATHAR_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ CATHAR_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ CATHAR_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ CATHAR_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ CATHAR_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ CATHAR_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ CATHAR_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ CATHAR_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ CATHAR_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ CATHAR_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ CATHAR_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ CATHAR_SHIP_albacore: "Альбакор"
+ CATHAR_SHIP_gateway: "Шлюз"
+ CATHAR_SHIP_vincent: "Винсент"
+ CATHAR_SHIP_babylon: "Вавилон"
+ CATHAR_SHIP_caernavon: "Кэрнавон"
+ CATHAR_SHIP_acre: "Акро"
+ CATHAR_SHIP_pembroke: "Пембрук"
+ CATHAR_SHIP_spithead: "Спитхед"
+ CATHAR_SHIP_halifax: "Галифакс"
+ CATHAR_SHIP_victoria: "Виктория"
+ CATHAR_SHIP_chatham: "Чатем"
+ CATHAR_SHIP_anchorage: "Анкорхед"
+ CATHAR_SHIP_scapa_flow: "Скапа Флоу"
+ CATHAR_SHIP_hampton_roads: "хэмптон-роудз"
+ CATHAR_SHIP_brooklyn: "Бруклин"
+ CATHAR_SHIP_norfolk: "Норфолк"
+ CATHAR_SHIP_newport: "Ньюпорт"
+ CATHAR_SHIP_guam: "Гуам"
+ CATHAR_SHIP_pensacola: "Пенсакола"
+ CATHAR_SHIP_vesuvius: "Везувий"
+ CATHAR_SHIP_mckinley: "Маккинли"
+ CATHAR_SHIP_everest: "Эверест"
+ CATHAR_SHIP_kilimanjaro: "Килиманджаро"
+ CATHAR_SHIP_aconcagua: "Аконкагуа"
+ CATHAR_SHIP_elbrus: "Эльбрус"
+ CATHAR_SHIP_st__helens: "Святая Елена"
+ CATHAR_SHIP_fuji: "Фудзи"
+ CATHAR_SHIP_olympus: "Олимп"
+ CATHAR_SHIP_sinai: "Синай"
+ CATHAR_SHIP_ambrose: "Эмброуз"
+ CATHAR_SHIP_bermuda: "Бермудские острова"
+ CATHAR_SHIP_farpoint: "Дальняя точка"
+ CATHAR_SHIP_blue_star: "Голубая звезда"
+ CATHAR_SHIP_olympus_mons: "Олимп Монс"
+ CATHAR_SHIP_tharsis: "Тарсис"
+ CATHAR_SHIP_syrtis: "Сиртис"
+ CATHAR_SHIP_blackham: "Блэкхэм"
+ CATHAR_SHIP_fletcher: "Флетчер"
+ CATHAR_SHIP_perry: "Перри"
+ CATHAR_SHIP_butakov: "Бутаков"
+ CATHAR_SHIP_morris: "Моррис"
+ CATHAR_SHIP_moorsom: "Мурсом"
+ CATHAR_SHIP_hart: "Харт"
+ CATHAR_SHIP_hargood: "Харгуд"
+ CATHAR_SHIP_spruance: "Пружина"
+ CATHAR_SHIP_tanaka: "Танака"
+ CATHAR_SHIP_halsey: "Хэлси"
+ CATHAR_SHIP_turner: "Тернер"
+ CATHAR_SHIP_doria: "Дориа"
+ CATHAR_SHIP_tirpitz: "Тирпиц"
+ CATHAR_SHIP_cunningham: "Каннингем"
+ CATHAR_SHIP_jellicoe: "Джеллико"
+ CATHAR_SHIP_hipper: "Хиппер"
+ CATHAR_SHIP_beatty: "Битти"
+ CATHAR_SHIP_potemkin: "Потемкин"
+ CATHAR_SHIP_durham: "Дарем"
+ CATHAR_SHIP_codrington: "Кодрингтон"
+ CATHAR_SHIP_milne: "Милн"
+ CATHAR_SHIP_laforey: "Лафори"
+ CATHAR_SHIP_tyler: "Тайлер"
+ CATHAR_SHIP_hawke: "Хоук"
+ CATHAR_SHIP_yonai: "Йонай"
+ CATHAR_SHIP_pound: "Фунт"
+ CATHAR_SHIP_king: "Король"
+ CATHAR_SHIP_crutchley: "Кратчли"
+ CATHAR_SHIP_mountbatten: "Маунтбеттен"
+ CATHAR_SHIP_kountouriotis: "Кунтуриотис"
+ CATHAR_SHIP_kuznetsov: "Кузнецов"
+ CATHAR_SHIP_essen: "Эссен"
+ CATHAR_SHIP_kornilov: "Корнилов"
+ CATHAR_SHIP_suffren: "Сюффрен"
+ CATHAR_SHIP_treville: "Тревиль"
+ CATHAR_SHIP_villeneuve: "Вильнёв"
+ CATHAR_SHIP_grasse: "Грасс"
+ CATHAR_SHIP_byng: "Бинг"
+ CATHAR_SHIP_lezo: "Лезо"
+ CATHAR_SHIP_bombard: "Космическая пушка Бомбарда"
+ CATHAR_SHIP_catapult: "Космическая пушка Катапульта"
+ CATHAR_SHIP_harpoon: "Космическая пушка Гарпун"
+ CATHAR_SHIP_polybolos: "Космическая пушка Полиболос"
+ CATHAR_SHIP_culverin: "Космическая пушка Кулеврина"
+ CATHAR_SHIP_exemplary: "Космическая пушка Образцовый"
+ CATHAR_SHIP_CLASS_cr_90: "CR-90"
+ CATHAR_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ CATHAR_SHIP_CLASS_lupus: "Люпус"
+ CATHAR_SHIP_CLASS_asdroni: "Асдрони"
+ CATHAR_SHIP_CLASS_customs: "Таможня"
+ CATHAR_SHIP_CLASS_hammerhead: "Молотоглав"
+ CATHAR_SHIP_CLASS_scurge: "Мерзость"
+ CATHAR_SHIP_CLASS_krayt: "Крайт"
+ CATHAR_SHIP_CLASS_diamond: "Бриллиант"
+ CATHAR_SHIP_CLASS_etti: "Этти"
+ CATHAR_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ CATHAR_SHIP_CLASS_vigil: "Бдение"
+ CATHAR_SHIP_CLASS_dp20: "DP20"
+ CATHAR_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ CATHAR_SHIP_CLASS_raider: "Рейдер"
+ CATHAR_SHIP_CLASS_dornean: "Дорнейский"
+ CATHAR_SHIP_CLASS_crusader: "Крестоносец"
+ CATHAR_SHIP_CLASS_marauder: "Мародер"
+ CATHAR_SHIP_CLASS_arquitens: "Аркитенс"
+ CATHAR_SHIP_CLASS_kiltirin: "Килтирин"
+ CATHAR_SHIP_CLASS_pelta: "Пельта"
+ CATHAR_SHIP_CLASS_pinnace: "Катер"
+ CATHAR_SHIP_CLASS_nova: "Нова"
+ CATHAR_SHIP_CLASS_vigilance: "Бдительность"
+ CATHAR_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ CATHAR_SHIP_CLASS_cg_273: "CG-273"
+ CATHAR_SHIP_CLASS_kariek: "Кариек"
+ CATHAR_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ CATHAR_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ CATHAR_SHIP_CLASS_lancer: "Лансер"
+ CATHAR_SHIP_CLASS_teroch: "Терох"
+ CATHAR_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ CATHAR_SHIP_CLASS_nova_ii: "Нова II"
+ CATHAR_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ CATHAR_SHIP_CLASS_velox: "Велокс"
+ CATHAR_SHIP_CLASS_mc30c: "MC30c"
+ CATHAR_SHIP_CLASS_vengeance: "Месть"
+ CATHAR_SHIP_CLASS_kariek_ii: "Кариек II"
+ CATHAR_SHIP_CLASS_cc_7700: "CC-7700"
+ CATHAR_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ CATHAR_SHIP_CLASS_wavecrest: "Гребень волны"
+ CATHAR_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ CATHAR_SHIP_CLASS_nuruodo: "Нуруодо"
+ CATHAR_SHIP_CLASS_sabaoth: "Саваоф"
+ CATHAR_SHIP_CLASS_kontos: "Контос"
+ CATHAR_SHIP_CLASS_mc40: "MC40"
+ CATHAR_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ CATHAR_SHIP_CLASS_broadside: "Залп"
+ CATHAR_SHIP_CLASS_protector: "Защитник"
+ CATHAR_SHIP_CLASS_warlord: "Военачальник"
+ CATHAR_SHIP_CLASS_gladiator: "Гладиатор"
+ CATHAR_SHIP_CLASS_beviin: "Бевиин"
+ CATHAR_SHIP_CLASS_liberator: "Освободитель"
+ CATHAR_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ CATHAR_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ CATHAR_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ CATHAR_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ CATHAR_SHIP_CLASS_massias: "Массиас"
+ CATHAR_SHIP_CLASS_dreadnought: "Дредноут"
+ CATHAR_SHIP_CLASS_kyramud: "Кирамуд"
+ CATHAR_SHIP_CLASS_munificent: "Щедрый"
+ CATHAR_SHIP_CLASS_prosvoli: "Просволи"
+ CATHAR_SHIP_CLASS_acclamator: "Аккламатор"
+ CATHAR_SHIP_CLASS_lictor: "Ликтор"
+ CATHAR_SHIP_CLASS_bulwark: "Оплот"
+ CATHAR_SHIP_CLASS_victory_i: "Победа I"
+ CATHAR_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ CATHAR_SHIP_CLASS_bulk: "Массивный"
+ CATHAR_SHIP_CLASS_vindicator: "Защитник"
+ CATHAR_SHIP_CLASS_dauntless: "Бесстрашный"
+ CATHAR_SHIP_CLASS_captor: "Похититель"
+ CATHAR_SHIP_CLASS_au_riette: "О'риетт"
+ CATHAR_SHIP_CLASS_mc55: "MC55"
+ CATHAR_SHIP_CLASS_afthonia: "Афтония"
+ CATHAR_SHIP_CLASS_victory_ii: "Победа II"
+ CATHAR_SHIP_CLASS_beroya: "Бероя"
+ CATHAR_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ CATHAR_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ CATHAR_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ CATHAR_SHIP_CLASS_venator: "Венатор"
+ CATHAR_SHIP_CLASS_centurion: "Центурион"
+ CATHAR_SHIP_CLASS_mc75: "MC75"
+ CATHAR_SHIP_CLASS_kandosii: "Кандосии"
+ CATHAR_SHIP_CLASS_corellian: "Кореллианский"
+ CATHAR_SHIP_CLASS_providence: "Провидение"
+ CATHAR_SHIP_CLASS_syndic: "Синдик"
+ CATHAR_SHIP_CLASS_recusant: "Отступник"
+ CATHAR_SHIP_CLASS_invincible: "Непобедимый"
+ CATHAR_SHIP_CLASS_imperial_i: "Имперский I"
+ CATHAR_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ CATHAR_SHIP_CLASS_procursator: "Прокурсатор"
+ CATHAR_SHIP_CLASS_mc80a: "MC80a"
+ CATHAR_SHIP_CLASS_dh_omni: "DH-Омни"
+ CATHAR_SHIP_CLASS_aggressor: "Агрессор"
+ CATHAR_SHIP_CLASS_syndic_ii: "Синдик II"
+ CATHAR_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ CATHAR_SHIP_CLASS_keldabe: "Келдабе"
+ CATHAR_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ CATHAR_SHIP_CLASS_chaf: "Чаф"
+ CATHAR_SHIP_CLASS_imperial_ii: "Имперский II"
+ CATHAR_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ CATHAR_SHIP_CLASS_ascendancy: "Господство"
+ CATHAR_SHIP_CLASS_dominator: "Властелин"
+ CATHAR_SHIP_CLASS_allegiance: "Верность"
+ CATHAR_SHIP_CLASS_lucrehulk: "Барышник"
+ CATHAR_SHIP_CLASS_phalanx: "Фаланга"
+ CATHAR_SHIP_CLASS_titan: "Титан"
+ CATHAR_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ CATHAR_SHIP_CLASS_star_home: "Звездный дом"
+ CATHAR_SHIP_CLASS_subjugator: "Покоритель"
+ CATHAR_SHIP_CLASS_bellator: "Беллатор"
+ CATHAR_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ CATHAR_SHIP_CLASS_executor: "Палач"
+ CATHAR_FLEET_fleet_ORD: "$ORD$ Флот"
+ CATHAR_ARMY_planetary_guard_ORD: "$ORD$ планетарная стража"
+ CATHAR_ARMY_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус"
+ CATHAR_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ CATHAR_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ CATHAR_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ CATHAR_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ CATHAR_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ CATHAR_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ CATHAR_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ CATHAR_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ CATHAR_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ CATHAR_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ CATHAR_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ CATHAR_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ CATHAR_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ CATHAR_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ CATHAR_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ CATHAR_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ CATHAR_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ CATHAR_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ CATHAR_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ CATHAR_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ CATHAR_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ CATHAR_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ CATHAR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ CATHAR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ CATHAR_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ CATHAR_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ CATHAR_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ CATHAR_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ CATHAR_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ CATHAR_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ CATHAR_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ CATHAR_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ CATHAR_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ CATHAR_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ CATHAR_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ CATHAR_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ CATHAR_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ CATHAR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ CATHAR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ CATHAR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ CATHAR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ CATHAR_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ CATHAR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ CATHAR_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ CATHAR_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ CATHAR_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ CATHAR_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ CATHAR_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ CATHAR_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ CATHAR_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ CATHAR_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ CATHAR_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ CATHAR_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ CATHAR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ CATHAR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ CATHAR_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ CATHAR_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ CATHAR_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ CATHAR_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ CATHAR_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ CATHAR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ CATHAR_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ CATHAR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ CATHAR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ CATHAR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ CATHAR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ CATHAR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ CATHAR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ CATHAR_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ CATHAR_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ CATHAR_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ CATHAR_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ CATHAR_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ CATHAR_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ CATHAR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ CATHAR_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ CATHAR_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ CATHAR_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ CATHAR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ CATHAR_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ CATHAR_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ CATHAR_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ CATHAR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ CATHAR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ CATHAR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ CATHAR_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ CATHAR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ CATHAR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ CATHAR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ CATHAR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ CATHAR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ CATHAR_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ CATHAR_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ CATHAR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ CATHAR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ CATHAR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ CATHAR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ CATHAR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ CATHAR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ CATHAR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ CATHAR_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ CATHAR_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ CATHAR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ CATHAR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ CATHAR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ CATHAR_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ CATHAR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ CATHAR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ CATHAR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ CATHAR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ CATHAR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ CATHAR_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ CATHAR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ CATHAR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ CATHAR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ CATHAR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ CATHAR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ CATHAR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ CATHAR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ CATHAR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ CATHAR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ CATHAR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ CATHAR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ CATHAR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ CATHAR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ CATHAR_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ CATHAR_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ CATHAR_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ CATHAR_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ CATHAR_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ CATHAR_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ CATHAR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ CATHAR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ CATHAR_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ CATHAR_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ CATHAR_ARMY_acklay_ORD: "$ORD$ Аклай"
+ CATHAR_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ CATHAR_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ CATHAR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ CATHAR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ CATHAR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ CATHAR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ CATHAR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ CATHAR_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ CATHAR_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ CATHAR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ CATHAR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ CATHAR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ CATHAR_CHR_bail: "Залог"
+ CATHAR_CHR_ylenic: "Иленик"
+ CATHAR_CHR_kel: "Кел"
+ CATHAR_CHR_gunn: "Ганн"
+ CATHAR_CHR_gregory: "Грегори"
+ CATHAR_CHR_abraxis: "Абраксис"
+ CATHAR_CHR_jonas: "Джонас"
+ CATHAR_CHR_xerda: "Ксерда"
+ CATHAR_CHR_carth: "Карт"
+ CATHAR_CHR_kir: "Кир"
+ CATHAR_CHR_mebba: "Мебба"
+ CATHAR_CHR_dagos: "Дагос"
+ CATHAR_CHR_adam: "Адам"
+ CATHAR_CHR_kyle: "Кайл"
+ CATHAR_CHR_forren: "Форрен"
+ CATHAR_CHR_malcolm: "Малкольм"
+ CATHAR_CHR_jeho: "Джехо"
+ CATHAR_CHR_lee: "Ли"
+ CATHAR_CHR_griggs: "Григгс"
+ CATHAR_CHR_milo: "Мило"
+ CATHAR_CHR_aeron: "Аэрон"
+ CATHAR_CHR_byrec: "Бирек"
+ CATHAR_CHR_strata: "Слои"
+ CATHAR_CHR_lancer: "Лансер"
+ CATHAR_CHR_zeak: "Зик"
+ CATHAR_CHR_niuk: "Ниук"
+ CATHAR_CHR_lavidean: "Лавидиан"
+ CATHAR_CHR_tanizandar: "Танизандар"
+ CATHAR_CHR_japla: "Джапла"
+ CATHAR_CHR_aran: "Аран"
+ CATHAR_CHR_rail: "Рельс"
+ CATHAR_CHR_zeven: "Зевен"
+ CATHAR_CHR_yakown: "Якоун"
+ CATHAR_CHR_sibar: "Сибар"
+ CATHAR_CHR_sair: "Саир"
+ CATHAR_CHR_klai: "Клай"
+ CATHAR_CHR_imay: "Имай"
+ CATHAR_CHR_traest: "Траест"
+ CATHAR_CHR_simo: "Симо"
+ CATHAR_CHR_riyan: "Риян"
+ CATHAR_CHR_magnus: "Магнус"
+ CATHAR_CHR_boceta: "Бочета"
+ CATHAR_CHR_agnook: "Агнук"
+ CATHAR_CHR_silus: "Силус"
+ CATHAR_CHR_rowan: "Рябина"
+ CATHAR_CHR_coren: "Корен"
+ CATHAR_CHR_jett: "Джетт"
+ CATHAR_CHR_linth: "Линт"
+ CATHAR_CHR_annor: "Аннор"
+ CATHAR_CHR_ulas: "Улас"
+ CATHAR_CHR_fenn: "Фенн"
+ CATHAR_CHR_tal: "Тал"
+ CATHAR_CHR_plo: "Ооп"
+ CATHAR_CHR_torin: "Торин"
+ CATHAR_CHR_boone: "Бун"
+ CATHAR_CHR_davith: "Давит"
+ CATHAR_CHR_jorgen: "Йорген"
+ CATHAR_CHR_bertos: "Бертос"
+ CATHAR_CHR_ress: "Ресс"
+ CATHAR_CHR_malius: "Малиус"
+ CATHAR_CHR_kale: "Капуста"
+ CATHAR_CHR_cregan: "Креган"
+ CATHAR_CHR_galen: "Гален"
+ CATHAR_CHR_zekk: "Зекк"
+ CATHAR_CHR_jinn_tu: "Джинн-Ту"
+ CATHAR_CHR_jaryn: "Джарин"
+ CATHAR_CHR_gentti: "Джентти"
+ CATHAR_CHR_yu_sien: "Ю-Сянь"
+ CATHAR_CHR_akela: "Акела"
+ CATHAR_CHR_arslan: "Арслан"
+ CATHAR_CHR_sidias: "Сидиас"
+ CATHAR_CHR_haken: "Хакен"
+ CATHAR_CHR_biran: "Биран"
+ CATHAR_CHR_vidown: "Видоун"
+ CATHAR_CHR_ares: "Арес"
+ CATHAR_CHR_ithan: "Итан"
+ CATHAR_CHR_cul_utaan: "Кул-утаан"
+ CATHAR_CHR_thoja: "Тоя"
+ CATHAR_CHR_cron: "Крон"
+ CATHAR_CHR_mossi: "Мосси"
+ CATHAR_CHR_abric: "Абрик"
+ CATHAR_CHR_darg: "Дарг"
+ CATHAR_CHR_gaman: "Гаман"
+ CATHAR_CHR_naiad: "Наяда"
+ CATHAR_CHR_herub: "Херуб"
+ CATHAR_CHR_marius: "Мариус"
+ CATHAR_CHR_torkin: "Торкин"
+ CATHAR_CHR_caton: "Катон"
+ CATHAR_CHR_kane: "Кейн"
+ CATHAR_CHR_versita: "Версита"
+ CATHAR_CHR_cric: "Кри"
+ CATHAR_CHR_foxdi: "Фоксди"
+ CATHAR_CHR_montacca: "Монтакка"
+ CATHAR_CHR_jospi: "Джоспи"
+ CATHAR_CHR_baz: "Баз"
+ CATHAR_CHR_kam: "Кам"
+ CATHAR_CHR_erek: "Эрек"
+ CATHAR_CHR_lerak: "Лерак"
+ CATHAR_CHR_morla: "Морла"
+ CATHAR_CHR_baxter: "Бакстер"
+ CATHAR_CHR_talan: "Талан"
+ CATHAR_CHR_thion: "Тион"
+ CATHAR_CHR_kannon: "Каннон"
+ CATHAR_CHR_corsair: "Корсар"
+ CATHAR_CHR_caster: "Кастер"
+ CATHAR_CHR_elden: "Элден"
+ CATHAR_CHR_faelgrom: "Фаэлгром"
+ CATHAR_CHR_jack: "Джек"
+ CATHAR_CHR_raltharan: "Ралтаран"
+ CATHAR_CHR_flash: "Вспышка"
+ CATHAR_CHR_waseem: "Васим"
+ CATHAR_CHR_bendak: "Бендак"
+ CATHAR_CHR_kaz: "Каз"
+ CATHAR_CHR_montileu: "Монтилью"
+ CATHAR_CHR_gonoga: "Гонога"
+ CATHAR_CHR_galven: "Галвен"
+ CATHAR_CHR_vincenzo: "Винченцо"
+ CATHAR_CHR_ric: "Рик"
+ CATHAR_CHR_rebar: "Арматура"
+ CATHAR_CHR_jebediah: "Джебедия"
+ CATHAR_CHR_aramil: "Арамиль"
+ CATHAR_CHR_delmi: "Дельми"
+ CATHAR_CHR_caalin: "Каалин"
+ CATHAR_CHR_rassth: "Расстх"
+ CATHAR_CHR_adorn: "Украшать"
+ CATHAR_CHR_cyrus: "Сайрус"
+ CATHAR_CHR_zhar_khan: "Жар-хан"
+ CATHAR_CHR_predor: "Предор"
+ CATHAR_CHR_tarlson: "Тарлсон"
+ CATHAR_CHR_boaz: "Вооз"
+ CATHAR_CHR_bradley: "Брэдли"
+ CATHAR_CHR_zerrid: "Зеррид"
+ CATHAR_CHR_bobecc: "Бобек"
+ CATHAR_CHR_jelantos: "Джелантос"
+ CATHAR_CHR_jephego: "Иефего"
+ CATHAR_CHR_svante: "Сванте"
+ CATHAR_CHR_tesvalo: "Тешвало"
+ CATHAR_CHR_aeon: "Эон"
+ CATHAR_CHR_dekar: "Декар"
+ CATHAR_CHR_jean_francois: "Жан-Франсуа"
+ CATHAR_CHR_elen: "Элен"
+ CATHAR_CHR_han: "Хан"
+ CATHAR_CHR_owen: "Оуэн"
+ CATHAR_CHR_biggs: "Биггс"
+ CATHAR_CHR_charratha: "Чаррата"
+ CATHAR_CHR_edaara: "Эдаара"
+ CATHAR_CHR_bella: "Белла"
+ CATHAR_CHR_callista: "Каллиста"
+ CATHAR_CHR_mara: "Мара"
+ CATHAR_CHR_seena: "Сина"
+ CATHAR_CHR_areta: "Арета"
+ CATHAR_CHR_cord: "Шнур"
+ CATHAR_CHR_cyrinity: "Киринность"
+ CATHAR_CHR_nile: "Нил"
+ CATHAR_CHR_kiyfi: "Кифи"
+ CATHAR_CHR_yasmyn: "Ясмин"
+ CATHAR_CHR_satra: "Сатра"
+ CATHAR_CHR_shehish: "Шехиш"
+ CATHAR_CHR_sarna: "Сарна"
+ CATHAR_CHR_krava: "Крава"
+ CATHAR_CHR_roxis: "Роксис"
+ CATHAR_CHR_jessa: "Джесса"
+ CATHAR_CHR_aqua: "Аква"
+ CATHAR_CHR_maryna: "Марина"
+ CATHAR_CHR_essaj: "Эссаж"
+ CATHAR_CHR_looriw: "Лоориу"
+ CATHAR_CHR_teeana: "Тиана"
+ CATHAR_CHR_raena: "Раена"
+ CATHAR_CHR_yula: "Юла"
+ CATHAR_CHR_vifi: "Вифи"
+ CATHAR_CHR_vania: "Ваня"
+ CATHAR_CHR_jeanida: "Джанида"
+ CATHAR_CHR_aerena: "Аэрена"
+ CATHAR_CHR_nataya: "Натая"
+ CATHAR_CHR_bernarda: "Бернарда"
+ CATHAR_CHR_geela: "Джила"
+ CATHAR_CHR_lya: "Лия"
+ CATHAR_CHR_sirra: "Сирра"
+ CATHAR_CHR_teris: "Терис"
+ CATHAR_CHR_terral: "Террал"
+ CATHAR_CHR_riema: "Римма"
+ CATHAR_CHR_erri: "Эрри"
+ CATHAR_CHR_shanna: "Шанна"
+ CATHAR_CHR_lyra: "Лира"
+ CATHAR_CHR_pranda: "Пранда"
+ CATHAR_CHR_luna: "Люна"
+ CATHAR_CHR_cally: "Кэлли"
+ CATHAR_CHR_viqi: "Вики"
+ CATHAR_CHR_hadriel: "Адриэль"
+ CATHAR_CHR_lora: "Лора"
+ CATHAR_CHR_selena: "Селена"
+ CATHAR_CHR_zana: "Зана"
+ CATHAR_CHR_tuija: "Туйя"
+ CATHAR_CHR_railin: "Рейлин"
+ CATHAR_CHR_odona: "Одона"
+ CATHAR_CHR_shyon: "Шайон"
+ CATHAR_CHR_walas: "Валас"
+ CATHAR_CHR_rylla: "Рилла"
+ CATHAR_CHR_gara: "Гара"
+ CATHAR_CHR_delos: "Делос"
+ CATHAR_CHR_loretta: "Лоретта"
+ CATHAR_CHR_luhon: "Луон"
+ CATHAR_CHR_delinia: "Делиния"
+ CATHAR_CHR_aama: "Аама"
+ CATHAR_CHR_shorya: "Шорья"
+ CATHAR_CHR_melfina: "Мелфина"
+ CATHAR_CHR_davessi: "Давесси"
+ CATHAR_CHR_larana: "Ларана"
+ CATHAR_CHR_galatea: "Галатея"
+ CATHAR_CHR_nola: "Нола"
+ CATHAR_CHR_syna: "Сина"
+ CATHAR_CHR_jauhzmynn: "Джаузминн"
+ CATHAR_CHR_anen: "Анен"
+ CATHAR_CHR_orona: "Орона"
+ CATHAR_CHR_yana: "Яна"
+ CATHAR_CHR_zoras: "Зорас"
+ CATHAR_CHR_ree: "Ри"
+ CATHAR_CHR_grace: "Грейс"
+ CATHAR_CHR_tantema: "Тантема"
+ CATHAR_CHR_myn: "Мин"
+ CATHAR_CHR_una: "Уна"
+ CATHAR_CHR_dalharil: "Далхарил"
+ CATHAR_CHR_losa: "Лоса"
+ CATHAR_CHR_sovi: "Сови"
+ CATHAR_CHR_elaiza: "Элайза"
+ CATHAR_CHR_vucora: "Вукора"
+ CATHAR_CHR_ava: "Ава"
+ CATHAR_CHR_joi: "Дзеи"
+ CATHAR_CHR_stryka: "Стрыка"
+ CATHAR_CHR_shandra: "Шандра"
+ CATHAR_CHR_kely: "Кели"
+ CATHAR_CHR_caileta: "Кайлета"
+ CATHAR_CHR_taia: "Тайя"
+ CATHAR_CHR_siala: "Сиала"
+ CATHAR_CHR_reki: "Реки"
+ CATHAR_CHR_maydla: "Майдла"
+ CATHAR_CHR_bot: "Бот"
+ CATHAR_CHR_kiandra: "Киандра"
+ CATHAR_CHR_xilaren: "Ксиларен"
+ CATHAR_CHR_zulara: "Зулара"
+ CATHAR_CHR_ren: "Рен"
+ CATHAR_CHR_karissa: "Карисса"
+ CATHAR_CHR_haruko: "Харуко"
+ CATHAR_CHR_jenna: "Дженна"
+ CATHAR_CHR_liana: "Лиана"
+ CATHAR_CHR_rale: "Рале"
+ CATHAR_CHR_megara: "Мегара"
+ CATHAR_CHR_aria: "Ария"
+ CATHAR_CHR_akiva: "Акива"
+ CATHAR_CHR_nalah: "Нала"
+ CATHAR_CHR_erlem: "Эрлем"
+ CATHAR_CHR_nali: "Нали"
+ CATHAR_CHR_fallah: "Фаллах"
+ CATHAR_CHR_kotrana: "Котрана"
+ CATHAR_CHR_aayla: "Айла"
+ CATHAR_CHR_kalira: "Калира"
+ CATHAR_CHR_arani: "Арани"
+ CATHAR_CHR_fama: "Фама"
+ CATHAR_CHR_lyyr: "Лиир"
+ CATHAR_CHR_arcas: "Аркас"
+ CATHAR_CHR_rane: "Рейн"
+ CATHAR_CHR_nayru: "Найру"
+ CATHAR_CHR_zylas: "Зилас"
+ CATHAR_CHR_vexa: "Векса"
+ CATHAR_CHR_kana: "Кана"
+ CATHAR_CHR_beru: "Беру"
+ CATHAR_CHR_elysar: "Элизар"
+ CATHAR_CHR_tisa: "Тиса"
+ CATHAR_CHR_wahia: "Вахия"
+ CATHAR_CHR_wezz: "Везз"
+ CATHAR_CHR_unic: "Уник"
+ CATHAR_CHR_tiovata: "Тиовата"
+ CATHAR_CHR_nakcohh: "Наккох"
+ CATHAR_CHR_vitaan: "Витаан"
+ CATHAR_CHR_mefrid: "Мефрид"
+ CATHAR_CHR_daklan: "Даклан"
+ CATHAR_CHR_kenzee: "Кензи"
+ CATHAR_CHR_joben: "Йобен"
+ CATHAR_CHR_thegas: "Цегаc"
+ CATHAR_CHR_moryne: "Морин"
+ CATHAR_CHR_holgor: "Холгор"
+ CATHAR_CHR_ijaaz: "Иджааз"
+ CATHAR_CHR_tromans: "Троманс"
+ CATHAR_CHR_sprax: "Спракс"
+ CATHAR_CHR_knesos: "Кнесос"
+ CATHAR_CHR_lasek: "Ласек"
+ CATHAR_CHR_artis: "Артис"
+ CATHAR_CHR__pax: "Пакс"
+ CATHAR_CHR_corso: "Корсо"
+ CATHAR_CHR_fallon: "Фэллон"
+ CATHAR_CHR_gundo: "Гандо"
+ CATHAR_CHR_ruana: "Руана"
+ CATHAR_CHR_fremlin: "Фремлин"
+ CATHAR_CHR_thont: "Тонт"
+ CATHAR_CHR_creel: "Крил"
+ CATHAR_CHR_rar: "Рар"
+ CATHAR_CHR_dusat: "Душат"
+ CATHAR_CHR_kessler: "Кесслер"
+ CATHAR_CHR_shaia: "Шайя"
+ CATHAR_CHR_el_theriam: "Эль-Териам"
+ CATHAR_CHR_vanmeer: "ВанМеер"
+ CATHAR_CHR_vrieska: "Вриеска"
+ CATHAR_CHR_calway: "Калуэй"
+ CATHAR_CHR_yamaguchi: "Ямагути"
+ CATHAR_CHR_riggers: "Монтажники"
+ CATHAR_CHR_brower: "Брауэр"
+ CATHAR_CHR_fash: "Фэш"
+ CATHAR_CHR_nalto: "Налто"
+ CATHAR_CHR_stryder: "Страйдер"
+ CATHAR_CHR_dubreas: "Дюбреас"
+ CATHAR_CHR_colsan: "Колсан"
+ CATHAR_CHR_terrek: "Террек"
+ CATHAR_CHR_solon: "Солон"
+ CATHAR_CHR_merquise: "Меркиз"
+ CATHAR_CHR_varn: "Варн"
+ CATHAR_CHR_basai: "Басаи"
+ CATHAR_CHR_froud: "Фрауд"
+ CATHAR_CHR_addacess: "Дополнение"
+ CATHAR_CHR_durgen: "Дурген"
+ CATHAR_CHR_slahlvo: "Слахлво"
+ CATHAR_CHR_remex: "Ремекс"
+ CATHAR_CHR_madowki: "Мадоуки"
+ CATHAR_CHR_hayes: "Хейз"
+ CATHAR_CHR_ne: "Не"
+ CATHAR_CHR_dago: "Даго"
+ CATHAR_CHR_greenback: "Гринбэк"
+ CATHAR_CHR_stithta: "Стифта"
+ CATHAR_CHR_ker: "Кер"
+ CATHAR_CHR_driet: "Дриет"
+ CATHAR_CHR_klakk: "Клакк"
+ CATHAR_CHR_reed: "Тростник"
+ CATHAR_CHR_lefex: "Лефекс"
+ CATHAR_CHR_minn: "Минн"
+ CATHAR_CHR_irokini: "Ирокини"
+ CATHAR_CHR_roye: "Рой"
+ CATHAR_CHR_danakar: "Данакар"
+ CATHAR_CHR_forin: "Форин"
+ CATHAR_CHR_glopio: "Глопио"
+ CATHAR_CHR_shenuri: "Шенури"
+ CATHAR_CHR_corcer: "Корсет"
+ CATHAR_CHR_ordo: "Ордо"
+ CATHAR_CHR_wan: "Ван"
+ CATHAR_CHR_tagratt: "Тагратт"
+ CATHAR_CHR_golladio: "Голладио"
+ CATHAR_CHR_adramcsia: "Адрамсия"
+ CATHAR_CHR_jetberg: "Джетберг"
+ CATHAR_CHR_noth: "Нет"
+ CATHAR_CHR_taske: "Таске"
+ CATHAR_CHR_komo: "Комо"
+ CATHAR_CHR_styles: "Стайлз"
+ CATHAR_CHR_angavel: "Ангавель"
+ CATHAR_CHR_tyrnith: "Тирнит"
+ CATHAR_CHR_yavoog: "Явуг"
+ CATHAR_CHR_kelbier: "Кельбьер"
+ CATHAR_CHR_racto: "Ракто"
+ CATHAR_CHR_degor: "Дегор"
+ CATHAR_CHR_magre: "Магре"
+ CATHAR_CHR_soylon: "Сойлон"
+ CATHAR_CHR_lerann: "Леранн"
+ CATHAR_CHR_chro: "Хро"
+ CATHAR_CHR_finn: "Финн"
+ CATHAR_CHR_blackmoor: "Блэкмур"
+ CATHAR_CHR_hwang: "Хван"
+ CATHAR_CHR_vekarr: "Векарр"
+ CATHAR_CHR_amon: "Амон"
+ CATHAR_CHR_thiddex: "Тиддекс"
+ CATHAR_CHR_selkayim: "Селкаим"
+ CATHAR_CHR_gilder: "Позолотчик"
+ CATHAR_CHR_dhuramav: "Дхурамав"
+ CATHAR_CHR_kodd: "Кодд"
+ CATHAR_CHR_morin: "Морин"
+ CATHAR_CHR_kobylarz: "Кобыларз"
+ CATHAR_CHR_tade: "Тейд"
+ CATHAR_CHR_solman: "Солман"
+ CATHAR_CHR_bintaghr: "Бинтагр"
+ CATHAR_CHR_marclonus: "Марклонус"
+ CATHAR_CHR_precore: "Прекор"
+ CATHAR_CHR_solborne: "Солборн"
+ CATHAR_CHR_bailer: "Бейлер"
+ CATHAR_CHR_katarn: "Катарн"
+ CATHAR_CHR_anjek: "Анжек"
+ CATHAR_CHR_dalgas: "Далгас"
+ CATHAR_CHR_kast: "Каст"
+ CATHAR_CHR_airerith: "Айррит"
+ CATHAR_CHR_halo: "Ореол"
+ CATHAR_CHR_clash: "Клаш"
+ CATHAR_CHR_jalba: "Джалба"
+ CATHAR_CHR_benn: "Бенн"
+ CATHAR_CHR_haruhana: "Харухана"
+ CATHAR_CHR_roice: "Ройс"
+ CATHAR_CHR_lokar: "Локар"
+ CATHAR_CHR_korpil: "Корпил"
+ CATHAR_CHR_turon: "Турон"
+ CATHAR_CHR_cavi: "Кави"
+ CATHAR_CHR_deece: "Диси"
+ CATHAR_CHR_braitano: "Брайтано"
+ CATHAR_CHR_garnik: "Гарник"
+ CATHAR_CHR_tyandas: "Тьяндас"
+ CATHAR_CHR_ka_taramas: "Ка'Тарамам"
+ CATHAR_CHR_nuwest: "Ньювест"
+ CATHAR_CHR_forte: "Форте"
+ CATHAR_CHR_noshey: "Ношей"
+ CATHAR_CHR_gyyll: "Джилл"
+ CATHAR_CHR_tallon: "Таллон"
+ CATHAR_CHR_lionne: "Лион"
+ CATHAR_CHR_adras: "Адрас"
+ CATHAR_CHR_peoly: "Пеоли"
+ CATHAR_CHR_damiel: "Дамиэль"
+ CATHAR_CHR_chup_pau: "Чап-По"
+ CATHAR_CHR_drayven: "Драйв"
+ CATHAR_CHR_zaposug: "Запосуг"
+ CATHAR_CHR_bela_trepada: "Бела-Трепада"
+ CATHAR_CHR_defelice: "Дефеличе"
+ CATHAR_CHR_monsula: "Монсула"
+ CATHAR_CHR_baralein: "Баралейн"
+ CATHAR_CHR_denive: "Денив"
+ CATHAR_CHR_hodrren: "Ходррен"
+ CATHAR_CHR_xergo: "Хёрги"
+ CATHAR_CHR_sarat: "Сарат"
+ CATHAR_CHR_vercet: "Версе"
+ CATHAR_CHR_ossaki: "Оссаки"
+ CATHAR_CHR_kappa: "Каппа"
+ CATHAR_CHR_zerga: "Зерга"
+ CATHAR_CHR_kopos: "Копос"
+ CATHAR_CHR_aldrecht: "Олдрехт"
+ CATHAR_CHR_bohme: "Беме"
+ CATHAR_CHR_tull: "Талл"
+ CATHAR_CHR_eldrel: "Элдрел"
+ CATHAR_CHR_marh: "Марх"
+ CATHAR_CHR_darksword: "Темный меч"
+ CATHAR_CHR_krandor: "Крандор"
+ CATHAR_CHR_montag: "Монтаг"
+ CATHAR_CHR_dimodan: "Димодан"
+ CATHAR_CHR_starfallen: "Старфаллен"
+ CATHAR_CHR_fett: "Фетт"
+ CATHAR_CHR_mohebbi: "Мохебби"
+ CATHAR_CHR_runalian: "Руналиан"
+ CATHAR_CHR_binette: "Бинетт"
+ CATHAR_CHR_laurent: "Лоран"
+ CATHAR_CHR_mavr: "Мавр"
+ CATHAR_CHR_ryra: "Райра"
+ CATHAR_CHR_truden: "Труден"
+ CATHAR_CHR_solo: "Соло"
+ CATHAR_CHR_lars: "Ларс"
+ CATHAR_CHR_amedda: "Амедда"
+ CATHAR_CHR_amidala: "Амидала"
+ CATHAR_CHR_andrell: "Андрелл"
+ CATHAR_CHR_annon: "Аннон"
+ CATHAR_CHR_antilles: "Антилы"
+ CATHAR_CHR_atanna: "Этанна"
+ CATHAR_CHR_baab: "Бааб"
+ CATHAR_CHR_barc: "Барк"
+ CATHAR_CHR_bonteri: "Бонтери"
+ CATHAR_CHR_breemu: "Бриму"
+ CATHAR_CHR_bremack: "Бремак"
+ CATHAR_CHR_bronk: "Бронк"
+ CATHAR_CHR_burtoni: "Бертони"
+ CATHAR_CHR_cadaman: "Кадаман"
+ CATHAR_CHR_callen: "Каллен"
+ CATHAR_CHR_clovis: "Кловис"
+ CATHAR_CHR_ledwellow: "Ледвеллоу"
+ CATHAR_CHR_dio: "Дио"
+ CATHAR_CHR_organa: "Органа"
+ CATHAR_CHR_mas: "Мас"
+ CATHAR_CHR_wain: "Фургон"
+ CATHAR_CHR_gabrial: "Габриэль"
+ CATHAR_CHR_dewell: "Дьюэлл"
+ CATHAR_CHR_tanner: "Кожевник"
+ CATHAR_CHR_vi: "Ви"
+ CATHAR_CHR_rush: "Раш"
+ CATHAR_CHR_danry: "Дэнри"
+ CATHAR_CHR_padm_: "Падме"
+ CATHAR_CHR_fema: "Фема"
+ CATHAR_CHR_mina: "Мина"
+ CATHAR_CHR_bana: "Бана"
+ CATHAR_CHR_tyreca: "Тирека"
+ CATHAR_CHR_halle: "Халле"
+ CATHAR_CHR_lexi: "Лекси"
+ CATHAR_CHR_leia: "Лея"
+ CATHAR_CHR_alyssa: "Алисса"
+ CATHAR_CHR_leanna: "Лианна"
+ CATHAR_CHR_arya: "Арья"
+ CATHAR_CHR_panteer: "Пантир"
+ CATHAR_CHR_alde: "Альде"
+ CATHAR_CHR_frayus: "Фраюс"
+ CATHAR_CHR_cortess: "Кортесс"
+ CATHAR_CHR_killesa: "Киллеса"

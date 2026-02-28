@@ -134,7 +134,7 @@
  swnd_bountyhunter_operations.61.desc: "Охотник за головами прибыл, чтобы обсудить условия своего контракта, в частности, оплату. Нам удалось согласовать сумму кредитов, которую они получат от этой работы. Эта сумма является окончательной, независимо от конечного результата. Хотим ли мы принять их условия?"
  swnd_bountyhunter_operations.63.name: "Филиал уничтожен"
  swnd_bountyhunter_operations.63.desc: "Охотник за головами успешно уничтожил филиал на планете §Y[bounty_branch_office_target_1.GetName]§!"
- swnd_bountyhunter_operations.63.desc.2: "Охотник за головами успешно уничтожил филиалы на планетах §Y[bounty_branch_office_target_1.GetName]§! и  §Y[bounty_branch_office_target_2.GetName]§!"
+ swnd_bountyhunter_operations.63.desc.2: "Охотник за головами успешно уничтожил филиалы на планетах §Y[bounty_branch_office_target_1.GetName]§! и §Y[bounty_branch_office_target_2.GetName]§!"
  swnd_bountyhunter_operations.63.desc.3: "Охотник за головами успешно уничтожил филиалы на планетах §Y[bounty_branch_office_target_1.GetName]§!, §Y[bounty_branch_office_target_2.GetName]§! и §Y[bounty_branch_office_target_3.GetName]§!"
  swnd_bountyhunter_operations.64.name: "Филиал уничтожен"
  swnd_bountyhunter_operations.64.desc: "Кто-то вывел из строя филиал на планете §Y[bounty_branch_office_target_1.GetName]§!, нарушив нашу работу."

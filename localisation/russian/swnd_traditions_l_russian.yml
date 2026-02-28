@@ -272,11 +272,11 @@
  
  # Mandalmotors Tradition
  tradition_mando_mandalmotors: "Мандал-Моторс"
- tradition_mando_mandalmotors_desc: "Основа экономики Мандалора - это  производство широкого спектра транспортных средств, от танков до звездолетов и оружия."
+ tradition_mando_mandalmotors_desc: "Основа экономики Мандалора - это производство широкого спектра транспортных средств, от танков до звездолетов и оружия."
 
- tr_mando_mandalmotors_adopt: "Традиции Мандал-Моторс"
+ tr_mando_mandalmotors_adopt: "Традиции «Манда-Моторс»"
  
- tr_mando_mandalmotors_finish: "Традиции Мандал-Моторс завершены"
+ tr_mando_mandalmotors_finish: "Традиции «Манда-Моторс» завершены"
  
  tr_mando_mandalmotors_1: "Дизайн Мандал"
  tr_mando_mandalmotors_1_delayed: "С военным наследием, простирающимся даже за пределы образования Старой Республики, Мандалорцы славятся своей целеустремленностью и сосредоточенностью на боевой эффективности."
@@ -285,13 +285,13 @@
  tr_mando_mandalmotors_2_delayed: "Многие думают, что они могут перехитрить Мандалорцев. Возможно, но мы еще не встретили никого, кто мог бы перехитрить барадиевую боеголовку."
  
  tr_mando_mandalmotors_3: "Штаб-квартира"
- tr_mando_mandalmotors_3_delayed: "Сердце Мандал-Моторс - это место, где смертоносные конструкции становятся еще более смертоносными."
+ tr_mando_mandalmotors_3_delayed: "Сердце «Манда-Моторс» - это место, где смертоносные конструкции становятся еще более смертоносными."
 
  tr_mando_mandalmotors_4: "Испытательные полигоны"
  tr_mando_mandalmotors_4_delayed: "Линия фронта — идеальное место для испытания нашего оружия."
 
  tr_mando_mandalmotors_5: "Улучшенные масс-драйверы"
- tr_mando_mandalmotors_5_delayed: "Инженеры Мандал-Моторс увеличили урон от наших масс-драйверов. Благодаря повышенной скорострельности наше оружие станет проклятием для вражеского флота."
+ tr_mando_mandalmotors_5_delayed: "Инженеры «Манда-Моторс» увеличили урон от наших масс-драйверов. Благодаря повышенной скорострельности наше оружие станет проклятием для вражеского флота."
 
  # Crusade Tradition
  tradition_mando_crusade: "Крестовый поход"
@@ -354,9 +354,9 @@
  tr_viceprex_marketplace_of_better_ideas: "Рынок лучших идей"
  tr_viceprex_marketplace_of_better_ideas_delayed: "Лучшие идеи рождаются благодаря взаимодействию с рынком. Чем больше взаимодействия, тем лучше идеи!" 
  tr_viceprex_insider_trading: "Инсайдерская торговля" 
-#  tr_viceprex_insider_trading_delayed:2 "Knowing the right people in the right places can make a world of difference. Influential merchant contacts will let us buy from resource markets at favorable rates."
+# tr_viceprex_insider_trading_delayed:2 "Knowing the right people in the right places can make a world of difference. Influential merchant contacts will let us buy from resource markets at favorable rates."
  tr_viceprex_trickle_up_economics: ""Экономика просачивания" 
-#  tr_viceprex_trickle_up_economics_desc:2 "£job_clerk£ §YClerks§! provide an additional §G+1§! $r_trade_value$ and §G+1§! $r_amenities$."
+# tr_viceprex_trickle_up_economics_desc:2 "£job_clerk£ §YClerks§! provide an additional §G+1§! $r_trade_value$ and §G+1§! $r_amenities$."
  tr_viceprex_trickle_up_economics_delayed: "Всё наше общество пожинает плоды инвестиций в государственную службу и повседневную торговлю." 
  tr_viceprex_commercial_enterprise: "Коммерческое предприятие" 
  tr_viceprex_commercial_enterprise_desc: "§Y$job_trader_plural_with_icon$§! увеличивают $r_amenities$ на §G+2§!.\n£building£ §YКоммерческие зоны§!, £district£ §YКоммерческие сегменты§!, £district£ §YТорговые районы§! обеспечивают дополнительные §Y$job_trader_with_icon$§! рабочие места." 
@@ -369,7 +369,7 @@
  tr_viceprex_trade_fleets_delayed: "Чтобы обеспечить нашу прибыль, мы должны объединиться с нашими союзниками по федерации, чтобы гарантировать надлежащую защиту наших интересов." 
 
  tr_viceprex_worker_coop_improved_ownership: "Адаптивные схемы акционерного капитала" 
- tr_viceprex_worker_coop_improved_ownership_desc: "£pops£ поселения с §Y$living_standard_worker_ownership$§! уровнем жизни: §G+5%§! счастья и  §G+5%§! производства ресурсов от должностей." 
+ tr_viceprex_worker_coop_improved_ownership_desc: "£pops£ поселения с §Y$living_standard_worker_ownership$§! уровнем жизни: §G+5%§! счастья и §G+5%§! производства ресурсов от должностей." 
  tr_viceprex_worker_coop_improved_ownership_delayed: Применив более гибкий подход к нашим акционерным договорам, мы сможем вдохновить наших граждан на более эффективную работу." 
 
  mod_planet_worker_ownership_jobs_produces_mult: "Ресурсы от поселений с $living_standard_worker_ownership$ уровнем жизни" 
@@ -448,7 +448,7 @@
  edict_contact_CIS_: "С окончанием Войн клонов появляется огромный резерв недоиспользованных человеческих ресурсов из §BКонфедерации независимых систем§!: командиров, ученых и чиновников, которым не посчастливилось оказаться на неправильной стороне истории. \nМы должны стремиться найти, реабилитировать и использовать их." 
 
  #####################
- # Ascension Perks   #
+ # Ascension Perks #
  #####################
  ap_commercial_guilds: "Коммерческий фокус"
  ap_commercial_guilds_desc: "Создание единого конгломерата из нескольких агрокорпораций галактического масштаба, розничных торговцев, производителей оружия и судостроителей гарантирует, что у нашей империи больше никогда не будет проблем с кредитами... за исключением жадности."
@@ -497,7 +497,7 @@
 
 
  ############
- # Unused?  #
+ # Unused? #
  ############
  tradition_imperial_military: "Имперские военные"
  tradition_imperial_military_desc: "Провозглашение Нового порядка только ускорило наращивание военной мощи Галактической Империи после Войн клонов."

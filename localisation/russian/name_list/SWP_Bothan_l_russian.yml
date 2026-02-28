@@ -1,930 +1,930 @@
 ﻿l_russian:
-	BOTHAN_SHIP_dicer: "Dicer" #!Empty_LineInfo!
-	BOTHAN_SHIP_masquerade: "Masquerade" #!Empty_LineInfo!
-	BOTHAN_SHIP_jeswandi: "Jeswandi" #!Empty_LineInfo!
-	BOTHAN_SHIP_assailant: "Assailant" #!Empty_LineInfo!
-	BOTHAN_SHIP_stony_path: "Stony Path" #!Empty_LineInfo!
-	BOTHAN_SHIP_blue_flare: "Blue Flare" #!Empty_LineInfo!
-	BOTHAN_SHIP_silver_fur: "Silver Fur" #!Empty_LineInfo!
-	BOTHAN_SHIP_brand_of_haskit: "Brand of Haskit" #!Empty_LineInfo!
-	BOTHAN_SHIP_ralroost: "Ralroost" #!Empty_LineInfo!
-	BOTHAN_SHIP_ghost: "Ghost" #!Empty_LineInfo!
-	BOTHAN_SHIP_silencer: "Silencer" #!Empty_LineInfo!
-	BOTHAN_SHIP_fire_of_lukaze: "Fire of Lukaze" #!Empty_LineInfo!
-	BOTHAN_SHIP_suprosa: "Suprosa" #!Empty_LineInfo!
-	BOTHAN_SHIP_salvation: "Salvation" #!Empty_LineInfo!
-	BOTHAN_SHIP_boash_ua: "Boash'ua" #!Empty_LineInfo!
-	BOTHAN_SHIP_resistance: "Resistance" #!Empty_LineInfo!
-	BOTHAN_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
-	BOTHAN_SHIP_night_caller: "Night Caller" #!Empty_LineInfo!
-	BOTHAN_SHIP_blackmoon: "Blackmoon" #!Empty_LineInfo!
-	BOTHAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
-	BOTHAN_SHIP_justice: "Justice" #!Empty_LineInfo!
-	BOTHAN_SHIP_fire_eater: "Fire Eater" #!Empty_LineInfo!
-	BOTHAN_SHIP_martyr_s_call: "Martyr's Call" #!Empty_LineInfo!
-	BOTHAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	BOTHAN_SHIP_commando: "Commando" #!Empty_LineInfo!
-	BOTHAN_SHIP_guerilla: "Guerilla" #!Empty_LineInfo!
-	BOTHAN_SHIP_operator: "Operator" #!Empty_LineInfo!
-	BOTHAN_SHIP_commandment: "Commandment" #!Empty_LineInfo!
-	BOTHAN_SHIP_saboteur: "Saboteur" #!Empty_LineInfo!
-	BOTHAN_SHIP_blackfur: "Blackfur" #!Empty_LineInfo!
-	BOTHAN_SHIP_daggerfall: "Daggerfall" #!Empty_LineInfo!
-	BOTHAN_SHIP_verifier: "Verifier" #!Empty_LineInfo!
-	BOTHAN_SHIP_usurper: "Usurper" #!Empty_LineInfo!
-	BOTHAN_SHIP_ambition: "Ambition" #!Empty_LineInfo!
-	BOTHAN_SHIP_rylle_vak: "Rylle'vak" #!Empty_LineInfo!
-	BOTHAN_SHIP_rhyde_vak: "Rhyde'vak" #!Empty_LineInfo!
-	BOTHAN_SHIP_skar_kla: "Skar'kla" #!Empty_LineInfo!
-	BOTHAN_SHIP_sky_dragon: "Sky Dragon" #!Empty_LineInfo!
-	BOTHAN_SHIP_krak_jya: "Krak'jya" #!Empty_LineInfo!
-	BOTHAN_SHIP_determinant: "Determinant" #!Empty_LineInfo!
-	BOTHAN_SHIP_purposeful: "Purposeful" #!Empty_LineInfo!
-	BOTHAN_SHIP_memory_of_allusis: "Memory of Allusis" #!Empty_LineInfo!
-	BOTHAN_SHIP_tiaran_grast: "Tiaran'grast" #!Empty_LineInfo!
-	BOTHAN_SHIP_fury_of_drev_starn: "Fury of Drev'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_heart_of_kurual_grast: "Heart of Kurual'grast" #!Empty_LineInfo!
-	BOTHAN_SHIP_handler: "Handler" #!Empty_LineInfo!
-	BOTHAN_SHIP_fifth_column: "Fifth Column" #!Empty_LineInfo!
-	BOTHAN_SHIP_cloaker: "Cloaker" #!Empty_LineInfo!
-	BOTHAN_SHIP_stiletto: "Stiletto" #!Empty_LineInfo!
-	BOTHAN_SHIP_garrote: "Garrote" #!Empty_LineInfo!
-	BOTHAN_SHIP_kar_shak: "Kar-shak" #!Empty_LineInfo!
-	BOTHAN_SHIP_lue_sang: "Lue-sang" #!Empty_LineInfo!
-	BOTHAN_SHIP_lyaer_tsa: "Lyaer-tsa" #!Empty_LineInfo!
-	BOTHAN_SHIP_petar: "Petar" #!Empty_LineInfo!
-	BOTHAN_SHIP_vamblade: "Vamblade" #!Empty_LineInfo!
-	BOTHAN_SHIP_slicewire: "Slicewire" #!Empty_LineInfo!
-	BOTHAN_SHIP_stranglestick: "Stranglestick" #!Empty_LineInfo!
-	BOTHAN_SHIP_strangler: "Strangler" #!Empty_LineInfo!
-	BOTHAN_SHIP_warspear: "Warspear" #!Empty_LineInfo!
-	BOTHAN_SHIP_zhaboka: "Zhaboka" #!Empty_LineInfo!
-	BOTHAN_SHIP_power_of_knowledge: "Power of Knowledge" #!Empty_LineInfo!
-	BOTHAN_SHIP_patsy: "Patsy" #!Empty_LineInfo!
-	BOTHAN_SHIP_terminator: "Terminator" #!Empty_LineInfo!
-	BOTHAN_SHIP_liquidator: "Liquidator" #!Empty_LineInfo!
-	BOTHAN_SHIP_deception: "Deception" #!Empty_LineInfo!
-	BOTHAN_SHIP_deceptor: "Deceptor" #!Empty_LineInfo!
-	BOTHAN_SHIP_pretender: "Pretender" #!Empty_LineInfo!
-	BOTHAN_SHIP_facade: "Facade" #!Empty_LineInfo!
-	BOTHAN_SHIP_dissimulator: "Dissimulator" #!Empty_LineInfo!
-	BOTHAN_SHIP_subterfuge: "Subterfuge" #!Empty_LineInfo!
-	BOTHAN_SHIP_apparition: "Apparition" #!Empty_LineInfo!
-	BOTHAN_SHIP_specter: "Specter" #!Empty_LineInfo!
-	BOTHAN_SHIP_spirit_of_twilight: "Spirit of Twilight" #!Empty_LineInfo!
-	BOTHAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
-	BOTHAN_SHIP_eidolon: "Eidolon" #!Empty_LineInfo!
-	BOTHAN_SHIP_revenant: "Revenant" #!Empty_LineInfo!
-	BOTHAN_SHIP_shade: "Shade" #!Empty_LineInfo!
-	BOTHAN_SHIP_phantasm: "Phantasm" #!Empty_LineInfo!
-	BOTHAN_SHIP_veil_of_ignorance: "Veil of Ignorance" #!Empty_LineInfo!
-	BOTHAN_SHIP_obscurant: "Obscurant" #!Empty_LineInfo!
-	BOTHAN_SHIP_midnight_shroud: "Midnight Shroud" #!Empty_LineInfo!
-	BOTHAN_SHIP_dissembler: "Dissembler" #!Empty_LineInfo!
-	BOTHAN_SHIP_constancy_of_struggle: "Constancy of Struggle" #!Empty_LineInfo!
-	BOTHAN_SHIP_stinger: "Stinger" #!Empty_LineInfo!
-	BOTHAN_SHIP_final_barb: "Final Barb" #!Empty_LineInfo!
-	BOTHAN_SHIP_finality: "Finality" #!Empty_LineInfo!
-	BOTHAN_SHIP_initative: "Initative" #!Empty_LineInfo!
-	BOTHAN_SHIP_voice_of_reason: "Voice of Reason" #!Empty_LineInfo!
-	BOTHAN_SHIP_ar_krai: "Ar'krai" #!Empty_LineInfo!
-	BOTHAN_SHIP_true_victory: "True Victory" #!Empty_LineInfo!
-	BOTHAN_SHIP_razor: "Razor" #!Empty_LineInfo!
-	BOTHAN_SHIP_fade: "Fade" #!Empty_LineInfo!
-	BOTHAN_SHIP_precision: "Precision" #!Empty_LineInfo!
-	BOTHAN_SHIP_firestorm: "Firestorm" #!Empty_LineInfo!
-	BOTHAN_SHIP_initiator: "Initiator" #!Empty_LineInfo!
-	BOTHAN_SHIP_drashtine: "Drashtine" #!Empty_LineInfo!
-	BOTHAN_SHIP_disruptor: "Disruptor" #!Empty_LineInfo!
-	BOTHAN_SHIP_kothlis_morning: "Kothlis Morning" #!Empty_LineInfo!
-	BOTHAN_SHIP_wrendui: "Wrendui" #!Empty_LineInfo!
-	BOTHAN_SHIP_torolis: "Torolis" #!Empty_LineInfo!
-	BOTHAN_SHIP_gambit: "Gambit" #!Empty_LineInfo!
-	BOTHAN_SHIP_martyrdom: "Martyrdom" #!Empty_LineInfo!
-	BOTHAN_SHIP_sacrifice: "Sacrifice" #!Empty_LineInfo!
-	BOTHAN_SHIP_hecatomb: "Hecatomb" #!Empty_LineInfo!
-	BOTHAN_SHIP_ast_ria: "Ast'ria" #!Empty_LineInfo!
-	BOTHAN_SHIP_botani: "Botani" #!Empty_LineInfo!
-	BOTHAN_SHIP_doomer: "Doomer" #!Empty_LineInfo!
-	BOTHAN_SHIP_fastooni: "Fastooni" #!Empty_LineInfo!
-	BOTHAN_SHIP_fey_lya_s_pride: "Fey'lya's Pride" #!Empty_LineInfo!
-	BOTHAN_SHIP_jade: "Jade" #!Empty_LineInfo!
-	BOTHAN_SHIP_starfaring: "Starfaring" #!Empty_LineInfo!
-	BOTHAN_SHIP_swen: "Swen" #!Empty_LineInfo!
-	BOTHAN_SHIP_tal_cara: "Tal'cara" #!Empty_LineInfo!
-	BOTHAN_SHIP_intruder: "Intruder" #!Empty_LineInfo!
-	BOTHAN_SHIP_tauuni: "Tauuni" #!Empty_LineInfo!
-	BOTHAN_SHIP_timoth: "Timoth" #!Empty_LineInfo!
-	BOTHAN_SHIP_4: "4" #!Empty_LineInfo!
-	BOTHAN_SHIP_triuna: "Triuna" #!Empty_LineInfo!
-	BOTHAN_SHIP_tuana: "Tuana" #!Empty_LineInfo!
-	BOTHAN_SHIP_struggle: "Struggle" #!Empty_LineInfo!
-	BOTHAN_SHIP_necessary_evil: "Necessary Evil" #!Empty_LineInfo!
-	BOTHAN_SHIP_march_exalted: "March Exalted" #!Empty_LineInfo!
-	BOTHAN_SHIP_besk: "Besk" #!Empty_LineInfo!
-	BOTHAN_SHIP_karka: "Karka" #!Empty_LineInfo!
-	BOTHAN_SHIP_koth: "Koth" #!Empty_LineInfo!
-	BOTHAN_SHIP_traest_zikri: "Traest Zikri" #!Empty_LineInfo!
-	BOTHAN_SHIP_oktrem: "Oktrem" #!Empty_LineInfo!
-	BOTHAN_SHIP_eshka: "Eshka" #!Empty_LineInfo!
-	BOTHAN_SHIP_liska: "Liska" #!Empty_LineInfo!
-	BOTHAN_SHIP_tereez: "Tereez" #!Empty_LineInfo!
-	BOTHAN_SHIP_wist: "Wist" #!Empty_LineInfo!
-	BOTHAN_SHIP_sprite: "Sprite" #!Empty_LineInfo!
-	BOTHAN_SHIP_ops_nyzh: "Ops'nyzh" #!Empty_LineInfo!
-	BOTHAN_SHIP_biree: "Biree" #!Empty_LineInfo!
-	BOTHAN_SHIP_bura: "Bura" #!Empty_LineInfo!
-	BOTHAN_SHIP_impossible: "Impossible" #!Empty_LineInfo!
-	BOTHAN_SHIP_notorious: "Notorious" #!Empty_LineInfo!
-	BOTHAN_SHIP_zero_dark: "Zero Dark" #!Empty_LineInfo!
-	BOTHAN_SHIP_kinetic: "Kinetic" #!Empty_LineInfo!
-	BOTHAN_SHIP_vantage: "Vantage" #!Empty_LineInfo!
-	BOTHAN_SHIP_advantage: "Advantage" #!Empty_LineInfo!
-	BOTHAN_SHIP_vanisher: "Vanisher" #!Empty_LineInfo!
-	BOTHAN_SHIP_charade: "Charade" #!Empty_LineInfo!
-	BOTHAN_SHIP_mirage: "Mirage" #!Empty_LineInfo!
-	BOTHAN_SHIP_capricious: "Capricious" #!Empty_LineInfo!
-	BOTHAN_SHIP_sanctioned: "Sanctioned" #!Empty_LineInfo!
-	BOTHAN_SHIP_second_protocol: "Second Protocol" #!Empty_LineInfo!
-	BOTHAN_SHIP_conspirator: "Conspirator" #!Empty_LineInfo!
-	BOTHAN_SHIP_jackal: "Jackal" #!Empty_LineInfo!
-	BOTHAN_SHIP_breacher: "Breacher" #!Empty_LineInfo!
-	BOTHAN_SHIP_eagle_eye: "Eagle Eye" #!Empty_LineInfo!
-	BOTHAN_SHIP_duplicity: "Duplicity" #!Empty_LineInfo!
-	BOTHAN_SHIP_duplicitous: "Duplicitous" #!Empty_LineInfo!
-	BOTHAN_SHIP_fair_game: "Fair Game" #!Empty_LineInfo!
-	BOTHAN_SHIP_haywire: "Haywire" #!Empty_LineInfo!
-	BOTHAN_SHIP_spyder: "Spyder" #!Empty_LineInfo!
-	BOTHAN_SHIP_dusk_eagle: "Dusk Eagle" #!Empty_LineInfo!
-	BOTHAN_SHIP_flux: "Flux" #!Empty_LineInfo!
-	BOTHAN_SHIP_blacklist: "Blacklist" #!Empty_LineInfo!
-	BOTHAN_SHIP_notice_of_ignition: "Notice of Ignition" #!Empty_LineInfo!
-	BOTHAN_SHIP_smiley: "Smiley" #!Empty_LineInfo!
-	BOTHAN_SHIP_archer: "Archer" #!Empty_LineInfo!
-	BOTHAN_SHIP_striker: "Striker" #!Empty_LineInfo!
-	BOTHAN_SHIP_treadstone: "Treadstone" #!Empty_LineInfo!
-	BOTHAN_SHIP_emergent: "Emergent" #!Empty_LineInfo!
-	BOTHAN_SHIP_fog_of_war: "Fog of War" #!Empty_LineInfo!
-	BOTHAN_SHIP_false_face: "False Face" #!Empty_LineInfo!
-	BOTHAN_SHIP_nostrum: "Nostrum" #!Empty_LineInfo!
-	BOTHAN_SHIP_sea_ghost: "Sea Ghost" #!Empty_LineInfo!
-	BOTHAN_SHIP_grey_zhellday: "Grey Zhellday" #!Empty_LineInfo!
-	BOTHAN_SHIP_prime_of_life: "Prime of Life" #!Empty_LineInfo!
-	BOTHAN_SHIP_grey_eminence: "Grey Eminence" #!Empty_LineInfo!
-	BOTHAN_SHIP_flanker: "Flanker" #!Empty_LineInfo!
-	BOTHAN_SHIP_daring: "Daring" #!Empty_LineInfo!
-	BOTHAN_SHIP_survivor: "Survivor" #!Empty_LineInfo!
-	BOTHAN_SHIP_snow_feather: "Snow Feather" #!Empty_LineInfo!
-	BOTHAN_SHIP_sapper: "Sapper" #!Empty_LineInfo!
-	BOTHAN_SHIP_tear_of_the_sun: "Tear of the Sun" #!Empty_LineInfo!
-	BOTHAN_SHIP_underminer: "Underminer" #!Empty_LineInfo!
-	BOTHAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
-	BOTHAN_SHIP_downfall: "Downfall" #!Empty_LineInfo!
-	BOTHAN_SHIP_ganjuko: "Ganjuko" #!Empty_LineInfo!
-	BOTHAN_SHIP_halkra: "Halkra" #!Empty_LineInfo!
-	BOTHAN_SHIP_velhom_starn: "Velhom'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_liah_starn: "Liah'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_odve_starn: "Odve'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_dreel_starn: "Dreel'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_drev_starn: "Drev'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_holm_starn: "Holm'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_mesdri_starn: "Mesdri'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_rhan_starn: "Rhan'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_sal_vhe_starn: "Sal Vhe'starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_greik_eternal: "Greik Eternal" #!Empty_LineInfo!
-	BOTHAN_SHIP_hero_of_bothawui: "Hero of Bothawui" #!Empty_LineInfo!
-	BOTHAN_SHIP_warspoken: "Warspoken" #!Empty_LineInfo!
-	BOTHAN_SHIP_measure_of_necessity: "Measure of Necessity" #!Empty_LineInfo!
-	BOTHAN_SHIP_visage: "Visage" #!Empty_LineInfo!
-	BOTHAN_SHIP_intercessor: "Intercessor" #!Empty_LineInfo!
-	BOTHAN_SHIP_talisman: "Talisman" #!Empty_LineInfo!
-	BOTHAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
-	BOTHAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
-	BOTHAN_SHIP_informant: "Informant" #!Empty_LineInfo!
-	BOTHAN_SHIP_enigmatic: "Enigmatic" #!Empty_LineInfo!
-	BOTHAN_SHIP_considerator: "Considerator" #!Empty_LineInfo!
-	BOTHAN_SHIP_starfarer: "Starfarer" #!Empty_LineInfo!
-	BOTHAN_SHIP_temerity: "Temerity" #!Empty_LineInfo!
-	BOTHAN_SHIP_network_above: "Network Above" #!Empty_LineInfo!
-	BOTHAN_SHIP_system_of_alacrity: "System of Alacrity" #!Empty_LineInfo!
-	BOTHAN_SHIP_unflinching: "Unflinching" #!Empty_LineInfo!
-	BOTHAN_SHIP_examiner: "Examiner" #!Empty_LineInfo!
-	BOTHAN_SHIP_inspector: "Inspector" #!Empty_LineInfo!
-	BOTHAN_SHIP_fiat_lux: "Fiat Lux" #!Empty_LineInfo!
-	BOTHAN_SHIP_cold_pursuit: "Cold Pursuit" #!Empty_LineInfo!
-	BOTHAN_SHIP_taker_of_dues: "Taker of Dues" #!Empty_LineInfo!
-	BOTHAN_SHIP_rightful_place: "Rightful Place" #!Empty_LineInfo!
-	BOTHAN_SHIP_manifest_opportunity: "Manifest Opportunity" #!Empty_LineInfo!
-	BOTHAN_SHIP_necessity: "Necessity" #!Empty_LineInfo!
-	BOTHAN_SHIP_potentate_express: "Potentate Express" #!Empty_LineInfo!
-	BOTHAN_SHIP_honor_among_clans: "Honor Among Clans" #!Empty_LineInfo!
-	BOTHAN_SHIP_colonist_spirit: "Colonist Spirit" #!Empty_LineInfo!
-	BOTHAN_SHIP_remaker: "Remaker" #!Empty_LineInfo!
-	BOTHAN_SHIP_solar_chariot: "Solar Chariot" #!Empty_LineInfo!
-	BOTHAN_SHIP_apex_dawn: "Apex Dawn" #!Empty_LineInfo!
-	BOTHAN_SHIP_opportunist: "Opportunist" #!Empty_LineInfo!
-	BOTHAN_SHIP_first_mover: "First Mover" #!Empty_LineInfo!
-	BOTHAN_SHIP_warren: "Warren" #!Empty_LineInfo!
-	BOTHAN_SHIP_axial: "Axial" #!Empty_LineInfo!
-	BOTHAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
-	BOTHAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
-	BOTHAN_SHIP_scion_of_both: "Scion of Both" #!Empty_LineInfo!
-	BOTHAN_SHIP_wayward: "Wayward" #!Empty_LineInfo!
-	BOTHAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	BOTHAN_SHIP_pennance: "Pennance" #!Empty_LineInfo!
-	BOTHAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
-	BOTHAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
-	BOTHAN_SHIP_provider: "Provider" #!Empty_LineInfo!
-	BOTHAN_SHIP_greyflower: "Greyflower" #!Empty_LineInfo!
-	BOTHAN_SHIP_junevine: "Junevine" #!Empty_LineInfo!
-	BOTHAN_SHIP_last_call: "Last Call" #!Empty_LineInfo!
-	BOTHAN_SHIP_one_way: "One Way" #!Empty_LineInfo!
-	BOTHAN_SHIP_avowed: "Avowed" #!Empty_LineInfo!
-	BOTHAN_SHIP_communal: "Communal" #!Empty_LineInfo!
-	BOTHAN_SHIP_foalier: "Foalier" #!Empty_LineInfo!
-	BOTHAN_SHIP_lathe: "Lathe" #!Empty_LineInfo!
-	BOTHAN_SHIP_perfectionist: "Perfectionist" #!Empty_LineInfo!
-	BOTHAN_SHIP_perfector: "Perfector" #!Empty_LineInfo!
-	BOTHAN_SHIP_artisan: "Artisan" #!Empty_LineInfo!
-	BOTHAN_SHIP_hierophant: "Hierophant" #!Empty_LineInfo!
-	BOTHAN_SHIP_sculpter: "Sculpter" #!Empty_LineInfo!
-	BOTHAN_SHIP_grunt_work: "Grunt Work" #!Empty_LineInfo!
-	BOTHAN_SHIP_reshaper: "Reshaper" #!Empty_LineInfo!
-	BOTHAN_SHIP_oscilacion: "Oscilacion" #!Empty_LineInfo!
-	BOTHAN_SHIP_tessellation: "Tessellation" #!Empty_LineInfo!
-	BOTHAN_SHIP_girder: "Girder" #!Empty_LineInfo!
-	BOTHAN_SHIP_nexuramus: "Nexuramus" #!Empty_LineInfo!
-	BOTHAN_SHIP_circuiter: "Circuiter" #!Empty_LineInfo!
-	BOTHAN_SHIP_creator: "Creator" #!Empty_LineInfo!
-	BOTHAN_SHIP_hyperbola: "Hyperbola" #!Empty_LineInfo!
-	BOTHAN_SHIP_gyromancer: "Gyromancer" #!Empty_LineInfo!
-	BOTHAN_SHIP_pseudoist: "Pseudoist" #!Empty_LineInfo!
-	BOTHAN_SHIP_factorial: "Factorial" #!Empty_LineInfo!
-	BOTHAN_SHIP_quotient_of_labor: "Quotient of Labor" #!Empty_LineInfo!
-	BOTHAN_SHIP_algorithm: "Algorithm" #!Empty_LineInfo!
-	BOTHAN_SHIP_equator: "Equator" #!Empty_LineInfo!
-	BOTHAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
-	BOTHAN_SHIP_practicality: "Practicality" #!Empty_LineInfo!
-	BOTHAN_SHIP_cardinal: "Cardinal" #!Empty_LineInfo!
-	BOTHAN_SHIP_coefficeint: "Coefficeint" #!Empty_LineInfo!
-	BOTHAN_SHIP_compositor: "Compositor" #!Empty_LineInfo!
-	BOTHAN_SHIP_congruent: "Congruent" #!Empty_LineInfo!
-	BOTHAN_SHIP_fractal: "Fractal" #!Empty_LineInfo!
-	BOTHAN_SHIP_exponentiator: "Exponentiator" #!Empty_LineInfo!
-	BOTHAN_SHIP_curvator: "Curvator" #!Empty_LineInfo!
-	BOTHAN_SHIP_logos: "Logos" #!Empty_LineInfo!
-	BOTHAN_SHIP_modulator: "Modulator" #!Empty_LineInfo!
-	BOTHAN_SHIP_folly_of_distribution: "Folly of Distribution" #!Empty_LineInfo!
-	BOTHAN_SHIP_paradox: "Paradox" #!Empty_LineInfo!
-	BOTHAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	BOTHAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	BOTHAN_SHIP_outpost: "Outpost" #!Empty_LineInfo!
-	BOTHAN_SHIP_blee: "Blee" #!Empty_LineInfo!
-	BOTHAN_SHIP_breil: "Breil" #!Empty_LineInfo!
-	BOTHAN_SHIP_covepi: "Covepi" #!Empty_LineInfo!
-	BOTHAN_SHIP_dreel: "Dreel" #!Empty_LineInfo!
-	BOTHAN_SHIP_feyve: "Feyve" #!Empty_LineInfo!
-	BOTHAN_SHIP_fey: "Fey" #!Empty_LineInfo!
-	BOTHAN_SHIP_gna_shre: "Gna Shre" #!Empty_LineInfo!
-	BOTHAN_SHIP_gre_shev: "Gre Shev" #!Empty_LineInfo!
-	BOTHAN_SHIP_holm: "Holm" #!Empty_LineInfo!
-	BOTHAN_SHIP_kolme: "Kolme" #!Empty_LineInfo!
-	BOTHAN_SHIP_liah: "Liah" #!Empty_LineInfo!
-	BOTHAN_SHIP_lktim: "Lktim" #!Empty_LineInfo!
-	BOTHAN_SHIP_mesdri: "Mesdri" #!Empty_LineInfo!
-	BOTHAN_SHIP_navshe: "Navshe" #!Empty_LineInfo!
-	BOTHAN_SHIP_odve: "Odve" #!Empty_LineInfo!
-	BOTHAN_SHIP_rhan: "Rhan" #!Empty_LineInfo!
-	BOTHAN_SHIP_sal_vhe: "Sal Vhe" #!Empty_LineInfo!
-	BOTHAN_SHIP_shevre: "Shevre" #!Empty_LineInfo!
-	BOTHAN_SHIP_urval: "Urval" #!Empty_LineInfo!
-	BOTHAN_SHIP_velhom: "Velhom" #!Empty_LineInfo!
-	BOTHAN_SHIP_drev: "Drev" #!Empty_LineInfo!
-	BOTHAN_SHIP_starn: "Starn" #!Empty_LineInfo!
-	BOTHAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	BOTHAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	BOTHAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	BOTHAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	BOTHAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	BOTHAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	BOTHAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	BOTHAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	BOTHAN_FLEET_response_element_ORD: "$ORD$ Response Element" #!Empty_LineInfo!
-	BOTHAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
-	BOTHAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
-	BOTHAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	BOTHAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	BOTHAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	BOTHAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	BOTHAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	BOTHAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	BOTHAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	BOTHAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	BOTHAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	BOTHAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	BOTHAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	BOTHAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	BOTHAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	BOTHAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	BOTHAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	BOTHAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	BOTHAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	BOTHAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	BOTHAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	BOTHAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	BOTHAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	BOTHAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	BOTHAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	BOTHAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	BOTHAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	BOTHAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	BOTHAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	BOTHAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	BOTHAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	BOTHAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	BOTHAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	BOTHAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	BOTHAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	BOTHAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	BOTHAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	BOTHAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	BOTHAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	BOTHAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	BOTHAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	BOTHAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	BOTHAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	BOTHAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	BOTHAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	BOTHAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	BOTHAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	BOTHAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	BOTHAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	BOTHAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	BOTHAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	BOTHAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	BOTHAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	BOTHAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	BOTHAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	BOTHAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	BOTHAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	BOTHAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	BOTHAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	BOTHAN_CHR_tereb: "Tereb" #!Empty_LineInfo!
-	BOTHAN_CHR_fen: "Fen" #!Empty_LineInfo!
-	BOTHAN_CHR_shrithek: "Shrithek" #!Empty_LineInfo!
-	BOTHAN_CHR_bey_wan: "Bey'wan" #!Empty_LineInfo!
-	BOTHAN_CHR_herosk: "Herosk" #!Empty_LineInfo!
-	BOTHAN_CHR_eddey: "Eddey" #!Empty_LineInfo!
-	BOTHAN_CHR_taak: "Taak" #!Empty_LineInfo!
-	BOTHAN_CHR_eelo: "Eelo" #!Empty_LineInfo!
-	BOTHAN_CHR_nysis: "Nysis" #!Empty_LineInfo!
-	BOTHAN_CHR_geay: "Geay" #!Empty_LineInfo!
-	BOTHAN_CHR_champhra: "Champhra" #!Empty_LineInfo!
-	BOTHAN_CHR_toric: "Toric" #!Empty_LineInfo!
-	BOTHAN_CHR_sli_woon: "Sli'woon" #!Empty_LineInfo!
-	BOTHAN_CHR_kamtis: "Kamtis" #!Empty_LineInfo!
-	BOTHAN_CHR_elwis: "Elwis" #!Empty_LineInfo!
-	BOTHAN_CHR_tav: "Tav" #!Empty_LineInfo!
-	BOTHAN_CHR_arkhan: "Arkhan" #!Empty_LineInfo!
-	BOTHAN_CHR_gursan: "Gursan" #!Empty_LineInfo!
-	BOTHAN_CHR_varesk: "Varesk" #!Empty_LineInfo!
-	BOTHAN_CHR_eramuth: "Eramuth" #!Empty_LineInfo!
-	BOTHAN_CHR_nek: "Nek" #!Empty_LineInfo!
-	BOTHAN_CHR_yantahar: "Yantahar" #!Empty_LineInfo!
-	BOTHAN_CHR_obrio: "Obrio" #!Empty_LineInfo!
-	BOTHAN_CHR_corl_ya: "Corl'ya" #!Empty_LineInfo!
-	BOTHAN_CHR_aren: "Aren" #!Empty_LineInfo!
-	BOTHAN_CHR_dakkar: "Dakkar" #!Empty_LineInfo!
-	BOTHAN_CHR_karka: "Karka" #!Empty_LineInfo!
-	BOTHAN_CHR_laryn: "Laryn" #!Empty_LineInfo!
-	BOTHAN_CHR_moss: "Moss" #!Empty_LineInfo!
-	BOTHAN_CHR_fadulk: "Fadulk" #!Empty_LineInfo!
-	BOTHAN_CHR_dravos: "Dravos" #!Empty_LineInfo!
-	BOTHAN_CHR_tiurrg: "Tiurrg" #!Empty_LineInfo!
-	BOTHAN_CHR_kalibar: "Kalibar" #!Empty_LineInfo!
-	BOTHAN_CHR_liskran: "Liskran" #!Empty_LineInfo!
-	BOTHAN_CHR_sayar: "Sayar" #!Empty_LineInfo!
-	BOTHAN_CHR_byalfin: "Byalfin" #!Empty_LineInfo!
-	BOTHAN_CHR_girov: "Girov" #!Empty_LineInfo!
-	BOTHAN_CHR_eocade: "Eocade" #!Empty_LineInfo!
-	BOTHAN_CHR_mak: "Mak" #!Empty_LineInfo!
-	BOTHAN_CHR_korowee: "Korowee" #!Empty_LineInfo!
-	BOTHAN_CHR_korsin__the_spyder_: "Korsin 'the spyder'" #!Empty_LineInfo!
-	BOTHAN_CHR_tchaw: "Tchaw" #!Empty_LineInfo!
-	BOTHAN_CHR_bal: "Bal" #!Empty_LineInfo!
-	BOTHAN_CHR_golm: "Golm" #!Empty_LineInfo!
-	BOTHAN_CHR_torel: "Torel" #!Empty_LineInfo!
-	BOTHAN_CHR_borsk: "Borsk" #!Empty_LineInfo!
-	BOTHAN_CHR_desark: "Desark" #!Empty_LineInfo!
-	BOTHAN_CHR_oneron: "Oneron" #!Empty_LineInfo!
-	BOTHAN_CHR_rolai: "Rolai" #!Empty_LineInfo!
-	BOTHAN_CHR_galody: "Galody" #!Empty_LineInfo!
-	BOTHAN_CHR_garul: "Garul" #!Empty_LineInfo!
-	BOTHAN_CHR_jaylon: "Jaylon" #!Empty_LineInfo!
-	BOTHAN_CHR_grendu: "Grendu" #!Empty_LineInfo!
-	BOTHAN_CHR_hawj: "Hawj" #!Empty_LineInfo!
-	BOTHAN_CHR_kai: "Kai" #!Empty_LineInfo!
-	BOTHAN_CHR_tresk: "Tresk" #!Empty_LineInfo!
-	BOTHAN_CHR_rund: "Rund" #!Empty_LineInfo!
-	BOTHAN_CHR_lith: "Lith" #!Empty_LineInfo!
-	BOTHAN_CHR_tathak: "Tathak" #!Empty_LineInfo!
-	BOTHAN_CHR_narsk: "Narsk" #!Empty_LineInfo!
-	BOTHAN_CHR_soor: "Soor" #!Empty_LineInfo!
-	BOTHAN_CHR_kasck: "Kasck" #!Empty_LineInfo!
-	BOTHAN_CHR_breggs: "Breggs" #!Empty_LineInfo!
-	BOTHAN_CHR_wesk: "Wesk" #!Empty_LineInfo!
-	BOTHAN_CHR_traest: "Traest" #!Empty_LineInfo!
-	BOTHAN_CHR_crost: "Crost" #!Empty_LineInfo!
-	BOTHAN_CHR_siv_rool: "Siv'rool" #!Empty_LineInfo!
-	BOTHAN_CHR_krask_ka: "Krask'ka" #!Empty_LineInfo!
-	BOTHAN_CHR_ne_wha: "Ne'wha" #!Empty_LineInfo!
-	BOTHAN_CHR_tensh: "Tensh" #!Empty_LineInfo!
-	BOTHAN_CHR_bem: "Bem" #!Empty_LineInfo!
-	BOTHAN_CHR_kursk: "Kursk" #!Empty_LineInfo!
-	BOTHAN_CHR_koth: "Koth" #!Empty_LineInfo!
-	BOTHAN_CHR_merkur: "Merkur" #!Empty_LineInfo!
-	BOTHAN_CHR_hyx: "Hyx" #!Empty_LineInfo!
-	BOTHAN_CHR_bandor: "Bandor" #!Empty_LineInfo!
-	BOTHAN_CHR_moril: "Moril" #!Empty_LineInfo!
-	BOTHAN_CHR_betrek: "Betrek" #!Empty_LineInfo!
-	BOTHAN_CHR_velst: "Velst" #!Empty_LineInfo!
-	BOTHAN_CHR_kutri: "Kutri" #!Empty_LineInfo!
-	BOTHAN_CHR_ceok: "Ceok" #!Empty_LineInfo!
-	BOTHAN_CHR_oryon: "Oryon" #!Empty_LineInfo!
-	BOTHAN_CHR_ota: "Ota" #!Empty_LineInfo!
-	BOTHAN_CHR_mish: "Mish" #!Empty_LineInfo!
-	BOTHAN_CHR_pobos: "Pobos" #!Empty_LineInfo!
-	BOTHAN_CHR_salix: "Salix" #!Empty_LineInfo!
-	BOTHAN_CHR_utric: "Utric" #!Empty_LineInfo!
-	BOTHAN_CHR_avke: "Avke" #!Empty_LineInfo!
-	BOTHAN_CHR_polo: "Polo" #!Empty_LineInfo!
-	BOTHAN_CHR_gatrar: "Gatrar" #!Empty_LineInfo!
-	BOTHAN_CHR_sihha: "Sihha" #!Empty_LineInfo!
-	BOTHAN_CHR_corask: "Corask" #!Empty_LineInfo!
-	BOTHAN_CHR_snayd: "Snayd" #!Empty_LineInfo!
-	BOTHAN_CHR_staarn: "Staarn" #!Empty_LineInfo!
-	BOTHAN_CHR_diskret: "Diskret" #!Empty_LineInfo!
-	BOTHAN_CHR_sunnim: "Sunnim" #!Empty_LineInfo!
-	BOTHAN_CHR_ch_ord: "Ch'ord" #!Empty_LineInfo!
-	BOTHAN_CHR_yur: "Yur" #!Empty_LineInfo!
-	BOTHAN_CHR_breyf: "Breyf" #!Empty_LineInfo!
-	BOTHAN_CHR_vin: "Vin" #!Empty_LineInfo!
-	BOTHAN_CHR_wachs: "Wachs" #!Empty_LineInfo!
-	BOTHAN_CHR_skaelor: "Skaelor" #!Empty_LineInfo!
-	BOTHAN_CHR_morst: "Morst" #!Empty_LineInfo!
-	BOTHAN_CHR_eurrsk: "Eurrsk" #!Empty_LineInfo!
-	BOTHAN_CHR_ne_thruska: "Ne Thruska" #!Empty_LineInfo!
-	BOTHAN_CHR_diss: "Diss" #!Empty_LineInfo!
-	BOTHAN_CHR_tirossk: "Tirossk" #!Empty_LineInfo!
-	BOTHAN_CHR_trask: "Trask" #!Empty_LineInfo!
-	BOTHAN_CHR_savielk: "Savielk" #!Empty_LineInfo!
-	BOTHAN_CHR_hosk: "Hosk" #!Empty_LineInfo!
-	BOTHAN_CHR_chaw: "Chaw" #!Empty_LineInfo!
-	BOTHAN_CHR_arenecio: "Arenecio" #!Empty_LineInfo!
-	BOTHAN_CHR_arkis: "Arkis" #!Empty_LineInfo!
-	BOTHAN_CHR_knol: "Knol" #!Empty_LineInfo!
-	BOTHAN_CHR_karaksk: "Karaksk" #!Empty_LineInfo!
-	BOTHAN_CHR_peshk: "Peshk" #!Empty_LineInfo!
-	BOTHAN_CHR_yas_tua: "Yas'tua" #!Empty_LineInfo!
-	BOTHAN_CHR_jennalyn: "Jennalyn" #!Empty_LineInfo!
-	BOTHAN_CHR_saiga: "Saiga" #!Empty_LineInfo!
-	BOTHAN_CHR_bie: "Bie" #!Empty_LineInfo!
-	BOTHAN_CHR_cidri: "Cidri" #!Empty_LineInfo!
-	BOTHAN_CHR_henna: "Henna" #!Empty_LineInfo!
-	BOTHAN_CHR_liska: "Liska" #!Empty_LineInfo!
-	BOTHAN_CHR_asyr: "Asyr" #!Empty_LineInfo!
-	BOTHAN_CHR_maxeena: "Maxeena" #!Empty_LineInfo!
-	BOTHAN_CHR_tereez: "Tereez" #!Empty_LineInfo!
-	BOTHAN_CHR_edue: "Edue" #!Empty_LineInfo!
-	BOTHAN_CHR_escra: "Escra" #!Empty_LineInfo!
-	BOTHAN_CHR_sona: "Sona" #!Empty_LineInfo!
-	BOTHAN_CHR_lercer: "Lercer" #!Empty_LineInfo!
-	BOTHAN_CHR_kiyr: "Kiyr" #!Empty_LineInfo!
-	BOTHAN_CHR_glynn_beti: "Glynn-Beti" #!Empty_LineInfo!
-	BOTHAN_CHR_haskit: "Haskit" #!Empty_LineInfo!
-	BOTHAN_CHR_hev_sin: "Hev'sin" #!Empty_LineInfo!
-	BOTHAN_CHR_kolir: "Kolir" #!Empty_LineInfo!
-	BOTHAN_CHR_jural: "Jural" #!Empty_LineInfo!
-	BOTHAN_CHR_brona: "Brona" #!Empty_LineInfo!
-	BOTHAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
-	BOTHAN_CHR_rasher: "Rasher" #!Empty_LineInfo!
-	BOTHAN_CHR_prisk: "Prisk" #!Empty_LineInfo!
-	BOTHAN_CHR_talva: "Talva" #!Empty_LineInfo!
-	BOTHAN_CHR_shayl: "Shayl" #!Empty_LineInfo!
-	BOTHAN_CHR_leika: "Leika" #!Empty_LineInfo!
-	BOTHAN_CHR_lelsk: "Lelsk" #!Empty_LineInfo!
-	BOTHAN_CHR_masi: "Masi" #!Empty_LineInfo!
-	BOTHAN_CHR_vella: "Vella" #!Empty_LineInfo!
-	BOTHAN_CHR_jovel: "Jovel" #!Empty_LineInfo!
-	BOTHAN_CHR_sola: "Sola" #!Empty_LineInfo!
-	BOTHAN_CHR_erisi: "Erisi" #!Empty_LineInfo!
-	BOTHAN_CHR_rhuiw: "Rhuiw" #!Empty_LineInfo!
-	BOTHAN_CHR_yaqeel: "Yaqeel" #!Empty_LineInfo!
-	BOTHAN_CHR_aja: "Aja" #!Empty_LineInfo!
-	BOTHAN_CHR_serissu: "Serissu" #!Empty_LineInfo!
-	BOTHAN_CHR_shan_ri: "Shan'ri" #!Empty_LineInfo!
-	BOTHAN_CHR_loza: "Loza" #!Empty_LineInfo!
-	BOTHAN_CHR_linay: "Linay" #!Empty_LineInfo!
-	BOTHAN_CHR_cuan: "Cuan" #!Empty_LineInfo!
-	BOTHAN_CHR_rava: "Rava" #!Empty_LineInfo!
-	BOTHAN_CHR_fara: "Fara" #!Empty_LineInfo!
-	BOTHAN_CHR_nwilla: "Nwilla" #!Empty_LineInfo!
-	BOTHAN_CHR_trass: "Trass" #!Empty_LineInfo!
-	BOTHAN_CHR_tryn: "Tryn" #!Empty_LineInfo!
-	BOTHAN_CHR_talya: "Talya" #!Empty_LineInfo!
-	BOTHAN_CHR_silm_an: "Silm'an" #!Empty_LineInfo!
-	BOTHAN_CHR_ysa_i: "Ysa'i" #!Empty_LineInfo!
-	BOTHAN_CHR_ab_lon: "Ab'lon" #!Empty_LineInfo!
-	BOTHAN_CHR_ackdo: "Ackdo" #!Empty_LineInfo!
-	BOTHAN_CHR_al_lya: "Al'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_arr_yka: "Arr'yka" #!Empty_LineInfo!
-	BOTHAN_CHR_aygo: "Aygo" #!Empty_LineInfo!
-	BOTHAN_CHR_ba_tra: "Ba'tra" #!Empty_LineInfo!
-	BOTHAN_CHR_babo: "Babo" #!Empty_LineInfo!
-	BOTHAN_CHR_bal_far: "Bal'far" #!Empty_LineInfo!
-	BOTHAN_CHR_banno: "Banno" #!Empty_LineInfo!
-	BOTHAN_CHR_be_ray: "Be'ray" #!Empty_LineInfo!
-	BOTHAN_CHR_fey_la: "Fey'La" #!Empty_LineInfo!
-	BOTHAN_CHR_begrass: "Begrass" #!Empty_LineInfo!
-	BOTHAN_CHR_belzara: "Belzara" #!Empty_LineInfo!
-	BOTHAN_CHR_ber_atta: "Ber'atta" #!Empty_LineInfo!
-	BOTHAN_CHR_biahin: "Biahin" #!Empty_LineInfo!
-	BOTHAN_CHR_bisilt: "Bisilt" #!Empty_LineInfo!
-	BOTHAN_CHR_biul: "Biul" #!Empty_LineInfo!
-	BOTHAN_CHR_bonai: "Bonai" #!Empty_LineInfo!
-	BOTHAN_CHR_bontraar: "Bontraar" #!Empty_LineInfo!
-	BOTHAN_CHR_breil_lya: "Breil'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_brem_tu: "Brem'tu" #!Empty_LineInfo!
-	BOTHAN_CHR_bryes: "Bryes" #!Empty_LineInfo!
-	BOTHAN_CHR_bura_lya: "Bura'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_bwua_tu: "Bwua'tu" #!Empty_LineInfo!
-	BOTHAN_CHR_caldori: "Caldori" #!Empty_LineInfo!
-	BOTHAN_CHR_d_nore: "D'Nore" #!Empty_LineInfo!
-	BOTHAN_CHR_d_skaun: "D'skaun" #!Empty_LineInfo!
-	BOTHAN_CHR_dan_kre: "Dan'kre" #!Empty_LineInfo!
-	BOTHAN_CHR_sei_lar: "Sei'lar" #!Empty_LineInfo!
-	BOTHAN_CHR_kre_fey: "Kre'fey" #!Empty_LineInfo!
-	BOTHAN_CHR_davian: "Davian" #!Empty_LineInfo!
-	BOTHAN_CHR_dee_hars: "Dee'Hars" #!Empty_LineInfo!
-	BOTHAN_CHR_deevers: "Deevers" #!Empty_LineInfo!
-	BOTHAN_CHR_di_keer: "Di'keer" #!Empty_LineInfo!
-	BOTHAN_CHR_sov_lya: "Sov'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_drey_lye: "Drey'lye" #!Empty_LineInfo!
-	BOTHAN_CHR_droosh: "Droosh" #!Empty_LineInfo!
-	BOTHAN_CHR_dulce: "Dulce" #!Empty_LineInfo!
-	BOTHAN_CHR_dun_la: "Dun'La" #!Empty_LineInfo!
-	BOTHAN_CHR_dyur: "Dyur" #!Empty_LineInfo!
-	BOTHAN_CHR_dza_lar: "Dza'lar" #!Empty_LineInfo!
-	BOTHAN_CHR_dza_tey: "Dza'tey" #!Empty_LineInfo!
-	BOTHAN_CHR_eshka_rey: "Eshka'rey" #!Empty_LineInfo!
-	BOTHAN_CHR_essumon: "Essumon" #!Empty_LineInfo!
-	BOTHAN_CHR_fa_lorn: "Fa'lorn" #!Empty_LineInfo!
-	BOTHAN_CHR_fendo: "Fendo" #!Empty_LineInfo!
-	BOTHAN_CHR_ferensil: "Ferensil" #!Empty_LineInfo!
-	BOTHAN_CHR_fey_jia: "Fey'jia" #!Empty_LineInfo!
-	BOTHAN_CHR_fey_lya: "Fey'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_fil_vye: "Fil'vye" #!Empty_LineInfo!
-	BOTHAN_CHR_frac: "Frac" #!Empty_LineInfo!
-	BOTHAN_CHR_for_o: "For'o" #!Empty_LineInfo!
-	BOTHAN_CHR_gaia: "Gaia" #!Empty_LineInfo!
-	BOTHAN_CHR_gass_kin: "Gass'kin" #!Empty_LineInfo!
-	BOTHAN_CHR_geissler: "Geissler" #!Empty_LineInfo!
-	BOTHAN_CHR_gir_sku: "Gir'sku" #!Empty_LineInfo!
-	BOTHAN_CHR_grai_tvo: "Grai'tvo" #!Empty_LineInfo!
-	BOTHAN_CHR_grym: "Grym" #!Empty_LineInfo!
-	BOTHAN_CHR_hu_lya: "Hu'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_hudorra: "Hudorra" #!Empty_LineInfo!
-	BOTHAN_CHR_im_nel: "Im'nel" #!Empty_LineInfo!
-	BOTHAN_CHR_jes_ela: "Jes'ela" #!Empty_LineInfo!
-	BOTHAN_CHR_jid_yda: "Jid'yda" #!Empty_LineInfo!
-	BOTHAN_CHR_kalis: "Kalis" #!Empty_LineInfo!
-	BOTHAN_CHR_k_roylan: "K'roylan" #!Empty_LineInfo!
-	BOTHAN_CHR_ka_hane: "Ka'hane" #!Empty_LineInfo!
-	BOTHAN_CHR_kal_ir: "Kal'ir" #!Empty_LineInfo!
-	BOTHAN_CHR_kand_lar: "Kand'lar" #!Empty_LineInfo!
-	BOTHAN_CHR_kay_lay: "Kay'lay" #!Empty_LineInfo!
-	BOTHAN_CHR_ke_e: "Ke'e" #!Empty_LineInfo!
-	BOTHAN_CHR_ker_tani: "Ker'tani" #!Empty_LineInfo!
-	BOTHAN_CHR_kit_pay: "Kit'pay" #!Empty_LineInfo!
-	BOTHAN_CHR_kith_vys: "Kith'Vys" #!Empty_LineInfo!
-	BOTHAN_CHR_ko_lib: "Ko'lib" #!Empty_LineInfo!
-	BOTHAN_CHR_ko_patha: "Ko'patha" #!Empty_LineInfo!
-	BOTHAN_CHR_le_tah: "Le'tah" #!Empty_LineInfo!
-	BOTHAN_CHR_lib_eyay: "Lib'eyay" #!Empty_LineInfo!
-	BOTHAN_CHR_lo_lar: "Lo'lar" #!Empty_LineInfo!
-	BOTHAN_CHR_lua_wan: "Lua'wan" #!Empty_LineInfo!
-	BOTHAN_CHR_lukaze: "Lukaze" #!Empty_LineInfo!
-	BOTHAN_CHR_ly_alu: "Ly'alu" #!Empty_LineInfo!
-	BOTHAN_CHR_lyu_kij: "Lyu'kij" #!Empty_LineInfo!
-	BOTHAN_CHR_mal_ia: "Mal'ia" #!Empty_LineInfo!
-	BOTHAN_CHR_qual: "Qual" #!Empty_LineInfo!
-	BOTHAN_CHR_melan: "Melan" #!Empty_LineInfo!
-	BOTHAN_CHR_modant: "Modant" #!Empty_LineInfo!
-	BOTHAN_CHR_morv_vyal: "Morv'vyal" #!Empty_LineInfo!
-	BOTHAN_CHR_moy_nast: "Moy'nast" #!Empty_LineInfo!
-	BOTHAN_CHR_moyan: "Moyan" #!Empty_LineInfo!
-	BOTHAN_CHR_nay_sro: "Nay'sro" #!Empty_LineInfo!
-	BOTHAN_CHR_ni_mai: "Ni'mai" #!Empty_LineInfo!
-	BOTHAN_CHR_nial: "Nial" #!Empty_LineInfo!
-	BOTHAN_CHR_nitram: "Nitram" #!Empty_LineInfo!
-	BOTHAN_CHR_nosconda: "Nosconda" #!Empty_LineInfo!
-	BOTHAN_CHR_o_a: "O'a" #!Empty_LineInfo!
-	BOTHAN_CHR_orou_cya: "Orou'cya" #!Empty_LineInfo!
-	BOTHAN_CHR_paht: "Paht" #!Empty_LineInfo!
-	BOTHAN_CHR_pers_lya: "Pers'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_proy_skyn: "Proy'skyn" #!Empty_LineInfo!
-	BOTHAN_CHR_rayl_skar: "Rayl'skar" #!Empty_LineInfo!
-	BOTHAN_CHR_reh_mwa: "Reh'mwa" #!Empty_LineInfo!
-	BOTHAN_CHR_saav_etu: "Saav'etu" #!Empty_LineInfo!
-	BOTHAN_CHR_sandov: "Sandov" #!Empty_LineInfo!
-	BOTHAN_CHR_saz_ula: "Saz'ula" #!Empty_LineInfo!
-	BOTHAN_CHR_se_lab: "Se'lab" #!Empty_LineInfo!
-	BOTHAN_CHR_sezala: "Sezala" #!Empty_LineInfo!
-	BOTHAN_CHR_shey_tyan: "Shey'Tyan" #!Empty_LineInfo!
-	BOTHAN_CHR_sil_ban: "Sil'ban" #!Empty_LineInfo!
-	BOTHAN_CHR_sind_lir: "Sind'lir" #!Empty_LineInfo!
-	BOTHAN_CHR_slen_da: "Slen'da" #!Empty_LineInfo!
-	BOTHAN_CHR_stahn: "Stahn" #!Empty_LineInfo!
-	BOTHAN_CHR_sy_fon: "Sy'fon" #!Empty_LineInfo!
-	BOTHAN_CHR_t_aug: "T'aug" #!Empty_LineInfo!
-	BOTHAN_CHR_t_dawlish: "T'dawlish" #!Empty_LineInfo!
-	BOTHAN_CHR_tal_benes: "Tal'benes" #!Empty_LineInfo!
-	BOTHAN_CHR_tosk_tar_ilya: "Tosk-tar'ilya" #!Empty_LineInfo!
-	BOTHAN_CHR_tauph: "Tauph" #!Empty_LineInfo!
-	BOTHAN_CHR_tay: "Tay" #!Empty_LineInfo!
-	BOTHAN_CHR_tayl_skar: "Tayl'skar" #!Empty_LineInfo!
-	BOTHAN_CHR_te_tell: "Te'tell" #!Empty_LineInfo!
-	BOTHAN_CHR_teb_lya: "Teb'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_tey_flah: "Tey'flah" #!Empty_LineInfo!
-	BOTHAN_CHR_thar_lyat: "Thar'lyat" #!Empty_LineInfo!
-	BOTHAN_CHR_thri_ag: "Thri'ag" #!Empty_LineInfo!
-	BOTHAN_CHR_ti_wyn: "Ti'wyn" #!Empty_LineInfo!
-	BOTHAN_CHR_trell_yar: "Trell'yar" #!Empty_LineInfo!
-	BOTHAN_CHR_trey_dra: "Trey'dra" #!Empty_LineInfo!
-	BOTHAN_CHR_trey_lis: "Trey'lis" #!Empty_LineInfo!
-	BOTHAN_CHR_tri_byia: "Tri'byia" #!Empty_LineInfo!
-	BOTHAN_CHR_troillya: "Troillya" #!Empty_LineInfo!
-	BOTHAN_CHR_ulvaw_op: "Ulvaw'op" #!Empty_LineInfo!
-	BOTHAN_CHR_ur_etu: "Ur'etu" #!Empty_LineInfo!
-	BOTHAN_CHR_v_laenya: "V'laenya" #!Empty_LineInfo!
-	BOTHAN_CHR_ven_nari: "Ven'nari" #!Empty_LineInfo!
-	BOTHAN_CHR_vet_lya: "Vet'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_vord_lya: "Vord'lya" #!Empty_LineInfo!
-	BOTHAN_CHR_vri_skar: "Vri'skar" #!Empty_LineInfo!
-	BOTHAN_CHR_vri_syk: "Vri'syk" #!Empty_LineInfo!
-	BOTHAN_CHR_wurf_al: "Wurf'al" #!Empty_LineInfo!
-	BOTHAN_CHR_jennala: "Jennala" #!Empty_LineInfo!
+ BOTHAN_SHIP_dicer: "Дайсер"
+ BOTHAN_SHIP_masquerade: "Маскарад"
+ BOTHAN_SHIP_jeswandi: "Джесванди"
+ BOTHAN_SHIP_assailant: "Нападавший"
+ BOTHAN_SHIP_stony_path: "Каменистая тропа"
+ BOTHAN_SHIP_blue_flare: "Синяя вспышка"
+ BOTHAN_SHIP_silver_fur: "Серебристый мех"
+ BOTHAN_SHIP_brand_of_haskit: "Бренд Хаскита"
+ BOTHAN_SHIP_ralroost: "Ралруст"
+ BOTHAN_SHIP_ghost: "Призрак"
+ BOTHAN_SHIP_silencer: "Глушитель"
+ BOTHAN_SHIP_fire_of_lukaze: "Огонь Луказе"
+ BOTHAN_SHIP_suprosa: "Супроса"
+ BOTHAN_SHIP_salvation: "Спасение"
+ BOTHAN_SHIP_boash_ua: "Боаш'уа"
+ BOTHAN_SHIP_resistance: "Сопротивление"
+ BOTHAN_SHIP_avengeance: "Месть"
+ BOTHAN_SHIP_night_caller: "Ночной посетитель"
+ BOTHAN_SHIP_blackmoon: "Черная Луна"
+ BOTHAN_SHIP_lancer: "Лансер"
+ BOTHAN_SHIP_justice: "Справедливость"
+ BOTHAN_SHIP_fire_eater: "Пожиратель огня"
+ BOTHAN_SHIP_martyr_s_call: "Призыв мученика"
+ BOTHAN_SHIP_crusader: "Крестоносец"
+ BOTHAN_SHIP_commando: "Коммандос"
+ BOTHAN_SHIP_guerilla: "Партизан"
+ BOTHAN_SHIP_operator: "Оператор"
+ BOTHAN_SHIP_commandment: "Заповедь"
+ BOTHAN_SHIP_saboteur: "Диверсант"
+ BOTHAN_SHIP_blackfur: "Черный мех"
+ BOTHAN_SHIP_daggerfall: "Даггерфолл"
+ BOTHAN_SHIP_verifier: "Верификатор"
+ BOTHAN_SHIP_usurper: "Узурпатор"
+ BOTHAN_SHIP_ambition: "Амбиции"
+ BOTHAN_SHIP_rylle_vak: "Рилле'вак"
+ BOTHAN_SHIP_rhyde_vak: "Райд'вак"
+ BOTHAN_SHIP_skar_kla: "Скаркла"
+ BOTHAN_SHIP_sky_dragon: "Небесный дракон"
+ BOTHAN_SHIP_krak_jya: "Крак'джья"
+ BOTHAN_SHIP_determinant: "Определитель"
+ BOTHAN_SHIP_purposeful: "Целеустремленный"
+ BOTHAN_SHIP_memory_of_allusis: "Воспоминание об Аллюзии"
+ BOTHAN_SHIP_tiaran_grast: "Тиаран'граст"
+ BOTHAN_SHIP_fury_of_drev_starn: "Ярость Древ'старна"
+ BOTHAN_SHIP_heart_of_kurual_grast: "Сердце Куруал'граста"
+ BOTHAN_SHIP_handler: "Обработчик"
+ BOTHAN_SHIP_fifth_column: "Пятая колонна"
+ BOTHAN_SHIP_cloaker: "Маскировщик"
+ BOTHAN_SHIP_stiletto: "Стилет"
+ BOTHAN_SHIP_garrote: "Удавка"
+ BOTHAN_SHIP_kar_shak: "Кар-шак"
+ BOTHAN_SHIP_lue_sang: "Лу-сан"
+ BOTHAN_SHIP_lyaer_tsa: "Ляэр-ца"
+ BOTHAN_SHIP_petar: "Петар"
+ BOTHAN_SHIP_vamblade: "Вамблейд"
+ BOTHAN_SHIP_slicewire: "Слайсвайр"
+ BOTHAN_SHIP_stranglestick: "Удавка"
+ BOTHAN_SHIP_strangler: "Душитель"
+ BOTHAN_SHIP_warspear: "Боевое копье"
+ BOTHAN_SHIP_zhaboka: "Жабока"
+ BOTHAN_SHIP_power_of_knowledge: "Сила знания"
+ BOTHAN_SHIP_patsy: "Пэтси"
+ BOTHAN_SHIP_terminator: "Терминатор"
+ BOTHAN_SHIP_liquidator: "Ликвидатор"
+ BOTHAN_SHIP_deception: "Обман"
+ BOTHAN_SHIP_deceptor: "Обманщик"
+ BOTHAN_SHIP_pretender: "Самозванец"
+ BOTHAN_SHIP_facade: "Фасад"
+ BOTHAN_SHIP_dissimulator: "Притворщик"
+ BOTHAN_SHIP_subterfuge: "Уловка"
+ BOTHAN_SHIP_apparition: "Видение"
+ BOTHAN_SHIP_specter: "Призрак"
+ BOTHAN_SHIP_spirit_of_twilight: "Дух сумерек"
+ BOTHAN_SHIP_shadow: "Тень"
+ BOTHAN_SHIP_eidolon: "Призрак"
+ BOTHAN_SHIP_revenant: "Выживший"
+ BOTHAN_SHIP_shade: "Тень"
+ BOTHAN_SHIP_phantasm: "Фантазм"
+ BOTHAN_SHIP_veil_of_ignorance: "Завеса невежества"
+ BOTHAN_SHIP_obscurant: "Мракобес"
+ BOTHAN_SHIP_midnight_shroud: "Полуночный саван"
+ BOTHAN_SHIP_dissembler: "Распространитель"
+ BOTHAN_SHIP_constancy_of_struggle: "Постоянство борьбы"
+ BOTHAN_SHIP_stinger: "Стингер"
+ BOTHAN_SHIP_final_barb: "Последняя колкость"
+ BOTHAN_SHIP_finality: "Окончательность"
+ BOTHAN_SHIP_initative: "Инициативный"
+ BOTHAN_SHIP_voice_of_reason: "Голос разума"
+ BOTHAN_SHIP_ar_krai: "Ар'край"
+ BOTHAN_SHIP_true_victory: "Настоящая Победа"
+ BOTHAN_SHIP_razor: "Бритва"
+ BOTHAN_SHIP_fade: "Исчезать"
+ BOTHAN_SHIP_precision: "Точность"
+ BOTHAN_SHIP_firestorm: "Огненный шторм"
+ BOTHAN_SHIP_initiator: "Инициатор"
+ BOTHAN_SHIP_drashtine: "Драштайн"
+ BOTHAN_SHIP_disruptor: "Разрушитель"
+ BOTHAN_SHIP_kothlis_morning: "Утро в Котлисе"
+ BOTHAN_SHIP_wrendui: "Врендуи"
+ BOTHAN_SHIP_torolis: "Торолис"
+ BOTHAN_SHIP_gambit: "Гамбит"
+ BOTHAN_SHIP_martyrdom: "Мученичество"
+ BOTHAN_SHIP_sacrifice: "Жертва"
+ BOTHAN_SHIP_hecatomb: "Гекатомба"
+ BOTHAN_SHIP_ast_ria: "Астрия"
+ BOTHAN_SHIP_botani: "Ботани"
+ BOTHAN_SHIP_doomer: "Обреченный"
+ BOTHAN_SHIP_fastooni: "Фастуни"
+ BOTHAN_SHIP_fey_lya_s_pride: "Гордость Фей'лии"
+ BOTHAN_SHIP_jade: "Нефрит"
+ BOTHAN_SHIP_starfaring: "Путешествие по звездам"
+ BOTHAN_SHIP_swen: "Свен"
+ BOTHAN_SHIP_tal_cara: "Тал'кара"
+ BOTHAN_SHIP_intruder: "Злоумышленник"
+ BOTHAN_SHIP_tauuni: "Таууни"
+ BOTHAN_SHIP_timoth: "Тимофей"
+ BOTHAN_SHIP_4: "Четвёрка"
+ BOTHAN_SHIP_triuna: "Триуна"
+ BOTHAN_SHIP_tuana: "Тууна"
+ BOTHAN_SHIP_struggle: "Борьба"
+ BOTHAN_SHIP_necessary_evil: "Необходимое зло"
+ BOTHAN_SHIP_march_exalted: "Марш возвышенный"
+ BOTHAN_SHIP_besk: "Бэск"
+ BOTHAN_SHIP_karka: "Карка"
+ BOTHAN_SHIP_koth: "Кот"
+ BOTHAN_SHIP_traest_zikri: "Траест Зикри"
+ BOTHAN_SHIP_oktrem: "Октябрь"
+ BOTHAN_SHIP_eshka: "Ешка"
+ BOTHAN_SHIP_liska: "Лиска"
+ BOTHAN_SHIP_tereez: "Терез"
+ BOTHAN_SHIP_wist: "Вист"
+ BOTHAN_SHIP_sprite: "Спрайт"
+ BOTHAN_SHIP_ops_nyzh: "Оперативный"
+ BOTHAN_SHIP_biree: "Бири"
+ BOTHAN_SHIP_bura: "Бура"
+ BOTHAN_SHIP_impossible: "Невозможность"
+ BOTHAN_SHIP_notorious: "Печально известный"
+ BOTHAN_SHIP_zero_dark: "Нулевая темнота"
+ BOTHAN_SHIP_kinetic: "Кинетический"
+ BOTHAN_SHIP_vantage: "Преимущество"
+ BOTHAN_SHIP_advantage: "Превосходство"
+ BOTHAN_SHIP_vanisher: "Исчезающий"
+ BOTHAN_SHIP_charade: "Шарада"
+ BOTHAN_SHIP_mirage: "Мираж"
+ BOTHAN_SHIP_capricious: "Капризный"
+ BOTHAN_SHIP_sanctioned: "Санкционированный"
+ BOTHAN_SHIP_second_protocol: "Второй протокол"
+ BOTHAN_SHIP_conspirator: "Заговорщик"
+ BOTHAN_SHIP_jackal: "Шакал"
+ BOTHAN_SHIP_breacher: "Нарушитель"
+ BOTHAN_SHIP_eagle_eye: "Орлиный глаз"
+ BOTHAN_SHIP_duplicity: "Двуличие"
+ BOTHAN_SHIP_duplicitous: "Двуличный"
+ BOTHAN_SHIP_fair_game: "Честная игра"
+ BOTHAN_SHIP_haywire: "Сумасшедший"
+ BOTHAN_SHIP_spyder: "Спайдер"
+ BOTHAN_SHIP_dusk_eagle: "Сумеречный орел"
+ BOTHAN_SHIP_flux: "Поток"
+ BOTHAN_SHIP_blacklist: "Черный список"
+ BOTHAN_SHIP_notice_of_ignition: "Знамение возгорания"
+ BOTHAN_SHIP_smiley: "Смайлик"
+ BOTHAN_SHIP_archer: "Лучник"
+ BOTHAN_SHIP_striker: "Нападающий"
+ BOTHAN_SHIP_treadstone: "Тредстоун"
+ BOTHAN_SHIP_emergent: "Возникающий"
+ BOTHAN_SHIP_fog_of_war: "Туман войны"
+ BOTHAN_SHIP_false_face: "Фальшивое лицо"
+ BOTHAN_SHIP_nostrum: "Нострум"
+ BOTHAN_SHIP_sea_ghost: "Морской призрак"
+ BOTHAN_SHIP_grey_zhellday: "Серый Желдай"
+ BOTHAN_SHIP_prime_of_life: "Расцвет жизни"
+ BOTHAN_SHIP_grey_eminence: "Серое Преосвященство"
+ BOTHAN_SHIP_flanker: "Фланкер"
+ BOTHAN_SHIP_daring: "Дерзкий"
+ BOTHAN_SHIP_survivor: "Выживший"
+ BOTHAN_SHIP_snow_feather: "Снежное перо"
+ BOTHAN_SHIP_sapper: "Сапер"
+ BOTHAN_SHIP_tear_of_the_sun: "Слеза солнца"
+ BOTHAN_SHIP_underminer: "Подрывник"
+ BOTHAN_SHIP_harasser: "Преследователь"
+ BOTHAN_SHIP_downfall: "Падение"
+ BOTHAN_SHIP_ganjuko: "Ганджуко"
+ BOTHAN_SHIP_halkra: "Халкра"
+ BOTHAN_SHIP_velhom_starn: "Вельхом'старн"
+ BOTHAN_SHIP_liah_starn: "Лиах'старн"
+ BOTHAN_SHIP_odve_starn: "Одна звезда"
+ BOTHAN_SHIP_dreel_starn: "Дрил'старн"
+ BOTHAN_SHIP_drev_starn: "Древ'старн"
+ BOTHAN_SHIP_holm_starn: "Холмстарн"
+ BOTHAN_SHIP_mesdri_starn: "Месдри'старн"
+ BOTHAN_SHIP_rhan_starn: "Ран'старн"
+ BOTHAN_SHIP_sal_vhe_starn: "Сэл В'Старн"
+ BOTHAN_SHIP_greik_eternal: "Вечный Грек"
+ BOTHAN_SHIP_hero_of_bothawui: "Герой Ботавуи"
+ BOTHAN_SHIP_warspoken: "Говорящие на войне"
+ BOTHAN_SHIP_measure_of_necessity: "Мера необходимости"
+ BOTHAN_SHIP_visage: "Облик"
+ BOTHAN_SHIP_intercessor: "Заступник"
+ BOTHAN_SHIP_talisman: "Талисман"
+ BOTHAN_SHIP_crescent: "Полумесяц"
+ BOTHAN_SHIP_diligent: "Прилежный"
+ BOTHAN_SHIP_informant: "Информатор"
+ BOTHAN_SHIP_enigmatic: "Загадочный"
+ BOTHAN_SHIP_considerator: "Наблюдатель"
+ BOTHAN_SHIP_starfarer: "Звездный странник"
+ BOTHAN_SHIP_temerity: "Безрассудство"
+ BOTHAN_SHIP_network_above: "Сеть выше"
+ BOTHAN_SHIP_system_of_alacrity: "Система готовности"
+ BOTHAN_SHIP_unflinching: "Непоколебимый"
+ BOTHAN_SHIP_examiner: "Экзаменатор"
+ BOTHAN_SHIP_inspector: "Инспектор"
+ BOTHAN_SHIP_fiat_lux: "Фиат Люкс"
+ BOTHAN_SHIP_cold_pursuit: "хладнокровное преследование"
+ BOTHAN_SHIP_taker_of_dues: "Сборщик взносов"
+ BOTHAN_SHIP_rightful_place: "Законное место"
+ BOTHAN_SHIP_manifest_opportunity: "Явная возможность"
+ BOTHAN_SHIP_necessity: "Необходимость"
+ BOTHAN_SHIP_potentate_express: "Экспресс Властелина"
+ BOTHAN_SHIP_honor_among_clans: "Честь среди кланов"
+ BOTHAN_SHIP_colonist_spirit: "Дух колониста"
+ BOTHAN_SHIP_remaker: "Ремейкер"
+ BOTHAN_SHIP_solar_chariot: "Солнечная колесница"
+ BOTHAN_SHIP_apex_dawn: "Рассвет вершины"
+ BOTHAN_SHIP_opportunist: "Оппортунист"
+ BOTHAN_SHIP_first_mover: "Первопроходец"
+ BOTHAN_SHIP_warren: "Уоррен"
+ BOTHAN_SHIP_axial: "Осевой"
+ BOTHAN_SHIP_exodus: "Исход"
+ BOTHAN_SHIP_foundation: "Основание"
+ BOTHAN_SHIP_scion_of_both: "Отпрыск Обоих"
+ BOTHAN_SHIP_wayward: "Своенравный"
+ BOTHAN_SHIP_progeny: "Потомство"
+ BOTHAN_SHIP_pennance: "Пеннанс"
+ BOTHAN_SHIP_obligation: "Обязательство"
+ BOTHAN_SHIP_purpose: "Цель"
+ BOTHAN_SHIP_provider: "Провайдер"
+ BOTHAN_SHIP_greyflower: "Грейфлауэр"
+ BOTHAN_SHIP_junevine: "Июневайн"
+ BOTHAN_SHIP_last_call: "Последний звонок"
+ BOTHAN_SHIP_one_way: "В одну сторону"
+ BOTHAN_SHIP_avowed: "Признанный"
+ BOTHAN_SHIP_communal: "Коммуналка"
+ BOTHAN_SHIP_foalier: "Жеребенок"
+ BOTHAN_SHIP_lathe: "Токарный станок"
+ BOTHAN_SHIP_perfectionist: "Перфекционист"
+ BOTHAN_SHIP_perfector: "Совершенствующийся"
+ BOTHAN_SHIP_artisan: "Ремесленник"
+ BOTHAN_SHIP_hierophant: "Иерофант"
+ BOTHAN_SHIP_sculpter: "Скульптор"
+ BOTHAN_SHIP_grunt_work: "Тяжелая работа"
+ BOTHAN_SHIP_reshaper: "Преобразователь"
+ BOTHAN_SHIP_oscilacion: "Колебание"
+ BOTHAN_SHIP_tessellation: "Мозаика"
+ BOTHAN_SHIP_girder: "Балка"
+ BOTHAN_SHIP_nexuramus: "Нексурамус"
+ BOTHAN_SHIP_circuiter: "Схема"
+ BOTHAN_SHIP_creator: "Создатель"
+ BOTHAN_SHIP_hyperbola: "Гипербола"
+ BOTHAN_SHIP_gyromancer: "Гиромант"
+ BOTHAN_SHIP_pseudoist: "Псевдоист"
+ BOTHAN_SHIP_factorial: "Факториал"
+ BOTHAN_SHIP_quotient_of_labor: "Коэффициент трудоспособности"
+ BOTHAN_SHIP_algorithm: "Алгоритм"
+ BOTHAN_SHIP_equator: "Экватор"
+ BOTHAN_SHIP_accommodator: "Жилец"
+ BOTHAN_SHIP_practicality: "Практичность"
+ BOTHAN_SHIP_cardinal: "Кардинал"
+ BOTHAN_SHIP_coefficeint: "Коэффициент"
+ BOTHAN_SHIP_compositor: "Композитор"
+ BOTHAN_SHIP_congruent: "Конгруэнтный"
+ BOTHAN_SHIP_fractal: "Фрактал"
+ BOTHAN_SHIP_exponentiator: "Экспоненциатор"
+ BOTHAN_SHIP_curvator: "Искривитель"
+ BOTHAN_SHIP_logos: "Логотипы"
+ BOTHAN_SHIP_modulator: "Модулятор"
+ BOTHAN_SHIP_folly_of_distribution: "Глупость распространения"
+ BOTHAN_SHIP_paradox: "Парадокс"
+ BOTHAN_SHIP_ground_transport: "Наземный транспорт"
+ BOTHAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ BOTHAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ BOTHAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ BOTHAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ BOTHAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ BOTHAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ BOTHAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ BOTHAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ BOTHAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ BOTHAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ BOTHAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ BOTHAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ BOTHAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ BOTHAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ BOTHAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ BOTHAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ BOTHAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ BOTHAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ BOTHAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ BOTHAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ BOTHAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ BOTHAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ BOTHAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ BOTHAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ BOTHAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ BOTHAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ BOTHAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ BOTHAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ BOTHAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ BOTHAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ BOTHAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ BOTHAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ BOTHAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ BOTHAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ BOTHAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ BOTHAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ BOTHAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ BOTHAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ BOTHAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ BOTHAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ BOTHAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ BOTHAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ BOTHAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ BOTHAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ BOTHAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ BOTHAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ BOTHAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ BOTHAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ BOTHAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ BOTHAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ BOTHAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ BOTHAN_SHIP_outpost: "Аванпост"
+ BOTHAN_SHIP_blee: "Блии"
+ BOTHAN_SHIP_breil: "Брейл"
+ BOTHAN_SHIP_covepi: "Ковепи"
+ BOTHAN_SHIP_dreel: "Дрель"
+ BOTHAN_SHIP_feyve: "Фейв"
+ BOTHAN_SHIP_fey: "Фейри"
+ BOTHAN_SHIP_gna_shre: "Гна Шре"
+ BOTHAN_SHIP_gre_shev: "Гре Шев"
+ BOTHAN_SHIP_holm: "Холм"
+ BOTHAN_SHIP_kolme: "Колме"
+ BOTHAN_SHIP_liah: "Лиах"
+ BOTHAN_SHIP_lktim: "Лктим"
+ BOTHAN_SHIP_mesdri: "Месдри"
+ BOTHAN_SHIP_navshe: "Навше"
+ BOTHAN_SHIP_odve: "Одве"
+ BOTHAN_SHIP_rhan: "Рхан"
+ BOTHAN_SHIP_sal_vhe: "Сэл Вэ"
+ BOTHAN_SHIP_shevre: "Шевре"
+ BOTHAN_SHIP_urval: "Урвал"
+ BOTHAN_SHIP_velhom: "Вельхом"
+ BOTHAN_SHIP_drev: "Древ"
+ BOTHAN_SHIP_starn: "Старн"
+ BOTHAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ BOTHAN_SHIP_ballista: "Баллиста"
+ BOTHAN_SHIP_catapult: "Космическая пушка Катапульта"
+ BOTHAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ BOTHAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ BOTHAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ BOTHAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ BOTHAN_SHIP_CLASS_cr_90: "CR-90"
+ BOTHAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ BOTHAN_SHIP_CLASS_lupus: "Люпус"
+ BOTHAN_SHIP_CLASS_asdroni: "Асдрони"
+ BOTHAN_SHIP_CLASS_customs: "Таможня"
+ BOTHAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ BOTHAN_SHIP_CLASS_scurge: "Мерзость"
+ BOTHAN_SHIP_CLASS_krayt: "Крайт"
+ BOTHAN_SHIP_CLASS_diamond: "Бриллиант"
+ BOTHAN_SHIP_CLASS_etti: "Этти"
+ BOTHAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ BOTHAN_SHIP_CLASS_vigil: "Бдение"
+ BOTHAN_SHIP_CLASS_dp20: "DP20"
+ BOTHAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ BOTHAN_SHIP_CLASS_raider: "Рейдер"
+ BOTHAN_SHIP_CLASS_dornean: "Дорнейский"
+ BOTHAN_SHIP_CLASS_crusader: "Крестоносец"
+ BOTHAN_SHIP_CLASS_marauder: "Мародер"
+ BOTHAN_SHIP_CLASS_arquitens: "Аркитенс"
+ BOTHAN_SHIP_CLASS_kiltirin: "Килтирин"
+ BOTHAN_SHIP_CLASS_pelta: "Пельта"
+ BOTHAN_SHIP_CLASS_pinnace: "Катер"
+ BOTHAN_SHIP_CLASS_nova: "Нова"
+ BOTHAN_SHIP_CLASS_vigilance: "Бдительность"
+ BOTHAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ BOTHAN_SHIP_CLASS_cg_273: "CG-273"
+ BOTHAN_SHIP_CLASS_kariek: "Кариек"
+ BOTHAN_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ BOTHAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ BOTHAN_SHIP_CLASS_lancer: "Лансер"
+ BOTHAN_SHIP_CLASS_teroch: "Терох"
+ BOTHAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ BOTHAN_SHIP_CLASS_nova_ii: "Нова II"
+ BOTHAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ BOTHAN_SHIP_CLASS_velox: "Велокс"
+ BOTHAN_SHIP_CLASS_mc30c: "MC30c"
+ BOTHAN_SHIP_CLASS_vengeance: "Месть"
+ BOTHAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ BOTHAN_SHIP_CLASS_cc_7700: "CC-7700"
+ BOTHAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ BOTHAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ BOTHAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ BOTHAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ BOTHAN_SHIP_CLASS_sabaoth: "Саваоф"
+ BOTHAN_SHIP_CLASS_kontos: "Контос"
+ BOTHAN_SHIP_CLASS_mc40: "MC40"
+ BOTHAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ BOTHAN_SHIP_CLASS_broadside: "Залп"
+ BOTHAN_SHIP_CLASS_protector: "Защитник"
+ BOTHAN_SHIP_CLASS_warlord: "Военачальник"
+ BOTHAN_SHIP_CLASS_gladiator: "Гладиатор"
+ BOTHAN_SHIP_CLASS_beviin: "Бевиин"
+ BOTHAN_SHIP_CLASS_liberator: "Освободитель"
+ BOTHAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ BOTHAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ BOTHAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ BOTHAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ BOTHAN_SHIP_CLASS_massias: "Массиас"
+ BOTHAN_SHIP_CLASS_dreadnought: "Дредноут"
+ BOTHAN_SHIP_CLASS_kyramud: "Кирамуд"
+ BOTHAN_SHIP_CLASS_munificent: "Щедрый"
+ BOTHAN_SHIP_CLASS_prosvoli: "Просволи"
+ BOTHAN_SHIP_CLASS_acclamator: "Аккламатор"
+ BOTHAN_SHIP_CLASS_lictor: "Ликтор"
+ BOTHAN_SHIP_CLASS_bulwark: "Оплот"
+ BOTHAN_SHIP_CLASS_victory_i: "Победа I"
+ BOTHAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ BOTHAN_SHIP_CLASS_bulk: "Массивный"
+ BOTHAN_SHIP_CLASS_vindicator: "Защитник"
+ BOTHAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ BOTHAN_SHIP_CLASS_captor: "Похититель"
+ BOTHAN_SHIP_CLASS_au_riette: "О'риетт"
+ BOTHAN_SHIP_CLASS_mc55: "MC55"
+ BOTHAN_SHIP_CLASS_afthonia: "Афтония"
+ BOTHAN_SHIP_CLASS_victory_ii: "Победа II"
+ BOTHAN_SHIP_CLASS_beroya: "Бероя"
+ BOTHAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ BOTHAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ BOTHAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ BOTHAN_SHIP_CLASS_venator: "Венатор"
+ BOTHAN_SHIP_CLASS_centurion: "Центурион"
+ BOTHAN_SHIP_CLASS_mc75: "MC75"
+ BOTHAN_SHIP_CLASS_kandosii: "Кандосии"
+ BOTHAN_SHIP_CLASS_corellian: "Кореллианский"
+ BOTHAN_SHIP_CLASS_providence: "Провидение"
+ BOTHAN_SHIP_CLASS_syndic: "Синдик"
+ BOTHAN_SHIP_CLASS_recusant: "Отступник"
+ BOTHAN_SHIP_CLASS_invincible: "Непобедимый"
+ BOTHAN_SHIP_CLASS_imperial_i: "Имперский I"
+ BOTHAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ BOTHAN_SHIP_CLASS_procursator: "Прокурсатор"
+ BOTHAN_SHIP_CLASS_mc80a: "MC80a"
+ BOTHAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ BOTHAN_SHIP_CLASS_aggressor: "Агрессор"
+ BOTHAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ BOTHAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ BOTHAN_SHIP_CLASS_keldabe: "Келдабе"
+ BOTHAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ BOTHAN_SHIP_CLASS_chaf: "Чаф"
+ BOTHAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ BOTHAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ BOTHAN_SHIP_CLASS_ascendancy: "Господство"
+ BOTHAN_SHIP_CLASS_dominator: "Властелин"
+ BOTHAN_SHIP_CLASS_allegiance: "Верность"
+ BOTHAN_SHIP_CLASS_lucrehulk: "Барышник"
+ BOTHAN_SHIP_CLASS_phalanx: "Фаланга"
+ BOTHAN_SHIP_CLASS_titan: "Титан"
+ BOTHAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ BOTHAN_SHIP_CLASS_star_home: "Звездный дом"
+ BOTHAN_SHIP_CLASS_subjugator: "Покоритель"
+ BOTHAN_SHIP_CLASS_bellator: "Беллатор"
+ BOTHAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ BOTHAN_SHIP_CLASS_executor: "Палач"
+ BOTHAN_FLEET_response_element_ORD: "$ORD$ Элемент ответа"
+ BOTHAN_ARMY_planetary_guard_ORD: "$ORD$ планетарная стража"
+ BOTHAN_ARMY_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус"
+ BOTHAN_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ BOTHAN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ BOTHAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ BOTHAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ BOTHAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ BOTHAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ BOTHAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ BOTHAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ BOTHAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ BOTHAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ BOTHAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ BOTHAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ BOTHAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ BOTHAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ BOTHAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ BOTHAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ BOTHAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ BOTHAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ BOTHAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ BOTHAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ BOTHAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ BOTHAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ BOTHAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ BOTHAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ BOTHAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ BOTHAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ BOTHAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ BOTHAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ BOTHAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ BOTHAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ BOTHAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ BOTHAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ BOTHAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ BOTHAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ BOTHAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ BOTHAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ BOTHAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ BOTHAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ BOTHAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ BOTHAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ BOTHAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ BOTHAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ BOTHAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ BOTHAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ BOTHAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ BOTHAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ BOTHAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ BOTHAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ BOTHAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ BOTHAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ BOTHAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ BOTHAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ BOTHAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ BOTHAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ BOTHAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ BOTHAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ BOTHAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ BOTHAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ BOTHAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ BOTHAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ BOTHAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ BOTHAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ BOTHAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ BOTHAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ BOTHAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ BOTHAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ BOTHAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ BOTHAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ BOTHAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ BOTHAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ BOTHAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ BOTHAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ BOTHAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ BOTHAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ BOTHAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ BOTHAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ BOTHAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ BOTHAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ BOTHAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ BOTHAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ BOTHAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ BOTHAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ BOTHAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ BOTHAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ BOTHAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ BOTHAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ BOTHAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ BOTHAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ BOTHAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ BOTHAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ BOTHAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ BOTHAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ BOTHAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ BOTHAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ BOTHAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ BOTHAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ BOTHAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ BOTHAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ BOTHAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ BOTHAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ BOTHAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ BOTHAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ BOTHAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ BOTHAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ BOTHAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ BOTHAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ BOTHAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ BOTHAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ BOTHAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ BOTHAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ BOTHAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ BOTHAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ BOTHAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ BOTHAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ BOTHAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ BOTHAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ BOTHAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ BOTHAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ BOTHAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ BOTHAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ BOTHAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ BOTHAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ BOTHAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ BOTHAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ BOTHAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ BOTHAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ BOTHAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ BOTHAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ BOTHAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ BOTHAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ BOTHAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ BOTHAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ BOTHAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ BOTHAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ BOTHAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ BOTHAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ BOTHAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ BOTHAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ BOTHAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ BOTHAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ BOTHAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ BOTHAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ BOTHAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ BOTHAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ BOTHAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ BOTHAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ BOTHAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ BOTHAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ BOTHAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ BOTHAN_CHR_tereb: "Тереб"
+ BOTHAN_CHR_fen: "Фен"
+ BOTHAN_CHR_shrithek: "Шритек"
+ BOTHAN_CHR_bey_wan: "Бейван"
+ BOTHAN_CHR_herosk: "Герой"
+ BOTHAN_CHR_eddey: "Эдди"
+ BOTHAN_CHR_taak: "Таак"
+ BOTHAN_CHR_eelo: "Ило"
+ BOTHAN_CHR_nysis: "Нисис"
+ BOTHAN_CHR_geay: "Гэай"
+ BOTHAN_CHR_champhra: "Чампра"
+ BOTHAN_CHR_toric: "Торик"
+ BOTHAN_CHR_sli_woon: "Сли'ун"
+ BOTHAN_CHR_kamtis: "Камтис"
+ BOTHAN_CHR_elwis: "Элвис"
+ BOTHAN_CHR_tav: "Тав"
+ BOTHAN_CHR_arkhan: "Архан"
+ BOTHAN_CHR_gursan: "Гурсан"
+ BOTHAN_CHR_varesk: "Вареск"
+ BOTHAN_CHR_eramuth: "Эрамут"
+ BOTHAN_CHR_nek: "Нек"
+ BOTHAN_CHR_yantahar: "Янтахар"
+ BOTHAN_CHR_obrio: "Обрио"
+ BOTHAN_CHR_corl_ya: "Корля"
+ BOTHAN_CHR_aren: "Арен"
+ BOTHAN_CHR_dakkar: "Даккар"
+ BOTHAN_CHR_karka: "Карка"
+ BOTHAN_CHR_laryn: "Ларин"
+ BOTHAN_CHR_moss: "Мох"
+ BOTHAN_CHR_fadulk: "Фадулк"
+ BOTHAN_CHR_dravos: "Дравос"
+ BOTHAN_CHR_tiurrg: "Тиуррг"
+ BOTHAN_CHR_kalibar: "Калибар"
+ BOTHAN_CHR_liskran: "Лискран"
+ BOTHAN_CHR_sayar: "Сайар"
+ BOTHAN_CHR_byalfin: "Бьялфин"
+ BOTHAN_CHR_girov: "Гиров"
+ BOTHAN_CHR_eocade: "Эокад"
+ BOTHAN_CHR_mak: "Мак"
+ BOTHAN_CHR_korowee: "Корови"
+ BOTHAN_CHR_korsin__the_spyder_: "Корсин-паук"
+ BOTHAN_CHR_tchaw: "Чо"
+ BOTHAN_CHR_bal: "Бал"
+ BOTHAN_CHR_golm: "Гольм"
+ BOTHAN_CHR_torel: "Торел"
+ BOTHAN_CHR_borsk: "Борск"
+ BOTHAN_CHR_desark: "Десарк"
+ BOTHAN_CHR_oneron: "Онерон"
+ BOTHAN_CHR_rolai: "Ролай"
+ BOTHAN_CHR_galody: "Галоди"
+ BOTHAN_CHR_garul: "Гарул"
+ BOTHAN_CHR_jaylon: "Джейлон"
+ BOTHAN_CHR_grendu: "Гренду"
+ BOTHAN_CHR_hawj: "Хавдж"
+ BOTHAN_CHR_kai: "Кай"
+ BOTHAN_CHR_tresk: "Треск"
+ BOTHAN_CHR_rund: "Рунд"
+ BOTHAN_CHR_lith: "Лит"
+ BOTHAN_CHR_tathak: "Татхак"
+ BOTHAN_CHR_narsk: "Нарск"
+ BOTHAN_CHR_soor: "Сур"
+ BOTHAN_CHR_kasck: "Каск"
+ BOTHAN_CHR_breggs: "Бреггс"
+ BOTHAN_CHR_wesk: "Веск"
+ BOTHAN_CHR_traest: "Траест"
+ BOTHAN_CHR_crost: "Крост"
+ BOTHAN_CHR_siv_rool: "Сив'рул"
+ BOTHAN_CHR_krask_ka: "Краска"
+ BOTHAN_CHR_ne_wha: "Невха"
+ BOTHAN_CHR_tensh: "Тенш"
+ BOTHAN_CHR_bem: "Бем"
+ BOTHAN_CHR_kursk: "Курск"
+ BOTHAN_CHR_koth: "Кот"
+ BOTHAN_CHR_merkur: "Меркур"
+ BOTHAN_CHR_hyx: "Никс"
+ BOTHAN_CHR_bandor: "Бандор"
+ BOTHAN_CHR_moril: "Морил"
+ BOTHAN_CHR_betrek: "Ветрик"
+ BOTHAN_CHR_velst: "Вельст"
+ BOTHAN_CHR_kutri: "Кутри"
+ BOTHAN_CHR_ceok: "Цеок"
+ BOTHAN_CHR_oryon: "Орион"
+ BOTHAN_CHR_ota: "Ота"
+ BOTHAN_CHR_mish: "Миш"
+ BOTHAN_CHR_pobos: "Побос"
+ BOTHAN_CHR_salix: "Саликс"
+ BOTHAN_CHR_utric: "Утрик"
+ BOTHAN_CHR_avke: "Авке"
+ BOTHAN_CHR_polo: "Поло"
+ BOTHAN_CHR_gatrar: "Гатрар"
+ BOTHAN_CHR_sihha: "Сихха"
+ BOTHAN_CHR_corask: "Кораск"
+ BOTHAN_CHR_snayd: "Снайд"
+ BOTHAN_CHR_staarn: "Стаарн"
+ BOTHAN_CHR_diskret: "Дискретный"
+ BOTHAN_CHR_sunnim: "Сунним"
+ BOTHAN_CHR_ch_ord: "Аккорд"
+ BOTHAN_CHR_yur: "Юр"
+ BOTHAN_CHR_breyf: "Брейф"
+ BOTHAN_CHR_vin: "Вин"
+ BOTHAN_CHR_wachs: "Вачс"
+ BOTHAN_CHR_skaelor: "Скаэлор"
+ BOTHAN_CHR_morst: "Морст"
+ BOTHAN_CHR_eurrsk: "Эуррск"
+ BOTHAN_CHR_ne_thruska: "Нэй Труска"
+ BOTHAN_CHR_diss: "Дисс"
+ BOTHAN_CHR_tirossk: "Тироск"
+ BOTHAN_CHR_trask: "Траск"
+ BOTHAN_CHR_savielk: "Савельк"
+ BOTHAN_CHR_hosk: "Хоск"
+ BOTHAN_CHR_chaw: "Чау"
+ BOTHAN_CHR_arenecio: "Аренецио"
+ BOTHAN_CHR_arkis: "Аркис"
+ BOTHAN_CHR_knol: "Кнол"
+ BOTHAN_CHR_karaksk: "Каракск"
+ BOTHAN_CHR_peshk: "Пешк"
+ BOTHAN_CHR_yas_tua: "Ястуа"
+ BOTHAN_CHR_jennalyn: "Дженналин"
+ BOTHAN_CHR_saiga: "Сайга"
+ BOTHAN_CHR_bie: "Бий"
+ BOTHAN_CHR_cidri: "Сидри"
+ BOTHAN_CHR_henna: "Хна"
+ BOTHAN_CHR_liska: "Лиска"
+ BOTHAN_CHR_asyr: "Асир"
+ BOTHAN_CHR_maxeena: "Максина"
+ BOTHAN_CHR_tereez: "Терез"
+ BOTHAN_CHR_edue: "Эдуэ"
+ BOTHAN_CHR_escra: "Эскра"
+ BOTHAN_CHR_sona: "Сона"
+ BOTHAN_CHR_lercer: "Лерсер"
+ BOTHAN_CHR_kiyr: "Кийр"
+ BOTHAN_CHR_glynn_beti: "Глинн-Бети"
+ BOTHAN_CHR_haskit: "Хаскит"
+ BOTHAN_CHR_hev_sin: "Хев'син"
+ BOTHAN_CHR_kolir: "Колир"
+ BOTHAN_CHR_jural: "Джюрал"
+ BOTHAN_CHR_brona: "Брона"
+ BOTHAN_CHR_fenn: "Фенн"
+ BOTHAN_CHR_rasher: "Рашер"
+ BOTHAN_CHR_prisk: "Приск"
+ BOTHAN_CHR_talva: "Талва"
+ BOTHAN_CHR_shayl: "Шейл"
+ BOTHAN_CHR_leika: "Лейка"
+ BOTHAN_CHR_lelsk: "Лельск"
+ BOTHAN_CHR_masi: "Маси"
+ BOTHAN_CHR_vella: "Велла"
+ BOTHAN_CHR_jovel: "Джовел"
+ BOTHAN_CHR_sola: "Сола"
+ BOTHAN_CHR_erisi: "Эриси"
+ BOTHAN_CHR_rhuiw: "Руиу"
+ BOTHAN_CHR_yaqeel: "Якиль"
+ BOTHAN_CHR_aja: "Аджа"
+ BOTHAN_CHR_serissu: "Сериссу"
+ BOTHAN_CHR_shan_ri: "Шан'ри"
+ BOTHAN_CHR_loza: "Лоза"
+ BOTHAN_CHR_linay: "Линей"
+ BOTHAN_CHR_cuan: "Куан"
+ BOTHAN_CHR_rava: "Рава"
+ BOTHAN_CHR_fara: "Фара"
+ BOTHAN_CHR_nwilla: "Нвилла"
+ BOTHAN_CHR_trass: "Трасса"
+ BOTHAN_CHR_tryn: "Трин"
+ BOTHAN_CHR_talya: "Талия"
+ BOTHAN_CHR_silm_an: "Сил'ман"
+ BOTHAN_CHR_ysa_i: "Йса'и"
+ BOTHAN_CHR_ab_lon: "Аблон"
+ BOTHAN_CHR_ackdo: "Акдо"
+ BOTHAN_CHR_al_lya: "Ал'лия"
+ BOTHAN_CHR_arr_yka: "Аррика"
+ BOTHAN_CHR_aygo: "Айго"
+ BOTHAN_CHR_ba_tra: "Ба'тра"
+ BOTHAN_CHR_babo: "Бабо"
+ BOTHAN_CHR_bal_far: "Бал'фар"
+ BOTHAN_CHR_banno: "Банно"
+ BOTHAN_CHR_be_ray: "Бе'рей"
+ BOTHAN_CHR_fey_la: "Фей'Ла"
+ BOTHAN_CHR_begrass: "Беграсс"
+ BOTHAN_CHR_belzara: "Бельзара"
+ BOTHAN_CHR_ber_atta: "Бер'атта"
+ BOTHAN_CHR_biahin: "Бяхин"
+ BOTHAN_CHR_bisilt: "Бисильт"
+ BOTHAN_CHR_biul: "Биул"
+ BOTHAN_CHR_bonai: "Бонаи"
+ BOTHAN_CHR_bontraar: "Бонтраар"
+ BOTHAN_CHR_breil_lya: "Брейлья"
+ BOTHAN_CHR_brem_tu: "Брем'ту"
+ BOTHAN_CHR_bryes: "Брайс"
+ BOTHAN_CHR_bura_lya: "Буралия"
+ BOTHAN_CHR_bwua_tu: "Бвуа'ту"
+ BOTHAN_CHR_caldori: "Кальдори"
+ BOTHAN_CHR_d_nore: "Д'Нор"
+ BOTHAN_CHR_d_skaun: "Д'скон"
+ BOTHAN_CHR_dan_kre: "Дан'кре"
+ BOTHAN_CHR_sei_lar: "Сей'лар"
+ BOTHAN_CHR_kre_fey: "Кре'фей"
+ BOTHAN_CHR_davian: "Дэвиан"
+ BOTHAN_CHR_dee_hars: "Ди'Харс"
+ BOTHAN_CHR_deevers: "Диверс"
+ BOTHAN_CHR_di_keer: "Дикир"
+ BOTHAN_CHR_sov_lya: "Совля"
+ BOTHAN_CHR_drey_lye: "Дрей'лай"
+ BOTHAN_CHR_droosh: "Слюнтяй"
+ BOTHAN_CHR_dulce: "Дульси"
+ BOTHAN_CHR_dun_la: "Дан'Ла"
+ BOTHAN_CHR_dyur: "Дюр"
+ BOTHAN_CHR_dza_lar: "Дза'лар"
+ BOTHAN_CHR_dza_tey: "Дза'тей"
+ BOTHAN_CHR_eshka_rey: "Эшка'рей"
+ BOTHAN_CHR_essumon: "Эссумон"
+ BOTHAN_CHR_fa_lorn: "Фа'лорн"
+ BOTHAN_CHR_fendo: "Фендо"
+ BOTHAN_CHR_ferensil: "Ференсил"
+ BOTHAN_CHR_fey_jia: "Фей'джиа"
+ BOTHAN_CHR_fey_lya: "Фей'лия"
+ BOTHAN_CHR_fil_vye: "Фильви"
+ BOTHAN_CHR_frac: "Фрак"
+ BOTHAN_CHR_for_o: "Фор'о"
+ BOTHAN_CHR_gaia: "Гея"
+ BOTHAN_CHR_gass_kin: "Гасскин"
+ BOTHAN_CHR_geissler: "Гейсслер"
+ BOTHAN_CHR_gir_sku: "Гирску"
+ BOTHAN_CHR_grai_tvo: "Грай'тво"
+ BOTHAN_CHR_grym: "Грым"
+ BOTHAN_CHR_hu_lya: "Ху'ля"
+ BOTHAN_CHR_hudorra: "Худорра"
+ BOTHAN_CHR_im_nel: "Им'нел"
+ BOTHAN_CHR_jes_ela: "Хесела"
+ BOTHAN_CHR_jid_yda: "Джид'йда"
+ BOTHAN_CHR_kalis: "Калис"
+ BOTHAN_CHR_k_roylan: "К'ройлан"
+ BOTHAN_CHR_ka_hane: "Ка'хане"
+ BOTHAN_CHR_kal_ir: "Кал'ир"
+ BOTHAN_CHR_kand_lar: "Кэнд'лар"
+ BOTHAN_CHR_kay_lay: "Кай'лай"
+ BOTHAN_CHR_ke_e: "Ке'е"
+ BOTHAN_CHR_ker_tani: "Кер'тани"
+ BOTHAN_CHR_kit_pay: "Кит'пай"
+ BOTHAN_CHR_kith_vys: "Кит'Ви"
+ BOTHAN_CHR_ko_lib: "Ко'либ"
+ BOTHAN_CHR_ko_patha: "Ко'патха"
+ BOTHAN_CHR_le_tah: "Ле'тах"
+ BOTHAN_CHR_lib_eyay: "Либ'эйай"
+ BOTHAN_CHR_lo_lar: "Ло'лар"
+ BOTHAN_CHR_lua_wan: "Луаван"
+ BOTHAN_CHR_lukaze: "Луказе"
+ BOTHAN_CHR_ly_alu: "Лиалу"
+ BOTHAN_CHR_lyu_kij: "Люкий"
+ BOTHAN_CHR_mal_ia: "Малия"
+ BOTHAN_CHR_qual: "Квал"
+ BOTHAN_CHR_melan: "Мелан"
+ BOTHAN_CHR_modant: "Модант"
+ BOTHAN_CHR_morv_vyal: "Морв'ял"
+ BOTHAN_CHR_moy_nast: "Мо'насть"
+ BOTHAN_CHR_moyan: "Моян"
+ BOTHAN_CHR_nay_sro: "Най'ро"
+ BOTHAN_CHR_ni_mai: "Ни'май"
+ BOTHAN_CHR_nial: "Ниал"
+ BOTHAN_CHR_nitram: "Нитрам"
+ BOTHAN_CHR_nosconda: "Носконда"
+ BOTHAN_CHR_o_a: "О'а"
+ BOTHAN_CHR_orou_cya: "Ору'сиа"
+ BOTHAN_CHR_paht: "Пехт"
+ BOTHAN_CHR_pers_lya: "Перселя"
+ BOTHAN_CHR_proy_skyn: "Пройскин"
+ BOTHAN_CHR_rayl_skar: "Рэйл'скар"
+ BOTHAN_CHR_reh_mwa: "Ре'мва"
+ BOTHAN_CHR_saav_etu: "Саав'эту"
+ BOTHAN_CHR_sandov: "Сандов"
+ BOTHAN_CHR_saz_ula: "Сазула"
+ BOTHAN_CHR_se_lab: "Се'лаб"
+ BOTHAN_CHR_sezala: "Сезала"
+ BOTHAN_CHR_shey_tyan: "Шейтян"
+ BOTHAN_CHR_sil_ban: "Сил'бан"
+ BOTHAN_CHR_sind_lir: "Синд'лир"
+ BOTHAN_CHR_slen_da: "Сленда"
+ BOTHAN_CHR_stahn: "Штан"
+ BOTHAN_CHR_sy_fon: "Сай'фон"
+ BOTHAN_CHR_t_aug: "Тауг"
+ BOTHAN_CHR_t_dawlish: "Т'доулиш"
+ BOTHAN_CHR_tal_benes: "Тал'бенес"
+ BOTHAN_CHR_tosk_tar_ilya: "Тоск-тариля"
+ BOTHAN_CHR_tauph: "Тауф"
+ BOTHAN_CHR_tay: "Тэй"
+ BOTHAN_CHR_tayl_skar: "Тайл'скар"
+ BOTHAN_CHR_te_tell: "Скажи"
+ BOTHAN_CHR_teb_lya: "Тебе"
+ BOTHAN_CHR_tey_flah: "Тей'флах"
+ BOTHAN_CHR_thar_lyat: "Тар'лайат"
+ BOTHAN_CHR_thri_ag: "Триаг"
+ BOTHAN_CHR_ti_wyn: "Ти'вин"
+ BOTHAN_CHR_trell_yar: "Трельяр"
+ BOTHAN_CHR_trey_dra: "Трей'дра"
+ BOTHAN_CHR_trey_lis: "Трейлис"
+ BOTHAN_CHR_tri_byia: "Три'биия"
+ BOTHAN_CHR_troillya: "Тройля"
+ BOTHAN_CHR_ulvaw_op: "Ульвав'оп"
+ BOTHAN_CHR_ur_etu: "Ур'эту"
+ BOTHAN_CHR_v_laenya: "В'леня"
+ BOTHAN_CHR_ven_nari: "Вен'нари"
+ BOTHAN_CHR_vet_lya: "Ветля"
+ BOTHAN_CHR_vord_lya: "Вордля"
+ BOTHAN_CHR_vri_skar: "Ври'скар"
+ BOTHAN_CHR_vri_syk: "Ври'сик"
+ BOTHAN_CHR_wurf_al: "Вурф'ал"
+ BOTHAN_CHR_jennala: "Дженнала"

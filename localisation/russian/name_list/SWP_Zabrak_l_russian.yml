@@ -1,935 +1,935 @@
 ﻿l_russian:
-	ZABRAK_SHIP_apologia: "Apologia" #!Empty_LineInfo!
-	ZABRAK_SHIP_penance: "Penance" #!Empty_LineInfo!
-	ZABRAK_SHIP_flagellant: "Flagellant" #!Empty_LineInfo!
-	ZABRAK_SHIP_inquisitor: "Inquisitor" #!Empty_LineInfo!
-	ZABRAK_SHIP_crusader: "Crusader" #!Empty_LineInfo!
-	ZABRAK_SHIP_benedictive: "Benedictive" #!Empty_LineInfo!
-	ZABRAK_SHIP_noblesse: "Noblesse" #!Empty_LineInfo!
-	ZABRAK_SHIP_invoker: "Invoker" #!Empty_LineInfo!
-	ZABRAK_SHIP_dedicator: "Dedicator" #!Empty_LineInfo!
-	ZABRAK_SHIP_orison: "Orison" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacrament: "Sacrament" #!Empty_LineInfo!
-	ZABRAK_SHIP_beatitude: "Beatitude" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_favor: "Divine Favor" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_light: "Divine Light" #!Empty_LineInfo!
-	ZABRAK_SHIP_godsent: "Godsent" #!Empty_LineInfo!
-	ZABRAK_SHIP_consecrator: "Consecrator" #!Empty_LineInfo!
-	ZABRAK_SHIP_ecumency: "Ecumency" #!Empty_LineInfo!
-	ZABRAK_SHIP_epochal: "Epochal" #!Empty_LineInfo!
-	ZABRAK_SHIP_dispensation: "Dispensation" #!Empty_LineInfo!
-	ZABRAK_SHIP_clemency: "Clemency" #!Empty_LineInfo!
-	ZABRAK_SHIP_absolution: "Absolution" #!Empty_LineInfo!
-	ZABRAK_SHIP_horned_crown: "Horned Crown" #!Empty_LineInfo!
-	ZABRAK_SHIP_fundamental: "Fundamental" #!Empty_LineInfo!
-	ZABRAK_SHIP_commandment: "Commandment" #!Empty_LineInfo!
-	ZABRAK_SHIP_sepulcher: "Sepulcher" #!Empty_LineInfo!
-	ZABRAK_SHIP_catacomb: "Catacomb" #!Empty_LineInfo!
-	ZABRAK_SHIP_mausoleum: "Mausoleum" #!Empty_LineInfo!
-	ZABRAK_SHIP_good_faith: "Good Faith" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacrifice: "Sacrifice" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacrificial: "Sacrificial" #!Empty_LineInfo!
-	ZABRAK_SHIP_ritual: "Ritual" #!Empty_LineInfo!
-	ZABRAK_SHIP_blooded_force: "Blooded Force" #!Empty_LineInfo!
-	ZABRAK_SHIP_reliquary: "Reliquary" #!Empty_LineInfo!
-	ZABRAK_SHIP_sunblessed: "Sunblessed" #!Empty_LineInfo!
-	ZABRAK_SHIP_blazecursed: "Blazecursed" #!Empty_LineInfo!
-	ZABRAK_SHIP_possessed: "Possessed" #!Empty_LineInfo!
-	ZABRAK_SHIP_occultant: "Occultant" #!Empty_LineInfo!
-	ZABRAK_SHIP_exile: "Exile" #!Empty_LineInfo!
-	ZABRAK_SHIP_immolator: "Immolator" #!Empty_LineInfo!
-	ZABRAK_SHIP_martyr: "Martyr" #!Empty_LineInfo!
-	ZABRAK_SHIP_fetish: "Fetish" #!Empty_LineInfo!
-	ZABRAK_SHIP_talisman: "Talisman" #!Empty_LineInfo!
-	ZABRAK_SHIP_runelord: "Runelord" #!Empty_LineInfo!
-	ZABRAK_SHIP_mortuary: "Mortuary" #!Empty_LineInfo!
-	ZABRAK_SHIP_sepulchral: "Sepulchral" #!Empty_LineInfo!
-	ZABRAK_SHIP_forsworn: "Forsworn" #!Empty_LineInfo!
-	ZABRAK_SHIP_soulsworn: "Soulsworn" #!Empty_LineInfo!
-	ZABRAK_SHIP_soulbound: "Soulbound" #!Empty_LineInfo!
-	ZABRAK_SHIP_faithful: "Faithful" #!Empty_LineInfo!
-	ZABRAK_SHIP_redeemer: "Redeemer" #!Empty_LineInfo!
-	ZABRAK_SHIP_spirit_child: "Spirit Child" #!Empty_LineInfo!
-	ZABRAK_SHIP_lost_son: "Lost Son" #!Empty_LineInfo!
-	ZABRAK_SHIP_witch_hammer: "Witch Hammer" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacrosanct: "Sacrosanct" #!Empty_LineInfo!
-	ZABRAK_SHIP_sanctity_of_battle: "Sanctity of Battle" #!Empty_LineInfo!
-	ZABRAK_SHIP_purifier: "Purifier" #!Empty_LineInfo!
-	ZABRAK_SHIP_sanctum: "Sanctum" #!Empty_LineInfo!
-	ZABRAK_SHIP_sanctified: "Sanctified" #!Empty_LineInfo!
-	ZABRAK_SHIP_initiate: "Initiate" #!Empty_LineInfo!
-	ZABRAK_SHIP_balefire: "Balefire" #!Empty_LineInfo!
-	ZABRAK_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
-	ZABRAK_SHIP_empowerment: "Empowerment" #!Empty_LineInfo!
-	ZABRAK_SHIP_savior: "Savior" #!Empty_LineInfo!
-	ZABRAK_SHIP_prophet: "Prophet" #!Empty_LineInfo!
-	ZABRAK_SHIP_mission: "Mission" #!Empty_LineInfo!
-	ZABRAK_SHIP_monastic: "Monastic" #!Empty_LineInfo!
-	ZABRAK_SHIP_doomsayer: "Doomsayer" #!Empty_LineInfo!
-	ZABRAK_SHIP_sojourner: "Sojourner" #!Empty_LineInfo!
-	ZABRAK_SHIP_blood_horn: "Blood Horn" #!Empty_LineInfo!
-	ZABRAK_SHIP_possessor: "Possessor" #!Empty_LineInfo!
-	ZABRAK_SHIP_arcane: "Arcane" #!Empty_LineInfo!
-	ZABRAK_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
-	ZABRAK_SHIP_witch_hour: "Witch Hour" #!Empty_LineInfo!
-	ZABRAK_SHIP_magos: "Magos" #!Empty_LineInfo!
-	ZABRAK_SHIP_thaumaturge: "Thaumaturge" #!Empty_LineInfo!
-	ZABRAK_SHIP_alchemist: "Alchemist" #!Empty_LineInfo!
-	ZABRAK_SHIP_redemption: "Redemption" #!Empty_LineInfo!
-	ZABRAK_SHIP_ascetic: "Ascetic" #!Empty_LineInfo!
-	ZABRAK_SHIP_sanctification: "Sanctification" #!Empty_LineInfo!
-	ZABRAK_SHIP_baptismal: "Baptismal" #!Empty_LineInfo!
-	ZABRAK_SHIP_mortis: "Mortis" #!Empty_LineInfo!
-	ZABRAK_SHIP_sigil: "Sigil" #!Empty_LineInfo!
-	ZABRAK_SHIP_practitioner: "Practitioner" #!Empty_LineInfo!
-	ZABRAK_SHIP_convert: "Convert" #!Empty_LineInfo!
-	ZABRAK_SHIP_zealot: "Zealot" #!Empty_LineInfo!
-	ZABRAK_SHIP_apostle: "Apostle" #!Empty_LineInfo!
-	ZABRAK_SHIP_atonement: "Atonement" #!Empty_LineInfo!
-	ZABRAK_SHIP_cauldron: "Cauldron" #!Empty_LineInfo!
-	ZABRAK_SHIP_apothecary: "Apothecary" #!Empty_LineInfo!
-	ZABRAK_SHIP_apotheosis: "Apotheosis" #!Empty_LineInfo!
-	ZABRAK_SHIP_totem: "Totem" #!Empty_LineInfo!
-	ZABRAK_SHIP_neophyte: "Neophyte" #!Empty_LineInfo!
-	ZABRAK_SHIP_baroque: "Baroque" #!Empty_LineInfo!
-	ZABRAK_SHIP_diviner: "Diviner" #!Empty_LineInfo!
-	ZABRAK_SHIP_soothsayer: "Soothsayer" #!Empty_LineInfo!
-	ZABRAK_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
-	ZABRAK_SHIP_preacher: "Preacher" #!Empty_LineInfo!
-	ZABRAK_SHIP_benediction: "Benediction" #!Empty_LineInfo!
-	ZABRAK_SHIP_deathbed: "Deathbed" #!Empty_LineInfo!
-	ZABRAK_SHIP_shaman: "Shaman" #!Empty_LineInfo!
-	ZABRAK_SHIP_wisewoman: "Wisewoman" #!Empty_LineInfo!
-	ZABRAK_SHIP_elder: "Elder" #!Empty_LineInfo!
-	ZABRAK_SHIP_puritan: "Puritan" #!Empty_LineInfo!
-	ZABRAK_SHIP_dirge: "Dirge" #!Empty_LineInfo!
-	ZABRAK_SHIP_hymnos: "Hymnos" #!Empty_LineInfo!
-	ZABRAK_SHIP_congregant: "Congregant" #!Empty_LineInfo!
-	ZABRAK_SHIP_gospel_of_iridonia: "Gospel of Iridonia" #!Empty_LineInfo!
-	ZABRAK_SHIP_prayer_for_iridonia: "Prayer for Iridonia" #!Empty_LineInfo!
-	ZABRAK_SHIP_shabad: "Shabad" #!Empty_LineInfo!
-	ZABRAK_SHIP_altar_of_war: "Altar of War" #!Empty_LineInfo!
-	ZABRAK_SHIP_liturgy: "Liturgy" #!Empty_LineInfo!
-	ZABRAK_SHIP_laywarrior: "Laywarrior" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_wrath: "Divine Wrath" #!Empty_LineInfo!
-	ZABRAK_SHIP_obedience: "Obedience" #!Empty_LineInfo!
-	ZABRAK_SHIP_purgatory: "Purgatory" #!Empty_LineInfo!
-	ZABRAK_SHIP_submission: "Submission" #!Empty_LineInfo!
-	ZABRAK_SHIP_eternity_s_end: "Eternity's End" #!Empty_LineInfo!
-	ZABRAK_SHIP_afterlife: "Afterlife" #!Empty_LineInfo!
-	ZABRAK_SHIP_hellfire: "Hellfire" #!Empty_LineInfo!
-	ZABRAK_SHIP_underworld: "Underworld" #!Empty_LineInfo!
-	ZABRAK_SHIP_conjurer: "Conjurer" #!Empty_LineInfo!
-	ZABRAK_SHIP_summoner: "Summoner" #!Empty_LineInfo!
-	ZABRAK_SHIP_disciple: "Disciple" #!Empty_LineInfo!
-	ZABRAK_SHIP_discipline: "Discipline" #!Empty_LineInfo!
-	ZABRAK_SHIP_messiah: "Messiah" #!Empty_LineInfo!
-	ZABRAK_SHIP_enlightened: "Enlightened" #!Empty_LineInfo!
-	ZABRAK_SHIP_purity: "Purity" #!Empty_LineInfo!
-	ZABRAK_SHIP_pious: "Pious" #!Empty_LineInfo!
-	ZABRAK_SHIP_feldrona: "Feldrona" #!Empty_LineInfo!
-	ZABRAK_SHIP_bao_dur: "Bao-Dur" #!Empty_LineInfo!
-	ZABRAK_SHIP_koon_odan: "Koon Odan" #!Empty_LineInfo!
-	ZABRAK_SHIP_confession: "Confession" #!Empty_LineInfo!
-	ZABRAK_SHIP_abthane: "Abthane" #!Empty_LineInfo!
-	ZABRAK_SHIP_chalice_of_the_faithful: "Chalice of the Faithful" #!Empty_LineInfo!
-	ZABRAK_SHIP_chosen: "Chosen" #!Empty_LineInfo!
-	ZABRAK_SHIP_communion: "Communion" #!Empty_LineInfo!
-	ZABRAK_SHIP_providence: "Providence" #!Empty_LineInfo!
-	ZABRAK_SHIP_exegesis: "Exegesis" #!Empty_LineInfo!
-	ZABRAK_SHIP_moxsha: "Moxsha" #!Empty_LineInfo!
-	ZABRAK_SHIP_orthodox_rex: "Orthodox Rex" #!Empty_LineInfo!
-	ZABRAK_SHIP_revelation: "Revelation" #!Empty_LineInfo!
-	ZABRAK_SHIP_righteous: "Righteous" #!Empty_LineInfo!
-	ZABRAK_SHIP_supplicant: "Supplicant" #!Empty_LineInfo!
-	ZABRAK_SHIP_tithe_taker: "Tithe Taker" #!Empty_LineInfo!
-	ZABRAK_SHIP_crusader_s_due: "Crusader's Due" #!Empty_LineInfo!
-	ZABRAK_SHIP_penitent_throne: "Penitent Throne" #!Empty_LineInfo!
-	ZABRAK_SHIP_golem: "Golem" #!Empty_LineInfo!
-	ZABRAK_SHIP_almighty: "Almighty" #!Empty_LineInfo!
-	ZABRAK_SHIP_judgement: "Judgement" #!Empty_LineInfo!
-	ZABRAK_SHIP_tribulation: "Tribulation" #!Empty_LineInfo!
-	ZABRAK_SHIP_resurrected: "Resurrected" #!Empty_LineInfo!
-	ZABRAK_SHIP_undying: "Undying" #!Empty_LineInfo!
-	ZABRAK_SHIP_paradise: "Paradise" #!Empty_LineInfo!
-	ZABRAK_SHIP_ordination: "Ordination" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_right: "Divine Right" #!Empty_LineInfo!
-	ZABRAK_SHIP_charisma: "Charisma" #!Empty_LineInfo!
-	ZABRAK_SHIP_affirmation: "Affirmation" #!Empty_LineInfo!
-	ZABRAK_SHIP_kataphatic: "Kataphatic" #!Empty_LineInfo!
-	ZABRAK_SHIP_mystic: "Mystic" #!Empty_LineInfo!
-	ZABRAK_SHIP_silent_choir: "Silent Choir" #!Empty_LineInfo!
-	ZABRAK_SHIP_dogma: "Dogma" #!Empty_LineInfo!
-	ZABRAK_SHIP_transcendent: "Transcendent" #!Empty_LineInfo!
-	ZABRAK_SHIP_epiphany: "Epiphany" #!Empty_LineInfo!
-	ZABRAK_SHIP_essence: "Essence" #!Empty_LineInfo!
-	ZABRAK_SHIP_arduous: "Arduous" #!Empty_LineInfo!
-	ZABRAK_SHIP_blessed: "Blessed" #!Empty_LineInfo!
-	ZABRAK_SHIP_kosmogonia: "Kosmogonia" #!Empty_LineInfo!
-	ZABRAK_SHIP_pronouncer: "Pronouncer" #!Empty_LineInfo!
-	ZABRAK_SHIP_eternal_reward: "Eternal Reward" #!Empty_LineInfo!
-	ZABRAK_SHIP_denunciator: "Denunciator" #!Empty_LineInfo!
-	ZABRAK_SHIP_exorcist: "Exorcist" #!Empty_LineInfo!
-	ZABRAK_SHIP_illuminator: "Illuminator" #!Empty_LineInfo!
-	ZABRAK_SHIP_chastisement: "Chastisement" #!Empty_LineInfo!
-	ZABRAK_SHIP_absolver: "Absolver" #!Empty_LineInfo!
-	ZABRAK_SHIP_twin_promise: "Twin Promise" #!Empty_LineInfo!
-	ZABRAK_SHIP_awakener: "Awakener" #!Empty_LineInfo!
-	ZABRAK_SHIP_guru: "Guru" #!Empty_LineInfo!
-	ZABRAK_SHIP_inner_peace: "Inner Peace" #!Empty_LineInfo!
-	ZABRAK_SHIP_involution: "Involution" #!Empty_LineInfo!
-	ZABRAK_SHIP_trial_of_koana: "Trial of Koana" #!Empty_LineInfo!
-	ZABRAK_SHIP_meditator: "Meditator" #!Empty_LineInfo!
-	ZABRAK_SHIP_mind_s_eye: "Mind's Eye" #!Empty_LineInfo!
-	ZABRAK_SHIP_vision_of_revival: "Vision of Revival" #!Empty_LineInfo!
-	ZABRAK_SHIP_theosis: "Theosis" #!Empty_LineInfo!
-	ZABRAK_SHIP_transcendental: "Transcendental" #!Empty_LineInfo!
-	ZABRAK_SHIP_incarnation: "Incarnation" #!Empty_LineInfo!
-	ZABRAK_SHIP_kao_cen: "Kao Cen" #!Empty_LineInfo!
-	ZABRAK_SHIP_purgation_s_fire: "Purgation's Fire" #!Empty_LineInfo!
-	ZABRAK_SHIP_anointed_edge: "Anointed Edge" #!Empty_LineInfo!
-	ZABRAK_SHIP_devotional: "Devotional" #!Empty_LineInfo!
-	ZABRAK_SHIP_godhead: "Godhead" #!Empty_LineInfo!
-	ZABRAK_SHIP_aurodium_gate: "Aurodium Gate" #!Empty_LineInfo!
-	ZABRAK_SHIP_mark_of_the_horn: "Mark of the Horn" #!Empty_LineInfo!
-	ZABRAK_SHIP_oblator: "Oblator" #!Empty_LineInfo!
-	ZABRAK_SHIP_enraptured: "Enraptured" #!Empty_LineInfo!
-	ZABRAK_SHIP_enthraller: "Enthraller" #!Empty_LineInfo!
-	ZABRAK_SHIP_quadlemma: "Quadlemma" #!Empty_LineInfo!
-	ZABRAK_SHIP_crown_of_horns: "Crown of Horns" #!Empty_LineInfo!
-	ZABRAK_SHIP_henshin: "Henshin" #!Empty_LineInfo!
-	ZABRAK_SHIP_admiral_numinn: "Admiral Numinn" #!Empty_LineInfo!
-	ZABRAK_SHIP_corin_tok: "Corin Tok" #!Empty_LineInfo!
-	ZABRAK_SHIP_vikto: "Vikto" #!Empty_LineInfo!
-	ZABRAK_SHIP_crimson_litany: "Crimson Litany" #!Empty_LineInfo!
-	ZABRAK_SHIP_castigator: "Castigator" #!Empty_LineInfo!
-	ZABRAK_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
-	ZABRAK_SHIP_pennance: "Pennance" #!Empty_LineInfo!
-	ZABRAK_SHIP_devotee: "Devotee" #!Empty_LineInfo!
-	ZABRAK_SHIP_nightbrother: "Nightbrother" #!Empty_LineInfo!
-	ZABRAK_SHIP_jihaval: "Jihaval" #!Empty_LineInfo!
-	ZABRAK_SHIP_fervent: "Fervent" #!Empty_LineInfo!
-	ZABRAK_SHIP_crier: "Crier" #!Empty_LineInfo!
-	ZABRAK_SHIP_witness: "Witness" #!Empty_LineInfo!
-	ZABRAK_SHIP_abiding_supplicant: "Abiding Supplicant" #!Empty_LineInfo!
-	ZABRAK_SHIP_good_shepherd: "Good Shepherd" #!Empty_LineInfo!
-	ZABRAK_SHIP_god_driven: "God Driven" #!Empty_LineInfo!
-	ZABRAK_SHIP_graven: "Graven" #!Empty_LineInfo!
-	ZABRAK_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
-	ZABRAK_SHIP_satyr: "Satyr" #!Empty_LineInfo!
-	ZABRAK_SHIP_prospero: "Prospero" #!Empty_LineInfo!
-	ZABRAK_SHIP_untiring: "Untiring" #!Empty_LineInfo!
-	ZABRAK_SHIP_zenith: "Zenith" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacred_torch: "Sacred Torch" #!Empty_LineInfo!
-	ZABRAK_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
-	ZABRAK_SHIP_novaflower: "Novaflower" #!Empty_LineInfo!
-	ZABRAK_SHIP_zabrak_destiny: "Zabrak Destiny" #!Empty_LineInfo!
-	ZABRAK_SHIP_iridon: "Iridon" #!Empty_LineInfo!
-	ZABRAK_SHIP_hornsprout: "Hornsprout" #!Empty_LineInfo!
-	ZABRAK_SHIP_aurodium_city: "Aurodium City" #!Empty_LineInfo!
-	ZABRAK_SHIP_pioneer_blessing: "Pioneer Blessing" #!Empty_LineInfo!
-	ZABRAK_SHIP_sacred_journey: "Sacred Journey" #!Empty_LineInfo!
-	ZABRAK_SHIP_martyr_tears: "Martyr Tears" #!Empty_LineInfo!
-	ZABRAK_SHIP_promised_land: "Promised Land" #!Empty_LineInfo!
-	ZABRAK_SHIP_gospel: "Gospel" #!Empty_LineInfo!
-	ZABRAK_SHIP_hajjar: "Hajjar" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_wind: "Divine Wind" #!Empty_LineInfo!
-	ZABRAK_SHIP_breath_of_iridonia: "Breath of Iridonia" #!Empty_LineInfo!
-	ZABRAK_SHIP_good_word: "Good Word" #!Empty_LineInfo!
-	ZABRAK_SHIP_engraver: "Engraver" #!Empty_LineInfo!
-	ZABRAK_SHIP_benevolent: "Benevolent" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_labor: "Divine Labor" #!Empty_LineInfo!
-	ZABRAK_SHIP_inspired: "Inspired" #!Empty_LineInfo!
-	ZABRAK_SHIP_divine_instrument: "Divine Instrument" #!Empty_LineInfo!
-	ZABRAK_SHIP_ruminator: "Ruminator" #!Empty_LineInfo!
-	ZABRAK_SHIP_penumbral: "Penumbral" #!Empty_LineInfo!
-	ZABRAK_SHIP_inscriber: "Inscriber" #!Empty_LineInfo!
-	ZABRAK_SHIP_manuscriptor: "Manuscriptor" #!Empty_LineInfo!
-	ZABRAK_SHIP_channeler: "Channeler" #!Empty_LineInfo!
-	ZABRAK_SHIP_blessed_hand: "Blessed Hand" #!Empty_LineInfo!
-	ZABRAK_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	ZABRAK_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	ZABRAK_SHIP_aldo_spachian: "Aldo Spachian" #!Empty_LineInfo!
-	ZABRAK_SHIP_ceraxian: "Ceraxian" #!Empty_LineInfo!
-	ZABRAK_SHIP_corphelion: "Corphelion" #!Empty_LineInfo!
-	ZABRAK_SHIP_cularin: "Cularin" #!Empty_LineInfo!
-	ZABRAK_SHIP_kiara: "Kiara" #!Empty_LineInfo!
-	ZABRAK_SHIP_kinro: "Kinro" #!Empty_LineInfo!
-	ZABRAK_SHIP_nalzin: "Nalzin" #!Empty_LineInfo!
-	ZABRAK_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
-	ZABRAK_SHIP_stroketcy: "Stroketcy" #!Empty_LineInfo!
-	ZABRAK_SHIP_telaris: "Telaris" #!Empty_LineInfo!
-	ZABRAK_SHIP_aniras: "Aniras" #!Empty_LineInfo!
-	ZABRAK_SHIP_belgaroth: "Belgaroth" #!Empty_LineInfo!
-	ZABRAK_SHIP_cerberon: "Cerberon" #!Empty_LineInfo!
-	ZABRAK_SHIP_guaviar: "Guaviar" #!Empty_LineInfo!
-	ZABRAK_SHIP_kuliquo: "Kuliquo" #!Empty_LineInfo!
-	ZABRAK_SHIP_lost_soul: "Lost Soul" #!Empty_LineInfo!
-	ZABRAK_SHIP_norvon: "Norvon" #!Empty_LineInfo!
-	ZABRAK_SHIP_shosho: "Shosho" #!Empty_LineInfo!
-	ZABRAK_SHIP_thrugii: "Thrugii" #!Empty_LineInfo!
-	ZABRAK_SHIP_vergesso: "vergesso" #!Empty_LineInfo!
-	ZABRAK_SHIP_voxx: "Voxx" #!Empty_LineInfo!
-	ZABRAK_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	ZABRAK_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	ZABRAK_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	ZABRAK_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	ZABRAK_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	ZABRAK_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	ZABRAK_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_imperial_escort: "Imperial Escort" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	ZABRAK_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	ZABRAK_FLEET_vortexal_watch: "Vortexal Watch" #!Empty_LineInfo!
-	ZABRAK_FLEET_iridonian_home_guard: "Iridonian Home Guard" #!Empty_LineInfo!
-	ZABRAK_FLEET_star_sea_flotilla: "Star Sea Flotilla" #!Empty_LineInfo!
-	ZABRAK_FLEET_spinward_armada: "Spinward Armada" #!Empty_LineInfo!
-	ZABRAK_FLEET_task_force_ORD: "$ORD$ Task Force" #!Empty_LineInfo!
-	ZABRAK_ARMY_watcher_battalion_ORD: "$ORD$ Watcher Battalion" #!Empty_LineInfo!
-	ZABRAK_ARMY_crusader_force_ORD: "$ORD$ Crusader Force" #!Empty_LineInfo!
-	ZABRAK_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	ZABRAK_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	ZABRAK_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	ZABRAK_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	ZABRAK_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	ZABRAK_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	ZABRAK_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	ZABRAK_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	ZABRAK_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	ZABRAK_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	ZABRAK_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	ZABRAK_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	ZABRAK_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	ZABRAK_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	ZABRAK_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	ZABRAK_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	ZABRAK_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	ZABRAK_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	ZABRAK_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	ZABRAK_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	ZABRAK_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	ZABRAK_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	ZABRAK_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	ZABRAK_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	ZABRAK_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	ZABRAK_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	ZABRAK_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	ZABRAK_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	ZABRAK_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	ZABRAK_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	ZABRAK_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	ZABRAK_ARMY_sd_4k_assassin_droids_ORD: "$ORD$ SD-4K Assassin Droids" #!Empty_LineInfo!
-	ZABRAK_ARMY_ig_series_assassin_droids_ORD: "$ORD$ IG-series Assassin Droids" #!Empty_LineInfo!
-	ZABRAK_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_tx_225_assault_tank_detachment_ORD: "$ORD$ TX-225 Assault Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mptl_artillery_detachment_ORD: "$ORD$ MPTL Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_hmptl_artillery_detachment_ORD: "$ORD$ HMPTL Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	ZABRAK_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	ZABRAK_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	ZABRAK_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	ZABRAK_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	ZABRAK_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	ZABRAK_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	ZABRAK_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	ZABRAK_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	ZABRAK_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	ZABRAK_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	ZABRAK_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	ZABRAK_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	ZABRAK_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	ZABRAK_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	ZABRAK_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	ZABRAK_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	ZABRAK_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	ZABRAK_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	ZABRAK_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	ZABRAK_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	ZABRAK_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	ZABRAK_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	ZABRAK_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	ZABRAK_CHR_hast: "Hast" #!Empty_LineInfo!
-	ZABRAK_CHR_aeios: "Aeios" #!Empty_LineInfo!
-	ZABRAK_CHR_keeth: "Keeth" #!Empty_LineInfo!
-	ZABRAK_CHR_odon: "Odon" #!Empty_LineInfo!
-	ZABRAK_CHR_zubain: "Zubain" #!Empty_LineInfo!
-	ZABRAK_CHR_arim: "Arim" #!Empty_LineInfo!
-	ZABRAK_CHR_chrone: "Chrone" #!Empty_LineInfo!
-	ZABRAK_CHR_po: "Po" #!Empty_LineInfo!
-	ZABRAK_CHR_bao_dur: "Bao-Dur" #!Empty_LineInfo!
-	ZABRAK_CHR_vanto: "Vanto" #!Empty_LineInfo!
-	ZABRAK_CHR_fezrik: "Fezrik" #!Empty_LineInfo!
-	ZABRAK_CHR_bracco: "Bracco" #!Empty_LineInfo!
-	ZABRAK_CHR_lo: "Lo" #!Empty_LineInfo!
-	ZABRAK_CHR_bol: "Bol" #!Empty_LineInfo!
-	ZABRAK_CHR_cadomaccus: "Cadomaccus" #!Empty_LineInfo!
-	ZABRAK_CHR_charotke: "Charotke" #!Empty_LineInfo!
-	ZABRAK_CHR_jomar: "Jomar" #!Empty_LineInfo!
-	ZABRAK_CHR_cyrus: "Cyrus" #!Empty_LineInfo!
-	ZABRAK_CHR_kao_cen: "Kao Cen" #!Empty_LineInfo!
-	ZABRAK_CHR_duqua: "Duqua" #!Empty_LineInfo!
-	ZABRAK_CHR_dastid: "Dastid" #!Empty_LineInfo!
-	ZABRAK_CHR_denal_zon: "Denal-zon" #!Empty_LineInfo!
-	ZABRAK_CHR_dommu: "Dommu" #!Empty_LineInfo!
-	ZABRAK_CHR_aach: "Aach" #!Empty_LineInfo!
-	ZABRAK_CHR_eidolon: "Eidolon" #!Empty_LineInfo!
-	ZABRAK_CHR_ferrin: "Ferrin" #!Empty_LineInfo!
-	ZABRAK_CHR_frazznik: "Frazznik" #!Empty_LineInfo!
-	ZABRAK_CHR_deorko: "Deorko" #!Empty_LineInfo!
-	ZABRAK_CHR_girik: "Girik" #!Empty_LineInfo!
-	ZABRAK_CHR_groj: "Groj" #!Empty_LineInfo!
-	ZABRAK_CHR_grollix: "Grollix" #!Empty_LineInfo!
-	ZABRAK_CHR_haresh: "Haresh" #!Empty_LineInfo!
-	ZABRAK_CHR_pol: "Pol" #!Empty_LineInfo!
-	ZABRAK_CHR_braigin: "Braigin" #!Empty_LineInfo!
-	ZABRAK_CHR_jamoh: "Jamoh" #!Empty_LineInfo!
-	ZABRAK_CHR_ivok: "Ivok" #!Empty_LineInfo!
-	ZABRAK_CHR_vuurha: "Vuurha" #!Empty_LineInfo!
-	ZABRAK_CHR_jiro: "Jiro" #!Empty_LineInfo!
-	ZABRAK_CHR_dao: "Dao" #!Empty_LineInfo!
-	ZABRAK_CHR_junker: "Junker" #!Empty_LineInfo!
-	ZABRAK_CHR_juuho: "Juuho" #!Empty_LineInfo!
-	ZABRAK_CHR_maa: "Maa" #!Empty_LineInfo!
-	ZABRAK_CHR_jurgan: "Jurgan" #!Empty_LineInfo!
-	ZABRAK_CHR_drell: "Drell" #!Empty_LineInfo!
-	ZABRAK_CHR_wyll: "Wyll" #!Empty_LineInfo!
-	ZABRAK_CHR_lem: "Lem" #!Empty_LineInfo!
-	ZABRAK_CHR_kateo: "Kateo" #!Empty_LineInfo!
-	ZABRAK_CHR_kern: "Kern" #!Empty_LineInfo!
-	ZABRAK_CHR_zarien: "Zarien" #!Empty_LineInfo!
-	ZABRAK_CHR_klage: "Klage" #!Empty_LineInfo!
-	ZABRAK_CHR_agen: "Agen" #!Empty_LineInfo!
-	ZABRAK_CHR_jaylen: "Jaylen" #!Empty_LineInfo!
-	ZABRAK_CHR_thon: "Thon" #!Empty_LineInfo!
-	ZABRAK_CHR_nek: "Nek" #!Empty_LineInfo!
-	ZABRAK_CHR_lin: "Lin" #!Empty_LineInfo!
-	ZABRAK_CHR_llokay: "Llokay" #!Empty_LineInfo!
-	ZABRAK_CHR_kaz: "Kaz" #!Empty_LineInfo!
-	ZABRAK_CHR_hagen: "Hagen" #!Empty_LineInfo!
-	ZABRAK_CHR_orth: "Orth" #!Empty_LineInfo!
-	ZABRAK_CHR_dael: "Dael" #!Empty_LineInfo!
-	ZABRAK_CHR_ralen: "Ralen" #!Empty_LineInfo!
-	ZABRAK_CHR_serdor: "Serdor" #!Empty_LineInfo!
-	ZABRAK_CHR_martonn: "Martonn" #!Empty_LineInfo!
-	ZABRAK_CHR_mase: "Mase" #!Empty_LineInfo!
-	ZABRAK_CHR_mennaus: "Mennaus" #!Empty_LineInfo!
-	ZABRAK_CHR_mogg: "Mogg" #!Empty_LineInfo!
-	ZABRAK_CHR_mykka: "Mykka" #!Empty_LineInfo!
-	ZABRAK_CHR_daen: "Daen" #!Empty_LineInfo!
-	ZABRAK_CHR_neskett: "Neskett" #!Empty_LineInfo!
-	ZABRAK_CHR_oorn: "Oorn" #!Empty_LineInfo!
-	ZABRAK_CHR_falner: "Falner" #!Empty_LineInfo!
-	ZABRAK_CHR_oggo: "Oggo" #!Empty_LineInfo!
-	ZABRAK_CHR_sar: "Sar" #!Empty_LineInfo!
-	ZABRAK_CHR_ovold: "Ovold" #!Empty_LineInfo!
-	ZABRAK_CHR_raf: "Raf" #!Empty_LineInfo!
-	ZABRAK_CHR_reiki: "Reiki" #!Empty_LineInfo!
-	ZABRAK_CHR_remilok: "Remilok" #!Empty_LineInfo!
-	ZABRAK_CHR_revaak: "Revaak" #!Empty_LineInfo!
-	ZABRAK_CHR_dheno: "Dheno" #!Empty_LineInfo!
-	ZABRAK_CHR_p_laang: "P'laang" #!Empty_LineInfo!
-	ZABRAK_CHR_venik: "Venik" #!Empty_LineInfo!
-	ZABRAK_CHR_sadao: "Sadao" #!Empty_LineInfo!
-	ZABRAK_CHR_sanorn: "Sanorn" #!Empty_LineInfo!
-	ZABRAK_CHR_scopique: "Scopique" #!Empty_LineInfo!
-	ZABRAK_CHR_ters: "Ters" #!Empty_LineInfo!
-	ZABRAK_CHR_senu: "Senu" #!Empty_LineInfo!
-	ZABRAK_CHR_nak: "Nak" #!Empty_LineInfo!
-	ZABRAK_CHR_dar: "Dar" #!Empty_LineInfo!
-	ZABRAK_CHR_sirak: "Sirak" #!Empty_LineInfo!
-	ZABRAK_CHR_spanios: "Spanios" #!Empty_LineInfo!
-	ZABRAK_CHR_pak: "Pak" #!Empty_LineInfo!
-	ZABRAK_CHR_calman: "Calman" #!Empty_LineInfo!
-	ZABRAK_CHR_ta: "Ta" #!Empty_LineInfo!
-	ZABRAK_CHR_corin: "Corin" #!Empty_LineInfo!
-	ZABRAK_CHR_towe: "Towe" #!Empty_LineInfo!
-	ZABRAK_CHR_tryken: "Tryken" #!Empty_LineInfo!
-	ZABRAK_CHR_targob: "Targob" #!Empty_LineInfo!
-	ZABRAK_CHR_turbis: "Turbis" #!Empty_LineInfo!
-	ZABRAK_CHR_uptin: "Uptin" #!Empty_LineInfo!
-	ZABRAK_CHR_bo: "Bo" #!Empty_LineInfo!
-	ZABRAK_CHR_vadlerio: "Vadlerio" #!Empty_LineInfo!
-	ZABRAK_CHR_varus: "Varus" #!Empty_LineInfo!
-	ZABRAK_CHR_vegg: "Vegg" #!Empty_LineInfo!
-	ZABRAK_CHR_dantin: "Dantin" #!Empty_LineInfo!
-	ZABRAK_CHR_velnine: "Velnine" #!Empty_LineInfo!
-	ZABRAK_CHR_venters: "Venters" #!Empty_LineInfo!
-	ZABRAK_CHR_virk: "Virk" #!Empty_LineInfo!
-	ZABRAK_CHR_viscus: "Viscus" #!Empty_LineInfo!
-	ZABRAK_CHR_vril: "Vril" #!Empty_LineInfo!
-	ZABRAK_CHR_charo: "Charo" #!Empty_LineInfo!
-	ZABRAK_CHR_wyjus_minn: "Wyjus-Minn" #!Empty_LineInfo!
-	ZABRAK_CHR_zan: "Zan" #!Empty_LineInfo!
-	ZABRAK_CHR_arn_tan: "Arn Tan" #!Empty_LineInfo!
-	ZABRAK_CHR_zarran: "Zarran" #!Empty_LineInfo!
-	ZABRAK_CHR_alvania: "Alvania" #!Empty_LineInfo!
-	ZABRAK_CHR_anniya: "Anniya" #!Empty_LineInfo!
-	ZABRAK_CHR_anstiss: "Anstiss" #!Empty_LineInfo!
-	ZABRAK_CHR_aveso: "Aveso" #!Empty_LineInfo!
-	ZABRAK_CHR_avax: "Avax" #!Empty_LineInfo!
-	ZABRAK_CHR_coret: "Coret" #!Empty_LineInfo!
-	ZABRAK_CHR_raxa: "Raxa" #!Empty_LineInfo!
-	ZABRAK_CHR_maris: "Maris" #!Empty_LineInfo!
-	ZABRAK_CHR_triz: "Triz" #!Empty_LineInfo!
-	ZABRAK_CHR_bulga: "Bulga" #!Empty_LineInfo!
-	ZABRAK_CHR_vil: "Vil" #!Empty_LineInfo!
-	ZABRAK_CHR_co_overma: "Co'overma" #!Empty_LineInfo!
-	ZABRAK_CHR_o_choa: "O'choa" #!Empty_LineInfo!
-	ZABRAK_CHR_mekus: "Mekus" #!Empty_LineInfo!
-	ZABRAK_CHR_elkan: "Elkan" #!Empty_LineInfo!
-	ZABRAK_CHR_jas: "Jas" #!Empty_LineInfo!
-	ZABRAK_CHR_eotrisa: "Eotrisa" #!Empty_LineInfo!
-	ZABRAK_CHR_fryoto: "Fryoto" #!Empty_LineInfo!
-	ZABRAK_CHR_garan: "Garan" #!Empty_LineInfo!
-	ZABRAK_CHR_gith: "Gith" #!Empty_LineInfo!
-	ZABRAK_CHR_hallen: "Hallen" #!Empty_LineInfo!
-	ZABRAK_CHR_heljus: "Heljus" #!Empty_LineInfo!
-	ZABRAK_CHR_solida: "Solida" #!Empty_LineInfo!
-	ZABRAK_CHR_idonia: "Idonia" #!Empty_LineInfo!
-	ZABRAK_CHR_onn: "Onn" #!Empty_LineInfo!
-	ZABRAK_CHR_klaua: "Klaua" #!Empty_LineInfo!
-	ZABRAK_CHR_rhalia: "Rhalia" #!Empty_LineInfo!
-	ZABRAK_CHR_mada: "Mada" #!Empty_LineInfo!
-	ZABRAK_CHR_jolka: "Jolka" #!Empty_LineInfo!
-	ZABRAK_CHR_ses: "Ses" #!Empty_LineInfo!
-	ZABRAK_CHR_joella: "Joella" #!Empty_LineInfo!
-	ZABRAK_CHR_jorelle: "Jorelle" #!Empty_LineInfo!
-	ZABRAK_CHR_drakka: "Drakka" #!Empty_LineInfo!
-	ZABRAK_CHR_yevra: "Yevra" #!Empty_LineInfo!
-	ZABRAK_CHR_rose: "Rose" #!Empty_LineInfo!
-	ZABRAK_CHR_mai: "Mai" #!Empty_LineInfo!
-	ZABRAK_CHR_mira: "Mira" #!Empty_LineInfo!
-	ZABRAK_CHR_tilian: "Tilian" #!Empty_LineInfo!
-	ZABRAK_CHR_jewl_a: "Jewl'a" #!Empty_LineInfo!
-	ZABRAK_CHR_koon: "Koon" #!Empty_LineInfo!
-	ZABRAK_CHR_arane: "Arane" #!Empty_LineInfo!
-	ZABRAK_CHR_iza: "Iza" #!Empty_LineInfo!
-	ZABRAK_CHR_grayda: "Grayda" #!Empty_LineInfo!
-	ZABRAK_CHR_kayla: "Kayla" #!Empty_LineInfo!
-	ZABRAK_CHR_qista: "Qista" #!Empty_LineInfo!
-	ZABRAK_CHR_quanera: "Quanera" #!Empty_LineInfo!
-	ZABRAK_CHR_jabe: "Jabe" #!Empty_LineInfo!
-	ZABRAK_CHR_aleas: "Aleas" #!Empty_LineInfo!
-	ZABRAK_CHR_xuvi: "Xuvi" #!Empty_LineInfo!
-	ZABRAK_CHR_ki: "Ki" #!Empty_LineInfo!
-	ZABRAK_CHR_seffi: "Seffi" #!Empty_LineInfo!
-	ZABRAK_CHR_kadrian: "Kadrian" #!Empty_LineInfo!
-	ZABRAK_CHR_seyda: "Seyda" #!Empty_LineInfo!
-	ZABRAK_CHR_akaavi: "Akaavi" #!Empty_LineInfo!
-	ZABRAK_CHR_sugi: "Sugi" #!Empty_LineInfo!
-	ZABRAK_CHR_sora: "Sora" #!Empty_LineInfo!
-	ZABRAK_CHR_aelson: "Aelson" #!Empty_LineInfo!
-	ZABRAK_CHR_baela: "Baela" #!Empty_LineInfo!
-	ZABRAK_CHR_kass: "Kass" #!Empty_LineInfo!
-	ZABRAK_CHR_zakala: "Zakala" #!Empty_LineInfo!
-	ZABRAK_CHR_seema: "Seema" #!Empty_LineInfo!
-	ZABRAK_CHR_kaysil: "Kaysil" #!Empty_LineInfo!
-	ZABRAK_CHR_vinda: "Vinda" #!Empty_LineInfo!
-	ZABRAK_CHR_virne: "Virne" #!Empty_LineInfo!
-	ZABRAK_CHR_tensa: "Tensa" #!Empty_LineInfo!
-	ZABRAK_CHR_cie: "Cie" #!Empty_LineInfo!
-	ZABRAK_CHR_tyzen: "Tyzen" #!Empty_LineInfo!
-	ZABRAK_CHR_yougga: "Yougga" #!Empty_LineInfo!
-	ZABRAK_CHR_edrinu: "Edrinu" #!Empty_LineInfo!
-	ZABRAK_CHR_zo_ssa: "Zo'ssa" #!Empty_LineInfo!
-	ZABRAK_CHR_aath: "Aath" #!Empty_LineInfo!
-	ZABRAK_CHR_acaadi: "Acaadi" #!Empty_LineInfo!
-	ZABRAK_CHR_agar: "Agar" #!Empty_LineInfo!
-	ZABRAK_CHR_anak: "Anak" #!Empty_LineInfo!
-	ZABRAK_CHR_ankonori: "Ankonori" #!Empty_LineInfo!
-	ZABRAK_CHR_ars: "Ars" #!Empty_LineInfo!
-	ZABRAK_CHR_banis: "Banis" #!Empty_LineInfo!
-	ZABRAK_CHR_barret: "Barret" #!Empty_LineInfo!
-	ZABRAK_CHR_bazren: "Bazren" #!Empty_LineInfo!
-	ZABRAK_CHR_bendledon: "Bendledon" #!Empty_LineInfo!
-	ZABRAK_CHR_bhan: "Bhan" #!Empty_LineInfo!
-	ZABRAK_CHR_binn: "Binn" #!Empty_LineInfo!
-	ZABRAK_CHR_bickell: "Bickell" #!Empty_LineInfo!
-	ZABRAK_CHR_brood: "Brood" #!Empty_LineInfo!
-	ZABRAK_CHR_bukk: "Bukk" #!Empty_LineInfo!
-	ZABRAK_CHR_burren: "Burren" #!Empty_LineInfo!
-	ZABRAK_CHR_chatak: "Chatak" #!Empty_LineInfo!
-	ZABRAK_CHR_chel: "Chel" #!Empty_LineInfo!
-	ZABRAK_CHR_chul: "Chul" #!Empty_LineInfo!
-	ZABRAK_CHR_coria: "Coria" #!Empty_LineInfo!
-	ZABRAK_CHR_crymi: "Crymi" #!Empty_LineInfo!
-	ZABRAK_CHR_darach: "Darach" #!Empty_LineInfo!
-	ZABRAK_CHR_defte: "Defte" #!Empty_LineInfo!
-	ZABRAK_CHR_detera: "Detera" #!Empty_LineInfo!
-	ZABRAK_CHR_donbar: "Donbar" #!Empty_LineInfo!
-	ZABRAK_CHR_drin: "Drin" #!Empty_LineInfo!
-	ZABRAK_CHR_eamul: "Eamul" #!Empty_LineInfo!
-	ZABRAK_CHR_een: "Een" #!Empty_LineInfo!
-	ZABRAK_CHR_eldo: "Eldo" #!Empty_LineInfo!
-	ZABRAK_CHR_emari: "Emari" #!Empty_LineInfo!
-	ZABRAK_CHR_exteen: "Exteen" #!Empty_LineInfo!
-	ZABRAK_CHR_fa_zoll: "Fa'Zoll" #!Empty_LineInfo!
-	ZABRAK_CHR_feldon: "Feldon" #!Empty_LineInfo!
-	ZABRAK_CHR_gaan: "Gaan" #!Empty_LineInfo!
-	ZABRAK_CHR_gek: "Gek" #!Empty_LineInfo!
-	ZABRAK_CHR_gonwa: "Gonwa" #!Empty_LineInfo!
-	ZABRAK_CHR_haus: "Haus" #!Empty_LineInfo!
-	ZABRAK_CHR_hele: "Hele" #!Empty_LineInfo!
-	ZABRAK_CHR_helk: "Helk" #!Empty_LineInfo!
-	ZABRAK_CHR_henshin: "Henshin" #!Empty_LineInfo!
-	ZABRAK_CHR_hesk: "Hesk" #!Empty_LineInfo!
-	ZABRAK_CHR_hogra: "Hogra" #!Empty_LineInfo!
-	ZABRAK_CHR_iria: "Iria" #!Empty_LineInfo!
-	ZABRAK_CHR_itotr: "Itotr" #!Empty_LineInfo!
-	ZABRAK_CHR_jantsk: "Jantsk" #!Empty_LineInfo!
-	ZABRAK_CHR_jik: "Jik" #!Empty_LineInfo!
-	ZABRAK_CHR_jinsari: "Jinsari" #!Empty_LineInfo!
-	ZABRAK_CHR_jodh: "Jodh" #!Empty_LineInfo!
-	ZABRAK_CHR_jopp: "Jopp" #!Empty_LineInfo!
-	ZABRAK_CHR_judarrl: "Judarrl" #!Empty_LineInfo!
-	ZABRAK_CHR_jott: "Jott" #!Empty_LineInfo!
-	ZABRAK_CHR_kaap: "Kaap" #!Empty_LineInfo!
-	ZABRAK_CHR_kalta: "Kalta" #!Empty_LineInfo!
-	ZABRAK_CHR_kahmf: "Kahmf" #!Empty_LineInfo!
-	ZABRAK_CHR_kander: "Kander" #!Empty_LineInfo!
-	ZABRAK_CHR_karner: "Karner" #!Empty_LineInfo!
-	ZABRAK_CHR_keikodi: "Keikodi" #!Empty_LineInfo!
-	ZABRAK_CHR_keloh: "Keloh" #!Empty_LineInfo!
-	ZABRAK_CHR_kheev: "Kheev" #!Empty_LineInfo!
-	ZABRAK_CHR_kin_ade: "Kin'ade" #!Empty_LineInfo!
-	ZABRAK_CHR_kolar: "Kolar" #!Empty_LineInfo!
-	ZABRAK_CHR_koth: "Koth" #!Empty_LineInfo!
-	ZABRAK_CHR_korventine: "Korventine" #!Empty_LineInfo!
-	ZABRAK_CHR_kos: "Kos" #!Empty_LineInfo!
-	ZABRAK_CHR_larimhor: "Larimhor" #!Empty_LineInfo!
-	ZABRAK_CHR_lawsirk: "Lawsirk" #!Empty_LineInfo!
-	ZABRAK_CHR_ledesmar: "Ledesmar" #!Empty_LineInfo!
-	ZABRAK_CHR_longmyre: "Longmyre" #!Empty_LineInfo!
-	ZABRAK_CHR_maag: "Maag" #!Empty_LineInfo!
-	ZABRAK_CHR_maanki: "Maanki" #!Empty_LineInfo!
-	ZABRAK_CHR_margok: "Margok" #!Empty_LineInfo!
-	ZABRAK_CHR_marrak: "Marrak" #!Empty_LineInfo!
-	ZABRAK_CHR_matare: "Matare" #!Empty_LineInfo!
-	ZABRAK_CHR_moravai: "Moravai" #!Empty_LineInfo!
-	ZABRAK_CHR_nark: "Nark" #!Empty_LineInfo!
-	ZABRAK_CHR_noth: "Noth" #!Empty_LineInfo!
-	ZABRAK_CHR_numinn: "Numinn" #!Empty_LineInfo!
-	ZABRAK_CHR_odan: "Odan" #!Empty_LineInfo!
-	ZABRAK_CHR_oeth: "Oeth" #!Empty_LineInfo!
-	ZABRAK_CHR_omant: "Omant" #!Empty_LineInfo!
-	ZABRAK_CHR_onto: "Onto" #!Empty_LineInfo!
-	ZABRAK_CHR_oreida: "Oreida" #!Empty_LineInfo!
-	ZABRAK_CHR_paro: "Paro" #!Empty_LineInfo!
-	ZABRAK_CHR_perlis: "Perlis" #!Empty_LineInfo!
-	ZABRAK_CHR_parvux: "Parvux" #!Empty_LineInfo!
-	ZABRAK_CHR_persid: "Persid" #!Empty_LineInfo!
-	ZABRAK_CHR_raikon: "Raikon" #!Empty_LineInfo!
-	ZABRAK_CHR_rann: "Rann" #!Empty_LineInfo!
-	ZABRAK_CHR_raimu: "Raimu" #!Empty_LineInfo!
-	ZABRAK_CHR_rey: "Rey" #!Empty_LineInfo!
-	ZABRAK_CHR_ri: "Ri" #!Empty_LineInfo!
-	ZABRAK_CHR_rigel: "Rigel" #!Empty_LineInfo!
-	ZABRAK_CHR_rin: "Rin" #!Empty_LineInfo!
-	ZABRAK_CHR_risold: "Risold" #!Empty_LineInfo!
-	ZABRAK_CHR_ruun: "Ruun" #!Empty_LineInfo!
-	ZABRAK_CHR_emtri: "Emtri" #!Empty_LineInfo!
-	ZABRAK_CHR_samok: "Samok" #!Empty_LineInfo!
-	ZABRAK_CHR_sarguillo: "Sarguillo" #!Empty_LineInfo!
-	ZABRAK_CHR_seeth_tal: "Seeth'tal" #!Empty_LineInfo!
-	ZABRAK_CHR_sendon: "Sendon" #!Empty_LineInfo!
-	ZABRAK_CHR_selro: "Selro" #!Empty_LineInfo!
-	ZABRAK_CHR_sey: "Sey" #!Empty_LineInfo!
-	ZABRAK_CHR_sibar: "Sibar" #!Empty_LineInfo!
-	ZABRAK_CHR_simm: "Simm" #!Empty_LineInfo!
-	ZABRAK_CHR_singe: "Singe" #!Empty_LineInfo!
-	ZABRAK_CHR_spar: "Spar" #!Empty_LineInfo!
-	ZABRAK_CHR_stevus: "Stevus" #!Empty_LineInfo!
-	ZABRAK_CHR_suutar: "Suutar" #!Empty_LineInfo!
-	ZABRAK_CHR_suz_anz: "Suz-Anz" #!Empty_LineInfo!
-	ZABRAK_CHR_wieloag: "Wieloag" #!Empty_LineInfo!
-	ZABRAK_CHR_t_dai: "T'dai" #!Empty_LineInfo!
-	ZABRAK_CHR_tarev: "Tarev" #!Empty_LineInfo!
-	ZABRAK_CHR_tas: "Tas" #!Empty_LineInfo!
-	ZABRAK_CHR_tefani: "Tefani" #!Empty_LineInfo!
-	ZABRAK_CHR_thatch: "Thatch" #!Empty_LineInfo!
-	ZABRAK_CHR_theus: "Theus" #!Empty_LineInfo!
-	ZABRAK_CHR_tigal: "Tigal" #!Empty_LineInfo!
-	ZABRAK_CHR_tiwosh: "Tiwosh" #!Empty_LineInfo!
-	ZABRAK_CHR_tod: "Tod" #!Empty_LineInfo!
-	ZABRAK_CHR_tong: "Tong" #!Empty_LineInfo!
-	ZABRAK_CHR_tok: "Tok" #!Empty_LineInfo!
-	ZABRAK_CHR_trad: "Trad" #!Empty_LineInfo!
-	ZABRAK_CHR_travin: "Travin" #!Empty_LineInfo!
-	ZABRAK_CHR_treeg: "Treeg" #!Empty_LineInfo!
-	ZABRAK_CHR_tunall: "Tunall" #!Empty_LineInfo!
-	ZABRAK_CHR_tystel: "Tystel" #!Empty_LineInfo!
-	ZABRAK_CHR_tyuth: "Tyuth" #!Empty_LineInfo!
-	ZABRAK_CHR_ushallaj: "Ushallaj" #!Empty_LineInfo!
-	ZABRAK_CHR_vanda: "Vanda" #!Empty_LineInfo!
-	ZABRAK_CHR_varn: "Varn" #!Empty_LineInfo!
-	ZABRAK_CHR_vello: "Vello" #!Empty_LineInfo!
-	ZABRAK_CHR_vellos: "Vellos" #!Empty_LineInfo!
-	ZABRAK_CHR_verwood: "Verwood" #!Empty_LineInfo!
-	ZABRAK_CHR_viic: "Viic" #!Empty_LineInfo!
-	ZABRAK_CHR_vikto: "Vikto" #!Empty_LineInfo!
-	ZABRAK_CHR_voll: "Voll" #!Empty_LineInfo!
-	ZABRAK_CHR_vos: "Vos" #!Empty_LineInfo!
-	ZABRAK_CHR_vowail: "Vowail" #!Empty_LineInfo!
-	ZABRAK_CHR_vrakth: "Vrakth" #!Empty_LineInfo!
-	ZABRAK_CHR_xebec: "Xebec" #!Empty_LineInfo!
-	ZABRAK_CHR_xiukhan: "Xiukhan" #!Empty_LineInfo!
-	ZABRAK_CHR_yant: "Yant" #!Empty_LineInfo!
-	ZABRAK_CHR_yezo: "Yezo" #!Empty_LineInfo!
-	ZABRAK_CHR_yolar: "Yolar" #!Empty_LineInfo!
-	ZABRAK_CHR_zaya: "Zaya" #!Empty_LineInfo!
-	ZABRAK_CHR_zhin: "Zhin" #!Empty_LineInfo!
-	ZABRAK_CHR_zonn: "Zonn" #!Empty_LineInfo!
-	ZABRAK_CHR_zur: "Zur" #!Empty_LineInfo!
-	ZABRAK_CHR_veag: "Veag" #!Empty_LineInfo!
-	ZABRAK_CHR_zar: "Zar" #!Empty_LineInfo!
-	ZABRAK_CHR_eeth: "Eeth" #!Empty_LineInfo!
-	ZABRAK_CHR_wolf: "Wolf" #!Empty_LineInfo!
-	ZABRAK_CHR_sazen: "Sazen" #!Empty_LineInfo!
+ ZABRAK_SHIP_apologia: "Апология"
+ ZABRAK_SHIP_penance: "Покаяние"
+ ZABRAK_SHIP_flagellant: "Флагеллант"
+ ZABRAK_SHIP_inquisitor: "Инквизитор"
+ ZABRAK_SHIP_crusader: "Крестоносец"
+ ZABRAK_SHIP_benedictive: "Благословляющий"
+ ZABRAK_SHIP_noblesse: "Благородство"
+ ZABRAK_SHIP_invoker: "Призыватель"
+ ZABRAK_SHIP_dedicator: "Посвящающий"
+ ZABRAK_SHIP_orison: "Орисон"
+ ZABRAK_SHIP_sacrament: "Таинство"
+ ZABRAK_SHIP_beatitude: "Блаженство"
+ ZABRAK_SHIP_divine_favor: "Божественная милость"
+ ZABRAK_SHIP_divine_light: "Божественный свет"
+ ZABRAK_SHIP_godsent: "Божий дар"
+ ZABRAK_SHIP_consecrator: "Посвящающий"
+ ZABRAK_SHIP_ecumency: "Вселенскость"
+ ZABRAK_SHIP_epochal: "Эпохальный"
+ ZABRAK_SHIP_dispensation: "Устроение"
+ ZABRAK_SHIP_clemency: "Милосердие"
+ ZABRAK_SHIP_absolution: "Отпущение грехов"
+ ZABRAK_SHIP_horned_crown: "Рогатая корона"
+ ZABRAK_SHIP_fundamental: "Фундаментальный"
+ ZABRAK_SHIP_commandment: "Заповедь"
+ ZABRAK_SHIP_sepulcher: "Гробница"
+ ZABRAK_SHIP_catacomb: "Катакомбы"
+ ZABRAK_SHIP_mausoleum: "Мавзолей"
+ ZABRAK_SHIP_good_faith: "Добросовестность"
+ ZABRAK_SHIP_sacrifice: "Жертва"
+ ZABRAK_SHIP_sacrificial: "Жертвенный"
+ ZABRAK_SHIP_ritual: "Ритуал"
+ ZABRAK_SHIP_blooded_force: "Кровавая сила"
+ ZABRAK_SHIP_reliquary: "Реликварий"
+ ZABRAK_SHIP_sunblessed: "Обожженный солнцем"
+ ZABRAK_SHIP_blazecursed: "Проклятый огнем"
+ ZABRAK_SHIP_possessed: "Одержимый"
+ ZABRAK_SHIP_occultant: "Оккультист"
+ ZABRAK_SHIP_exile: "Изгнание"
+ ZABRAK_SHIP_immolator: "Жертвенник"
+ ZABRAK_SHIP_martyr: "Мученик"
+ ZABRAK_SHIP_fetish: "Фетиш"
+ ZABRAK_SHIP_talisman: "Талисман"
+ ZABRAK_SHIP_runelord: "Повелитель рун"
+ ZABRAK_SHIP_mortuary: "Морг"
+ ZABRAK_SHIP_sepulchral: "Могильный"
+ ZABRAK_SHIP_forsworn: "Отрекшийся"
+ ZABRAK_SHIP_soulsworn: "Клятые душой"
+ ZABRAK_SHIP_soulbound: "Душевно связанный"
+ ZABRAK_SHIP_faithful: "Верный"
+ ZABRAK_SHIP_redeemer: "Искупитель"
+ ZABRAK_SHIP_spirit_child: "Дитя Духа"
+ ZABRAK_SHIP_lost_son: "Потерянный сын"
+ ZABRAK_SHIP_witch_hammer: "Молот ведьм"
+ ZABRAK_SHIP_sacrosanct: "Священный"
+ ZABRAK_SHIP_sanctity_of_battle: "Святость битвы"
+ ZABRAK_SHIP_purifier: "Очиститель"
+ ZABRAK_SHIP_sanctum: "Святилище"
+ ZABRAK_SHIP_sanctified: "Освященный"
+ ZABRAK_SHIP_initiate: "Инициированный"
+ ZABRAK_SHIP_balefire: "Смертельный огонь"
+ ZABRAK_SHIP_godspeed: "Счастливого пути"
+ ZABRAK_SHIP_empowerment: "Расширение прав и возможностей"
+ ZABRAK_SHIP_savior: "Спаситель"
+ ZABRAK_SHIP_prophet: "Пророк"
+ ZABRAK_SHIP_mission: "Миссия"
+ ZABRAK_SHIP_monastic: "Монашеский"
+ ZABRAK_SHIP_doomsayer: "Предсказатель конца"
+ ZABRAK_SHIP_sojourner: "Странник"
+ ZABRAK_SHIP_blood_horn: "Кровавый рог"
+ ZABRAK_SHIP_possessor: "Обладатель"
+ ZABRAK_SHIP_arcane: "Тайный"
+ ZABRAK_SHIP_sorceress: "Волшебница"
+ ZABRAK_SHIP_witch_hour: "Час ведьмы"
+ ZABRAK_SHIP_magos: "Магос"
+ ZABRAK_SHIP_thaumaturge: "Тауматург"
+ ZABRAK_SHIP_alchemist: "Алхимик"
+ ZABRAK_SHIP_redemption: "Искупление"
+ ZABRAK_SHIP_ascetic: "Аскет"
+ ZABRAK_SHIP_sanctification: "Освящение"
+ ZABRAK_SHIP_baptismal: "Крещение"
+ ZABRAK_SHIP_mortis: "Мортис"
+ ZABRAK_SHIP_sigil: "Символ"
+ ZABRAK_SHIP_practitioner: "Практикующий врач"
+ ZABRAK_SHIP_convert: "Преобразовать"
+ ZABRAK_SHIP_zealot: "Фанатик"
+ ZABRAK_SHIP_apostle: "Апостол"
+ ZABRAK_SHIP_atonement: "Искупление"
+ ZABRAK_SHIP_cauldron: "Котел"
+ ZABRAK_SHIP_apothecary: "Аптекарь"
+ ZABRAK_SHIP_apotheosis: "Апофеоз"
+ ZABRAK_SHIP_totem: "Тотем"
+ ZABRAK_SHIP_neophyte: "Неофит"
+ ZABRAK_SHIP_baroque: "Барокко"
+ ZABRAK_SHIP_diviner: "Прорицатель"
+ ZABRAK_SHIP_soothsayer: "Предсказатель"
+ ZABRAK_SHIP_pilgrim: "Пилигрим"
+ ZABRAK_SHIP_preacher: "Проповедник"
+ ZABRAK_SHIP_benediction: "Благословение"
+ ZABRAK_SHIP_deathbed: "Смертное ложе"
+ ZABRAK_SHIP_shaman: "Шаман"
+ ZABRAK_SHIP_wisewoman: "Мудрая женщина"
+ ZABRAK_SHIP_elder: "Старейшина"
+ ZABRAK_SHIP_puritan: "Пуританин"
+ ZABRAK_SHIP_dirge: "Панихида"
+ ZABRAK_SHIP_hymnos: "Гимны"
+ ZABRAK_SHIP_congregant: "Прихожанин"
+ ZABRAK_SHIP_gospel_of_iridonia: "Евангелие от Иридонии"
+ ZABRAK_SHIP_prayer_for_iridonia: "Молитва за Иридонию"
+ ZABRAK_SHIP_shabad: "Шабад"
+ ZABRAK_SHIP_altar_of_war: "Алтарь войны"
+ ZABRAK_SHIP_liturgy: "Литургия"
+ ZABRAK_SHIP_laywarrior: "Непрофессиональный воин"
+ ZABRAK_SHIP_divine_wrath: "Божественный гнев"
+ ZABRAK_SHIP_obedience: "Послушание"
+ ZABRAK_SHIP_purgatory: "Чистилище"
+ ZABRAK_SHIP_submission: "Подчинение"
+ ZABRAK_SHIP_eternity_s_end: "Конец вечности"
+ ZABRAK_SHIP_afterlife: "Загробная жизнь"
+ ZABRAK_SHIP_hellfire: "Адский огонь"
+ ZABRAK_SHIP_underworld: "Подземный мир"
+ ZABRAK_SHIP_conjurer: "Фокусник"
+ ZABRAK_SHIP_summoner: "Призыватель"
+ ZABRAK_SHIP_disciple: "Ученик"
+ ZABRAK_SHIP_discipline: "Дисциплина"
+ ZABRAK_SHIP_messiah: "Мессия"
+ ZABRAK_SHIP_enlightened: "Просветленный"
+ ZABRAK_SHIP_purity: "Чистота"
+ ZABRAK_SHIP_pious: "Благочестивый"
+ ZABRAK_SHIP_feldrona: "Фельдрона"
+ ZABRAK_SHIP_bao_dur: "Бао-Дур"
+ ZABRAK_SHIP_koon_odan: "Кун Одан"
+ ZABRAK_SHIP_confession: "Признание"
+ ZABRAK_SHIP_abthane: "Абтан"
+ ZABRAK_SHIP_chalice_of_the_faithful: "Чаша верных"
+ ZABRAK_SHIP_chosen: "Избранный"
+ ZABRAK_SHIP_communion: "Причастие"
+ ZABRAK_SHIP_providence: "Провидение"
+ ZABRAK_SHIP_exegesis: "Толкование"
+ ZABRAK_SHIP_moxsha: "Мокша"
+ ZABRAK_SHIP_orthodox_rex: "Православный король"
+ ZABRAK_SHIP_revelation: "Откровение"
+ ZABRAK_SHIP_righteous: "Праведный"
+ ZABRAK_SHIP_supplicant: "Проситель"
+ ZABRAK_SHIP_tithe_taker: "Собиратель десятины"
+ ZABRAK_SHIP_crusader_s_due: "Крестоносец готов"
+ ZABRAK_SHIP_penitent_throne: "Трон кающихся"
+ ZABRAK_SHIP_golem: "Голем"
+ ZABRAK_SHIP_almighty: "Всемогущий"
+ ZABRAK_SHIP_judgement: "Суждение"
+ ZABRAK_SHIP_tribulation: "Скорбь"
+ ZABRAK_SHIP_resurrected: "Воскрешенный"
+ ZABRAK_SHIP_undying: "Бессмертный"
+ ZABRAK_SHIP_paradise: "Рай"
+ ZABRAK_SHIP_ordination: "Рукоположение"
+ ZABRAK_SHIP_divine_right: "Божественное право"
+ ZABRAK_SHIP_charisma: "Харизма"
+ ZABRAK_SHIP_affirmation: "Подтверждение"
+ ZABRAK_SHIP_kataphatic: "Катафатический"
+ ZABRAK_SHIP_mystic: "Мистик"
+ ZABRAK_SHIP_silent_choir: "безмолвный хор"
+ ZABRAK_SHIP_dogma: "Догма"
+ ZABRAK_SHIP_transcendent: "Трансцендентный"
+ ZABRAK_SHIP_epiphany: "Прозрение"
+ ZABRAK_SHIP_essence: "Сущность"
+ ZABRAK_SHIP_arduous: "Трудный"
+ ZABRAK_SHIP_blessed: "Благословенный"
+ ZABRAK_SHIP_kosmogonia: "Космогония"
+ ZABRAK_SHIP_pronouncer: "Произноситель"
+ ZABRAK_SHIP_eternal_reward: "Вечная награда"
+ ZABRAK_SHIP_denunciator: "Обличитель"
+ ZABRAK_SHIP_exorcist: "Экзорцист"
+ ZABRAK_SHIP_illuminator: "Осветитель"
+ ZABRAK_SHIP_chastisement: "Наказание"
+ ZABRAK_SHIP_absolver: "Отпущение грехов"
+ ZABRAK_SHIP_twin_promise: "Двойное обещание"
+ ZABRAK_SHIP_awakener: "Пробуждающий"
+ ZABRAK_SHIP_guru: "Гуру"
+ ZABRAK_SHIP_inner_peace: "Внутренний покой"
+ ZABRAK_SHIP_involution: "Инволюция"
+ ZABRAK_SHIP_trial_of_koana: "Испытание коана"
+ ZABRAK_SHIP_meditator: "Медитирующий"
+ ZABRAK_SHIP_mind_s_eye: "Мысленный взор"
+ ZABRAK_SHIP_vision_of_revival: "Видение возрождения"
+ ZABRAK_SHIP_theosis: "Теозис"
+ ZABRAK_SHIP_transcendental: "Трансцендентный"
+ ZABRAK_SHIP_incarnation: "Воплощение"
+ ZABRAK_SHIP_kao_cen: "Као Сен"
+ ZABRAK_SHIP_purgation_s_fire: "Огонь очищения"
+ ZABRAK_SHIP_anointed_edge: "Помазанный край"
+ ZABRAK_SHIP_devotional: "Преданный"
+ ZABRAK_SHIP_godhead: "Божество"
+ ZABRAK_SHIP_aurodium_gate: "Врата Ауродиума"
+ ZABRAK_SHIP_mark_of_the_horn: "Знак рога"
+ ZABRAK_SHIP_oblator: "Обла-тор"
+ ZABRAK_SHIP_enraptured: "Восхищенный"
+ ZABRAK_SHIP_enthraller: "Увлекатель"
+ ZABRAK_SHIP_quadlemma: "Квадлемма"
+ ZABRAK_SHIP_crown_of_horns: "Венец из рогов"
+ ZABRAK_SHIP_henshin: "Хеншин"
+ ZABRAK_SHIP_admiral_numinn: "Адмирал Нуминн"
+ ZABRAK_SHIP_corin_tok: "Корин Ток"
+ ZABRAK_SHIP_vikto: "Викто"
+ ZABRAK_SHIP_crimson_litany: "Алая литания"
+ ZABRAK_SHIP_castigator: "Каратель"
+ ZABRAK_SHIP_harbinger: "Предвестник"
+ ZABRAK_SHIP_pennance: "Пеннанс"
+ ZABRAK_SHIP_devotee: "Преданный"
+ ZABRAK_SHIP_nightbrother: "Ночной брат"
+ ZABRAK_SHIP_jihaval: "Джихавал"
+ ZABRAK_SHIP_fervent: "Пылкий"
+ ZABRAK_SHIP_crier: "Глашатай"
+ ZABRAK_SHIP_witness: "Свидетель"
+ ZABRAK_SHIP_abiding_supplicant: "Постоянный проситель"
+ ZABRAK_SHIP_good_shepherd: "Добрый пастырь"
+ ZABRAK_SHIP_god_driven: "Ведомый богом"
+ ZABRAK_SHIP_graven: "Гравированный"
+ ZABRAK_SHIP_alacrity: "Готовность"
+ ZABRAK_SHIP_satyr: "Сатир"
+ ZABRAK_SHIP_prospero: "Просперо"
+ ZABRAK_SHIP_untiring: "Неутомимый"
+ ZABRAK_SHIP_zenith: "Зенит"
+ ZABRAK_SHIP_sacred_torch: "Священный факел"
+ ZABRAK_SHIP_remembrance: "Воспоминание"
+ ZABRAK_SHIP_novaflower: "Цветок Нова"
+ ZABRAK_SHIP_zabrak_destiny: "Забрак судьбы"
+ ZABRAK_SHIP_iridon: "Иридон"
+ ZABRAK_SHIP_hornsprout: "Роговый росток"
+ ZABRAK_SHIP_aurodium_city: "Город Ауродиум"
+ ZABRAK_SHIP_pioneer_blessing: "Благословение пионеров"
+ ZABRAK_SHIP_sacred_journey: "Священное путешествие"
+ ZABRAK_SHIP_martyr_tears: "Слезы мученика"
+ ZABRAK_SHIP_promised_land: "Земля обетованная"
+ ZABRAK_SHIP_gospel: "Евангелие"
+ ZABRAK_SHIP_hajjar: "Хаджар"
+ ZABRAK_SHIP_divine_wind: "Божественный ветер"
+ ZABRAK_SHIP_breath_of_iridonia: "Дыхание Иридонии"
+ ZABRAK_SHIP_good_word: "Доброе слово"
+ ZABRAK_SHIP_engraver: "Гравер"
+ ZABRAK_SHIP_benevolent: "Доброжелательный"
+ ZABRAK_SHIP_divine_labor: "Божественный труд"
+ ZABRAK_SHIP_inspired: "Вдохновенный"
+ ZABRAK_SHIP_divine_instrument: "Божественный инструмент"
+ ZABRAK_SHIP_ruminator: "Размышляющий"
+ ZABRAK_SHIP_penumbral: "Полутень"
+ ZABRAK_SHIP_inscriber: "Начертатель"
+ ZABRAK_SHIP_manuscriptor: "Автор рукописи"
+ ZABRAK_SHIP_channeler: "Направляющий"
+ ZABRAK_SHIP_blessed_hand: "Благословенная рука"
+ ZABRAK_SHIP_ground_transport: "Наземный транспорт"
+ ZABRAK_SHIP_spacegun_victory: "Космическая пушка Победа"
+ ZABRAK_SHIP_spacegun_success: "Космическая пушка Успех"
+ ZABRAK_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ ZABRAK_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ ZABRAK_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ ZABRAK_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ ZABRAK_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ ZABRAK_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ ZABRAK_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ ZABRAK_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ ZABRAK_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ ZABRAK_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ ZABRAK_SHIP_spacegun_honor: "Космическая пушка Честь"
+ ZABRAK_SHIP_spacegun_renown: "Космическая пушка Величие"
+ ZABRAK_SHIP_spacegun_glory: "Космическая пушка Слава"
+ ZABRAK_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ ZABRAK_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ ZABRAK_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ ZABRAK_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ ZABRAK_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ ZABRAK_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ ZABRAK_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ ZABRAK_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ ZABRAK_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ ZABRAK_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ ZABRAK_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ ZABRAK_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ ZABRAK_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ ZABRAK_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ ZABRAK_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ ZABRAK_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ ZABRAK_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ ZABRAK_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ ZABRAK_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ ZABRAK_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ ZABRAK_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ ZABRAK_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ ZABRAK_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ ZABRAK_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ ZABRAK_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ ZABRAK_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ ZABRAK_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ ZABRAK_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ ZABRAK_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ ZABRAK_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ ZABRAK_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ ZABRAK_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ ZABRAK_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ ZABRAK_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ ZABRAK_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ ZABRAK_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ ZABRAK_SHIP_aldo_spachian: "Альдо Спачиан"
+ ZABRAK_SHIP_ceraxian: "Цераксианин"
+ ZABRAK_SHIP_corphelion: "Корфелион"
+ ZABRAK_SHIP_cularin: "Куларин"
+ ZABRAK_SHIP_kiara: "Киара"
+ ZABRAK_SHIP_kinro: "Кинро"
+ ZABRAK_SHIP_nalzin: "Налзин"
+ ZABRAK_SHIP_rainbow: "Радуга"
+ ZABRAK_SHIP_stroketcy: "Строкетси"
+ ZABRAK_SHIP_telaris: "Теларис"
+ ZABRAK_SHIP_aniras: "Анирас"
+ ZABRAK_SHIP_belgaroth: "Белгарот"
+ ZABRAK_SHIP_cerberon: "Церберон"
+ ZABRAK_SHIP_guaviar: "Гуавиара"
+ ZABRAK_SHIP_kuliquo: "Кулико"
+ ZABRAK_SHIP_lost_soul: "Потерянная душа"
+ ZABRAK_SHIP_norvon: "Норвон"
+ ZABRAK_SHIP_shosho: "Шошо"
+ ZABRAK_SHIP_thrugii: "Тругии"
+ ZABRAK_SHIP_vergesso: "Верджессо"
+ ZABRAK_SHIP_voxx: "Вохкс"
+ ZABRAK_SHIP_bombard: "Космическая пушка Бомбарда"
+ ZABRAK_SHIP_ballista: "Баллиста"
+ ZABRAK_SHIP_catapult: "Космическая пушка Катапульта"
+ ZABRAK_SHIP_harpoon: "Космическая пушка Гарпун"
+ ZABRAK_SHIP_polybolos: "Космическая пушка Полиболос"
+ ZABRAK_SHIP_culverin: "Космическая пушка Кулеврина"
+ ZABRAK_SHIP_exemplary: "Космическая пушка Образцовый"
+ ZABRAK_SHIP_CLASS_cr_90: "CR-90"
+ ZABRAK_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ ZABRAK_SHIP_CLASS_lupus: "Люпус"
+ ZABRAK_SHIP_CLASS_asdroni: "Асдрони"
+ ZABRAK_SHIP_CLASS_customs: "Таможня"
+ ZABRAK_SHIP_CLASS_hammerhead: "Молотоглав"
+ ZABRAK_SHIP_CLASS_scurge: "Мерзость"
+ ZABRAK_SHIP_CLASS_krayt: "Крайт"
+ ZABRAK_SHIP_CLASS_diamond: "Бриллиант"
+ ZABRAK_SHIP_CLASS_etti: "Этти"
+ ZABRAK_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ ZABRAK_SHIP_CLASS_vigil: "Бдение"
+ ZABRAK_SHIP_CLASS_dp20: "DP20"
+ ZABRAK_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ ZABRAK_SHIP_CLASS_raider: "Рейдер"
+ ZABRAK_SHIP_CLASS_dornean: "Дорнейский"
+ ZABRAK_SHIP_CLASS_crusader: "Крестоносец"
+ ZABRAK_SHIP_CLASS_marauder: "Мародер"
+ ZABRAK_SHIP_CLASS_arquitens: "Аркитенс"
+ ZABRAK_SHIP_CLASS_kiltirin: "Килтирин"
+ ZABRAK_SHIP_CLASS_pelta: "Пельта"
+ ZABRAK_SHIP_CLASS_pinnace: "Катер"
+ ZABRAK_SHIP_CLASS_nova: "Нова"
+ ZABRAK_SHIP_CLASS_vigilance: "Бдительность"
+ ZABRAK_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ ZABRAK_SHIP_CLASS_cg_273: "CG-273"
+ ZABRAK_SHIP_CLASS_kariek: "Кариек"
+ ZABRAK_SHIP_CLASS_imperial_escort: "Императорский эскорт"
+ ZABRAK_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ ZABRAK_SHIP_CLASS_lancer: "Лансер"
+ ZABRAK_SHIP_CLASS_teroch: "Терох"
+ ZABRAK_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ ZABRAK_SHIP_CLASS_nova_ii: "Нова II"
+ ZABRAK_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ ZABRAK_SHIP_CLASS_velox: "Велокс"
+ ZABRAK_SHIP_CLASS_mc30c: "MC30c"
+ ZABRAK_SHIP_CLASS_vengeance: "Месть"
+ ZABRAK_SHIP_CLASS_kariek_ii: "Кариек II"
+ ZABRAK_SHIP_CLASS_cc_7700: "CC-7700"
+ ZABRAK_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ ZABRAK_SHIP_CLASS_wavecrest: "Гребень волны"
+ ZABRAK_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ ZABRAK_SHIP_CLASS_nuruodo: "Нуруодо"
+ ZABRAK_SHIP_CLASS_sabaoth: "Саваоф"
+ ZABRAK_SHIP_CLASS_kontos: "Контос"
+ ZABRAK_SHIP_CLASS_mc40: "MC40"
+ ZABRAK_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ ZABRAK_SHIP_CLASS_broadside: "Залп"
+ ZABRAK_SHIP_CLASS_protector: "Защитник"
+ ZABRAK_SHIP_CLASS_warlord: "Военачальник"
+ ZABRAK_SHIP_CLASS_gladiator: "Гладиатор"
+ ZABRAK_SHIP_CLASS_beviin: "Бевиин"
+ ZABRAK_SHIP_CLASS_liberator: "Освободитель"
+ ZABRAK_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ ZABRAK_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ ZABRAK_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ ZABRAK_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ ZABRAK_SHIP_CLASS_massias: "Массиас"
+ ZABRAK_SHIP_CLASS_dreadnought: "Дредноут"
+ ZABRAK_SHIP_CLASS_kyramud: "Кирамуд"
+ ZABRAK_SHIP_CLASS_munificent: "Щедрый"
+ ZABRAK_SHIP_CLASS_prosvoli: "Просволи"
+ ZABRAK_SHIP_CLASS_acclamator: "Аккламатор"
+ ZABRAK_SHIP_CLASS_lictor: "Ликтор"
+ ZABRAK_SHIP_CLASS_bulwark: "Оплот"
+ ZABRAK_SHIP_CLASS_victory_i: "Победа I"
+ ZABRAK_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ ZABRAK_SHIP_CLASS_bulk: "Массивный"
+ ZABRAK_SHIP_CLASS_vindicator: "Защитник"
+ ZABRAK_SHIP_CLASS_dauntless: "Бесстрашный"
+ ZABRAK_SHIP_CLASS_captor: "Похититель"
+ ZABRAK_SHIP_CLASS_au_riette: "О'риетт"
+ ZABRAK_SHIP_CLASS_mc55: "MC55"
+ ZABRAK_SHIP_CLASS_afthonia: "Афтония"
+ ZABRAK_SHIP_CLASS_victory_ii: "Победа II"
+ ZABRAK_SHIP_CLASS_beroya: "Бероя"
+ ZABRAK_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ ZABRAK_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ ZABRAK_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ ZABRAK_SHIP_CLASS_venator: "Венатор"
+ ZABRAK_SHIP_CLASS_centurion: "Центурион"
+ ZABRAK_SHIP_CLASS_mc75: "MC75"
+ ZABRAK_SHIP_CLASS_kandosii: "Кандосии"
+ ZABRAK_SHIP_CLASS_corellian: "Кореллианский"
+ ZABRAK_SHIP_CLASS_providence: "Провидение"
+ ZABRAK_SHIP_CLASS_syndic: "Синдик"
+ ZABRAK_SHIP_CLASS_recusant: "Отступник"
+ ZABRAK_SHIP_CLASS_invincible: "Непобедимый"
+ ZABRAK_SHIP_CLASS_imperial_i: "Имперский I"
+ ZABRAK_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ ZABRAK_SHIP_CLASS_procursator: "Прокурсатор"
+ ZABRAK_SHIP_CLASS_mc80a: "MC80a"
+ ZABRAK_SHIP_CLASS_dh_omni: "DH-Омни"
+ ZABRAK_SHIP_CLASS_aggressor: "Агрессор"
+ ZABRAK_SHIP_CLASS_syndic_ii: "Синдик II"
+ ZABRAK_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ ZABRAK_SHIP_CLASS_keldabe: "Келдабе"
+ ZABRAK_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ ZABRAK_SHIP_CLASS_chaf: "Чаф"
+ ZABRAK_SHIP_CLASS_imperial_ii: "Имперский II"
+ ZABRAK_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ ZABRAK_SHIP_CLASS_ascendancy: "Господство"
+ ZABRAK_SHIP_CLASS_dominator: "Властелин"
+ ZABRAK_SHIP_CLASS_allegiance: "Верность"
+ ZABRAK_SHIP_CLASS_lucrehulk: "Барышник"
+ ZABRAK_SHIP_CLASS_phalanx: "Фаланга"
+ ZABRAK_SHIP_CLASS_titan: "Титан"
+ ZABRAK_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ ZABRAK_SHIP_CLASS_star_home: "Звездный дом"
+ ZABRAK_SHIP_CLASS_subjugator: "Покоритель"
+ ZABRAK_SHIP_CLASS_bellator: "Беллатор"
+ ZABRAK_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ ZABRAK_SHIP_CLASS_executor: "Палач"
+ ZABRAK_FLEET_vortexal_watch: "Вихревые часы"
+ ZABRAK_FLEET_iridonian_home_guard: "Иридонийское ополчение"
+ ZABRAK_FLEET_star_sea_flotilla: "Звездная морская флотилия"
+ ZABRAK_FLEET_spinward_armada: "Вращающаяся армада"
+ ZABRAK_FLEET_task_force_ORD: "$ORD$ Оперативная группа"
+ ZABRAK_ARMY_watcher_battalion_ORD: "$ORD$ Батальон наблюдателей"
+ ZABRAK_ARMY_crusader_force_ORD: "$ORD$ Войска крестоносцев"
+ ZABRAK_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ ZABRAK_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ ZABRAK_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ ZABRAK_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ ZABRAK_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ ZABRAK_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ ZABRAK_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ ZABRAK_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ ZABRAK_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ ZABRAK_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ ZABRAK_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ ZABRAK_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ ZABRAK_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ ZABRAK_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ ZABRAK_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ ZABRAK_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ ZABRAK_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ ZABRAK_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ ZABRAK_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ ZABRAK_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ ZABRAK_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ ZABRAK_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ ZABRAK_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ ZABRAK_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ ZABRAK_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ ZABRAK_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ ZABRAK_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ ZABRAK_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ ZABRAK_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ ZABRAK_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ ZABRAK_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ ZABRAK_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ ZABRAK_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ ZABRAK_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ ZABRAK_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ ZABRAK_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ ZABRAK_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ ZABRAK_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ ZABRAK_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ ZABRAK_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ ZABRAK_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ ZABRAK_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ ZABRAK_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ ZABRAK_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ ZABRAK_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ ZABRAK_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ ZABRAK_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ ZABRAK_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ ZABRAK_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ ZABRAK_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ ZABRAK_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ ZABRAK_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ ZABRAK_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ ZABRAK_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ ZABRAK_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ ZABRAK_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ ZABRAK_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ ZABRAK_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ ZABRAK_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ ZABRAK_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ ZABRAK_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ ZABRAK_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ ZABRAK_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ ZABRAK_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ ZABRAK_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ ZABRAK_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ ZABRAK_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ ZABRAK_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ ZABRAK_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ ZABRAK_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ ZABRAK_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ ZABRAK_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ ZABRAK_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ ZABRAK_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ ZABRAK_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ ZABRAK_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ ZABRAK_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ ZABRAK_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ ZABRAK_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ ZABRAK_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ ZABRAK_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ ZABRAK_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ ZABRAK_ARMY_sd_4k_assassin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ ZABRAK_ARMY_ig_series_assassin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ ZABRAK_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ ZABRAK_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ ZABRAK_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ ZABRAK_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ ZABRAK_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ ZABRAK_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ ZABRAK_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ ZABRAK_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ ZABRAK_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ ZABRAK_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ ZABRAK_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ ZABRAK_ARMY_tx_225_assault_tank_detachment_ORD: "$ORD$ Штурмовой танковый отряд TX-225"
+ ZABRAK_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ ZABRAK_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ ZABRAK_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ ZABRAK_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ ZABRAK_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ ZABRAK_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ ZABRAK_ARMY_mptl_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение MPTL"
+ ZABRAK_ARMY_hmptl_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение HMPTL"
+ ZABRAK_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ ZABRAK_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ ZABRAK_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ ZABRAK_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ ZABRAK_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ ZABRAK_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ ZABRAK_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ ZABRAK_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ ZABRAK_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ ZABRAK_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ ZABRAK_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ ZABRAK_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ ZABRAK_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ ZABRAK_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ ZABRAK_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ ZABRAK_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ ZABRAK_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ ZABRAK_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ ZABRAK_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ ZABRAK_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ ZABRAK_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ ZABRAK_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ ZABRAK_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ ZABRAK_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ ZABRAK_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ ZABRAK_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ ZABRAK_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ ZABRAK_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ ZABRAK_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ ZABRAK_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ ZABRAK_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ ZABRAK_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ ZABRAK_ARMY_acklay_ORD: "$ORD$ Аклай"
+ ZABRAK_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ ZABRAK_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ ZABRAK_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ ZABRAK_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ ZABRAK_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ ZABRAK_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ ZABRAK_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ ZABRAK_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ ZABRAK_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ ZABRAK_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ ZABRAK_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ ZABRAK_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ ZABRAK_CHR_hast: "Хаст"
+ ZABRAK_CHR_aeios: "Эйос"
+ ZABRAK_CHR_keeth: "Кит"
+ ZABRAK_CHR_odon: "Одон"
+ ZABRAK_CHR_zubain: "Зубайн"
+ ZABRAK_CHR_arim: "Арим"
+ ZABRAK_CHR_chrone: "Хроне"
+ ZABRAK_CHR_po: "По"
+ ZABRAK_CHR_bao_dur: "Бао-Дур"
+ ZABRAK_CHR_vanto: "Ванто"
+ ZABRAK_CHR_fezrik: "Фезрик"
+ ZABRAK_CHR_bracco: "Бракко"
+ ZABRAK_CHR_lo: "Ло"
+ ZABRAK_CHR_bol: "Бол"
+ ZABRAK_CHR_cadomaccus: "Кадомаккус"
+ ZABRAK_CHR_charotke: "Чаротке"
+ ZABRAK_CHR_jomar: "Джомар"
+ ZABRAK_CHR_cyrus: "Сайрус"
+ ZABRAK_CHR_kao_cen: "Као Сен"
+ ZABRAK_CHR_duqua: "Дукуа"
+ ZABRAK_CHR_dastid: "Дастид"
+ ZABRAK_CHR_denal_zon: "Денал-зон"
+ ZABRAK_CHR_dommu: "Домму"
+ ZABRAK_CHR_aach: "Ага"
+ ZABRAK_CHR_eidolon: "Призрак"
+ ZABRAK_CHR_ferrin: "Феррин"
+ ZABRAK_CHR_frazznik: "Фраззник"
+ ZABRAK_CHR_deorko: "Деорко"
+ ZABRAK_CHR_girik: "Гирик"
+ ZABRAK_CHR_groj: "Грож"
+ ZABRAK_CHR_grollix: "Гролликс"
+ ZABRAK_CHR_haresh: "Хареш"
+ ZABRAK_CHR_pol: "Пол"
+ ZABRAK_CHR_braigin: "Брейгин"
+ ZABRAK_CHR_jamoh: "Джамох"
+ ZABRAK_CHR_ivok: "Ивок"
+ ZABRAK_CHR_vuurha: "Вуурха"
+ ZABRAK_CHR_jiro: "Дзиро"
+ ZABRAK_CHR_dao: "Дао"
+ ZABRAK_CHR_junker: "Юнкере"
+ ZABRAK_CHR_juuho: "Джуухо"
+ ZABRAK_CHR_maa: "Маа"
+ ZABRAK_CHR_jurgan: "Юрган"
+ ZABRAK_CHR_drell: "Дрелл"
+ ZABRAK_CHR_wyll: "Уилл"
+ ZABRAK_CHR_lem: "Лем"
+ ZABRAK_CHR_kateo: "Катео"
+ ZABRAK_CHR_kern: "Керн"
+ ZABRAK_CHR_zarien: "Зариен"
+ ZABRAK_CHR_klage: "Клаге"
+ ZABRAK_CHR_agen: "Ажен"
+ ZABRAK_CHR_jaylen: "Джейлен"
+ ZABRAK_CHR_thon: "Тон"
+ ZABRAK_CHR_nek: "Нек"
+ ZABRAK_CHR_lin: "Лин"
+ ZABRAK_CHR_llokay: "Ллокай"
+ ZABRAK_CHR_kaz: "Каз"
+ ZABRAK_CHR_hagen: "Хаген"
+ ZABRAK_CHR_orth: "Орт"
+ ZABRAK_CHR_dael: "Даэль"
+ ZABRAK_CHR_ralen: "Рален"
+ ZABRAK_CHR_serdor: "Сердор"
+ ZABRAK_CHR_martonn: "Мартонн"
+ ZABRAK_CHR_mase: "Мейс"
+ ZABRAK_CHR_mennaus: "Меннаус"
+ ZABRAK_CHR_mogg: "Могг"
+ ZABRAK_CHR_mykka: "Микка"
+ ZABRAK_CHR_daen: "Дейен"
+ ZABRAK_CHR_neskett: "Нескетт"
+ ZABRAK_CHR_oorn: "Оорн"
+ ZABRAK_CHR_falner: "Фальнер"
+ ZABRAK_CHR_oggo: "Огго"
+ ZABRAK_CHR_sar: "Сар"
+ ZABRAK_CHR_ovold: "Оволд"
+ ZABRAK_CHR_raf: "Раф"
+ ZABRAK_CHR_reiki: "Рэйки"
+ ZABRAK_CHR_remilok: "Ремилок"
+ ZABRAK_CHR_revaak: "Реваак"
+ ZABRAK_CHR_dheno: "Дхено"
+ ZABRAK_CHR_p_laang: "П'лаанг"
+ ZABRAK_CHR_venik: "Веник"
+ ZABRAK_CHR_sadao: "Садао"
+ ZABRAK_CHR_sanorn: "Санорн"
+ ZABRAK_CHR_scopique: "Скопик"
+ ZABRAK_CHR_ters: "Терс"
+ ZABRAK_CHR_senu: "Сену"
+ ZABRAK_CHR_nak: "Нак"
+ ZABRAK_CHR_dar: "Дар"
+ ZABRAK_CHR_sirak: "Сирак"
+ ZABRAK_CHR_spanios: "Испанки"
+ ZABRAK_CHR_pak: "Пак"
+ ZABRAK_CHR_calman: "Кальман"
+ ZABRAK_CHR_ta: "Та"
+ ZABRAK_CHR_corin: "Корин"
+ ZABRAK_CHR_towe: "Тове"
+ ZABRAK_CHR_tryken: "Трюкен"
+ ZABRAK_CHR_targob: "Таргоб"
+ ZABRAK_CHR_turbis: "Турбис"
+ ZABRAK_CHR_uptin: "Уптин"
+ ZABRAK_CHR_bo: "Бо"
+ ZABRAK_CHR_vadlerio: "Вадлерио"
+ ZABRAK_CHR_varus: "Вар"
+ ZABRAK_CHR_vegg: "Овощ"
+ ZABRAK_CHR_dantin: "Дантен"
+ ZABRAK_CHR_velnine: "Велнин"
+ ZABRAK_CHR_venters: "Вентерс"
+ ZABRAK_CHR_virk: "Вирк"
+ ZABRAK_CHR_viscus: "Вискус"
+ ZABRAK_CHR_vril: "Врил"
+ ZABRAK_CHR_charo: "Чаро"
+ ZABRAK_CHR_wyjus_minn: "Уиджус-Минн"
+ ZABRAK_CHR_zan: "Зан"
+ ZABRAK_CHR_arn_tan: "Арн Тан"
+ ZABRAK_CHR_zarran: "Зарран"
+ ZABRAK_CHR_alvania: "Алвания"
+ ZABRAK_CHR_anniya: "Анния"
+ ZABRAK_CHR_anstiss: "Анстисс"
+ ZABRAK_CHR_aveso: "Авезо"
+ ZABRAK_CHR_avax: "Авакс"
+ ZABRAK_CHR_coret: "Корет"
+ ZABRAK_CHR_raxa: "Ракса"
+ ZABRAK_CHR_maris: "Марис"
+ ZABRAK_CHR_triz: "Триз"
+ ZABRAK_CHR_bulga: "Булга"
+ ZABRAK_CHR_vil: "Вил"
+ ZABRAK_CHR_co_overma: "Ко'оверма"
+ ZABRAK_CHR_o_choa: "О'Шоа"
+ ZABRAK_CHR_mekus: "Мекус"
+ ZABRAK_CHR_elkan: "Элькан"
+ ZABRAK_CHR_jas: "Джас"
+ ZABRAK_CHR_eotrisa: "Эотриса"
+ ZABRAK_CHR_fryoto: "Фрайото"
+ ZABRAK_CHR_garan: "Гаран"
+ ZABRAK_CHR_gith: "Гит"
+ ZABRAK_CHR_hallen: "Халлен"
+ ZABRAK_CHR_heljus: "Хелюс"
+ ZABRAK_CHR_solida: "Солида"
+ ZABRAK_CHR_idonia: "Идония"
+ ZABRAK_CHR_onn: "Онн"
+ ZABRAK_CHR_klaua: "Клауа"
+ ZABRAK_CHR_rhalia: "Ралия"
+ ZABRAK_CHR_mada: "Мада"
+ ZABRAK_CHR_jolka: "Йолка"
+ ZABRAK_CHR_ses: "Сес"
+ ZABRAK_CHR_joella: "Джоэлла"
+ ZABRAK_CHR_jorelle: "Джорелль"
+ ZABRAK_CHR_drakka: "Дракка"
+ ZABRAK_CHR_yevra: "Евра"
+ ZABRAK_CHR_rose: "Роза"
+ ZABRAK_CHR_mai: "Май"
+ ZABRAK_CHR_mira: "Мира"
+ ZABRAK_CHR_tilian: "Тилиан"
+ ZABRAK_CHR_jewl_a: "Джевл'а"
+ ZABRAK_CHR_koon: "Кун"
+ ZABRAK_CHR_arane: "Аране"
+ ZABRAK_CHR_iza: "Иза"
+ ZABRAK_CHR_grayda: "Грайда"
+ ZABRAK_CHR_kayla: "Кайла"
+ ZABRAK_CHR_qista: "Киста"
+ ZABRAK_CHR_quanera: "Кванера"
+ ZABRAK_CHR_jabe: "Джейб"
+ ZABRAK_CHR_aleas: "Алеас"
+ ZABRAK_CHR_xuvi: "Сюви"
+ ZABRAK_CHR_ki: "Ки"
+ ZABRAK_CHR_seffi: "Сеффи"
+ ZABRAK_CHR_kadrian: "Кадриан"
+ ZABRAK_CHR_seyda: "Сейда"
+ ZABRAK_CHR_akaavi: "Акаави"
+ ZABRAK_CHR_sugi: "Суги"
+ ZABRAK_CHR_sora: "Сора"
+ ZABRAK_CHR_aelson: "Элсон"
+ ZABRAK_CHR_baela: "Баэла"
+ ZABRAK_CHR_kass: "Касс"
+ ZABRAK_CHR_zakala: "Закала"
+ ZABRAK_CHR_seema: "Сима"
+ ZABRAK_CHR_kaysil: "Кайсил"
+ ZABRAK_CHR_vinda: "Винда"
+ ZABRAK_CHR_virne: "Вирне"
+ ZABRAK_CHR_tensa: "Тенса"
+ ZABRAK_CHR_cie: "Ци"
+ ZABRAK_CHR_tyzen: "Тайзен"
+ ZABRAK_CHR_yougga: "Югга"
+ ZABRAK_CHR_edrinu: "Едрину"
+ ZABRAK_CHR_zo_ssa: "Зо'сса"
+ ZABRAK_CHR_aath: "Аат"
+ ZABRAK_CHR_acaadi: "Акаади"
+ ZABRAK_CHR_agar: "Агар"
+ ZABRAK_CHR_anak: "Анак"
+ ZABRAK_CHR_ankonori: "Анконори"
+ ZABRAK_CHR_ars: "Арс"
+ ZABRAK_CHR_banis: "Банис"
+ ZABRAK_CHR_barret: "Баррет"
+ ZABRAK_CHR_bazren: "Базрен"
+ ZABRAK_CHR_bendledon: "Бендледон"
+ ZABRAK_CHR_bhan: "Бхан"
+ ZABRAK_CHR_binn: "Бинн"
+ ZABRAK_CHR_bickell: "Бикелл"
+ ZABRAK_CHR_brood: "Выводок"
+ ZABRAK_CHR_bukk: "Букк"
+ ZABRAK_CHR_burren: "Беррен"
+ ZABRAK_CHR_chatak: "Чатак"
+ ZABRAK_CHR_chel: "Чел"
+ ZABRAK_CHR_chul: "Чул"
+ ZABRAK_CHR_coria: "Кория"
+ ZABRAK_CHR_crymi: "Крими"
+ ZABRAK_CHR_darach: "Дарах"
+ ZABRAK_CHR_defte: "Дефте"
+ ZABRAK_CHR_detera: "Детера"
+ ZABRAK_CHR_donbar: "Донбар"
+ ZABRAK_CHR_drin: "Дрин"
+ ZABRAK_CHR_eamul: "Эамул"
+ ZABRAK_CHR_een: "Эен"
+ ZABRAK_CHR_eldo: "Эльдо"
+ ZABRAK_CHR_emari: "Эмари"
+ ZABRAK_CHR_exteen: "Экстин"
+ ZABRAK_CHR_fa_zoll: "Фа'Зол"
+ ZABRAK_CHR_feldon: "Фелдон"
+ ZABRAK_CHR_gaan: "Гаан"
+ ZABRAK_CHR_gek: "Гик"
+ ZABRAK_CHR_gonwa: "Гонва"
+ ZABRAK_CHR_haus: "Хаус"
+ ZABRAK_CHR_hele: "Хеле"
+ ZABRAK_CHR_helk: "Хелк"
+ ZABRAK_CHR_henshin: "Хеншин"
+ ZABRAK_CHR_hesk: "Хеск"
+ ZABRAK_CHR_hogra: "Хогра"
+ ZABRAK_CHR_iria: "Ирия"
+ ZABRAK_CHR_itotr: "Итотр"
+ ZABRAK_CHR_jantsk: "Янцк"
+ ZABRAK_CHR_jik: "Джик"
+ ZABRAK_CHR_jinsari: "Джинсари"
+ ZABRAK_CHR_jodh: "Джодх"
+ ZABRAK_CHR_jopp: "Джопп"
+ ZABRAK_CHR_judarrl: "Джударрл"
+ ZABRAK_CHR_jott: "Джотт"
+ ZABRAK_CHR_kaap: "Каап"
+ ZABRAK_CHR_kalta: "Кальта"
+ ZABRAK_CHR_kahmf: "Камф"
+ ZABRAK_CHR_kander: "Кандер"
+ ZABRAK_CHR_karner: "Karner"
+ ZABRAK_CHR_keikodi: "Карнер"
+ ZABRAK_CHR_keloh: "Кело"
+ ZABRAK_CHR_kheev: "Кхеев"
+ ZABRAK_CHR_kin_ade: "Кин'аде"
+ ZABRAK_CHR_kolar: "Колар"
+ ZABRAK_CHR_koth: "Кот"
+ ZABRAK_CHR_korventine: "Корвентин"
+ ZABRAK_CHR_kos: "Кос"
+ ZABRAK_CHR_larimhor: "Ларимхор"
+ ZABRAK_CHR_lawsirk: "Лоусирк"
+ ZABRAK_CHR_ledesmar: "Ледесмар"
+ ZABRAK_CHR_longmyre: "Лонгмайр"
+ ZABRAK_CHR_maag: "Мааг"
+ ZABRAK_CHR_maanki: "Маанки"
+ ZABRAK_CHR_margok: "Марго"
+ ZABRAK_CHR_marrak: "Маррак"
+ ZABRAK_CHR_matare: "Матаре"
+ ZABRAK_CHR_moravai: "Мораваи"
+ ZABRAK_CHR_nark: "Нарк"
+ ZABRAK_CHR_noth: "Нет"
+ ZABRAK_CHR_numinn: "Нуминн"
+ ZABRAK_CHR_odan: "Одан"
+ ZABRAK_CHR_oeth: "Оэт"
+ ZABRAK_CHR_omant: "Омант"
+ ZABRAK_CHR_onto: "Онто"
+ ZABRAK_CHR_oreida: "Ореида"
+ ZABRAK_CHR_paro: "Паро"
+ ZABRAK_CHR_perlis: "Перлис"
+ ZABRAK_CHR_parvux: "Парвукс"
+ ZABRAK_CHR_persid: "Персид"
+ ZABRAK_CHR_raikon: "Райкон"
+ ZABRAK_CHR_rann: "Ранн"
+ ZABRAK_CHR_raimu: "Райму"
+ ZABRAK_CHR_rey: "Рей"
+ ZABRAK_CHR_ri: "Ри"
+ ZABRAK_CHR_rigel: "Ригель"
+ ZABRAK_CHR_rin: "Рин"
+ ZABRAK_CHR_risold: "Рисольд"
+ ZABRAK_CHR_ruun: "Руун"
+ ZABRAK_CHR_emtri: "Эмтри"
+ ZABRAK_CHR_samok: "Самок"
+ ZABRAK_CHR_sarguillo: "Саргильо"
+ ZABRAK_CHR_seeth_tal: "Сит'тал"
+ ZABRAK_CHR_sendon: "Сендон"
+ ZABRAK_CHR_selro: "Сельро"
+ ZABRAK_CHR_sey: "Сэй"
+ ZABRAK_CHR_sibar: "Сибар"
+ ZABRAK_CHR_simm: "Симм"
+ ZABRAK_CHR_singe: "Паленый"
+ ZABRAK_CHR_spar: "Лонжерон"
+ ZABRAK_CHR_stevus: "Стевус"
+ ZABRAK_CHR_suutar: "Суутар"
+ ZABRAK_CHR_suz_anz: "Суз-Анз"
+ ZABRAK_CHR_wieloag: "Велоаг"
+ ZABRAK_CHR_t_dai: "Т'дай"
+ ZABRAK_CHR_tarev: "Тарев"
+ ZABRAK_CHR_tas: "Тас"
+ ZABRAK_CHR_tefani: "Тефани"
+ ZABRAK_CHR_thatch: "Соломенная крыша"
+ ZABRAK_CHR_theus: "Теус"
+ ZABRAK_CHR_tigal: "Тигал"
+ ZABRAK_CHR_tiwosh: "Тивош"
+ ZABRAK_CHR_tod: "Тод"
+ ZABRAK_CHR_tong: "Тонг"
+ ZABRAK_CHR_tok: "Ток"
+ ZABRAK_CHR_trad: "Традиция"
+ ZABRAK_CHR_travin: "Травин"
+ ZABRAK_CHR_treeg: "Трииг"
+ ZABRAK_CHR_tunall: "Туналл"
+ ZABRAK_CHR_tystel: "Тайстел"
+ ZABRAK_CHR_tyuth: "Тют"
+ ZABRAK_CHR_ushallaj: "Ушалладж"
+ ZABRAK_CHR_vanda: "Ванда"
+ ZABRAK_CHR_varn: "Варн"
+ ZABRAK_CHR_vello: "Велло"
+ ZABRAK_CHR_vellos: "Веллос"
+ ZABRAK_CHR_verwood: "Вервуд"
+ ZABRAK_CHR_viic: "Виик"
+ ZABRAK_CHR_vikto: "Викто"
+ ZABRAK_CHR_voll: "Волл"
+ ZABRAK_CHR_vos: "Вос"
+ ZABRAK_CHR_vowail: "Вовайл"
+ ZABRAK_CHR_vrakth: "Врактх"
+ ZABRAK_CHR_xebec: "Шебек"
+ ZABRAK_CHR_xiukhan: "Сюхань"
+ ZABRAK_CHR_yant: "Янт"
+ ZABRAK_CHR_yezo: "Езо"
+ ZABRAK_CHR_yolar: "Джолар"
+ ZABRAK_CHR_zaya: "Зая"
+ ZABRAK_CHR_zhin: "Жин"
+ ZABRAK_CHR_zonn: "Зонн"
+ ZABRAK_CHR_zur: "Зур"
+ ZABRAK_CHR_veag: "Веаг"
+ ZABRAK_CHR_zar: "Зар"
+ ZABRAK_CHR_eeth: "Иет"
+ ZABRAK_CHR_wolf: "Волк"
+ ZABRAK_CHR_sazen: "Сазен"

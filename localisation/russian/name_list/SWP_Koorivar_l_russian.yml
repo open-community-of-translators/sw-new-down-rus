@@ -1,899 +1,899 @@
 ﻿l_russian:
-	KOORIVAR_SHIP_dutyfree: "Dutyfree" #!Empty_LineInfo!
-	KOORIVAR_SHIP_escrow: "Escrow" #!Empty_LineInfo!
-	KOORIVAR_SHIP_free_lance: "Free Lance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_sellsail: "Sellsail" #!Empty_LineInfo!
-	KOORIVAR_SHIP_jackpot: "Jackpot" #!Empty_LineInfo!
-	KOORIVAR_SHIP_writeoff: "Writeoff" #!Empty_LineInfo!
-	KOORIVAR_SHIP_double_jeopardy: "Double Jeopardy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_incarcerator: "Incarcerator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bondsman: "Bondsman" #!Empty_LineInfo!
-	KOORIVAR_SHIP_reclaimer: "Reclaimer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_claimant: "Claimant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_repossessor: "Repossessor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_final_notice: "Final Notice" #!Empty_LineInfo!
-	KOORIVAR_SHIP_balancer: "Balancer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_scale_of_war: "Scale of War" #!Empty_LineInfo!
-	KOORIVAR_SHIP_prevailing_wind: "Prevailing Wind" #!Empty_LineInfo!
-	KOORIVAR_SHIP_exigent_circumstance: "Exigent Circumstance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_force_majeure: "Force Majeure" #!Empty_LineInfo!
-	KOORIVAR_SHIP_liable: "Liable" #!Empty_LineInfo!
-	KOORIVAR_SHIP_obligator: "Obligator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_obligor: "Obligor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_malfeasance: "Malfeasance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_natural_hedge: "Natural Hedge" #!Empty_LineInfo!
-	KOORIVAR_SHIP_derivative: "Derivative" #!Empty_LineInfo!
-	KOORIVAR_SHIP_exposure: "Exposure" #!Empty_LineInfo!
-	KOORIVAR_SHIP_repudiator: "Repudiator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_externality: "Externality" #!Empty_LineInfo!
-	KOORIVAR_SHIP_high_water: "High Water" #!Empty_LineInfo!
-	KOORIVAR_SHIP_transactor: "Transactor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_in_breach: "In Breach" #!Empty_LineInfo!
-	KOORIVAR_SHIP_legally_bound: "Legally Bound" #!Empty_LineInfo!
-	KOORIVAR_SHIP_invoidable: "Invoidable" #!Empty_LineInfo!
-	KOORIVAR_SHIP_unimpeachable: "Unimpeachable" #!Empty_LineInfo!
-	KOORIVAR_SHIP_uninfringible: "Uninfringible" #!Empty_LineInfo!
-	KOORIVAR_SHIP_contractor: "Contractor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_warrant: "Warrant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_due_consideration: "Due Consideration" #!Empty_LineInfo!
-	KOORIVAR_SHIP_concession: "Concession" #!Empty_LineInfo!
-	KOORIVAR_SHIP_malefactor: "Malefactor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_undue_influence: "Undue Influence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_inspector: "Inspector" #!Empty_LineInfo!
-	KOORIVAR_SHIP_enigma: "Enigma" #!Empty_LineInfo!
-	KOORIVAR_SHIP_equity: "Equity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_debtor: "Debtor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_syndicator: "Syndicator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hostile_takeover: "Hostile Takeover" #!Empty_LineInfo!
-	KOORIVAR_SHIP_poison_pill: "Poison Pill" #!Empty_LineInfo!
-	KOORIVAR_SHIP_master: "Master" #!Empty_LineInfo!
-	KOORIVAR_SHIP_maximal: "Maximal" #!Empty_LineInfo!
-	KOORIVAR_SHIP_maximus: "Maximus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_narrow_margin: "Narrow Margin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vulture: "Vulture" #!Empty_LineInfo!
-	KOORIVAR_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_treasure_trove: "Treasure Trove" #!Empty_LineInfo!
-	KOORIVAR_SHIP_no_luck_required: "No Luck Required" #!Empty_LineInfo!
-	KOORIVAR_SHIP_northstar: "Northstar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_venture: "Venture" #!Empty_LineInfo!
-	KOORIVAR_SHIP_silent_partner: "Silent Partner" #!Empty_LineInfo!
-	KOORIVAR_SHIP_liquidator: "Liquidator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_dalliance: "Dalliance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_expropriator: "Expropriator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_overruler: "Overruler" #!Empty_LineInfo!
-	KOORIVAR_SHIP_nullifier: "Nullifier" #!Empty_LineInfo!
-	KOORIVAR_SHIP_void_dragon: "Void Dragon" #!Empty_LineInfo!
-	KOORIVAR_SHIP_annuller: "Annuller" #!Empty_LineInfo!
-	KOORIVAR_SHIP_negator: "Negator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_deracinator: "Deracinator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_incinerator: "Incinerator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_caveat: "Caveat" #!Empty_LineInfo!
-	KOORIVAR_SHIP_severance: "Severance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bottom_line: "Bottom Line" #!Empty_LineInfo!
-	KOORIVAR_SHIP_recompense: "Recompense" #!Empty_LineInfo!
-	KOORIVAR_SHIP_compensator: "Compensator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_discharger: "Discharger" #!Empty_LineInfo!
-	KOORIVAR_SHIP_debtor_s_fetters: "Debtor's Fetters" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fetterer: "Fetterer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_founder: "Founder" #!Empty_LineInfo!
-	KOORIVAR_SHIP_firegem: "Firegem" #!Empty_LineInfo!
-	KOORIVAR_SHIP_in_the_red: "In the Red" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
-	KOORIVAR_SHIP_corswain: "Corswain" #!Empty_LineInfo!
-	KOORIVAR_SHIP_redhorn: "Redhorn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_greythorn: "Greythorn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bombast: "Bombast" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bravado: "Bravado" #!Empty_LineInfo!
-	KOORIVAR_SHIP_breacher: "Breacher" #!Empty_LineInfo!
-	KOORIVAR_SHIP_backer: "Backer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_accountant: "Accountant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_actuizer: "Actuizer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_acompli: "Acompli" #!Empty_LineInfo!
-	KOORIVAR_SHIP_avarice: "Avarice" #!Empty_LineInfo!
-	KOORIVAR_SHIP_artifice: "Artifice" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hidden_hand: "Hidden Hand" #!Empty_LineInfo!
-	KOORIVAR_SHIP_akimbo: "Akimbo" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fusilier: "Fusilier" #!Empty_LineInfo!
-	KOORIVAR_SHIP_matron: "Matron" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hooded_blade: "Hooded Blade" #!Empty_LineInfo!
-	KOORIVAR_SHIP_murkhana: "Murkhana" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bomis_koori: "Bomis Koori" #!Empty_LineInfo!
-	KOORIVAR_SHIP_moorja: "Moorja" #!Empty_LineInfo!
-	KOORIVAR_SHIP_general_dassyne: "General Dassyne" #!Empty_LineInfo!
-	KOORIVAR_SHIP_general_terrus: "General Terrus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_valorum_s_folly: "Valorum's Folly" #!Empty_LineInfo!
-	KOORIVAR_SHIP_magistrate: "Magistrate" #!Empty_LineInfo!
-	KOORIVAR_SHIP_starbright: "Starbright" #!Empty_LineInfo!
-	KOORIVAR_SHIP_battle_of_fakir: "Battle of Fakir" #!Empty_LineInfo!
-	KOORIVAR_SHIP_shark: "Shark" #!Empty_LineInfo!
-	KOORIVAR_SHIP_commander_merai: "Commander Merai" #!Empty_LineInfo!
-	KOORIVAR_SHIP_persuader: "Persuader" #!Empty_LineInfo!
-	KOORIVAR_SHIP_enforcer: "Enforcer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_memory_of_ukio: "Memory of Ukio" #!Empty_LineInfo!
-	KOORIVAR_SHIP_instinction: "Instinction" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tumult: "Tumult" #!Empty_LineInfo!
-	KOORIVAR_SHIP_shimmerbird: "Shimmerbird" #!Empty_LineInfo!
-	KOORIVAR_SHIP_crainum: "Crainum" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cerebrum: "Cerebrum" #!Empty_LineInfo!
-	KOORIVAR_SHIP_auric_horn: "Auric Horn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_silver_point: "Silver Point" #!Empty_LineInfo!
-	KOORIVAR_SHIP_corsuca_spike: "Corsuca Spike" #!Empty_LineInfo!
-	KOORIVAR_SHIP_antler: "Antler" #!Empty_LineInfo!
-	KOORIVAR_SHIP_prong_of_war: "Prong of War" #!Empty_LineInfo!
-	KOORIVAR_SHIP_razorhorn: "Razorhorn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cornet: "Cornet" #!Empty_LineInfo!
-	KOORIVAR_SHIP_magisterial: "Magisterial" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cuspis: "Cuspis" #!Empty_LineInfo!
-	KOORIVAR_SHIP_incisor: "Incisor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tocsin: "Tocsin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_batterer: "Batterer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_memento_of_kooriva: "Memento of Kooriva" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fantail: "Fantail" #!Empty_LineInfo!
-	KOORIVAR_SHIP_sarapin: "Sarapin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_denaria_kee: "Denaria Kee" #!Empty_LineInfo!
-	KOORIVAR_SHIP_admiral_trench: "Admiral Trench" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vibroblade: "Vibroblade" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vibroknife: "Vibroknife" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vibroax: "Vibroax" #!Empty_LineInfo!
-	KOORIVAR_SHIP_voe_atell: "Voe Atell" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pummeler: "Pummeler" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fire_of_teller: "Fire of Teller" #!Empty_LineInfo!
-	KOORIVAR_SHIP_parsec_predator: "Parsec Predator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_amita_fonti: "Amita Fonti" #!Empty_LineInfo!
-	KOORIVAR_SHIP_voice_of_industry: "Voice of Industry" #!Empty_LineInfo!
-	KOORIVAR_SHIP_senior_creditor: "Senior Creditor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_collector: "Collector" #!Empty_LineInfo!
-	KOORIVAR_SHIP_negotiator: "Negotiator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_merchant_queen: "Merchant Queen" #!Empty_LineInfo!
-	KOORIVAR_SHIP_trade_monarch: "Trade Monarch" #!Empty_LineInfo!
-	KOORIVAR_SHIP_impairment: "Impairment" #!Empty_LineInfo!
-	KOORIVAR_SHIP_rightful_claim: "Rightful Claim" #!Empty_LineInfo!
-	KOORIVAR_SHIP_watchdog: "Watchdog" #!Empty_LineInfo!
-	KOORIVAR_SHIP_expiator: "Expiator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_justifier: "Justifier" #!Empty_LineInfo!
-	KOORIVAR_SHIP_repatriator: "Repatriator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_insistent: "Insistent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_munificus: "Munificus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bounty: "Bounty" #!Empty_LineInfo!
-	KOORIVAR_SHIP_obligant: "Obligant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_king_commerce: "King Commerce" #!Empty_LineInfo!
-	KOORIVAR_SHIP_arbitrage: "Arbitrage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_chartist: "Chartist" #!Empty_LineInfo!
-	KOORIVAR_SHIP_leverage: "Leverage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_liquidity: "Liquidity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_optionality: "Optionality" #!Empty_LineInfo!
-	KOORIVAR_SHIP_short_sell: "Short Sell" #!Empty_LineInfo!
-	KOORIVAR_SHIP_commercial_imperative: "Commercial Imperative" #!Empty_LineInfo!
-	KOORIVAR_SHIP_intercessor: "Intercessor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_creditor_rex: "Creditor Rex" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hoarder: "Hoarder" #!Empty_LineInfo!
-	KOORIVAR_SHIP_corporate_raider: "Corporate Raider" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aggressive_acquisition: "Aggressive Acquisition" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_standard: "Aurodium Standard" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_dream: "Aurodium Dream" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bullion_prince: "Bullion Prince" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kilobar: "Kilobar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_speculative_position: "Speculative Position" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_splendor: "Aurodium Splendor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_age: "Aurodium Age" #!Empty_LineInfo!
-	KOORIVAR_SHIP_largesse: "Largesse" #!Empty_LineInfo!
-	KOORIVAR_SHIP_restitution: "Restitution" #!Empty_LineInfo!
-	KOORIVAR_SHIP_reparation: "Reparation" #!Empty_LineInfo!
-	KOORIVAR_SHIP_probable_cause: "Probable Cause" #!Empty_LineInfo!
-	KOORIVAR_SHIP_null_and_void: "Null and Void" #!Empty_LineInfo!
-	KOORIVAR_SHIP_retainer: "Retainer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_face_value: "Face Value" #!Empty_LineInfo!
-	KOORIVAR_SHIP_warranty: "Warranty" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pure_alpha: "Pure Alpha" #!Empty_LineInfo!
-	KOORIVAR_SHIP_excess_return: "Excess Return" #!Empty_LineInfo!
-	KOORIVAR_SHIP_accreditor: "Accreditor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_activist: "Activist" #!Empty_LineInfo!
-	KOORIVAR_SHIP_intangible: "Intangible" #!Empty_LineInfo!
-	KOORIVAR_SHIP_assurance: "Assurance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_auditor: "Auditor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_judgement: "Judgement" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cease_and_desist: "Cease and Desist" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kaebol: "Kaebol" #!Empty_LineInfo!
-	KOORIVAR_SHIP_clawback: "Clawback" #!Empty_LineInfo!
-	KOORIVAR_SHIP_buyout: "Buyout" #!Empty_LineInfo!
-	KOORIVAR_SHIP_payout: "Payout" #!Empty_LineInfo!
-	KOORIVAR_SHIP_payoff: "Payoff" #!Empty_LineInfo!
-	KOORIVAR_SHIP_dividend: "Dividend" #!Empty_LineInfo!
-	KOORIVAR_SHIP_compliant: "Compliant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_controller: "Controller" #!Empty_LineInfo!
-	KOORIVAR_SHIP_firewall: "Firewall" #!Empty_LineInfo!
-	KOORIVAR_SHIP_indemnifier: "Indemnifier" #!Empty_LineInfo!
-	KOORIVAR_SHIP_duty_of_candor: "Duty of Candor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fiduciary_duty: "Fiduciary Duty" #!Empty_LineInfo!
-	KOORIVAR_SHIP_facilitator: "Facilitator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tsarbanes_toxley: "Tsarbanes Toxley" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_handcuff: "Aurodium Handcuff" #!Empty_LineInfo!
-	KOORIVAR_SHIP_highwater: "Highwater" #!Empty_LineInfo!
-	KOORIVAR_SHIP_inside_warrior: "Inside Warrior" #!Empty_LineInfo!
-	KOORIVAR_SHIP_veiretsu: "Veiretsu" #!Empty_LineInfo!
-	KOORIVAR_SHIP_mark_to_market: "Mark to Market" #!Empty_LineInfo!
-	KOORIVAR_SHIP_moral_salience: "Moral Salience" #!Empty_LineInfo!
-	KOORIVAR_SHIP_notional: "Notional" #!Empty_LineInfo!
-	KOORIVAR_SHIP_outside_director: "Outside Director" #!Empty_LineInfo!
-	KOORIVAR_SHIP_premium_option: "Premium Option" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pay_to_win: "Pay To Win" #!Empty_LineInfo!
-	KOORIVAR_SHIP_proxy: "Proxy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_reputation: "Reputation" #!Empty_LineInfo!
-	KOORIVAR_SHIP_exchanger: "Exchanger" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aurodium_parachute: "Aurodium Parachute" #!Empty_LineInfo!
-	KOORIVAR_SHIP_self_interest: "Self Interest" #!Empty_LineInfo!
-	KOORIVAR_SHIP_stakeholder: "Stakeholder" #!Empty_LineInfo!
-	KOORIVAR_SHIP_succession: "Succession" #!Empty_LineInfo!
-	KOORIVAR_SHIP_total_return: "Total Return" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tranche: "Tranche" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ultra_vires: "Ultra Vires" #!Empty_LineInfo!
-	KOORIVAR_SHIP_uncontested: "Uncontested" #!Empty_LineInfo!
-	KOORIVAR_SHIP_elastic: "Elastic" #!Empty_LineInfo!
-	KOORIVAR_SHIP_due_diligence: "Due Diligence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fungible: "Fungible" #!Empty_LineInfo!
-	KOORIVAR_SHIP_perfect_storm: "Perfect Storm" #!Empty_LineInfo!
-	KOORIVAR_SHIP_high_yield: "High Yield" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vengeance_of_antar: "Vengeance of Antar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_speculator: "Speculator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_market_correction: "Market Correction" #!Empty_LineInfo!
-	KOORIVAR_SHIP_selloff: "Selloff" #!Empty_LineInfo!
-	KOORIVAR_SHIP_horned_king: "Horned King" #!Empty_LineInfo!
-	KOORIVAR_SHIP_armor_of_horns: "Armor of Horns" #!Empty_LineInfo!
-	KOORIVAR_SHIP_blackspike: "Blackspike" #!Empty_LineInfo!
-	KOORIVAR_SHIP_marrowspike: "Marrowspike" #!Empty_LineInfo!
-	KOORIVAR_SHIP_lone_trekker: "Lone Trekker" #!Empty_LineInfo!
-	KOORIVAR_SHIP_prudent: "Prudent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vergent: "Vergent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_valorant: "Valorant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_shai_malud: "Shai Malud" #!Empty_LineInfo!
-	KOORIVAR_SHIP_nightrunner: "Nightrunner" #!Empty_LineInfo!
-	KOORIVAR_SHIP_starsnake: "Starsnake" #!Empty_LineInfo!
-	KOORIVAR_SHIP_volumex: "Volumex" #!Empty_LineInfo!
-	KOORIVAR_SHIP_eminent: "Eminent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_azerin: "Azerin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_iota: "Iota" #!Empty_LineInfo!
-	KOORIVAR_SHIP_mutrobo: "Mutrobo" #!Empty_LineInfo!
-	KOORIVAR_SHIP_rover: "Rover" #!Empty_LineInfo!
-	KOORIVAR_SHIP_revolt: "Revolt" #!Empty_LineInfo!
-	KOORIVAR_SHIP_purposeful: "Purposeful" #!Empty_LineInfo!
-	KOORIVAR_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_farstar: "Farstar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_entrepot: "Entrepot" #!Empty_LineInfo!
-	KOORIVAR_SHIP_exclave: "Exclave" #!Empty_LineInfo!
-	KOORIVAR_SHIP_reclamation: "Reclamation" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hornblower: "Hornblower" #!Empty_LineInfo!
-	KOORIVAR_SHIP_voidcaller: "Voidcaller" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fruitful: "Fruitful" #!Empty_LineInfo!
-	KOORIVAR_SHIP_expander: "Expander" #!Empty_LineInfo!
-	KOORIVAR_SHIP_nomad: "Nomad" #!Empty_LineInfo!
-	KOORIVAR_SHIP_adoption: "Adoption" #!Empty_LineInfo!
-	KOORIVAR_SHIP_urgent: "Urgent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ahspanshen: "Ahspanshen" #!Empty_LineInfo!
-	KOORIVAR_SHIP_seeda: "Seeda" #!Empty_LineInfo!
-	KOORIVAR_SHIP_parasilla: "Parasilla" #!Empty_LineInfo!
-	KOORIVAR_SHIP_journey: "Journey" #!Empty_LineInfo!
-	KOORIVAR_SHIP_farcaller: "Farcaller" #!Empty_LineInfo!
-	KOORIVAR_SHIP_grasper: "Grasper" #!Empty_LineInfo!
-	KOORIVAR_SHIP_scion_of_koorivar: "Scion of Koorivar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_merchant: "Merchant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_convoy: "Convoy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_seed_capital: "Seed Capital" #!Empty_LineInfo!
-	KOORIVAR_SHIP_startup: "Startup" #!Empty_LineInfo!
-	KOORIVAR_SHIP_acquisition: "Acquisition" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cultivation: "Cultivation" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hornqueen: "Hornqueen" #!Empty_LineInfo!
-	KOORIVAR_SHIP_far_horn: "Far Horn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_marginal: "Marginal" #!Empty_LineInfo!
-	KOORIVAR_SHIP_returner: "Returner" #!Empty_LineInfo!
-	KOORIVAR_SHIP_wager: "Wager" #!Empty_LineInfo!
-	KOORIVAR_SHIP_menial: "Menial" #!Empty_LineInfo!
-	KOORIVAR_SHIP_servile: "Servile" #!Empty_LineInfo!
-	KOORIVAR_SHIP_serf: "Serf" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fair_wage: "Fair Wage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fabricar: "Fabricar" #!Empty_LineInfo!
-	KOORIVAR_SHIP_iterator: "Iterator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_servitor: "Servitor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_erector: "Erector" #!Empty_LineInfo!
-	KOORIVAR_SHIP_architectron: "Architectron" #!Empty_LineInfo!
-	KOORIVAR_SHIP_creator: "Creator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_warren: "Warren" #!Empty_LineInfo!
-	KOORIVAR_SHIP_burrower: "Burrower" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hewer: "Hewer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ogl: "Ogl" #!Empty_LineInfo!
-	KOORIVAR_SHIP_depositor: "Depositor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_morning_sweat: "Morning Sweat" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ground_force_lander: "Ground Force Lander" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	KOORIVAR_SHIP_albacore: "Albacore" #!Empty_LineInfo!
-	KOORIVAR_SHIP_gateway: "Gateway" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vincent: "Vincent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_babylon: "Babylon" #!Empty_LineInfo!
-	KOORIVAR_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
-	KOORIVAR_SHIP_acre: "Acre" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
-	KOORIVAR_SHIP_acheron: "Acheron" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spithead: "Spithead" #!Empty_LineInfo!
-	KOORIVAR_SHIP_halifax: "Halifax" #!Empty_LineInfo!
-	KOORIVAR_SHIP_victoria: "Victoria" #!Empty_LineInfo!
-	KOORIVAR_SHIP_chatham: "Chatham" #!Empty_LineInfo!
-	KOORIVAR_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
-	KOORIVAR_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
-	KOORIVAR_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
-	KOORIVAR_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
-	KOORIVAR_SHIP_newport: "Newport" #!Empty_LineInfo!
-	KOORIVAR_SHIP_guam: "Guam" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
-	KOORIVAR_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
-	KOORIVAR_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
-	KOORIVAR_SHIP_everest: "Everest" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
-	KOORIVAR_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
-	KOORIVAR_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
-	KOORIVAR_SHIP_fuji: "Fuji" #!Empty_LineInfo!
-	KOORIVAR_SHIP_olympus: "Olympus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_sinai: "Sinai" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
-	KOORIVAR_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
-	KOORIVAR_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
-	KOORIVAR_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
-	KOORIVAR_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
-	KOORIVAR_SHIP_blackham: "Blackham" #!Empty_LineInfo!
-	KOORIVAR_SHIP_perry: "Perry" #!Empty_LineInfo!
-	KOORIVAR_SHIP_butakov: "Butakov" #!Empty_LineInfo!
-	KOORIVAR_SHIP_morris: "Morris" #!Empty_LineInfo!
-	KOORIVAR_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hart: "Hart" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hargood: "Hargood" #!Empty_LineInfo!
-	KOORIVAR_SHIP_spruance: "Spruance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
-	KOORIVAR_SHIP_halsey: "Halsey" #!Empty_LineInfo!
-	KOORIVAR_SHIP_turner: "Turner" #!Empty_LineInfo!
-	KOORIVAR_SHIP_doria: "Doria" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
-	KOORIVAR_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
-	KOORIVAR_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hipper: "Hipper" #!Empty_LineInfo!
-	KOORIVAR_SHIP_beatty: "Beatty" #!Empty_LineInfo!
-	KOORIVAR_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_durham: "Durham" #!Empty_LineInfo!
-	KOORIVAR_SHIP_codrington: "Codrington" #!Empty_LineInfo!
-	KOORIVAR_SHIP_milne: "Milne" #!Empty_LineInfo!
-	KOORIVAR_SHIP_laforey: "Laforey" #!Empty_LineInfo!
-	KOORIVAR_SHIP_tyler: "Tyler" #!Empty_LineInfo!
-	KOORIVAR_SHIP_hawke: "Hawke" #!Empty_LineInfo!
-	KOORIVAR_SHIP_yonai: "Yonai" #!Empty_LineInfo!
-	KOORIVAR_SHIP_pound: "Pound" #!Empty_LineInfo!
-	KOORIVAR_SHIP_king: "King" #!Empty_LineInfo!
-	KOORIVAR_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
-	KOORIVAR_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
-	KOORIVAR_SHIP_essen: "Essen" #!Empty_LineInfo!
-	KOORIVAR_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
-	KOORIVAR_SHIP_suffren: "Suffren" #!Empty_LineInfo!
-	KOORIVAR_SHIP_treville: "Treville" #!Empty_LineInfo!
-	KOORIVAR_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
-	KOORIVAR_SHIP_grasse: "Grasse" #!Empty_LineInfo!
-	KOORIVAR_SHIP_byng: "Byng" #!Empty_LineInfo!
-	KOORIVAR_SHIP_lezo: "Lezo" #!Empty_LineInfo!
-	KOORIVAR_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	KOORIVAR_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	KOORIVAR_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	KOORIVAR_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	KOORIVAR_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	KOORIVAR_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	KOORIVAR_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	KOORIVAR_FLEET_enforcer_group_ORD: "$ORD$ Enforcer Group" #!Empty_LineInfo!
-	KOORIVAR_ARMY_koorivian_guard_ORD: "$ORD$ Koorivian Guard" #!Empty_LineInfo!
-	KOORIVAR_ARMY_expeditionary_fusiliers_ORD: "$ORD$ Expeditionary Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_supervised_rifles_ORD: "$ORD$ Supervised Rifles" #!Empty_LineInfo!
-	KOORIVAR_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	KOORIVAR_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	KOORIVAR_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_a_fusiliers: "SARC-A Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_b_fusiliers: "SARC-B Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_c_fusiliers: "SARC-C Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_d_fusiliers: "SARC-D Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_e_fusiliers: "SARC-E Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_f_fusiliers: "SARC-F Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_g_fusiliers: "SARC-G Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_h_fusiliers: "SARC-H Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_i_fusiliers: "SARC-I Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sarc_j_fusiliers: "SARC-J Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fusiliers_ORD: "$ORD$ Fusiliers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	KOORIVAR_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	KOORIVAR_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	KOORIVAR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	KOORIVAR_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	KOORIVAR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	KOORIVAR_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	KOORIVAR_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	KOORIVAR_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	KOORIVAR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	KOORIVAR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	KOORIVAR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	KOORIVAR_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	KOORIVAR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	KOORIVAR_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	KOORIVAR_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	KOORIVAR_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	KOORIVAR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	KOORIVAR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	KOORIVAR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	KOORIVAR_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	KOORIVAR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	KOORIVAR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	KOORIVAR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	KOORIVAR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	KOORIVAR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	KOORIVAR_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	KOORIVAR_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	KOORIVAR_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	KOORIVAR_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	KOORIVAR_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	KOORIVAR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	KOORIVAR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	KOORIVAR_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	KOORIVAR_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	KOORIVAR_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	KOORIVAR_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	KOORIVAR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	KOORIVAR_CHR_shand: "Shand" #!Empty_LineInfo!
-	KOORIVAR_CHR_terrem: "Terrem" #!Empty_LineInfo!
-	KOORIVAR_CHR_menas: "Menas" #!Empty_LineInfo!
-	KOORIVAR_CHR_passel: "Passel" #!Empty_LineInfo!
-	KOORIVAR_CHR_bioto: "Bioto" #!Empty_LineInfo!
-	KOORIVAR_CHR_cala: "Cala" #!Empty_LineInfo!
-	KOORIVAR_CHR_oro: "Oro" #!Empty_LineInfo!
-	KOORIVAR_CHR_masel: "Masel" #!Empty_LineInfo!
-	KOORIVAR_CHR_terrus: "Terrus" #!Empty_LineInfo!
-	KOORIVAR_CHR_tuten: "Tuten" #!Empty_LineInfo!
-	KOORIVAR_CHR_sheb: "Sheb" #!Empty_LineInfo!
-	KOORIVAR_CHR_aypo: "Aypo" #!Empty_LineInfo!
-	KOORIVAR_CHR_abdied: "Abdied" #!Empty_LineInfo!
-	KOORIVAR_CHR_adel: "Adel" #!Empty_LineInfo!
-	KOORIVAR_CHR_abned: "Abned" #!Empty_LineInfo!
-	KOORIVAR_CHR_adram: "Adram" #!Empty_LineInfo!
-	KOORIVAR_CHR_adramsu: "Adramsu" #!Empty_LineInfo!
-	KOORIVAR_CHR_adim: "Adim" #!Empty_LineInfo!
-	KOORIVAR_CHR_ammai: "Ammai" #!Empty_LineInfo!
-	KOORIVAR_CHR_adimin: "Adimin" #!Empty_LineInfo!
-	KOORIVAR_CHR_aldai: "Aldai" #!Empty_LineInfo!
-	KOORIVAR_CHR_adridas: "Adridas" #!Empty_LineInfo!
-	KOORIVAR_CHR_adabu: "Adabu" #!Empty_LineInfo!
-	KOORIVAR_CHR_adir: "Adir" #!Empty_LineInfo!
-	KOORIVAR_CHR_amozi: "Amozi" #!Empty_LineInfo!
-	KOORIVAR_CHR_adiom: "Adiom" #!Empty_LineInfo!
-	KOORIVAR_CHR_azaya: "Azaya" #!Empty_LineInfo!
-	KOORIVAR_CHR_ashel: "Ashel" #!Empty_LineInfo!
-	KOORIVAR_CHR_adiel: "Adiel" #!Empty_LineInfo!
-	KOORIVAR_CHR_babab: "Babab" #!Empty_LineInfo!
-	KOORIVAR_CHR_badon: "Badon" #!Empty_LineInfo!
-	KOORIVAR_CHR_bahadul: "Bahadul" #!Empty_LineInfo!
-	KOORIVAR_CHR_bahmam: "Bahmam" #!Empty_LineInfo!
-	KOORIVAR_CHR_bahral: "Bahral" #!Empty_LineInfo!
-	KOORIVAR_CHR_bassel: "Bassel" #!Empty_LineInfo!
-	KOORIVAR_CHR_budim: "Budim" #!Empty_LineInfo!
-	KOORIVAR_CHR_cano: "Cano" #!Empty_LineInfo!
-	KOORIVAR_CHR_chayid: "Chayid" #!Empty_LineInfo!
-	KOORIVAR_CHR_dano: "Dano" #!Empty_LineInfo!
-	KOORIVAR_CHR_doder: "Doder" #!Empty_LineInfo!
-	KOORIVAR_CHR_efrayi: "Efrayi" #!Empty_LineInfo!
-	KOORIVAR_CHR_eiyaho: "Eiyaho" #!Empty_LineInfo!
-	KOORIVAR_CHR_eder: "Eder" #!Empty_LineInfo!
-	KOORIVAR_CHR_edaalo: "Edaalo" #!Empty_LineInfo!
-	KOORIVAR_CHR_eldauim: "Eldauim" #!Empty_LineInfo!
-	KOORIVAR_CHR_fudel: "Fudel" #!Empty_LineInfo!
-	KOORIVAR_CHR_fedish: "Fedish" #!Empty_LineInfo!
-	KOORIVAR_CHR_dag: "Dag" #!Empty_LineInfo!
-	KOORIVAR_CHR_dadid: "Dadid" #!Empty_LineInfo!
-	KOORIVAR_CHR_dedaliah: "Dedaliah" #!Empty_LineInfo!
-	KOORIVAR_CHR_orshom: "Orshom" #!Empty_LineInfo!
-	KOORIVAR_CHR_gedom: "Gedom" #!Empty_LineInfo!
-	KOORIVAR_CHR_gedel: "Gedel" #!Empty_LineInfo!
-	KOORIVAR_CHR_kudil: "Kudil" #!Empty_LineInfo!
-	KOORIVAR_CHR_lemual: "Lemual" #!Empty_LineInfo!
-	KOORIVAR_CHR_ledi: "Ledi" #!Empty_LineInfo!
-	KOORIVAR_CHR_mababam: "Mababam" #!Empty_LineInfo!
-	KOORIVAR_CHR_menabem: "Menabem" #!Empty_LineInfo!
-	KOORIVAR_CHR_mebabe: "Mebabe" #!Empty_LineInfo!
-	KOORIVAR_CHR_mendal: "Mendal" #!Empty_LineInfo!
-	KOORIVAR_CHR_bordecaii: "Bordecaii" #!Empty_LineInfo!
-	KOORIVAR_CHR_soshe: "Soshe" #!Empty_LineInfo!
-	KOORIVAR_CHR_nashe: "Nashe" #!Empty_LineInfo!
-	KOORIVAR_CHR_batan: "Batan" #!Empty_LineInfo!
-	KOORIVAR_CHR_detanaiel: "Detanaiel" #!Empty_LineInfo!
-	KOORIVAR_CHR_boach: "Boach" #!Empty_LineInfo!
-	KOORIVAR_CHR_shoam: "Shoam" #!Empty_LineInfo!
-	KOORIVAR_CHR_shineas: "Shineas" #!Empty_LineInfo!
-	KOORIVAR_CHR_redae: "Redae" #!Empty_LineInfo!
-	KOORIVAR_CHR_reuden: "Reuden" #!Empty_LineInfo!
-	KOORIVAR_CHR_salo: "Salo" #!Empty_LineInfo!
-	KOORIVAR_CHR_shoul: "Shoul" #!Empty_LineInfo!
-	KOORIVAR_CHR_sdimion: "Sdimion" #!Empty_LineInfo!
-	KOORIVAR_CHR_somo: "Somo" #!Empty_LineInfo!
-	KOORIVAR_CHR_slumel: "Slumel" #!Empty_LineInfo!
-	KOORIVAR_CHR_smaryahu: "Smaryahu" #!Empty_LineInfo!
-	KOORIVAR_CHR_sheur: "Sheur" #!Empty_LineInfo!
-	KOORIVAR_CHR_shada: "Shada" #!Empty_LineInfo!
-	KOORIVAR_CHR_todro: "Todro" #!Empty_LineInfo!
-	KOORIVAR_CHR_todiyah: "Todiyah" #!Empty_LineInfo!
-	KOORIVAR_CHR_tdi: "Tdi" #!Empty_LineInfo!
-	KOORIVAR_CHR_udi: "Udi" #!Empty_LineInfo!
-	KOORIVAR_CHR_daakod: "Daakod" #!Empty_LineInfo!
-	KOORIVAR_CHR_ededel: "Ededel" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebiel: "Yebiel" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebibyah: "Yebibyah" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebet: "Yebet" #!Empty_LineInfo!
-	KOORIVAR_CHR_jadeth: "Jadeth" #!Empty_LineInfo!
-	KOORIVAR_CHR_yedoua: "Yedoua" #!Empty_LineInfo!
-	KOORIVAR_CHR_yeduda: "Yeduda" #!Empty_LineInfo!
-	KOORIVAR_CHR_yedudel: "Yedudel" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebayau: "Yebayau" #!Empty_LineInfo!
-	KOORIVAR_CHR_yibtad: "Yibtad" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebtab: "Yebtab" #!Empty_LineInfo!
-	KOORIVAR_CHR_yibael: "Yibael" #!Empty_LineInfo!
-	KOORIVAR_CHR_yiddada: "Yiddada" #!Empty_LineInfo!
-	KOORIVAR_CHR_yidal: "Yidal" #!Empty_LineInfo!
-	KOORIVAR_CHR_yiduul: "Yiduul" #!Empty_LineInfo!
-	KOORIVAR_CHR_yoad: "Yoad" #!Empty_LineInfo!
-	KOORIVAR_CHR_yoel: "Yoel" #!Empty_LineInfo!
-	KOORIVAR_CHR_yodaan: "Yodaan" #!Empty_LineInfo!
-	KOORIVAR_CHR_yod_bod: "Yod Bod" #!Empty_LineInfo!
-	KOORIVAR_CHR_yobah: "Yobah" #!Empty_LineInfo!
-	KOORIVAR_CHR_bodam: "Bodam" #!Empty_LineInfo!
-	KOORIVAR_CHR_ye_ed: "Ye'ed" #!Empty_LineInfo!
-	KOORIVAR_CHR_zibulun: "Zibulun" #!Empty_LineInfo!
-	KOORIVAR_CHR_zelib: "Zelib" #!Empty_LineInfo!
-	KOORIVAR_CHR_zubel: "Zubel" #!Empty_LineInfo!
-	KOORIVAR_CHR_zuddya: "Zuddya" #!Empty_LineInfo!
-	KOORIVAR_CHR_leosa: "Leosa" #!Empty_LineInfo!
-	KOORIVAR_CHR_sariyah: "Sariyah" #!Empty_LineInfo!
-	KOORIVAR_CHR_denaria: "Denaria" #!Empty_LineInfo!
-	KOORIVAR_CHR_makarial: "Makarial" #!Empty_LineInfo!
-	KOORIVAR_CHR_basella: "Basella" #!Empty_LineInfo!
-	KOORIVAR_CHR_dibella: "Dibella" #!Empty_LineInfo!
-	KOORIVAR_CHR_sadah: "Sadah" #!Empty_LineInfo!
-	KOORIVAR_CHR_sadina: "Sadina" #!Empty_LineInfo!
-	KOORIVAR_CHR_lalde: "Lalde" #!Empty_LineInfo!
-	KOORIVAR_CHR_adena: "Adena" #!Empty_LineInfo!
-	KOORIVAR_CHR_adidai: "Adidai" #!Empty_LineInfo!
-	KOORIVAR_CHR_adida: "Adida" #!Empty_LineInfo!
-	KOORIVAR_CHR_baya: "Baya" #!Empty_LineInfo!
-	KOORIVAR_CHR_didiha: "Didiha" #!Empty_LineInfo!
-	KOORIVAR_CHR_seina: "Seina" #!Empty_LineInfo!
-	KOORIVAR_CHR_sunah: "Sunah" #!Empty_LineInfo!
-	KOORIVAR_CHR_dhanai: "Dhanai" #!Empty_LineInfo!
-	KOORIVAR_CHR_dasa: "Dasa" #!Empty_LineInfo!
-	KOORIVAR_CHR_mahdha: "Mahdha" #!Empty_LineInfo!
-	KOORIVAR_CHR_haba: "Haba" #!Empty_LineInfo!
-	KOORIVAR_CHR_dhaya: "Dhaya" #!Empty_LineInfo!
-	KOORIVAR_CHR_boballa: "Boballa" #!Empty_LineInfo!
-	KOORIVAR_CHR_dohsa: "Dohsa" #!Empty_LineInfo!
-	KOORIVAR_CHR_esdel: "Esdel" #!Empty_LineInfo!
-	KOORIVAR_CHR_deida: "Deida" #!Empty_LineInfo!
-	KOORIVAR_CHR_beida: "Beida" #!Empty_LineInfo!
-	KOORIVAR_CHR_selleh: "Selleh" #!Empty_LineInfo!
-	KOORIVAR_CHR_senana: "Senana" #!Empty_LineInfo!
-	KOORIVAR_CHR_disse: "Disse" #!Empty_LineInfo!
-	KOORIVAR_CHR_gildoa: "Gildoa" #!Empty_LineInfo!
-	KOORIVAR_CHR_gunaha: "Gunaha" #!Empty_LineInfo!
-	KOORIVAR_CHR_gadia: "Gadia" #!Empty_LineInfo!
-	KOORIVAR_CHR_hadaddah: "Hadaddah" #!Empty_LineInfo!
-	KOORIVAR_CHR_leaada: "Leaada" #!Empty_LineInfo!
-	KOORIVAR_CHR_lieda: "Lieda" #!Empty_LineInfo!
-	KOORIVAR_CHR_madla: "Madla" #!Empty_LineInfo!
-	KOORIVAR_CHR_malba: "Malba" #!Empty_LineInfo!
-	KOORIVAR_CHR_mabola: "Mabola" #!Empty_LineInfo!
-	KOORIVAR_CHR_maseh: "Maseh" #!Empty_LineInfo!
-	KOORIVAR_CHR_mabona: "Mabona" #!Empty_LineInfo!
-	KOORIVAR_CHR_mabilba: "Mabilba" #!Empty_LineInfo!
-	KOORIVAR_CHR_mabal: "Mabal" #!Empty_LineInfo!
-	KOORIVAR_CHR_mebudhah: "Mebudhah" #!Empty_LineInfo!
-	KOORIVAR_CHR_mibiam: "Mibiam" #!Empty_LineInfo!
-	KOORIVAR_CHR_mibyam: "Mibyam" #!Empty_LineInfo!
-	KOORIVAR_CHR_nabalah: "Nabalah" #!Empty_LineInfo!
-	KOORIVAR_CHR_nedamah: "Nedamah" #!Empty_LineInfo!
-	KOORIVAR_CHR_puahda: "Puahda" #!Empty_LineInfo!
-	KOORIVAR_CHR_pebibah: "Pebibah" #!Empty_LineInfo!
-	KOORIVAR_CHR_rabel: "Rabel" #!Empty_LineInfo!
-	KOORIVAR_CHR_ribiah: "Ribiah" #!Empty_LineInfo!
-	KOORIVAR_CHR_rhoba: "Rhoba" #!Empty_LineInfo!
-	KOORIVAR_CHR_roda: "Roda" #!Empty_LineInfo!
-	KOORIVAR_CHR_sabah: "Sabah" #!Empty_LineInfo!
-	KOORIVAR_CHR_shobanah: "Shobanah" #!Empty_LineInfo!
-	KOORIVAR_CHR_shulamib: "Shulamib" #!Empty_LineInfo!
-	KOORIVAR_CHR_simballa: "Simballa" #!Empty_LineInfo!
-	KOORIVAR_CHR_tada: "Tada" #!Empty_LineInfo!
-	KOORIVAR_CHR_tediah: "Tediah" #!Empty_LineInfo!
-	KOORIVAR_CHR_tibah: "Tibah" #!Empty_LineInfo!
-	KOORIVAR_CHR_tobah: "Tobah" #!Empty_LineInfo!
-	KOORIVAR_CHR_tibborah: "Tibborah" #!Empty_LineInfo!
-	KOORIVAR_CHR_tsibbe: "Tsibbe" #!Empty_LineInfo!
-	KOORIVAR_CHR_tsibba: "Tsibba" #!Empty_LineInfo!
-	KOORIVAR_CHR_tsibiah: "Tsibiah" #!Empty_LineInfo!
-	KOORIVAR_CHR_yaebla: "Yaebla" #!Empty_LineInfo!
-	KOORIVAR_CHR_yabbah: "Yabbah" #!Empty_LineInfo!
-	KOORIVAR_CHR_yebuidth: "Yebuidth" #!Empty_LineInfo!
-	KOORIVAR_CHR_isbah: "Isbah" #!Empty_LineInfo!
-	KOORIVAR_CHR_yobanah: "Yobanah" #!Empty_LineInfo!
-	KOORIVAR_CHR_zeba: "Zeba" #!Empty_LineInfo!
-	KOORIVAR_CHR_zibba: "Zibba" #!Empty_LineInfo!
-	KOORIVAR_CHR_zaba: "Zaba" #!Empty_LineInfo!
-	KOORIVAR_CHR_essil: "Essil" #!Empty_LineInfo!
-	KOORIVAR_CHR_jesond: "Jesond" #!Empty_LineInfo!
-	KOORIVAR_CHR_neyrr: "Neyrr" #!Empty_LineInfo!
-	KOORIVAR_CHR_vantare: "Vantare" #!Empty_LineInfo!
-	KOORIVAR_CHR_argente: "Argente" #!Empty_LineInfo!
-	KOORIVAR_CHR_bracchia: "Bracchia" #!Empty_LineInfo!
-	KOORIVAR_CHR_budan: "Budan" #!Empty_LineInfo!
-	KOORIVAR_CHR_kee: "Kee" #!Empty_LineInfo!
-	KOORIVAR_CHR_dassyne: "Dassyne" #!Empty_LineInfo!
-	KOORIVAR_CHR_gravin: "Gravin" #!Empty_LineInfo!
-	KOORIVAR_CHR_valaad: "Valaad" #!Empty_LineInfo!
+ KOORIVAR_SHIP_dutyfree: "Беспошлинный"
+ KOORIVAR_SHIP_escrow: "Условное депонирование"
+ KOORIVAR_SHIP_free_lance: "Вольнонаемный"
+ KOORIVAR_SHIP_sellsail: "Наемник"
+ KOORIVAR_SHIP_jackpot: "Джекпот"
+ KOORIVAR_SHIP_writeoff: "Списание"
+ KOORIVAR_SHIP_double_jeopardy: "Двойная опасность"
+ KOORIVAR_SHIP_incarcerator: "Тюремщик"
+ KOORIVAR_SHIP_bondsman: "Раб"
+ KOORIVAR_SHIP_reclaimer: "Утилизатор"
+ KOORIVAR_SHIP_claimant: "Истец"
+ KOORIVAR_SHIP_repossessor: "Взыскатель"
+ KOORIVAR_SHIP_final_notice: "Окончательное уведомление"
+ KOORIVAR_SHIP_balancer: "Балансировщик"
+ KOORIVAR_SHIP_scale_of_war: "Масштаб войны"
+ KOORIVAR_SHIP_prevailing_wind: "Преобладающий ветер"
+ KOORIVAR_SHIP_exigent_circumstance: "Чрезвычайные обстоятельства"
+ KOORIVAR_SHIP_force_majeure: "Форс-мажорные обстоятельства"
+ KOORIVAR_SHIP_liable: "Ответственный"
+ KOORIVAR_SHIP_obligator: "Обязатель"
+ KOORIVAR_SHIP_obligor: "Должник"
+ KOORIVAR_SHIP_malfeasance: "Должностное преступление"
+ KOORIVAR_SHIP_natural_hedge: "Естественная изгородь"
+ KOORIVAR_SHIP_derivative: "Производная"
+ KOORIVAR_SHIP_exposure: "Разоблачение"
+ KOORIVAR_SHIP_repudiator: "Отрекшийся"
+ KOORIVAR_SHIP_externality: "Внешний эффект"
+ KOORIVAR_SHIP_high_water: "Высокая вода"
+ KOORIVAR_SHIP_transactor: "Транзактор"
+ KOORIVAR_SHIP_in_breach: "Нарушение"
+ KOORIVAR_SHIP_legally_bound: "Юридически связанный"
+ KOORIVAR_SHIP_invoidable: "Подлежащий оплате"
+ KOORIVAR_SHIP_unimpeachable: "Безупречный"
+ KOORIVAR_SHIP_uninfringible: "Непроницаемый"
+ KOORIVAR_SHIP_contractor: "Контрактор"
+ KOORIVAR_SHIP_warrant: "Ордер"
+ KOORIVAR_SHIP_due_consideration: "Должное рассмотрение"
+ KOORIVAR_SHIP_concession: "Уступка"
+ KOORIVAR_SHIP_malefactor: "Злоумышленник"
+ KOORIVAR_SHIP_undue_influence: "Неправомерное влияние"
+ KOORIVAR_SHIP_inspector: "Инспектор"
+ KOORIVAR_SHIP_enigma: "Энигма"
+ KOORIVAR_SHIP_equity: "Собственный капитал"
+ KOORIVAR_SHIP_debtor: "Должник"
+ KOORIVAR_SHIP_syndicator: "Синдикатор"
+ KOORIVAR_SHIP_hostile_takeover: "Враждебное поглощение"
+ KOORIVAR_SHIP_poison_pill: "Пилюля с ядом"
+ KOORIVAR_SHIP_master: "Мастер"
+ KOORIVAR_SHIP_maximal: "Максимальный"
+ KOORIVAR_SHIP_maximus: "Максимус"
+ KOORIVAR_SHIP_narrow_margin: "Узкая граница"
+ KOORIVAR_SHIP_vulture: "Стервятник"
+ KOORIVAR_SHIP_acquirer: "Покупатель"
+ KOORIVAR_SHIP_treasure_trove: "Сокровищница"
+ KOORIVAR_SHIP_no_luck_required: "Удача не требуется"
+ KOORIVAR_SHIP_northstar: "Северная звезда"
+ KOORIVAR_SHIP_venture: "Предприятие"
+ KOORIVAR_SHIP_silent_partner: "Молчаливый партнер"
+ KOORIVAR_SHIP_liquidator: "Ликвидатор"
+ KOORIVAR_SHIP_dalliance: "Флирт"
+ KOORIVAR_SHIP_expropriator: "Экспроприатор"
+ KOORIVAR_SHIP_overruler: "Отклоняющий"
+ KOORIVAR_SHIP_nullifier: "Аннулирующий"
+ KOORIVAR_SHIP_void_dragon: "Дракон пустоты"
+ KOORIVAR_SHIP_annuller: "Аннулирующий"
+ KOORIVAR_SHIP_negator: "Отрицатель"
+ KOORIVAR_SHIP_deracinator: "Дерацинатор"
+ KOORIVAR_SHIP_incinerator: "Мусоросжигатель"
+ KOORIVAR_SHIP_caveat: "Предостережение"
+ KOORIVAR_SHIP_severance: "Выходное пособие"
+ KOORIVAR_SHIP_bottom_line: "Итог"
+ KOORIVAR_SHIP_recompense: "Воздаяние"
+ KOORIVAR_SHIP_compensator: "Компенсатор"
+ KOORIVAR_SHIP_discharger: "Разрядник"
+ KOORIVAR_SHIP_debtor_s_fetters: "Оковы должника"
+ KOORIVAR_SHIP_fetterer: "Сковывающий"
+ KOORIVAR_SHIP_founder: "Основатель"
+ KOORIVAR_SHIP_firegem: "Огненный камень"
+ KOORIVAR_SHIP_in_the_red: "В минусе"
+ KOORIVAR_SHIP_fletcher: "Флетчер"
+ KOORIVAR_SHIP_corswain: "Корсуэн"
+ KOORIVAR_SHIP_redhorn: "Рыжий Рог"
+ KOORIVAR_SHIP_greythorn: "Грейторн"
+ KOORIVAR_SHIP_bombast: "Напыщенность"
+ KOORIVAR_SHIP_bravado: "Бравада"
+ KOORIVAR_SHIP_breacher: "Нарушитель"
+ KOORIVAR_SHIP_backer: "Покровитель"
+ KOORIVAR_SHIP_accountant: "Бухгалтер"
+ KOORIVAR_SHIP_actuizer: "Привод"
+ KOORIVAR_SHIP_acompli: "Акомпли"
+ KOORIVAR_SHIP_avarice: "Алчность"
+ KOORIVAR_SHIP_artifice: "Выдумка"
+ KOORIVAR_SHIP_hidden_hand: "Скрытая рука"
+ KOORIVAR_SHIP_akimbo: "Акимбо"
+ KOORIVAR_SHIP_fusilier: "Стрелок"
+ KOORIVAR_SHIP_matron: "Старшая сестра"
+ KOORIVAR_SHIP_hooded_blade: "Клинок с капюшоном"
+ KOORIVAR_SHIP_murkhana: "Мурхана"
+ KOORIVAR_SHIP_bomis_koori: "Бомис Коори"
+ KOORIVAR_SHIP_moorja: "Мурджа"
+ KOORIVAR_SHIP_general_dassyne: "Генерал Дассин"
+ KOORIVAR_SHIP_general_terrus: "Генерал Террус"
+ KOORIVAR_SHIP_valorum_s_folly: "Безумие Валорума"
+ KOORIVAR_SHIP_magistrate: "Магистрат"
+ KOORIVAR_SHIP_starbright: "Звездный свет"
+ KOORIVAR_SHIP_battle_of_fakir: "Битва факиров"
+ KOORIVAR_SHIP_shark: "Акула"
+ KOORIVAR_SHIP_commander_merai: "Командир Мераи"
+ KOORIVAR_SHIP_persuader: "Убеждающий"
+ KOORIVAR_SHIP_enforcer: "Силовик"
+ KOORIVAR_SHIP_memory_of_ukio: "Память об Укио"
+ KOORIVAR_SHIP_instinction: "Инстинкт"
+ KOORIVAR_SHIP_tumult: "Беспорядки"
+ KOORIVAR_SHIP_shimmerbird: "Мерцающая птица"
+ KOORIVAR_SHIP_crainum: "Крейнум"
+ KOORIVAR_SHIP_cerebrum: "Головной мозг"
+ KOORIVAR_SHIP_auric_horn: "Аурический рог"
+ KOORIVAR_SHIP_silver_point: "Серебряная точка"
+ KOORIVAR_SHIP_corsuca_spike: "Корсука Шиповатая"
+ KOORIVAR_SHIP_antler: "Оленьи рога"
+ KOORIVAR_SHIP_prong_of_war: "Острие войны"
+ KOORIVAR_SHIP_razorhorn: "Острый рог"
+ KOORIVAR_SHIP_cornet: "Корнет"
+ KOORIVAR_SHIP_magisterial: "Арбитражный"
+ KOORIVAR_SHIP_cuspis: "Куспис"
+ KOORIVAR_SHIP_incisor: "Резец"
+ KOORIVAR_SHIP_tocsin: "Набат"
+ KOORIVAR_SHIP_batterer: "Отбивающий"
+ KOORIVAR_SHIP_memento_of_kooriva: "Воспоминание о Кориве"
+ KOORIVAR_SHIP_fantail: "Хвостик"
+ KOORIVAR_SHIP_sarapin: "Сарапин"
+ KOORIVAR_SHIP_denaria_kee: "Денария Ки"
+ KOORIVAR_SHIP_admiral_trench: "Адмирал Тренч"
+ KOORIVAR_SHIP_vibroblade: "Вибронож"
+ KOORIVAR_SHIP_vibroknife: "Вибронож"
+ KOORIVAR_SHIP_vibroax: "Виброос"
+ KOORIVAR_SHIP_voe_atell: "Во Ателл"
+ KOORIVAR_SHIP_pummeler: "Отбойный молоток"
+ KOORIVAR_SHIP_fire_of_teller: "Огонь Теллера"
+ KOORIVAR_SHIP_parsec_predator: "Хищник в парсеке"
+ KOORIVAR_SHIP_amita_fonti: "Амита Фонти"
+ KOORIVAR_SHIP_voice_of_industry: "Голос индустрии"
+ KOORIVAR_SHIP_senior_creditor: "Старший кредитор"
+ KOORIVAR_SHIP_collector: "Коллекционер"
+ KOORIVAR_SHIP_negotiator: "Переговорщик"
+ KOORIVAR_SHIP_merchant_queen: "Королева торговцев"
+ KOORIVAR_SHIP_trade_monarch: "Торговый монарх"
+ KOORIVAR_SHIP_impairment: "Нарушение"
+ KOORIVAR_SHIP_rightful_claim: "Законное требование"
+ KOORIVAR_SHIP_watchdog: "Сторожевой пес"
+ KOORIVAR_SHIP_expiator: "Искупитель"
+ KOORIVAR_SHIP_justifier: "Обоснователь"
+ KOORIVAR_SHIP_repatriator: "Репатриант"
+ KOORIVAR_SHIP_insistent: "Настойчивый"
+ KOORIVAR_SHIP_munificus: "Мунификус"
+ KOORIVAR_SHIP_bounty: "Награда"
+ KOORIVAR_SHIP_obligant: "Обязанный"
+ KOORIVAR_SHIP_king_commerce: "Король коммерции"
+ KOORIVAR_SHIP_arbitrage: "Арбитраж"
+ KOORIVAR_SHIP_chartist: "Чартист"
+ KOORIVAR_SHIP_leverage: "Кредитное плечо"
+ KOORIVAR_SHIP_liquidity: "Ликвидность"
+ KOORIVAR_SHIP_optionality: "Необязательность"
+ KOORIVAR_SHIP_short_sell: "Короткие продажи"
+ KOORIVAR_SHIP_commercial_imperative: "Коммерческий императив"
+ KOORIVAR_SHIP_intercessor: "Заступник"
+ KOORIVAR_SHIP_creditor_rex: "Кредитор Рекс"
+ KOORIVAR_SHIP_hoarder: "Накопитель"
+ KOORIVAR_SHIP_corporate_raider: "Корпоративный рейдер"
+ KOORIVAR_SHIP_aggressive_acquisition: "Агрессивное приобретение"
+ KOORIVAR_SHIP_aurodium_standard: "Стандарт Ауродиума"
+ KOORIVAR_SHIP_aurodium_dream: "Мечта Ауродиума"
+ KOORIVAR_SHIP_bullion_prince: "Принц слитков"
+ KOORIVAR_SHIP_kilobar: "Килобар"
+ KOORIVAR_SHIP_speculative_position: "Спекулятивная позиция"
+ KOORIVAR_SHIP_aurodium_splendor: "Великолепие Ауродиума"
+ KOORIVAR_SHIP_aurodium_age: "Эпоха Ауродиума"
+ KOORIVAR_SHIP_largesse: "Щедрость"
+ KOORIVAR_SHIP_restitution: "Реституция"
+ KOORIVAR_SHIP_reparation: "Репарация"
+ KOORIVAR_SHIP_probable_cause: "Вероятная причина"
+ KOORIVAR_SHIP_null_and_void: "Недействительный"
+ KOORIVAR_SHIP_retainer: "Фиксатор"
+ KOORIVAR_SHIP_face_value: "Номинальная стоимость"
+ KOORIVAR_SHIP_warranty: "Гарантия"
+ KOORIVAR_SHIP_pure_alpha: "Чистая Альфа"
+ KOORIVAR_SHIP_excess_return: "Избыточная доходность"
+ KOORIVAR_SHIP_accreditor: "Аккредитатор"
+ KOORIVAR_SHIP_activist: "Активист"
+ KOORIVAR_SHIP_intangible: "Неосязаемый"
+ KOORIVAR_SHIP_assurance: "Гарантия"
+ KOORIVAR_SHIP_auditor: "Аудитор"
+ KOORIVAR_SHIP_judgement: "Суждение"
+ KOORIVAR_SHIP_cease_and_desist: "Прекращение"
+ KOORIVAR_SHIP_kaebol: "Каебол"
+ KOORIVAR_SHIP_clawback: "Коготь"
+ KOORIVAR_SHIP_buyout: "Выкуп"
+ KOORIVAR_SHIP_payout: "Выплата"
+ KOORIVAR_SHIP_payoff: "Выигрыш"
+ KOORIVAR_SHIP_dividend: "Дивиденды"
+ KOORIVAR_SHIP_compliant: "Соответствует требованиям"
+ KOORIVAR_SHIP_controller: "Контроллер"
+ KOORIVAR_SHIP_firewall: "Брандмауэр"
+ KOORIVAR_SHIP_indemnifier: "Возмещение ущерба"
+ KOORIVAR_SHIP_duty_of_candor: "Долг откровенности"
+ KOORIVAR_SHIP_fiduciary_duty: "Фидуциарная обязанность"
+ KOORIVAR_SHIP_facilitator: "фасилитатор"
+ KOORIVAR_SHIP_tsarbanes_toxley: "Царбанес Токсли"
+ KOORIVAR_SHIP_aurodium_handcuff: "Ауродиевые наручники"
+ KOORIVAR_SHIP_highwater: "Половодье"
+ KOORIVAR_SHIP_inside_warrior: "Внутренний воин"
+ KOORIVAR_SHIP_veiretsu: "Вейрецу"
+ KOORIVAR_SHIP_mark_to_market: "Вывод на рынок"
+ KOORIVAR_SHIP_moral_salience: "Моральная значимость"
+ KOORIVAR_SHIP_notional: "Условный"
+ KOORIVAR_SHIP_outside_director: "Внешний директор"
+ KOORIVAR_SHIP_premium_option: "Премиум-вариант"
+ KOORIVAR_SHIP_pay_to_win: "Плати, чтобы выиграть"
+ KOORIVAR_SHIP_proxy: "Прокси"
+ KOORIVAR_SHIP_reputation: "Репутация"
+ KOORIVAR_SHIP_exchanger: "Обменник"
+ KOORIVAR_SHIP_aurodium_parachute: "Ауродиевый парашют"
+ KOORIVAR_SHIP_self_interest: "Личный интерес"
+ KOORIVAR_SHIP_stakeholder: "Заинтересованная сторона"
+ KOORIVAR_SHIP_succession: "Преемственность"
+ KOORIVAR_SHIP_total_return: "Общая доходность"
+ KOORIVAR_SHIP_tranche: "Транш"
+ KOORIVAR_SHIP_ultra_vires: "Ультра Вирес"
+ KOORIVAR_SHIP_uncontested: "Неоспоримый"
+ KOORIVAR_SHIP_elastic: "Эластичный"
+ KOORIVAR_SHIP_due_diligence: "Должная осмотрительность"
+ KOORIVAR_SHIP_fungible: "Взаимозаменяемый"
+ KOORIVAR_SHIP_perfect_storm: "Идеальный шторм"
+ KOORIVAR_SHIP_high_yield: "Высокая доходность"
+ KOORIVAR_SHIP_vengeance_of_antar: "Месть Антара"
+ KOORIVAR_SHIP_speculator: "Спекулянт"
+ KOORIVAR_SHIP_market_correction: "Коррекция рынка"
+ KOORIVAR_SHIP_selloff: "Распродажа"
+ KOORIVAR_SHIP_horned_king: "Рогатый король"
+ KOORIVAR_SHIP_armor_of_horns: "Доспехи из рогов"
+ KOORIVAR_SHIP_blackspike: "Блэкспайк"
+ KOORIVAR_SHIP_marrowspike: "Костяная колючка"
+ KOORIVAR_SHIP_lone_trekker: "Путешественник-одиночка"
+ KOORIVAR_SHIP_prudent: "Благоразумный"
+ KOORIVAR_SHIP_vergent: "Верджент"
+ KOORIVAR_SHIP_valorant: "Доблестный"
+ KOORIVAR_SHIP_shai_malud: "Шай Малуд"
+ KOORIVAR_SHIP_nightrunner: "Ночной бегун"
+ KOORIVAR_SHIP_starsnake: "Звездная змея"
+ KOORIVAR_SHIP_volumex: "Волюмекс"
+ KOORIVAR_SHIP_eminent: "Выдающийся"
+ KOORIVAR_SHIP_azerin: "Азерин"
+ KOORIVAR_SHIP_iota: "Йота"
+ KOORIVAR_SHIP_mutrobo: "Мутробо"
+ KOORIVAR_SHIP_rover: "Ровер"
+ KOORIVAR_SHIP_revolt: "Восстание"
+ KOORIVAR_SHIP_purposeful: "Целеустремленный"
+ KOORIVAR_SHIP_remembrance: "Воспоминание"
+ KOORIVAR_SHIP_farstar: "Фарстар"
+ KOORIVAR_SHIP_entrepot: "Первое блюдо"
+ KOORIVAR_SHIP_exclave: "Эксклав"
+ KOORIVAR_SHIP_reclamation: "Рекультивация"
+ KOORIVAR_SHIP_hornblower: "Хорнблауэр"
+ KOORIVAR_SHIP_voidcaller: "Вызывающий пустоту"
+ KOORIVAR_SHIP_fruitful: "Плодотворный"
+ KOORIVAR_SHIP_expander: "Расширитель"
+ KOORIVAR_SHIP_nomad: "Кочевник"
+ KOORIVAR_SHIP_adoption: "Усыновление"
+ KOORIVAR_SHIP_urgent: "Срочно"
+ KOORIVAR_SHIP_ahspanshen: "Ахспаншен"
+ KOORIVAR_SHIP_seeda: "Сида"
+ KOORIVAR_SHIP_parasilla: "Паразилла"
+ KOORIVAR_SHIP_journey: "Путешествие"
+ KOORIVAR_SHIP_farcaller: "Дальнобойщик"
+ KOORIVAR_SHIP_grasper: "Хвататель"
+ KOORIVAR_SHIP_scion_of_koorivar: "Отпрыск Кооривара"
+ KOORIVAR_SHIP_merchant: "Торговец"
+ KOORIVAR_SHIP_convoy: "Конвой"
+ KOORIVAR_SHIP_perseverance: "Настойчивость"
+ KOORIVAR_SHIP_seed_capital: "Начальный капитал"
+ KOORIVAR_SHIP_startup: "Запуск"
+ KOORIVAR_SHIP_acquisition: "Приобретение"
+ KOORIVAR_SHIP_cultivation: "Культивирование"
+ KOORIVAR_SHIP_hornqueen: "Хорнкуин"
+ KOORIVAR_SHIP_far_horn: "Дальний рог"
+ KOORIVAR_SHIP_marginal: "Маргинальный"
+ KOORIVAR_SHIP_returner: "Возвращающийся"
+ KOORIVAR_SHIP_wager: "Пари"
+ KOORIVAR_SHIP_menial: "Мениал"
+ KOORIVAR_SHIP_servile: "Раболепный"
+ KOORIVAR_SHIP_serf: "Серф"
+ KOORIVAR_SHIP_fair_wage: "Справедливая плата"
+ KOORIVAR_SHIP_fabricar: "Фабрикант"
+ KOORIVAR_SHIP_iterator: "Итератор"
+ KOORIVAR_SHIP_servitor: "Сервитор"
+ KOORIVAR_SHIP_erector: "Эректор"
+ KOORIVAR_SHIP_architectron: "Архитектрон"
+ KOORIVAR_SHIP_creator: "Создатель"
+ KOORIVAR_SHIP_warren: "Уоррен"
+ KOORIVAR_SHIP_burrower: "Роющий"
+ KOORIVAR_SHIP_hewer: "Рубщик"
+ KOORIVAR_SHIP_ogl: "Огл"
+ KOORIVAR_SHIP_depositor: "Вкладчик"
+ KOORIVAR_SHIP_morning_sweat: "Утренний пот"
+ KOORIVAR_SHIP_ground_force_lander: "Посадочный модуль наземных войск"
+ KOORIVAR_SHIP_spacegun_victory: "Космическая пушка Победа"
+ KOORIVAR_SHIP_spacegun_success: "Космическая пушка Успех"
+ KOORIVAR_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ KOORIVAR_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ KOORIVAR_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ KOORIVAR_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ KOORIVAR_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ KOORIVAR_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ KOORIVAR_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ KOORIVAR_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ KOORIVAR_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ KOORIVAR_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ KOORIVAR_SHIP_spacegun_honor: "Космическая пушка Честь"
+ KOORIVAR_SHIP_spacegun_renown: "Космическая пушка Величие"
+ KOORIVAR_SHIP_spacegun_glory: "Космическая пушка Слава"
+ KOORIVAR_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ KOORIVAR_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ KOORIVAR_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ KOORIVAR_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ KOORIVAR_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ KOORIVAR_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ KOORIVAR_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ KOORIVAR_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ KOORIVAR_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ KOORIVAR_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ KOORIVAR_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ KOORIVAR_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ KOORIVAR_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ KOORIVAR_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ KOORIVAR_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ KOORIVAR_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ KOORIVAR_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ KOORIVAR_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ KOORIVAR_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ KOORIVAR_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ KOORIVAR_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ KOORIVAR_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ KOORIVAR_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ KOORIVAR_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ KOORIVAR_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ KOORIVAR_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ KOORIVAR_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ KOORIVAR_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ KOORIVAR_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ KOORIVAR_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ KOORIVAR_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ KOORIVAR_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ KOORIVAR_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ KOORIVAR_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ KOORIVAR_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ KOORIVAR_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ KOORIVAR_SHIP_citadel: "Цитадель"
+ KOORIVAR_SHIP_albacore: "Альбакор"
+ KOORIVAR_SHIP_gateway: "Шлюз"
+ KOORIVAR_SHIP_vincent: "Винсент"
+ KOORIVAR_SHIP_babylon: "Вавилон"
+ KOORIVAR_SHIP_caernavon: "Кэрнавон"
+ KOORIVAR_SHIP_acre: "Акро"
+ KOORIVAR_SHIP_pembroke: "Пембрук"
+ KOORIVAR_SHIP_acheron: "Ахерон"
+ KOORIVAR_SHIP_spithead: "Спитхед"
+ KOORIVAR_SHIP_halifax: "Галифакс"
+ KOORIVAR_SHIP_victoria: "Виктория"
+ KOORIVAR_SHIP_chatham: "Чатем"
+ KOORIVAR_SHIP_anchorage: "Анкорхед"
+ KOORIVAR_SHIP_scapa_flow: "Скапа Флоу"
+ KOORIVAR_SHIP_hampton_roads: "хэмптон-роудз"
+ KOORIVAR_SHIP_brooklyn: "Бруклин"
+ KOORIVAR_SHIP_norfolk: "Норфолк"
+ KOORIVAR_SHIP_newport: "Ньюпорт"
+ KOORIVAR_SHIP_guam: "Гуам"
+ KOORIVAR_SHIP_pensacola: "Пенсакола"
+ KOORIVAR_SHIP_vesuvius: "Везувий"
+ KOORIVAR_SHIP_mckinley: "Маккинли"
+ KOORIVAR_SHIP_everest: "Эверест"
+ KOORIVAR_SHIP_kilimanjaro: "Килиманджаро"
+ KOORIVAR_SHIP_aconcagua: "Аконкагуа"
+ KOORIVAR_SHIP_elbrus: "Эльбрус"
+ KOORIVAR_SHIP_st__helens: "Святая Елена"
+ KOORIVAR_SHIP_fuji: "Фудзи"
+ KOORIVAR_SHIP_olympus: "Олимп"
+ KOORIVAR_SHIP_sinai: "Синай"
+ KOORIVAR_SHIP_ambrose: "Эмброуз"
+ KOORIVAR_SHIP_bermuda: "Бермудские острова"
+ KOORIVAR_SHIP_farpoint: "Дальняя точка"
+ KOORIVAR_SHIP_blue_star: "Голубая звезда"
+ KOORIVAR_SHIP_olympus_mons: "Олимп Монс"
+ KOORIVAR_SHIP_tharsis: "Тарсис"
+ KOORIVAR_SHIP_syrtis: "Сиртис"
+ KOORIVAR_SHIP_blackham: "Блэкхэм"
+ KOORIVAR_SHIP_perry: "Перри"
+ KOORIVAR_SHIP_butakov: "Бутаков"
+ KOORIVAR_SHIP_morris: "Моррис"
+ KOORIVAR_SHIP_moorsom: "Мурсом"
+ KOORIVAR_SHIP_hart: "Харт"
+ KOORIVAR_SHIP_hargood: "Харгуд"
+ KOORIVAR_SHIP_spruance: "Пружина"
+ KOORIVAR_SHIP_tanaka: "Танака"
+ KOORIVAR_SHIP_halsey: "Хэлси"
+ KOORIVAR_SHIP_turner: "Тернер"
+ KOORIVAR_SHIP_doria: "Дориа"
+ KOORIVAR_SHIP_tirpitz: "Тирпиц"
+ KOORIVAR_SHIP_cunningham: "Каннингем"
+ KOORIVAR_SHIP_jellicoe: "Джеллико"
+ KOORIVAR_SHIP_hipper: "Хиппер"
+ KOORIVAR_SHIP_beatty: "Битти"
+ KOORIVAR_SHIP_potemkin: "Потемкин"
+ KOORIVAR_SHIP_durham: "Дарем"
+ KOORIVAR_SHIP_codrington: "Кодрингтон"
+ KOORIVAR_SHIP_milne: "Милн"
+ KOORIVAR_SHIP_laforey: "Лафори"
+ KOORIVAR_SHIP_tyler: "Тайлер"
+ KOORIVAR_SHIP_hawke: "Хоук"
+ KOORIVAR_SHIP_yonai: "Йонай"
+ KOORIVAR_SHIP_pound: "Фунт"
+ KOORIVAR_SHIP_king: "Король"
+ KOORIVAR_SHIP_crutchley: "Кратчли"
+ KOORIVAR_SHIP_mountbatten: "Маунтбеттен"
+ KOORIVAR_SHIP_kountouriotis: "Кунтуриотис"
+ KOORIVAR_SHIP_kuznetsov: "Кузнецов"
+ KOORIVAR_SHIP_essen: "Эссен"
+ KOORIVAR_SHIP_kornilov: "Корнилов"
+ KOORIVAR_SHIP_suffren: "Сюффрен"
+ KOORIVAR_SHIP_treville: "Тревиль"
+ KOORIVAR_SHIP_villeneuve: "Вильнёв"
+ KOORIVAR_SHIP_grasse: "Грасс"
+ KOORIVAR_SHIP_byng: "Бинг"
+ KOORIVAR_SHIP_lezo: "Лезо"
+ KOORIVAR_SHIP_bombard: "Космическая пушка Бомбарда"
+ KOORIVAR_SHIP_ballista: "Баллиста"
+ KOORIVAR_SHIP_catapult: "Космическая пушка Катапульта"
+ KOORIVAR_SHIP_harpoon: "Космическая пушка Гарпун"
+ KOORIVAR_SHIP_polybolos: "Космическая пушка Полиболос"
+ KOORIVAR_SHIP_culverin: "Космическая пушка Кулеврина"
+ KOORIVAR_SHIP_exemplary: "Космическая пушка Образцовый"
+ KOORIVAR_SHIP_CLASS_cr_90: "CR-90"
+ KOORIVAR_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ KOORIVAR_SHIP_CLASS_lupus: "Люпус"
+ KOORIVAR_SHIP_CLASS_asdroni: "Асдрони"
+ KOORIVAR_SHIP_CLASS_customs: "Таможня"
+ KOORIVAR_SHIP_CLASS_hammerhead: "Молотоглав"
+ KOORIVAR_SHIP_CLASS_scurge: "Мерзость"
+ KOORIVAR_SHIP_CLASS_krayt: "Крайт"
+ KOORIVAR_SHIP_CLASS_diamond: "Бриллиант"
+ KOORIVAR_SHIP_CLASS_etti: "Этти"
+ KOORIVAR_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ KOORIVAR_SHIP_CLASS_vigil: "Бдение"
+ KOORIVAR_SHIP_CLASS_dp20: "DP20"
+ KOORIVAR_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ KOORIVAR_SHIP_CLASS_raider: "Рейдер"
+ KOORIVAR_SHIP_CLASS_dornean: "Дорнейский"
+ KOORIVAR_SHIP_CLASS_crusader: "Крестоносец"
+ KOORIVAR_SHIP_CLASS_marauder: "Мародер"
+ KOORIVAR_SHIP_CLASS_arquitens: "Аркитенс"
+ KOORIVAR_SHIP_CLASS_kiltirin: "Килтирин"
+ KOORIVAR_SHIP_CLASS_pelta: "Пельта"
+ KOORIVAR_SHIP_CLASS_pinnace: "Катер"
+ KOORIVAR_SHIP_CLASS_nova: "Нова"
+ KOORIVAR_SHIP_CLASS_vigilance: "Бдительность"
+ KOORIVAR_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ KOORIVAR_SHIP_CLASS_cg_273: "CG-273"
+ KOORIVAR_SHIP_CLASS_kariek: "Кариек"
+ KOORIVAR_SHIP_CLASS_ton_falk: "Тон-Фальк"
+ KOORIVAR_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ KOORIVAR_SHIP_CLASS_lancer: "Лансер"
+ KOORIVAR_SHIP_CLASS_teroch: "Терох"
+ KOORIVAR_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ KOORIVAR_SHIP_CLASS_nova_ii: "Нова II"
+ KOORIVAR_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ KOORIVAR_SHIP_CLASS_velox: "Велокс"
+ KOORIVAR_SHIP_CLASS_mc30c: "MC30c"
+ KOORIVAR_SHIP_CLASS_vengeance: "Месть"
+ KOORIVAR_SHIP_CLASS_kariek_ii: "Кариек II"
+ KOORIVAR_SHIP_CLASS_cc_7700: "CC-7700"
+ KOORIVAR_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ KOORIVAR_SHIP_CLASS_wavecrest: "Гребень волны"
+ KOORIVAR_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ KOORIVAR_SHIP_CLASS_nuruodo: "Нуруодо"
+ KOORIVAR_SHIP_CLASS_sabaoth: "Саваоф"
+ KOORIVAR_SHIP_CLASS_kontos: "Контос"
+ KOORIVAR_SHIP_CLASS_mc40: "MC40"
+ KOORIVAR_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ KOORIVAR_SHIP_CLASS_broadside: "Залп"
+ KOORIVAR_SHIP_CLASS_protector: "Защитник"
+ KOORIVAR_SHIP_CLASS_warlord: "Военачальник"
+ KOORIVAR_SHIP_CLASS_gladiator: "Гладиатор"
+ KOORIVAR_SHIP_CLASS_beviin: "Бевиин"
+ KOORIVAR_SHIP_CLASS_liberator: "Освободитель"
+ KOORIVAR_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ KOORIVAR_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ KOORIVAR_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ KOORIVAR_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ KOORIVAR_SHIP_CLASS_massias: "Массиас"
+ KOORIVAR_SHIP_CLASS_dreadnought: "Дредноут"
+ KOORIVAR_SHIP_CLASS_kyramud: "Кирамуд"
+ KOORIVAR_SHIP_CLASS_munificent: "Щедрый"
+ KOORIVAR_SHIP_CLASS_prosvoli: "Просволи"
+ KOORIVAR_SHIP_CLASS_acclamator: "Аккламатор"
+ KOORIVAR_SHIP_CLASS_lictor: "Ликтор"
+ KOORIVAR_SHIP_CLASS_bulwark: "Оплот"
+ KOORIVAR_SHIP_CLASS_victory_i: "Победа I"
+ KOORIVAR_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ KOORIVAR_SHIP_CLASS_bulk: "Массивный"
+ KOORIVAR_SHIP_CLASS_vindicator: "Защитник"
+ KOORIVAR_SHIP_CLASS_dauntless: "Бесстрашный"
+ KOORIVAR_SHIP_CLASS_captor: "Похититель"
+ KOORIVAR_SHIP_CLASS_au_riette: "О'риетт"
+ KOORIVAR_SHIP_CLASS_mc55: "MC55"
+ KOORIVAR_SHIP_CLASS_afthonia: "Афтония"
+ KOORIVAR_SHIP_CLASS_victory_ii: "Победа II"
+ KOORIVAR_SHIP_CLASS_beroya: "Бероя"
+ KOORIVAR_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ KOORIVAR_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ KOORIVAR_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ KOORIVAR_SHIP_CLASS_venator: "Венатор"
+ KOORIVAR_SHIP_CLASS_centurion: "Центурион"
+ KOORIVAR_SHIP_CLASS_mc75: "MC75"
+ KOORIVAR_SHIP_CLASS_kandosii: "Кандосии"
+ KOORIVAR_SHIP_CLASS_corellian: "Кореллианский"
+ KOORIVAR_SHIP_CLASS_providence: "Провидение"
+ KOORIVAR_SHIP_CLASS_syndic: "Синдик"
+ KOORIVAR_SHIP_CLASS_recusant: "Отступник"
+ KOORIVAR_SHIP_CLASS_invincible: "Непобедимый"
+ KOORIVAR_SHIP_CLASS_imperial_i: "Имперский I"
+ KOORIVAR_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ KOORIVAR_SHIP_CLASS_procursator: "Прокурсатор"
+ KOORIVAR_SHIP_CLASS_mc80a: "MC80a"
+ KOORIVAR_SHIP_CLASS_dh_omni: "DH-Омни"
+ KOORIVAR_SHIP_CLASS_aggressor: "Агрессор"
+ KOORIVAR_SHIP_CLASS_syndic_ii: "Синдик II"
+ KOORIVAR_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ KOORIVAR_SHIP_CLASS_keldabe: "Келдабе"
+ KOORIVAR_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ KOORIVAR_SHIP_CLASS_chaf: "Чаф"
+ KOORIVAR_SHIP_CLASS_imperial_ii: "Имперский II"
+ KOORIVAR_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ KOORIVAR_SHIP_CLASS_ascendancy: "Господство"
+ KOORIVAR_SHIP_CLASS_dominator: "Властелин"
+ KOORIVAR_SHIP_CLASS_allegiance: "Верность"
+ KOORIVAR_SHIP_CLASS_lucrehulk: "Барышник"
+ KOORIVAR_SHIP_CLASS_phalanx: "Фаланга"
+ KOORIVAR_SHIP_CLASS_titan: "Титан"
+ KOORIVAR_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ KOORIVAR_SHIP_CLASS_star_home: "Звездный дом"
+ KOORIVAR_SHIP_CLASS_subjugator: "Покоритель"
+ KOORIVAR_SHIP_CLASS_bellator: "Беллатор"
+ KOORIVAR_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ KOORIVAR_SHIP_CLASS_executor: "Палач"
+ KOORIVAR_FLEET_enforcer_group_ORD: "$ORD$ Охранная группа"
+ KOORIVAR_ARMY_koorivian_guard_ORD: "$ORD$ Куривийская гвардия"
+ KOORIVAR_ARMY_expeditionary_fusiliers_ORD: "$ORD$ Экспедиционные стрелки"
+ KOORIVAR_ARMY_supervised_rifles_ORD: "$ORD$ Спайперы"
+ KOORIVAR_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ KOORIVAR_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ KOORIVAR_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ KOORIVAR_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ KOORIVAR_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ KOORIVAR_ARMY_sarc_a_fusiliers: "Стрелки САРК-А"
+ KOORIVAR_ARMY_sarc_b_fusiliers: "Стрелки SARC-B"
+ KOORIVAR_ARMY_sarc_c_fusiliers: "Стрелки SARC-C"
+ KOORIVAR_ARMY_sarc_d_fusiliers: "Стрелки SARC-D"
+ KOORIVAR_ARMY_sarc_e_fusiliers: "Стрелки САРК-И"
+ KOORIVAR_ARMY_sarc_f_fusiliers: "Стрелки SARC-F"
+ KOORIVAR_ARMY_sarc_g_fusiliers: "Стрелки SARC-G"
+ KOORIVAR_ARMY_sarc_h_fusiliers: "Стрелки SARC-H"
+ KOORIVAR_ARMY_sarc_i_fusiliers: "Стрелки SARC-I"
+ KOORIVAR_ARMY_sarc_j_fusiliers: "Стрелки САРК-Джи"
+ KOORIVAR_ARMY_fusiliers_ORD: "$ORD$ Стрелки"
+ KOORIVAR_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ KOORIVAR_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ KOORIVAR_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ KOORIVAR_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ KOORIVAR_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ KOORIVAR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ KOORIVAR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ KOORIVAR_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ KOORIVAR_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ KOORIVAR_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ KOORIVAR_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ KOORIVAR_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ KOORIVAR_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ KOORIVAR_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ KOORIVAR_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ KOORIVAR_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ KOORIVAR_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ KOORIVAR_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ KOORIVAR_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ KOORIVAR_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ KOORIVAR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ KOORIVAR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ KOORIVAR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ KOORIVAR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ KOORIVAR_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ KOORIVAR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ KOORIVAR_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ KOORIVAR_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ KOORIVAR_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ KOORIVAR_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ KOORIVAR_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ KOORIVAR_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ KOORIVAR_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ KOORIVAR_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ KOORIVAR_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ KOORIVAR_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ KOORIVAR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ KOORIVAR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ KOORIVAR_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ KOORIVAR_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ KOORIVAR_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ KOORIVAR_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ KOORIVAR_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ KOORIVAR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ KOORIVAR_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ KOORIVAR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ KOORIVAR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ KOORIVAR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ KOORIVAR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ KOORIVAR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ KOORIVAR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ KOORIVAR_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ KOORIVAR_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ KOORIVAR_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ KOORIVAR_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ KOORIVAR_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ KOORIVAR_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ KOORIVAR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ KOORIVAR_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ KOORIVAR_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ KOORIVAR_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ KOORIVAR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ KOORIVAR_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ KOORIVAR_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ KOORIVAR_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ KOORIVAR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ KOORIVAR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ KOORIVAR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ KOORIVAR_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ KOORIVAR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ KOORIVAR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ KOORIVAR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ KOORIVAR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ KOORIVAR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ KOORIVAR_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ KOORIVAR_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ KOORIVAR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ KOORIVAR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ KOORIVAR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ KOORIVAR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ KOORIVAR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ KOORIVAR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ KOORIVAR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ KOORIVAR_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ KOORIVAR_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ KOORIVAR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ KOORIVAR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ KOORIVAR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ KOORIVAR_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ KOORIVAR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ KOORIVAR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ KOORIVAR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ KOORIVAR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ KOORIVAR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ KOORIVAR_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ KOORIVAR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ KOORIVAR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ KOORIVAR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ KOORIVAR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ KOORIVAR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ KOORIVAR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ KOORIVAR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ KOORIVAR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ KOORIVAR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ KOORIVAR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ KOORIVAR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ KOORIVAR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ KOORIVAR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ KOORIVAR_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ KOORIVAR_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ KOORIVAR_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ KOORIVAR_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ KOORIVAR_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ KOORIVAR_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ KOORIVAR_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ KOORIVAR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ KOORIVAR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ KOORIVAR_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ KOORIVAR_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ KOORIVAR_ARMY_acklay_ORD: "$ORD$ Аклай"
+ KOORIVAR_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ KOORIVAR_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ KOORIVAR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ KOORIVAR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ KOORIVAR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ KOORIVAR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ KOORIVAR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ KOORIVAR_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ KOORIVAR_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ KOORIVAR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ KOORIVAR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ KOORIVAR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ KOORIVAR_CHR_shand: "Шанд"
+ KOORIVAR_CHR_terrem: "Террем"
+ KOORIVAR_CHR_menas: "Менас"
+ KOORIVAR_CHR_passel: "Пассель"
+ KOORIVAR_CHR_bioto: "Биотоп"
+ KOORIVAR_CHR_cala: "Кала"
+ KOORIVAR_CHR_oro: "Оро"
+ KOORIVAR_CHR_masel: "Масел"
+ KOORIVAR_CHR_terrus: "Террус"
+ KOORIVAR_CHR_tuten: "Тутен"
+ KOORIVAR_CHR_sheb: "Шеб"
+ KOORIVAR_CHR_aypo: "Ауро"
+ KOORIVAR_CHR_abdied: "Абдиед"
+ KOORIVAR_CHR_adel: "Адель"
+ KOORIVAR_CHR_abned: "Абнед"
+ KOORIVAR_CHR_adram: "Адрам"
+ KOORIVAR_CHR_adramsu: "Адрамсу"
+ KOORIVAR_CHR_adim: "Адим"
+ KOORIVAR_CHR_ammai: "Аммай"
+ KOORIVAR_CHR_adimin: "Адимин"
+ KOORIVAR_CHR_aldai: "Алдай"
+ KOORIVAR_CHR_adridas: "Адридас"
+ KOORIVAR_CHR_adabu: "Адабу"
+ KOORIVAR_CHR_adir: "Адир"
+ KOORIVAR_CHR_amozi: "Амози"
+ KOORIVAR_CHR_adiom: "Адиом"
+ KOORIVAR_CHR_azaya: "Азая"
+ KOORIVAR_CHR_ashel: "Ашель"
+ KOORIVAR_CHR_adiel: "Адиэль"
+ KOORIVAR_CHR_babab: "Бабаб"
+ KOORIVAR_CHR_badon: "Бадон"
+ KOORIVAR_CHR_bahadul: "Бахадул"
+ KOORIVAR_CHR_bahmam: "Бахмам"
+ KOORIVAR_CHR_bahral: "Бахрал"
+ KOORIVAR_CHR_bassel: "Бассель"
+ KOORIVAR_CHR_budim: "Бюдим"
+ KOORIVAR_CHR_cano: "Кано"
+ KOORIVAR_CHR_chayid: "Хаид"
+ KOORIVAR_CHR_dano: "Дано"
+ KOORIVAR_CHR_doder: "Додер"
+ KOORIVAR_CHR_efrayi: "Эфрайи"
+ KOORIVAR_CHR_eiyaho: "Эйяхо"
+ KOORIVAR_CHR_eder: "Эдер"
+ KOORIVAR_CHR_edaalo: "Эдаало"
+ KOORIVAR_CHR_eldauim: "Эльдауим"
+ KOORIVAR_CHR_fudel: "Фудель"
+ KOORIVAR_CHR_fedish: "Федерал"
+ KOORIVAR_CHR_dag: "Даг"
+ KOORIVAR_CHR_dadid: "Дадид"
+ KOORIVAR_CHR_dedaliah: "Дедалия"
+ KOORIVAR_CHR_orshom: "Оршем"
+ KOORIVAR_CHR_gedom: "Гедом"
+ KOORIVAR_CHR_gedel: "Гедель"
+ KOORIVAR_CHR_kudil: "Кудил"
+ KOORIVAR_CHR_lemual: "Лемуаль"
+ KOORIVAR_CHR_ledi: "Лэди"
+ KOORIVAR_CHR_mababam: "Мабабам"
+ KOORIVAR_CHR_menabem: "Менабем"
+ KOORIVAR_CHR_mebabe: "Мебель"
+ KOORIVAR_CHR_mendal: "Мендал"
+ KOORIVAR_CHR_bordecaii: "Бордекайи"
+ KOORIVAR_CHR_soshe: "Соше"
+ KOORIVAR_CHR_nashe: "Наши"
+ KOORIVAR_CHR_batan: "Батан"
+ KOORIVAR_CHR_detanaiel: "Детанаил"
+ KOORIVAR_CHR_boach: "Боуч"
+ KOORIVAR_CHR_shoam: "Шоам"
+ KOORIVAR_CHR_shineas: "Шинеас"
+ KOORIVAR_CHR_redae: "Редае"
+ KOORIVAR_CHR_reuden: "Реуден"
+ KOORIVAR_CHR_salo: "Сало"
+ KOORIVAR_CHR_shoul: "Шоул"
+ KOORIVAR_CHR_sdimion: "Сдимион"
+ KOORIVAR_CHR_somo: "Сомо"
+ KOORIVAR_CHR_slumel: "Трущобы"
+ KOORIVAR_CHR_smaryahu: "Смаряху"
+ KOORIVAR_CHR_sheur: "Шер"
+ KOORIVAR_CHR_shada: "Шада"
+ KOORIVAR_CHR_todro: "Тодро"
+ KOORIVAR_CHR_todiyah: "Тодия"
+ KOORIVAR_CHR_tdi: "Тди"
+ KOORIVAR_CHR_udi: "Уди"
+ KOORIVAR_CHR_daakod: "Даакод"
+ KOORIVAR_CHR_ededel: "Йедедел"
+ KOORIVAR_CHR_yebiel: "Йебиэль"
+ KOORIVAR_CHR_yebibyah: "Йебибья"
+ KOORIVAR_CHR_yebet: "Йебет"
+ KOORIVAR_CHR_jadeth: "Джейдет"
+ KOORIVAR_CHR_yedoua: "Едуа"
+ KOORIVAR_CHR_yeduda: "Едуда"
+ KOORIVAR_CHR_yedudel: "Едудель"
+ KOORIVAR_CHR_yebayau: "Йебаяу"
+ KOORIVAR_CHR_yibtad: "Йебтад"
+ KOORIVAR_CHR_yebtab: "Йебтаб"
+ KOORIVAR_CHR_yibael: "Йибаэль"
+ KOORIVAR_CHR_yiddada: "Иддад"
+ KOORIVAR_CHR_yidal: "Идал"
+ KOORIVAR_CHR_yiduul: "Идуул"
+ KOORIVAR_CHR_yoad: "Йоад"
+ KOORIVAR_CHR_yoel: "Йоэль"
+ KOORIVAR_CHR_yodaan: "Йодаан"
+ KOORIVAR_CHR_yod_bod: "Йодное тело"
+ KOORIVAR_CHR_yobah: "Йоба"
+ KOORIVAR_CHR_bodam: "Бодам"
+ KOORIVAR_CHR_ye_ed: "Йе'ед"
+ KOORIVAR_CHR_zibulun: "Зибулун"
+ KOORIVAR_CHR_zelib: "Зелиб"
+ KOORIVAR_CHR_zubel: "Зубель"
+ KOORIVAR_CHR_zuddya: "Зуддя"
+ KOORIVAR_CHR_leosa: "Леоса"
+ KOORIVAR_CHR_sariyah: "Сария"
+ KOORIVAR_CHR_denaria: "Денария"
+ KOORIVAR_CHR_makarial: "Макариал"
+ KOORIVAR_CHR_basella: "Базелла"
+ KOORIVAR_CHR_dibella: "Дибелла"
+ KOORIVAR_CHR_sadah: "Сада"
+ KOORIVAR_CHR_sadina: "Садина"
+ KOORIVAR_CHR_lalde: "Лалде"
+ KOORIVAR_CHR_adena: "Адена"
+ KOORIVAR_CHR_adidai: "Адидай"
+ KOORIVAR_CHR_adida: "Адида"
+ KOORIVAR_CHR_baya: "Бая"
+ KOORIVAR_CHR_didiha: "Дидиха"
+ KOORIVAR_CHR_seina: "Сеина"
+ KOORIVAR_CHR_sunah: "Суна"
+ KOORIVAR_CHR_dhanai: "Дханай"
+ KOORIVAR_CHR_dasa: "Даса"
+ KOORIVAR_CHR_mahdha: "Махдха"
+ KOORIVAR_CHR_haba: "Хаба"
+ KOORIVAR_CHR_dhaya: "Дхайя"
+ KOORIVAR_CHR_boballa: "Бобалла"
+ KOORIVAR_CHR_dohsa: "Дохса"
+ KOORIVAR_CHR_esdel: "Эсдель"
+ KOORIVAR_CHR_deida: "Дейда"
+ KOORIVAR_CHR_beida: "Бейда"
+ KOORIVAR_CHR_selleh: "Селле"
+ KOORIVAR_CHR_senana: "Сенана"
+ KOORIVAR_CHR_disse: "Диссе"
+ KOORIVAR_CHR_gildoa: "Гильдоа"
+ KOORIVAR_CHR_gunaha: "Гунаха"
+ KOORIVAR_CHR_gadia: "Гадия"
+ KOORIVAR_CHR_hadaddah: "Хадада"
+ KOORIVAR_CHR_leaada: "Леаада"
+ KOORIVAR_CHR_lieda: "Лиеда"
+ KOORIVAR_CHR_madla: "Мадла"
+ KOORIVAR_CHR_malba: "Мальба"
+ KOORIVAR_CHR_mabola: "Мабола"
+ KOORIVAR_CHR_maseh: "Масех"
+ KOORIVAR_CHR_mabona: "Мабона"
+ KOORIVAR_CHR_mabilba: "Мабилба"
+ KOORIVAR_CHR_mabal: "Мабал"
+ KOORIVAR_CHR_mebudhah: "Мебуда"
+ KOORIVAR_CHR_mibiam: "Мибиам"
+ KOORIVAR_CHR_mibyam: "Мибьям"
+ KOORIVAR_CHR_nabalah: "Навала"
+ KOORIVAR_CHR_nedamah: "Недама"
+ KOORIVAR_CHR_puahda: "Пуахда"
+ KOORIVAR_CHR_pebibah: "Пебиба"
+ KOORIVAR_CHR_rabel: "Рабель"
+ KOORIVAR_CHR_ribiah: "Рибия"
+ KOORIVAR_CHR_rhoba: "Рхоба"
+ KOORIVAR_CHR_roda: "Рода"
+ KOORIVAR_CHR_sabah: "Сабах"
+ KOORIVAR_CHR_shobanah: "Шобана"
+ KOORIVAR_CHR_shulamib: "Шуламиб"
+ KOORIVAR_CHR_simballa: "Симбалла"
+ KOORIVAR_CHR_tada: "Тада"
+ KOORIVAR_CHR_tediah: "Тедия"
+ KOORIVAR_CHR_tibah: "Тибах"
+ KOORIVAR_CHR_tobah: "Тоба"
+ KOORIVAR_CHR_tibborah: "Тиббора"
+ KOORIVAR_CHR_tsibbe: "Циббе"
+ KOORIVAR_CHR_tsibba: "Цибба"
+ KOORIVAR_CHR_tsibiah: "Цибия"
+ KOORIVAR_CHR_yaebla: "Яебла"
+ KOORIVAR_CHR_yabbah: "Ябба"
+ KOORIVAR_CHR_yebuidth: "Йебуидт"
+ KOORIVAR_CHR_isbah: "Исба"
+ KOORIVAR_CHR_yobanah: "Йобана"
+ KOORIVAR_CHR_zeba: "Зеба"
+ KOORIVAR_CHR_zibba: "Зибба"
+ KOORIVAR_CHR_zaba: "Заба"
+ KOORIVAR_CHR_essil: "Эссиль"
+ KOORIVAR_CHR_jesond: "Джесонд"
+ KOORIVAR_CHR_neyrr: "Нейрр"
+ KOORIVAR_CHR_vantare: "Вантаре"
+ KOORIVAR_CHR_argente: "Ардженте"
+ KOORIVAR_CHR_bracchia: "Браккия"
+ KOORIVAR_CHR_budan: "Будан"
+ KOORIVAR_CHR_kee: "Ки"
+ KOORIVAR_CHR_dassyne: "Дассайн"
+ KOORIVAR_CHR_gravin: "Гравин"
+ KOORIVAR_CHR_valaad: "Валаад"

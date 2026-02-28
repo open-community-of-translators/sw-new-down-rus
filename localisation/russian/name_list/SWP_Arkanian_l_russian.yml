@@ -1,807 +1,807 @@
 ﻿l_russian:
-	ARKANIAN_SHIP_velocity: "Velocity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_derivative: "Derivative" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quantifier: "Quantifier" #!Empty_LineInfo!
-	ARKANIAN_SHIP_variable: "Variable" #!Empty_LineInfo!
-	ARKANIAN_SHIP_power_rule: "Power Rule" #!Empty_LineInfo!
-	ARKANIAN_SHIP_power_law: "Power Law" #!Empty_LineInfo!
-	ARKANIAN_SHIP_abscissa: "Abscissa" #!Empty_LineInfo!
-	ARKANIAN_SHIP_distributor: "Distributor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_subtractor: "Subtractor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_presumptive: "Presumptive" #!Empty_LineInfo!
-	ARKANIAN_SHIP_progression: "Progression" #!Empty_LineInfo!
-	ARKANIAN_SHIP_asymptote: "Asymptote" #!Empty_LineInfo!
-	ARKANIAN_SHIP_augmentor: "Augmentor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_xernoulli: "Xernoulli" #!Empty_LineInfo!
-	ARKANIAN_SHIP_bioclimatic: "Bioclimatic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_axis: "Axis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_coefficient: "Coefficient" #!Empty_LineInfo!
-	ARKANIAN_SHIP_compounder: "Compounder" #!Empty_LineInfo!
-	ARKANIAN_SHIP_concavity: "Concavity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_conditional: "Conditional" #!Empty_LineInfo!
-	ARKANIAN_SHIP_constraint: "Constraint" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ogive: "Ogive" #!Empty_LineInfo!
-	ARKANIAN_SHIP_integral: "Integral" #!Empty_LineInfo!
-	ARKANIAN_SHIP_integrand: "Integrand" #!Empty_LineInfo!
-	ARKANIAN_SHIP_iteration: "Iteration" #!Empty_LineInfo!
-	ARKANIAN_SHIP_iterator: "Iterator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_itinerant: "Itinerant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_systemic: "Systemic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_instantaneous: "Instantaneous" #!Empty_LineInfo!
-	ARKANIAN_SHIP_notation: "Notation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_maxima: "Maxima" #!Empty_LineInfo!
-	ARKANIAN_SHIP_minima: "Minima" #!Empty_LineInfo!
-	ARKANIAN_SHIP_absolute: "Absolute" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quotient: "Quotient" #!Empty_LineInfo!
-	ARKANIAN_SHIP_second_order: "Second Order" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tangent: "Tangent" #!Empty_LineInfo!
-	ARKANIAN_SHIP_differential: "Differential" #!Empty_LineInfo!
-	ARKANIAN_SHIP_discriminant: "Discriminant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_disjoint: "Disjoint" #!Empty_LineInfo!
-	ARKANIAN_SHIP_domain: "Domain" #!Empty_LineInfo!
-	ARKANIAN_SHIP_double_integral: "Double Integral" #!Empty_LineInfo!
-	ARKANIAN_SHIP_simplex: "Simplex" #!Empty_LineInfo!
-	ARKANIAN_SHIP_epidemic: "Epidemic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exponent: "Exponent" #!Empty_LineInfo!
-	ARKANIAN_SHIP_law_of_growth: "Law of Growth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_entropy: "Entropy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_factorial: "Factorial" #!Empty_LineInfo!
-	ARKANIAN_SHIP_inflector: "Inflector" #!Empty_LineInfo!
-	ARKANIAN_SHIP_inflection: "Inflection" #!Empty_LineInfo!
-	ARKANIAN_SHIP_extremum: "Extremum" #!Empty_LineInfo!
-	ARKANIAN_SHIP_differentiable: "Differentiable" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quadratic: "Quadratic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_vertex: "Vertex" #!Empty_LineInfo!
-	ARKANIAN_SHIP_sum_of_all_terms: "Sum of All Terms" #!Empty_LineInfo!
-	ARKANIAN_SHIP_heredity: "Heredity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_horizon_line: "Horizon Line" #!Empty_LineInfo!
-	ARKANIAN_SHIP_natural_advantage: "Natural Advantage" #!Empty_LineInfo!
-	ARKANIAN_SHIP_selective: "Selective" #!Empty_LineInfo!
-	ARKANIAN_SHIP_incremental: "Incremental" #!Empty_LineInfo!
-	ARKANIAN_SHIP_indefinite: "Indefinite" #!Empty_LineInfo!
-	ARKANIAN_SHIP_boundless: "Boundless" #!Empty_LineInfo!
-	ARKANIAN_SHIP_free_radical: "Free Radical" #!Empty_LineInfo!
-	ARKANIAN_SHIP_infinite_set: "Infinite Set" #!Empty_LineInfo!
-	ARKANIAN_SHIP_infinity: "Infinity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_integer: "Integer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_intercept: "Intercept" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exponential: "Exponential" #!Empty_LineInfo!
-	ARKANIAN_SHIP_rationality: "Rationality" #!Empty_LineInfo!
-	ARKANIAN_SHIP_natural_order: "Natural Order" #!Empty_LineInfo!
-	ARKANIAN_SHIP_intersector: "Intersector" #!Empty_LineInfo!
-	ARKANIAN_SHIP_interval_of_war: "Interval of War" #!Empty_LineInfo!
-	ARKANIAN_SHIP_common_denominator: "Common Denominator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_denominator: "Denominator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_numerator: "Numerator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_infinite_limit: "Infinite Limit" #!Empty_LineInfo!
-	ARKANIAN_SHIP_equilibrium: "Equilibrium" #!Empty_LineInfo!
-	ARKANIAN_SHIP_leonzief: "Leonzief" #!Empty_LineInfo!
-	ARKANIAN_SHIP_corner_solution: "Corner Solution" #!Empty_LineInfo!
-	ARKANIAN_SHIP_decision_variable: "Decision Variable" #!Empty_LineInfo!
-	ARKANIAN_SHIP_geometric: "Geometric" #!Empty_LineInfo!
-	ARKANIAN_SHIP_optimal: "Optimal" #!Empty_LineInfo!
-	ARKANIAN_SHIP_optimality: "Optimality" #!Empty_LineInfo!
-	ARKANIAN_SHIP_indicator: "Indicator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_regressor: "Regressor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_logarithmic: "Logarithmic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_chain_of_tarkoz: "Chain of Tarkoz" #!Empty_LineInfo!
-	ARKANIAN_SHIP_associative: "Associative" #!Empty_LineInfo!
-	ARKANIAN_SHIP_cummutative: "Cummutative" #!Empty_LineInfo!
-	ARKANIAN_SHIP_inverse: "Inverse" #!Empty_LineInfo!
-	ARKANIAN_SHIP_polyscientia: "Polyscientia" #!Empty_LineInfo!
-	ARKANIAN_SHIP_reducer: "Reducer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_transposer: "Transposer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_central_tendency: "Central Tendency" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dispersion: "Dispersion" #!Empty_LineInfo!
-	ARKANIAN_SHIP_median: "Median" #!Empty_LineInfo!
-	ARKANIAN_SHIP_nominal: "Nominal" #!Empty_LineInfo!
-	ARKANIAN_SHIP_oblique: "Oblique" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ordinate: "Ordinate" #!Empty_LineInfo!
-	ARKANIAN_SHIP_parameter: "Parameter" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tsagrange: "Tsagrange" #!Empty_LineInfo!
-	ARKANIAN_SHIP_permutation: "Permutation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_perpendicular: "Perpendicular" #!Empty_LineInfo!
-	ARKANIAN_SHIP_selector: "Selector" #!Empty_LineInfo!
-	ARKANIAN_SHIP_elector: "Elector" #!Empty_LineInfo!
-	ARKANIAN_SHIP_prime: "Prime" #!Empty_LineInfo!
-	ARKANIAN_SHIP_natural_selection: "Natural Selection" #!Empty_LineInfo!
-	ARKANIAN_SHIP_stochast: "Stochast" #!Empty_LineInfo!
-	ARKANIAN_SHIP_empirical: "Empirical" #!Empty_LineInfo!
-	ARKANIAN_SHIP_empirical_mind: "Empirical Mind" #!Empty_LineInfo!
-	ARKANIAN_SHIP_matter_of_minds: "Matter of Minds" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quadrant: "Quadrant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_index: "Index" #!Empty_LineInfo!
-	ARKANIAN_SHIP_radicand: "Radicand" #!Empty_LineInfo!
-	ARKANIAN_SHIP_rationalizer: "Rationalizer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_allocator: "Allocator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_aptitude: "Aptitude" #!Empty_LineInfo!
-	ARKANIAN_SHIP_sensory: "Sensory" #!Empty_LineInfo!
-	ARKANIAN_SHIP_null: "Null" #!Empty_LineInfo!
-	ARKANIAN_SHIP_null_set: "Null Set" #!Empty_LineInfo!
-	ARKANIAN_SHIP_retention: "Retention" #!Empty_LineInfo!
-	ARKANIAN_SHIP_secant: "Secant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_solver: "Solver" #!Empty_LineInfo!
-	ARKANIAN_SHIP_solution: "Solution" #!Empty_LineInfo!
-	ARKANIAN_SHIP_standard_deviation: "Standard Deviation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_variance: "Variance" #!Empty_LineInfo!
-	ARKANIAN_SHIP_summation: "Summation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_process_of_elimination: "Process of Elimination" #!Empty_LineInfo!
-	ARKANIAN_SHIP_extrapolator: "Extrapolator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_universal_set: "Universal Set" #!Empty_LineInfo!
-	ARKANIAN_SHIP_missing_link: "Missing Link" #!Empty_LineInfo!
-	ARKANIAN_SHIP_volumex: "Volumex" #!Empty_LineInfo!
-	ARKANIAN_SHIP_folly_of_presumption: "Folly of Presumption" #!Empty_LineInfo!
-	ARKANIAN_SHIP_reciprocator: "Reciprocator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_equalizer: "Equalizer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_pereave: "Pereave" #!Empty_LineInfo!
-	ARKANIAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
-	ARKANIAN_SHIP_manipulator: "Manipulator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_pureblood: "Pureblood" #!Empty_LineInfo!
-	ARKANIAN_SHIP_gifted: "Gifted" #!Empty_LineInfo!
-	ARKANIAN_SHIP_superior: "Superior" #!Empty_LineInfo!
-	ARKANIAN_SHIP_superiority: "Superiority" #!Empty_LineInfo!
-	ARKANIAN_SHIP_earned_privilege: "Earned Privilege" #!Empty_LineInfo!
-	ARKANIAN_SHIP_privileged: "Privileged" #!Empty_LineInfo!
-	ARKANIAN_SHIP_civilization: "Civilization" #!Empty_LineInfo!
-	ARKANIAN_SHIP_civilized: "Civilized" #!Empty_LineInfo!
-	ARKANIAN_SHIP_civilizer: "Civilizer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_civility: "Civility" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dedicated: "Dedicated" #!Empty_LineInfo!
-	ARKANIAN_SHIP_detriment: "Detriment" #!Empty_LineInfo!
-	ARKANIAN_SHIP_purgation: "Purgation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_arca_jeth: "Arca Jeth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_lifegiver: "Lifegiver" #!Empty_LineInfo!
-	ARKANIAN_SHIP_adasca: "Adasca" #!Empty_LineInfo!
-	ARKANIAN_SHIP_black_harvest: "Black Harvest" #!Empty_LineInfo!
-	ARKANIAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exogorth: "Exogorth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_uplifter: "Uplifter" #!Empty_LineInfo!
-	ARKANIAN_SHIP_supermacy: "Supermacy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_supreme: "Supreme" #!Empty_LineInfo!
-	ARKANIAN_SHIP_praxeum: "Praxeum" #!Empty_LineInfo!
-	ARKANIAN_SHIP_praxis: "Praxis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_axiom: "Axiom" #!Empty_LineInfo!
-	ARKANIAN_SHIP_olim: "Olim" #!Empty_LineInfo!
-	ARKANIAN_SHIP_diamondheart: "Diamondheart" #!Empty_LineInfo!
-	ARKANIAN_SHIP_xexto: "Xexto" #!Empty_LineInfo!
-	ARKANIAN_SHIP_adascopolis: "Adascopolis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_veeshas_tuwan: "Veeshas Tuwan" #!Empty_LineInfo!
-	ARKANIAN_SHIP_vandrayk: "Vandrayk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_crescendo: "Crescendo" #!Empty_LineInfo!
-	ARKANIAN_SHIP_arkanian_legacy: "Arkanian Legacy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_draay: "Draay" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dreddon: "Dreddon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_aqubis: "Aqubis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_gorm: "Gorm" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dissolver: "Dissolver" #!Empty_LineInfo!
-	ARKANIAN_SHIP_high_marshall: "High Marshall" #!Empty_LineInfo!
-	ARKANIAN_SHIP_chancellor_frix: "Chancellor Frix" #!Empty_LineInfo!
-	ARKANIAN_SHIP_serifa: "Serifa" #!Empty_LineInfo!
-	ARKANIAN_SHIP_altunen: "Altunen" #!Empty_LineInfo!
-	ARKANIAN_SHIP_perfection: "Perfection" #!Empty_LineInfo!
-	ARKANIAN_SHIP_astramax: "Astramax" #!Empty_LineInfo!
-	ARKANIAN_SHIP_apex: "Apex" #!Empty_LineInfo!
-	ARKANIAN_SHIP_diamondback: "Diamondback" #!Empty_LineInfo!
-	ARKANIAN_SHIP_artifice: "Artifice" #!Empty_LineInfo!
-	ARKANIAN_SHIP_purifier: "Purifier" #!Empty_LineInfo!
-	ARKANIAN_SHIP_iron_knight: "Iron Knight" #!Empty_LineInfo!
-	ARKANIAN_SHIP_iron_warrior: "Iron Warrior" #!Empty_LineInfo!
-	ARKANIAN_SHIP_cratala: "Cratala" #!Empty_LineInfo!
-	ARKANIAN_SHIP_edessa: "Edessa" #!Empty_LineInfo!
-	ARKANIAN_SHIP_salaban: "Salaban" #!Empty_LineInfo!
-	ARKANIAN_SHIP_lineage: "Lineage" #!Empty_LineInfo!
-	ARKANIAN_SHIP_legacy: "Legacy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_choice_of_one: "Choice of One" #!Empty_LineInfo!
-	ARKANIAN_SHIP_kanti: "Kanti" #!Empty_LineInfo!
-	ARKANIAN_SHIP_novania: "Novania" #!Empty_LineInfo!
-	ARKANIAN_SHIP_osadia: "Osadia" #!Empty_LineInfo!
-	ARKANIAN_SHIP_progenitor: "Progenitor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
-	ARKANIAN_SHIP_prodigy: "Prodigy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_causality: "Causality" #!Empty_LineInfo!
-	ARKANIAN_SHIP_approbation: "Approbation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_scholastic: "Scholastic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_crystal_seeker: "Crystal Seeker" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quantum: "Quantum" #!Empty_LineInfo!
-	ARKANIAN_SHIP_iota: "Iota" #!Empty_LineInfo!
-	ARKANIAN_SHIP_razor_of_knowledge: "Razor of Knowledge" #!Empty_LineInfo!
-	ARKANIAN_SHIP_refutation: "Refutation" #!Empty_LineInfo!
-	ARKANIAN_SHIP_rejoinder: "Rejoinder" #!Empty_LineInfo!
-	ARKANIAN_SHIP_rebuttal: "Rebuttal" #!Empty_LineInfo!
-	ARKANIAN_SHIP_substantiator: "Substantiator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_algos: "Algos" #!Empty_LineInfo!
-	ARKANIAN_SHIP_algologist: "Algologist" #!Empty_LineInfo!
-	ARKANIAN_SHIP_counterfactual: "Counterfactual" #!Empty_LineInfo!
-	ARKANIAN_SHIP_mastermind: "Mastermind" #!Empty_LineInfo!
-	ARKANIAN_SHIP_virtuoso: "Virtuoso" #!Empty_LineInfo!
-	ARKANIAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exemplar: "Exemplar" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ideal_of_perfection: "Ideal of Perfection" #!Empty_LineInfo!
-	ARKANIAN_SHIP_fatal_conceit: "Fatal Conceit" #!Empty_LineInfo!
-	ARKANIAN_SHIP_primacy: "Primacy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exonaut: "Exonaut" #!Empty_LineInfo!
-	ARKANIAN_SHIP_scholasta: "Scholasta" #!Empty_LineInfo!
-	ARKANIAN_SHIP_astute: "Astute" #!Empty_LineInfo!
-	ARKANIAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tuwan: "Tuwan" #!Empty_LineInfo!
-	ARKANIAN_SHIP_third_derivative: "Third Derivative" #!Empty_LineInfo!
-	ARKANIAN_SHIP_destined: "Destined" #!Empty_LineInfo!
-	ARKANIAN_SHIP_fait_accompli: "Fait Accompli" #!Empty_LineInfo!
-	ARKANIAN_SHIP_stellar_right: "Stellar Right" #!Empty_LineInfo!
-	ARKANIAN_SHIP_rightful_due: "Rightful Due" #!Empty_LineInfo!
-	ARKANIAN_SHIP_perfecting_spirit: "Perfecting Spirit" #!Empty_LineInfo!
-	ARKANIAN_SHIP_diamond: "Diamond" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_aurek: "Servant Unit Aurek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_besh: "Servant Unit Besh" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_cresh: "Servant Unit Cresh" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_dorn: "Servant Unit Dorn" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_forn: "Servant Unit Forn" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_grek: "Servant Unit Grek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_herf: "Servant Unit Herf" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_isk: "Servant Unit Isk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_jenth: "Servant Unit Jenth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_krill: "Servant Unit Krill" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_leth: "Servant Unit Leth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_mern: "Servant Unit Mern" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_nern: "Servant Unit Nern" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_osk: "Servant Unit Osk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_peth: "Servant Unit Peth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_senth: "Servant Unit Senth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_trill: "Servant Unit Trill" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_usk: "Servant Unit Usk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_vev: "Servant Unit Vev" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_wesk: "Servant Unit Wesk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_xesh: "Servant Unit Xesh" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_yirt: "Servant Unit Yirt" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_zerek: "Servant Unit Zerek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_cherek: "Servant Unit Cherek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_qek: "Servant Unit Qek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_resh: "Servant Unit Resh" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_enth: "Servant Unit Enth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_onith: "Servant Unit Onith" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_krenth: "Servant Unit Krenth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_nen: "Servant Unit Nen" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_orenth: "Servant Unit Orenth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_shen: "Servant Unit Shen" #!Empty_LineInfo!
-	ARKANIAN_SHIP_servant_unit_thesh: "Servant Unit Thesh" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
-	ARKANIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
-	ARKANIAN_SHIP_mazariyan: "Mazariyan" #!Empty_LineInfo!
-	ARKANIAN_SHIP_adni: "Adni" #!Empty_LineInfo!
-	ARKANIAN_SHIP_appenza: "Appenza" #!Empty_LineInfo!
-	ARKANIAN_SHIP_avos: "Avos" #!Empty_LineInfo!
-	ARKANIAN_SHIP_baron_knoll: "Baron Knoll" #!Empty_LineInfo!
-	ARKANIAN_SHIP_berin: "Berin" #!Empty_LineInfo!
-	ARKANIAN_SHIP_black_crest: "Black Crest" #!Empty_LineInfo!
-	ARKANIAN_SHIP_claw_of_borolol: "Claw of Borolol" #!Empty_LineInfo!
-	ARKANIAN_SHIP_bride_s_talon: "Bride's Talon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_bright_sun: "Bright Sun" #!Empty_LineInfo!
-	ARKANIAN_SHIP_canaitith: "Canaitith" #!Empty_LineInfo!
-	ARKANIAN_SHIP_collo_fauale: "Collo Fauale" #!Empty_LineInfo!
-	ARKANIAN_SHIP_crysifal: "Crysifal" #!Empty_LineInfo!
-	ARKANIAN_SHIP_d_olop_flow: "D'olop Flow" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dour_roads: "Dour Roads" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dregan_s_pike: "Dregan's Pike" #!Empty_LineInfo!
-	ARKANIAN_SHIP_drossrock: "Drossrock" #!Empty_LineInfo!
-	ARKANIAN_SHIP_fallen_teeth: "Fallen Teeth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_favaran: "Favaran" #!Empty_LineInfo!
-	ARKANIAN_SHIP_frigia: "Frigia" #!Empty_LineInfo!
-	ARKANIAN_SHIP_gusty_bluff: "Gusty Bluff" #!Empty_LineInfo!
-	ARKANIAN_SHIP_high_tatmana: "High Tatmana" #!Empty_LineInfo!
-	ARKANIAN_SHIP_hugo: "Hugo" #!Empty_LineInfo!
-	ARKANIAN_SHIP_im_g_twe: "Im'g'twe" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ison: "Ison" #!Empty_LineInfo!
-	ARKANIAN_SHIP_kalis: "Kalis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_karatokai: "Karatokai" #!Empty_LineInfo!
-	ARKANIAN_SHIP_katarn: "Katarn" #!Empty_LineInfo!
-	ARKANIAN_SHIP_khoehng: "Khoehng" #!Empty_LineInfo!
-	ARKANIAN_SHIP_korrokrrayyo: "Korrokrrayyo" #!Empty_LineInfo!
-	ARKANIAN_SHIP_luftgriff: "Luftgriff" #!Empty_LineInfo!
-	ARKANIAN_SHIP_m_nis: "M'Nis" #!Empty_LineInfo!
-	ARKANIAN_SHIP_marauder: "Marauder" #!Empty_LineInfo!
-	ARKANIAN_SHIP_merakan: "Merakan" #!Empty_LineInfo!
-	ARKANIAN_SHIP_meru: "Meru" #!Empty_LineInfo!
-	ARKANIAN_SHIP_moonstruck: "Moonstruck" #!Empty_LineInfo!
-	ARKANIAN_SHIP_agorn: "Agorn" #!Empty_LineInfo!
-	ARKANIAN_SHIP_antas: "Antas" #!Empty_LineInfo!
-	ARKANIAN_SHIP_anzaada: "Anzaada" #!Empty_LineInfo!
-	ARKANIAN_SHIP_arakeirkos: "Arakeirkos" #!Empty_LineInfo!
-	ARKANIAN_SHIP_arayakyak: "Arayakyak" #!Empty_LineInfo!
-	ARKANIAN_SHIP_dijandi: "Dijandi" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ganton: "Ganton" #!Empty_LineInfo!
-	ARKANIAN_SHIP_gethzerion: "Gethzerion" #!Empty_LineInfo!
-	ARKANIAN_SHIP_izukika: "Izukika" #!Empty_LineInfo!
-	ARKANIAN_SHIP_krana: "Krana" #!Empty_LineInfo!
-	ARKANIAN_SHIP_krisklar: "Krisklar" #!Empty_LineInfo!
-	ARKANIAN_SHIP_lorrist: "Lorrist" #!Empty_LineInfo!
-	ARKANIAN_SHIP_mogaar: "Mogaar" #!Empty_LineInfo!
-	ARKANIAN_SHIP_pasvaal: "Pasvaal" #!Empty_LineInfo!
-	ARKANIAN_SHIP_quavaar: "Quavaar" #!Empty_LineInfo!
-	ARKANIAN_SHIP_redolava: "Redolava" #!Empty_LineInfo!
-	ARKANIAN_SHIP_savage: "Savage" #!Empty_LineInfo!
-	ARKANIAN_SHIP_sendoth: "Sendoth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tellec: "Tellec" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tessef: "Tessef" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ulgo: "Ulgo" #!Empty_LineInfo!
-	ARKANIAN_SHIP_vastadon: "Vastadon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_veermok: "Veermok" #!Empty_LineInfo!
-	ARKANIAN_SHIP_verena: "Verena" #!Empty_LineInfo!
-	ARKANIAN_SHIP_vissa: "Vissa" #!Empty_LineInfo!
-	ARKANIAN_SHIP_orane: "Orane" #!Empty_LineInfo!
-	ARKANIAN_SHIP_orik_s_spine: "Orik's Spine" #!Empty_LineInfo!
-	ARKANIAN_SHIP_felth: "Felth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_porso: "Porso" #!Empty_LineInfo!
-	ARKANIAN_SHIP_red_hill: "Red Hill" #!Empty_LineInfo!
-	ARKANIAN_SHIP_scich_tl: "Scich'tl" #!Empty_LineInfo!
-	ARKANIAN_SHIP_selon: "Selon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_sirpar: "Sirpar" #!Empty_LineInfo!
-	ARKANIAN_SHIP_sistra: "Sistra" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ste_vshuulsz: "Ste'vshuulsz" #!Empty_LineInfo!
-	ARKANIAN_SHIP_teldanus: "Teldanus" #!Empty_LineInfo!
-	ARKANIAN_SHIP_tolmeatek: "Tolmeatek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_twin_hills: "Twin Hills" #!Empty_LineInfo!
-	ARKANIAN_SHIP_umate: "Umate" #!Empty_LineInfo!
-	ARKANIAN_SHIP_usca: "Usca" #!Empty_LineInfo!
-	ARKANIAN_SHIP_yal_noy: "Yal-Noy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
-	ARKANIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
-	ARKANIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
-	ARKANIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
-	ARKANIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
-	ARKANIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_imperial_escort: "Imperial Escort" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
-	ARKANIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
-	ARKANIAN_FLEET_defense_fleet_ORD: "$ORD$ Defense Fleet" #!Empty_LineInfo!
-	ARKANIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
-	ARKANIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
-	ARKANIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
-	ARKANIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
-	ARKANIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
-	ARKANIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
-	ARKANIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
-	ARKANIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
-	ARKANIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
-	ARKANIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
-	ARKANIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
-	ARKANIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
-	ARKANIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
-	ARKANIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
-	ARKANIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
-	ARKANIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
-	ARKANIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
-	ARKANIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
-	ARKANIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
-	ARKANIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
-	ARKANIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
-	ARKANIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
-	ARKANIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
-	ARKANIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
-	ARKANIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
-	ARKANIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
-	ARKANIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
-	ARKANIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
-	ARKANIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
-	ARKANIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
-	ARKANIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
-	ARKANIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
-	ARKANIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
-	ARKANIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
-	ARKANIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
-	ARKANIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
-	ARKANIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
-	ARKANIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
-	ARKANIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
-	ARKANIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
-	ARKANIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
-	ARKANIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
-	ARKANIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
-	ARKANIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
-	ARKANIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
-	ARKANIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
-	ARKANIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
-	ARKANIAN_CHR_arca: "Arca" #!Empty_LineInfo!
-	ARKANIAN_CHR_arkoh: "Arkoh" #!Empty_LineInfo!
-	ARKANIAN_CHR_gorman: "Gorman" #!Empty_LineInfo!
-	ARKANIAN_CHR_lucien: "Lucien" #!Empty_LineInfo!
-	ARKANIAN_CHR_hurnoj: "Hurnoj" #!Empty_LineInfo!
-	ARKANIAN_CHR_dias: "Dias" #!Empty_LineInfo!
-	ARKANIAN_CHR_krellus: "Krellus" #!Empty_LineInfo!
-	ARKANIAN_CHR_artonius: "Artonius" #!Empty_LineInfo!
-	ARKANIAN_CHR_thraka: "Thraka" #!Empty_LineInfo!
-	ARKANIAN_CHR_tyno: "Tyno" #!Empty_LineInfo!
-	ARKANIAN_CHR_hyrim: "Hyrim" #!Empty_LineInfo!
-	ARKANIAN_CHR_zeta: "Zeta" #!Empty_LineInfo!
-	ARKANIAN_CHR_salaban: "Salaban" #!Empty_LineInfo!
-	ARKANIAN_CHR_argaloh: "Argaloh" #!Empty_LineInfo!
-	ARKANIAN_CHR_palmek: "Palmek" #!Empty_LineInfo!
-	ARKANIAN_CHR_lehrmun: "Lehrmun" #!Empty_LineInfo!
-	ARKANIAN_CHR_zielrich: "Zielrich" #!Empty_LineInfo!
-	ARKANIAN_CHR_dans: "Dans" #!Empty_LineInfo!
-	ARKANIAN_CHR_dershow: "Dershow" #!Empty_LineInfo!
-	ARKANIAN_CHR_sharlo: "Sharlo" #!Empty_LineInfo!
-	ARKANIAN_CHR_torril: "Torril" #!Empty_LineInfo!
-	ARKANIAN_CHR_carja: "Carja" #!Empty_LineInfo!
-	ARKANIAN_CHR_jorda: "Jorda" #!Empty_LineInfo!
-	ARKANIAN_CHR_ordyn: "Ordyn" #!Empty_LineInfo!
-	ARKANIAN_CHR_lucius: "Lucius" #!Empty_LineInfo!
-	ARKANIAN_CHR_vayco: "Vayco" #!Empty_LineInfo!
-	ARKANIAN_CHR_alek: "Alek" #!Empty_LineInfo!
-	ARKANIAN_CHR_serwin: "Serwin" #!Empty_LineInfo!
-	ARKANIAN_CHR_dioxen: "Dioxen" #!Empty_LineInfo!
-	ARKANIAN_CHR_typho: "Typho" #!Empty_LineInfo!
-	ARKANIAN_CHR_tycho: "Tycho" #!Empty_LineInfo!
-	ARKANIAN_CHR_myko: "Myko" #!Empty_LineInfo!
-	ARKANIAN_CHR_akhov: "Akhov" #!Empty_LineInfo!
-	ARKANIAN_CHR_samuil: "Samuil" #!Empty_LineInfo!
-	ARKANIAN_CHR_azan: "Azan" #!Empty_LineInfo!
-	ARKANIAN_CHR_korab: "Korab" #!Empty_LineInfo!
-	ARKANIAN_CHR_dej: "Dej" #!Empty_LineInfo!
-	ARKANIAN_CHR_dej_in: "Dej'in" #!Empty_LineInfo!
-	ARKANIAN_CHR_arok: "Arok" #!Empty_LineInfo!
-	ARKANIAN_CHR_zolo: "Zolo" #!Empty_LineInfo!
-	ARKANIAN_CHR_serifa: "Serifa" #!Empty_LineInfo!
-	ARKANIAN_CHR_urma: "Urma" #!Empty_LineInfo!
-	ARKANIAN_CHR_cratala: "Cratala" #!Empty_LineInfo!
-	ARKANIAN_CHR_darvla: "Darvla" #!Empty_LineInfo!
-	ARKANIAN_CHR_hanna: "Hanna" #!Empty_LineInfo!
-	ARKANIAN_CHR_edessa: "Edessa" #!Empty_LineInfo!
-	ARKANIAN_CHR_reshee: "Reshee" #!Empty_LineInfo!
-	ARKANIAN_CHR_jarael: "Jarael" #!Empty_LineInfo!
-	ARKANIAN_CHR_elizie: "Elizie" #!Empty_LineInfo!
-	ARKANIAN_CHR_nasdra: "Nasdra" #!Empty_LineInfo!
-	ARKANIAN_CHR_shenna: "Shenna" #!Empty_LineInfo!
-	ARKANIAN_CHR_zadawi: "Zadawi" #!Empty_LineInfo!
-	ARKANIAN_CHR_noor: "Noor" #!Empty_LineInfo!
-	ARKANIAN_CHR_aria: "Aria" #!Empty_LineInfo!
-	ARKANIAN_CHR_suroth: "Suroth" #!Empty_LineInfo!
-	ARKANIAN_CHR_bellara: "Bellara" #!Empty_LineInfo!
-	ARKANIAN_CHR_seva: "Seva" #!Empty_LineInfo!
-	ARKANIAN_CHR_varna: "Varna" #!Empty_LineInfo!
-	ARKANIAN_CHR_prysta: "Prysta" #!Empty_LineInfo!
-	ARKANIAN_CHR_ervona: "Ervona" #!Empty_LineInfo!
-	ARKANIAN_CHR_vanyara: "Vanyara" #!Empty_LineInfo!
-	ARKANIAN_CHR_lunava: "Lunava" #!Empty_LineInfo!
-	ARKANIAN_CHR_iliya: "Iliya" #!Empty_LineInfo!
-	ARKANIAN_CHR_ilistra: "Ilistra" #!Empty_LineInfo!
-	ARKANIAN_CHR_vnya: "Vnya" #!Empty_LineInfo!
-	ARKANIAN_CHR_elena: "Elena" #!Empty_LineInfo!
-	ARKANIAN_CHR_elara: "Elara" #!Empty_LineInfo!
-	ARKANIAN_CHR_elanya: "Elanya" #!Empty_LineInfo!
-	ARKANIAN_CHR_elarya: "Elarya" #!Empty_LineInfo!
-	ARKANIAN_CHR_stara: "Stara" #!Empty_LineInfo!
-	ARKANIAN_CHR_troyana: "Troyana" #!Empty_LineInfo!
-	ARKANIAN_CHR_cora: "Cora" #!Empty_LineInfo!
-	ARKANIAN_CHR_sinaia: "Sinaia" #!Empty_LineInfo!
-	ARKANIAN_CHR_mlyn: "Mlyn" #!Empty_LineInfo!
-	ARKANIAN_CHR_riva: "Riva" #!Empty_LineInfo!
-	ARKANIAN_CHR_sarna: "Sarna" #!Empty_LineInfo!
-	ARKANIAN_CHR_sarnya: "Sarnya" #!Empty_LineInfo!
-	ARKANIAN_CHR_lyu: "Lyu" #!Empty_LineInfo!
-	ARKANIAN_CHR_mira: "Mira" #!Empty_LineInfo!
-	ARKANIAN_CHR_mya: "Mya" #!Empty_LineInfo!
-	ARKANIAN_CHR_jeth: "Jeth" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca: "Adasca" #!Empty_LineInfo!
-	ARKANIAN_CHR_vandrayk: "Vandrayk" #!Empty_LineInfo!
-	ARKANIAN_CHR_draay: "Draay" #!Empty_LineInfo!
-	ARKANIAN_CHR_altunen: "Altunen" #!Empty_LineInfo!
-	ARKANIAN_CHR_arqu_uthun: "Arqu'uthun" #!Empty_LineInfo!
-	ARKANIAN_CHR_athacorr: "Athacorr" #!Empty_LineInfo!
-	ARKANIAN_CHR_athantras: "Athantras" #!Empty_LineInfo!
-	ARKANIAN_CHR_barzane: "Barzane" #!Empty_LineInfo!
-	ARKANIAN_CHR_ding: "Ding" #!Empty_LineInfo!
-	ARKANIAN_CHR_dobonold: "Dobonold" #!Empty_LineInfo!
-	ARKANIAN_CHR_duroth: "Duroth" #!Empty_LineInfo!
-	ARKANIAN_CHR_fabris: "Fabris" #!Empty_LineInfo!
-	ARKANIAN_CHR_focela: "Focela" #!Empty_LineInfo!
-	ARKANIAN_CHR_irway: "Irway" #!Empty_LineInfo!
-	ARKANIAN_CHR_magnus: "Magnus" #!Empty_LineInfo!
-	ARKANIAN_CHR_magrody: "Magrody" #!Empty_LineInfo!
-	ARKANIAN_CHR_suprin: "Suprin" #!Empty_LineInfo!
-	ARKANIAN_CHR_zerati: "Zerati" #!Empty_LineInfo!
-	ARKANIAN_CHR_xibir: "Xibir" #!Empty_LineInfo!
-	ARKANIAN_CHR_ummel: "Ummel" #!Empty_LineInfo!
-	ARKANIAN_CHR_varange: "Varange" #!Empty_LineInfo!
-	ARKANIAN_CHR_yaren: "Yaren" #!Empty_LineInfo!
-	ARKANIAN_CHR_chisin: "Chisin" #!Empty_LineInfo!
-	ARKANIAN_CHR_kherson: "Kherson" #!Empty_LineInfo!
-	ARKANIAN_CHR_naroca: "Naroca" #!Empty_LineInfo!
-	ARKANIAN_CHR_vozne: "Vozne" #!Empty_LineInfo!
-	ARKANIAN_CHR_tanis: "Tanis" #!Empty_LineInfo!
-	ARKANIAN_CHR_obyne: "Obyne" #!Empty_LineInfo!
-	ARKANIAN_CHR_tul_yin: "Tul'yin" #!Empty_LineInfo!
-	ARKANIAN_CHR_vylkove: "Vylkove" #!Empty_LineInfo!
-	ARKANIAN_CHR_tandarei: "Tandarei" #!Empty_LineInfo!
-	ARKANIAN_CHR_ruen: "Ruen" #!Empty_LineInfo!
-	ARKANIAN_CHR_prycell: "Prycell" #!Empty_LineInfo!
-	ARKANIAN_CHR_barane: "Barane" #!Empty_LineInfo!
-	ARKANIAN_CHR_barran: "Barran" #!Empty_LineInfo!
-	ARKANIAN_CHR_verkhynn: "Verkhynn" #!Empty_LineInfo!
-	ARKANIAN_CHR_velik: "Velik" #!Empty_LineInfo!
-	ARKANIAN_CHR_drakay: "Drakay" #!Empty_LineInfo!
-	ARKANIAN_CHR_drakarian: "Drakarian" #!Empty_LineInfo!
-	ARKANIAN_CHR_arslan: "Arslan" #!Empty_LineInfo!
-	ARKANIAN_CHR_aslar: "Aslar" #!Empty_LineInfo!
-	ARKANIAN_CHR_aayco: "Aayco" #!Empty_LineInfo!
-	ARKANIAN_CHR_areta: "Areta" #!Empty_LineInfo!
-	ARKANIAN_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
-	ARKANIAN_CHR_arya: "Arya" #!Empty_LineInfo!
-	ARKANIAN_CHR_ayana: "Ayana" #!Empty_LineInfo!
-	ARKANIAN_CHR_averra: "Averra" #!Empty_LineInfo!
-	ARKANIAN_CHR_aiva: "Aiva" #!Empty_LineInfo!
-	ARKANIAN_CHR_arna: "Arna" #!Empty_LineInfo!
-	ARKANIAN_CHR_aira: "Aira" #!Empty_LineInfo!
-	ARKANIAN_CHR_aeva: "Aeva" #!Empty_LineInfo!
-	ARKANIAN_CHR_aluva: "Aluva" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca_i: "Adasca I" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca_ii: "Adasca II" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca_iii: "Adasca III" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca_iv: "Adasca IV" #!Empty_LineInfo!
-	ARKANIAN_CHR_adasca_ix: "Adasca IX" #!Empty_LineInfo!
+ ARKANIAN_SHIP_velocity: "Скорость"
+ ARKANIAN_SHIP_derivative: "Производная"
+ ARKANIAN_SHIP_quantifier: "Квантор"
+ ARKANIAN_SHIP_variable: "Переменная"
+ ARKANIAN_SHIP_power_rule: "Правило власти"
+ ARKANIAN_SHIP_power_law: "Степенной закон"
+ ARKANIAN_SHIP_abscissa: "Абсцисса"
+ ARKANIAN_SHIP_distributor: "Дистрибьютор"
+ ARKANIAN_SHIP_subtractor: "Вычитатель"
+ ARKANIAN_SHIP_presumptive: "Предполагаемый"
+ ARKANIAN_SHIP_progression: "Прогрессия"
+ ARKANIAN_SHIP_asymptote: "Асимптота"
+ ARKANIAN_SHIP_augmentor: "Увеличитель"
+ ARKANIAN_SHIP_xernoulli: "Ксернулли"
+ ARKANIAN_SHIP_bioclimatic: "Биоклиматик"
+ ARKANIAN_SHIP_axis: "Ось"
+ ARKANIAN_SHIP_coefficient: "Коэффициент"
+ ARKANIAN_SHIP_compounder: "Компаундер"
+ ARKANIAN_SHIP_concavity: "Вогнутость"
+ ARKANIAN_SHIP_conditional: "Условный"
+ ARKANIAN_SHIP_constraint: "Ограничение"
+ ARKANIAN_SHIP_ogive: "Оживление"
+ ARKANIAN_SHIP_integral: "Интеграл"
+ ARKANIAN_SHIP_integrand: "Интегранд"
+ ARKANIAN_SHIP_iteration: "Итерация"
+ ARKANIAN_SHIP_iterator: "Итератор"
+ ARKANIAN_SHIP_itinerant: "Странствующий"
+ ARKANIAN_SHIP_systemic: "Системный"
+ ARKANIAN_SHIP_instantaneous: "Мгновенный"
+ ARKANIAN_SHIP_notation: "Обозначение"
+ ARKANIAN_SHIP_maxima: "Максима"
+ ARKANIAN_SHIP_minima: "Минимумы"
+ ARKANIAN_SHIP_absolute: "Абсолютный"
+ ARKANIAN_SHIP_quotient: "Частность"
+ ARKANIAN_SHIP_second_order: "Второй порядок"
+ ARKANIAN_SHIP_tangent: "Касательная"
+ ARKANIAN_SHIP_differential: "Дифференциал"
+ ARKANIAN_SHIP_discriminant: "Дискриминант"
+ ARKANIAN_SHIP_disjoint: "Непересекающийся"
+ ARKANIAN_SHIP_domain: "Домен"
+ ARKANIAN_SHIP_double_integral: "Двойной интеграл"
+ ARKANIAN_SHIP_simplex: "Симплекс"
+ ARKANIAN_SHIP_epidemic: "Эпидемия"
+ ARKANIAN_SHIP_exponent: "Экспонента"
+ ARKANIAN_SHIP_law_of_growth: "Закон роста"
+ ARKANIAN_SHIP_entropy: "Энтропия"
+ ARKANIAN_SHIP_factorial: "Факториал"
+ ARKANIAN_SHIP_inflector: "Инфлектор"
+ ARKANIAN_SHIP_inflection: "Перегиб"
+ ARKANIAN_SHIP_extremum: "Экстремум"
+ ARKANIAN_SHIP_differentiable: "Дифференцируемый"
+ ARKANIAN_SHIP_quadratic: "Квадратичный"
+ ARKANIAN_SHIP_vertex: "Вершина"
+ ARKANIAN_SHIP_sum_of_all_terms: "Сумма всех слагаемых"
+ ARKANIAN_SHIP_heredity: "Наследственность"
+ ARKANIAN_SHIP_horizon_line: "Линия горизонта"
+ ARKANIAN_SHIP_natural_advantage: "Естественное преимущество"
+ ARKANIAN_SHIP_selective: "Избирательный"
+ ARKANIAN_SHIP_incremental: "Инкрементный"
+ ARKANIAN_SHIP_indefinite: "Неопределенный"
+ ARKANIAN_SHIP_boundless: "Безграничный"
+ ARKANIAN_SHIP_free_radical: "Свободный радикал"
+ ARKANIAN_SHIP_infinite_set: "Бесконечное множество"
+ ARKANIAN_SHIP_infinity: "Бесконечность"
+ ARKANIAN_SHIP_integer: "Целое число"
+ ARKANIAN_SHIP_intercept: "Перехват"
+ ARKANIAN_SHIP_exponential: "Экспоненциальный"
+ ARKANIAN_SHIP_rationality: "Рациональность"
+ ARKANIAN_SHIP_natural_order: "Естественный порядок"
+ ARKANIAN_SHIP_intersector: "Пересечение"
+ ARKANIAN_SHIP_interval_of_war: "Перерыв в войне"
+ ARKANIAN_SHIP_common_denominator: "Общий знаменатель"
+ ARKANIAN_SHIP_denominator: "Знаменатель"
+ ARKANIAN_SHIP_numerator: "Числитель"
+ ARKANIAN_SHIP_infinite_limit: "Бесконечный предел"
+ ARKANIAN_SHIP_equilibrium: "Равновесие"
+ ARKANIAN_SHIP_leonzief: "Леонзиев"
+ ARKANIAN_SHIP_corner_solution: "Угловое решение"
+ ARKANIAN_SHIP_decision_variable: "Переменная для принятия решения"
+ ARKANIAN_SHIP_geometric: "Геометрический"
+ ARKANIAN_SHIP_optimal: "Оптимальный"
+ ARKANIAN_SHIP_optimality: "Оптимальность"
+ ARKANIAN_SHIP_indicator: "Индикатор"
+ ARKANIAN_SHIP_regressor: "Регрессор"
+ ARKANIAN_SHIP_logarithmic: "Логарифмический"
+ ARKANIAN_SHIP_chain_of_tarkoz: "Цепь Таркоза"
+ ARKANIAN_SHIP_associative: "Ассоциативный"
+ ARKANIAN_SHIP_cummutative: "Кумулятивный"
+ ARKANIAN_SHIP_inverse: "Обратное"
+ ARKANIAN_SHIP_polyscientia: "Полисцензия"
+ ARKANIAN_SHIP_reducer: "Редуктор"
+ ARKANIAN_SHIP_transposer: "Транспозер"
+ ARKANIAN_SHIP_central_tendency: "Центральная тенденция"
+ ARKANIAN_SHIP_dispersion: "Рассеивание"
+ ARKANIAN_SHIP_median: "Медиана"
+ ARKANIAN_SHIP_nominal: "Номинальный"
+ ARKANIAN_SHIP_oblique: "Косой"
+ ARKANIAN_SHIP_ordinate: "Ордината"
+ ARKANIAN_SHIP_parameter: "Параметр"
+ ARKANIAN_SHIP_tsagrange: "Цагранж"
+ ARKANIAN_SHIP_permutation: "Перестановка"
+ ARKANIAN_SHIP_perpendicular: "Перпендикулярный"
+ ARKANIAN_SHIP_selector: "Селектор"
+ ARKANIAN_SHIP_elector: "Выборщик"
+ ARKANIAN_SHIP_prime: "Прайм"
+ ARKANIAN_SHIP_natural_selection: "Естественный отбор"
+ ARKANIAN_SHIP_stochast: "Случайный прогноз"
+ ARKANIAN_SHIP_empirical: "Эмпирический"
+ ARKANIAN_SHIP_empirical_mind: "Эмпирический разум"
+ ARKANIAN_SHIP_matter_of_minds: "Дело умов"
+ ARKANIAN_SHIP_quadrant: "Квадрант"
+ ARKANIAN_SHIP_index: "Индекс"
+ ARKANIAN_SHIP_radicand: "Радикальный"
+ ARKANIAN_SHIP_rationalizer: "Рационализатор"
+ ARKANIAN_SHIP_allocator: "Распределитель"
+ ARKANIAN_SHIP_aptitude: "Способности"
+ ARKANIAN_SHIP_sensory: "Сенсорный"
+ ARKANIAN_SHIP_null: "Ноль"
+ ARKANIAN_SHIP_null_set: "Нулевой набор"
+ ARKANIAN_SHIP_retention: "Удержание"
+ ARKANIAN_SHIP_secant: "Секущий"
+ ARKANIAN_SHIP_solver: "Решатель"
+ ARKANIAN_SHIP_solution: "Решение"
+ ARKANIAN_SHIP_standard_deviation: "Стандартное отклонение"
+ ARKANIAN_SHIP_variance: "Отклонение"
+ ARKANIAN_SHIP_summation: "Суммирование"
+ ARKANIAN_SHIP_process_of_elimination: "Процесс исключения"
+ ARKANIAN_SHIP_extrapolator: "Экстраполятор"
+ ARKANIAN_SHIP_universal_set: "Универсальный набор"
+ ARKANIAN_SHIP_missing_link: "Недостающее звено"
+ ARKANIAN_SHIP_volumex: "Волюмекс"
+ ARKANIAN_SHIP_folly_of_presumption: "Глупость самонадеянности"
+ ARKANIAN_SHIP_reciprocator: "Возвратно-поступательный механизм"
+ ARKANIAN_SHIP_equalizer: "Эквалайзер"
+ ARKANIAN_SHIP_pereave: "Переход"
+ ARKANIAN_SHIP_pinnacle: "Вершина"
+ ARKANIAN_SHIP_manipulator: "Манипулятор"
+ ARKANIAN_SHIP_pureblood: "Чистокровный"
+ ARKANIAN_SHIP_gifted: "Одаренный"
+ ARKANIAN_SHIP_superior: "Превосходящий"
+ ARKANIAN_SHIP_superiority: "Превосходство"
+ ARKANIAN_SHIP_earned_privilege: "Заслуженная привилегия"
+ ARKANIAN_SHIP_privileged: "Привилегированный"
+ ARKANIAN_SHIP_civilization: "Цивилизация"
+ ARKANIAN_SHIP_civilized: "Цивилизованный"
+ ARKANIAN_SHIP_civilizer: "Цивилизатор"
+ ARKANIAN_SHIP_civility: "Вежливость"
+ ARKANIAN_SHIP_dedicated: "Посвященный"
+ ARKANIAN_SHIP_detriment: "Ущерб"
+ ARKANIAN_SHIP_purgation: "Очищение"
+ ARKANIAN_SHIP_arca_jeth: "Арка Джет"
+ ARKANIAN_SHIP_lifegiver: "Спаситель"
+ ARKANIAN_SHIP_adasca: "Адаска"
+ ARKANIAN_SHIP_black_harvest: "Черная жатва"
+ ARKANIAN_SHIP_eminence: "Высокопреосвященство"
+ ARKANIAN_SHIP_exogorth: "Экзогорт"
+ ARKANIAN_SHIP_uplifter: "Возвышающий"
+ ARKANIAN_SHIP_supermacy: "Супермакси"
+ ARKANIAN_SHIP_supreme: "Высший"
+ ARKANIAN_SHIP_praxeum: "Праксеум"
+ ARKANIAN_SHIP_praxis: "Праксис"
+ ARKANIAN_SHIP_axiom: "Аксиома"
+ ARKANIAN_SHIP_olim: "Олим"
+ ARKANIAN_SHIP_diamondheart: "Алмазное сердце"
+ ARKANIAN_SHIP_xexto: "Ксехто"
+ ARKANIAN_SHIP_adascopolis: "Адаскополис"
+ ARKANIAN_SHIP_veeshas_tuwan: "Вишас Туван"
+ ARKANIAN_SHIP_vandrayk: "Вандрейк"
+ ARKANIAN_SHIP_crescendo: "Крещендо"
+ ARKANIAN_SHIP_arkanian_legacy: "Наследие Аркани"
+ ARKANIAN_SHIP_draay: "Дрейй"
+ ARKANIAN_SHIP_dreddon: "Дреддон"
+ ARKANIAN_SHIP_aqubis: "Аквибис"
+ ARKANIAN_SHIP_gorm: "Горм"
+ ARKANIAN_SHIP_dissolver: "Растворитель"
+ ARKANIAN_SHIP_high_marshall: "Верховный маршал"
+ ARKANIAN_SHIP_chancellor_frix: "Канцлер Фрикс"
+ ARKANIAN_SHIP_serifa: "Серифа"
+ ARKANIAN_SHIP_altunen: "Алтунен"
+ ARKANIAN_SHIP_perfection: "Совершенство"
+ ARKANIAN_SHIP_astramax: "Астрамакс"
+ ARKANIAN_SHIP_apex: "Вершина"
+ ARKANIAN_SHIP_diamondback: "Бриллиантовая спинка"
+ ARKANIAN_SHIP_artifice: "Выдумка"
+ ARKANIAN_SHIP_purifier: "Очиститель"
+ ARKANIAN_SHIP_iron_knight: "Железный рыцарь"
+ ARKANIAN_SHIP_iron_warrior: "Железный воин"
+ ARKANIAN_SHIP_cratala: "Кратала"
+ ARKANIAN_SHIP_edessa: "Эдесса"
+ ARKANIAN_SHIP_salaban: "Салабан"
+ ARKANIAN_SHIP_lineage: "Происхождение"
+ ARKANIAN_SHIP_legacy: "Наследие"
+ ARKANIAN_SHIP_choice_of_one: "Выбор одного"
+ ARKANIAN_SHIP_kanti: "Канти"
+ ARKANIAN_SHIP_novania: "Нования"
+ ARKANIAN_SHIP_osadia: "Осадия"
+ ARKANIAN_SHIP_progenitor: "Прародитель"
+ ARKANIAN_SHIP_progeny: "Потомство"
+ ARKANIAN_SHIP_prodigy: "Вундеркинд"
+ ARKANIAN_SHIP_causality: "Причинность"
+ ARKANIAN_SHIP_approbation: "Одобрение"
+ ARKANIAN_SHIP_scholastic: "Схоластический"
+ ARKANIAN_SHIP_crystal_seeker: "Искатель кристаллов"
+ ARKANIAN_SHIP_quantum: "Квант"
+ ARKANIAN_SHIP_iota: "Йота"
+ ARKANIAN_SHIP_razor_of_knowledge: "Бритва знаний"
+ ARKANIAN_SHIP_refutation: "Опровержение"
+ ARKANIAN_SHIP_rejoinder: "Ответ"
+ ARKANIAN_SHIP_rebuttal: "Опровержение"
+ ARKANIAN_SHIP_substantiator: "Обоснователь"
+ ARKANIAN_SHIP_algos: "Алгоритмы"
+ ARKANIAN_SHIP_algologist: "Альголог"
+ ARKANIAN_SHIP_counterfactual: "Контрфактуальный"
+ ARKANIAN_SHIP_mastermind: "Вдохновитель"
+ ARKANIAN_SHIP_virtuoso: "Виртуоз"
+ ARKANIAN_SHIP_paragon: "Образец совершенства"
+ ARKANIAN_SHIP_exemplar: "Образцовый"
+ ARKANIAN_SHIP_ideal_of_perfection: "Идеал совершенства"
+ ARKANIAN_SHIP_fatal_conceit: "Фатальное самомнение"
+ ARKANIAN_SHIP_primacy: "Первенство"
+ ARKANIAN_SHIP_exonaut: "Экзонавт"
+ ARKANIAN_SHIP_scholasta: "Схоласта"
+ ARKANIAN_SHIP_astute: "Проницательный"
+ ARKANIAN_SHIP_alacrity: "Готовность"
+ ARKANIAN_SHIP_wayfarer: "Путник"
+ ARKANIAN_SHIP_tuwan: "Тюван"
+ ARKANIAN_SHIP_third_derivative: "Третья производная"
+ ARKANIAN_SHIP_destined: "Суждено"
+ ARKANIAN_SHIP_fait_accompli: "Свершившийся факт"
+ ARKANIAN_SHIP_stellar_right: "Звездное право"
+ ARKANIAN_SHIP_rightful_due: "По праву"
+ ARKANIAN_SHIP_perfecting_spirit: "Совершенствующийся Дух"
+ ARKANIAN_SHIP_diamond: "Бриллиант"
+ ARKANIAN_SHIP_servant_unit_aurek: "Отряд слуг Аурек"
+ ARKANIAN_SHIP_servant_unit_besh: "Отряд слуг Беш"
+ ARKANIAN_SHIP_servant_unit_cresh: "Отряд слуг Крэш"
+ ARKANIAN_SHIP_servant_unit_dorn: "Отряд слуг Дорн"
+ ARKANIAN_SHIP_servant_unit_forn: "Отряд слуг Форн"
+ ARKANIAN_SHIP_servant_unit_grek: "Отряд слуг Грек"
+ ARKANIAN_SHIP_servant_unit_herf: "Отряд слуг Нерф"
+ ARKANIAN_SHIP_servant_unit_isk: "Отряд слуг Иск"
+ ARKANIAN_SHIP_servant_unit_jenth: "Отряд слуг Джентх"
+ ARKANIAN_SHIP_servant_unit_krill: "Отряд слуг Криль"
+ ARKANIAN_SHIP_servant_unit_leth: "Отряд слуг Лет"
+ ARKANIAN_SHIP_servant_unit_mern: "Отряд слуг Мерн"
+ ARKANIAN_SHIP_servant_unit_nern: "Отряд слуг Нерн"
+ ARKANIAN_SHIP_servant_unit_osk: "Отряд слуг Оск"
+ ARKANIAN_SHIP_servant_unit_peth: "Отряд слуг Петх"
+ ARKANIAN_SHIP_servant_unit_senth: "Отряд слуг Сентх"
+ ARKANIAN_SHIP_servant_unit_trill: "Отряд слуг Трель"
+ ARKANIAN_SHIP_servant_unit_usk: "Отряд слуг Usk"
+ ARKANIAN_SHIP_servant_unit_vev: "Отряд слуг Vev"
+ ARKANIAN_SHIP_servant_unit_wesk: "Отряд слуг Весков"
+ ARKANIAN_SHIP_servant_unit_xesh: "Отряд слуг Xesh"
+ ARKANIAN_SHIP_servant_unit_yirt: "Отряд слуг Йирт"
+ ARKANIAN_SHIP_servant_unit_zerek: "Отряд слуг Зерека"
+ ARKANIAN_SHIP_servant_unit_cherek: "Отряд слуг Черек"
+ ARKANIAN_SHIP_servant_unit_qek: "Отряд слуг Qek"
+ ARKANIAN_SHIP_servant_unit_resh: "Отряд слуг Реш"
+ ARKANIAN_SHIP_servant_unit_enth: "Отряд слуг Энтх"
+ ARKANIAN_SHIP_servant_unit_onith: "Отряд слуг Оних"
+ ARKANIAN_SHIP_servant_unit_krenth: "Отряд слуг Крентх"
+ ARKANIAN_SHIP_servant_unit_nen: "Отряд слуг Нен"
+ ARKANIAN_SHIP_servant_unit_orenth: "Отряд слуг Орентх"
+ ARKANIAN_SHIP_servant_unit_shen: "Отряд слуг Шэнь"
+ ARKANIAN_SHIP_servant_unit_thesh: "Отряд слуг Тхеш"
+ ARKANIAN_SHIP_ground_transport: "Наземный транспорт"
+ ARKANIAN_SHIP_spacegun_victory: "Космическая пушка Победа"
+ ARKANIAN_SHIP_spacegun_success: "Космическая пушка Успех"
+ ARKANIAN_SHIP_spacegun_supremacy: "Космическая пушка Превосходство"
+ ARKANIAN_SHIP_spacegun_superior: "Космическая пушка Превосходящий"
+ ARKANIAN_SHIP_spacegun_adventure: "Космическая пушка Авантюра"
+ ARKANIAN_SHIP_spacegun_ascendancy: "Космическая пушка Господство"
+ ARKANIAN_SHIP_spacegun_paramount: "Космическая пушка Космический пистолет Верховный"
+ ARKANIAN_SHIP_spacegun_preponderous: "Космическая пушка Преобладающий"
+ ARKANIAN_SHIP_spacegun_exemplary: "Космическая пушка Образцовый"
+ ARKANIAN_SHIP_spacegun_eximious: "Космическая пушка Выдающийся"
+ ARKANIAN_SHIP_spacegun_pertinacity: "Космическая пушка Упорство"
+ ARKANIAN_SHIP_spacegun_acclaim: "Космическая пушка Признание"
+ ARKANIAN_SHIP_spacegun_honor: "Космическая пушка Честь"
+ ARKANIAN_SHIP_spacegun_renown: "Космическая пушка Величие"
+ ARKANIAN_SHIP_spacegun_glory: "Космическая пушка Слава"
+ ARKANIAN_SHIP_spacegun_superb: "Космическая пушка Роскошный"
+ ARKANIAN_SHIP_spacegun_magnificence: "Космическая пушка Великолепие"
+ ARKANIAN_SHIP_spacegun_majestic: "Космическая пушка Величавый"
+ ARKANIAN_SHIP_spacegun_splendor: "Космическая пушка Великолепие"
+ ARKANIAN_SHIP_spacegun_paradigm: "Космическая пушка Парадигма"
+ ARKANIAN_SHIP_spacegun_flawless: "Космическая пушка Безупречный"
+ ARKANIAN_SHIP_spacegun_consummate: "Космическая пушка Непревзойденный"
+ ARKANIAN_SHIP_spacegun_merit: "Космическая пушка Достойный"
+ ARKANIAN_SHIP_spacegun_perfection: "Космическая пушка Совершенство"
+ ARKANIAN_SHIP_spacegun_virtue: "Космическая пушка Добродетель"
+ ARKANIAN_SHIP_spacegun_advantage: "Космическая пушка Преимущество"
+ ARKANIAN_SHIP_spacegun_rectitude: "Космическая пушка Прямота"
+ ARKANIAN_SHIP_spacegun_incorruptible: "Космическая пушка Неподкупный"
+ ARKANIAN_SHIP_spacegun_integrity: "Космическая пушка Честность"
+ ARKANIAN_SHIP_spacegun_justice: "Космическая пушка Правосудие"
+ ARKANIAN_SHIP_spacegun_probity: "Космическая пушка Добросовестность"
+ ARKANIAN_SHIP_spacegun_prudence: "Космическая пушка Осторожность"
+ ARKANIAN_SHIP_spacegun_purity: "Космическая пушка Чистота"
+ ARKANIAN_SHIP_spacegun_resolute: "Космическая пушка Решительный"
+ ARKANIAN_SHIP_spacegun_dignity: "Космическая пушка Благородство"
+ ARKANIAN_SHIP_spacegun_distinction: "Космическая пушка Почетный"
+ ARKANIAN_SHIP_spacegun_excellence: "Космическая пушка Превосходство"
+ ARKANIAN_SHIP_spacegun_faithful: "Космическая пушка Верный"
+ ARKANIAN_SHIP_spacegun_discipline: "Космическая пушка Дисциплина"
+ ARKANIAN_SHIP_spacegun_steadfast: "Космическая пушка Непоколебимый"
+ ARKANIAN_SHIP_spacegun_recompense: "Космическая пушка Возмездие"
+ ARKANIAN_SHIP_spacegun_requiem: "Космическая пушка Реквием"
+ ARKANIAN_SHIP_spacegun_courage: "Космическая пушка Отвага"
+ ARKANIAN_SHIP_spacegun_valor: "Космическая пушка Доблесть"
+ ARKANIAN_SHIP_spacegun_gallant: "Космическая пушка Галлантый"
+ ARKANIAN_SHIP_spacegun_daring: "Космическая пушка Отважный"
+ ARKANIAN_SHIP_spacegun_constancy: "Космическая пушка Постоянство"
+ ARKANIAN_SHIP_spacegun_perseverence: "Космическая пушка Настойчивость"
+ ARKANIAN_SHIP_spacegun_tenacity: "Космическая пушка Упорство"
+ ARKANIAN_SHIP_spacegun_sedulity: "Космическая пушка Степенность"
+ ARKANIAN_SHIP_spacegun_diligence: "Космическая пушка Усердие"
+ ARKANIAN_SHIP_citadel: "Цитадель"
+ ARKANIAN_SHIP_mazariyan: "Мазариян"
+ ARKANIAN_SHIP_adni: "Адни"
+ ARKANIAN_SHIP_appenza: "Аппенца"
+ ARKANIAN_SHIP_avos: "Авось"
+ ARKANIAN_SHIP_baron_knoll: "Барон Кнолль"
+ ARKANIAN_SHIP_berin: "Берин"
+ ARKANIAN_SHIP_black_crest: "Черный гребень"
+ ARKANIAN_SHIP_claw_of_borolol: "Коготь Боролола"
+ ARKANIAN_SHIP_bride_s_talon: "Коготь невесты"
+ ARKANIAN_SHIP_bright_sun: "Яркое солнце"
+ ARKANIAN_SHIP_canaitith: "Канайтиф"
+ ARKANIAN_SHIP_collo_fauale: "Колло Фауале"
+ ARKANIAN_SHIP_crysifal: "Крисифаль"
+ ARKANIAN_SHIP_d_olop_flow: "Поток Д'олопа"
+ ARKANIAN_SHIP_dour_roads: "Суровые дороги"
+ ARKANIAN_SHIP_dregan_s_pike: "Пика Дрэгана"
+ ARKANIAN_SHIP_drossrock: "Дроссрок"
+ ARKANIAN_SHIP_fallen_teeth: "Выпавшие зубы"
+ ARKANIAN_SHIP_favaran: "Фаваран"
+ ARKANIAN_SHIP_frigia: "Фригия"
+ ARKANIAN_SHIP_gusty_bluff: "Порывистый утес"
+ ARKANIAN_SHIP_high_tatmana: "Высокая Татмана"
+ ARKANIAN_SHIP_hugo: "Хьюго"
+ ARKANIAN_SHIP_im_g_twe: "Им'г'тве"
+ ARKANIAN_SHIP_ison: "Исон"
+ ARKANIAN_SHIP_kalis: "Калис"
+ ARKANIAN_SHIP_karatokai: "Каратокай"
+ ARKANIAN_SHIP_katarn: "Катарн"
+ ARKANIAN_SHIP_khoehng: "Кхонг"
+ ARKANIAN_SHIP_korrokrrayyo: "Коррокррайе"
+ ARKANIAN_SHIP_luftgriff: "Люфтгрифф"
+ ARKANIAN_SHIP_m_nis: "М'Нис"
+ ARKANIAN_SHIP_marauder: "Мародер"
+ ARKANIAN_SHIP_merakan: "Меракан"
+ ARKANIAN_SHIP_meru: "Меру"
+ ARKANIAN_SHIP_moonstruck: "Пораженный луной"
+ ARKANIAN_SHIP_agorn: "Агорн"
+ ARKANIAN_SHIP_antas: "Антас"
+ ARKANIAN_SHIP_anzaada: "Анзаада"
+ ARKANIAN_SHIP_arakeirkos: "Аракейркос"
+ ARKANIAN_SHIP_arayakyak: "Араякьяк"
+ ARKANIAN_SHIP_dijandi: "Дижанди"
+ ARKANIAN_SHIP_ganton: "Гантон"
+ ARKANIAN_SHIP_gethzerion: "Гетцерион"
+ ARKANIAN_SHIP_izukika: "Изукика"
+ ARKANIAN_SHIP_krana: "Кран"
+ ARKANIAN_SHIP_krisklar: "Крисклар"
+ ARKANIAN_SHIP_lorrist: "Лоррист"
+ ARKANIAN_SHIP_mogaar: "Могаар"
+ ARKANIAN_SHIP_pasvaal: "Пасвааль"
+ ARKANIAN_SHIP_quavaar: "Куаваар"
+ ARKANIAN_SHIP_redolava: "Редолава"
+ ARKANIAN_SHIP_savage: "Дикарь"
+ ARKANIAN_SHIP_sendoth: "Сендот"
+ ARKANIAN_SHIP_tellec: "Теллек"
+ ARKANIAN_SHIP_tessef: "Тессеф"
+ ARKANIAN_SHIP_ulgo: "Ульго"
+ ARKANIAN_SHIP_vastadon: "Вастадон"
+ ARKANIAN_SHIP_veermok: "Вирмок"
+ ARKANIAN_SHIP_verena: "Верена"
+ ARKANIAN_SHIP_vissa: "Висса"
+ ARKANIAN_SHIP_orane: "Оранский"
+ ARKANIAN_SHIP_orik_s_spine: "Хребет Орика"
+ ARKANIAN_SHIP_felth: "Фелт"
+ ARKANIAN_SHIP_porso: "Порсо"
+ ARKANIAN_SHIP_red_hill: "Красная горка"
+ ARKANIAN_SHIP_scich_tl: "Сих'тл"
+ ARKANIAN_SHIP_selon: "Селон"
+ ARKANIAN_SHIP_sirpar: "Сирпар"
+ ARKANIAN_SHIP_sistra: "Систра"
+ ARKANIAN_SHIP_ste_vshuulsz: "Сте'ввшуулсз"
+ ARKANIAN_SHIP_teldanus: "Тельданус"
+ ARKANIAN_SHIP_tolmeatek: "Толмеатек"
+ ARKANIAN_SHIP_twin_hills: "Холмы-близнецы"
+ ARKANIAN_SHIP_umate: "Умате"
+ ARKANIAN_SHIP_usca: "Уска"
+ ARKANIAN_SHIP_yal_noy: "Ял-Ной"
+ ARKANIAN_SHIP_bombard: "Космическая пушка Бомбарда"
+ ARKANIAN_SHIP_ballista: "Баллиста"
+ ARKANIAN_SHIP_catapult: "Космическая пушка Катапульта"
+ ARKANIAN_SHIP_harpoon: "Космическая пушка Гарпун"
+ ARKANIAN_SHIP_polybolos: "Космическая пушка Полиболос"
+ ARKANIAN_SHIP_culverin: "Космическая пушка Кулеврина"
+ ARKANIAN_SHIP_exemplary: "Космическая пушка Образцовый"
+ ARKANIAN_SHIP_CLASS_cr_90: "CR-90"
+ ARKANIAN_SHIP_CLASS_jehavey_ir: "Джехави'ир"
+ ARKANIAN_SHIP_CLASS_lupus: "Люпус"
+ ARKANIAN_SHIP_CLASS_asdroni: "Асдрони"
+ ARKANIAN_SHIP_CLASS_customs: "Таможня"
+ ARKANIAN_SHIP_CLASS_hammerhead: "Молотоглав"
+ ARKANIAN_SHIP_CLASS_scurge: "Мерзость"
+ ARKANIAN_SHIP_CLASS_krayt: "Крайт"
+ ARKANIAN_SHIP_CLASS_diamond: "Бриллиант"
+ ARKANIAN_SHIP_CLASS_etti: "Этти"
+ ARKANIAN_SHIP_CLASS_asdroni_ii: "Асдрони II"
+ ARKANIAN_SHIP_CLASS_vigil: "Бдение"
+ ARKANIAN_SHIP_CLASS_dp20: "DP20"
+ ARKANIAN_SHIP_CLASS_asdroni_iii: "Асдрони III"
+ ARKANIAN_SHIP_CLASS_raider: "Рейдер"
+ ARKANIAN_SHIP_CLASS_dornean: "Дорнейский"
+ ARKANIAN_SHIP_CLASS_crusader: "Крестоносец"
+ ARKANIAN_SHIP_CLASS_marauder: "Мародер"
+ ARKANIAN_SHIP_CLASS_arquitens: "Аркитенс"
+ ARKANIAN_SHIP_CLASS_kiltirin: "Килтирин"
+ ARKANIAN_SHIP_CLASS_pelta: "Пельта"
+ ARKANIAN_SHIP_CLASS_pinnace: "Катер"
+ ARKANIAN_SHIP_CLASS_nova: "Нова"
+ ARKANIAN_SHIP_CLASS_vigilance: "Бдительность"
+ ARKANIAN_SHIP_CLASS_nebulon_b: "Небулон-Б"
+ ARKANIAN_SHIP_CLASS_cg_273: "CG-273"
+ ARKANIAN_SHIP_CLASS_kariek: "Кариек"
+ ARKANIAN_SHIP_CLASS_imperial_escort: "Императорский эскорт"
+ ARKANIAN_SHIP_CLASS_quasar_fire: "Огонь квазара"
+ ARKANIAN_SHIP_CLASS_lancer: "Лансер"
+ ARKANIAN_SHIP_CLASS_teroch: "Терох"
+ ARKANIAN_SHIP_CLASS_nebulon_b2: "Небулон-В2"
+ ARKANIAN_SHIP_CLASS_nova_ii: "Нова II"
+ ARKANIAN_SHIP_CLASS_vigilance_ii: "Бдительный II"
+ ARKANIAN_SHIP_CLASS_velox: "Велокс"
+ ARKANIAN_SHIP_CLASS_mc30c: "MC30c"
+ ARKANIAN_SHIP_CLASS_vengeance: "Месть"
+ ARKANIAN_SHIP_CLASS_kariek_ii: "Кариек II"
+ ARKANIAN_SHIP_CLASS_cc_7700: "CC-7700"
+ ARKANIAN_SHIP_CLASS_victory_mark_2: "Победа марк 2"
+ ARKANIAN_SHIP_CLASS_wavecrest: "Гребень волны"
+ ARKANIAN_SHIP_CLASS_battle_dragon: "Боевой дракон"
+ ARKANIAN_SHIP_CLASS_nuruodo: "Нуруодо"
+ ARKANIAN_SHIP_CLASS_sabaoth: "Саваоф"
+ ARKANIAN_SHIP_CLASS_kontos: "Контос"
+ ARKANIAN_SHIP_CLASS_mc40: "MC40"
+ ARKANIAN_SHIP_CLASS_battle_dragon_ii: "Боевой дракон II"
+ ARKANIAN_SHIP_CLASS_broadside: "Залп"
+ ARKANIAN_SHIP_CLASS_protector: "Защитник"
+ ARKANIAN_SHIP_CLASS_warlord: "Военачальник"
+ ARKANIAN_SHIP_CLASS_gladiator: "Гладиатор"
+ ARKANIAN_SHIP_CLASS_beviin: "Бевиин"
+ ARKANIAN_SHIP_CLASS_liberator: "Освободитель"
+ ARKANIAN_SHIP_CLASS_battle_dragon_iii: "Боевой дракон III"
+ ARKANIAN_SHIP_CLASS_nuruodo_ii: "Нуруодо II"
+ ARKANIAN_SHIP_CLASS_immobilizer_418: "Обездвиживающий-418"
+ ARKANIAN_SHIP_CLASS_battle_dragon_iv: "Боевой дракон IV"
+ ARKANIAN_SHIP_CLASS_massias: "Массиас"
+ ARKANIAN_SHIP_CLASS_dreadnought: "Дредноут"
+ ARKANIAN_SHIP_CLASS_kyramud: "Кирамуд"
+ ARKANIAN_SHIP_CLASS_munificent: "Щедрый"
+ ARKANIAN_SHIP_CLASS_prosvoli: "Просволи"
+ ARKANIAN_SHIP_CLASS_acclamator: "Аккламатор"
+ ARKANIAN_SHIP_CLASS_lictor: "Ликтор"
+ ARKANIAN_SHIP_CLASS_bulwark: "Оплот"
+ ARKANIAN_SHIP_CLASS_victory_i: "Победа I"
+ ARKANIAN_SHIP_CLASS_assault_frigate_i: "Штурмовой фрегат I"
+ ARKANIAN_SHIP_CLASS_bulk: "Массивный"
+ ARKANIAN_SHIP_CLASS_vindicator: "Защитник"
+ ARKANIAN_SHIP_CLASS_dauntless: "Бесстрашный"
+ ARKANIAN_SHIP_CLASS_captor: "Похититель"
+ ARKANIAN_SHIP_CLASS_au_riette: "О'риетт"
+ ARKANIAN_SHIP_CLASS_mc55: "MC55"
+ ARKANIAN_SHIP_CLASS_afthonia: "Афтония"
+ ARKANIAN_SHIP_CLASS_victory_ii: "Победа II"
+ ARKANIAN_SHIP_CLASS_beroya: "Бероя"
+ ARKANIAN_SHIP_CLASS_assault_frigate_ii: "Штурмовой фрегат II"
+ ARKANIAN_SHIP_CLASS_hrn_victory_ii: "HRN Победа II"
+ ARKANIAN_SHIP_CLASS_prosvoli_ii: "Просволи II"
+ ARKANIAN_SHIP_CLASS_venator: "Венатор"
+ ARKANIAN_SHIP_CLASS_centurion: "Центурион"
+ ARKANIAN_SHIP_CLASS_mc75: "MC75"
+ ARKANIAN_SHIP_CLASS_kandosii: "Кандосии"
+ ARKANIAN_SHIP_CLASS_corellian: "Кореллианский"
+ ARKANIAN_SHIP_CLASS_providence: "Провидение"
+ ARKANIAN_SHIP_CLASS_syndic: "Синдик"
+ ARKANIAN_SHIP_CLASS_recusant: "Отступник"
+ ARKANIAN_SHIP_CLASS_invincible: "Непобедимый"
+ ARKANIAN_SHIP_CLASS_imperial_i: "Имперский I"
+ ARKANIAN_SHIP_CLASS_hrn_imperial_i: "HRN Имперский I"
+ ARKANIAN_SHIP_CLASS_procursator: "Прокурсатор"
+ ARKANIAN_SHIP_CLASS_mc80a: "MC80a"
+ ARKANIAN_SHIP_CLASS_dh_omni: "DH-Омни"
+ ARKANIAN_SHIP_CLASS_aggressor: "Агрессор"
+ ARKANIAN_SHIP_CLASS_syndic_ii: "Синдик II"
+ ARKANIAN_SHIP_CLASS_mc80_liberty: "MC80 Свобода"
+ ARKANIAN_SHIP_CLASS_keldabe: "Келдабе"
+ ARKANIAN_SHIP_CLASS_corellian_ii: "Кореллианский II"
+ ARKANIAN_SHIP_CLASS_chaf: "Чаф"
+ ARKANIAN_SHIP_CLASS_imperial_ii: "Имперский II"
+ ARKANIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Имперский II"
+ ARKANIAN_SHIP_CLASS_ascendancy: "Господство"
+ ARKANIAN_SHIP_CLASS_dominator: "Властелин"
+ ARKANIAN_SHIP_CLASS_allegiance: "Верность"
+ ARKANIAN_SHIP_CLASS_lucrehulk: "Барышник"
+ ARKANIAN_SHIP_CLASS_phalanx: "Фаланга"
+ ARKANIAN_SHIP_CLASS_titan: "Титан"
+ ARKANIAN_SHIP_CLASS_mc80_independence: "Независимость MC80"
+ ARKANIAN_SHIP_CLASS_star_home: "Звездный дом"
+ ARKANIAN_SHIP_CLASS_subjugator: "Покоритель"
+ ARKANIAN_SHIP_CLASS_bellator: "Беллатор"
+ ARKANIAN_SHIP_CLASS_sol_yc_verd: "Сол'ик Верд"
+ ARKANIAN_SHIP_CLASS_executor: "Палач"
+ ARKANIAN_FLEET_defense_fleet_ORD: "$ORD$ Оборонный флот"
+ ARKANIAN_ARMY_planetary_guard_ORD: "$ORD$ планетарная стража"
+ ARKANIAN_ARMY_expeditionary_force_ORD: "$ORD$ Экспедиционный корпус"
+ ARKANIAN_ARMY_indentured_rifles_ORD: "$ORD$ Наёмные винтовки"
+ ARKANIAN_ARMY_clone_army_ORD: "$ORD$ Армия клонов"
+ ARKANIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Группа охотников-убийц"
+ ARKANIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Матрица наземной обороны"
+ ARKANIAN_ARMY_psi_commando_ORD: "$ORD$ Пси-коммандос"
+ ARKANIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Отряд биологической войны"
+ ARKANIAN_ARMY_sarc_a__gladiators_: "SARC-A «Гладиаторы»"
+ ARKANIAN_ARMY_sarc_b__widowmakers_: "SARC-B «Вдоводелы»"
+ ARKANIAN_ARMY_sarc_c__immortals_: "SARC-C «Бессмертные»"
+ ARKANIAN_ARMY_sarc_d__berserkers_: "SARC-D «Берсерки»"
+ ARKANIAN_ARMY_sarc_e__assassins_: "SARC-E «Ассасины»"
+ ARKANIAN_ARMY_sarc_f__reapers_: "SARC-F «Жнецы»"
+ ARKANIAN_ARMY_sarc_g__nighthawks_: "SARC-G «Ночные ястребы»"
+ ARKANIAN_ARMY_sarc_h__desperados_: "SARC-H «Отчаянные»"
+ ARKANIAN_ARMY_sarc_i__grey_knights_: "SARC-I «Серые рыцари»"
+ ARKANIAN_ARMY_sarc_j__roughnecks_: "SARC-J «Головорезы»"
+ ARKANIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Эскадрилья биоинженеров"
+ ARKANIAN_ARMY_garrison_force_ORD: "$ORD$ Силы гарнизона"
+ ARKANIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Механизированный гарнизон"
+ ARKANIAN_ARMY_primitive_army_SEQ: "Примитивная армия $C$"
+ ARKANIAN_ARMY_industrial_army_SEQ: "Промышленная армия $C$"
+ ARKANIAN_ARMY_post_atomic_army_SEQ: "Постатомная армия $C$"
+ ARKANIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Гарнизон штурмовиков"
+ ARKANIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ солдатский гарнизон Повстанцев"
+ ARKANIAN_ARMY_hutt_garrison_ORD: "$ORD$ Хаттов"
+ ARKANIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Мандалорский гарнизон"
+ ARKANIAN_ARMY_corellian_garrison_ORD: "$ORD$ Кореллианский гарнизон"
+ ARKANIAN_ARMY_cis_garrison_ORD: "$ORD$ Гарнизон Конфедерации независимых систем"
+ ARKANIAN_ARMY_csa_garrison_ORD: "$ORD$ Гарнизон Корпоративного сектора"
+ ARKANIAN_ARMY_hapes_garrison_ORD: "$ORD$ Хейпанский гарнизон"
+ ARKANIAN_ARMY_militia_garrison_ORD: "$ORD$ Гарнизон ополчения"
+ ARKANIAN_ARMY_droid_garrison_ORD: "$ORD$ Гарнизон дроидов"
+ ARKANIAN_ARMY_stormtroopers_ORD: "$ORD$ Гарнизон штурмовиков"
+ ARKANIAN_ARMY_shock_troopers_ORD: "$ORD$ Гарнизон ударных штурмовиков"
+ ARKANIAN_ARMY_dark_troopers_ORD: "$ORD$ Темные солдаты"
+ ARKANIAN_ARMY_rebel_troopers_ORD: "$ORD$ Солдаты Повстанцев"
+ ARKANIAN_ARMY_assault_troopers_ORD: "$ORD$ Штурмовики"
+ ARKANIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Тяжелые штурмовики"
+ ARKANIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Банда картеля Хаттов"
+ ARKANIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Элитные наемники Хаттов"
+ ARKANIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Хаттские наемники Дашейдов"
+ ARKANIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Мандалорские воины"
+ ARKANIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Мандалорские реактивные воины"
+ ARKANIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Мандалорианская элита"
+ ARKANIAN_ARMY_corsec_troopers_ORD: "$ORD$ Солдаты Корпоративного сектора"
+ ARKANIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Корпоративная полиция безопасности"
+ ARKANIAN_ARMY_espos_troopers_ORD: "$ORD$ Солдаты Эспос"
+ ARKANIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Элитные солдаты Эспос"
+ ARKANIAN_ARMY_espos_state_guard_ORD: "Государственная охрана Эспос"
+ ARKANIAN_ARMY_hapes_militia_ORD: "$ORD$ Хейпанское ополчение"
+ ARKANIAN_ARMY_fountain_gunners_ORD: "$ORD$ Стрелки Фонтана"
+ ARKANIAN_ARMY_fountain_elite_ORD: "$ORD$ Элита Фонтана"
+ ARKANIAN_ARMY_mercenaries_ORD: "$ORD$ Наемники"
+ ARKANIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Тяжелый батальон наемников"
+ ARKANIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Мандалорские наемники"
+ ARKANIAN_ARMY_clone_troopers_ORD: "$ORD$ Солдаты-клоны"
+ ARKANIAN_ARMY_b1_battle_droids_ORD: "$ORD$ Боевые дроиды B1"
+ ARKANIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ Супер Боевые дроиды B2"
+ ARKANIAN_ARMY_droideka_detachment_ORD: "$ORD$ Отряд Дроидек"
+ ARKANIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Отряд легкоходов"
+ ARKANIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Отряд легких ходоков"
+ ARKANIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ Танковый отряд T-2"
+ ARKANIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Отряд барж Хаттов"
+ ARKANIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Мандалорианский вспомогательный отряд"
+ ARKANIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Транспортные средства поддержки Фонтана"
+ ARKANIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Машины поддержки пехоты"
+ ARKANIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ Джаггернаут HAVw A6"
+ ARKANIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ Отряд дроидов DSD1"
+ ARKANIAN_ARMY_storm_commando_ORD: "$ORD$ Штурмовой коммандос"
+ ARKANIAN_ARMY_shadow_commando_ORD: "$ORD$ Теневой коммандос"
+ ARKANIAN_ARMY_rebel_commando_ORD: "$ORD$ Коммандос повстанцев"
+ ARKANIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Элитный коммандос повстанцев"
+ ARKANIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Диверсанты Картеля"
+ ARKANIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Мандалорский коммандос"
+ ARKANIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Мандалорский элитный коммандос"
+ ARKANIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Кореллианские лазутчики"
+ ARKANIAN_ARMY_espos_specops_ORD: "$ORD$ Спецназ Эспос"
+ ARKANIAN_ARMY_fountain_snipers_ORD: "$ORD$ Снайперы Фонтана"
+ ARKANIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Отборные коммандос Ее Величества"
+ ARKANIAN_ARMY_bounty_hunters_ORD: "$ORD$ Охотники за головами"
+ ARKANIAN_ARMY_clone_commandos_ORD: "$ORD$ Клоны-коммандос"
+ ARKANIAN_ARMY_bx_droid_commando_ORD: "$ORD$ Дроид-коммандос BX"
+ ARKANIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ Дроиды-убийцы SD-4K"
+ ARKANIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ Дроиды-убийцы серии IG"
+ ARKANIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ Отряд ховертанков 2-M"
+ ARKANIAN_ARMY_at_at_detachment_ORD: "$ORD$ Отряд AT-AT"
+ ARKANIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ Передовой отряд AT-AT"
+ ARKANIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ Танковый отряд T-3B"
+ ARKANIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Отряд наследияAT-TE"
+ ARKANIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ Отряд модифицированных танков T-4B"
+ ARKANIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ Отряд танков WLO-5"
+ ARKANIAN_ARMY_mht_1_detachment_ORD: "$ORD$ Отряд MHT-1"
+ ARKANIAN_ARMY_mht_2_detachment_ORD: "$ORD$ Отряд MHT-2"
+ ARKANIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ Отряд танков AAT-1"
+ ARKANIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Отряд бронетехники Фонтана"
+ ARKANIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ Танковый штурмовой отряд TX-225 "
+ ARKANIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Списанный отряд AT-TE"
+ ARKANIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Списанный отряд AT-HE"
+ ARKANIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ Отряд дроидов-пауков OG-9"
+ ARKANIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Отряд танковых супер-дроидов"
+ ARKANIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPMA"
+ ARKANIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии SPHA"
+ ARKANIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд MPTL"
+ ARKANIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ Артиллерийский отряд HMPTL"
+ ARKANIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Отряд артиллерийских барж"
+ ARKANIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ Отряд артиллерии MHA"
+ ARKANIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ Артиллерийский танк MLC-4"
+ ARKANIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD Легкий артиллерийский танк MLC-3"
+ ARKANIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ Артиллерийское подразделение SPHA-T"
+ ARKANIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ Отряд протонной пушки J-1"
+ ARKANIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Отряд дроидов Hellfire"
+ ARKANIAN_ARMY_tie_squadron_ORD: "$ORD$ Эскадрилья TIE"
+ ARKANIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Эскадрилья боевых кораблей-шаттлов Лямбда"
+ ARKANIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ Эскадрилья аэроспидеров T-47"
+ ARKANIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Эскадрилья тахионных спидеров"
+ ARKANIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Эскадрилья песчаных спидеров"
+ ARKANIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Эскадрилья Мандалорских истребителей"
+ ARKANIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ Эскадрилья истребителей серии VCX"
+ ARKANIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Механизированный штурмовой корабль"
+ ARKANIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ Эскадрилья истребителей «Звёздный Гончий» R-41"
+ ARKANIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ Эскадрилья истребителей «Мий'тил»"
+ ARKANIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Боевой корабль класса «Турбошторм»"
+ ARKANIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Боевой корабль наследия LAAT"
+ ARKANIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Двухгондольный облачный автомобиль типа «Буря IV»"
+ ARKANIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Дроид-стервятник Airwing"
+ ARKANIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ Боевой дроид HMP"
+ ARKANIAN_ARMY_honor_guard_ORD: "$ORD$ Почетный караул"
+ ARKANIAN_ARMY_bothan_operatives_ORD: "$ORD$ Ботанские Оперативники"
+ ARKANIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Боевая группа Вуки"
+ ARKANIAN_ARMY_magnaguard_ORD: "$ORD$ Магнастраж"
+ ARKANIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Королевская гвардия Хапана"
+ ARKANIAN_ARMY_geonosian_ORD: "$ORD$ Джеонозийцы"
+ ARKANIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ Пушечные укрепления DF9"
+ ARKANIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Укрепления с турболазерными пушками$"
+ ARKANIAN_ARMY_rancor_ORD: "$ORD$ Ранкор"
+ ARKANIAN_ARMY_ancient_rancor_ORD: "$ORD$ Древний Ранкор"
+ ARKANIAN_ARMY_acklay_ORD: "$ORD$ Аклай"
+ ARKANIAN_ARMY_primal_beasts_ORD: "$ORD$ Первобытные звери"
+ ARKANIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Потревоженные звери"
+ ARKANIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон штурмовиков"
+ ARKANIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Повстанцев"
+ ARKANIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Хаттов"
+ ARKANIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Мандалорский оккупационный гарнизон"
+ ARKANIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Кореллианский оккупационный гарнизон"
+ ARKANIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон КНС"
+ ARKANIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон Корпоративного сектора"
+ ARKANIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Хейпанский оккупационный гарнизон"
+ ARKANIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон ополчения"
+ ARKANIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Оккупационный гарнизон дроидов"
+ ARKANIAN_CHR_arca: "Арка"
+ ARKANIAN_CHR_arkoh: "Аркох"
+ ARKANIAN_CHR_gorman: "Горман"
+ ARKANIAN_CHR_lucien: "Люсьен"
+ ARKANIAN_CHR_hurnoj: "Гурной"
+ ARKANIAN_CHR_dias: "Диас"
+ ARKANIAN_CHR_krellus: "Креллус"
+ ARKANIAN_CHR_artonius: "Артониус"
+ ARKANIAN_CHR_thraka: "Трака"
+ ARKANIAN_CHR_tyno: "Тыно"
+ ARKANIAN_CHR_hyrim: "Гирим"
+ ARKANIAN_CHR_zeta: "Дзета"
+ ARKANIAN_CHR_salaban: "Салабан"
+ ARKANIAN_CHR_argaloh: "Аргало"
+ ARKANIAN_CHR_palmek: "Палмек"
+ ARKANIAN_CHR_lehrmun: "Лермун"
+ ARKANIAN_CHR_zielrich: "Цильрих"
+ ARKANIAN_CHR_dans: "Данс"
+ ARKANIAN_CHR_dershow: "Дершоу"
+ ARKANIAN_CHR_sharlo: "Шарло"
+ ARKANIAN_CHR_torril: "Торрил"
+ ARKANIAN_CHR_carja: "Карха"
+ ARKANIAN_CHR_jorda: "Джорда"
+ ARKANIAN_CHR_ordyn: "Ордынь"
+ ARKANIAN_CHR_lucius: "Люциус"
+ ARKANIAN_CHR_vayco: "Вайко"
+ ARKANIAN_CHR_alek: "Алек"
+ ARKANIAN_CHR_serwin: "Сервин"
+ ARKANIAN_CHR_dioxen: "Диоксен"
+ ARKANIAN_CHR_typho: "Тайфун"
+ ARKANIAN_CHR_tycho: "Тихо"
+ ARKANIAN_CHR_myko: "Майко"
+ ARKANIAN_CHR_akhov: "Ахов"
+ ARKANIAN_CHR_samuil: "Самуил"
+ ARKANIAN_CHR_azan: "Азан"
+ ARKANIAN_CHR_korab: "Корабль"
+ ARKANIAN_CHR_dej: "Дэж"
+ ARKANIAN_CHR_dej_in: "Дэж'ин"
+ ARKANIAN_CHR_arok: "Арок"
+ ARKANIAN_CHR_zolo: "Золо"
+ ARKANIAN_CHR_serifa: "Серифа"
+ ARKANIAN_CHR_urma: "Юрма"
+ ARKANIAN_CHR_cratala: "Кратала"
+ ARKANIAN_CHR_darvla: "Дарвла"
+ ARKANIAN_CHR_hanna: "Ханна"
+ ARKANIAN_CHR_edessa: "Эдесса"
+ ARKANIAN_CHR_reshee: "Реши"
+ ARKANIAN_CHR_jarael: "Джараэль"
+ ARKANIAN_CHR_elizie: "Элизи"
+ ARKANIAN_CHR_nasdra: "Насдра"
+ ARKANIAN_CHR_shenna: "Шена"
+ ARKANIAN_CHR_zadawi: "Задави"
+ ARKANIAN_CHR_noor: "Нур"
+ ARKANIAN_CHR_aria: "Ария"
+ ARKANIAN_CHR_suroth: "Сюрот"
+ ARKANIAN_CHR_bellara: "Беллара"
+ ARKANIAN_CHR_seva: "Сева"
+ ARKANIAN_CHR_varna: "Варна"
+ ARKANIAN_CHR_prysta: "Прыста"
+ ARKANIAN_CHR_ervona: "Эрвона"
+ ARKANIAN_CHR_vanyara: "Ваньяра"
+ ARKANIAN_CHR_lunava: "Лунава"
+ ARKANIAN_CHR_iliya: "Илья"
+ ARKANIAN_CHR_ilistra: "Илистра"
+ ARKANIAN_CHR_vnya: "Вня"
+ ARKANIAN_CHR_elena: "Елена"
+ ARKANIAN_CHR_elara: "Элара"
+ ARKANIAN_CHR_elanya: "Эланья"
+ ARKANIAN_CHR_elarya: "Элария"
+ ARKANIAN_CHR_stara: "Стара"
+ ARKANIAN_CHR_troyana: "Трояна"
+ ARKANIAN_CHR_cora: "Кора"
+ ARKANIAN_CHR_sinaia: "Синая"
+ ARKANIAN_CHR_mlyn: "Млин"
+ ARKANIAN_CHR_riva: "Рива"
+ ARKANIAN_CHR_sarna: "Сарна"
+ ARKANIAN_CHR_sarnya: "Сарня"
+ ARKANIAN_CHR_lyu: "Лю"
+ ARKANIAN_CHR_mira: "Мира"
+ ARKANIAN_CHR_mya: "Мя"
+ ARKANIAN_CHR_jeth: "Джет"
+ ARKANIAN_CHR_adasca: "Адаска"
+ ARKANIAN_CHR_vandrayk: "Вандрейк"
+ ARKANIAN_CHR_draay: "Дрейй"
+ ARKANIAN_CHR_altunen: "Алтунен"
+ ARKANIAN_CHR_arqu_uthun: "Аркуутун"
+ ARKANIAN_CHR_athacorr: "Атакорр"
+ ARKANIAN_CHR_athantras: "Атантрас"
+ ARKANIAN_CHR_barzane: "Барзан"
+ ARKANIAN_CHR_ding: "Дзинь"
+ ARKANIAN_CHR_dobonold: "Добонольд"
+ ARKANIAN_CHR_duroth: "Дурот"
+ ARKANIAN_CHR_fabris: "Фабрис"
+ ARKANIAN_CHR_focela: "Фокела"
+ ARKANIAN_CHR_irway: "Ирвей"
+ ARKANIAN_CHR_magnus: "Магнус"
+ ARKANIAN_CHR_magrody: "Магроди"
+ ARKANIAN_CHR_suprin: "Суприн"
+ ARKANIAN_CHR_zerati: "Зерати"
+ ARKANIAN_CHR_xibir: "Шибир"
+ ARKANIAN_CHR_ummel: "Уммель"
+ ARKANIAN_CHR_varange: "Варанге"
+ ARKANIAN_CHR_yaren: "Ярен"
+ ARKANIAN_CHR_chisin: "Чисин"
+ ARKANIAN_CHR_kherson: "Херсон"
+ ARKANIAN_CHR_naroca: "Нароча"
+ ARKANIAN_CHR_vozne: "Возне"
+ ARKANIAN_CHR_tanis: "Танис"
+ ARKANIAN_CHR_obyne: "Обайн"
+ ARKANIAN_CHR_tul_yin: "Тулин"
+ ARKANIAN_CHR_vylkove: "Вилково"
+ ARKANIAN_CHR_tandarei: "Тандарей"
+ ARKANIAN_CHR_ruen: "Руен"
+ ARKANIAN_CHR_prycell: "Прайселл"
+ ARKANIAN_CHR_barane: "Баран"
+ ARKANIAN_CHR_barran: "Барран"
+ ARKANIAN_CHR_verkhynn: "Верхинн"
+ ARKANIAN_CHR_velik: "Велик"
+ ARKANIAN_CHR_drakay: "Дракай"
+ ARKANIAN_CHR_drakarian: "Дракарианец"
+ ARKANIAN_CHR_arslan: "Арслан"
+ ARKANIAN_CHR_aslar: "Аслар"
+ ARKANIAN_CHR_aayco: "Аайко"
+ ARKANIAN_CHR_areta: "Арета"
+ ARKANIAN_CHR_alyssa: "Алисса"
+ ARKANIAN_CHR_arya: "Арья"
+ ARKANIAN_CHR_ayana: "Айана"
+ ARKANIAN_CHR_averra: "Аверра"
+ ARKANIAN_CHR_aiva: "Айва"
+ ARKANIAN_CHR_arna: "Арна"
+ ARKANIAN_CHR_aira: "Айра"
+ ARKANIAN_CHR_aeva: "Аева"
+ ARKANIAN_CHR_aluva: "Алува"
+ ARKANIAN_CHR_adasca_i: "Адаска I"
+ ARKANIAN_CHR_adasca_ii: "Адаска II"
+ ARKANIAN_CHR_adasca_iii: "Адаска III"
+ ARKANIAN_CHR_adasca_iv: "Адаска IV"
+ ARKANIAN_CHR_adasca_ix: "Адаска IX"
