@@ -1,1187 +1,1187 @@
 ﻿l_russian:
-	CHAGRIAN_SHIP_mystic: "Mystic"
-	CHAGRIAN_SHIP_naiad: "Naiad"
-	CHAGRIAN_SHIP_nautilus: "Nautilus"
-	CHAGRIAN_SHIP_nebula: "Nebula"
-	CHAGRIAN_SHIP_nimble: "Nimble"
-	CHAGRIAN_SHIP_north_star: "North Star"
-	CHAGRIAN_SHIP_nymph: "Nymph"
-	CHAGRIAN_SHIP_obdurate: "Obdurate"
-	CHAGRIAN_SHIP_ocean: "Ocean"
-	CHAGRIAN_SHIP_onward: "Onward"
-	CHAGRIAN_SHIP_oracle: "Oracle"
-	CHAGRIAN_SHIP_paradox: "Paradox"
-	CHAGRIAN_SHIP_paragon: "Paragon"
-	CHAGRIAN_SHIP_pearl: "Pearl"
-	CHAGRIAN_SHIP_peregrine: "Peregrine"
-	CHAGRIAN_SHIP_perseverance: "Perseverance"
-	CHAGRIAN_SHIP_marksman: "Marksman"
-	CHAGRIAN_SHIP_rifleman: "Rifleman"
-	CHAGRIAN_SHIP_sniper: "Sniper"
-	CHAGRIAN_SHIP_trident: "Trident"
-	CHAGRIAN_SHIP_trumpet: "Trumpet"
-	CHAGRIAN_SHIP_truncheon: "Truncheon"
-	CHAGRIAN_SHIP_typhoon: "Typhoon"
-	CHAGRIAN_SHIP_undaunted: "Undaunted"
-	CHAGRIAN_SHIP_venture: "Venture"
-	CHAGRIAN_SHIP_versatile: "Versatile"
-	CHAGRIAN_SHIP_vigorous: "Vigorous"
-	CHAGRIAN_SHIP_viper: "Viper"
-	CHAGRIAN_SHIP_vivacious: "Vivacious"
-	CHAGRIAN_SHIP_winger: "Winger"
-	CHAGRIAN_SHIP_wizard: "Wizard"
-	CHAGRIAN_SHIP_wyvern: "Wyvern"
-	CHAGRIAN_SHIP_wolfhound: "Wolfhound"
-	CHAGRIAN_SHIP_devastator: "Devastator"
-	CHAGRIAN_SHIP_warhammer: "Warhammer"
-	CHAGRIAN_SHIP_retribution: "Retribution"
-	CHAGRIAN_SHIP_senator: "Senator"
-	CHAGRIAN_SHIP_tornado: "Tornado"
-	CHAGRIAN_SHIP_infinity: "Infinity"
-	CHAGRIAN_SHIP_usurper: "Usurper"
-	CHAGRIAN_SHIP_utmost: "Utmost"
-	CHAGRIAN_SHIP_valorous: "Valorous"
-	CHAGRIAN_SHIP_whirlwind: "Whirlwind"
-	CHAGRIAN_SHIP_athena: "Athena"
-	CHAGRIAN_SHIP_artemis: "Artemis"
-	CHAGRIAN_SHIP_vigilance: "Vigilance"
-	CHAGRIAN_SHIP_decimator: "Decimator"
-	CHAGRIAN_SHIP_indomitable: "Indomitable"
-	CHAGRIAN_SHIP_goliath: "Goliath"
-	CHAGRIAN_SHIP_sentinel: "Sentinel"
-	CHAGRIAN_SHIP_brilliant: "Brilliant"
-	CHAGRIAN_SHIP_blazer: "Blazer"
-	CHAGRIAN_SHIP_audacity: "Audacity"
-	CHAGRIAN_SHIP_gallant: "Gallant"
-	CHAGRIAN_SHIP_nova: "Nova"
-	CHAGRIAN_SHIP_shadow: "Shadow"
-	CHAGRIAN_SHIP_allegiance: "Allegiance"
-	CHAGRIAN_SHIP_challenger: "Challenger"
-	CHAGRIAN_SHIP_fearless: "Fearless"
-	CHAGRIAN_SHIP_protector: "Protector"
-	CHAGRIAN_SHIP_guardian: "Guardian"
-	CHAGRIAN_SHIP_victorious: "Victorious"
-	CHAGRIAN_SHIP_courageous: "Courageous"
-	CHAGRIAN_SHIP_defiance: "Defiance"
-	CHAGRIAN_SHIP_azrael: "Azrael"
-	CHAGRIAN_SHIP_adamantine: "Adamantine"
-	CHAGRIAN_SHIP_aralanni: "Aralanni"
-	CHAGRIAN_SHIP_ardent_iv: "Ardent IV"
-	CHAGRIAN_SHIP_armistice: "Armistice"
-	CHAGRIAN_SHIP_avengeance: "Avengeance"
-	CHAGRIAN_SHIP_ballista: "Ballista"
-	CHAGRIAN_SHIP_bloodstripe: "Bloodstripe"
-	CHAGRIAN_SHIP_borealis: "Borealis"
-	CHAGRIAN_SHIP_caelus: "Caelus"
-	CHAGRIAN_SHIP_caravan: "Caravan"
-	CHAGRIAN_SHIP_chaf_envoy: "Chaf Envoy"
-	CHAGRIAN_SHIP_commenor: "Commenor"
-	CHAGRIAN_SHIP_corbantis: "Corbantis"
-	CHAGRIAN_SHIP_corellia: "Corellia"
-	CHAGRIAN_SHIP_courteous: "Courteous"
-	CHAGRIAN_SHIP_dauntless: "Dauntless"
-	CHAGRIAN_SHIP_defiant: "Defiant"
-	CHAGRIAN_SHIP_deliverance: "Deliverance"
-	CHAGRIAN_SHIP_derapha: "Derapha"
-	CHAGRIAN_SHIP_devout: "Devout"
-	CHAGRIAN_SHIP_empirical: "Empirical"
-	CHAGRIAN_SHIP_empyrean: "Empyrean"
-	CHAGRIAN_SHIP_era_daimanos: "Era Daimanos"
-	CHAGRIAN_SHIP_eye_of_the_storm: "Eye of the Storm"
-	CHAGRIAN_SHIP_farstar: "Farstar"
-	CHAGRIAN_SHIP_fastblast: "Fastblast"
-	CHAGRIAN_SHIP_galaaron: "Galaaron"
-	CHAGRIAN_SHIP_garrote: "Garrote"
-	CHAGRIAN_SHIP_gilagimar: "Gilagimar"
-	CHAGRIAN_SHIP_halleck: "Halleck"
-	CHAGRIAN_SHIP_hunter: "Hunter"
-	CHAGRIAN_SHIP_intractable: "Intractable"
-	CHAGRIAN_SHIP_ithor_lady: "Ithor Lady"
-	CHAGRIAN_SHIP_justice_crusader: "Justice Crusader"
-	CHAGRIAN_SHIP_kana_s_steel: "Kana's Steel"
-	CHAGRIAN_SHIP_lathir: "Lathir"
-	CHAGRIAN_SHIP_liberty: "Liberty"
-	CHAGRIAN_SHIP_lillibanca: "Lillibanca"
-	CHAGRIAN_SHIP_maelstrom: "Maelstrom"
-	CHAGRIAN_SHIP_malachite_scent: "Malachite Scent"
-	CHAGRIAN_SHIP_mercy: "Mercy"
-	CHAGRIAN_SHIP_myrkos: "Myrkos"
-	CHAGRIAN_SHIP_nebula_chaser: "Nebula Chaser"
-	CHAGRIAN_SHIP_nova_viper: "Nova Viper"
-	CHAGRIAN_SHIP_obedience: "Obedience"
-	CHAGRIAN_SHIP_olemp: "Olemp"
-	CHAGRIAN_SHIP_pegasus: "Pegasus"
-	CHAGRIAN_SHIP_perspicacity: "Perspicacity"
-	CHAGRIAN_SHIP_phalanx: "Phalanx"
-	CHAGRIAN_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	CHAGRIAN_SHIP_predominance: "Predominance"
-	CHAGRIAN_SHIP_prosperity: "Prosperity"
-	CHAGRIAN_SHIP_purity: "Purity"
-	CHAGRIAN_SHIP_recalcitrant: "Recalcitrant"
-	CHAGRIAN_SHIP_red_nova: "Red Nova"
-	CHAGRIAN_SHIP_redma: "Redma"
-	CHAGRIAN_SHIP_reliable: "Reliable"
-	CHAGRIAN_SHIP_reliant: "Reliant"
-	CHAGRIAN_SHIP_reluctant: "Reluctant"
-	CHAGRIAN_SHIP_republic: "Republic"
-	CHAGRIAN_SHIP_republic_s_return: "Republic's Return"
-	CHAGRIAN_SHIP_resolve: "Resolve"
-	CHAGRIAN_SHIP_respectable: "Respectable"
-	CHAGRIAN_SHIP_revenge: "Revenge"
-	CHAGRIAN_SHIP_shadowblade: "Shadowblade"
-	CHAGRIAN_SHIP_spritespray: "Spritespray"
-	CHAGRIAN_SHIP_star_dream: "Star Dream"
-	CHAGRIAN_SHIP_stark_wing: "Stark Wing"
-	CHAGRIAN_SHIP_starveil: "Starveil"
-	CHAGRIAN_SHIP_undying: "Undying"
-	CHAGRIAN_SHIP_vaathkree: "Vaathkree"
-	CHAGRIAN_SHIP_vainglorious: "Vainglorious"
-	CHAGRIAN_SHIP_valiant: "Valiant"
-	CHAGRIAN_SHIP_valor: "Valor"
-	CHAGRIAN_SHIP_vanquisher: "Vanquisher"
-	CHAGRIAN_SHIP_vinsor: "Vinsor"
-	CHAGRIAN_SHIP_visseon: "Visseon"
-	CHAGRIAN_SHIP_wennis: "Wennis"
-	CHAGRIAN_SHIP_yavin_s_glory: "Yavin's Glory"
-	CHAGRIAN_SHIP_moldy_crow: "Moldy Crow"
-	CHAGRIAN_SHIP_raven_s_claw: "Raven's Claw"
-	CHAGRIAN_SHIP_agile: "Agile"
-	CHAGRIAN_SHIP_archer: "Archer"
-	CHAGRIAN_SHIP_arrow: "Arrow"
-	CHAGRIAN_SHIP_bruiser: "Bruiser"
-	CHAGRIAN_SHIP_cherub: "Cherub"
-	CHAGRIAN_SHIP_chimera: "Chimera"
-	CHAGRIAN_SHIP_claymore: "Claymore"
-	CHAGRIAN_SHIP_broadsword: "Broadsword"
-	CHAGRIAN_SHIP_battleaxe: "Battleaxe"
-	CHAGRIAN_SHIP_crossbow: "Crossbow"
-	CHAGRIAN_SHIP_cutlass: "Cutlass"
-	CHAGRIAN_SHIP_deterrent: "Deterrent"
-	CHAGRIAN_SHIP_errant: "Errant"
-	CHAGRIAN_SHIP_faithful: "Faithful"
-	CHAGRIAN_SHIP_fierce: "Fierce"
-	CHAGRIAN_SHIP_gladius: "Gladius"
-	CHAGRIAN_SHIP_longbow: "Longbow"
-	CHAGRIAN_SHIP_grappler: "Grappler"
-	CHAGRIAN_SHIP_hammer: "Hammer"
-	CHAGRIAN_SHIP_vampire: "Vampire"
-	CHAGRIAN_SHIP_velox: "Velox"
-	CHAGRIAN_SHIP_venator: "Venator"
-	CHAGRIAN_SHIP_vendetta: "Vendetta"
-	CHAGRIAN_SHIP_venerable: "Venerable"
-	CHAGRIAN_SHIP_venomous: "Venomous"
-	CHAGRIAN_SHIP_taciturn: "Taciturn"
-	CHAGRIAN_SHIP_supreme: "Supreme"
-	CHAGRIAN_SHIP_success: "Success"
-	CHAGRIAN_SHIP_shredder: "Shredder"
-	CHAGRIAN_SHIP_seraph: "Seraph"
-	CHAGRIAN_SHIP_serpent: "Serpent"
-	CHAGRIAN_SHIP_spitfire: "Spitfire"
-	CHAGRIAN_SHIP_stalker: "Stalker"
-	CHAGRIAN_SHIP_stratagem: "Stratagem"
-	CHAGRIAN_SHIP_scimitar: "Scimitar"
-	CHAGRIAN_SHIP_scorcher: "Scorcher"
-	CHAGRIAN_SHIP_scourge: "Scourge"
-	CHAGRIAN_SHIP_scythe: "Scythe"
-	CHAGRIAN_SHIP_revenant: "Revenant"
-	CHAGRIAN_SHIP_redoubtable: "Redoubtable"
-	CHAGRIAN_SHIP_raptor: "Raptor"
-	CHAGRIAN_SHIP_reaver: "Reaver"
-	CHAGRIAN_SHIP_prodigal: "Prodigal"
-	CHAGRIAN_SHIP_rapier: "Rapier"
-	CHAGRIAN_SHIP_prudent: "Prudent"
-	CHAGRIAN_SHIP_persistent: "Persistent"
-	CHAGRIAN_SHIP_peerless: "Peerless"
-	CHAGRIAN_SHIP_myrmidon: "Myrmidon"
-	CHAGRIAN_SHIP_indignant: "Indignant"
-	CHAGRIAN_SHIP_javelin: "Javelin"
-	CHAGRIAN_SHIP_knight: "Knight"
-	CHAGRIAN_SHIP_starwolf: "Starwolf"
-	CHAGRIAN_SHIP_bonaventure: "Bonaventure"
-	CHAGRIAN_SHIP_adventure: "Adventure"
-	CHAGRIAN_SHIP_boxer: "Boxer"
-	CHAGRIAN_SHIP_buccaneer: "Buccaneer"
-	CHAGRIAN_SHIP_cavalier: "Cavalier"
-	CHAGRIAN_SHIP_celestial: "Celestial"
-	CHAGRIAN_SHIP_chariot: "Chariot"
-	CHAGRIAN_SHIP_comet: "Comet"
-	CHAGRIAN_SHIP_crucible: "Crucible"
-	CHAGRIAN_SHIP_cyclone: "Cyclone"
-	CHAGRIAN_SHIP_decisive: "Decisive"
-	CHAGRIAN_SHIP_dexterous: "Dexterous"
-	CHAGRIAN_SHIP_diadem: "Diadem"
-	CHAGRIAN_SHIP_earnest: "Earnest"
-	CHAGRIAN_SHIP_eclipse: "Eclipse"
-	CHAGRIAN_SHIP_forger: "Forger"
-	CHAGRIAN_SHIP_fortune: "Fortune"
-	CHAGRIAN_SHIP_gauntlet: "Gauntlet"
-	CHAGRIAN_SHIP_griffin: "Griffin"
-	CHAGRIAN_SHIP_horizon: "Horizon"
-	CHAGRIAN_SHIP_hotspur: "Hotspur"
-	CHAGRIAN_SHIP_hurricane: "Hurricane"
-	CHAGRIAN_SHIP_hussar: "Hussar"
-	CHAGRIAN_SHIP_jubilant: "Jubilant"
-	CHAGRIAN_SHIP_lancer: "Lancer"
-	CHAGRIAN_SHIP_lightning: "Lightning"
-	CHAGRIAN_SHIP_magic: "Magic"
-	CHAGRIAN_SHIP_mediator: "Mediator"
-	CHAGRIAN_SHIP_mermaid: "Mermaid"
-	CHAGRIAN_SHIP_meteor: "Meteor"
-	CHAGRIAN_SHIP_minstrel: "Minstrel"
-	CHAGRIAN_SHIP_miranda: "Miranda"
-	CHAGRIAN_SHIP_mustang: "Mustang"
-	CHAGRIAN_SHIP_sharpshooter: "Sharpshooter"
-	CHAGRIAN_SHIP_cyclops: "Cyclops"
-	CHAGRIAN_SHIP_centaur: "Centaur"
-	CHAGRIAN_SHIP_adversary: "Adversary"
-	CHAGRIAN_SHIP_assassin: "Assassin"
-	CHAGRIAN_SHIP_dagger: "Dagger"
-	CHAGRIAN_SHIP_daring: "Daring"
-	CHAGRIAN_SHIP_duty: "Duty"
-	CHAGRIAN_SHIP_havoc: "Havoc"
-	CHAGRIAN_SHIP_hero: "Hero"
-	CHAGRIAN_SHIP_justice: "Justice"
-	CHAGRIAN_SHIP_impeccable: "Impeccable"
-	CHAGRIAN_SHIP_interceptor: "Interceptor"
-	CHAGRIAN_SHIP_infernal: "Infernal"
-	CHAGRIAN_SHIP_loyal: "Loyal"
-	CHAGRIAN_SHIP_matchless: "Matchless"
-	CHAGRIAN_SHIP_mauler: "Mauler"
-	CHAGRIAN_SHIP_mayhem: "Mayhem"
-	CHAGRIAN_SHIP_malice: "Malice"
-	CHAGRIAN_SHIP_menace: "Menace"
-	CHAGRIAN_SHIP_merciless: "Merciless"
-	CHAGRIAN_SHIP_mischief: "Mischief"
-	CHAGRIAN_SHIP_monarch: "Monarch"
-	CHAGRIAN_SHIP_patriot: "Patriot"
-	CHAGRIAN_SHIP_predator: "Predator"
-	CHAGRIAN_SHIP_powerful: "Powerful"
-	CHAGRIAN_SHIP_punisher: "Punisher"
-	CHAGRIAN_SHIP_ravager: "Ravager"
-	CHAGRIAN_SHIP_reaper: "Reaper"
-	CHAGRIAN_SHIP_savage: "Savage"
-	CHAGRIAN_SHIP_spiteful: "Spiteful"
-	CHAGRIAN_SHIP_templar: "Templar"
-	CHAGRIAN_SHIP_terminator: "Terminator"
-	CHAGRIAN_SHIP_terror: "Terror"
-	CHAGRIAN_SHIP_thrasher: "Thrasher"
-	CHAGRIAN_SHIP_minotaur: "Minotaur"
-	CHAGRIAN_SHIP_manticore: "Manticore"
-	CHAGRIAN_SHIP_interdictor: "Interdictor"
-	CHAGRIAN_SHIP_intruder: "Intruder"
-	CHAGRIAN_SHIP_hydra: "Hydra"
-	CHAGRIAN_SHIP_enfield: "Enfield"
-	CHAGRIAN_SHIP_harasser: "Harasser"
-	CHAGRIAN_SHIP_unbeaten: "Unbeaten"
-	CHAGRIAN_SHIP_werewolf: "Werewolf"
-	CHAGRIAN_SHIP_zealous: "Zealous"
-	CHAGRIAN_SHIP_petulant: "Petulant"
-	CHAGRIAN_SHIP_phantom: "Phantom"
-	CHAGRIAN_SHIP_phoenix: "Phoenix"
-	CHAGRIAN_SHIP_pike: "Pike"
-	CHAGRIAN_SHIP_pursuer: "Pursuer"
-	CHAGRIAN_SHIP_raider: "Raider"
-	CHAGRIAN_SHIP_rainbow: "Rainbow"
-	CHAGRIAN_SHIP_rapid: "Rapid"
-	CHAGRIAN_SHIP_redemption: "Redemption"
-	CHAGRIAN_SHIP_relentless: "Relentless"
-	CHAGRIAN_SHIP_rigorous: "Rigorous"
-	CHAGRIAN_SHIP_robust: "Robust"
-	CHAGRIAN_SHIP_sabre: "Sabre"
-	CHAGRIAN_SHIP_salvation: "Salvation"
-	CHAGRIAN_SHIP_sanguine: "Sanguine"
-	CHAGRIAN_SHIP_scarab: "Scarab"
-	CHAGRIAN_SHIP_scepter: "Scepter"
-	CHAGRIAN_SHIP_sea_witch: "Sea Witch"
-	CHAGRIAN_SHIP_siren: "Siren"
-	CHAGRIAN_SHIP_sorceress: "Sorceress"
-	CHAGRIAN_SHIP_spearhead: "Spearhead"
-	CHAGRIAN_SHIP_specter: "Specter"
-	CHAGRIAN_SHIP_spirit: "Spirit"
-	CHAGRIAN_SHIP_splendid: "Splendid"
-	CHAGRIAN_SHIP_stallion: "Stallion"
-	CHAGRIAN_SHIP_stalwart: "Stalwart"
-	CHAGRIAN_SHIP_steadfast: "Steadfast"
-	CHAGRIAN_SHIP_strenuous: "Strenuous"
-	CHAGRIAN_SHIP_superb: "Superb"
-	CHAGRIAN_SHIP_supernova: "Supernova"
-	CHAGRIAN_SHIP_surprise: "Surprise"
-	CHAGRIAN_SHIP_swiftsure: "Swiftsure"
-	CHAGRIAN_SHIP_talent: "Talent"
-	CHAGRIAN_SHIP_talisman: "Talisman"
-	CHAGRIAN_SHIP_talon: "Talon"
-	CHAGRIAN_SHIP_taurus: "Taurus"
-	CHAGRIAN_SHIP_tenacious: "Tenacious"
-	CHAGRIAN_SHIP_thunder_child: "Thunder Child"
-	CHAGRIAN_SHIP_thunderous: "Thunderous"
-	CHAGRIAN_SHIP_tireless: "Tireless"
-	CHAGRIAN_SHIP_trenchant: "Trenchant"
-	CHAGRIAN_SHIP_righteous: "Righteous"
-	CHAGRIAN_SHIP_acheron: "Acheron"
-	CHAGRIAN_SHIP_achilles: "Achilles"
-	CHAGRIAN_SHIP_agamemnon: "Agamemnon"
-	CHAGRIAN_SHIP_amphion: "Amphion"
-	CHAGRIAN_SHIP_aquilon: "Aquilon"
-	CHAGRIAN_SHIP_argonaut: "Argonaut"
-	CHAGRIAN_SHIP_argus: "Argus"
-	CHAGRIAN_SHIP_ariel: "Ariel"
-	CHAGRIAN_SHIP_aurora: "Aurora"
-	CHAGRIAN_SHIP_avernus: "Avernus"
-	CHAGRIAN_SHIP_bacchus: "Bacchus"
-	CHAGRIAN_SHIP_bucephalus: "Bucephalus"
-	CHAGRIAN_SHIP_calliope: "Calliope"
-	CHAGRIAN_SHIP_calypso: "Calypso"
-	CHAGRIAN_SHIP_castor: "Castor"
-	CHAGRIAN_SHIP_charybdis: "Charybdis"
-	CHAGRIAN_SHIP_circe: "Circe"
-	CHAGRIAN_SHIP_cleopatra: "Cleopatra"
-	CHAGRIAN_SHIP_constantine: "Constantine"
-	CHAGRIAN_SHIP_cordelia: "Cordelia"
-	CHAGRIAN_SHIP_cyrus: "Cyrus"
-	CHAGRIAN_SHIP_damocles: "Damocles"
-	CHAGRIAN_SHIP_daedalus: "Daedalus"
-	CHAGRIAN_SHIP_darius: "Darius"
-	CHAGRIAN_SHIP_diomede: "Diomede"
-	CHAGRIAN_SHIP_dryad: "Dryad"
-	CHAGRIAN_SHIP_electra: "Electra"
-	CHAGRIAN_SHIP_endymion: "Endymion"
-	CHAGRIAN_SHIP_erebus: "Erebus"
-	CHAGRIAN_SHIP_fenris: "Fenris"
-	CHAGRIAN_SHIP_freya: "Freya"
-	CHAGRIAN_SHIP_gilgamesh: "Gilgamesh"
-	CHAGRIAN_SHIP_gorgon: "Gorgon"
-	CHAGRIAN_SHIP_halcyon: "Halcyon"
-	CHAGRIAN_SHIP_hecate: "Hecate"
-	CHAGRIAN_SHIP_hector: "Hector"
-	CHAGRIAN_SHIP_hesperus: "Hesperus"
-	CHAGRIAN_SHIP_janus: "Janus"
-	CHAGRIAN_SHIP_jason: "Jason"
-	CHAGRIAN_SHIP_juno: "Juno"
-	CHAGRIAN_SHIP_jupiter: "Jupiter"
-	CHAGRIAN_SHIP_lancelot: "Lancelot"
-	CHAGRIAN_SHIP_lazarus: "Lazarus"
-	CHAGRIAN_SHIP_leander: "Leander"
-	CHAGRIAN_SHIP_leonidas: "Leonidas"
-	CHAGRIAN_SHIP_lysander: "Lysander"
-	CHAGRIAN_SHIP_maenad: "Maenad"
-	CHAGRIAN_SHIP_mars: "Mars"
-	CHAGRIAN_SHIP_medea: "Medea"
-	CHAGRIAN_SHIP_medusa: "Medusa"
-	CHAGRIAN_SHIP_menestheus: "Menestheus"
-	CHAGRIAN_SHIP_mercury: "Mercury"
-	CHAGRIAN_SHIP_merlin: "Merlin"
-	CHAGRIAN_SHIP_minerva: "Minerva"
-	CHAGRIAN_SHIP_minos: "Minos"
-	CHAGRIAN_SHIP_neptune: "Neptune"
-	CHAGRIAN_SHIP_nessus: "Nessus"
-	CHAGRIAN_SHIP_nestor: "Nestor"
-	CHAGRIAN_SHIP_nimrod: "Nimrod"
-	CHAGRIAN_SHIP_niobe: "Niobe"
-	CHAGRIAN_SHIP_oberon: "Oberon"
-	CHAGRIAN_SHIP_odin: "Odin"
-	CHAGRIAN_SHIP_ophelia: "Ophelia"
-	CHAGRIAN_SHIP_orestes: "Orestes"
-	CHAGRIAN_SHIP_orpheus: "Orpheus"
-	CHAGRIAN_SHIP_osiris: "Osiris"
-	CHAGRIAN_SHIP_pandora: "Pandora"
-	CHAGRIAN_SHIP_penelope: "Penelope"
-	CHAGRIAN_SHIP_persephone: "Persephone"
-	CHAGRIAN_SHIP_perseus: "Perseus"
-	CHAGRIAN_SHIP_phoebe: "Phoebe"
-	CHAGRIAN_SHIP_pluto: "Pluto"
-	CHAGRIAN_SHIP_poseidon: "Poseidon"
-	CHAGRIAN_SHIP_proteus: "Proteus"
-	CHAGRIAN_SHIP_pylades: "Pylades"
-	CHAGRIAN_SHIP_serapis: "Serapis"
-	CHAGRIAN_SHIP_stygian: "Stygian"
-	CHAGRIAN_SHIP_tantalus: "Tantalus"
-	CHAGRIAN_SHIP_telemachus: "Telemachus"
-	CHAGRIAN_SHIP_theseus: "Theseus"
-	CHAGRIAN_SHIP_thor: "Thor"
-	CHAGRIAN_SHIP_trajan: "Trajan"
-	CHAGRIAN_SHIP_triton: "Triton"
-	CHAGRIAN_SHIP_venus: "Venus"
-	CHAGRIAN_SHIP_adamant: "Adamant"
-	CHAGRIAN_SHIP_ardent: "Ardent"
-	CHAGRIAN_SHIP_assail: "Assail"
-	CHAGRIAN_SHIP_austere: "Austere"
-	CHAGRIAN_SHIP_archon: "Archon"
-	CHAGRIAN_SHIP_adroit: "Adroit"
-	CHAGRIAN_SHIP_aegis: "Aegis"
-	CHAGRIAN_SHIP_anchor: "Anchor"
-	CHAGRIAN_SHIP_corsair: "Corsair"
-	CHAGRIAN_SHIP_banshee: "Banshee"
-	CHAGRIAN_SHIP_enchantress: "Enchantress"
-	CHAGRIAN_SHIP_eradicator: "Eradicator"
-	CHAGRIAN_SHIP_tormentor: "Tormentor"
-	CHAGRIAN_SHIP_legion: "Legion"
-	CHAGRIAN_SHIP_reprisal: "Reprisal"
-	CHAGRIAN_SHIP_aggressor: "Aggressor"
-	CHAGRIAN_SHIP_assault: "Assault"
-	CHAGRIAN_SHIP_eviscerator: "Eviscerator"
-	CHAGRIAN_SHIP_imperator: "Imperator"
-	CHAGRIAN_SHIP_excellence: "Excellence"
-	CHAGRIAN_SHIP_unrivalled: "Unrivalled"
-	CHAGRIAN_SHIP_warlord: "Warlord"
-	CHAGRIAN_SHIP_vengeance: "Vengeance"
-	CHAGRIAN_SHIP_triumphant: "Triumphant"
-	CHAGRIAN_SHIP_nemesis: "Nemesis"
-	CHAGRIAN_SHIP_avenger: "Avenger"
-	CHAGRIAN_SHIP_champion: "Champion"
-	CHAGRIAN_SHIP_conqueror: "Conqueror"
-	CHAGRIAN_SHIP_crusader: "Crusader"
-	CHAGRIAN_SHIP_glory: "Glory"
-	CHAGRIAN_SHIP_immortal: "Immortal"
-	CHAGRIAN_SHIP_judicator: "Judicator"
-	CHAGRIAN_SHIP_vanguard: "Vanguard"
-	CHAGRIAN_SHIP_renown: "Renown"
-	CHAGRIAN_SHIP_demolisher: "Demolisher"
-	CHAGRIAN_SHIP_dragon: "Dragon"
-	CHAGRIAN_SHIP_executor: "Executor"
-	CHAGRIAN_SHIP_furious: "Furious"
-	CHAGRIAN_SHIP_gladiator: "Gladiator"
-	CHAGRIAN_SHIP_magnificent: "Magnificent"
-	CHAGRIAN_SHIP_ogre: "Ogre"
-	CHAGRIAN_SHIP_onslaught: "Onslaught"
-	CHAGRIAN_SHIP_vehement: "Vehement"
-	CHAGRIAN_SHIP_basilisk: "Basilisk"
-	CHAGRIAN_SHIP_tempest: "Tempest"
-	CHAGRIAN_SHIP_overlord: "Overlord"
-	CHAGRIAN_SHIP_warrior: "Warrior"
-	CHAGRIAN_SHIP_titan: "Titan"
-	CHAGRIAN_SHIP_colossus: "Colossus"
-	CHAGRIAN_SHIP_prometheus: "Prometheus"
-	CHAGRIAN_SHIP_nike: "Nike"
-	CHAGRIAN_SHIP_paladin: "Paladin"
-	CHAGRIAN_SHIP_sovereign: "Sovereign"
-	CHAGRIAN_SHIP_repulse: "Repulse"
-	CHAGRIAN_SHIP_majestic: "Majestic"
-	CHAGRIAN_SHIP_avatar: "Avatar"
-	CHAGRIAN_SHIP_behemoth: "Behemoth"
-	CHAGRIAN_SHIP_centurion: "Centurion"
-	CHAGRIAN_SHIP_citadel: "Citadel"
-	CHAGRIAN_SHIP_katana: "Katana"
-	CHAGRIAN_SHIP_kraken: "Kraken"
-	CHAGRIAN_SHIP_cerberus: "Cerberus"
-	CHAGRIAN_SHIP_valkyrie: "Valkyrie"
-	CHAGRIAN_SHIP_dreadnought: "Dreadnought"
-	CHAGRIAN_SHIP_harbinger: "Harbinger"
-	CHAGRIAN_SHIP_juggernaut: "Juggernaut"
-	CHAGRIAN_SHIP_leviathan: "Leviathan"
-	CHAGRIAN_SHIP_hyperion: "Hyperion"
-	CHAGRIAN_SHIP_galatea: "Galatea"
-	CHAGRIAN_SHIP_ambush: "Ambush"
-	CHAGRIAN_SHIP_vindicator: "Vindicator"
-	CHAGRIAN_SHIP_crescent: "Crescent"
-	CHAGRIAN_SHIP_diligent: "Diligent"
-	CHAGRIAN_SHIP_zephyr: "Zephyr"
-	CHAGRIAN_SHIP_enigma: "Enigma"
-	CHAGRIAN_SHIP_conquistador: "Conquistador"
-	CHAGRIAN_SHIP_scylla: "Scylla"
-	CHAGRIAN_SHIP_arbiter: "Arbiter"
-	CHAGRIAN_SHIP_asperity: "Asperity"
-	CHAGRIAN_SHIP_eminence: "Eminence"
-	CHAGRIAN_SHIP_astute: "Astute"
-	CHAGRIAN_SHIP_alacrity: "Alacrity"
-	CHAGRIAN_SHIP_satyr: "Satyr"
-	CHAGRIAN_SHIP_prospero: "Prospero"
-	CHAGRIAN_SHIP_untiring: "Untiring"
-	CHAGRIAN_SHIP_zenith: "Zenith"
-	CHAGRIAN_SHIP_torch: "Torch"
-	CHAGRIAN_SHIP_remembrance: "Remembrance"
-	CHAGRIAN_SHIP_pilgrim: "Pilgrim"
-	CHAGRIAN_SHIP_trailblazer: "Trailblazer"
-	CHAGRIAN_SHIP_vagabond: "Vagabond"
-	CHAGRIAN_SHIP_wayfarer: "Wayfarer"
-	CHAGRIAN_SHIP_ambassador: "Ambassador"
-	CHAGRIAN_SHIP_emissary: "Emissary"
-	CHAGRIAN_SHIP_nomad: "Nomad"
-	CHAGRIAN_SHIP_pathfinder: "Pathfinder"
-	CHAGRIAN_SHIP_wanderer: "Wanderer"
-	CHAGRIAN_SHIP_traveler: "Traveler"
-	CHAGRIAN_SHIP_godspeed: "Godspeed"
-	CHAGRIAN_SHIP_prophecy: "Prophecy"
-	CHAGRIAN_SHIP_manifest_destiny: "Manifest Destiny"
-	CHAGRIAN_SHIP_virtue: "Virtue"
-	CHAGRIAN_SHIP_potential: "Potential"
-	CHAGRIAN_SHIP_expansion: "Expansion"
-	CHAGRIAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	CHAGRIAN_SHIP_summit: "Summit"
-	CHAGRIAN_SHIP_pinnacle: "Pinnacle"
-	CHAGRIAN_SHIP_seeder: "Seeder"
-	CHAGRIAN_SHIP_harvest: "Harvest"
-	CHAGRIAN_SHIP_demeter: "Demeter"
-	CHAGRIAN_SHIP_isis: "Isis"
-	CHAGRIAN_SHIP_ceres: "Ceres"
-	CHAGRIAN_SHIP_exodus: "Exodus"
-	CHAGRIAN_SHIP_foundation: "Foundation"
-	CHAGRIAN_SHIP_scion: "Scion"
-	CHAGRIAN_SHIP_progeny: "Progeny"
-	CHAGRIAN_SHIP_obligation: "Obligation"
-	CHAGRIAN_SHIP_purpose: "Purpose"
-	CHAGRIAN_SHIP_provider: "Provider"
-	CHAGRIAN_SHIP_shining_city: "Shining City"
-	CHAGRIAN_SHIP_acquirer: "Acquirer"
-	CHAGRIAN_SHIP_cultivator: "Cultivator"
-	CHAGRIAN_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	CHAGRIAN_SHIP_community: "Community"
-	CHAGRIAN_SHIP_brotherhood: "Brotherhood"
-	CHAGRIAN_SHIP_industry: "Industry"
-	CHAGRIAN_SHIP_assiduity: "Assiduity"
-	CHAGRIAN_SHIP_effort: "Effort"
-	CHAGRIAN_SHIP_laborer: "Laborer"
-	CHAGRIAN_SHIP_builder: "Builder"
-	CHAGRIAN_SHIP_craftsman: "Craftsman"
-	CHAGRIAN_SHIP_hard_hat: "Hard Hat"
-	CHAGRIAN_SHIP_progress: "Progress"
-	CHAGRIAN_SHIP_engineer: "Engineer"
-	CHAGRIAN_SHIP_promise: "Promise"
-	CHAGRIAN_SHIP_service: "Service"
-	CHAGRIAN_SHIP_shelter: "Shelter"
-	CHAGRIAN_SHIP_beast: "Beast"
-	CHAGRIAN_SHIP_creator: "Creator"
-	CHAGRIAN_SHIP_developer: "Developer"
-	CHAGRIAN_SHIP_foundry: "Foundry"
-	CHAGRIAN_SHIP_factory: "Factory"
-	CHAGRIAN_SHIP_anvil: "Anvil"
-	CHAGRIAN_SHIP_pillar: "Pillar"
-	CHAGRIAN_SHIP_architect: "Architect"
-	CHAGRIAN_SHIP_accommodator: "Accommodator"
-	CHAGRIAN_SHIP_ptah: "Ptah"
-	CHAGRIAN_SHIP_ilmarinen: "Ilmarinen"
-	CHAGRIAN_SHIP_creidhne: "Creidhne"
-	CHAGRIAN_SHIP_gobannus: "Gobannus"
-	CHAGRIAN_SHIP_luchtaine: "Luchtaine"
-	CHAGRIAN_SHIP_goibniu: "Goibniu"
-	CHAGRIAN_SHIP_vishvakarman: "Vishvakarman"
-	CHAGRIAN_SHIP_tvastar: "Tvastar"
-	CHAGRIAN_SHIP_ikenga: "Ikenga"
-	CHAGRIAN_SHIP_qaynan: "Qaynan"
-	CHAGRIAN_SHIP_ucuetis: "Ucuetis"
-	CHAGRIAN_SHIP_ogoun: "Ogoun"
-	CHAGRIAN_SHIP_ground_transport: "Транспортный корабль"
-	CHAGRIAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	CHAGRIAN_SHIP_spacegun_success: "SpaceGun Success"
-	CHAGRIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	CHAGRIAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	CHAGRIAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	CHAGRIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	CHAGRIAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	CHAGRIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	CHAGRIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	CHAGRIAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	CHAGRIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	CHAGRIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	CHAGRIAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	CHAGRIAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	CHAGRIAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	CHAGRIAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	CHAGRIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	CHAGRIAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	CHAGRIAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	CHAGRIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	CHAGRIAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	CHAGRIAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	CHAGRIAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	CHAGRIAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	CHAGRIAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	CHAGRIAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	CHAGRIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	CHAGRIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	CHAGRIAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	CHAGRIAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	CHAGRIAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	CHAGRIAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	CHAGRIAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	CHAGRIAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	CHAGRIAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	CHAGRIAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	CHAGRIAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	CHAGRIAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	CHAGRIAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	CHAGRIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	CHAGRIAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	CHAGRIAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	CHAGRIAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	CHAGRIAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	CHAGRIAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	CHAGRIAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	CHAGRIAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	CHAGRIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	CHAGRIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	CHAGRIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	CHAGRIAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	CHAGRIAN_SHIP_albacore: "Albacore"
-	CHAGRIAN_SHIP_gateway: "Gateway"
-	CHAGRIAN_SHIP_vincent: "Vincent"
-	CHAGRIAN_SHIP_babylon: "Babylon"
-	CHAGRIAN_SHIP_caernavon: "Caernavon"
-	CHAGRIAN_SHIP_acre: "Acre"
-	CHAGRIAN_SHIP_pembroke: "Pembroke"
-	CHAGRIAN_SHIP_spithead: "Spithead"
-	CHAGRIAN_SHIP_halifax: "Halifax"
-	CHAGRIAN_SHIP_victoria: "Victoria"
-	CHAGRIAN_SHIP_chatham: "Chatham"
-	CHAGRIAN_SHIP_anchorage: "Anchorage"
-	CHAGRIAN_SHIP_scapa_flow: "Scapa Flow"
-	CHAGRIAN_SHIP_hampton_roads: "Hampton Roads"
-	CHAGRIAN_SHIP_brooklyn: "Brooklyn"
-	CHAGRIAN_SHIP_norfolk: "Norfolk"
-	CHAGRIAN_SHIP_newport: "Newport"
-	CHAGRIAN_SHIP_guam: "Guam"
-	CHAGRIAN_SHIP_pensacola: "Pensacola"
-	CHAGRIAN_SHIP_vesuvius: "Vesuvius"
-	CHAGRIAN_SHIP_mckinley: "McKinley"
-	CHAGRIAN_SHIP_everest: "Everest"
-	CHAGRIAN_SHIP_kilimanjaro: "Kilimanjaro"
-	CHAGRIAN_SHIP_aconcagua: "Aconcagua"
-	CHAGRIAN_SHIP_elbrus: "Elbrus"
-	CHAGRIAN_SHIP_st__helens: "St. Helens"
-	CHAGRIAN_SHIP_fuji: "Fuji"
-	CHAGRIAN_SHIP_olympus: "Olympus"
-	CHAGRIAN_SHIP_sinai: "Sinai"
-	CHAGRIAN_SHIP_ambrose: "Ambrose"
-	CHAGRIAN_SHIP_bermuda: "Bermuda"
-	CHAGRIAN_SHIP_farpoint: "Farpoint"
-	CHAGRIAN_SHIP_blue_star: "Blue Star"
-	CHAGRIAN_SHIP_olympus_mons: "Olympus Mons"
-	CHAGRIAN_SHIP_tharsis: "Tharsis"
-	CHAGRIAN_SHIP_syrtis: "Syrtis"
-	CHAGRIAN_SHIP_blackham: "Blackham"
-	CHAGRIAN_SHIP_fletcher: "Fletcher"
-	CHAGRIAN_SHIP_perry: "Perry"
-	CHAGRIAN_SHIP_butakov: "Butakov"
-	CHAGRIAN_SHIP_morris: "Morris"
-	CHAGRIAN_SHIP_moorsom: "Moorsom"
-	CHAGRIAN_SHIP_hart: "Hart"
-	CHAGRIAN_SHIP_hargood: "Hargood"
-	CHAGRIAN_SHIP_spruance: "Spruance"
-	CHAGRIAN_SHIP_tanaka: "Tanaka"
-	CHAGRIAN_SHIP_halsey: "Halsey"
-	CHAGRIAN_SHIP_turner: "Turner"
-	CHAGRIAN_SHIP_doria: "Doria"
-	CHAGRIAN_SHIP_tirpitz: "Tirpitz"
-	CHAGRIAN_SHIP_cunningham: "Cunningham"
-	CHAGRIAN_SHIP_jellicoe: "Jellicoe"
-	CHAGRIAN_SHIP_hipper: "Hipper"
-	CHAGRIAN_SHIP_beatty: "Beatty"
-	CHAGRIAN_SHIP_potemkin: "Potemkin"
-	CHAGRIAN_SHIP_durham: "Durham"
-	CHAGRIAN_SHIP_codrington: "Codrington"
-	CHAGRIAN_SHIP_milne: "Milne"
-	CHAGRIAN_SHIP_laforey: "Laforey"
-	CHAGRIAN_SHIP_tyler: "Tyler"
-	CHAGRIAN_SHIP_hawke: "Hawke"
-	CHAGRIAN_SHIP_yonai: "Yonai"
-	CHAGRIAN_SHIP_pound: "Pound"
-	CHAGRIAN_SHIP_king: "King"
-	CHAGRIAN_SHIP_crutchley: "Crutchley"
-	CHAGRIAN_SHIP_mountbatten: "Mountbatten"
-	CHAGRIAN_SHIP_kountouriotis: "Kountouriotis"
-	CHAGRIAN_SHIP_kuznetsov: "Kuznetsov"
-	CHAGRIAN_SHIP_essen: "Essen"
-	CHAGRIAN_SHIP_kornilov: "Kornilov"
-	CHAGRIAN_SHIP_suffren: "Suffren"
-	CHAGRIAN_SHIP_treville: "Treville"
-	CHAGRIAN_SHIP_villeneuve: "Villeneuve"
-	CHAGRIAN_SHIP_grasse: "Grasse"
-	CHAGRIAN_SHIP_byng: "Byng"
-	CHAGRIAN_SHIP_lezo: "Lezo"
-	CHAGRIAN_SHIP_bombard: "Bombard"
-	CHAGRIAN_SHIP_catapult: "Catapult"
-	CHAGRIAN_SHIP_harpoon: "Harpoon"
-	CHAGRIAN_SHIP_polybolos: "Polybolos"
-	CHAGRIAN_SHIP_culverin: "Culverin"
-	CHAGRIAN_SHIP_exemplary: "Exemplary"
-	CHAGRIAN_SHIP_CLASS_cr_90: "CR-90"
-	CHAGRIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	CHAGRIAN_SHIP_CLASS_lupus: "Lupus"
-	CHAGRIAN_SHIP_CLASS_asdroni: "Asdroni"
-	CHAGRIAN_SHIP_CLASS_customs: "Customs"
-	CHAGRIAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	CHAGRIAN_SHIP_CLASS_scurge: "Scurge"
-	CHAGRIAN_SHIP_CLASS_krayt: "Krayt"
-	CHAGRIAN_SHIP_CLASS_diamond: "Diamond"
-	CHAGRIAN_SHIP_CLASS_etti: "Etti"
-	CHAGRIAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	CHAGRIAN_SHIP_CLASS_vigil: "Vigil"
-	CHAGRIAN_SHIP_CLASS_dp20: "DP20"
-	CHAGRIAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	CHAGRIAN_SHIP_CLASS_raider: "Raider"
-	CHAGRIAN_SHIP_CLASS_dornean: "Dornean"
-	CHAGRIAN_SHIP_CLASS_crusader: "Crusader"
-	CHAGRIAN_SHIP_CLASS_marauder: "Marauder"
-	CHAGRIAN_SHIP_CLASS_arquitens: "Arquitens"
-	CHAGRIAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	CHAGRIAN_SHIP_CLASS_pelta: "Pelta"
-	CHAGRIAN_SHIP_CLASS_pinnace: "Pinnace"
-	CHAGRIAN_SHIP_CLASS_nova: "Nova"
-	CHAGRIAN_SHIP_CLASS_vigilance: "Vigilance"
-	CHAGRIAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	CHAGRIAN_SHIP_CLASS_cg_273: "CG-273"
-	CHAGRIAN_SHIP_CLASS_kariek: "Kariek"
-	CHAGRIAN_SHIP_CLASS_ton_falk: "Ton-Falk"
-	CHAGRIAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	CHAGRIAN_SHIP_CLASS_lancer: "Lancer"
-	CHAGRIAN_SHIP_CLASS_teroch: "Teroch"
-	CHAGRIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	CHAGRIAN_SHIP_CLASS_nova_ii: "Nova II"
-	CHAGRIAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	CHAGRIAN_SHIP_CLASS_velox: "Velox"
-	CHAGRIAN_SHIP_CLASS_mc30c: "MC30c"
-	CHAGRIAN_SHIP_CLASS_vengeance: "Vengeance"
-	CHAGRIAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	CHAGRIAN_SHIP_CLASS_cc_7700: "CC-7700"
-	CHAGRIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	CHAGRIAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	CHAGRIAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	CHAGRIAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	CHAGRIAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	CHAGRIAN_SHIP_CLASS_kontos: "Kontos"
-	CHAGRIAN_SHIP_CLASS_mc40: "MC40"
-	CHAGRIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	CHAGRIAN_SHIP_CLASS_broadside: "Broadside"
-	CHAGRIAN_SHIP_CLASS_protector: "Protector"
-	CHAGRIAN_SHIP_CLASS_warlord: "Warlord"
-	CHAGRIAN_SHIP_CLASS_gladiator: "Gladiator"
-	CHAGRIAN_SHIP_CLASS_beviin: "Beviin"
-	CHAGRIAN_SHIP_CLASS_liberator: "Liberator"
-	CHAGRIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	CHAGRIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	CHAGRIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	CHAGRIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	CHAGRIAN_SHIP_CLASS_massias: "Massias"
-	CHAGRIAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	CHAGRIAN_SHIP_CLASS_kyramud: "Kyramud"
-	CHAGRIAN_SHIP_CLASS_munificent: "Munificent"
-	CHAGRIAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	CHAGRIAN_SHIP_CLASS_acclamator: "Acclamator"
-	CHAGRIAN_SHIP_CLASS_lictor: "Lictor"
-	CHAGRIAN_SHIP_CLASS_bulwark: "Bulwark"
-	CHAGRIAN_SHIP_CLASS_victory_i: "Victory I"
-	CHAGRIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	CHAGRIAN_SHIP_CLASS_bulk: "Bulk"
-	CHAGRIAN_SHIP_CLASS_vindicator: "Vindicator"
-	CHAGRIAN_SHIP_CLASS_dauntless: "Dauntless"
-	CHAGRIAN_SHIP_CLASS_captor: "Captor"
-	CHAGRIAN_SHIP_CLASS_au_riette: "Au'riette"
-	CHAGRIAN_SHIP_CLASS_mc55: "MC55"
-	CHAGRIAN_SHIP_CLASS_afthonia: "Afthonia"
-	CHAGRIAN_SHIP_CLASS_victory_ii: "Victory II"
-	CHAGRIAN_SHIP_CLASS_beroya: "Beroya"
-	CHAGRIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	CHAGRIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	CHAGRIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	CHAGRIAN_SHIP_CLASS_venator: "Venator"
-	CHAGRIAN_SHIP_CLASS_centurion: "Centurion"
-	CHAGRIAN_SHIP_CLASS_mc75: "MC75"
-	CHAGRIAN_SHIP_CLASS_kandosii: "Kandosii"
-	CHAGRIAN_SHIP_CLASS_corellian: "Corellian"
-	CHAGRIAN_SHIP_CLASS_providence: "Providence"
-	CHAGRIAN_SHIP_CLASS_syndic: "Syndic"
-	CHAGRIAN_SHIP_CLASS_recusant: "Recusant"
-	CHAGRIAN_SHIP_CLASS_invincible: "Invincible"
-	CHAGRIAN_SHIP_CLASS_imperial_i: "Imperial I"
-	CHAGRIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	CHAGRIAN_SHIP_CLASS_procursator: "Procursator"
-	CHAGRIAN_SHIP_CLASS_mc80a: "MC80a"
-	CHAGRIAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	CHAGRIAN_SHIP_CLASS_aggressor: "Aggressor"
-	CHAGRIAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	CHAGRIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	CHAGRIAN_SHIP_CLASS_keldabe: "Keldabe"
-	CHAGRIAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	CHAGRIAN_SHIP_CLASS_chaf: "Chaf"
-	CHAGRIAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	CHAGRIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	CHAGRIAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	CHAGRIAN_SHIP_CLASS_dominator: "Dominator"
-	CHAGRIAN_SHIP_CLASS_allegiance: "Allegiance"
-	CHAGRIAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	CHAGRIAN_SHIP_CLASS_phalanx: "Phalanx"
-	CHAGRIAN_SHIP_CLASS_titan: "Titan"
-	CHAGRIAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	CHAGRIAN_SHIP_CLASS_star_home: "Star Home"
-	CHAGRIAN_SHIP_CLASS_subjugator: "Subjugator"
-	CHAGRIAN_SHIP_CLASS_bellator: "Bellator"
-	CHAGRIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	CHAGRIAN_SHIP_CLASS_executor: "Executor"
-	CHAGRIAN_FLEET_defense_fleet_ORD: "$ORD$ Defense Fleet"
-	CHAGRIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	CHAGRIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	CHAGRIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	CHAGRIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	CHAGRIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	CHAGRIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	CHAGRIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	CHAGRIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	CHAGRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	CHAGRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	CHAGRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	CHAGRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	CHAGRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	CHAGRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	CHAGRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	CHAGRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	CHAGRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	CHAGRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	CHAGRIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	CHAGRIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	CHAGRIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	CHAGRIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	CHAGRIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	CHAGRIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	CHAGRIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	CHAGRIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	CHAGRIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	CHAGRIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	CHAGRIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	CHAGRIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	CHAGRIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	CHAGRIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	CHAGRIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	CHAGRIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	CHAGRIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	CHAGRIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	CHAGRIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	CHAGRIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	CHAGRIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	CHAGRIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	CHAGRIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	CHAGRIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	CHAGRIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	CHAGRIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	CHAGRIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	CHAGRIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	CHAGRIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	CHAGRIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	CHAGRIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	CHAGRIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	CHAGRIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	CHAGRIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	CHAGRIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	CHAGRIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	CHAGRIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	CHAGRIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	CHAGRIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	CHAGRIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	CHAGRIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	CHAGRIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	CHAGRIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	CHAGRIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	CHAGRIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	CHAGRIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	CHAGRIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	CHAGRIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	CHAGRIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	CHAGRIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	CHAGRIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	CHAGRIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	CHAGRIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	CHAGRIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	CHAGRIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	CHAGRIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	CHAGRIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	CHAGRIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	CHAGRIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	CHAGRIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	CHAGRIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	CHAGRIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	CHAGRIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	CHAGRIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	CHAGRIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	CHAGRIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	CHAGRIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	CHAGRIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	CHAGRIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	CHAGRIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	CHAGRIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	CHAGRIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	CHAGRIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	CHAGRIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	CHAGRIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	CHAGRIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	CHAGRIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	CHAGRIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	CHAGRIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	CHAGRIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	CHAGRIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	CHAGRIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	CHAGRIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	CHAGRIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	CHAGRIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	CHAGRIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	CHAGRIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	CHAGRIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	CHAGRIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	CHAGRIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	CHAGRIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	CHAGRIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	CHAGRIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	CHAGRIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	CHAGRIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	CHAGRIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	CHAGRIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	CHAGRIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	CHAGRIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	CHAGRIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	CHAGRIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	CHAGRIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	CHAGRIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	CHAGRIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	CHAGRIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	CHAGRIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	CHAGRIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	CHAGRIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	CHAGRIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	CHAGRIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	CHAGRIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	CHAGRIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	CHAGRIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	CHAGRIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	CHAGRIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	CHAGRIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	CHAGRIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	CHAGRIAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	CHAGRIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	CHAGRIAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	CHAGRIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	CHAGRIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	CHAGRIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	CHAGRIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	CHAGRIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	CHAGRIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	CHAGRIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	CHAGRIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	CHAGRIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	CHAGRIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	CHAGRIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	CHAGRIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	CHAGRIAN_CHR_ackrahbala: "Ackrahbala"
-	CHAGRIAN_CHR_aram: "Aram"
-	CHAGRIAN_CHR_chondrus: "Chondrus"
-	CHAGRIAN_CHR_mas: "Mas"
-	CHAGRIAN_CHR_kav: "Kav"
-	CHAGRIAN_CHR_charko: "Charko"
-	CHAGRIAN_CHR_barlo: "Barlo"
-	CHAGRIAN_CHR_burloo: "Burloo"
-	CHAGRIAN_CHR_briqui: "Briqui"
-	CHAGRIAN_CHR_fideltin: "Fideltin"
-	CHAGRIAN_CHR_len: "Len"
-	CHAGRIAN_CHR_saar: "Saar"
-	CHAGRIAN_CHR_morrun: "Morrun"
-	CHAGRIAN_CHR_sul: "Sul"
-	CHAGRIAN_CHR_deniv: "Deniv"
-	CHAGRIAN_CHR_rosk: "Rosk"
-	CHAGRIAN_CHR_irr: "Irr"
-	CHAGRIAN_CHR_gaar: "Gaar"
-	CHAGRIAN_CHR_laab: "Laab"
-	CHAGRIAN_CHR_an: "An"
-	CHAGRIAN_CHR_meddus: "Meddus"
-	CHAGRIAN_CHR_alnon: "Alnon"
-	CHAGRIAN_CHR_mal: "Mal"
-	CHAGRIAN_CHR_man: "Man"
-	CHAGRIAN_CHR_s_rondrus: "S'rondrus"
-	CHAGRIAN_CHR_cheel: "Cheel"
-	CHAGRIAN_CHR_ohv: "Ohv"
-	CHAGRIAN_CHR_mirr: "Mirr"
-	CHAGRIAN_CHR_mors: "Mors"
-	CHAGRIAN_CHR_sohro: "Sohro"
-	CHAGRIAN_CHR_fichom: "Fichom"
-	CHAGRIAN_CHR_oldon: "Oldon"
-	CHAGRIAN_CHR_arrun: "Arrun"
-	CHAGRIAN_CHR_morrultin: "Morrultin"
-	CHAGRIAN_CHR_grevin: "Grevin"
-	CHAGRIAN_CHR_koll: "Koll"
-	CHAGRIAN_CHR_ebo: "Ebo"
-	CHAGRIAN_CHR_maav: "Maav"
-	CHAGRIAN_CHR_dar: "Dar"
-	CHAGRIAN_CHR_rodov: "Rodov"
-	CHAGRIAN_CHR_firoltin: "Firoltin"
-	CHAGRIAN_CHR_achrusk: "Achrusk"
-	CHAGRIAN_CHR_nansu: "Nansu"
-	CHAGRIAN_CHR_everis: "Everis"
-	CHAGRIAN_CHR_gouge: "Gouge"
-	CHAGRIAN_CHR_seet: "Seet"
-	CHAGRIAN_CHR_ahl: "Ahl"
-	CHAGRIAN_CHR_sahr: "Sahr"
-	CHAGRIAN_CHR_lovor: "Lovor"
-	CHAGRIAN_CHR_rall: "Rall"
-	CHAGRIAN_CHR_arkensu: "Arkensu"
-	CHAGRIAN_CHR_romo: "Romo"
-	CHAGRIAN_CHR_alsal: "Alsal"
-	CHAGRIAN_CHR_dumerin: "Dumerin"
-	CHAGRIAN_CHR_goh: "Goh"
-	CHAGRIAN_CHR_harlal: "Harlal"
-	CHAGRIAN_CHR_seeb: "Seeb"
-	CHAGRIAN_CHR_soro: "Soro"
-	CHAGRIAN_CHR_eban: "Eban"
-	CHAGRIAN_CHR_chubo: "Chubo"
-	CHAGRIAN_CHR_nirro: "Nirro"
-	CHAGRIAN_CHR_maarl: "Maarl"
-	CHAGRIAN_CHR_dorn: "Dorn"
-	CHAGRIAN_CHR_mel: "Mel"
-	CHAGRIAN_CHR_ogoll: "Ogoll"
-	CHAGRIAN_CHR_redd: "Redd"
-	CHAGRIAN_CHR_s_ran: "S'ran"
-	CHAGRIAN_CHR_nensu: "Nensu"
-	CHAGRIAN_CHR_karhei: "Karhei"
-	CHAGRIAN_CHR_jatta: "Jatta"
-	CHAGRIAN_CHR_rogun: "Rogun"
-	CHAGRIAN_CHR_orso: "Orso"
-	CHAGRIAN_CHR_skav: "Skav"
-	CHAGRIAN_CHR_musori: "Musori"
-	CHAGRIAN_CHR_prashok: "Prashok"
-	CHAGRIAN_CHR_phrayan: "Phrayan"
-	CHAGRIAN_CHR_gogh: "Gogh"
-	CHAGRIAN_CHR_quellon: "Quellon"
-	CHAGRIAN_CHR_refain: "Refain"
-	CHAGRIAN_CHR_serrath: "Serrath"
-	CHAGRIAN_CHR_sulle: "Sulle"
-	CHAGRIAN_CHR_shohn_lowt: "Shohn-Lowt"
-	CHAGRIAN_CHR_harmon: "Harmon"
-	CHAGRIAN_CHR_danison: "Danison"
-	CHAGRIAN_CHR_gromm: "Gromm"
-	CHAGRIAN_CHR_wyyrlok: "Wyyrlok"
-	CHAGRIAN_CHR_masa: "Masa"
-	CHAGRIAN_CHR_kava: "Kava"
-	CHAGRIAN_CHR_charka: "Charka"
-	CHAGRIAN_CHR_briqa: "Briqa"
-	CHAGRIAN_CHR_fideltia: "Fideltia"
-	CHAGRIAN_CHR_lena: "Lena"
-	CHAGRIAN_CHR_saarai: "Saarai"
-	CHAGRIAN_CHR_morra: "Morra"
-	CHAGRIAN_CHR_sula: "Sula"
-	CHAGRIAN_CHR_roska: "Roska"
-	CHAGRIAN_CHR_irrek: "Irrek"
-	CHAGRIAN_CHR_gaarik: "Gaarik"
-	CHAGRIAN_CHR_laaba: "Laaba"
-	CHAGRIAN_CHR_anok: "Anok"
-	CHAGRIAN_CHR_medda: "Medda"
-	CHAGRIAN_CHR_alna: "Alna"
-	CHAGRIAN_CHR_mana: "Mana"
-	CHAGRIAN_CHR_s_rondra: "S'rondra"
-	CHAGRIAN_CHR_cheelya: "Cheelya"
-	CHAGRIAN_CHR_ohva: "Ohva"
-	CHAGRIAN_CHR_mirroi: "Mirroi"
-	CHAGRIAN_CHR_sohra: "Sohra"
-	CHAGRIAN_CHR_ficha: "Ficha"
-	CHAGRIAN_CHR_olda: "Olda"
-	CHAGRIAN_CHR_arra: "Arra"
-	CHAGRIAN_CHR_morrultina: "Morrultina"
-	CHAGRIAN_CHR_ebik: "Ebik"
-	CHAGRIAN_CHR_maavek: "Maavek"
-	CHAGRIAN_CHR_darra: "Darra"
-	CHAGRIAN_CHR_roda: "Roda"
-	CHAGRIAN_CHR_firoltia: "Firoltia"
-	CHAGRIAN_CHR_achruska: "Achruska"
-	CHAGRIAN_CHR_nansa: "Nansa"
-	CHAGRIAN_CHR_seeta: "Seeta"
-	CHAGRIAN_CHR_ahlya: "Ahlya"
-	CHAGRIAN_CHR_sahrnok: "Sahrnok"
-	CHAGRIAN_CHR_lova: "Lova"
-	CHAGRIAN_CHR_rala: "RalA"
-	CHAGRIAN_CHR_arkena: "Arkena"
-	CHAGRIAN_CHR_romma: "Romma"
-	CHAGRIAN_CHR_alsalia: "Alsalia"
-	CHAGRIAN_CHR_seebik: "Seebik"
-	CHAGRIAN_CHR_sorok: "Sorok"
-	CHAGRIAN_CHR_ebai: "Ebai"
-	CHAGRIAN_CHR_chuba: "Chuba"
-	CHAGRIAN_CHR_nirroi: "Nirroi"
-	CHAGRIAN_CHR_maara: "Maara"
-	CHAGRIAN_CHR_dornai: "Dornai"
-	CHAGRIAN_CHR_mella: "Mella"
-	CHAGRIAN_CHR_ogolla: "Ogolla"
-	CHAGRIAN_CHR_redda: "Redda"
-	CHAGRIAN_CHR_oora: "Oora"
-	CHAGRIAN_CHR_muuta: "Muuta"
-	CHAGRIAN_CHR_sirrik: "Sirrik"
-	CHAGRIAN_CHR_s_rana: "S'rana"
-	CHAGRIAN_CHR_nensa: "Nensa"
-	CHAGRIAN_CHR_karheia: "Karheia"
-	CHAGRIAN_CHR_jattya: "Jattya"
-	CHAGRIAN_CHR_roguna: "Roguna"
-	CHAGRIAN_CHR_orsa: "Orsa"
-	CHAGRIAN_CHR_skavja: "Skavja"
-	CHAGRIAN_CHR_musora: "Musora"
-	CHAGRIAN_CHR_prashoka: "Prashoka"
-	CHAGRIAN_CHR_phraya: "Phraya"
-	CHAGRIAN_CHR_gogha: "Gogha"
-	CHAGRIAN_CHR_quellona: "Quellona"
-	CHAGRIAN_CHR_refana: "Refana"
-	CHAGRIAN_CHR_serratha: "Serratha"
-	CHAGRIAN_CHR_sulla: "Sulla"
-	CHAGRIAN_CHR_shohna: "Shohna"
-	CHAGRIAN_CHR_harmona: "Harmona"
-	CHAGRIAN_CHR_dania: "Dania"
-	CHAGRIAN_CHR_gromma: "Gromma"
-	CHAGRIAN_CHR_avaho: "Avaho"
-	CHAGRIAN_CHR_acheron: "Acheron"
-	CHAGRIAN_CHR_amedda: "Amedda"
-	CHAGRIAN_CHR_bayons: "Bayons"
-	CHAGRIAN_CHR_berani: "Berani"
-	CHAGRIAN_CHR_coramma: "Coramma"
-	CHAGRIAN_CHR_rusk: "Rusk"
-	CHAGRIAN_CHR_missa: "Missa"
-	CHAGRIAN_CHR_dokaas: "Dokaas"
-	CHAGRIAN_CHR_dekkon: "Dekkon"
-	CHAGRIAN_CHR_shiran: "Shiran"
-	CHAGRIAN_CHR_usempan: "Usempan"
-	CHAGRIAN_CHR_corsignis: "Corsignis"
-	CHAGRIAN_CHR_ransan: "Ransan"
-	CHAGRIAN_CHR_drenn: "Drenn"
-	CHAGRIAN_CHR_vorrun: "Vorrun"
-	CHAGRIAN_CHR_ackrabrarsa: "Ackrabrarsa"
-	CHAGRIAN_CHR_dreetik: "Dreetik"
-	CHAGRIAN_CHR_achansin: "Achansin"
-	CHAGRIAN_CHR_otran: "Otran"
-	CHAGRIAN_CHR_atrenn: "Atrenn"
-	CHAGRIAN_CHR_umansa: "Umansa"
-	CHAGRIAN_CHR_asheddan: "Asheddan"
-	CHAGRIAN_CHR_acharhin: "Acharhin"
-	CHAGRIAN_CHR_ackramala: "Ackramala"
-	CHAGRIAN_CHR_lyaak: "Lyaak"
-	CHAGRIAN_CHR_cerevaas: "Cerevaas"
-	CHAGRIAN_CHR_raatik: "Raatik"
-	CHAGRIAN_CHR_olyuutik: "Olyuutik"
-	CHAGRIAN_CHR_orohmissan: "Orohmissan"
-	CHAGRIAN_CHR_alemorsi: "Alemorsi"
-	CHAGRIAN_CHR_aniquan: "Aniquan"
-	CHAGRIAN_CHR_oresorun: "Oresorun"
-	CHAGRIAN_CHR_choosk: "Choosk"
-	CHAGRIAN_CHR_mayun: "Mayun"
-	CHAGRIAN_CHR_lyaas: "Lyaas"
-	CHAGRIAN_CHR_vendei: "Vendei"
-	CHAGRIAN_CHR_onedrinoo: "Onedrinoo"
-	CHAGRIAN_CHR_drero: "Drero"
-	CHAGRIAN_CHR_acheras: "Acheras"
-	CHAGRIAN_CHR_misharsi: "Misharsi"
-	CHAGRIAN_CHR_midi: "Midi"
-	CHAGRIAN_CHR_menda: "Menda"
-	CHAGRIAN_CHR_ezag: "Ezag"
-	CHAGRIAN_CHR_mordedda: "Mordedda"
-	CHAGRIAN_CHR_onibamman: "Onibamman"
-	CHAGRIAN_CHR_salla: "Salla"
-	CHAGRIAN_CHR_rijalli: "Rijalli"
-	CHAGRIAN_CHR_nanta: "Nanta"
-	CHAGRIAN_CHR_ackrachissa: "Ackrachissa"
-	CHAGRIAN_CHR_edramma: "Edramma"
-	CHAGRIAN_CHR_rahmansa: "Rahmansa"
-	CHAGRIAN_CHR_plood: "Plood"
-	CHAGRIAN_CHR_mora: "Mora"
-	CHAGRIAN_CHR_jempas: "Jempas"
-	CHAGRIAN_CHR_demanna: "Demanna"
-	CHAGRIAN_CHR_droot: "Droot"
-	CHAGRIAN_CHR_jovas: "Jovas"
-	CHAGRIAN_CHR_kaatik: "Kaatik"
-	CHAGRIAN_CHR_kuum: "Kuum"
-	CHAGRIAN_CHR_matt_rik: "Matt'rik"
-	CHAGRIAN_CHR_meeto: "Meeto"
-	CHAGRIAN_CHR_pleetik: "Pleetik"
-	CHAGRIAN_CHR_torvix: "Torvix"
-	CHAGRIAN_CHR_zian: "Zian"
-	CHAGRIAN_CHR_varik: "Varik"
-	CHAGRIAN_CHR_venn: "Venn"
-	CHAGRIAN_CHR_gellandi: "Gellandi"
-	CHAGRIAN_CHR_olyeg: "Olyeg"
+	CHAGRIAN_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_onward: "Onward" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_trident: "Trident" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_venture: "Venture" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_viper: "Viper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_winger: "Winger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_senator: "Senator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_athena: "Athena" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nova: "Nova" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_protector: "Protector" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_devout: "Devout" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_purity: "Purity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_redma: "Redma" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_republic: "Republic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_undying: "Undying" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_valor: "Valor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_agile: "Agile" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_archer: "Archer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_errant: "Errant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_velox: "Velox" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_venator: "Venator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_success: "Success" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_knight: "Knight" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_comet: "Comet" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_magic: "Magic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_daring: "Daring" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_duty: "Duty" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hero: "Hero" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_justice: "Justice" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_malice: "Malice" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_menace: "Menace" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_predator: "Predator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_savage: "Savage" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_templar: "Templar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_terror: "Terror" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pike: "Pike" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_raider: "Raider" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_robust: "Robust" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_siren: "Siren" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_specter: "Specter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_superb: "Superb" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_talent: "Talent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_talon: "Talon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_argus: "Argus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_castor: "Castor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_circe: "Circe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_darius: "Darius" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_electra: "Electra" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_freya: "Freya" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hector: "Hector" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_janus: "Janus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_jason: "Jason" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_juno: "Juno" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_leander: "Leander" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mars: "Mars" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_medea: "Medea" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_minos: "Minos" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_odin: "Odin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_thor: "Thor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_triton: "Triton" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_venus: "Venus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_assail: "Assail" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_austere: "Austere" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_archon: "Archon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_legion: "Legion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_assault: "Assault" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_champion: "Champion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_glory: "Glory" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_renown: "Renown" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_executor: "Executor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_furious: "Furious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_titan: "Titan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nike: "Nike" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_katana: "Katana" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_torch: "Torch" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_potential: "Potential" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_isis: "Isis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_community: "Community" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_effort: "Effort" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_progress: "Progress" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_service: "Service" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_factory: "Factory" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_acre: "Acre" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_newport: "Newport" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_guam: "Guam" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_everest: "Everest" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_perry: "Perry" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_morris: "Morris" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hart: "Hart" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_turner: "Turner" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_doria: "Doria" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_durham: "Durham" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_milne: "Milne" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_pound: "Pound" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_king: "King" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_essen: "Essen" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_treville: "Treville" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_byng: "Byng" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	CHAGRIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	CHAGRIAN_FLEET_defense_fleet_ORD: "$ORD$ Defense Fleet" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	CHAGRIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	CHAGRIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	CHAGRIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	CHAGRIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ackrahbala: "Ackrahbala" #!Empty_LineInfo!
+	CHAGRIAN_CHR_aram: "Aram" #!Empty_LineInfo!
+	CHAGRIAN_CHR_chondrus: "Chondrus" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mas: "Mas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_kav: "Kav" #!Empty_LineInfo!
+	CHAGRIAN_CHR_charko: "Charko" #!Empty_LineInfo!
+	CHAGRIAN_CHR_barlo: "Barlo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_burloo: "Burloo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_briqui: "Briqui" #!Empty_LineInfo!
+	CHAGRIAN_CHR_fideltin: "Fideltin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_len: "Len" #!Empty_LineInfo!
+	CHAGRIAN_CHR_saar: "Saar" #!Empty_LineInfo!
+	CHAGRIAN_CHR_morrun: "Morrun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sul: "Sul" #!Empty_LineInfo!
+	CHAGRIAN_CHR_deniv: "Deniv" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rosk: "Rosk" #!Empty_LineInfo!
+	CHAGRIAN_CHR_irr: "Irr" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gaar: "Gaar" #!Empty_LineInfo!
+	CHAGRIAN_CHR_laab: "Laab" #!Empty_LineInfo!
+	CHAGRIAN_CHR_an: "An" #!Empty_LineInfo!
+	CHAGRIAN_CHR_meddus: "Meddus" #!Empty_LineInfo!
+	CHAGRIAN_CHR_alnon: "Alnon" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mal: "Mal" #!Empty_LineInfo!
+	CHAGRIAN_CHR_man: "Man" #!Empty_LineInfo!
+	CHAGRIAN_CHR_s_rondrus: "S'rondrus" #!Empty_LineInfo!
+	CHAGRIAN_CHR_cheel: "Cheel" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ohv: "Ohv" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mirr: "Mirr" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mors: "Mors" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sohro: "Sohro" #!Empty_LineInfo!
+	CHAGRIAN_CHR_fichom: "Fichom" #!Empty_LineInfo!
+	CHAGRIAN_CHR_oldon: "Oldon" #!Empty_LineInfo!
+	CHAGRIAN_CHR_arrun: "Arrun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_morrultin: "Morrultin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_grevin: "Grevin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_koll: "Koll" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ebo: "Ebo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_maav: "Maav" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dar: "Dar" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rodov: "Rodov" #!Empty_LineInfo!
+	CHAGRIAN_CHR_firoltin: "Firoltin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_achrusk: "Achrusk" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nansu: "Nansu" #!Empty_LineInfo!
+	CHAGRIAN_CHR_everis: "Everis" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gouge: "Gouge" #!Empty_LineInfo!
+	CHAGRIAN_CHR_seet: "Seet" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ahl: "Ahl" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sahr: "Sahr" #!Empty_LineInfo!
+	CHAGRIAN_CHR_lovor: "Lovor" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rall: "Rall" #!Empty_LineInfo!
+	CHAGRIAN_CHR_arkensu: "Arkensu" #!Empty_LineInfo!
+	CHAGRIAN_CHR_romo: "Romo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_alsal: "Alsal" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dumerin: "Dumerin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_goh: "Goh" #!Empty_LineInfo!
+	CHAGRIAN_CHR_harlal: "Harlal" #!Empty_LineInfo!
+	CHAGRIAN_CHR_seeb: "Seeb" #!Empty_LineInfo!
+	CHAGRIAN_CHR_soro: "Soro" #!Empty_LineInfo!
+	CHAGRIAN_CHR_eban: "Eban" #!Empty_LineInfo!
+	CHAGRIAN_CHR_chubo: "Chubo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nirro: "Nirro" #!Empty_LineInfo!
+	CHAGRIAN_CHR_maarl: "Maarl" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dorn: "Dorn" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mel: "Mel" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ogoll: "Ogoll" #!Empty_LineInfo!
+	CHAGRIAN_CHR_redd: "Redd" #!Empty_LineInfo!
+	CHAGRIAN_CHR_s_ran: "S'ran" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nensu: "Nensu" #!Empty_LineInfo!
+	CHAGRIAN_CHR_karhei: "Karhei" #!Empty_LineInfo!
+	CHAGRIAN_CHR_jatta: "Jatta" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rogun: "Rogun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_orso: "Orso" #!Empty_LineInfo!
+	CHAGRIAN_CHR_skav: "Skav" #!Empty_LineInfo!
+	CHAGRIAN_CHR_musori: "Musori" #!Empty_LineInfo!
+	CHAGRIAN_CHR_prashok: "Prashok" #!Empty_LineInfo!
+	CHAGRIAN_CHR_phrayan: "Phrayan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gogh: "Gogh" #!Empty_LineInfo!
+	CHAGRIAN_CHR_quellon: "Quellon" #!Empty_LineInfo!
+	CHAGRIAN_CHR_refain: "Refain" #!Empty_LineInfo!
+	CHAGRIAN_CHR_serrath: "Serrath" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sulle: "Sulle" #!Empty_LineInfo!
+	CHAGRIAN_CHR_shohn_lowt: "Shohn-Lowt" #!Empty_LineInfo!
+	CHAGRIAN_CHR_harmon: "Harmon" #!Empty_LineInfo!
+	CHAGRIAN_CHR_danison: "Danison" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gromm: "Gromm" #!Empty_LineInfo!
+	CHAGRIAN_CHR_wyyrlok: "Wyyrlok" #!Empty_LineInfo!
+	CHAGRIAN_CHR_masa: "Masa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_kava: "Kava" #!Empty_LineInfo!
+	CHAGRIAN_CHR_charka: "Charka" #!Empty_LineInfo!
+	CHAGRIAN_CHR_briqa: "Briqa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_fideltia: "Fideltia" #!Empty_LineInfo!
+	CHAGRIAN_CHR_lena: "Lena" #!Empty_LineInfo!
+	CHAGRIAN_CHR_saarai: "Saarai" #!Empty_LineInfo!
+	CHAGRIAN_CHR_morra: "Morra" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sula: "Sula" #!Empty_LineInfo!
+	CHAGRIAN_CHR_roska: "Roska" #!Empty_LineInfo!
+	CHAGRIAN_CHR_irrek: "Irrek" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gaarik: "Gaarik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_laaba: "Laaba" #!Empty_LineInfo!
+	CHAGRIAN_CHR_anok: "Anok" #!Empty_LineInfo!
+	CHAGRIAN_CHR_medda: "Medda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_alna: "Alna" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mana: "Mana" #!Empty_LineInfo!
+	CHAGRIAN_CHR_s_rondra: "S'rondra" #!Empty_LineInfo!
+	CHAGRIAN_CHR_cheelya: "Cheelya" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ohva: "Ohva" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mirroi: "Mirroi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sohra: "Sohra" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ficha: "Ficha" #!Empty_LineInfo!
+	CHAGRIAN_CHR_olda: "Olda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_arra: "Arra" #!Empty_LineInfo!
+	CHAGRIAN_CHR_morrultina: "Morrultina" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ebik: "Ebik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_maavek: "Maavek" #!Empty_LineInfo!
+	CHAGRIAN_CHR_darra: "Darra" #!Empty_LineInfo!
+	CHAGRIAN_CHR_roda: "Roda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_firoltia: "Firoltia" #!Empty_LineInfo!
+	CHAGRIAN_CHR_achruska: "Achruska" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nansa: "Nansa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_seeta: "Seeta" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ahlya: "Ahlya" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sahrnok: "Sahrnok" #!Empty_LineInfo!
+	CHAGRIAN_CHR_lova: "Lova" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rala: "RalA" #!Empty_LineInfo!
+	CHAGRIAN_CHR_arkena: "Arkena" #!Empty_LineInfo!
+	CHAGRIAN_CHR_romma: "Romma" #!Empty_LineInfo!
+	CHAGRIAN_CHR_alsalia: "Alsalia" #!Empty_LineInfo!
+	CHAGRIAN_CHR_seebik: "Seebik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sorok: "Sorok" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ebai: "Ebai" #!Empty_LineInfo!
+	CHAGRIAN_CHR_chuba: "Chuba" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nirroi: "Nirroi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_maara: "Maara" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dornai: "Dornai" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mella: "Mella" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ogolla: "Ogolla" #!Empty_LineInfo!
+	CHAGRIAN_CHR_redda: "Redda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_oora: "Oora" #!Empty_LineInfo!
+	CHAGRIAN_CHR_muuta: "Muuta" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sirrik: "Sirrik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_s_rana: "S'rana" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nensa: "Nensa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_karheia: "Karheia" #!Empty_LineInfo!
+	CHAGRIAN_CHR_jattya: "Jattya" #!Empty_LineInfo!
+	CHAGRIAN_CHR_roguna: "Roguna" #!Empty_LineInfo!
+	CHAGRIAN_CHR_orsa: "Orsa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_skavja: "Skavja" #!Empty_LineInfo!
+	CHAGRIAN_CHR_musora: "Musora" #!Empty_LineInfo!
+	CHAGRIAN_CHR_prashoka: "Prashoka" #!Empty_LineInfo!
+	CHAGRIAN_CHR_phraya: "Phraya" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gogha: "Gogha" #!Empty_LineInfo!
+	CHAGRIAN_CHR_quellona: "Quellona" #!Empty_LineInfo!
+	CHAGRIAN_CHR_refana: "Refana" #!Empty_LineInfo!
+	CHAGRIAN_CHR_serratha: "Serratha" #!Empty_LineInfo!
+	CHAGRIAN_CHR_sulla: "Sulla" #!Empty_LineInfo!
+	CHAGRIAN_CHR_shohna: "Shohna" #!Empty_LineInfo!
+	CHAGRIAN_CHR_harmona: "Harmona" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dania: "Dania" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gromma: "Gromma" #!Empty_LineInfo!
+	CHAGRIAN_CHR_avaho: "Avaho" #!Empty_LineInfo!
+	CHAGRIAN_CHR_acheron: "Acheron" #!Empty_LineInfo!
+	CHAGRIAN_CHR_amedda: "Amedda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_bayons: "Bayons" #!Empty_LineInfo!
+	CHAGRIAN_CHR_berani: "Berani" #!Empty_LineInfo!
+	CHAGRIAN_CHR_coramma: "Coramma" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rusk: "Rusk" #!Empty_LineInfo!
+	CHAGRIAN_CHR_missa: "Missa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dokaas: "Dokaas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dekkon: "Dekkon" #!Empty_LineInfo!
+	CHAGRIAN_CHR_shiran: "Shiran" #!Empty_LineInfo!
+	CHAGRIAN_CHR_usempan: "Usempan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_corsignis: "Corsignis" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ransan: "Ransan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_drenn: "Drenn" #!Empty_LineInfo!
+	CHAGRIAN_CHR_vorrun: "Vorrun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ackrabrarsa: "Ackrabrarsa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_dreetik: "Dreetik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_achansin: "Achansin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_otran: "Otran" #!Empty_LineInfo!
+	CHAGRIAN_CHR_atrenn: "Atrenn" #!Empty_LineInfo!
+	CHAGRIAN_CHR_umansa: "Umansa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_asheddan: "Asheddan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_acharhin: "Acharhin" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ackramala: "Ackramala" #!Empty_LineInfo!
+	CHAGRIAN_CHR_lyaak: "Lyaak" #!Empty_LineInfo!
+	CHAGRIAN_CHR_cerevaas: "Cerevaas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_raatik: "Raatik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_olyuutik: "Olyuutik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_orohmissan: "Orohmissan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_alemorsi: "Alemorsi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_aniquan: "Aniquan" #!Empty_LineInfo!
+	CHAGRIAN_CHR_oresorun: "Oresorun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_choosk: "Choosk" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mayun: "Mayun" #!Empty_LineInfo!
+	CHAGRIAN_CHR_lyaas: "Lyaas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_vendei: "Vendei" #!Empty_LineInfo!
+	CHAGRIAN_CHR_onedrinoo: "Onedrinoo" #!Empty_LineInfo!
+	CHAGRIAN_CHR_drero: "Drero" #!Empty_LineInfo!
+	CHAGRIAN_CHR_acheras: "Acheras" #!Empty_LineInfo!
+	CHAGRIAN_CHR_misharsi: "Misharsi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_midi: "Midi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_menda: "Menda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ezag: "Ezag" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mordedda: "Mordedda" #!Empty_LineInfo!
+	CHAGRIAN_CHR_onibamman: "Onibamman" #!Empty_LineInfo!
+	CHAGRIAN_CHR_salla: "Salla" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rijalli: "Rijalli" #!Empty_LineInfo!
+	CHAGRIAN_CHR_nanta: "Nanta" #!Empty_LineInfo!
+	CHAGRIAN_CHR_ackrachissa: "Ackrachissa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_edramma: "Edramma" #!Empty_LineInfo!
+	CHAGRIAN_CHR_rahmansa: "Rahmansa" #!Empty_LineInfo!
+	CHAGRIAN_CHR_plood: "Plood" #!Empty_LineInfo!
+	CHAGRIAN_CHR_mora: "Mora" #!Empty_LineInfo!
+	CHAGRIAN_CHR_jempas: "Jempas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_demanna: "Demanna" #!Empty_LineInfo!
+	CHAGRIAN_CHR_droot: "Droot" #!Empty_LineInfo!
+	CHAGRIAN_CHR_jovas: "Jovas" #!Empty_LineInfo!
+	CHAGRIAN_CHR_kaatik: "Kaatik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_kuum: "Kuum" #!Empty_LineInfo!
+	CHAGRIAN_CHR_matt_rik: "Matt'rik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_meeto: "Meeto" #!Empty_LineInfo!
+	CHAGRIAN_CHR_pleetik: "Pleetik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_torvix: "Torvix" #!Empty_LineInfo!
+	CHAGRIAN_CHR_zian: "Zian" #!Empty_LineInfo!
+	CHAGRIAN_CHR_varik: "Varik" #!Empty_LineInfo!
+	CHAGRIAN_CHR_venn: "Venn" #!Empty_LineInfo!
+	CHAGRIAN_CHR_gellandi: "Gellandi" #!Empty_LineInfo!
+	CHAGRIAN_CHR_olyeg: "Olyeg" #!Empty_LineInfo!

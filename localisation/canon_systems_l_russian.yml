@@ -18,32 +18,32 @@
  NAME_Brentaal_S: "Брента"
  NAME_Brentaal_P1: "Соллас"
  NAME_Brentaal_P2: "Тремаал"
- NAME_Brentaal_P2_1: "Малый Тремаал" 
- NAME_Brentaal_P3: "Гастол" 
- NAME_Brentaal_P3_1: "Гастол-I" 
- NAME_Brentaal_P3_2: "Гастол-II" 
- NAME_Brentaal_P3_3: "Гастол-III" 
- NAME_Brentaal_P4: "Брентаал IV" 
- NAME_Brentaal_P4_1: "Брентаал IVa" 
- NAME_Brentaal_P4_2: "Брентаал IVb" 
- NAME_Brentaal_P5: "Гамбас" 
- NAME_Brentaal_P5_1: "Гамбас-I" 
- NAME_Brentaal_P5_2: "Гамбас-II" 
- NAME_Brentaal_P5_3: "Гамбас-III" 
- NAME_Brentaal_P5_4: "Гамбас-IV" 
- NAME_Brentaal_P5_5: "Гамбас-V" 
- NAME_Brentaal_P5_6: "Гамбас-VI" 
- NAME_Brentaal_P5_7: "Гамбас-VII" 
- NAME_Brentaal_P5_8: "Гамбас-VIII" 
- NAME_Brentaal_P5_9: "Гамбас-IX" 
- NAME_Brentaal_P5_10: "Гамбас-X" 
- NAME_Brentaal_P5_11: "Гамбас-XVI" 
- NAME_Brentaal_P6: "Кавас" 
+ NAME_Brentaal_P2_1: "Малый Тремаал"
+ NAME_Brentaal_P3: "Гастол"
+ NAME_Brentaal_P3_1: "Гастол-I"
+ NAME_Brentaal_P3_2: "Гастол-II"
+ NAME_Brentaal_P3_3: "Гастол-III"
+ NAME_Brentaal_P4: "Брентаал IV"
+ NAME_Brentaal_P4_1: "Брентаал IVa"
+ NAME_Brentaal_P4_2: "Брентаал IVb"
+ NAME_Brentaal_P5: "Гамбас"
+ NAME_Brentaal_P5_1: "Гамбас-I"
+ NAME_Brentaal_P5_2: "Гамбас-II"
+ NAME_Brentaal_P5_3: "Гамбас-III"
+ NAME_Brentaal_P5_4: "Гамбас-IV"
+ NAME_Brentaal_P5_5: "Гамбас-V"
+ NAME_Brentaal_P5_6: "Гамбас-VI"
+ NAME_Brentaal_P5_7: "Гамбас-VII"
+ NAME_Brentaal_P5_8: "Гамбас-VIII"
+ NAME_Brentaal_P5_9: "Гамбас-IX"
+ NAME_Brentaal_P5_10: "Гамбас-X"
+ NAME_Brentaal_P5_11: "Гамбас-XVI"
+ NAME_Brentaal_P6: "Кавас"
  NAME_Brentaal_P6_1: "Кавас-I"
  NAME_Brentaal_P6_2: "Кавас-II"
  NAME_Brentaal_P7: "Джаваал"
  
-  #Chandrila
+ #Chandrila
  NAME_Chandrila: "Чандрила"
  NAME_Chandrila_S: "Чандрила"
  NAME_Chandrila_P1: "Эксропа"
@@ -70,7 +70,7 @@
  #Tyed Kant
  NAME_Kantel: "Кантель"
  NAME_Kantel_S: "Кантель"
- NAME_Kantel_P1: "Тид Кант" 
+ NAME_Kantel_P1: "Тид Кант"
  
  #Yabol Opa
  NAME_Yabol_Opa: "Ябол-Опа"
@@ -92,8 +92,8 @@
  NAME_Yabol_Opa_P6_2: "Ябол-Опа VIb"
  NAME_Yabol_Opa_P6_3: "Ябол-Опа VIc"
  NAME_Yabol_Opa_P7: "Ябол-Опа VII"
- 
- ### Arkanian Systems ###
+
+### Arkanian Systems ###
 
  #Perave
  NAME_Perave: "Пераве"
@@ -106,7 +106,7 @@
  NAME_Perave_P5: "Пераве V"
  NAME_Perave_P5_1: "Пераве Va"
  
- #Neirport 
+ #Neirport
  NAME_Nierport: "Эерофа"
  NAME_Nierport_S: "Эерофа"
  NAME_Nierport_P1: "Эерофа"
@@ -118,7 +118,7 @@
  NAME_Nierport_P1_6: "Ниепорт-VI"
  NAME_Nierport_P1_7: "Ниепорт-VII"
  
- #Uviuy Exen 
+ #Uviuy Exen
  NAME_Uviuy_Exen: "Увиуй Эксен"
  NAME_Uviuy_Exen_S: "Увиуй Эксен"
  NAME_Uviuy_Exen_P1: "Увиуй Эксен I"
@@ -161,10 +161,10 @@
  NAME_Mindor_P1_3: "Миндор-III"
  NAME_Mindor_P1_4: "Миндор-Iv"
  NAME_Mindor_P2: "Таспан II"
+ 
+ ### Bakuran Systems ###
 
-### Bakuran Systems ###
-
-#Bakura 
+ #Bakura
  NAME_Bakura: "Бакура"
  NAME_Bakura_S: "Бакура"
  NAME_Bakura_P1: "Бак"
@@ -182,10 +182,10 @@
  NAME_Bakura_P7: "Бакура VII"
  NAME_Bakura_P8: "Бакура VIII"
  NAME_Bakura_P8_1: "Бакура VIIIa"
- 
- ### Banking Clan Systems ###
 
- #Muunilinst 
+### Banking Clan Systems ###
+
+ #Muunilinst
  NAME_Muunilinst: "Муунилинст"
  NAME_Muunilinst_S: "Муунилинст"
  NAME_Muunilinst_P1: "Вархус"
@@ -210,7 +210,7 @@
  NAME_Muunilinst_P5_4: "Малый Хават IV"
  NAME_Muunilinst_P5_5: "Малый Хават XI"
  
- #Scipio 
+ #Scipio
  NAME_Scipio: "Сципио"
  NAME_Scipio_S: "Сципио"
  NAME_Scipio_P1: "Сципио I"
@@ -227,7 +227,7 @@
  NAME_Scipio_P5_5: "Сципио Ve"
  NAME_Scipio_P6: "Сципио VI"
  
- #Bextar 
+ #Bextar
  NAME_Bextar: "Бекстар"
  NAME_Bextar_S: "Бекстар"
  NAME_Bextar_P1: "Бекстар I"
@@ -248,17 +248,17 @@
  NAME_Bextar_P4_2: "Бекстар IVb"
  NAME_Bextar_P4_3: "Бекстар IVi"
  
- #Cantras Gola 
+ #Cantras Gola
  NAME_Cantras_Gola: "Кантрас Гола"
  NAME_Cantras_Gola_S: "Кантрас Гола"
  NAME_Cantras_Gola_P1: "Кантрас Гола"
  
- #Jaemus 
+ #Jaemus
  NAME_Jaemus: "Джеймус"
  NAME_Jaemus_S: "Джеймус"
  NAME_Jaemus_P1: "Джеймус"
  
- #Mygeeto 
+ #Mygeeto
  NAME_Mygeeto: "Майгито"
  NAME_Mygeeto_S: "Малора"
  NAME_Mygeeto_P1: "Рирез"
@@ -287,7 +287,7 @@
  ### Black Sun Systems ###
  
  #Ord Mantell
- NAME_Ord_Mantell: "Орд-Мантелл"
+ NAME_Ord_Mantell: "Сверкающий бриллиант"
  NAME_Ord_Mantell_S: "Сверкающий бриллиант"
  NAME_Ord_Mantell_P1: "Репта"
  NAME_Ord_Mantell_P2: "Орд-Мантелл"
@@ -347,7 +347,7 @@
  NAME_Both_P6_5: "Хоппавуи-VIII"
  NAME_Both_P7: "Джентавуи"
  
- #Thoran 
+ #Thoran
  NAME_Thoran: "Торан"
  NAME_Thoran_S: "Торан"
  NAME_Thoran_P1: "Торан"
@@ -370,7 +370,7 @@
  NAME_Kothlis_P6: "Мар'та I"
  NAME_Kothlis_P7: "Мар'та II"
  
- #Nexus Ortai 
+ #Nexus Ortai
  NAME_Nexus_Ortai: "Нексус-Ортай"
  NAME_Nexus_Ortai_S: "Нексус-Ортай"
  NAME_Nexus_Ortai_P1: "Нексус-Ортай"
@@ -381,7 +381,7 @@
  NAME_Void_Station_P1: "Копата"
  NAME_Void_Station_P2: "Станция пустоты"
  
- #Spirador 
+ #Spirador
  NAME_Spirador: "Спирадор"
  NAME_Spirador_S: "Спирадор"
  NAME_Spirador_P1: "Спирадор"
@@ -395,7 +395,7 @@
  NAME_Dressel_P4: "Дрессель IV"
  NAME_Dressel_P5: "Колония Ботанов"
  
-  ### Cathar Systems ###
+ ### Cathar Systems ###
  
  #Cathar
  NAME_Cathar: "Катар"
@@ -403,14 +403,14 @@
  NAME_Cathar_P1: "Катар"
  NAME_Cathar_P1_1: "Малый Катар"
  
-  ### Centrality Systems ###
+ ### Centrality Systems ###
  
- #Erilnar 
+ #Erilnar
  NAME_Erilnar: "Эрилнар"
  NAME_Erilnar_S: "Эрилнар"
  NAME_Erilnar_P1: "Эрилнар"
  
- #Scillal 
+ #Scillal
  NAME_Scillal: "Сциллал"
  NAME_Scillal_S: "Сциллал"
  NAME_Scillal_P1: "Сциллал"
@@ -463,19 +463,19 @@
  NAME_Cerea_P6_2: "Церея Vb"
  NAME_Cerea_P6_3: "Церея Vh"
  
- #Hirsi 
+ #Hirsi
  NAME_Hirsi: "Хирси"
  NAME_Hirsi_S: "Хирси"
  NAME_Hirsi_P1: "Хирси"
  
  ### Chalactan Systems ###
  
- #Chalacta 
+ #Chalacta
  NAME_Chalacta: "Чалакта"
  NAME_Chalacta_S: "Чалакта"
  NAME_Chalacta_P1: "Чалакта"
  
- #Lexrul 
+ #Lexrul
  NAME_Lexrul: "Лексрул"
  NAME_Lexrul_S: "Лексрул"
  NAME_Lexrul_P1: "Лексрул"
@@ -491,7 +491,7 @@
  NAME_Bissillirus_P4_1: "Юниллиан"
  NAME_Bissillirus_P5: "Аванпост"
  
- #Yitabo 
+ #Yitabo
  NAME_Yitabo: "Итабо"
  NAME_Yitabo_S: "Итабо"
  NAME_Yitabo_P1: "Итабо"
@@ -520,32 +520,32 @@
  NAME_Csilla_P4_2: "Ксорб-II"
  NAME_Csilla_P5: "Формак"
  
- #Cioral 
+ #Cioral
  NAME_Cioral: "Сиорал"
  NAME_Cioral_S: "Сиорал"
  NAME_Cioral_P1: "Сиорал"
  
- #Sposia 
+ #Sposia
  NAME_Sposia: "Спосия"
  NAME_Sposia_S: "Спосия"
  NAME_Sposia_P1: "Спосия"
  
- #Avidich 
+ #Avidich
  NAME_Avidich: "Авидич"
  NAME_Avidich_S: "Авидич"
  NAME_Avidich_P1: "Авидич"
  
- #Ool 
+ #Ool
  NAME_Ool: "Ул"
  NAME_Ool_S: "Ул"
  NAME_Ool_P1: "Ул"
  
- #Copero 
+ #Copero
  NAME_Copero: "Коперо"
  NAME_Copero_S: "Коперо"
  NAME_Copero_P1: "Коперо"
  
- #Csaus 
+ #Csaus
  NAME_Csaus: "Ксаус"
  NAME_Csaus_S: "Ксаус"
  NAME_Csaus_P1: "Ксаус"
@@ -555,7 +555,7 @@
  NAME_Colonial_Station_Camco_S: "Кам'ко"
  NAME_Colonial_Station_Camco_P1: "Колониальная станция Кам'ко"
  
- #Naporar 
+ #Naporar
  NAME_Naporar: "Напорар"
  NAME_Naporar_S: "Напорар"
  NAME_Naporar_P1: "Напорар I"
@@ -567,11 +567,11 @@
  NAME_Naporar_P4_3: "Напорар IVc"
  NAME_Naporar_P4_4: "Напорар IVd"
  NAME_Naporar_P4_5: "Напорар IVg"
- NAME_Naporar_P5: "Напорар V"
+ NAME_Naropar_P5: "Напорар V
  
  ### CIS Sector Systems ###
  
- #Terminus 
+ #Terminus
  NAME_Terminus: "Терминус"
  NAME_Terminus_S: "Терминус"
  NAME_Terminus_P1: "Терминус"
@@ -583,7 +583,7 @@
  NAME_Polis_Massa_S: "Масса"
  NAME_Polis_Massa_P1: "Полис Масса"
  
- #Atravis 
+ #Atravis
  NAME_Atravis: "Атравис"
  NAME_Atravis_S: "Атравис"
  NAME_Atravis_P1: "Атравис"
@@ -602,19 +602,20 @@
  NAME_Sluis_P4_5: "Слуис IVe"
  NAME_Sluis_P5: "Слуис V"
  
- #Denab 
+ #Denab
  NAME_Denab: "Денаб"
  NAME_Denab_S: "Денаб"
  NAME_Denab_P1: "Денаб"
+ NAME_Denab_P2: "Сеатос"
  
- #Sanrafsix 
+ #Sanrafsix
  NAME_Sanrafsix: "Санрафсикс"
  NAME_Sanrafsix_S: "Санрафсикс"
  NAME_Sanrafsix_P1: "Санрафсикс"
  
  ### CIS Systems ###
  
- #Enarc 
+ #Enarc
  NAME_Enarc: "Энарк"
  NAME_Enarc_S: "Энарк"
  NAME_Enarc_P1: "Энарк"
@@ -623,7 +624,7 @@
  NAME_Christoph: "Кристоф"
  NAME_Christoph_S: "Кристоф"
  NAME_Christoph_P1: "Кристофсис"
- NAME_Christoph_P1_1: "Луна Кристофсиса"
+ NAME_Christoph_P1_1: "Лизис"
  NAME_Christoph_P2: "Эродсис"
  NAME_Christoph_P2_1: "Эродсис-I"
  NAME_Christoph_P2_2: "Эродсис-II"
@@ -633,17 +634,17 @@
  NAME_Christoph_P2_6: "Эродсис-VI"
  NAME_Christoph_P2_7: "Эродсис-XXII"
  
- #Gamor 
+ #Gamor
  NAME_Gamor: "Гамор"
  NAME_Gamor_S: "Гамор"
  NAME_Gamor_P1: "Гамор"
  
- #Milagro 
+ #Milagro
  NAME_Milagro: "Миларго"
  NAME_Milagro_S: "Миларго"
  NAME_Milagro_P1: "Миларго"
  
- #Farstine 
+ #Farstine
  NAME_Farstine: "Фарстин"
  NAME_Farstine_S: "Фарстин"
  NAME_Farstine_P1: "Фарстин"
@@ -654,7 +655,7 @@
  NAME_Bannistar_Station_P1: "Баннистар"
  NAME_Bannistar_Station_P2: "Станция Баннистар"
  
- #Churba 
+ #Churba
  NAME_Churba: "Чурба"
  NAME_Churba_S: "Чурба"
  NAME_Churba_P1: "Барху"
@@ -677,7 +678,7 @@
  NAME_Churba_P7_1: "Чурба VIIa"
  NAME_Churba_P8: "Хурча"
  
- #Falleen 
+ #Falleen
  NAME_Falleen: "Фаллин"
  NAME_Falleen_S: "Фаллин"
  NAME_Falleen_P1: "Фаллин I"
@@ -687,14 +688,14 @@
  NAME_Falleen_P4: "Фаллин IV"
  NAME_Falleen_P4_1: "Фаллин IVa"
  NAME_Falleen_P4_2: "Фаллин IVb"
- NAME_Falleen_P5: "Фаллин V" 
- NAME_Falleen_P5_1: "Фаллин Va" #changed. It was: Allmittal I
- NAME_Falleen_P5_2: "Фаллин Vb" #changed. It was: Allmittal II
- NAME_Falleen_P5_3: "Фаллин Vc" #changed. It was: Allmittal III
- NAME_Falleen_P5_4: "Фаллин Vd" #changed. It was: Allmittal IV
- NAME_Falleen_P5_5: "Фаллин Ve" #changed. It was: Allmittal V
- NAME_Falleen_P5_6: "Фаллин Vl" #changed. It was: Allmittal XII
- NAME_Falleen_P6: "Фаллин VI" #changed. It was: Falleen IV
+ NAME_Falleen_P5: "Фаллин V"
+ NAME_Falleen_P5_1: "Фаллин Va"
+ NAME_Falleen_P5_2: "Фаллин Vb"
+ NAME_Falleen_P5_3: "Фаллин Vc"
+ NAME_Falleen_P5_4: "Фаллин Vd"
+ NAME_Falleen_P5_5: "Фаллин Ve"
+ NAME_Falleen_P5_6: "Фаллин Vl"
+ NAME_Falleen_P6: "Фаллин VI"
  
  ### Ciutric Systems ###
  
@@ -716,12 +717,12 @@
  NAME_Ciutric_P5_4: "Сьютрик Vd"
  NAME_Ciutric_P5_5: "Сьютрик Ve"
  
- #Edusa 
+ #Edusa
  NAME_Edusa: "Эдуса"
  NAME_Edusa_S: "Эдуса"
  NAME_Edusa_P1: "Эдуса"
  
- #Vandyne 
+ #Vandyne
  NAME_Vandyne: "Вендин"
  NAME_Vandyne_S: "Вендин"
  NAME_Vandyne_P1: "Вендин"
@@ -743,7 +744,7 @@
  NAME_Corvis_Minor_P5_5: "Малый Корвис Ve"
  NAME_Corvis_Minor_P5_6: "Малый Корвис Vf"
  
- #Axxila 
+ #Axxila
  NAME_Axxila: "Акзила"
  NAME_Axxila_S: "Акзила"
  NAME_Axxila_P1: "Акзила"
@@ -753,7 +754,7 @@
  
  ### Commerce Guild Systems ###
  
- #Castell 
+ #Castell
  NAME_Castell: "Кастелл"
  NAME_Castell_S: "Кастелл"
  NAME_Castell_P1: "Кастелл I"
@@ -795,21 +796,21 @@
  NAME_Rydonni_Prime_S: "Райдо"
  NAME_Rydonni_Prime_P1: "Райдонни-Прайм"
  
- #Duro 
+ #Duro
  NAME_Duro: "Дуро"
  NAME_Duro_S: "Дуро"
  NAME_Duro_P1: "Лорс"
  NAME_Duro_P1_1: "Малый Лорс"
  NAME_Duro_P2: "Дуро"
- NAME_Duro_P2_1: "Орбитальный город I"
- NAME_Duro_P2_2: "Орбитальный город II"
- NAME_Duro_P2_3: "Орбитальный город III"
+ NAME_Duro_P2_1: "Станция Ббурру"
+ NAME_Duro_P2_2: "Космический город Дживв"
+ NAME_Duro_P2_3: "Космический город Джайвус"
  NAME_Duro_P3: "Коли"
  NAME_Duro_P3_1: "Коли-I"
  NAME_Duro_P3_2: "Коли-II"
  NAME_Duro_P4: "Дуро IV"
  
- #Loronar 
+ #Loronar
  NAME_Loronar: "Лоронар"
  NAME_Loronar_S: "Лоронар"
  NAME_Loronar_P1: "Лоронар"
@@ -846,12 +847,12 @@
  NAME_Bomis_Koori_P6_6: "Бумис-Кури VIp"
  NAME_Bomis_Koori_P7: "Бумис-Кури VII"
  
- #Harrin 
+ #Harrin
  NAME_Harrin: "Харрин"
  NAME_Harrin_S: "Харрин"
  NAME_Harrin_P1: "Харрин"
  
- #Moorja 
+ #Moorja
  NAME_Moorja: "Мурджа"
  NAME_Moorja_S: "Мурджа"
  NAME_Moorja_P1: "Мурджа I"
@@ -901,7 +902,7 @@
  NAME_Kalla_P9: "Калла VIII"
  NAME_Kalla_P10: "Калла IX"
  
- #Cantonica 
+ #Cantonica
  NAME_Cantonica: "Кантоника"
  NAME_Cantonica_S: "Кантоника"
  NAME_Cantonica_P1: "Кантоника I"
@@ -920,7 +921,7 @@
  NAME_Cantonica_P5_5: "Кантоника Ve"
  NAME_Cantonica_P6: "Кантоника VI"
  
- #Bonadan 
+ #Bonadan
  NAME_Bonadan: "Бонадан"
  NAME_Bonadan_S: "Бонадан"
  NAME_Bonadan_P1: "Бонадан I"
@@ -942,12 +943,12 @@
  NAME_Bonadan_P6: "Бонадан VI"
  NAME_Bonadan_P6_1: "Бонадан VIa"
  
- #Tirsa 
+ #Tirsa
  NAME_Tirsa: "Тирса"
  NAME_Tirsa_S: "Тирса"
  NAME_Tirsa_P1: "Тирса"
  
- #Issagra 
+ #Issagra
  NAME_Issagra: "Иссагра"
  NAME_Issagra_S: "Иссагра"
  NAME_Issagra_P1: "Иссагра I"
@@ -961,7 +962,7 @@
  
  ### Dantary Systems ###
  
- #Dantooine 
+ #Dantooine
  NAME_Dantooine: "Дантуин"
  NAME_Dantooine_S: "Дина"
  NAME_Dantooine_P1: "Дома"
@@ -985,12 +986,12 @@
  NAME_Dantooine_P6_2: "Дульбрис-II"
  NAME_Dantooine_P6_3: "Дульбрис-III"
  
- #Sinsang 
+ #Sinsang
  NAME_Sinsang: "Синсанг"
  NAME_Sinsang_S: "Синсанг"
  NAME_Sinsang_P1: "Синсанг"
  
- #Fedje 
+ #Fedje
  NAME_Fedje: "Федье"
  NAME_Fedje_S: "Федье"
  NAME_Fedje_P1: "Федье I"
@@ -1007,8 +1008,8 @@
  NAME_Fedje_P5_5: "Федье Ve"
  NAME_Fedje_P5_6: "Федье Vf"
  NAME_Fedje_P6: "Федье VI"
-  
- #Nam'ta 
+ 
+ #Nam'ta
  NAME_Namta: "Нам'та"
  NAME_Namta_S: "Нам'та"
  NAME_Namta_P1: "Нам'та"
@@ -1057,7 +1058,7 @@
  
  ### Dorin Systems ###
  
- #Dorin 
+ #Dorin
  NAME_Dorin: "Дорин"
  NAME_Dorin_S: "Дорин"
  NAME_Dorin_P1: "Дорин I"
@@ -1088,22 +1089,22 @@
  
  ### Eshani Systems ###
  
- #Eshan 
+ #Eshan
  NAME_Eshan: "Эшан"
  NAME_Eshan_S: "Эшан"
  NAME_Eshan_P1: "Эшан"
  
- #Thyrsus 
+ #Thyrsus
  NAME_Thyrsus: "Тирсус"
  NAME_Thyrsus_S: "Тирсус"
  NAME_Thyrsus_P1: "Тирсус"
  
- #Almera 
+ #Almera
  NAME_Almera: "Альмера"
  NAME_Almera_S: "Альмера"
  NAME_Almera_P1: "Альмера"
  
- #Berchest 
+ #Berchest
  NAME_Berchest: "Берчест"
  NAME_Berchest_S: "Берчест"
  NAME_Berchest_P1: "Берчест"
@@ -1196,22 +1197,22 @@
  NAME_Hapes_P2_7: "Луна Хейпса VII"
  NAME_Hapes_P3: "Каван"
  
- #Roqoo Depot 
+ #Roqoo Depot
  NAME_Roqoo_Depot: "Станция Рокоо"
  NAME_Roqoo_Depot_S: "Звезда Рокоо"
  NAME_Roqoo_Depot_P1: "Станция Рокоо"
  
- #Dreena 
+ #Dreena
  NAME_Dreena: "Дрина"
  NAME_Dreena_S: "Дрина"
  NAME_Dreena_P1: "Дрина"
  
- #Andalia 
+ #Andalia
  NAME_Andalia: "Андалия"
  NAME_Andalia_S: "Андалия"
  NAME_Andalia_P1: "Андалия"
  
- #Jodaka 
+ #Jodaka
  NAME_Jodaka: "Джодака"
  NAME_Jodaka_S: "Джодака"
  NAME_Jodaka_P1: "Джодака"
@@ -1250,7 +1251,7 @@
  NAME_Gamorr_P2: "Аг'гор"
  NAME_Gamorr_P3: "Гаморр"
  NAME_Gamorr_P3_1: "Гаморр I"
- NAME_Gamorr_P3_2: "Гаморр II" #changed. It was: Gamorr I
+ NAME_Gamorr_P3_2: "Гаморр II"
  NAME_Gamorr_P4: "Опиол"
  NAME_Gamorr_P4_1: "Опиол I"
  NAME_Gamorr_P5: "Лок Трул"
@@ -1259,7 +1260,7 @@
  NAME_Gamorr_P5_3: "Лок Трул XI"
  NAME_Gamorr_P6: "Тунек"
  
- #Nar Bo Sholla 
+ #Nar Bo Sholla
  NAME_Nar_Bo_Sholla: "Нар Бо Шолла"
  NAME_Nar_Bo_Sholla_S: "Нар Бо Шолла"
  NAME_Nar_Bo_Sholla_P1: "Нар Бо Шолла I"
@@ -1280,35 +1281,35 @@
  NAME_Toydaria: "Тойдария"
  NAME_Toydaria_S: "Тойдар"
  NAME_Toydaria_P1: "Кредквант"
- NAME_Toydaria_P1_1: "Кредквант I" #changed*.
- NAME_Toydaria_P1_2: "Кредквант II" #changed*.
- NAME_Toydaria_P1_3: "Кредквант III" #changed*.
- NAME_Toydaria_P1_4: "Кредквант IV" #changed*.
+ NAME_Toydaria_P1_1: "Кредквант I"
+ NAME_Toydaria_P1_2: "Кредквант II"
+ NAME_Toydaria_P1_3: "Кредквант III"
+ NAME_Toydaria_P1_4: "Кредквант IV"
  NAME_Toydaria_P2: "Нубиса"
  NAME_Toydaria_P3: "Тойдария"
  NAME_Toydaria_P3_1: "Тойдария-I"
  NAME_Toydaria_P3_2: "Тойдария-II"
  NAME_Toydaria_P3_3: "Тойдария-III"
  NAME_Toydaria_P4: "Зиукс"
- NAME_Toydaria_P4_1: "Зиукс I" #changed*.
- NAME_Toydaria_P4_2: "Зиукс II" #changed*.
- NAME_Toydaria_P4_3: "Зиукс III" #changed*.
- NAME_Toydaria_P4_4: "Зиукс IV" #changed*.
- NAME_Toydaria_P4_5: "Зиукс V" #changed*.
- NAME_Toydaria_P4_6: "Зиукс VI" #changed*.
- NAME_Toydaria_P4_7: "Зиукс VII" #changed*.
- NAME_Toydaria_P4_8: "Зиукс VIII" #changed*.
+ NAME_Toydaria_P4_1: "Зиукс I"
+ NAME_Toydaria_P4_2: "Зиукс II"
+ NAME_Toydaria_P4_3: "Зиукс III"
+ NAME_Toydaria_P4_4: "Зиукс IV"
+ NAME_Toydaria_P4_5: "Зиукс V"
+ NAME_Toydaria_P4_6: "Зиукс VI"
+ NAME_Toydaria_P4_7: "Зиукс VII"
+ NAME_Toydaria_P4_8: "Зиукс VIII"
  NAME_Toydaria_P5: "Дальний Зиукс"
- NAME_Toydaria_P5_1: "Дальний Зиукс I" #changed*.
- NAME_Toydaria_P5_2: "Дальний Зиукс II" #changed*.
- NAME_Toydaria_P5_3: "Дальний Зиукс III" #changed*.
- NAME_Toydaria_P5_4: "Дальний Зиукс IV" #changed*.
- NAME_Toydaria_P5_5: "Дальний Зиукс V" #changed*.
- NAME_Toydaria_P5_6: "Дальний Зиукс VI" #changed*.
+ NAME_Toydaria_P5_1: "Дальний Зиукс I"
+ NAME_Toydaria_P5_2: "Дальний Зиукс II"
+ NAME_Toydaria_P5_3: "Дальний Зиукс III"
+ NAME_Toydaria_P5_4: "Дальний Зиукс IV"
+ NAME_Toydaria_P5_5: "Дальний Зиукс V"
+ NAME_Toydaria_P5_6: "Дальний Зиукс VI"
  NAME_Toydaria_P6: "Фиу"
  #* - In other languages it turned out the following: Ziux+a = Ziuxa
  
- #Nar Kreeta 
+ #Nar Kreeta
  NAME_Nar_Kreeta: "Нар Крита"
  NAME_Nar_Kreeta_S: "Нар Крита"
  NAME_Nar_Kreeta_P1: "Нар Крита I"
@@ -1323,7 +1324,7 @@
  NAME_Nar_Kreeta_P4_4: "Нар Крита IVd"
  NAME_Nar_Kreeta_P4_5: "Нар Крита IVe"
  
- #Du Hutta 
+ #Du Hutta
  NAME_Du_Hutta: "Дю Хатта"
  NAME_Du_Hutta_S: "Дю Хатта"
  NAME_Du_Hutta_P1: "Дю Хатта"
@@ -1346,7 +1347,7 @@
  NAME_Rorak_P4: "Рорак IV"
  NAME_Rorak_P5: "Рорак V"
  
- #Circumtore 
+ #Circumtore
  NAME_Circumtore: "Циркумтор"
  NAME_Circumtore_S: "Циркумтор"
  NAME_Circumtore_P1_1: "Циркумтор"
@@ -1362,12 +1363,12 @@
  NAME_Circumtore_P1_11: "Циркумтор"
  NAME_Circumtore_P1_12: "Циркумтор"
  
- #Ilos 
+ #Ilos
  NAME_Ilos: "Илос"
  NAME_Ilos_S: "Илос"
  NAME_Ilos_P1: "Илос"
  
- #Sleheyron 
+ #Sleheyron
  NAME_Sleheyron: "Слехейрон"
  NAME_Sleheyron_S: "Слехейрон"
  NAME_Sleheyron_P1: "Слехейрон I"
@@ -1380,10 +1381,10 @@
  NAME_Sleheyron_P4_4: "Слехейрон IVd"
  NAME_Sleheyron_P4_5: "Слехейрон IVe"
  NAME_Sleheyron_P5: "Слехейрон V"
-
+ 
  ### Imperial Sector System ###
  
- #Fondor 
+ #Fondor
  NAME_Fondor: "Фондор"
  NAME_Fondor_S: "Фондор"
  NAME_Fondor_P1: "Фалиар"
@@ -1407,12 +1408,12 @@
  NAME_Fondor_P4_5: "Фондор VIIe"
  NAME_Fondor_P4_6: "Фондор VIIf"
  
- #Foless 
+ #Foless
  NAME_Foless: "Фолесс"
  NAME_Foless_S: "Фолесс"
  NAME_Foless_P1: "Фолесс"
  
- #Affa 
+ #Affa
  NAME_Affa: "Аффа"
  NAME_Affa_S: "Аффа"
  NAME_Affa_P1: "Аффа"
@@ -1421,7 +1422,7 @@
  NAME_Affa_P1_3: "Луна Аффа III"
  NAME_Affa_P1_4: "Луна Аффа IV"
  
- #Naboo 
+ #Naboo
  NAME_Naboo: "Набу"
  NAME_Naboo_S: "Набу"
  NAME_Naboo_P1: "Мот"
@@ -1447,17 +1448,17 @@
  NAME_Naboo_P5_11: "Шторм-XXXII"
  NAME_Naboo_P6: "Бепур"
  
- #Tentrix 
+ #Tentrix
  NAME_Tentrix: "Тентрикс"
  NAME_Tentrix_S: "Тентрикс"
  NAME_Tentrix_P1: "Тентрикс"
  
- #Alassa Major 
+ #Alassa Major
  NAME_Alassa_Major: "Большой Аласса"
  NAME_Alassa_Major_S: "Большой Аласса"
  NAME_Alassa_Major_P1: "Большой Аласса"
  
-### Imperial systems ###
+ ### Imperial Systems ###
 
  #Coruscant
  NAME_Coruscant: "Корусант"
@@ -1692,17 +1693,17 @@
  
  ### Javin Systems ###
  
- #Javin 
+ #Javin
  NAME_Javin: "Джавин"
  NAME_Javin_S: "Джавин"
  NAME_Javin_P1: "Джавин"
  
- #Gerrenthum 
+ #Gerrenthum
  NAME_Gerrenthum: "Гаррентум"
  NAME_Gerrenthum_S: "Гаррентум"
  NAME_Gerrenthum_P1: "Гаррентум"
  
- #Bespin 
+ #Bespin
  NAME_Bespin: "Беспин"
  NAME_Bespin_S: "Беспин"
  NAME_Bespin_P1: "Мисер"
@@ -1715,22 +1716,22 @@
  NAME_Bespin_P3_5: "Друдонна"
  NAME_Bespin_P3_6: "Беспин-X"
  
- #Cargamalis 
+ #Cargamalis
  NAME_Cargamalis: "Каргамалис"
  NAME_Cargamalis_S: "Каргамалис"
  NAME_Cargamalis_P1: "Каргамалис"
  
- #Council 
+ #Council
  NAME_Council: "Консул"
  NAME_Council_S: "Консул"
  NAME_Council_P1: "Консул"
  
- #Bendeluum 
+ #Bendeluum
  NAME_Bendeluum: "Бенделуум"
  NAME_Bendeluum_S: "Бенделуум"
  NAME_Bendeluum_P1: "Бенделуум"
  
- #Ione 
+ #Ione
  NAME_Ione: "Ион"
  NAME_Ione_S: "Ион"
  NAME_Ione_P1: "Ион I"
@@ -1747,7 +1748,7 @@
  
  ### Juvex Systems ###
  
- #Juvex 
+ #Juvex
  NAME_Juvex: "Ювекс"
  NAME_Juvex_S: "Ювекс"
  NAME_Juvex_P1: "Ювекс I"
@@ -1763,25 +1764,25 @@
  NAME_Juvex_P3_6: "Ювекс IIIf"
  NAME_Juvex_P4: "Ювекс IV"
 
- #Kimm Aurek 
+ #Kimm Aurek
  NAME_Kimm_Aurek: "Кимм Аурек"
  NAME_Kimm_Aurek_S: "Кимм Аурек"
  NAME_Kimm_Aurek_P1: "Кимм Аурек"
  
- #Loovria 
+ #Loovria
  NAME_Loovria: "Лооврия"
  NAME_Loovria_S: "Лооврия"
  NAME_Loovria_P1: "Лооврия"
  NAME_Loovria_P1_1: "Лооврия I"
  
- #Pieldi 
+ #Pieldi
  NAME_Pieldi: "Пиелди"
  NAME_Pieldi_S: "Пиелди"
  NAME_Pieldi_P1: "Пиелди"
  
  ### Killik Systems ###
  
- #Yoggoy 
+ #Yoggoy
  NAME_Yoggoy: "Йоггой"
  NAME_Yoggoy_PStar: "Йоггой"
  NAME_Yoggoy_S: "Йоггой"
@@ -1805,7 +1806,7 @@
  
  ### Mandalorian Systems ###
  
- #Mandalore 
+ #Mandalore
  NAME_Mandolore: "Мандалор"
  NAME_Mandolore_S: "Мандалор"
  NAME_Mandolore_P1: "Ног"
@@ -1838,13 +1839,13 @@
  NAME_Mandolore_P8_5: "Шукут-XXX"
  NAME_Mandolore_P9: "Верда"
  
- #Gargon 
+ #Gargon
  NAME_Gargon: "Гаргон"
  NAME_Gargon_S: "Гаргон"
  NAME_Gargon_P1: "Гаргон"
  NAME_Gargon_P2: "Гаргон II"
  
- #Concord Dawn 
+ #Concord Dawn
  NAME_Concord_Dawn: "Конкорд-Доун"
  NAME_Concord_Dawn_S: "Конкорд-Доун"
  NAME_Concord_Dawn_P1: "Конкорд-Доун I"
@@ -1857,7 +1858,7 @@
  NAME_Concord_Dawn_P5_3: "Конкорд-Доун Vc"
  NAME_Concord_Dawn_P5_4: "Конкорд-Доун Vd"
  
- #Ordo 
+ #Ordo
  NAME_Ordo: "Ордо"
  NAME_Ordo_S: "Ордо"
  NAME_Ordo_P1: "Ордо I"
@@ -1872,7 +1873,7 @@
  NAME_Ordo_P4_6: "Ордо IVf"
  NAME_Ordo_P4_7: "Ордо IVg"
  
- #Zanbar 
+ #Zanbar
  NAME_Zanbar: "Занбар"
  NAME_Zanbar_S: "Занбар"
  NAME_Zanbar_P1: "Занбар-Прайм"
@@ -1880,7 +1881,7 @@
  NAME_Zanbar_P2: "Занбар II"
  NAME_Zanbar_P3: "Занбар III"
  
- #Jakelia 
+ #Jakelia
  NAME_Jakelia: "Джакелия"
  NAME_Jakelia_S: "Джакелия"
  NAME_Jakelia_P1: "Джакелия"
@@ -1931,7 +1932,7 @@
  NAME_Calamari_P7: "Айсберг III"
  NAME_Calamari_P8: "Айсберг IV"
  
- #Eridicon 
+ #Eridicon
  NAME_Eridicon: "Эридикон"
  NAME_Eridicon_S: "Эридикон"
  NAME_Eridicon_P1: "Эридикон I"
@@ -1941,7 +1942,7 @@
  NAME_Eridicon_P5: "Эридикон V"
  NAME_Eridicon_P6: "Эридикон VI"
  
- #Minntooine 
+ #Minntooine
  NAME_Minntooine: "Миннтуин"
  NAME_Minntooine_S: "Миннтуин"
  NAME_Minntooine_P1: "Миннтуин I"
@@ -1957,12 +1958,12 @@
  NAME_Minntooine_P6: "Миннтуин VI"
  NAME_Minntooine_P6_1: "Миннтуин VIa"
  
- #Hinakuu 
+ #Hinakuu
  NAME_Hinakuu: "Хинакуу"
  NAME_Hinakuu_S: "Хинакуу"
  NAME_Hinakuu_P1: "Хинакуу"
  
- #Buchich 
+ #Buchich
  NAME_Buchich: "Бучич"
  NAME_Buchich_S: "Бучич"
  NAME_Buchich_P1: "Бучич"
@@ -1999,10 +2000,10 @@
  NAME_Japrael_P7_1: "Твинг-I"
  NAME_Japrael_P7_2: "Твинг-II"
  NAME_Japrael_P7_3: "Твинг-XXII"
- NAME_Japrael_P8: "Оверт" #changed. It was: Twing
- NAME_Japrael_P8_1: "Оверт-I" #changed. It was: Twing I
- NAME_Japrael_P8_2: "Оверт-II" #changed. It was: Twing II
- NAME_Japrael_P8_3: "Оверт-IX" #changed. It was: Twing IX
+ NAME_Japrael_P8: "Оверт"
+ NAME_Japrael_P8_1: "Оверт-I"
+ NAME_Japrael_P8_2: "Оверт-II"
+ NAME_Japrael_P8_3: "Оверт-IX"
  
  ### Pantoran Systems ###
  
@@ -2060,14 +2061,14 @@
  NAME_Tyrius_P4_11: "Тусма-XVIII"
  NAME_Tyrius_P5: "Таоска"
  
- #Utaruun 
+ #Utaruun
  NAME_Utaruun: "Утаруун"
  NAME_Utaruun_S: "Утаруун"
  NAME_Utaruun_P1: "Утаруун"
  
  ### Ryloth Systems ###
  
- #Ryloth 
+ #Ryloth
  NAME_Ryloth: "Рилот"
  NAME_Ryloth_S: "Рилот"
  NAME_Ryloth_P1: "Мон Бала"
@@ -2098,7 +2099,7 @@
  
  ### Taanab Systems ###
  
- #Taanab 
+ #Taanab
  NAME_Taanab: "Таанаб"
  NAME_Taanab_S: "Тив"
  NAME_Taanab_P1: "Майрон"
@@ -2129,7 +2130,7 @@
  NAME_Taanab_P8_1: "Индар-I"
  NAME_Taanab_P8_2: "Индар-II"
  
- #Tirahnn 
+ #Tirahnn
  NAME_Tirahnn: "Тиранн"
  NAME_Tirahnn_S: "Тиранн"
  NAME_Tirahnn_P1: "Марджун"
@@ -2152,7 +2153,7 @@
  NAME_Tirahnn_P4_5: "Иджол-XIV"
  NAME_Tirahnn_P5: "Кес"
  
- #Lantillies 
+ #Lantillies
  NAME_Lantillies: "Лантиллес"
  NAME_Lantillies_S: "Лантиллес"
  NAME_Lantillies_P1: "Лантиллес"
@@ -2176,7 +2177,7 @@
  NAME_Desevro_P2_1: "Мун"
  NAME_Desevro_P3: "Гаутер"
  
- #Lianna 
+ #Lianna
  NAME_Lianna: "Лианна"
  NAME_Lianna_S: "Лианна"
  NAME_Lianna_P1: "Девато"
@@ -2198,7 +2199,7 @@
  NAME_Lianna_P6_4: "Адинай-VIII"
  NAME_Lianna_P7: "Ниддион"
  
- #Saleucami 
+ #Saleucami
  NAME_Saleucami: "Салеуками"
  NAME_Saleucami_S: "Стиссте"
  NAME_Saleucami_P1: "Юнкен"
@@ -2226,7 +2227,7 @@
  NAME_Saleucami_P6_7: "Писмария-XXXII"
  NAME_Saleucami_P7: "Тонджуми"
  
- #Centares 
+ #Centares
  NAME_Centares: "Центарес"
  NAME_Centares_S: "Центарес"
  NAME_Centares_P1: "Файло"
@@ -2256,7 +2257,7 @@
  NAME_Wheel_S: "Беш-Горгон"
  NAME_Wheel_P1: "Станция Колесо"
  
- #New Holstice 
+ #New Holstice
  NAME_New_Holstice: "Нью Холстис"
  NAME_New_Holstice_S: "Нью Холстис"
  NAME_New_Holstice_P1: "Нью Холстис"
@@ -2276,7 +2277,7 @@
  NAME_Peg_Shar_P5: "Пег Шар V"
  NAME_Peg_Shar_P6: "Пег Шар VI"
  
- #Tion 
+ #Tion
  NAME_Tion: "Тион"
  NAME_Tion_S1: "Тион A"
  NAME_Tion_S2: "Тион B"
@@ -2315,12 +2316,12 @@
  NAME_Neimodia_P5_6: "Партайну-VI"
  NAME_Neimodia_P5_7: "Партайну-VII"
  
- #Foundry 
+ #Foundry
  NAME_Foundry: "Фоундри"
  NAME_Foundry_S: "Фоундри"
  NAME_Foundry_P1: "Фоундри"
  
- #Commenor 
+ #Commenor
  NAME_Commenor: "Комменор"
  NAME_Commenor_S: "Комменор"
  NAME_Commenor_P1: "Комменор"
@@ -2506,10 +2507,10 @@
  NAME_Zygerria_P3_1: "Зайгеррия A"
  NAME_Zygerria_P4: "Зайгеррия IV"
  NAME_Zygerria_P5: "Зайгеррия V"
- NAME_Zygerria_P5_1: "Зайгеррия Va" #changed. It was: Kalakar I
- NAME_Zygerria_P5_2: "Зайгеррия Vb" #changed. It was: Kalakar II
- NAME_Zygerria_P5_3: "Зайгеррия Vc" #changed. It was: Kalakar III
- NAME_Zygerria_P5_4: "Зайгеррия Vd" #changed. It was: Kalakar IV
+ NAME_Zygerria_P5_1: "Зайгеррия Va"
+ NAME_Zygerria_P5_2: "Зайгеррия Vb"
+ NAME_Zygerria_P5_3: "Зайгеррия Vc"
+ NAME_Zygerria_P5_4: "Зайгеррия Vd"
  
  #Quermia
  NAME_Quermia: "Квермия"

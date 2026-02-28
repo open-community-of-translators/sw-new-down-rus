@@ -1,2218 +1,2218 @@
 ﻿l_russian:
-	REBEL_SHIP_allegiant: "Allegiant"
-	REBEL_SHIP_consummate: "Consummate"
-	REBEL_SHIP_paragon: "Paragon"
-	REBEL_SHIP_renegade: "Renegade"
-	REBEL_SHIP_magnanimous: "Magnanimous"
-	REBEL_SHIP_magnanimity: "Magnanimity"
-	REBEL_SHIP_virtuous: "Virtuous"
-	REBEL_SHIP_virtuosity: "Virtuosity"
-	REBEL_SHIP_guardian: "Guardian"
-	REBEL_SHIP_champion: "Champion"
-	REBEL_SHIP_fortitude: "Fortitude"
-	REBEL_SHIP_thunderclap: "Thunderclap"
-	REBEL_SHIP_far_thunder: "Far Thunder"
-	REBEL_SHIP_allusis: "Allusis"
-	REBEL_SHIP_anodyne: "Anodyne"
-	REBEL_SHIP_aurora: "Aurora"
-	REBEL_SHIP_star_of_brentaal: "Star of Brentaal"
-	REBEL_SHIP_conductor: "Conductor"
-	REBEL_SHIP_courageous: "Courageous"
-	REBEL_SHIP_nomad: "Nomad"
-	REBEL_SHIP_deference: "Deference"
-	REBEL_SHIP_deliverance: "Deliverance"
-	REBEL_SHIP_derriphan: "Derriphan"
-	REBEL_SHIP_diligence: "Diligence"
-	REBEL_SHIP_dorin_s_sky: "Dorin's Sky"
-	REBEL_SHIP_dragonfly: "Dragonfly"
-	REBEL_SHIP_endar_rebirth: "Endar Rebirth"
-	REBEL_SHIP_enkindler: "Enkindler"
-	REBEL_SHIP_envoy: "Envoy"
-	REBEL_SHIP_esseles: "Esseles"
-	REBEL_SHIP_euphony: "Euphony"
-	REBEL_SHIP_extempus: "Extempus"
-	REBEL_SHIP_farstar: "FarStar"
-	REBEL_SHIP_flame_of_sinthara: "Flame of Sinthara"
-	REBEL_SHIP_flashfire: "Flashfire"
-	REBEL_SHIP_foray: "Foray"
-	REBEL_SHIP_founder: "Founder"
-	REBEL_SHIP_honor_guard: "Honor Guard"
-	REBEL_SHIP_clarion: "Clarion"
-	REBEL_SHIP_star_guardian: "Star Guardian"
-	REBEL_SHIP_gav_daragon: "Gav Daragon"
-	REBEL_SHIP_gilagimar: "Gilagimar"
-	REBEL_SHIP_jurgoran: "Jurgoran"
-	REBEL_SHIP_indefatigable: "Indefatigable"
-	REBEL_SHIP_indignation: "Indignation"
-	REBEL_SHIP_intercessor: "Intercessor"
-	REBEL_SHIP_liberator: "Liberator"
-	REBEL_SHIP_manumission: "Manumission"
-	REBEL_SHIP_emancipator: "Emancipator"
-	REBEL_SHIP_lokani_dawn: "Lokani Dawn"
-	REBEL_SHIP_lancer: "Lancer"
-	REBEL_SHIP_gracious: "Gracious"
-	REBEL_SHIP_nova: "Nova"
-	REBEL_SHIP_valiant: "Valiant"
-	REBEL_SHIP_champion_of_iridonia: "Champion of Iridonia"
-	REBEL_SHIP_dodonna: "Dodonna"
-	REBEL_SHIP_harbinger: "Harbinger"
-	REBEL_SHIP_sojourn: "Sojourn"
-	REBEL_SHIP_tanthior: "Tanthior"
-	REBEL_SHIP_testament: "Testament"
-	REBEL_SHIP_veltraa: "Veltraa"
-	REBEL_SHIP_corvana: "Corvana"
-	REBEL_SHIP_crimson_fleece: "Crimson Fleece"
-	REBEL_SHIP_daybreaker: "Daybreaker"
-	REBEL_SHIP_outrider: "Outrider"
-	REBEL_SHIP_vanguard_s_blade: "Vanguard's Blade"
-	REBEL_SHIP_vanguard: "Vanguard"
-	REBEL_SHIP_windu: "Windu"
-	REBEL_SHIP_charger: "Charger"
-	REBEL_SHIP_selfless: "Selfless"
-	REBEL_SHIP_serenity: "Serenity"
-	REBEL_SHIP_righteous_venture: "Righteous Venture"
-	REBEL_SHIP_organa: "Organa"
-	REBEL_SHIP_protector: "Protector"
-	REBEL_SHIP_warden: "Warden"
-	REBEL_SHIP_defender: "Defender"
-	REBEL_SHIP_absolution: "Absolution"
-	REBEL_SHIP_kenobi: "Kenobi"
-	REBEL_SHIP_billaba: "Billaba"
-	REBEL_SHIP_braylon: "Braylon"
-	REBEL_SHIP_gallia: "Gallia"
-	REBEL_SHIP_general_koth: "General Koth"
-	REBEL_SHIP_lestin: "Lestin"
-	REBEL_SHIP_rancisis: "Rancisis"
-	REBEL_SHIP_sinube: "Sinube"
-	REBEL_SHIP_shaak_ti: "Shaak Ti"
-	REBEL_SHIP_trebor: "Trebor"
-	REBEL_SHIP_vilbum: "Vilbum"
-	REBEL_SHIP_ziveri: "Ziveri"
-	REBEL_SHIP_loyalty: "Loyalty"
-	REBEL_SHIP_mendicant: "Mendicant"
-	REBEL_SHIP_adherent: "Adherent"
-	REBEL_SHIP_peregrine: "Peregrine"
-	REBEL_SHIP_open_hand: "Open Hand"
-	REBEL_SHIP_mediator: "Mediator"
-	REBEL_SHIP_arbiter: "Arbiter"
-	REBEL_SHIP_arbitrator: "Arbitrator"
-	REBEL_SHIP_justice: "Justice"
-	REBEL_SHIP_resolve: "Resolve"
-	REBEL_SHIP_judgement: "Judgement"
-	REBEL_SHIP_conciliator: "Conciliator"
-	REBEL_SHIP_peacemaker: "Peacemaker"
-	REBEL_SHIP_peacekeeper: "Peacekeeper"
-	REBEL_SHIP_tyrannicide: "Tyrannicide"
-	REBEL_SHIP_adjudicator: "Adjudicator"
-	REBEL_SHIP_judicious: "Judicious"
-	REBEL_SHIP_prudence: "Prudence"
-	REBEL_SHIP_savior: "Savior"
-	REBEL_SHIP_vowsworn: "Vowsworn"
-	REBEL_SHIP_preserver: "Preserver"
-	REBEL_SHIP_senate_s_rebuke: "Senate's Rebuke"
-	REBEL_SHIP_rebuker: "Rebuker"
-	REBEL_SHIP_final_argument: "Final Argument"
-	REBEL_SHIP_steward: "Steward"
-	REBEL_SHIP_faithful: "Faithful"
-	REBEL_SHIP_fidelity: "Fidelity"
-	REBEL_SHIP_impartial: "Impartial"
-	REBEL_SHIP_magistrate: "Magistrate"
-	REBEL_SHIP_equalizer: "Equalizer"
-	REBEL_SHIP_temperance: "Temperance"
-	REBEL_SHIP_amidala: "Amidala"
-	REBEL_SHIP_upholder: "Upholder"
-	REBEL_SHIP_constitution: "Constitution"
-	REBEL_SHIP_oathkeeper: "Oathkeeper"
-	REBEL_SHIP_oathsworn: "Oathsworn"
-	REBEL_SHIP_obligation: "Obligation"
-	REBEL_SHIP_righteous: "Righteous"
-	REBEL_SHIP_irreprochable: "Irreprochable"
-	REBEL_SHIP_legend: "Legend"
-	REBEL_SHIP_remitter: "Remitter"
-	REBEL_SHIP_chainbreaker: "Chainbreaker"
-	REBEL_SHIP_heroic: "Heroic"
-	REBEL_SHIP_hero_of_tython: "Hero of Tython"
-	REBEL_SHIP_lord_hoth: "Lord Hoth"
-	REBEL_SHIP_valorum: "Valorum"
-	REBEL_SHIP_lightbringer: "Lightbringer"
-	REBEL_SHIP_illuminator: "Illuminator"
-	REBEL_SHIP_resurgent: "Resurgent"
-	REBEL_SHIP_new_hope: "New Hope"
-	REBEL_SHIP_rising_fire: "Rising Fire"
-	REBEL_SHIP_ranger: "Ranger"
-	REBEL_SHIP_judicial: "Judicial"
-	REBEL_SHIP_indecta: "Indecta"
-	REBEL_SHIP_qu_rhan: "Qu Rhan"
-	REBEL_SHIP_inquest: "Inquest"
-	REBEL_SHIP_antecedent: "Antecedent"
-	REBEL_SHIP_presidium: "Presidium"
-	REBEL_SHIP_lightning: "Lightning"
-	REBEL_SHIP_luminous: "Luminous"
-	REBEL_SHIP_remembrance: "Remembrance"
-	REBEL_SHIP_condemner: "Condemner"
-	REBEL_SHIP_restoration: "Restoration"
-	REBEL_SHIP_restorer: "Restorer"
-	REBEL_SHIP_ardent_glare: "Ardent Glare"
-	REBEL_SHIP_broken_sword: "Broken Sword"
-	REBEL_SHIP_lightcharger: "Lightcharger"
-	REBEL_SHIP_gallant: "Gallant"
-	REBEL_SHIP_lionheart: "Lionheart"
-	REBEL_SHIP_fearless: "Fearless"
-	REBEL_SHIP_intrepid: "Intrepid"
-	REBEL_SHIP_freedom_s_call: "Freedom's Call"
-	REBEL_SHIP_collective_will: "Collective Will"
-	REBEL_SHIP_profundity: "Profundity"
-	REBEL_SHIP_stardust: "Stardust"
-	REBEL_SHIP_partisan: "Partisan"
-	REBEL_SHIP_spirit_of_fire: "Spirit of Fire"
-	REBEL_SHIP_caamasi_dream: "Caamasi Dream"
-	REBEL_SHIP_declaration: "Declaration"
-	REBEL_SHIP_independence: "Independence"
-	REBEL_SHIP_guarantor: "Guarantor"
-	REBEL_SHIP_junari: "Junari"
-	REBEL_SHIP_andraste: "Andraste"
-	REBEL_SHIP_andrasha: "Andrasha"
-	REBEL_SHIP_solar_voice: "Solar Voice"
-	REBEL_SHIP_vox: "Vox"
-	REBEL_SHIP_democrat: "Democrat"
-	REBEL_SHIP_republican: "Republican"
-	REBEL_SHIP_spire_of_war: "Spire of War"
-	REBEL_SHIP_warchild: "Warchild"
-	REBEL_SHIP_governor_bibble: "Governor Bibble"
-	REBEL_SHIP_advisor: "Advisor"
-	REBEL_SHIP_councilor: "Councilor"
-	REBEL_SHIP_panaka: "Panaka"
-	REBEL_SHIP_jamillia: "Jamillia"
-	REBEL_SHIP_typho: "Typho"
-	REBEL_SHIP_jukassa: "Jukassa"
-	REBEL_SHIP_final_chance: "Final Chance"
-	REBEL_SHIP_due_process: "Due Process"
-	REBEL_SHIP_roughrider: "Roughrider"
-	REBEL_SHIP_outlander: "Outlander"
-	REBEL_SHIP_c_baoth: "C'baoth"
-	REBEL_SHIP_advocate: "Advocate"
-	REBEL_SHIP_sacred_duty: "Sacred Duty"
-	REBEL_SHIP_beacon: "Beacon"
-	REBEL_SHIP_oasis: "Oasis"
-	REBEL_SHIP_outspoken: "Outspoken"
-	REBEL_SHIP_conscientious: "Conscientious"
-	REBEL_SHIP_objector: "Objector"
-	REBEL_SHIP_diligent: "Diligent"
-	REBEL_SHIP_persevere: "Persevere"
-	REBEL_SHIP_perseverance: "Perseverance"
-	REBEL_SHIP_rigorous: "Rigorous"
-	REBEL_SHIP_rectifier: "Rectifier"
-	REBEL_SHIP_regulator: "Regulator"
-	REBEL_SHIP_tolerance: "Tolerance"
-	REBEL_SHIP_heartlander: "Heartlander"
-	REBEL_SHIP_pride_of_the_rim: "Pride of the Rim"
-	REBEL_SHIP_shield_of_the_rim: "Shield of the Rim"
-	REBEL_SHIP_volition: "Volition"
-	REBEL_SHIP_absolver: "Absolver"
-	REBEL_SHIP_deliberator: "Deliberator"
-	REBEL_SHIP_union: "Union"
-	REBEL_SHIP_obviator: "Obviator"
-	REBEL_SHIP_intractable: "Intractable"
-	REBEL_SHIP_imperator_vex: "Imperator Vex"
-	REBEL_SHIP_avenger: "Avenger"
-	REBEL_SHIP_abolisher: "Abolisher"
-	REBEL_SHIP_accordance: "Accordance"
-	REBEL_SHIP_admonition: "Admonition"
-	REBEL_SHIP_aelena: "Aelena"
-	REBEL_SHIP_aeolus: "Aeolus"
-	REBEL_SHIP_agitator: "Agitator"
-	REBEL_SHIP_akaga: "Akaga"
-	REBEL_SHIP_alliance: "Alliance"
-	REBEL_SHIP_another_chance: "Another Chance"
-	REBEL_SHIP_angelus: "Angelus"
-	REBEL_SHIP_antarra: "Antarra"
-	REBEL_SHIP_anuti: "Anuti"
-	REBEL_SHIP_ardent: "Ardent"
-	REBEL_SHIP_arsenal: "Arsenal"
-	REBEL_SHIP_arion_star: "Arion Star"
-	REBEL_SHIP_arkanian_guard: "Arkanian Guard"
-	REBEL_SHIP_arrow_of_sullust: "Arrow of Sullust"
-	REBEL_SHIP_aspiration: "Aspiration"
-	REBEL_SHIP_inspiration: "Inspiration"
-	REBEL_SHIP_athega: "Athega"
-	REBEL_SHIP_auric: "Auric"
-	REBEL_SHIP_autonomy: "Autonomy"
-	REBEL_SHIP_axet: "Axet"
-	REBEL_SHIP_azure: "Azure"
-	REBEL_SHIP_black_ice: "Black Ice"
-	REBEL_SHIP_redressor: "Redressor"
-	REBEL_SHIP_valorant: "Valorant"
-	REBEL_SHIP_old_glory: "Old Glory"
-	REBEL_SHIP_republic_dawn: "Republic Dawn"
-	REBEL_SHIP_mercy: "Mercy"
-	REBEL_SHIP_aegis: "Aegis"
-	REBEL_SHIP_firebird: "Firebird"
-	REBEL_SHIP_freebird: "Freebird"
-	REBEL_SHIP_freeholder: "Freeholder"
-	REBEL_SHIP_elector: "Elector"
-	REBEL_SHIP_resister: "Resister"
-	REBEL_SHIP_paladin: "Paladin"
-	REBEL_SHIP_rebel_yell: "Rebel Yell"
-	REBEL_SHIP_ironhide: "Ironhide"
-	REBEL_SHIP_ironside: "Ironside"
-	REBEL_SHIP_remunerator: "Remunerator"
-	REBEL_SHIP_sacred_charge: "Sacred Charge"
-	REBEL_SHIP_flame_of_liberty: "Flame of Liberty"
-	REBEL_SHIP_thronebreaker: "Thronebreaker"
-	REBEL_SHIP_philosopher_queen: "Philosopher Queen"
-	REBEL_SHIP_noble_obligation: "Noble Obligation"
-	REBEL_SHIP_warcry: "Warcry"
-	REBEL_SHIP_unwavering: "Unwavering"
-	REBEL_SHIP_irreproachable: "Irreproachable"
-	REBEL_SHIP_irrevocable: "Irrevocable"
-	REBEL_SHIP_patriot_blood: "Patriot Blood"
-	REBEL_SHIP_lifegiver: "Lifegiver"
-	REBEL_SHIP_fervent: "Fervent"
-	REBEL_SHIP_fomentor: "Fomentor"
-	REBEL_SHIP_mentor: "Mentor"
-	REBEL_SHIP_entreaty: "Entreaty"
-	REBEL_SHIP_thunderhawk: "Thunderhawk"
-	REBEL_SHIP_bastilla: "Bastilla"
-	REBEL_SHIP_satele: "Satele"
-	REBEL_SHIP_leontyne_saresh: "Leontyne Saresh"
-	REBEL_SHIP_affeltelti: "Affeltelti"
-	REBEL_SHIP_tol_cressa: "Tol Cressa"
-	REBEL_SHIP_paran_am_ris: "Paran Am-Ris"
-	REBEL_SHIP_chancellor_berooken: "Chancellor Berooken"
-	REBEL_SHIP_chancellor_blotus: "Chancellor Blotus"
-	REBEL_SHIP_biel_ductavis: "Biel Ductavis"
-	REBEL_SHIP_chancellor_eddicus: "Chancellor Eddicus"
-	REBEL_SHIP_chancellor_fillorean: "Chancellor Fillorean"
-	REBEL_SHIP_consular: "Consular"
-	REBEL_SHIP_chancellor_genarra: "Chancellor Genarra"
-	REBEL_SHIP_barsen_thor: "Barsen'thor"
-	REBEL_SHIP_dorian_janarus: "Dorian Janarus"
-	REBEL_SHIP_kirames_kaj: "Kirames Kaj"
-	REBEL_SHIP_gnost_dural: "Gnost-Dural"
-	REBEL_SHIP_signet_mezzileen: "Signet Mezzileen"
-	REBEL_SHIP_waymancer: "Waymancer"
-	REBEL_SHIP_chancellor_nagratha: "Chancellor Nagratha"
-	REBEL_SHIP_vaila_pecivas: "Vaila Pecivas"
-	REBEL_SHIP_chasen_piian: "Chasen Piian"
-	REBEL_SHIP_chancellor_pultimo: "Chancellor Pultimo"
-	REBEL_SHIP_galena_rans: "Galena Rans"
-	REBEL_SHIP_chancellor_sidrona: "Chancellor Sidrona"
-	REBEL_SHIP_lina_soh: "Lina Soh"
-	REBEL_SHIP_chancellor_vedij: "Chancellor Vedij"
-	REBEL_SHIP_redoubtable: "Redoubtable"
-	REBEL_SHIP_dauntless: "Dauntless"
-	REBEL_SHIP_undaunted: "Undaunted"
-	REBEL_SHIP_wayfarer: "Wayfarer"
-	REBEL_SHIP_bellerophon: "Bellerophon"
-	REBEL_SHIP_blackjack: "Blackjack"
-	REBEL_SHIP_blue_queen: "Blue Queen"
-	REBEL_SHIP_blue_wave: "Blue Wave"
-	REBEL_SHIP_bonderium: "Bonderium"
-	REBEL_SHIP_braha_tok: "Braha'tok"
-	REBEL_SHIP_bravado: "Bravado"
-	REBEL_SHIP_breha: "Breha"
-	REBEL_SHIP_bright_hope: "Bright Hope"
-	REBEL_SHIP_cadmus: "Cadmus"
-	REBEL_SHIP_candor: "Candor"
-	REBEL_SHIP_canopus: "Canopus"
-	REBEL_SHIP_carpagian: "Carpagian"
-	REBEL_SHIP_cathleen: "Cathleen"
-	REBEL_SHIP_celestial: "Celestial"
-	REBEL_SHIP_celestial_dancer: "Celestial Dancer"
-	REBEL_SHIP_chancellor: "Chancellor"
-	REBEL_SHIP_chaser: "Chaser"
-	REBEL_SHIP_cimigo: "Cimigo"
-	REBEL_SHIP_cobra: "Cobra"
-	REBEL_SHIP_coen: "Coen"
-	REBEL_SHIP_colada: "Colada"
-	REBEL_SHIP_compassion: "Compassion"
-	REBEL_SHIP_compellor: "Compellor"
-	REBEL_SHIP_consonance: "Consonance"
-	REBEL_SHIP_constant_spirit: "Constant Spirit"
-	REBEL_SHIP_corellia_star: "Corellia Star"
-	REBEL_SHIP_corellian_thunder: "Corellian Thunder"
-	REBEL_SHIP_crescent: "Crescent"
-	REBEL_SHIP_cretacian: "Cretacian"
-	REBEL_SHIP_criterios: "Criterios"
-	REBEL_SHIP_cutter: "Cutter"
-	REBEL_SHIP_crucible: "Crucible"
-	REBEL_SHIP_cruuz: "Cruuz"
-	REBEL_SHIP_cygnate: "Cygnate"
-	REBEL_SHIP_dantin_s_folly: "Dantin's Folly"
-	REBEL_SHIP_dargon: "Dargon"
-	REBEL_SHIP_dawn: "Dawn"
-	REBEL_SHIP_daynora: "Daynora"
-	REBEL_SHIP_dead_reckoning: "Dead Reckoning"
-	REBEL_SHIP_defector: "Defector"
-	REBEL_SHIP_desert_jewel: "Desert Jewel"
-	REBEL_SHIP_devaron: "Devaron"
-	REBEL_SHIP_deviant: "Deviant"
-	REBEL_SHIP_dire_hound: "Dire Hound"
-	REBEL_SHIP_dodger: "Dodger"
-	REBEL_SHIP_dodonna_s_pride: "Dodonna's Pride"
-	REBEL_SHIP_drago: "Drago"
-	REBEL_SHIP_dragon: "Dragon"
-	REBEL_SHIP_dream_runner: "Dream Runner"
-	REBEL_SHIP_drogon: "Drogon"
-	REBEL_SHIP_echelon_one: "Echelon One"
-	REBEL_SHIP_echelon_two: "Echelon Two"
-	REBEL_SHIP_eleusis: "Eleusis"
-	REBEL_SHIP_endeavor: "Endeavor"
-	REBEL_SHIP_enigma: "Enigma"
-	REBEL_SHIP_equator: "Equator"
-	REBEL_SHIP_equity: "Equity"
-	REBEL_SHIP_esperance: "Esperance"
-	REBEL_SHIP_ethar: "Ethar"
-	REBEL_SHIP_eucliptan_morae: "Eucliptan Morae"
-	REBEL_SHIP_evening_star: "Evening Star"
-	REBEL_SHIP_excelsior: "Excelsior"
-	REBEL_SHIP_fa_loh_sui: "Fa-Loh-Sui"
-	REBEL_SHIP_falcarieae: "Falcarieae"
-	REBEL_SHIP_farrely: "Farrely"
-	REBEL_SHIP_fey_lya_s_pride: "Fey'lya's Pride"
-	REBEL_SHIP_firefox: "Firefox"
-	REBEL_SHIP_dancer: "Dancer"
-	REBEL_SHIP_foresight: "Foresight"
-	REBEL_SHIP_fortressa: "Fortressa"
-	REBEL_SHIP_free_lance: "Free Lance"
-	REBEL_SHIP_freedom_s_run: "Freedom's Run"
-	REBEL_SHIP_fury_of_alderaan: "Fury of Alderaan"
-	REBEL_SHIP_g_nagnib: "G'Nagnib"
-	REBEL_SHIP_gaaltura_v: "Gaaltura V"
-	REBEL_SHIP_gafra: "Gafra"
-	REBEL_SHIP_gallant_haven: "Gallant Haven"
-	REBEL_SHIP_gambit: "Gambit"
-	REBEL_SHIP_garel_s_honor: "Garel's Honor"
-	REBEL_SHIP_gargon: "Gargon"
-	REBEL_SHIP_gatekeeper: "Gatekeeper"
-	REBEL_SHIP_geddawai: "Geddawai"
-	REBEL_SHIP_geist: "Geist"
-	REBEL_SHIP_goldhawk: "Goldhawk"
-	REBEL_SHIP_grey_damsel: "Grey Damsel"
-	REBEL_SHIP_on_griffon_s_wings: "On Griffon's Wings"
-	REBEL_SHIP_hammer: "Hammer"
-	REBEL_SHIP_handree: "Handree"
-	REBEL_SHIP_harthusa_s_pride: "Harthusa's Pride"
-	REBEL_SHIP_harvest_moon: "Harvest Moon"
-	REBEL_SHIP_haven: "Haven"
-	REBEL_SHIP_heartbound: "Heartbound"
-	REBEL_SHIP_herald: "Herald"
-	REBEL_SHIP_horizon: "Horizon"
-	REBEL_SHIP_hornet: "Hornet"
-	REBEL_SHIP_hunter: "Hunter"
-	REBEL_SHIP_howlrunner: "Howlrunner"
-	REBEL_SHIP_huntress: "Huntress"
-	REBEL_SHIP_fair_wind: "Fair Wind"
-	REBEL_SHIP_illian: "Illian"
-	REBEL_SHIP_ina_angs_star: "Ina'angs Star"
-	REBEL_SHIP_incomparable: "Incomparable"
-	REBEL_SHIP_invictus: "Invictus"
-	REBEL_SHIP_invincible_faith: "Invincible Faith"
-	REBEL_SHIP_ithor: "Ithor"
-	REBEL_SHIP_jakal: "Jakal"
-	REBEL_SHIP_jaina_s_light: "Jaina's Light"
-	REBEL_SHIP_jester: "Jester"
-	REBEL_SHIP_keeper: "Keeper"
-	REBEL_SHIP_khaaza_k: "Khaaza'k"
-	REBEL_SHIP_knife_s_edge: "Knife's Edge"
-	REBEL_SHIP_knight_errant: "Knight Errant"
-	REBEL_SHIP_final_quest: "Final Quest"
-	REBEL_SHIP_korolev: "Korolev"
-	REBEL_SHIP_kracken: "Kracken"
-	REBEL_SHIP_lacoda: "Lacoda"
-	REBEL_SHIP_seeker: "Seeker"
-	REBEL_SHIP_without_hesitation: "Without Hesitation"
-	REBEL_SHIP_incorrigible: "Incorrigible"
-	REBEL_SHIP_firebreaker: "Firebreaker"
-	REBEL_SHIP_wherewithal: "Wherewithal"
-	REBEL_SHIP_inner_strength: "Inner Strength"
-	REBEL_SHIP_hellraiser: "Hellraiser"
-	REBEL_SHIP_hellraker: "Hellraker"
-	REBEL_SHIP_senate_s_consent: "Senate's Consent"
-	REBEL_SHIP_arm_of_the_senate: "Arm of the Senate"
-	REBEL_SHIP_scales_of_justice: "Scales of Justice"
-	REBEL_SHIP_lady_justice: "Lady Justice"
-	REBEL_SHIP_harmony: "Harmony"
-	REBEL_SHIP_token_of_resistance: "Token of Resistance"
-	REBEL_SHIP_mirage: "Mirage"
-	REBEL_SHIP_will_o__wisp: "Will-o'-Wisp"
-	REBEL_SHIP_odyssey: "Odyssey"
-	REBEL_SHIP_unforeseeable: "Unforeseeable"
-	REBEL_SHIP_unforgiven: "Unforgiven"
-	REBEL_SHIP_repudiatory: "Repudiatory"
-	REBEL_SHIP_repudiation: "Repudiation"
-	REBEL_SHIP_high_tide: "High Tide"
-	REBEL_SHIP_just_cause: "Just Cause"
-	REBEL_SHIP_ratifier: "Ratifier"
-	REBEL_SHIP_ratification: "Ratification"
-	REBEL_SHIP_open_forum: "Open Forum"
-	REBEL_SHIP_open_air: "Open Air"
-	REBEL_SHIP_introspection: "Introspection"
-	REBEL_SHIP_remedial: "Remedial"
-	REBEL_SHIP_chandrila_skies: "Chandrila Skies"
-	REBEL_SHIP_compass_star: "Compass Star"
-	REBEL_SHIP_coriolis: "Coriolis"
-	REBEL_SHIP_daring: "Daring"
-	REBEL_SHIP_fireborn: "Fireborn"
-	REBEL_SHIP_firethorn: "Firethorn"
-	REBEL_SHIP_galactic_voyager: "Galactic Voyager"
-	REBEL_SHIP_loyal_defender: "Loyal Defender"
-	REBEL_SHIP_mawrunner: "Mawrunner"
-	REBEL_SHIP_panther_star: "Panther Star"
-	REBEL_SHIP_peacebringer: "Peacebringer"
-	REBEL_SHIP_quarren_eye: "Quarren Eye"
-	REBEL_SHIP_rebel_dream: "Rebel Dream"
-	REBEL_SHIP_ralroost: "Ralroost"
-	REBEL_SHIP_redclaw: "Redclaw"
-	REBEL_SHIP_redheart: "Redheart"
-	REBEL_SHIP_redstar: "Redstar"
-	REBEL_SHIP_resilient: "Resilient"
-	REBEL_SHIP_resolute: "Resolute"
-	REBEL_SHIP_revival: "Revival"
-	REBEL_SHIP_sarpentia: "Sarpentia"
-	REBEL_SHIP_scarlet_star: "Scarlet Star"
-	REBEL_SHIP_spritespray: "Spritespray"
-	REBEL_SHIP_starhook: "Starhook"
-	REBEL_SHIP_starrunner: "Starrunner"
-	REBEL_SHIP_starsider: "Starsider"
-	REBEL_SHIP_trickster: "Trickster"
-	REBEL_SHIP_trucemaker: "Trucemaker"
-	REBEL_SHIP_verity: "Verity"
-	REBEL_SHIP_vortex_wind: "Vortex Wind"
-	REBEL_SHIP_reckoner: "Reckoner"
-	REBEL_SHIP_last_hope: "Last Hope"
-	REBEL_SHIP_leap_of_faith: "Leap of Faith"
-	REBEL_SHIP_lifeline: "Lifeline"
-	REBEL_SHIP_long_run: "Long Run"
-	REBEL_SHIP_long_shot: "Long Shot"
-	REBEL_SHIP_lucky_star: "Lucky Star"
-	REBEL_SHIP_lulsla: "Lulsla"
-	REBEL_SHIP_luudrian_star: "Luudrian Star"
-	REBEL_SHIP_magnus: "Magnus"
-	REBEL_SHIP_maidstone: "Maidstone"
-	REBEL_SHIP_mantan_wanderer: "Mantan Wanderer"
-	REBEL_SHIP_mar_duun: "Mar Duun"
-	REBEL_SHIP_maria: "Maria"
-	REBEL_SHIP_mayhem: "Mayhem"
-	REBEL_SHIP_meandering_star: "Meandering Star"
-	REBEL_SHIP_mellcrawler: "Mellcrawler"
-	REBEL_SHIP_meteor: "Meteor"
-	REBEL_SHIP_midnight_star: "Midnight Star"
-	REBEL_SHIP_mighty_oak_apocalypse: "Mighty Oak Apocalypse"
-	REBEL_SHIP_millennium_fist: "Millennium Fist"
-	REBEL_SHIP_moldy_crow: "Moldy Crow"
-	REBEL_SHIP_molator: "Molator"
-	REBEL_SHIP_moori: "Moori"
-	REBEL_SHIP_morgath: "Morgath"
-	REBEL_SHIP_nightmoth: "Nightmoth"
-	REBEL_SHIP_naritus: "Naritus"
-	REBEL_SHIP_narrow_margin: "Narrow Margin"
-	REBEL_SHIP_nautilian: "Nautilian"
-	REBEL_SHIP_neladeen: "Neladeen"
-	REBEL_SHIP_neva: "Neva"
-	REBEL_SHIP_nimble: "Nimble"
-	REBEL_SHIP_nova_whisper: "Nova Whisper"
-	REBEL_SHIP_nova_s_heart: "Nova's Heart"
-	REBEL_SHIP_oceana: "Oceana"
-	REBEL_SHIP_olinor: "Olinor"
-	REBEL_SHIP_onderian_raptor: "Onderian Raptor"
-	REBEL_SHIP_opal: "Opal"
-	REBEL_SHIP_ossus_day: "Ossus Day"
-	REBEL_SHIP_out_runner: "Out Runner"
-	REBEL_SHIP_patience: "Patience"
-	REBEL_SHIP_pe_aty: "Pe'aty"
-	REBEL_SHIP_pelex: "Pelex"
-	REBEL_SHIP_persistence: "Persistence"
-	REBEL_SHIP_pharos: "Pharos"
-	REBEL_SHIP_priam: "Priam"
-	REBEL_SHIP_price_of_liberty: "Price of Liberty"
-	REBEL_SHIP_prodigal: "Prodigal"
-	REBEL_SHIP_promise: "Promise"
-	REBEL_SHIP_prowler: "Prowler"
-	REBEL_SHIP_pulsar: "Pulsar"
-	REBEL_SHIP_quantum_storm: "Quantum Storm"
-	REBEL_SHIP_rakan: "Rakan"
-	REBEL_SHIP_ram_s_head: "Ram's Head"
-	REBEL_SHIP_rampart: "Rampart"
-	REBEL_SHIP_rancor_s_tooth: "Rancor's Tooth"
-	REBEL_SHIP_rand_ecliptic: "Rand Ecliptic"
-	REBEL_SHIP_razor: "Razor"
-	REBEL_SHIP_rebel_one: "Rebel One"
-	REBEL_SHIP_rebel_star: "Rebel Star"
-	REBEL_SHIP_rebellion_blaze: "Rebellion Blaze"
-	REBEL_SHIP_red_dog: "Red Dog"
-	REBEL_SHIP_red_lancer: "Red Lancer"
-	REBEL_SHIP_redeemer: "Redeemer"
-	REBEL_SHIP_redemptio: "Redemptio"
-	REBEL_SHIP_reef_home: "Reef Home"
-	REBEL_SHIP_reekeene_s_retribution: "Reekeene's Retribution"
-	REBEL_SHIP_rehz_nor: "Rehz'nor"
-	REBEL_SHIP_renhoek: "Renhoek"
-	REBEL_SHIP_republic_s_return: "Republic's Return"
-	REBEL_SHIP_rescue_one: "Rescue One"
-	REBEL_SHIP_retribution: "Retribution"
-	REBEL_SHIP_rogue_shadow: "Rogue Shadow"
-	REBEL_SHIP_rover: "Rover"
-	REBEL_SHIP_sagina: "Sagina"
-	REBEL_SHIP_salvation: "Salvation"
-	REBEL_SHIP_shadow: "Shadow"
-	REBEL_SHIP_shantipole: "Shantipole"
-	REBEL_SHIP_shayan: "Shayan"
-	REBEL_SHIP_shooting_star: "Shooting Star"
-	REBEL_SHIP_silent_water: "Silent Water"
-	REBEL_SHIP_silver_bolt: "Silver Bolt"
-	REBEL_SHIP_simoom: "Simoom"
-	REBEL_SHIP_solar_flare: "Solar Flare"
-	REBEL_SHIP_solemnis: "Solemnis"
-	REBEL_SHIP_solidarity: "Solidarity"
-	REBEL_SHIP_spartzen: "Spartzen"
-	REBEL_SHIP_spirit_of_solaris: "Spirit of Solaris"
-	REBEL_SHIP_spitfire: "Spitfire"
-	REBEL_SHIP_splinter: "Splinter"
-	REBEL_SHIP_star_breeze: "Star Breeze"
-	REBEL_SHIP_star_breeze_two: "Star Breeze Two"
-	REBEL_SHIP_star_of_the_tion: "Star of the Tion"
-	REBEL_SHIP_star_beast: "Star-Beast"
-	REBEL_SHIP_staraker: "Staraker"
-	REBEL_SHIP_starcrossed: "Starcrossed"
-	REBEL_SHIP_starduster: "Starduster"
-	REBEL_SHIP_starhound: "Starhound"
-	REBEL_SHIP_starveil: "Starveil"
-	REBEL_SHIP_starway: "Starway"
-	REBEL_SHIP_steadfast: "Steadfast"
-	REBEL_SHIP_stellar_damsel: "Stellar Damsel"
-	REBEL_SHIP_stellar_manx: "Stellar Manx"
-	REBEL_SHIP_storm: "Storm"
-	REBEL_SHIP_striker: "Striker"
-	REBEL_SHIP_strix: "Strix"
-	REBEL_SHIP_storm_wind: "Storm Wind"
-	REBEL_SHIP_sundered_heart: "Sundered Heart"
-	REBEL_SHIP_sundog: "Sundog"
-	REBEL_SHIP_swift: "Swift"
-	REBEL_SHIP_swiftsure: "Swiftsure"
-	REBEL_SHIP_tano: "Tano"
-	REBEL_SHIP_tantive_i: "Tantive I"
-	REBEL_SHIP_tantive_ii: "Tantive II"
-	REBEL_SHIP_tantive_iii: "Tantive III"
-	REBEL_SHIP_tantive_iv: "Tantive IV"
-	REBEL_SHIP_tantive_v: "Tantive V"
-	REBEL_SHIP_tantive_vi: "Tantive VI"
-	REBEL_SHIP_tantive_vii: "Tantive VII"
-	REBEL_SHIP_tantive_viii: "Tantive VIII"
-	REBEL_SHIP_tantive_ix: "Tantive IX"
-	REBEL_SHIP_tantive_x: "Tantive X"
-	REBEL_SHIP_tector: "Tector"
-	REBEL_SHIP_tela: "Tela"
-	REBEL_SHIP_tharen: "Tharen"
-	REBEL_SHIP_solar_flair: "Solar Flair"
-	REBEL_SHIP_theed_s_reach: "Theed's Reach"
-	REBEL_SHIP_thrasher: "Thrasher"
-	REBEL_SHIP_thunderflame: "Thunderflame"
-	REBEL_SHIP_thunderstrike: "Thunderstrike"
-	REBEL_SHIP_titanius: "Titanius"
-	REBEL_SHIP_torktarak: "Torktarak"
-	REBEL_SHIP_trait_luminique: "Trait Luminique"
-	REBEL_SHIP_transorb: "Transorb"
-	REBEL_SHIP_tribune: "Tribune"
-	REBEL_SHIP_triumph: "Triumph"
-	REBEL_SHIP_trumpet_s_call: "Trumpet's Call"
-	REBEL_SHIP_twilight_sun: "Twilight Sun"
-	REBEL_SHIP_tyaonon_ranger: "Tyaonon Ranger"
-	REBEL_SHIP_typhoon: "Typhoon"
-	REBEL_SHIP_tyvarex: "Tyvarex"
-	REBEL_SHIP_vaisang: "Vaisang"
-	REBEL_SHIP_valiant_damsel: "Valiant Damsel"
-	REBEL_SHIP_valorous: "Valorous"
-	REBEL_SHIP_vemmer: "Vemmer"
-	REBEL_SHIP_venerable: "Venerable"
-	REBEL_SHIP_venturer: "Venturer"
-	REBEL_SHIP_victorious: "Victorious"
-	REBEL_SHIP_vindicator: "Vindicator"
-	REBEL_SHIP_viper: "Viper"
-	REBEL_SHIP_visara: "Visara"
-	REBEL_SHIP_vorpal_demise: "Vorpal Demise"
-	REBEL_SHIP_voxen_tass: "Voxen Tass"
-	REBEL_SHIP_wanderer: "Wanderer"
-	REBEL_SHIP_war_pig: "War Pig"
-	REBEL_SHIP_warhawk: "Warhawk"
-	REBEL_SHIP_warrior: "Warrior"
-	REBEL_SHIP_wasp: "Wasp"
-	REBEL_SHIP_watchful: "Watchful"
-	REBEL_SHIP_waterspire: "Waterspire"
-	REBEL_SHIP_wavesong: "Wavesong"
-	REBEL_SHIP_whisper: "Whisper"
-	REBEL_SHIP_whitehawk: "Whitehawk"
-	REBEL_SHIP_wolf: "Wolf"
-	REBEL_SHIP_xarxis: "Xarxis"
-	REBEL_SHIP_yanov: "Yanov"
-	REBEL_SHIP_yavaris: "Yavaris"
-	REBEL_SHIP_adamant: "Adamant"
-	REBEL_SHIP_adamantine: "Adamantine"
-	REBEL_SHIP_adder_s_bite: "Adder's Bite"
-	REBEL_SHIP_allegiance: "Allegiance"
-	REBEL_SHIP_amity: "Amity"
-	REBEL_SHIP_astrolabe: "Astrolabe"
-	REBEL_SHIP_banshee: "Banshee"
-	REBEL_SHIP_bespin_bandit: "Bespin Bandit"
-	REBEL_SHIP_best_chance: "Best Chance"
-	REBEL_SHIP_boldheart: "Boldheart"
-	REBEL_SHIP_borealis: "Borealis"
-	REBEL_SHIP_bright_vigil: "Bright Vigil"
-	REBEL_SHIP_buried: "Buried"
-	REBEL_SHIP_treasure: "Treasure"
-	REBEL_SHIP_chandrila: "Chandrila"
-	REBEL_SHIP_chevalier: "Chevalier"
-	REBEL_SHIP_concord: "Concord"
-	REBEL_SHIP_corulag: "Corulag"
-	REBEL_SHIP_corbantis: "Corbantis"
-	REBEL_SHIP_corsuca_fire: "Corsuca Fire"
-	REBEL_SHIP_corsuca_rainbow: "Corsuca Rainbow"
-	REBEL_SHIP_corvus: "Corvus"
-	REBEL_SHIP_dantooine: "Dantooine"
-	REBEL_SHIP_decisive: "Decisive"
-	REBEL_SHIP_defiant: "Defiant"
-	REBEL_SHIP_direption: "Direption"
-	REBEL_SHIP_dominion: "Dominion"
-	REBEL_SHIP_doran_star: "Doran Star"
-	REBEL_SHIP_dragonsnake: "Dragonsnake"
-	REBEL_SHIP_eclipse_rider: "Eclipse Rider"
-	REBEL_SHIP_empyrean: "Empyrean"
-	REBEL_SHIP_ession_strike: "Ession Strike"
-	REBEL_SHIP_etherhawk: "Etherhawk"
-	REBEL_SHIP_farlight: "Farlight"
-	REBEL_SHIP_first_citizen: "First Citizen"
-	REBEL_SHIP_forbidden: "Forbidden"
-	REBEL_SHIP_fulminant: "Fulminant"
-	REBEL_SHIP_freedom_s_fury: "Freedom's Fury"
-	REBEL_SHIP_freedom_s_dawn: "Freedom's Dawn"
-	REBEL_SHIP_freedom_of_sullust: "Freedom of Sullust"
-	REBEL_SHIP_freedom_of_thought: "Freedom of Thought"
-	REBEL_SHIP_freedom_of_association: "Freedom of Association"
-	REBEL_SHIP_freedom_of_belief: "Freedom of Belief"
-	REBEL_SHIP_believer: "Believer"
-	REBEL_SHIP_garland: "Garland"
-	REBEL_SHIP_harrier: "Harrier"
-	REBEL_SHIP_heart_of_artorias: "Heart of Artorias"
-	REBEL_SHIP_hellion_s_dare: "Hellion's Dare"
-	REBEL_SHIP_hellion: "Hellion"
-	REBEL_SHIP_hope: "Hope"
-	REBEL_SHIP_huntsman: "Huntsman"
-	REBEL_SHIP_illustrious: "Illustrious"
-	REBEL_SHIP_indomitable: "Indomitable"
-	REBEL_SHIP_instigator: "Instigator"
-	REBEL_SHIP_ithor_lady: "Ithor Lady"
-	REBEL_SHIP_jedi_dreamer: "Jedi Dreamer"
-	REBEL_SHIP_jedi_dream: "Jedi Dream"
-	REBEL_SHIP_high_council: "High Council"
-	REBEL_SHIP_katana: "Katana"
-	REBEL_SHIP_krakana: "Krakana"
-	REBEL_SHIP_liberty_star: "Liberty Star"
-	REBEL_SHIP_lightning_rod: "Lightning Rod"
-	REBEL_SHIP_lodestar: "Lodestar"
-	REBEL_SHIP_lunar_tide: "Lunar Tide"
-	REBEL_SHIP_mantooine: "Mantooine"
-	REBEL_SHIP_cloudrider: "Cloudrider"
-	REBEL_SHIP_monitor: "Monitor"
-	REBEL_SHIP_valkyrie: "Valkyrie"
-	REBEL_SHIP_mother_s_valkyrie: "Mother's Valkyrie"
-	REBEL_SHIP_nebula_chaser: "Nebula Chaser"
-	REBEL_SHIP_no_harm: "No Harm"
-	REBEL_SHIP_philosopher_s_oath: "Philosopher's Oath"
-	REBEL_SHIP_pelagia: "Pelagia"
-	REBEL_SHIP_phalanx: "Phalanx"
-	REBEL_SHIP_pride_of_honor: "Pride of Honor"
-	REBEL_SHIP_pride_of_eiattu: "Pride of Eiattu"
-	REBEL_SHIP_pride_of_thela: "Pride of Thela"
-	REBEL_SHIP_raddus: "Raddus"
-	REBEL_SHIP_raven_s_claw: "Raven's Claw"
-	REBEL_SHIP_reckless_abandon: "Reckless Abandon"
-	REBEL_SHIP_red_feather: "Red Feather"
-	REBEL_SHIP_red_gauntlet: "Red Gauntlet"
-	REBEL_SHIP_rejuvenator: "Rejuvenator"
-	REBEL_SHIP_reprieve: "Reprieve"
-	REBEL_SHIP_repulsor: "Repulsor"
-	REBEL_SHIP_rieekan: "Rieekan"
-	REBEL_SHIP_selonian_fire: "Selonian Fire"
-	REBEL_SHIP_skyhook: "Skyhook"
-	REBEL_SHIP_starhawk: "Starhawk"
-	REBEL_SHIP_starlight_warrior: "Starlight Warrior"
-	REBEL_SHIP_starpoint: "Starpoint"
-	REBEL_SHIP_startide: "Startide"
-	REBEL_SHIP_stellar_sentinel: "Stellar Sentinel"
-	REBEL_SHIP_sunspire: "Sunspire"
-	REBEL_SHIP_swift_liberty: "Swift Liberty"
-	REBEL_SHIP_lady_liberty: "Lady Liberty"
-	REBEL_SHIP_taanab_sunrise: "Taanab Sunrise"
-	REBEL_SHIP_tyrant_s_bane: "Tyrant's Bane"
-	REBEL_SHIP_unity: "Unity"
-	REBEL_SHIP_unsung: "Unsung"
-	REBEL_SHIP_victorum: "Victorum"
-	REBEL_SHIP_vigilant: "Vigilant"
-	REBEL_SHIP_viscount: "Viscount"
-	REBEL_SHIP_wanderhome: "Wanderhome"
-	REBEL_SHIP_warder: "Warder"
-	REBEL_SHIP_yavin: "Yavin"
-	REBEL_SHIP_spirit_of_the_republic: "Spirit of the Republic"
-	REBEL_SHIP_tranquility: "Tranquility"
-	REBEL_SHIP_tempestuous: "Tempestuous"
-	REBEL_SHIP_recalcitrant: "Recalcitrant"
-	REBEL_SHIP_revivalist: "Revivalist"
-	REBEL_SHIP_sanative: "Sanative"
-	REBEL_SHIP_renaissance: "Renaissance"
-	REBEL_SHIP_dreamdancer: "Dreamdancer"
-	REBEL_SHIP_no_try: "No Try"
-	REBEL_SHIP_home_three: "Home Three"
-	REBEL_SHIP_bail_organa: "Bail Organa"
-	REBEL_SHIP_marek: "Marek"
-	REBEL_SHIP_queen_amidala: "Queen Amidala"
-	REBEL_SHIP_errant_venture: "Errant Venture"
-	REBEL_SHIP_aurora_flare: "Aurora Flare"
-	REBEL_SHIP_beam_wind: "Beam Wind"
-	REBEL_SHIP_bitter_end: "Bitter End"
-	REBEL_SHIP_blue_diver: "Blue Diver"
-	REBEL_SHIP_bright_coral: "Bright Coral"
-	REBEL_SHIP_cimrab_deshet: "Cimrab Deshet"
-	REBEL_SHIP_coral_cliff: "Coral Cliff"
-	REBEL_SHIP_corusca_rainbow: "Corusca Rainbow"
-	REBEL_SHIP_ebb_tide: "Ebb Tide"
-	REBEL_SHIP_echo_of_hope: "Echo of Hope"
-	REBEL_SHIP_flash_storm: "Flash Storm"
-	REBEL_SHIP_flying_dromon: "Flying Dromon"
-	REBEL_SHIP_home_five: "Home Five"
-	REBEL_SHIP_home_four: "Home Four"
-	REBEL_SHIP_home_one: "Home One"
-	REBEL_SHIP_home_two: "Home Two"
-	REBEL_SHIP_krakana_s_claw: "Krakana's Claw"
-	REBEL_SHIP_last_fathom: "Last Fathom"
-	REBEL_SHIP_mon_adapyne: "Mon Adapyne"
-	REBEL_SHIP_mon_badril: "Mon Badril"
-	REBEL_SHIP_mon_bialdu: "Mon Bialdu"
-	REBEL_SHIP_mon_binli: "Mon Binli"
-	REBEL_SHIP_mon_bragrib: "Mon Bragrib"
-	REBEL_SHIP_mon_brodic: "Mon Brodic"
-	REBEL_SHIP_mon_casima: "Mon Casima"
-	REBEL_SHIP_mon_chona: "Mon Chona"
-	REBEL_SHIP_mon_churgel: "Mon Churgel"
-	REBEL_SHIP_mon_cimna: "Mon Cimna"
-	REBEL_SHIP_mon_deddu: "Mon Deddu"
-	REBEL_SHIP_mon_delindo: "Mon Delindo"
-	REBEL_SHIP_mon_duza: "Mon Duza"
-	REBEL_SHIP_mon_fomban: "Mon Fomban"
-	REBEL_SHIP_mon_gazza: "Mon Gazza"
-	REBEL_SHIP_mon_gilko: "Mon Gilko"
-	REBEL_SHIP_mon_gutre: "Mon Gutre"
-	REBEL_SHIP_mon_heurkea: "Mon Heurkea"
-	REBEL_SHIP_mon_hikahi: "Mon Hikahi"
-	REBEL_SHIP_mon_huscol: "Mon Huscol"
-	REBEL_SHIP_mon_irdeal: "Mon Irdeal"
-	REBEL_SHIP_mon_jhaemez: "Mon Jhaemez"
-	REBEL_SHIP_mon_karren: "Mon Karren"
-	REBEL_SHIP_mon_kebta: "Mon Kebta"
-	REBEL_SHIP_mon_kelki: "Mon Kelki"
-	REBEL_SHIP_mon_ledha: "Mon Ledha"
-	REBEL_SHIP_mon_nalkaxz: "Mon Nalkaxz"
-	REBEL_SHIP_mon_nhidna: "Mon Nhidna"
-	REBEL_SHIP_mon_nhile: "Mon Nhile"
-	REBEL_SHIP_mon_nhilnu: "Mon Nhilnu"
-	REBEL_SHIP_mon_opob: "Mon Opob"
-	REBEL_SHIP_mon_oulgax: "Mon Oulgax"
-	REBEL_SHIP_mon_piab: "Mon Piab"
-	REBEL_SHIP_mon_qiomaak: "Mon Qiomaak"
-	REBEL_SHIP_mon_rako: "Mon Rako"
-	REBEL_SHIP_mon_remonda: "Mon Remonda"
-	REBEL_SHIP_mon_royasch: "Mon Royasch"
-	REBEL_SHIP_mon_sar_galva: "Mon Sar Galva"
-	REBEL_SHIP_mon_septess: "Mon Septess"
-	REBEL_SHIP_mon_siadnu: "Mon Siadnu"
-	REBEL_SHIP_mon_tragaih: "Mon Tragaih"
-	REBEL_SHIP_mon_tuezon: "Mon Tuezon"
-	REBEL_SHIP_mon_ubrek: "Mon Ubrek"
-	REBEL_SHIP_mon_uldil: "Mon Uldil"
-	REBEL_SHIP_mon_vardint: "Mon Vardint"
-	REBEL_SHIP_mon_vihmihha: "Mon Vihmihha"
-	REBEL_SHIP_mon_vraha: "Mon Vraha"
-	REBEL_SHIP_mon_vro: "Mon Vro"
-	REBEL_SHIP_mon_wadla: "Mon Wadla"
-	REBEL_SHIP_mon_yohhenna: "Mon Yohhenna"
-	REBEL_SHIP_mon_yoza: "Mon Yoza"
-	REBEL_SHIP_murul_abyss: "Murul Abyss"
-	REBEL_SHIP_queen_amidala_iv: "Queen Amidala IV"
-	REBEL_SHIP_queen_conch: "Queen Conch"
-	REBEL_SHIP_red_brine: "Red Brine"
-	REBEL_SHIP_reefcutter: "Reefcutter"
-	REBEL_SHIP_scrup_hound: "Scrup Hound"
-	REBEL_SHIP_shell_game: "Shell Game"
-	REBEL_SHIP_sidral_ii: "Sidral II"
-	REBEL_SHIP_star_urchin: "Star-urchin"
-	REBEL_SHIP_stellar_vista: "Stellar Vista"
-	REBEL_SHIP_striking_distance: "Striking Distance"
-	REBEL_SHIP_aboukir: "Aboukir"
-	REBEL_SHIP_alamania: "Alamania"
-	REBEL_SHIP_amalthea: "Amalthea"
-	REBEL_SHIP_anchorhome: "Anchorhome"
-	REBEL_SHIP_anlage: "Anlage"
-	REBEL_SHIP_ansta: "Ansta"
-	REBEL_SHIP_aquarius: "Aquarius"
-	REBEL_SHIP_ballarat: "Ballarat"
-	REBEL_SHIP_becalmer: "Becalmer"
-	REBEL_SHIP_beledeen: "Beledeen"
-	REBEL_SHIP_breakwater: "Breakwater"
-	REBEL_SHIP_brightwork: "Brightwork"
-	REBEL_SHIP_broadhorn: "Broadhorn"
-	REBEL_SHIP_broadside: "Broadside"
-	REBEL_SHIP_carronade: "Carronade"
-	REBEL_SHIP_chainwale: "Chainwale"
-	REBEL_SHIP_choarn: "Choarn"
-	REBEL_SHIP_coaster: "Coaster"
-	REBEL_SHIP_cutwater: "Cutwater"
-	REBEL_SHIP_defiance: "Defiance"
-	REBEL_SHIP_devilsquid: "Devilsquid"
-	REBEL_SHIP_doldrum: "Doldrum"
-	REBEL_SHIP_drejil: "Drejil"
-	REBEL_SHIP_endurance: "Endurance"
-	REBEL_SHIP_exosquidra: "Exosquidra"
-	REBEL_SHIP_extremis: "Extremis"
-	REBEL_SHIP_fanladi: "Fanladi"
-	REBEL_SHIP_fantail: "Fantail"
-	REBEL_SHIP_felucca: "Felucca"
-	REBEL_SHIP_foamwander: "Foamwander"
-	REBEL_SHIP_gamble: "Gamble"
-	REBEL_SHIP_gennaker: "Gennaker"
-	REBEL_SHIP_ghaleesit: "Ghaleesit"
-	REBEL_SHIP_gloomwalker: "Gloomwalker"
-	REBEL_SHIP_gulomi: "Gulomi"
-	REBEL_SHIP_halliard: "Halliard"
-	REBEL_SHIP_ilikith: "Ilikith"
-	REBEL_SHIP_jetsam: "Jetsam"
-	REBEL_SHIP_kantrey: "Kantrey"
-	REBEL_SHIP_khasva: "Khasva"
-	REBEL_SHIP_kieler: "Kieler"
-	REBEL_SHIP_krabbex: "Krabbex"
-	REBEL_SHIP_leviathan: "Leviathan"
-	REBEL_SHIP_liberty: "Liberty"
-	REBEL_SHIP_lishin: "Lishin"
-	REBEL_SHIP_littoral: "Littoral"
-	REBEL_SHIP_majestic: "Majestic"
-	REBEL_SHIP_maximus: "Maximus"
-	REBEL_SHIP_morjansik: "Morjansik"
-	REBEL_SHIP_narlit: "Narlit"
-	REBEL_SHIP_orthavan: "Orthavan"
-	REBEL_SHIP_oshtra: "Oshtra"
-	REBEL_SHIP_poesy: "Poesy"
-	REBEL_SHIP_riptide: "Riptide"
-	REBEL_SHIP_sailfish: "Sailfish"
-	REBEL_SHIP_shashore: "ShaShore"
-	REBEL_SHIP_spraycloak: "Spraycloak"
-	REBEL_SHIP_starlite: "Starlite"
-	REBEL_SHIP_starpike: "Starpike"
-	REBEL_SHIP_stillwater: "Stillwater"
-	REBEL_SHIP_stormcaller: "Stormcaller"
-	REBEL_SHIP_terkana: "Terkana"
-	REBEL_SHIP_tessek: "Tessek"
-	REBEL_SHIP_tidecrest: "Tidecrest"
-	REBEL_SHIP_tikit: "Tikit"
-	REBEL_SHIP_toklar: "Toklar"
-	REBEL_SHIP_torrent: "Torrent"
-	REBEL_SHIP_tradewyn: "Tradewyn"
-	REBEL_SHIP_tsunami: "Tsunami"
-	REBEL_SHIP_undertow: "Undertow"
-	REBEL_SHIP_vebb: "Vebb"
-	REBEL_SHIP_vekkor: "Vekkor"
-	REBEL_SHIP_voidpool: "Voidpool"
-	REBEL_SHIP_voidshark: "Voidshark"
-	REBEL_SHIP_whaladon: "Whaladon"
-	REBEL_SHIP_wildwater: "Wildwater"
-	REBEL_SHIP_nautilus: "Nautilus"
-	REBEL_SHIP_zephyr: "Zephyr"
-	REBEL_SHIP_pathfinder: "Pathfinder"
-	REBEL_SHIP_guiding_light: "Guiding Light"
-	REBEL_SHIP_helping_hand: "Helping Hand"
-	REBEL_SHIP_redemption: "Redemption"
-	REBEL_SHIP_bright_flight: "Bright Flight"
-	REBEL_SHIP_benevolence: "Benevolence"
-	REBEL_SHIP_true_star: "True Star"
-	REBEL_SHIP_high_haven: "High Haven"
-	REBEL_SHIP_respite: "Respite"
-	REBEL_SHIP_golandras: "Golandras"
-	REBEL_SHIP_navigator: "Navigator"
-	REBEL_SHIP_wayward: "Wayward"
-	REBEL_SHIP_wayfinder: "Wayfinder"
-	REBEL_SHIP_waymaker: "Waymaker"
-	REBEL_SHIP_jori_daragon: "Jori Daragon"
-	REBEL_SHIP_vector_one: "Vector One"
-	REBEL_SHIP_void_guide: "Void Guide"
-	REBEL_SHIP_trustant: "Trustant"
-	REBEL_SHIP_starchaser: "Starchaser"
-	REBEL_SHIP_beneficent: "Beneficent"
-	REBEL_SHIP_sentientarian: "Sentientarian"
-	REBEL_SHIP_munificent: "Munificent"
-	REBEL_SHIP_bountiful: "Bountiful"
-	REBEL_SHIP_bountenous: "Bountenous"
-	REBEL_SHIP_openhand: "Openhand"
-	REBEL_SHIP_free_hand: "Free Hand"
-	REBEL_SHIP_benignant: "Benignant"
-	REBEL_SHIP_liberality: "Liberality"
-	REBEL_SHIP_first_charity: "First Charity"
-	REBEL_SHIP_altruist: "Altruist"
-	REBEL_SHIP_settler: "Settler"
-	REBEL_SHIP_scion: "Scion"
-	REBEL_SHIP_forerunner: "Forerunner"
-	REBEL_SHIP_successor: "Successor"
-	REBEL_SHIP_truespring: "Truespring"
-	REBEL_SHIP_industry: "Industry"
-	REBEL_SHIP_spanner: "Spanner"
-	REBEL_SHIP_true_faith: "True Faith"
-	REBEL_SHIP_cooperation: "Cooperation"
-	REBEL_SHIP_builder: "Builder"
-	REBEL_SHIP_collaboration: "Collaboration"
-	REBEL_SHIP_joiner: "Joiner"
-	REBEL_SHIP_teamwork: "Teamwork"
-	REBEL_SHIP_partnership: "Partnership"
-	REBEL_SHIP_coordination: "Coordination"
-	REBEL_SHIP_synergy: "Synergy"
-	REBEL_SHIP_dealer: "Dealer"
-	REBEL_SHIP_relater: "Relater"
-	REBEL_SHIP_assistant: "Assistant"
-	REBEL_SHIP_supporter: "Supporter"
-	REBEL_SHIP_backer: "Backer"
-	REBEL_SHIP_contributor: "Contributor"
-	REBEL_SHIP_ministration: "Ministration"
-	REBEL_SHIP_ground_transport: "Транспортный корабль"
-	REBEL_SHIP_spacegun_victory: "SpaceGun Victory"
-	REBEL_SHIP_spacegun_success: "SpaceGun Success"
-	REBEL_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	REBEL_SHIP_spacegun_superior: "SpaceGun Superior"
-	REBEL_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	REBEL_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	REBEL_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	REBEL_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	REBEL_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	REBEL_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	REBEL_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	REBEL_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	REBEL_SHIP_spacegun_honor: "SpaceGun Honor"
-	REBEL_SHIP_spacegun_renown: "SpaceGun Renown"
-	REBEL_SHIP_spacegun_glory: "SpaceGun Glory"
-	REBEL_SHIP_spacegun_superb: "SpaceGun Superb"
-	REBEL_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	REBEL_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	REBEL_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	REBEL_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	REBEL_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	REBEL_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	REBEL_SHIP_spacegun_merit: "SpaceGun Merit"
-	REBEL_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	REBEL_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	REBEL_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	REBEL_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	REBEL_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	REBEL_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	REBEL_SHIP_spacegun_justice: "SpaceGun Justice"
-	REBEL_SHIP_spacegun_probity: "SpaceGun Probity"
-	REBEL_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	REBEL_SHIP_spacegun_purity: "SpaceGun Purity"
-	REBEL_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	REBEL_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	REBEL_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	REBEL_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	REBEL_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	REBEL_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	REBEL_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	REBEL_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	REBEL_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	REBEL_SHIP_spacegun_courage: "SpaceGun Courage"
-	REBEL_SHIP_spacegun_valor: "SpaceGun Valor"
-	REBEL_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	REBEL_SHIP_spacegun_daring: "SpaceGun Daring"
-	REBEL_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	REBEL_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	REBEL_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	REBEL_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	REBEL_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	REBEL_SHIP_citadel: "Citadel"
-	REBEL_SHIP_albacore: "Albacore"
-	REBEL_SHIP_gateway: "Gateway"
-	REBEL_SHIP_vincent: "Vincent"
-	REBEL_SHIP_babylon: "Babylon"
-	REBEL_SHIP_caernavon: "Caernavon"
-	REBEL_SHIP_acre: "Acre"
-	REBEL_SHIP_pembroke: "Pembroke"
-	REBEL_SHIP_acheron: "Acheron"
-	REBEL_SHIP_spithead: "Spithead"
-	REBEL_SHIP_halifax: "Halifax"
-	REBEL_SHIP_victoria: "Victoria"
-	REBEL_SHIP_chatham: "Chatham"
-	REBEL_SHIP_anchorage: "Anchorage"
-	REBEL_SHIP_scapa_flow: "Scapa Flow"
-	REBEL_SHIP_hampton_roads: "Hampton Roads"
-	REBEL_SHIP_brooklyn: "Brooklyn"
-	REBEL_SHIP_norfolk: "Norfolk"
-	REBEL_SHIP_newport: "Newport"
-	REBEL_SHIP_guam: "Guam"
-	REBEL_SHIP_pensacola: "Pensacola"
-	REBEL_SHIP_vesuvius: "Vesuvius"
-	REBEL_SHIP_mckinley: "McKinley"
-	REBEL_SHIP_everest: "Everest"
-	REBEL_SHIP_kilimanjaro: "Kilimanjaro"
-	REBEL_SHIP_aconcagua: "Aconcagua"
-	REBEL_SHIP_elbrus: "Elbrus"
-	REBEL_SHIP_st__helens: "St. Helens"
-	REBEL_SHIP_fuji: "Fuji"
-	REBEL_SHIP_olympus: "Olympus"
-	REBEL_SHIP_sinai: "Sinai"
-	REBEL_SHIP_ambrose: "Ambrose"
-	REBEL_SHIP_bermuda: "Bermuda"
-	REBEL_SHIP_farpoint: "Farpoint"
-	REBEL_SHIP_blue_star: "Blue Star"
-	REBEL_SHIP_olympus_mons: "Olympus Mons"
-	REBEL_SHIP_tharsis: "Tharsis"
-	REBEL_SHIP_syrtis: "Syrtis"
-	REBEL_SHIP_blackham: "Blackham"
-	REBEL_SHIP_fletcher: "Fletcher"
-	REBEL_SHIP_perry: "Perry"
-	REBEL_SHIP_butakov: "Butakov"
-	REBEL_SHIP_morris: "Morris"
-	REBEL_SHIP_moorsom: "Moorsom"
-	REBEL_SHIP_hart: "Hart"
-	REBEL_SHIP_hargood: "Hargood"
-	REBEL_SHIP_spruance: "Spruance"
-	REBEL_SHIP_tanaka: "Tanaka"
-	REBEL_SHIP_halsey: "Halsey"
-	REBEL_SHIP_turner: "Turner"
-	REBEL_SHIP_doria: "Doria"
-	REBEL_SHIP_tirpitz: "Tirpitz"
-	REBEL_SHIP_cunningham: "Cunningham"
-	REBEL_SHIP_jellicoe: "Jellicoe"
-	REBEL_SHIP_hipper: "Hipper"
-	REBEL_SHIP_beatty: "Beatty"
-	REBEL_SHIP_potemkin: "Potemkin"
-	REBEL_SHIP_durham: "Durham"
-	REBEL_SHIP_codrington: "Codrington"
-	REBEL_SHIP_milne: "Milne"
-	REBEL_SHIP_laforey: "Laforey"
-	REBEL_SHIP_tyler: "Tyler"
-	REBEL_SHIP_hawke: "Hawke"
-	REBEL_SHIP_yonai: "Yonai"
-	REBEL_SHIP_pound: "Pound"
-	REBEL_SHIP_king: "King"
-	REBEL_SHIP_crutchley: "Crutchley"
-	REBEL_SHIP_mountbatten: "Mountbatten"
-	REBEL_SHIP_kountouriotis: "Kountouriotis"
-	REBEL_SHIP_kuznetsov: "Kuznetsov"
-	REBEL_SHIP_essen: "Essen"
-	REBEL_SHIP_kornilov: "Kornilov"
-	REBEL_SHIP_suffren: "Suffren"
-	REBEL_SHIP_treville: "Treville"
-	REBEL_SHIP_villeneuve: "Villeneuve"
-	REBEL_SHIP_grasse: "Grasse"
-	REBEL_SHIP_byng: "Byng"
-	REBEL_SHIP_lezo: "Lezo"
-	REBEL_SHIP_bombard: "Bombard"
-	REBEL_SHIP_ballista: "Ballista"
-	REBEL_SHIP_catapult: "Catapult"
-	REBEL_SHIP_harpoon: "Harpoon"
-	REBEL_SHIP_polybolos: "Polybolos"
-	REBEL_SHIP_culverin: "Culverin"
-	REBEL_SHIP_exemplary: "Exemplary"
-	REBEL_SHIP_CLASS_cr_90: "CR-90"
-	REBEL_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	REBEL_SHIP_CLASS_lupus: "Lupus"
-	REBEL_SHIP_CLASS_asdroni: "Asdroni"
-	REBEL_SHIP_CLASS_customs: "Customs"
-	REBEL_SHIP_CLASS_hammerhead: "Hammerhead"
-	REBEL_SHIP_CLASS_scurge: "Scurge"
-	REBEL_SHIP_CLASS_krayt: "Krayt"
-	REBEL_SHIP_CLASS_diamond: "Diamond"
-	REBEL_SHIP_CLASS_etti: "Etti"
-	REBEL_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	REBEL_SHIP_CLASS_vigil: "Vigil"
-	REBEL_SHIP_CLASS_dp20: "DP20"
-	REBEL_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	REBEL_SHIP_CLASS_raider: "Raider"
-	REBEL_SHIP_CLASS_dornean: "Dornean"
-	REBEL_SHIP_CLASS_crusader: "Crusader"
-	REBEL_SHIP_CLASS_marauder: "Marauder"
-	REBEL_SHIP_CLASS_arquitens: "Arquitens"
-	REBEL_SHIP_CLASS_kiltirin: "Kiltirin"
-	REBEL_SHIP_CLASS_pelta: "Pelta"
-	REBEL_SHIP_CLASS_pinnace: "Pinnace"
-	REBEL_SHIP_CLASS_nova: "Nova"
-	REBEL_SHIP_CLASS_vigilance: "Vigilance"
-	REBEL_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	REBEL_SHIP_CLASS_cg_273: "CG-273"
-	REBEL_SHIP_CLASS_kariek: "Kariek"
-	REBEL_SHIP_CLASS_ton_falk: "Ton-Falk"
-	REBEL_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	REBEL_SHIP_CLASS_lancer: "Lancer"
-	REBEL_SHIP_CLASS_teroch: "Teroch"
-	REBEL_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	REBEL_SHIP_CLASS_nova_ii: "Nova II"
-	REBEL_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	REBEL_SHIP_CLASS_velox: "Velox"
-	REBEL_SHIP_CLASS_mc30c: "MC30c"
-	REBEL_SHIP_CLASS_vengeance: "Vengeance"
-	REBEL_SHIP_CLASS_kariek_ii: "Kariek II"
-	REBEL_SHIP_CLASS_cc_7700: "CC-7700"
-	REBEL_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	REBEL_SHIP_CLASS_wavecrest: "Wavecrest"
-	REBEL_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	REBEL_SHIP_CLASS_nuruodo: "Nuruodo"
-	REBEL_SHIP_CLASS_sabaoth: "Sabaoth"
-	REBEL_SHIP_CLASS_kontos: "Kontos"
-	REBEL_SHIP_CLASS_mc40: "MC40"
-	REBEL_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	REBEL_SHIP_CLASS_broadside: "Broadside"
-	REBEL_SHIP_CLASS_protector: "Protector"
-	REBEL_SHIP_CLASS_warlord: "Warlord"
-	REBEL_SHIP_CLASS_gladiator: "Gladiator"
-	REBEL_SHIP_CLASS_beviin: "Beviin"
-	REBEL_SHIP_CLASS_liberator: "Liberator"
-	REBEL_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	REBEL_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	REBEL_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	REBEL_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	REBEL_SHIP_CLASS_massias: "Massias"
-	REBEL_SHIP_CLASS_dreadnought: "Dreadnought"
-	REBEL_SHIP_CLASS_kyramud: "Kyramud"
-	REBEL_SHIP_CLASS_munificent: "Munificent"
-	REBEL_SHIP_CLASS_prosvoli: "Prosvoli"
-	REBEL_SHIP_CLASS_acclamator: "Acclamator"
-	REBEL_SHIP_CLASS_lictor: "Lictor"
-	REBEL_SHIP_CLASS_bulwark: "Bulwark"
-	REBEL_SHIP_CLASS_victory_i: "Victory I"
-	REBEL_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	REBEL_SHIP_CLASS_bulk: "Bulk"
-	REBEL_SHIP_CLASS_vindicator: "Vindicator"
-	REBEL_SHIP_CLASS_dauntless: "Dauntless"
-	REBEL_SHIP_CLASS_captor: "Captor"
-	REBEL_SHIP_CLASS_au_riette: "Au'riette"
-	REBEL_SHIP_CLASS_mc55: "MC55"
-	REBEL_SHIP_CLASS_afthonia: "Afthonia"
-	REBEL_SHIP_CLASS_victory_ii: "Victory II"
-	REBEL_SHIP_CLASS_beroya: "Beroya"
-	REBEL_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	REBEL_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	REBEL_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	REBEL_SHIP_CLASS_venator: "Venator"
-	REBEL_SHIP_CLASS_centurion: "Centurion"
-	REBEL_SHIP_CLASS_mc75: "MC75"
-	REBEL_SHIP_CLASS_kandosii: "Kandosii"
-	REBEL_SHIP_CLASS_corellian: "Corellian"
-	REBEL_SHIP_CLASS_providence: "Providence"
-	REBEL_SHIP_CLASS_syndic: "Syndic"
-	REBEL_SHIP_CLASS_recusant: "Recusant"
-	REBEL_SHIP_CLASS_invincible: "Invincible"
-	REBEL_SHIP_CLASS_imperial_i: "Imperial I"
-	REBEL_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	REBEL_SHIP_CLASS_procursator: "Procursator"
-	REBEL_SHIP_CLASS_mc80a: "MC80a"
-	REBEL_SHIP_CLASS_dh_omni: "DH-Omni"
-	REBEL_SHIP_CLASS_aggressor: "Aggressor"
-	REBEL_SHIP_CLASS_syndic_ii: "Syndic II"
-	REBEL_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	REBEL_SHIP_CLASS_keldabe: "Keldabe"
-	REBEL_SHIP_CLASS_corellian_ii: "Corellian II"
-	REBEL_SHIP_CLASS_chaf: "Chaf"
-	REBEL_SHIP_CLASS_imperial_ii: "Imperial II"
-	REBEL_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	REBEL_SHIP_CLASS_ascendancy: "Ascendancy"
-	REBEL_SHIP_CLASS_dominator: "Dominator"
-	REBEL_SHIP_CLASS_allegiance: "Allegiance"
-	REBEL_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	REBEL_SHIP_CLASS_phalanx: "Phalanx"
-	REBEL_SHIP_CLASS_titan: "Titan"
-	REBEL_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	REBEL_SHIP_CLASS_star_home: "Star Home"
-	REBEL_SHIP_CLASS_subjugator: "Subjugator"
-	REBEL_SHIP_CLASS_bellator: "Bellator"
-	REBEL_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	REBEL_SHIP_CLASS_executor: "Executor"
-	REBEL_FLEET_armada_ORD: "$ORD$ Armada"
-	REBEL_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	REBEL_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	REBEL_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	REBEL_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	REBEL_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	REBEL_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	REBEL_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	REBEL_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	REBEL_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	REBEL_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	REBEL_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	REBEL_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	REBEL_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	REBEL_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	REBEL_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	REBEL_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	REBEL_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	REBEL_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	REBEL_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	REBEL_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	REBEL_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	REBEL_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	REBEL_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	REBEL_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	REBEL_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	REBEL_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	REBEL_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	REBEL_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	REBEL_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	REBEL_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	REBEL_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	REBEL_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	REBEL_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	REBEL_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	REBEL_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	REBEL_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	REBEL_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	REBEL_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	REBEL_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	REBEL_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	REBEL_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	REBEL_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	REBEL_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	REBEL_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	REBEL_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	REBEL_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	REBEL_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	REBEL_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	REBEL_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	REBEL_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	REBEL_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	REBEL_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	REBEL_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	REBEL_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	REBEL_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	REBEL_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	REBEL_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	REBEL_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	REBEL_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	REBEL_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	REBEL_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	REBEL_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	REBEL_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	REBEL_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	REBEL_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	REBEL_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	REBEL_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	REBEL_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	REBEL_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	REBEL_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	REBEL_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	REBEL_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	REBEL_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	REBEL_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	REBEL_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	REBEL_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	REBEL_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	REBEL_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	REBEL_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	REBEL_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	REBEL_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	REBEL_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	REBEL_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	REBEL_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	REBEL_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	REBEL_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	REBEL_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	REBEL_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	REBEL_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	REBEL_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	REBEL_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	REBEL_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	REBEL_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	REBEL_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	REBEL_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	REBEL_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	REBEL_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	REBEL_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	REBEL_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	REBEL_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	REBEL_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	REBEL_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	REBEL_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	REBEL_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	REBEL_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	REBEL_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	REBEL_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	REBEL_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	REBEL_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	REBEL_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	REBEL_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	REBEL_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	REBEL_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	REBEL_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	REBEL_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	REBEL_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	REBEL_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	REBEL_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	REBEL_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	REBEL_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	REBEL_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	REBEL_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	REBEL_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	REBEL_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	REBEL_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	REBEL_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	REBEL_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	REBEL_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	REBEL_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	REBEL_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	REBEL_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	REBEL_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	REBEL_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	REBEL_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	REBEL_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	REBEL_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	REBEL_ARMY_rancor_ORD: "$ORD$ Rancor"
-	REBEL_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	REBEL_ARMY_acklay_ORD: "$ORD$ Acklay "
-	REBEL_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	REBEL_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	REBEL_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	REBEL_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	REBEL_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	REBEL_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	REBEL_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	REBEL_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	REBEL_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	REBEL_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	REBEL_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	REBEL_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	REBEL_CHR_judder: "Judder"
-	REBEL_CHR_kade: "Kade"
-	REBEL_CHR_jak: "Jak"
-	REBEL_CHR_dixon: "Dixon"
-	REBEL_CHR_skere: "Skere"
-	REBEL_CHR_derek: "Derek"
-	REBEL_CHR_jaden: "Jaden"
-	REBEL_CHR_del: "Del"
-	REBEL_CHR_kessin: "Kessin"
-	REBEL_CHR_alexi: "Alexi"
-	REBEL_CHR_airen: "Airen"
-	REBEL_CHR_jacen: "Jacen"
-	REBEL_CHR_kanan: "Kanan"
-	REBEL_CHR_saw: "Saw"
-	REBEL_CHR_gideon: "Gideon"
-	REBEL_CHR_jalice: "Jalice"
-	REBEL_CHR_baze: "Baze"
-	REBEL_CHR_chirrut: "Chirrut"
-	REBEL_CHR_cassian: "Cassian"
-	REBEL_CHR_jun: "Jun"
-	REBEL_CHR_cal: "Cal"
-	REBEL_CHR_jan: "Jan"
-	REBEL_CHR_rob: "Rob"
-	REBEL_CHR_carlist: "Carlist"
-	REBEL_CHR_ryder: "Ryder"
-	REBEL_CHR_garm: "Garm"
-	REBEL_CHR_tanner: "Tanner"
-	REBEL_CHR_jax: "Jax"
-	REBEL_CHR_jarek: "Jarek"
-	REBEL_CHR_wes: "Wes"
-	REBEL_CHR_dak: "Dak"
-	REBEL_CHR_avan: "Avan"
-	REBEL_CHR_pash: "Pash"
-	REBEL_CHR_myn: "Myn"
-	REBEL_CHR_zev: "Zev"
-	REBEL_CHR_kit: "Kit"
-	REBEL_CHR_kell: "Kell"
-	REBEL_CHR_biggs: "Biggs"
-	REBEL_CHR_garven: "Garven"
-	REBEL_CHR_ralo: "Ralo"
-	REBEL_CHR_jon: "Jon"
-	REBEL_CHR_poe: "Poe"
-	REBEL_CHR_raymus: "Raymus"
-	REBEL_CHR_owen: "Owen"
-	REBEL_CHR_jyn: "Jyn"
-	REBEL_CHR_kalyn: "Kalyn"
-	REBEL_CHR_kara: "Kara"
-	REBEL_CHR_karin: "Karin"
-	REBEL_CHR_ellie: "Ellie"
-	REBEL_CHR_elliye: "Elliye"
-	REBEL_CHR_iris: "Iris"
-	REBEL_CHR_jaina: "Jaina"
-	REBEL_CHR_alanna: "Alanna"
-	REBEL_CHR_kaia: "Kaia"
-	REBEL_CHR_kari: "Kari"
-	REBEL_CHR_katalin: "Katalin"
-	REBEL_CHR_kayla: "Kayla"
-	REBEL_CHR_lexi: "Lexi"
-	REBEL_CHR_maisie: "Maisie"
-	REBEL_CHR_tessa: "Tessa"
-	REBEL_CHR_silara: "Silara"
-	REBEL_CHR_pooja: "Pooja"
-	REBEL_CHR_mya: "Mya"
-	REBEL_CHR_lela: "Lela"
-	REBEL_CHR_sabine: "Sabine"
-	REBEL_CHR_idryssa: "Idryssa"
-	REBEL_CHR_gerrera: "Gerrera"
-	REBEL_CHR_mari: "Mari"
-	REBEL_CHR_maia: "Maia"
-	REBEL_CHR_iden: "Iden"
-	REBEL_CHR_mon: "Mon"
-	REBEL_CHR_winter: "Winter"
-	REBEL_CHR_iella: "Iella"
-	REBEL_CHR_maxine: "Maxine"
-	REBEL_CHR_venisa: "Venisa"
-	REBEL_CHR_mirax: "Mirax"
-	REBEL_CHR_mia: "Mia"
-	REBEL_CHR_breha: "Breha"
-	REBEL_CHR_sasha: "Sasha"
-	REBEL_CHR_anni: "Anni"
-	REBEL_CHR_inyri: "Inyri"
-	REBEL_CHR_lujayne: "Lujayne"
-	REBEL_CHR_syal: "Syal"
-	REBEL_CHR_bria: "Bria"
-	REBEL_CHR_tendra: "Tendra"
-	REBEL_CHR_page: "Page"
-	REBEL_CHR_kaan: "Kaan"
-	REBEL_CHR_klivian: "Klivian"
-	REBEL_CHR_korr: "Korr"
-	REBEL_CHR_pavan: "Pavan"
-	REBEL_CHR_rist: "Rist"
-	REBEL_CHR_organa: "Organa"
-	REBEL_CHR_berenko: "Berenko"
-	REBEL_CHR_alde: "Alde"
-	REBEL_CHR_baliss: "Baliss"
-	REBEL_CHR_cortess: "Cortess"
-	REBEL_CHR_ulgo: "Ulgo"
-	REBEL_CHR_thule: "Thule"
-	REBEL_CHR_teral: "Teral"
-	REBEL_CHR_antilles: "Antilles"
-	REBEL_CHR_panteer: "Panteer"
-	REBEL_CHR_rendar: "Rendar"
-	REBEL_CHR_korden: "Korden"
-	REBEL_CHR_naberrie: "Naberrie"
-	REBEL_CHR_onasi: "Onasi"
-	REBEL_CHR_bonteri: "Bonteri"
-	REBEL_CHR_imwe: "Imwe"
-	REBEL_CHR_andor: "Andor"
-	REBEL_CHR_sato: "Sato"
-	REBEL_CHR_javes: "Javes"
-	REBEL_CHR_dodonna: "Dodonna"
-	REBEL_CHR_mothma: "Mothma"
-	REBEL_CHR_draven: "Draven"
-	REBEL_CHR_celchu: "Celchu"
-	REBEL_CHR_wessiri: "Wessiri"
-	REBEL_CHR_azadi: "Azadi"
-	REBEL_CHR_bel_iblis: "Bel Iblis"
-	REBEL_CHR_chan: "Chan"
-	REBEL_CHR_darklighter: "Darklighter"
-	REBEL_CHR_drake: "Drake"
-	REBEL_CHR_ors: "Ors"
-	REBEL_CHR_terrik: "Terrik"
-	REBEL_CHR_horn: "Horn"
-	REBEL_CHR_wexley: "Wexley"
-	REBEL_CHR_janson: "Janson"
-	REBEL_CHR_ralter: "Ralter"
-	REBEL_CHR_ardele: "Ardele"
-	REBEL_CHR_cracken: "Cracken"
-	REBEL_CHR_donos: "Donos"
-	REBEL_CHR_forge: "Forge"
-	REBEL_CHR_tainer: "Tainer"
-	REBEL_CHR_tharen: "Tharen"
-	REBEL_CHR_dreis: "Dreis"
-	REBEL_CHR_dameron: "Dameron"
-	REBEL_CHR_calrissian: "Calrissian"
-	REBEL_CHR_lux: "Lux"
-	REBEL_CHR_codo: "Codo"
-	REBEL_CHR_euwood: "Euwood"
-	REBEL_CHR_azen: "Azen"
-	REBEL_CHR_lar: "Lar"
-	REBEL_CHR_staven: "Staven"
-	REBEL_CHR_saurval: "Saurval"
-	REBEL_CHR_reece: "Reece"
-	REBEL_CHR_tivik: "Tivik"
-	REBEL_CHR_jonner: "Jonner"
-	REBEL_CHR_mart: "Mart"
-	REBEL_CHR_lindon: "Lindon"
-	REBEL_CHR_adame: "Adame"
-	REBEL_CHR_alexan: "Alexan"
-	REBEL_CHR_philap: "Philap"
-	REBEL_CHR_dustil: "Dustil"
-	REBEL_CHR_baccam: "Baccam"
-	REBEL_CHR_nower: "Nower"
-	REBEL_CHR_prestor: "Prestor"
-	REBEL_CHR_vasp: "Vasp"
-	REBEL_CHR_vanden: "Vanden"
-	REBEL_CHR_davits: "Davits"
-	REBEL_CHR_antoc: "Antoc"
-	REBEL_CHR_bandwin: "Bandwin"
-	REBEL_CHR_mikos: "Mikos"
-	REBEL_CHR_gabrial: "Gabrial"
-	REBEL_CHR_vestin: "Vestin"
-	REBEL_CHR_ayx: "Ayx"
-	REBEL_CHR_daye: "Daye"
-	REBEL_CHR_rojo: "Rojo"
-	REBEL_CHR_jom: "Jom"
-	REBEL_CHR_benthar: "Benthar"
-	REBEL_CHR_buran: "Buran"
-	REBEL_CHR_deckland: "Deckland"
-	REBEL_CHR_willer: "Willer"
-	REBEL_CHR_colin: "Colin"
-	REBEL_CHR_hric: "Hric"
-	REBEL_CHR_villian: "Villian"
-	REBEL_CHR_saun: "Saun"
-	REBEL_CHR_evram: "Evram"
-	REBEL_CHR_haanos: "Haanos"
-	REBEL_CHR_daiv: "Daiv"
-	REBEL_CHR_ardin: "Ardin"
-	REBEL_CHR_leger: "Leger"
-	REBEL_CHR_keenal: "Keenal"
-	REBEL_CHR_jotil: "Jotil"
-	REBEL_CHR_fez: "Fez"
-	REBEL_CHR_temo: "Temo"
-	REBEL_CHR_kornell: "Kornell"
-	REBEL_CHR_garil: "Garil"
-	REBEL_CHR_ivor: "Ivor"
-	REBEL_CHR_cooper: "Cooper"
-	REBEL_CHR_eron: "Eron"
-	REBEL_CHR_erik: "Erik"
-	REBEL_CHR_carter: "Carter"
-	REBEL_CHR_gaav: "Gaav"
-	REBEL_CHR_erissson: "Erissson"
-	REBEL_CHR_hamman: "Hamman"
-	REBEL_CHR_devon: "Devon"
-	REBEL_CHR_roark: "Roark"
-	REBEL_CHR_nolan: "Nolan"
-	REBEL_CHR_tag: "Tag"
-	REBEL_CHR_chaz: "Chaz"
-	REBEL_CHR_zaz: "Zaz"
-	REBEL_CHR_jarrod: "Jarrod"
-	REBEL_CHR_melvor: "Melvor"
-	REBEL_CHR_alben: "Alben"
-	REBEL_CHR_kaeden: "Kaeden"
-	REBEL_CHR_gren: "Gren"
-	REBEL_CHR_aurin: "Aurin"
-	REBEL_CHR_jaahn: "Jaahn"
-	REBEL_CHR_dannen: "Dannen"
-	REBEL_CHR_mak: "Mak"
-	REBEL_CHR_lucas: "Lucas"
-	REBEL_CHR_luca: "Luca"
-	REBEL_CHR_artis: "Artis"
-	REBEL_CHR_lorn: "Lorn"
-	REBEL_CHR_jono: "Jono"
-	REBEL_CHR_grondorn: "Grondorn"
-	REBEL_CHR_elth: "Elth"
-	REBEL_CHR_var: "Var"
-	REBEL_CHR_jaliq: "Jaliq"
-	REBEL_CHR_palejo: "Palejo"
-	REBEL_CHR_lord_sloan: "Lord Sloan"
-	REBEL_CHR_thaum: "Thaum"
-	REBEL_CHR_siro: "Siro"
-	REBEL_CHR_mygo: "Mygo"
-	REBEL_CHR_jorin: "Jorin"
-	REBEL_CHR_regul: "Regul"
-	REBEL_CHR_roger: "Roger"
-	REBEL_CHR_janek: "Janek"
-	REBEL_CHR_dav: "Dav"
-	REBEL_CHR_matt: "Matt"
-	REBEL_CHR_kandar: "Kandar"
-	REBEL_CHR_vors: "Vors"
-	REBEL_CHR_ris: "Ris"
-	REBEL_CHR_croy: "Croy"
-	REBEL_CHR_ral: "Ral"
-	REBEL_CHR_trux: "Trux"
-	REBEL_CHR_tarrin: "Tarrin"
-	REBEL_CHR_barlon: "Barlon"
-	REBEL_CHR_bror: "Bror"
-	REBEL_CHR_kin: "Kin"
-	REBEL_CHR_kasan: "Kasan"
-	REBEL_CHR_kesin: "Kesin"
-	REBEL_CHR_dix: "Dix"
-	REBEL_CHR_keir: "Keir"
-	REBEL_CHR_will: "Will"
-	REBEL_CHR_gemmer: "Gemmer"
-	REBEL_CHR_zekk: "Zekk"
-	REBEL_CHR_baljos: "Baljos"
-	REBEL_CHR_trey: "Trey"
-	REBEL_CHR_cubber: "Cubber"
-	REBEL_CHR_turman: "Turman"
-	REBEL_CHR_garik: "Garik"
-	REBEL_CHR_ton: "Ton"
-	REBEL_CHR_jek: "Jek"
-	REBEL_CHR_harb: "Harb"
-	REBEL_CHR_wenton: "Wenton"
-	REBEL_CHR_grizz: "Grizz"
-	REBEL_CHR_pedrin: "Pedrin"
-	REBEL_CHR_sila: "Sila"
-	REBEL_CHR_arhul: "Arhul"
-	REBEL_CHR_nozzo: "Nozzo"
-	REBEL_CHR_theron: "Theron"
-	REBEL_CHR_bren: "Bren"
-	REBEL_CHR_rue: "Rue"
-	REBEL_CHR_joff: "Joff"
-	REBEL_CHR_col: "Col"
-	REBEL_CHR_chance: "Chance"
-	REBEL_CHR_charle: "Charle"
-	REBEL_CHR_dolin: "Dolin"
-	REBEL_CHR_elz: "Elz"
-	REBEL_CHR_haley: "Haley"
-	REBEL_CHR_hallam: "Hallam"
-	REBEL_CHR_tarrik: "Tarrik"
-	REBEL_CHR_ben: "Ben"
-	REBEL_CHR_han: "Han"
-	REBEL_CHR_wynne: "Wynne"
-	REBEL_CHR_rickard: "Rickard"
-	REBEL_CHR_palo: "Palo"
-	REBEL_CHR_nomar: "Nomar"
-	REBEL_CHR_nial: "Nial"
-	REBEL_CHR_linel: "Linel"
-	REBEL_CHR_lew: "Lew"
-	REBEL_CHR_jeren: "Jeren"
-	REBEL_CHR_cliegg: "Cliegg"
-	REBEL_CHR_bellek: "Bellek"
-	REBEL_CHR_walt: "Walt"
-	REBEL_CHR_sam: "Sam"
-	REBEL_CHR_jabe: "Jabe"
-	REBEL_CHR_ardon: "Ardon"
-	REBEL_CHR_gavin: "Gavin"
-	REBEL_CHR_huff: "Huff"
-	REBEL_CHR_ariq: "Ariq"
-	REBEL_CHR_jahn: "Jahn"
-	REBEL_CHR_caelum: "Caelum"
-	REBEL_CHR_laze: "Laze"
-	REBEL_CHR_luke: "Luke"
-	REBEL_CHR_horzao: "Horzao"
-	REBEL_CHR_tomer: "Tomer"
-	REBEL_CHR_kissek: "Kissek"
-	REBEL_CHR_vangos: "Vangos"
-	REBEL_CHR_robich: "Robich"
-	REBEL_CHR_dosmit: "Dosmit"
-	REBEL_CHR_ryle: "Ryle"
-	REBEL_CHR_kavish: "Kavish"
-	REBEL_CHR_keyan: "Keyan"
-	REBEL_CHR_puck: "Puck"
-	REBEL_CHR_aron: "Aron"
-	REBEL_CHR_dex: "Dex"
-	REBEL_CHR_tofen: "Tofen"
-	REBEL_CHR_temmin: "Temmin"
-	REBEL_CHR_theo: "Theo"
-	REBEL_CHR_jay: "Jay"
-	REBEL_CHR_aarton: "Aarton"
-	REBEL_CHR_derham: "Derham"
-	REBEL_CHR_cobel: "Cobel"
-	REBEL_CHR_fassio: "Fassio"
-	REBEL_CHR_bryce: "Bryce"
-	REBEL_CHR_maxiron: "Maxiron"
-	REBEL_CHR_braedon: "Braedon"
-	REBEL_CHR_gez: "Gez"
-	REBEL_CHR_arkoh: "Arkoh"
-	REBEL_CHR_alok: "Alok"
-	REBEL_CHR_aythan: "Aythan"
-	REBEL_CHR_alric: "Alric"
-	REBEL_CHR_caern: "Caern"
-	REBEL_CHR_aden: "Aden"
-	REBEL_CHR_alain: "Alain"
-	REBEL_CHR_joral: "Joral"
-	REBEL_CHR_brixus: "Brixus"
-	REBEL_CHR_kel: "Kel"
-	REBEL_CHR_jess: "Jess"
-	REBEL_CHR_jeze: "Jeze"
-	REBEL_CHR_jesper: "Jesper"
-	REBEL_CHR_tren: "Tren"
-	REBEL_CHR_jioie: "Jioie"
-	REBEL_CHR_ryley: "Ryley"
-	REBEL_CHR_jeron: "Jeron"
-	REBEL_CHR_reez: "Reez"
-	REBEL_CHR_koffi: "Koffi"
-	REBEL_CHR_tor: "Tor"
-	REBEL_CHR_korin: "Korin"
-	REBEL_CHR_jareck: "Jareck"
-	REBEL_CHR_zak: "Zak"
-	REBEL_CHR_ellis: "Ellis"
-	REBEL_CHR_wil: "Wil"
-	REBEL_CHR_tal: "Tal"
-	REBEL_CHR_vinn: "Vinn"
-	REBEL_CHR_atty: "Atty"
-	REBEL_CHR_gravom: "Gravom"
-	REBEL_CHR_tomas: "Tomas"
-	REBEL_CHR_tomaas: "Tomaas"
-	REBEL_CHR_ash: "Ash"
-	REBEL_CHR_jonas: "Jonas"
-	REBEL_CHR_yonas: "Yonas"
-	REBEL_CHR_kitster: "Kitster"
-	REBEL_CHR_sors: "Sors"
-	REBEL_CHR_mattis: "Mattis"
-	REBEL_CHR_arro: "Arro"
-	REBEL_CHR_zam: "Zam"
-	REBEL_CHR_zale: "Zale"
-	REBEL_CHR_mar: "Mar"
-	REBEL_CHR_jas: "Jas"
-	REBEL_CHR_neil: "Neil"
-	REBEL_CHR_biros: "Biros"
-	REBEL_CHR_jad: "Jad"
-	REBEL_CHR_moryo: "Moryo"
-	REBEL_CHR_tobias: "Tobias"
-	REBEL_CHR_nizuc: "Nizuc"
-	REBEL_CHR_tad: "Tad"
-	REBEL_CHR_dorin: "Dorin"
-	REBEL_CHR_leo: "Leo"
-	REBEL_CHR_alec: "Alec"
-	REBEL_CHR_megyn: "Megyn"
-	REBEL_CHR_mirienna: "Mirienna"
-	REBEL_CHR_nadrine: "Nadrine"
-	REBEL_CHR_magva: "Magva"
-	REBEL_CHR_aeliar: "Aeliar"
-	REBEL_CHR_tynnra: "Tynnra"
-	REBEL_CHR_magna: "Magna"
-	REBEL_CHR_nath: "Nath"
-	REBEL_CHR_lesle: "Lesle"
-	REBEL_CHR_allegra: "Allegra"
-	REBEL_CHR_ashe: "Ashe"
-	REBEL_CHR_belaya: "Belaya"
-	REBEL_CHR_aloren: "Aloren"
-	REBEL_CHR_renia: "Renia"
-	REBEL_CHR_lirisa: "Lirisa"
-	REBEL_CHR_travia: "Travia"
-	REBEL_CHR_javul: "Javul"
-	REBEL_CHR_tian: "Tian"
-	REBEL_CHR_cianne: "Cianne"
-	REBEL_CHR_meeta: "Meeta"
-	REBEL_CHR_dania: "Dania"
-	REBEL_CHR_dera: "Dera"
-	REBEL_CHR_elibet: "Elibet"
-	REBEL_CHR_shondra: "Shondra"
-	REBEL_CHR_lynia: "Lynia"
-	REBEL_CHR_mina: "Mina"
-	REBEL_CHR_chessa: "Chessa"
-	REBEL_CHR_chel: "Chel"
-	REBEL_CHR_ellenne: "Ellenne"
-	REBEL_CHR_silver: "Silver"
-	REBEL_CHR_gita: "Gita"
-	REBEL_CHR_astina: "Astina"
-	REBEL_CHR_rolanda: "Rolanda"
-	REBEL_CHR_selnia: "Selnia"
-	REBEL_CHR_ela: "Ela"
-	REBEL_CHR_setenna: "Setenna"
-	REBEL_CHR_jonda: "Jonda"
-	REBEL_CHR_fae: "Fae"
-	REBEL_CHR_milessa: "Milessa"
-	REBEL_CHR_terri: "Terri"
-	REBEL_CHR_teva: "Teva"
-	REBEL_CHR_katarra: "Katarra"
-	REBEL_CHR_nakari: "Nakari"
-	REBEL_CHR_tria: "Tria"
-	REBEL_CHR_vulaada: "Vulaada"
-	REBEL_CHR_kar: "Kar"
-	REBEL_CHR_ada: "Ada"
-	REBEL_CHR_avery: "Avery"
-	REBEL_CHR_dathnaeya: "Dathnaeya"
-	REBEL_CHR_leona: "Leona"
-	REBEL_CHR_marna: "Marna"
-	REBEL_CHR_corla: "Corla"
-	REBEL_CHR_sena: "Sena"
-	REBEL_CHR_mora: "Mora"
-	REBEL_CHR_voralla: "Voralla"
-	REBEL_CHR_oponni: "Oponni"
-	REBEL_CHR_kima: "Kima"
-	REBEL_CHR_neena: "Neena"
-	REBEL_CHR_platia: "Platia"
-	REBEL_CHR_elea: "Elea"
-	REBEL_CHR_shae: "Shae"
-	REBEL_CHR_una: "Una"
-	REBEL_CHR_ghia: "Ghia"
-	REBEL_CHR_karvinna: "Karvinna"
-	REBEL_CHR_talia: "Talia"
-	REBEL_CHR_mikka: "Mikka"
-	REBEL_CHR_iona: "Iona"
-	REBEL_CHR_morrina: "Morrina"
-	REBEL_CHR_shea: "Shea"
-	REBEL_CHR_samona: "Samona"
-	REBEL_CHR_sanna: "Sanna"
-	REBEL_CHR_sarrah: "Sarrah"
-	REBEL_CHR_silya: "Silya"
-	REBEL_CHR_solla: "Solla"
-	REBEL_CHR_sana: "Sana"
-	REBEL_CHR_marida: "Marida"
-	REBEL_CHR_alia: "Alia"
-	REBEL_CHR_mosara: "Mosara"
-	REBEL_CHR_mala: "Mala"
-	REBEL_CHR_trillia: "Trillia"
-	REBEL_CHR_nadea: "Nadea"
-	REBEL_CHR_hendri: "Hendri"
-	REBEL_CHR_valntya: "Valntya"
-	REBEL_CHR_kelly: "Kelly"
-	REBEL_CHR_kaysilla: "Kaysilla"
-	REBEL_CHR_shannon: "Shannon"
-	REBEL_CHR_brentin: "Brentin"
-	REBEL_CHR_zia: "Zia"
-	REBEL_CHR_cala: "Cala"
-	REBEL_CHR_feylis: "Feylis"
-	REBEL_CHR_viera: "Viera"
-	REBEL_CHR_samoc: "Samoc"
-	REBEL_CHR_myda: "Myda"
-	REBEL_CHR_kirst: "Kirst"
-	REBEL_CHR_elscol: "Elscol"
-	REBEL_CHR_ezla: "Ezla"
-	REBEL_CHR_karie: "Karie"
-	REBEL_CHR_gayla: "Gayla"
-	REBEL_CHR_cinda: "Cinda"
-	REBEL_CHR_alinn: "Alinn"
-	REBEL_CHR_rhysati: "Rhysati"
-	REBEL_CHR_myra: "Myra"
-	REBEL_CHR_myri: "Myri"
-	REBEL_CHR_bhindi: "Bhindi"
-	REBEL_CHR_shalla: "Shalla"
-	REBEL_CHR_falynn: "Falynn"
-	REBEL_CHR_jesmin: "Jesmin"
-	REBEL_CHR_tyria: "Tyria"
-	REBEL_CHR_zal: "Zal"
-	REBEL_CHR_aisala: "Aisala"
-	REBEL_CHR_amee: "Amee"
-	REBEL_CHR_camelle: "Camelle"
-	REBEL_CHR_belina: "Belina"
-	REBEL_CHR_tyla: "Tyla"
-	REBEL_CHR_lana: "Lana"
-	REBEL_CHR_sidi: "Sidi"
-	REBEL_CHR_jula: "Jula"
-	REBEL_CHR_anya: "Anya"
-	REBEL_CHR_swilla: "Swilla"
-	REBEL_CHR_celia: "Celia"
-	REBEL_CHR_caryn: "Caryn"
-	REBEL_CHR_melina: "Melina"
-	REBEL_CHR_kayna: "Kayna"
-	REBEL_CHR_celly: "Celly"
-	REBEL_CHR_gesselle: "Gesselle"
-	REBEL_CHR_jessie: "Jessie"
-	REBEL_CHR_vala: "Vala"
-	REBEL_CHR_samara: "Samara"
-	REBEL_CHR_mazicia: "Mazicia"
-	REBEL_CHR_lenan: "Lenan"
-	REBEL_CHR_beru: "Beru"
-	REBEL_CHR_shmi: "Shmi"
-	REBEL_CHR_nella: "Nella"
-	REBEL_CHR_dana: "Dana"
-	REBEL_CHR_minda: "Minda"
-	REBEL_CHR_lania: "Lania"
-	REBEL_CHR_jennica: "Jennica"
-	REBEL_CHR_camie: "Camie"
-	REBEL_CHR_kandji: "Kandji"
-	REBEL_CHR_kaimi: "Kaimi"
-	REBEL_CHR_princess_julya: "Princess Julya"
-	REBEL_CHR_joslara: "Joslara"
-	REBEL_CHR_kalymaeg: "Kalymaeg"
-	REBEL_CHR_camara: "Camara"
-	REBEL_CHR_lauril: "Lauril"
-	REBEL_CHR_auroava: "Auroava"
-	REBEL_CHR_camsca: "Camsca"
-	REBEL_CHR_monaya: "Monaya"
-	REBEL_CHR_melria: "Melria"
-	REBEL_CHR_elisele: "Elisele"
-	REBEL_CHR_kathau: "Kathau"
-	REBEL_CHR_eilles: "Eilles"
-	REBEL_CHR_emmaray: "Emmaray"
-	REBEL_CHR_anneaya: "Anneaya"
-	REBEL_CHR_emilei: "Emilei"
-	REBEL_CHR_brya: "Brya"
-	REBEL_CHR_friari: "Friari"
-	REBEL_CHR_emilkasa: "Emilkasa"
-	REBEL_CHR_daria: "Daria"
-	REBEL_CHR_avaca: "Avaca"
-	REBEL_CHR_savana: "Savana"
-	REBEL_CHR_ajasie: "Ajasie"
-	REBEL_CHR_julani: "Julani"
-	REBEL_CHR_lolrita: "Lolrita"
-	REBEL_CHR_genelea: "Genelea"
-	REBEL_CHR_shysa: "Shysa"
-	REBEL_CHR_julidea: "Julidea"
-	REBEL_CHR_elye: "Elye"
-	REBEL_CHR_nat: "Nat"
-	REBEL_CHR_mela: "Mela"
-	REBEL_CHR_isla: "Isla"
-	REBEL_CHR_kyra: "Kyra"
-	REBEL_CHR_nata: "Nata"
-	REBEL_CHR_soni: "Soni"
-	REBEL_CHR_kat: "Kat"
-	REBEL_CHR_kylca: "Kylca"
-	REBEL_CHR_shana: "Shana"
-	REBEL_CHR_lettya: "Lettya"
-	REBEL_CHR_kairi: "Kairi"
-	REBEL_CHR_fransa: "Fransa"
-	REBEL_CHR_katjenn: "Katjenn"
-	REBEL_CHR_gensha: "Gensha"
-	REBEL_CHR_shacha: "Shacha"
-	REBEL_CHR_katshya: "Katshya"
-	REBEL_CHR_nalla: "Nalla"
-	REBEL_CHR_jessika: "Jessika"
-	REBEL_CHR_shara: "Shara"
-	REBEL_CHR_kare: "Kare"
-	REBEL_CHR_elna: "Elna"
-	REBEL_CHR_shasa: "Shasa"
-	REBEL_CHR_nimi: "Nimi"
-	REBEL_CHR_adana: "Adana"
-	REBEL_CHR_terena: "Terena"
-	REBEL_CHR_nalia: "Nalia"
-	REBEL_CHR_kaiya: "Kaiya"
-	REBEL_CHR_krysta: "Krysta"
-	REBEL_CHR_jin_rio: "Jin-Rio"
-	REBEL_CHR_alani: "Alani"
-	REBEL_CHR_maelrich: "Maelrich"
-	REBEL_CHR_renata: "Renata"
-	REBEL_CHR_nala: "Nala"
-	REBEL_CHR_tess: "Tess"
-	REBEL_CHR_elarea: "Elarea"
-	REBEL_CHR_alya: "Alya"
-	REBEL_CHR_cassy: "Cassy"
-	REBEL_CHR_allura: "Allura"
-	REBEL_CHR_allie: "Allie"
-	REBEL_CHR_amaya: "Amaya"
-	REBEL_CHR_talena: "Talena"
-	REBEL_CHR_andra: "Andra"
-	REBEL_CHR_chelli: "Chelli"
-	REBEL_CHR_lona: "Lona"
-	REBEL_CHR_ona: "Ona"
-	REBEL_CHR_melnea: "Melnea"
-	REBEL_CHR_tash: "Tash"
-	REBEL_CHR_jora: "Jora"
-	REBEL_CHR_marda: "Marda"
-	REBEL_CHR_mardu: "Mardu"
-	REBEL_CHR_fema: "Fema"
-	REBEL_CHR_vitala: "Vitala"
-	REBEL_CHR_ress: "Ress"
-	REBEL_CHR_alecia: "Alecia"
-	REBEL_CHR_dansra: "Dansra"
-	REBEL_CHR_deena: "Deena"
-	REBEL_CHR_tricia: "Tricia"
-	REBEL_CHR_trina: "Trina"
-	REBEL_CHR_bella: "Bella"
-	REBEL_CHR_rasha: "Rasha"
-	REBEL_CHR_elta: "Elta"
-	REBEL_CHR_andit: "Andit"
-	REBEL_CHR_baarruck: "Baarruck"
-	REBEL_CHR_thimram: "Thimram"
-	REBEL_CHR_des: "Des"
-	REBEL_CHR_gor: "Gor"
-	REBEL_CHR_kantayan: "Kantayan"
-	REBEL_CHR_novaren: "Novaren"
-	REBEL_CHR_kosan: "Kosan"
-	REBEL_CHR_malbus: "Malbus"
-	REBEL_CHR_marana: "Marana"
-	REBEL_CHR_soone: "Soone"
-	REBEL_CHR_tallent: "Tallent"
-	REBEL_CHR_yarro: "Yarro"
-	REBEL_CHR_farrell: "Farrell"
-	REBEL_CHR_mattin: "Mattin"
-	REBEL_CHR_jin: "Jin"
-	REBEL_CHR_abya: "Abya"
-	REBEL_CHR_alder: "Alder"
-	REBEL_CHR_bygar: "Bygar"
-	REBEL_CHR_forell: "Forell"
-	REBEL_CHR_grafis: "Grafis"
-	REBEL_CHR_hudsol: "Hudsol"
-	REBEL_CHR_jebel: "Jebel"
-	REBEL_CHR_pamlo: "Pamlo"
-	REBEL_CHR_rieekan: "Rieekan"
-	REBEL_CHR_tantor: "Tantor"
-	REBEL_CHR_vaspar: "Vaspar"
-	REBEL_CHR_willard: "Willard"
-	REBEL_CHR_tolvan: "Tolvan"
-	REBEL_CHR_merrick: "Merrick"
-	REBEL_CHR_cor: "Cor"
-	REBEL_CHR_alico: "Alico"
-	REBEL_CHR_andreya: "Andreya"
-	REBEL_CHR_amar: "Amar"
-	REBEL_CHR_argdran: "Argdran"
-	REBEL_CHR_atanna: "Atanna"
-	REBEL_CHR_axlon: "Axlon"
-	REBEL_CHR_azur_jamin: "Azur-Jamin"
-	REBEL_CHR_barant: "Barant"
-	REBEL_CHR_barell: "Barell"
-	REBEL_CHR_baytor: "Baytor"
-	REBEL_CHR_borsil: "Borsil"
-	REBEL_CHR_breesa: "Breesa"
-	REBEL_CHR_brila: "Brila"
-	REBEL_CHR_cadaman: "Cadaman"
-	REBEL_CHR_casti: "Casti"
-	REBEL_CHR_carper: "Carper"
-	REBEL_CHR_charn: "Charn"
-	REBEL_CHR_chyler: "Chyler"
-	REBEL_CHR_clines: "Clines"
-	REBEL_CHR_cors: "Cors"
-	REBEL_CHR_dalhney: "Dalhney"
-	REBEL_CHR_dance: "Dance"
-	REBEL_CHR_dann: "Dann"
-	REBEL_CHR_darr: "Darr"
-	REBEL_CHR_dekven: "Dekven"
-	REBEL_CHR_dellox: "Dellox"
-	REBEL_CHR_deltura: "Deltura"
-	REBEL_CHR_demain: "DeMain"
-	REBEL_CHR_dene: "Dene"
-	REBEL_CHR_denive: "Denive"
-	REBEL_CHR_devvol: "Devvol"
-	REBEL_CHR_tolis: "Tolis"
-	REBEL_CHR_dioniso: "Dioniso"
-	REBEL_CHR_divini: "Divini"
-	REBEL_CHR_dohhenty: "Dohhenty"
-	REBEL_CHR_dorat: "Dorat"
-	REBEL_CHR_dox: "Dox"
-	REBEL_CHR_doza: "Doza"
-	REBEL_CHR_dray: "Dray"
-	REBEL_CHR_durn: "Durn"
-	REBEL_CHR_wune: "Wune"
-	REBEL_CHR_escalon: "Escalon"
-	REBEL_CHR_farnmir: "Farnmir"
-	REBEL_CHR_fennro: "Fennro"
-	REBEL_CHR_flask: "Flask"
-	REBEL_CHR_flatt: "Flatt"
-	REBEL_CHR_freemaker: "Freemaker"
-	REBEL_CHR_fuller: "Fuller"
-	REBEL_CHR_fyre: "Fyre"
-	REBEL_CHR_garnet: "Garnet"
-	REBEL_CHR_gillmunn: "Gillmunn"
-	REBEL_CHR_greenley: "Greenley"
-	REBEL_CHR_griek: "Griek"
-	REBEL_CHR_gron: "Gron"
-	REBEL_CHR_harbright: "Harbright"
-	REBEL_CHR_harns: "Harns"
-	REBEL_CHR_hase: "Hase"
-	REBEL_CHR_hunter: "Hunter"
-	REBEL_CHR_hurra: "Hurra"
-	REBEL_CHR_ikova: "Ikova"
-	REBEL_CHR_joanson: "Joanson"
-	REBEL_CHR_kalena: "Kalena"
-	REBEL_CHR_kamiroz: "Kamiroz"
-	REBEL_CHR_kand: "Kand"
-	REBEL_CHR_kelen: "Kelen"
-	REBEL_CHR_kelvin: "Kelvin"
-	REBEL_CHR_keyn: "Keyn"
-	REBEL_CHR_khamp: "Khamp"
-	REBEL_CHR_klam: "Klam"
-	REBEL_CHR_korbin: "Korbin"
-	REBEL_CHR_kreskian: "Kreskian"
-	REBEL_CHR_kultosi: "Kultosi"
-	REBEL_CHR_lamoran: "Lamoran"
-	REBEL_CHR_lavorn: "Lavorn"
-	REBEL_CHR_leith: "Leith"
-	REBEL_CHR_lell: "Lell"
-	REBEL_CHR_liddle: "Liddle"
-	REBEL_CHR_lin: "Lin"
-	REBEL_CHR_linnix: "Linnix"
-	REBEL_CHR_loessin: "Loessin"
-	REBEL_CHR_lucian: "Lucian"
-	REBEL_CHR_makk: "Makk"
-	REBEL_CHR_malvarra: "Malvarra"
-	REBEL_CHR_metonae: "Metonae"
-	REBEL_CHR_midanyl: "Midanyl"
-	REBEL_CHR_morbo: "Morbo"
-	REBEL_CHR_moroni: "Moroni"
-	REBEL_CHR_muse: "Muse"
-	REBEL_CHR_nardah: "Nardah"
-	REBEL_CHR_narek: "Narek"
-	REBEL_CHR_nazith: "Nazith"
-	REBEL_CHR_o_shaunessy: "O'Shaunessy"
-	REBEL_CHR_odan: "Odan"
-	REBEL_CHR_poistaa: "Poistaa"
-	REBEL_CHR_poot: "Poot"
-	REBEL_CHR_preyssola: "Preyssola"
-	REBEL_CHR_raen: "Raen"
-	REBEL_CHR_ramas: "Ramas"
-	REBEL_CHR_reede: "Reede"
-	REBEL_CHR_reekeene: "Reekeene"
-	REBEL_CHR_renkov: "Renkov"
-	REBEL_CHR_reshad: "Reshad"
-	REBEL_CHR_retter: "Retter"
-	REBEL_CHR_reugus: "Reugus"
-	REBEL_CHR_rusper: "Rusper"
-	REBEL_CHR_rystra: "Rystra"
-	REBEL_CHR_sadashassa: "Sadashassa"
-	REBEL_CHR_saponza: "Saponza"
-	REBEL_CHR_shessaun: "Shessaun"
-	REBEL_CHR_simito: "Simito"
-	REBEL_CHR_sol: "Sol"
-	REBEL_CHR_kyler: "Kyler"
-	REBEL_CHR_staganac: "Staganac"
-	REBEL_CHR_starros: "Starros"
-	REBEL_CHR_sumar: "Sumar"
-	REBEL_CHR_sunber: "Sunber"
-	REBEL_CHR_talon: "Talon"
-	REBEL_CHR_talor: "Talor"
-	REBEL_CHR_terae: "Terae"
-	REBEL_CHR_thiirn: "Thiirn"
-	REBEL_CHR_tinero: "Tinero"
-	REBEL_CHR_trigg: "Trigg"
-	REBEL_CHR_underholt: "Underholt"
-	REBEL_CHR_vallan: "Vallan"
-	REBEL_CHR_veers: "Veers"
-	REBEL_CHR_vermillion: "Vermillion"
-	REBEL_CHR_verwood: "Verwood"
-	REBEL_CHR_vharn: "Vharn"
-	REBEL_CHR_vibrion: "Vibrion"
-	REBEL_CHR_vokkoli: "Vokkoli"
-	REBEL_CHR_voorhorian: "Voorhorian"
-	REBEL_CHR_voorson: "Voorson"
-	REBEL_CHR_waller: "Waller"
-	REBEL_CHR_winnis: "Winnis"
-	REBEL_CHR_woog: "Woog"
-	REBEL_CHR_worner: "Worner"
-	REBEL_CHR_yeager: "Yeager"
-	REBEL_CHR_yekkiv: "Yekkiv"
-	REBEL_CHR_yoth: "Yoth"
-	REBEL_CHR_oryn: "Oryn"
-	REBEL_CHR_zissu: "Zissu"
-	REBEL_CHR_beruss: "Beruss"
-	REBEL_CHR_capstan: "Capstan"
-	REBEL_CHR_cheran: "Cheran"
-	REBEL_CHR_datch: "Datch"
-	REBEL_CHR_hightower: "Hightower"
-	REBEL_CHR_jace: "Jace"
-	REBEL_CHR_kian: "Kian"
-	REBEL_CHR_loro: "Loro"
-	REBEL_CHR_moor: "Moor"
-	REBEL_CHR_neth: "Neth"
-	REBEL_CHR_ommis: "Ommis"
-	REBEL_CHR_riemann: "Riemann"
-	REBEL_CHR_rivian: "Rivian"
-	REBEL_CHR_santage: "Santage"
-	REBEL_CHR_scotian: "Scotian"
-	REBEL_CHR_senesca: "Senesca"
-	REBEL_CHR_sojan: "Sojan"
-	REBEL_CHR_tarheel: "Tarheel"
-	REBEL_CHR_valent: "Valent"
-	REBEL_CHR_varth: "Varth"
-	REBEL_CHR_arnjak: "Arnjak"
-	REBEL_CHR_courser: "Courser"
-	REBEL_CHR_daine: "Daine"
-	REBEL_CHR_drayson: "Drayson"
-	REBEL_CHR_durra: "Durra"
-	REBEL_CHR_loran: "Loran"
-	REBEL_CHR_nelprin: "Nelprin"
-	REBEL_CHR_phanan: "Phanan"
-	REBEL_CHR_sandskimmer: "Sandskimmer"
-	REBEL_CHR_sarkin: "Sarkin"
-	REBEL_CHR_porkins: "Porkins"
-	REBEL_CHR_dinnes: "Dinnes"
-	REBEL_CHR_frix: "Frix"
-	REBEL_CHR_gaul: "Gaul"
-	REBEL_CHR_kott: "Kott"
-	REBEL_CHR_naeco: "Naeco"
-	REBEL_CHR_naytaan: "Naytaan"
-	REBEL_CHR_nett: "Nett"
-	REBEL_CHR_quersey: "Quersey"
-	REBEL_CHR_surrel: "Surrel"
-	REBEL_CHR_takbright: "Takbright"
-	REBEL_CHR_risant: "Risant"
-	REBEL_CHR_barje: "Barje"
-	REBEL_CHR_lars: "Lars"
-	REBEL_CHR_bjornson: "Bjornson"
-	REBEL_CHR_calwell: "Calwell"
-	REBEL_CHR_crell: "Crell"
-	REBEL_CHR_thaney: "Thaney"
-	REBEL_CHR_pierce: "Pierce"
-	REBEL_CHR_marstrap: "Marstrap"
-	REBEL_CHR_magzyn: "Magzyn"
-	REBEL_CHR_grek: "Grek"
-	REBEL_CHR_duggsin: "Duggsin"
-	REBEL_CHR_cander: "Cander"
-	REBEL_CHR_torsyn: "Torsyn"
-	REBEL_CHR_lepira: "Lepira"
-	REBEL_CHR_krail: "Krail"
-	REBEL_CHR_onstall: "Onstall"
-	REBEL_CHR_tiree: "Tiree"
-	REBEL_CHR_vane: "Vane"
-	REBEL_CHR_kun: "Kun"
-	REBEL_CHR_zaro: "Zaro"
-	REBEL_CHR_chireen: "Chireen"
-	REBEL_CHR_ablund: "Ablund"
-	REBEL_CHR_azoras: "Azoras"
-	REBEL_CHR_beckett: "Beckett"
+	REBEL_SHIP_allegiant: "Allegiant" #!Empty_LineInfo!
+	REBEL_SHIP_consummate: "Consummate" #!Empty_LineInfo!
+	REBEL_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	REBEL_SHIP_renegade: "Renegade" #!Empty_LineInfo!
+	REBEL_SHIP_magnanimous: "Magnanimous" #!Empty_LineInfo!
+	REBEL_SHIP_magnanimity: "Magnanimity" #!Empty_LineInfo!
+	REBEL_SHIP_virtuous: "Virtuous" #!Empty_LineInfo!
+	REBEL_SHIP_virtuosity: "Virtuosity" #!Empty_LineInfo!
+	REBEL_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	REBEL_SHIP_champion: "Champion" #!Empty_LineInfo!
+	REBEL_SHIP_fortitude: "Fortitude" #!Empty_LineInfo!
+	REBEL_SHIP_thunderclap: "Thunderclap" #!Empty_LineInfo!
+	REBEL_SHIP_far_thunder: "Far Thunder" #!Empty_LineInfo!
+	REBEL_SHIP_allusis: "Allusis" #!Empty_LineInfo!
+	REBEL_SHIP_anodyne: "Anodyne" #!Empty_LineInfo!
+	REBEL_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	REBEL_SHIP_star_of_brentaal: "Star of Brentaal" #!Empty_LineInfo!
+	REBEL_SHIP_conductor: "Conductor" #!Empty_LineInfo!
+	REBEL_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	REBEL_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	REBEL_SHIP_deference: "Deference" #!Empty_LineInfo!
+	REBEL_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	REBEL_SHIP_derriphan: "Derriphan" #!Empty_LineInfo!
+	REBEL_SHIP_diligence: "Diligence" #!Empty_LineInfo!
+	REBEL_SHIP_dorin_s_sky: "Dorin's Sky" #!Empty_LineInfo!
+	REBEL_SHIP_dragonfly: "Dragonfly" #!Empty_LineInfo!
+	REBEL_SHIP_endar_rebirth: "Endar Rebirth" #!Empty_LineInfo!
+	REBEL_SHIP_enkindler: "Enkindler" #!Empty_LineInfo!
+	REBEL_SHIP_envoy: "Envoy" #!Empty_LineInfo!
+	REBEL_SHIP_esseles: "Esseles" #!Empty_LineInfo!
+	REBEL_SHIP_euphony: "Euphony" #!Empty_LineInfo!
+	REBEL_SHIP_extempus: "Extempus" #!Empty_LineInfo!
+	REBEL_SHIP_farstar: "FarStar" #!Empty_LineInfo!
+	REBEL_SHIP_flame_of_sinthara: "Flame of Sinthara" #!Empty_LineInfo!
+	REBEL_SHIP_flashfire: "Flashfire" #!Empty_LineInfo!
+	REBEL_SHIP_foray: "Foray" #!Empty_LineInfo!
+	REBEL_SHIP_founder: "Founder" #!Empty_LineInfo!
+	REBEL_SHIP_honor_guard: "Honor Guard" #!Empty_LineInfo!
+	REBEL_SHIP_clarion: "Clarion" #!Empty_LineInfo!
+	REBEL_SHIP_star_guardian: "Star Guardian" #!Empty_LineInfo!
+	REBEL_SHIP_gav_daragon: "Gav Daragon" #!Empty_LineInfo!
+	REBEL_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	REBEL_SHIP_jurgoran: "Jurgoran" #!Empty_LineInfo!
+	REBEL_SHIP_indefatigable: "Indefatigable" #!Empty_LineInfo!
+	REBEL_SHIP_indignation: "Indignation" #!Empty_LineInfo!
+	REBEL_SHIP_intercessor: "Intercessor" #!Empty_LineInfo!
+	REBEL_SHIP_liberator: "Liberator" #!Empty_LineInfo!
+	REBEL_SHIP_manumission: "Manumission" #!Empty_LineInfo!
+	REBEL_SHIP_emancipator: "Emancipator" #!Empty_LineInfo!
+	REBEL_SHIP_lokani_dawn: "Lokani Dawn" #!Empty_LineInfo!
+	REBEL_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	REBEL_SHIP_gracious: "Gracious" #!Empty_LineInfo!
+	REBEL_SHIP_nova: "Nova" #!Empty_LineInfo!
+	REBEL_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	REBEL_SHIP_champion_of_iridonia: "Champion of Iridonia" #!Empty_LineInfo!
+	REBEL_SHIP_dodonna: "Dodonna" #!Empty_LineInfo!
+	REBEL_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	REBEL_SHIP_sojourn: "Sojourn" #!Empty_LineInfo!
+	REBEL_SHIP_tanthior: "Tanthior" #!Empty_LineInfo!
+	REBEL_SHIP_testament: "Testament" #!Empty_LineInfo!
+	REBEL_SHIP_veltraa: "Veltraa" #!Empty_LineInfo!
+	REBEL_SHIP_corvana: "Corvana" #!Empty_LineInfo!
+	REBEL_SHIP_crimson_fleece: "Crimson Fleece" #!Empty_LineInfo!
+	REBEL_SHIP_daybreaker: "Daybreaker" #!Empty_LineInfo!
+	REBEL_SHIP_outrider: "Outrider" #!Empty_LineInfo!
+	REBEL_SHIP_vanguard_s_blade: "Vanguard's Blade" #!Empty_LineInfo!
+	REBEL_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	REBEL_SHIP_windu: "Windu" #!Empty_LineInfo!
+	REBEL_SHIP_charger: "Charger" #!Empty_LineInfo!
+	REBEL_SHIP_selfless: "Selfless" #!Empty_LineInfo!
+	REBEL_SHIP_serenity: "Serenity" #!Empty_LineInfo!
+	REBEL_SHIP_righteous_venture: "Righteous Venture" #!Empty_LineInfo!
+	REBEL_SHIP_organa: "Organa" #!Empty_LineInfo!
+	REBEL_SHIP_protector: "Protector" #!Empty_LineInfo!
+	REBEL_SHIP_warden: "Warden" #!Empty_LineInfo!
+	REBEL_SHIP_defender: "Defender" #!Empty_LineInfo!
+	REBEL_SHIP_absolution: "Absolution" #!Empty_LineInfo!
+	REBEL_SHIP_kenobi: "Kenobi" #!Empty_LineInfo!
+	REBEL_SHIP_billaba: "Billaba" #!Empty_LineInfo!
+	REBEL_SHIP_braylon: "Braylon" #!Empty_LineInfo!
+	REBEL_SHIP_gallia: "Gallia" #!Empty_LineInfo!
+	REBEL_SHIP_general_koth: "General Koth" #!Empty_LineInfo!
+	REBEL_SHIP_lestin: "Lestin" #!Empty_LineInfo!
+	REBEL_SHIP_rancisis: "Rancisis" #!Empty_LineInfo!
+	REBEL_SHIP_sinube: "Sinube" #!Empty_LineInfo!
+	REBEL_SHIP_shaak_ti: "Shaak Ti" #!Empty_LineInfo!
+	REBEL_SHIP_trebor: "Trebor" #!Empty_LineInfo!
+	REBEL_SHIP_vilbum: "Vilbum" #!Empty_LineInfo!
+	REBEL_SHIP_ziveri: "Ziveri" #!Empty_LineInfo!
+	REBEL_SHIP_loyalty: "Loyalty" #!Empty_LineInfo!
+	REBEL_SHIP_mendicant: "Mendicant" #!Empty_LineInfo!
+	REBEL_SHIP_adherent: "Adherent" #!Empty_LineInfo!
+	REBEL_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	REBEL_SHIP_open_hand: "Open Hand" #!Empty_LineInfo!
+	REBEL_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	REBEL_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	REBEL_SHIP_arbitrator: "Arbitrator" #!Empty_LineInfo!
+	REBEL_SHIP_justice: "Justice" #!Empty_LineInfo!
+	REBEL_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	REBEL_SHIP_judgement: "Judgement" #!Empty_LineInfo!
+	REBEL_SHIP_conciliator: "Conciliator" #!Empty_LineInfo!
+	REBEL_SHIP_peacemaker: "Peacemaker" #!Empty_LineInfo!
+	REBEL_SHIP_peacekeeper: "Peacekeeper" #!Empty_LineInfo!
+	REBEL_SHIP_tyrannicide: "Tyrannicide" #!Empty_LineInfo!
+	REBEL_SHIP_adjudicator: "Adjudicator" #!Empty_LineInfo!
+	REBEL_SHIP_judicious: "Judicious" #!Empty_LineInfo!
+	REBEL_SHIP_prudence: "Prudence" #!Empty_LineInfo!
+	REBEL_SHIP_savior: "Savior" #!Empty_LineInfo!
+	REBEL_SHIP_vowsworn: "Vowsworn" #!Empty_LineInfo!
+	REBEL_SHIP_preserver: "Preserver" #!Empty_LineInfo!
+	REBEL_SHIP_senate_s_rebuke: "Senate's Rebuke" #!Empty_LineInfo!
+	REBEL_SHIP_rebuker: "Rebuker" #!Empty_LineInfo!
+	REBEL_SHIP_final_argument: "Final Argument" #!Empty_LineInfo!
+	REBEL_SHIP_steward: "Steward" #!Empty_LineInfo!
+	REBEL_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	REBEL_SHIP_fidelity: "Fidelity" #!Empty_LineInfo!
+	REBEL_SHIP_impartial: "Impartial" #!Empty_LineInfo!
+	REBEL_SHIP_magistrate: "Magistrate" #!Empty_LineInfo!
+	REBEL_SHIP_equalizer: "Equalizer" #!Empty_LineInfo!
+	REBEL_SHIP_temperance: "Temperance" #!Empty_LineInfo!
+	REBEL_SHIP_amidala: "Amidala" #!Empty_LineInfo!
+	REBEL_SHIP_upholder: "Upholder" #!Empty_LineInfo!
+	REBEL_SHIP_constitution: "Constitution" #!Empty_LineInfo!
+	REBEL_SHIP_oathkeeper: "Oathkeeper" #!Empty_LineInfo!
+	REBEL_SHIP_oathsworn: "Oathsworn" #!Empty_LineInfo!
+	REBEL_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	REBEL_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	REBEL_SHIP_irreprochable: "Irreprochable" #!Empty_LineInfo!
+	REBEL_SHIP_legend: "Legend" #!Empty_LineInfo!
+	REBEL_SHIP_remitter: "Remitter" #!Empty_LineInfo!
+	REBEL_SHIP_chainbreaker: "Chainbreaker" #!Empty_LineInfo!
+	REBEL_SHIP_heroic: "Heroic" #!Empty_LineInfo!
+	REBEL_SHIP_hero_of_tython: "Hero of Tython" #!Empty_LineInfo!
+	REBEL_SHIP_lord_hoth: "Lord Hoth" #!Empty_LineInfo!
+	REBEL_SHIP_valorum: "Valorum" #!Empty_LineInfo!
+	REBEL_SHIP_lightbringer: "Lightbringer" #!Empty_LineInfo!
+	REBEL_SHIP_illuminator: "Illuminator" #!Empty_LineInfo!
+	REBEL_SHIP_resurgent: "Resurgent" #!Empty_LineInfo!
+	REBEL_SHIP_new_hope: "New Hope" #!Empty_LineInfo!
+	REBEL_SHIP_rising_fire: "Rising Fire" #!Empty_LineInfo!
+	REBEL_SHIP_ranger: "Ranger" #!Empty_LineInfo!
+	REBEL_SHIP_judicial: "Judicial" #!Empty_LineInfo!
+	REBEL_SHIP_indecta: "Indecta" #!Empty_LineInfo!
+	REBEL_SHIP_qu_rhan: "Qu Rhan" #!Empty_LineInfo!
+	REBEL_SHIP_inquest: "Inquest" #!Empty_LineInfo!
+	REBEL_SHIP_antecedent: "Antecedent" #!Empty_LineInfo!
+	REBEL_SHIP_presidium: "Presidium" #!Empty_LineInfo!
+	REBEL_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	REBEL_SHIP_luminous: "Luminous" #!Empty_LineInfo!
+	REBEL_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	REBEL_SHIP_condemner: "Condemner" #!Empty_LineInfo!
+	REBEL_SHIP_restoration: "Restoration" #!Empty_LineInfo!
+	REBEL_SHIP_restorer: "Restorer" #!Empty_LineInfo!
+	REBEL_SHIP_ardent_glare: "Ardent Glare" #!Empty_LineInfo!
+	REBEL_SHIP_broken_sword: "Broken Sword" #!Empty_LineInfo!
+	REBEL_SHIP_lightcharger: "Lightcharger" #!Empty_LineInfo!
+	REBEL_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	REBEL_SHIP_lionheart: "Lionheart" #!Empty_LineInfo!
+	REBEL_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	REBEL_SHIP_intrepid: "Intrepid" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_s_call: "Freedom's Call" #!Empty_LineInfo!
+	REBEL_SHIP_collective_will: "Collective Will" #!Empty_LineInfo!
+	REBEL_SHIP_profundity: "Profundity" #!Empty_LineInfo!
+	REBEL_SHIP_stardust: "Stardust" #!Empty_LineInfo!
+	REBEL_SHIP_partisan: "Partisan" #!Empty_LineInfo!
+	REBEL_SHIP_spirit_of_fire: "Spirit of Fire" #!Empty_LineInfo!
+	REBEL_SHIP_caamasi_dream: "Caamasi Dream" #!Empty_LineInfo!
+	REBEL_SHIP_declaration: "Declaration" #!Empty_LineInfo!
+	REBEL_SHIP_independence: "Independence" #!Empty_LineInfo!
+	REBEL_SHIP_guarantor: "Guarantor" #!Empty_LineInfo!
+	REBEL_SHIP_junari: "Junari" #!Empty_LineInfo!
+	REBEL_SHIP_andraste: "Andraste" #!Empty_LineInfo!
+	REBEL_SHIP_andrasha: "Andrasha" #!Empty_LineInfo!
+	REBEL_SHIP_solar_voice: "Solar Voice" #!Empty_LineInfo!
+	REBEL_SHIP_vox: "Vox" #!Empty_LineInfo!
+	REBEL_SHIP_democrat: "Democrat" #!Empty_LineInfo!
+	REBEL_SHIP_republican: "Republican" #!Empty_LineInfo!
+	REBEL_SHIP_spire_of_war: "Spire of War" #!Empty_LineInfo!
+	REBEL_SHIP_warchild: "Warchild" #!Empty_LineInfo!
+	REBEL_SHIP_governor_bibble: "Governor Bibble" #!Empty_LineInfo!
+	REBEL_SHIP_advisor: "Advisor" #!Empty_LineInfo!
+	REBEL_SHIP_councilor: "Councilor" #!Empty_LineInfo!
+	REBEL_SHIP_panaka: "Panaka" #!Empty_LineInfo!
+	REBEL_SHIP_jamillia: "Jamillia" #!Empty_LineInfo!
+	REBEL_SHIP_typho: "Typho" #!Empty_LineInfo!
+	REBEL_SHIP_jukassa: "Jukassa" #!Empty_LineInfo!
+	REBEL_SHIP_final_chance: "Final Chance" #!Empty_LineInfo!
+	REBEL_SHIP_due_process: "Due Process" #!Empty_LineInfo!
+	REBEL_SHIP_roughrider: "Roughrider" #!Empty_LineInfo!
+	REBEL_SHIP_outlander: "Outlander" #!Empty_LineInfo!
+	REBEL_SHIP_c_baoth: "C'baoth" #!Empty_LineInfo!
+	REBEL_SHIP_advocate: "Advocate" #!Empty_LineInfo!
+	REBEL_SHIP_sacred_duty: "Sacred Duty" #!Empty_LineInfo!
+	REBEL_SHIP_beacon: "Beacon" #!Empty_LineInfo!
+	REBEL_SHIP_oasis: "Oasis" #!Empty_LineInfo!
+	REBEL_SHIP_outspoken: "Outspoken" #!Empty_LineInfo!
+	REBEL_SHIP_conscientious: "Conscientious" #!Empty_LineInfo!
+	REBEL_SHIP_objector: "Objector" #!Empty_LineInfo!
+	REBEL_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	REBEL_SHIP_persevere: "Persevere" #!Empty_LineInfo!
+	REBEL_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	REBEL_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	REBEL_SHIP_rectifier: "Rectifier" #!Empty_LineInfo!
+	REBEL_SHIP_regulator: "Regulator" #!Empty_LineInfo!
+	REBEL_SHIP_tolerance: "Tolerance" #!Empty_LineInfo!
+	REBEL_SHIP_heartlander: "Heartlander" #!Empty_LineInfo!
+	REBEL_SHIP_pride_of_the_rim: "Pride of the Rim" #!Empty_LineInfo!
+	REBEL_SHIP_shield_of_the_rim: "Shield of the Rim" #!Empty_LineInfo!
+	REBEL_SHIP_volition: "Volition" #!Empty_LineInfo!
+	REBEL_SHIP_absolver: "Absolver" #!Empty_LineInfo!
+	REBEL_SHIP_deliberator: "Deliberator" #!Empty_LineInfo!
+	REBEL_SHIP_union: "Union" #!Empty_LineInfo!
+	REBEL_SHIP_obviator: "Obviator" #!Empty_LineInfo!
+	REBEL_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	REBEL_SHIP_imperator_vex: "Imperator Vex" #!Empty_LineInfo!
+	REBEL_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	REBEL_SHIP_abolisher: "Abolisher" #!Empty_LineInfo!
+	REBEL_SHIP_accordance: "Accordance" #!Empty_LineInfo!
+	REBEL_SHIP_admonition: "Admonition" #!Empty_LineInfo!
+	REBEL_SHIP_aelena: "Aelena" #!Empty_LineInfo!
+	REBEL_SHIP_aeolus: "Aeolus" #!Empty_LineInfo!
+	REBEL_SHIP_agitator: "Agitator" #!Empty_LineInfo!
+	REBEL_SHIP_akaga: "Akaga" #!Empty_LineInfo!
+	REBEL_SHIP_alliance: "Alliance" #!Empty_LineInfo!
+	REBEL_SHIP_another_chance: "Another Chance" #!Empty_LineInfo!
+	REBEL_SHIP_angelus: "Angelus" #!Empty_LineInfo!
+	REBEL_SHIP_antarra: "Antarra" #!Empty_LineInfo!
+	REBEL_SHIP_anuti: "Anuti" #!Empty_LineInfo!
+	REBEL_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	REBEL_SHIP_arsenal: "Arsenal" #!Empty_LineInfo!
+	REBEL_SHIP_arion_star: "Arion Star" #!Empty_LineInfo!
+	REBEL_SHIP_arkanian_guard: "Arkanian Guard" #!Empty_LineInfo!
+	REBEL_SHIP_arrow_of_sullust: "Arrow of Sullust" #!Empty_LineInfo!
+	REBEL_SHIP_aspiration: "Aspiration" #!Empty_LineInfo!
+	REBEL_SHIP_inspiration: "Inspiration" #!Empty_LineInfo!
+	REBEL_SHIP_athega: "Athega" #!Empty_LineInfo!
+	REBEL_SHIP_auric: "Auric" #!Empty_LineInfo!
+	REBEL_SHIP_autonomy: "Autonomy" #!Empty_LineInfo!
+	REBEL_SHIP_axet: "Axet" #!Empty_LineInfo!
+	REBEL_SHIP_azure: "Azure" #!Empty_LineInfo!
+	REBEL_SHIP_black_ice: "Black Ice" #!Empty_LineInfo!
+	REBEL_SHIP_redressor: "Redressor" #!Empty_LineInfo!
+	REBEL_SHIP_valorant: "Valorant" #!Empty_LineInfo!
+	REBEL_SHIP_old_glory: "Old Glory" #!Empty_LineInfo!
+	REBEL_SHIP_republic_dawn: "Republic Dawn" #!Empty_LineInfo!
+	REBEL_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	REBEL_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	REBEL_SHIP_firebird: "Firebird" #!Empty_LineInfo!
+	REBEL_SHIP_freebird: "Freebird" #!Empty_LineInfo!
+	REBEL_SHIP_freeholder: "Freeholder" #!Empty_LineInfo!
+	REBEL_SHIP_elector: "Elector" #!Empty_LineInfo!
+	REBEL_SHIP_resister: "Resister" #!Empty_LineInfo!
+	REBEL_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	REBEL_SHIP_rebel_yell: "Rebel Yell" #!Empty_LineInfo!
+	REBEL_SHIP_ironhide: "Ironhide" #!Empty_LineInfo!
+	REBEL_SHIP_ironside: "Ironside" #!Empty_LineInfo!
+	REBEL_SHIP_remunerator: "Remunerator" #!Empty_LineInfo!
+	REBEL_SHIP_sacred_charge: "Sacred Charge" #!Empty_LineInfo!
+	REBEL_SHIP_flame_of_liberty: "Flame of Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_thronebreaker: "Thronebreaker" #!Empty_LineInfo!
+	REBEL_SHIP_philosopher_queen: "Philosopher Queen" #!Empty_LineInfo!
+	REBEL_SHIP_noble_obligation: "Noble Obligation" #!Empty_LineInfo!
+	REBEL_SHIP_warcry: "Warcry" #!Empty_LineInfo!
+	REBEL_SHIP_unwavering: "Unwavering" #!Empty_LineInfo!
+	REBEL_SHIP_irreproachable: "Irreproachable" #!Empty_LineInfo!
+	REBEL_SHIP_irrevocable: "Irrevocable" #!Empty_LineInfo!
+	REBEL_SHIP_patriot_blood: "Patriot Blood" #!Empty_LineInfo!
+	REBEL_SHIP_lifegiver: "Lifegiver" #!Empty_LineInfo!
+	REBEL_SHIP_fervent: "Fervent" #!Empty_LineInfo!
+	REBEL_SHIP_fomentor: "Fomentor" #!Empty_LineInfo!
+	REBEL_SHIP_mentor: "Mentor" #!Empty_LineInfo!
+	REBEL_SHIP_entreaty: "Entreaty" #!Empty_LineInfo!
+	REBEL_SHIP_thunderhawk: "Thunderhawk" #!Empty_LineInfo!
+	REBEL_SHIP_bastilla: "Bastilla" #!Empty_LineInfo!
+	REBEL_SHIP_satele: "Satele" #!Empty_LineInfo!
+	REBEL_SHIP_leontyne_saresh: "Leontyne Saresh" #!Empty_LineInfo!
+	REBEL_SHIP_affeltelti: "Affeltelti" #!Empty_LineInfo!
+	REBEL_SHIP_tol_cressa: "Tol Cressa" #!Empty_LineInfo!
+	REBEL_SHIP_paran_am_ris: "Paran Am-Ris" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_berooken: "Chancellor Berooken" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_blotus: "Chancellor Blotus" #!Empty_LineInfo!
+	REBEL_SHIP_biel_ductavis: "Biel Ductavis" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_eddicus: "Chancellor Eddicus" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_fillorean: "Chancellor Fillorean" #!Empty_LineInfo!
+	REBEL_SHIP_consular: "Consular" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_genarra: "Chancellor Genarra" #!Empty_LineInfo!
+	REBEL_SHIP_barsen_thor: "Barsen'thor" #!Empty_LineInfo!
+	REBEL_SHIP_dorian_janarus: "Dorian Janarus" #!Empty_LineInfo!
+	REBEL_SHIP_kirames_kaj: "Kirames Kaj" #!Empty_LineInfo!
+	REBEL_SHIP_gnost_dural: "Gnost-Dural" #!Empty_LineInfo!
+	REBEL_SHIP_signet_mezzileen: "Signet Mezzileen" #!Empty_LineInfo!
+	REBEL_SHIP_waymancer: "Waymancer" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_nagratha: "Chancellor Nagratha" #!Empty_LineInfo!
+	REBEL_SHIP_vaila_pecivas: "Vaila Pecivas" #!Empty_LineInfo!
+	REBEL_SHIP_chasen_piian: "Chasen Piian" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_pultimo: "Chancellor Pultimo" #!Empty_LineInfo!
+	REBEL_SHIP_galena_rans: "Galena Rans" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_sidrona: "Chancellor Sidrona" #!Empty_LineInfo!
+	REBEL_SHIP_lina_soh: "Lina Soh" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor_vedij: "Chancellor Vedij" #!Empty_LineInfo!
+	REBEL_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	REBEL_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	REBEL_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	REBEL_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	REBEL_SHIP_bellerophon: "Bellerophon" #!Empty_LineInfo!
+	REBEL_SHIP_blackjack: "Blackjack" #!Empty_LineInfo!
+	REBEL_SHIP_blue_queen: "Blue Queen" #!Empty_LineInfo!
+	REBEL_SHIP_blue_wave: "Blue Wave" #!Empty_LineInfo!
+	REBEL_SHIP_bonderium: "Bonderium" #!Empty_LineInfo!
+	REBEL_SHIP_braha_tok: "Braha'tok" #!Empty_LineInfo!
+	REBEL_SHIP_bravado: "Bravado" #!Empty_LineInfo!
+	REBEL_SHIP_breha: "Breha" #!Empty_LineInfo!
+	REBEL_SHIP_bright_hope: "Bright Hope" #!Empty_LineInfo!
+	REBEL_SHIP_cadmus: "Cadmus" #!Empty_LineInfo!
+	REBEL_SHIP_candor: "Candor" #!Empty_LineInfo!
+	REBEL_SHIP_canopus: "Canopus" #!Empty_LineInfo!
+	REBEL_SHIP_carpagian: "Carpagian" #!Empty_LineInfo!
+	REBEL_SHIP_cathleen: "Cathleen" #!Empty_LineInfo!
+	REBEL_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	REBEL_SHIP_celestial_dancer: "Celestial Dancer" #!Empty_LineInfo!
+	REBEL_SHIP_chancellor: "Chancellor" #!Empty_LineInfo!
+	REBEL_SHIP_chaser: "Chaser" #!Empty_LineInfo!
+	REBEL_SHIP_cimigo: "Cimigo" #!Empty_LineInfo!
+	REBEL_SHIP_cobra: "Cobra" #!Empty_LineInfo!
+	REBEL_SHIP_coen: "Coen" #!Empty_LineInfo!
+	REBEL_SHIP_colada: "Colada" #!Empty_LineInfo!
+	REBEL_SHIP_compassion: "Compassion" #!Empty_LineInfo!
+	REBEL_SHIP_compellor: "Compellor" #!Empty_LineInfo!
+	REBEL_SHIP_consonance: "Consonance" #!Empty_LineInfo!
+	REBEL_SHIP_constant_spirit: "Constant Spirit" #!Empty_LineInfo!
+	REBEL_SHIP_corellia_star: "Corellia Star" #!Empty_LineInfo!
+	REBEL_SHIP_corellian_thunder: "Corellian Thunder" #!Empty_LineInfo!
+	REBEL_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	REBEL_SHIP_cretacian: "Cretacian" #!Empty_LineInfo!
+	REBEL_SHIP_criterios: "Criterios" #!Empty_LineInfo!
+	REBEL_SHIP_cutter: "Cutter" #!Empty_LineInfo!
+	REBEL_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	REBEL_SHIP_cruuz: "Cruuz" #!Empty_LineInfo!
+	REBEL_SHIP_cygnate: "Cygnate" #!Empty_LineInfo!
+	REBEL_SHIP_dantin_s_folly: "Dantin's Folly" #!Empty_LineInfo!
+	REBEL_SHIP_dargon: "Dargon" #!Empty_LineInfo!
+	REBEL_SHIP_dawn: "Dawn" #!Empty_LineInfo!
+	REBEL_SHIP_daynora: "Daynora" #!Empty_LineInfo!
+	REBEL_SHIP_dead_reckoning: "Dead Reckoning" #!Empty_LineInfo!
+	REBEL_SHIP_defector: "Defector" #!Empty_LineInfo!
+	REBEL_SHIP_desert_jewel: "Desert Jewel" #!Empty_LineInfo!
+	REBEL_SHIP_devaron: "Devaron" #!Empty_LineInfo!
+	REBEL_SHIP_deviant: "Deviant" #!Empty_LineInfo!
+	REBEL_SHIP_dire_hound: "Dire Hound" #!Empty_LineInfo!
+	REBEL_SHIP_dodger: "Dodger" #!Empty_LineInfo!
+	REBEL_SHIP_dodonna_s_pride: "Dodonna's Pride" #!Empty_LineInfo!
+	REBEL_SHIP_drago: "Drago" #!Empty_LineInfo!
+	REBEL_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	REBEL_SHIP_dream_runner: "Dream Runner" #!Empty_LineInfo!
+	REBEL_SHIP_drogon: "Drogon" #!Empty_LineInfo!
+	REBEL_SHIP_echelon_one: "Echelon One" #!Empty_LineInfo!
+	REBEL_SHIP_echelon_two: "Echelon Two" #!Empty_LineInfo!
+	REBEL_SHIP_eleusis: "Eleusis" #!Empty_LineInfo!
+	REBEL_SHIP_endeavor: "Endeavor" #!Empty_LineInfo!
+	REBEL_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	REBEL_SHIP_equator: "Equator" #!Empty_LineInfo!
+	REBEL_SHIP_equity: "Equity" #!Empty_LineInfo!
+	REBEL_SHIP_esperance: "Esperance" #!Empty_LineInfo!
+	REBEL_SHIP_ethar: "Ethar" #!Empty_LineInfo!
+	REBEL_SHIP_eucliptan_morae: "Eucliptan Morae" #!Empty_LineInfo!
+	REBEL_SHIP_evening_star: "Evening Star" #!Empty_LineInfo!
+	REBEL_SHIP_excelsior: "Excelsior" #!Empty_LineInfo!
+	REBEL_SHIP_fa_loh_sui: "Fa-Loh-Sui" #!Empty_LineInfo!
+	REBEL_SHIP_falcarieae: "Falcarieae" #!Empty_LineInfo!
+	REBEL_SHIP_farrely: "Farrely" #!Empty_LineInfo!
+	REBEL_SHIP_fey_lya_s_pride: "Fey'lya's Pride" #!Empty_LineInfo!
+	REBEL_SHIP_firefox: "Firefox" #!Empty_LineInfo!
+	REBEL_SHIP_dancer: "Dancer" #!Empty_LineInfo!
+	REBEL_SHIP_foresight: "Foresight" #!Empty_LineInfo!
+	REBEL_SHIP_fortressa: "Fortressa" #!Empty_LineInfo!
+	REBEL_SHIP_free_lance: "Free Lance" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_s_run: "Freedom's Run" #!Empty_LineInfo!
+	REBEL_SHIP_fury_of_alderaan: "Fury of Alderaan" #!Empty_LineInfo!
+	REBEL_SHIP_g_nagnib: "G'Nagnib" #!Empty_LineInfo!
+	REBEL_SHIP_gaaltura_v: "Gaaltura V" #!Empty_LineInfo!
+	REBEL_SHIP_gafra: "Gafra" #!Empty_LineInfo!
+	REBEL_SHIP_gallant_haven: "Gallant Haven" #!Empty_LineInfo!
+	REBEL_SHIP_gambit: "Gambit" #!Empty_LineInfo!
+	REBEL_SHIP_garel_s_honor: "Garel's Honor" #!Empty_LineInfo!
+	REBEL_SHIP_gargon: "Gargon" #!Empty_LineInfo!
+	REBEL_SHIP_gatekeeper: "Gatekeeper" #!Empty_LineInfo!
+	REBEL_SHIP_geddawai: "Geddawai" #!Empty_LineInfo!
+	REBEL_SHIP_geist: "Geist" #!Empty_LineInfo!
+	REBEL_SHIP_goldhawk: "Goldhawk" #!Empty_LineInfo!
+	REBEL_SHIP_grey_damsel: "Grey Damsel" #!Empty_LineInfo!
+	REBEL_SHIP_on_griffon_s_wings: "On Griffon's Wings" #!Empty_LineInfo!
+	REBEL_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	REBEL_SHIP_handree: "Handree" #!Empty_LineInfo!
+	REBEL_SHIP_harthusa_s_pride: "Harthusa's Pride" #!Empty_LineInfo!
+	REBEL_SHIP_harvest_moon: "Harvest Moon" #!Empty_LineInfo!
+	REBEL_SHIP_haven: "Haven" #!Empty_LineInfo!
+	REBEL_SHIP_heartbound: "Heartbound" #!Empty_LineInfo!
+	REBEL_SHIP_herald: "Herald" #!Empty_LineInfo!
+	REBEL_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	REBEL_SHIP_hornet: "Hornet" #!Empty_LineInfo!
+	REBEL_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	REBEL_SHIP_howlrunner: "Howlrunner" #!Empty_LineInfo!
+	REBEL_SHIP_huntress: "Huntress" #!Empty_LineInfo!
+	REBEL_SHIP_fair_wind: "Fair Wind" #!Empty_LineInfo!
+	REBEL_SHIP_illian: "Illian" #!Empty_LineInfo!
+	REBEL_SHIP_ina_angs_star: "Ina'angs Star" #!Empty_LineInfo!
+	REBEL_SHIP_incomparable: "Incomparable" #!Empty_LineInfo!
+	REBEL_SHIP_invictus: "Invictus" #!Empty_LineInfo!
+	REBEL_SHIP_invincible_faith: "Invincible Faith" #!Empty_LineInfo!
+	REBEL_SHIP_ithor: "Ithor" #!Empty_LineInfo!
+	REBEL_SHIP_jakal: "Jakal" #!Empty_LineInfo!
+	REBEL_SHIP_jaina_s_light: "Jaina's Light" #!Empty_LineInfo!
+	REBEL_SHIP_jester: "Jester" #!Empty_LineInfo!
+	REBEL_SHIP_keeper: "Keeper" #!Empty_LineInfo!
+	REBEL_SHIP_khaaza_k: "Khaaza'k" #!Empty_LineInfo!
+	REBEL_SHIP_knife_s_edge: "Knife's Edge" #!Empty_LineInfo!
+	REBEL_SHIP_knight_errant: "Knight Errant" #!Empty_LineInfo!
+	REBEL_SHIP_final_quest: "Final Quest" #!Empty_LineInfo!
+	REBEL_SHIP_korolev: "Korolev" #!Empty_LineInfo!
+	REBEL_SHIP_kracken: "Kracken" #!Empty_LineInfo!
+	REBEL_SHIP_lacoda: "Lacoda" #!Empty_LineInfo!
+	REBEL_SHIP_seeker: "Seeker" #!Empty_LineInfo!
+	REBEL_SHIP_without_hesitation: "Without Hesitation" #!Empty_LineInfo!
+	REBEL_SHIP_incorrigible: "Incorrigible" #!Empty_LineInfo!
+	REBEL_SHIP_firebreaker: "Firebreaker" #!Empty_LineInfo!
+	REBEL_SHIP_wherewithal: "Wherewithal" #!Empty_LineInfo!
+	REBEL_SHIP_inner_strength: "Inner Strength" #!Empty_LineInfo!
+	REBEL_SHIP_hellraiser: "Hellraiser" #!Empty_LineInfo!
+	REBEL_SHIP_hellraker: "Hellraker" #!Empty_LineInfo!
+	REBEL_SHIP_senate_s_consent: "Senate's Consent" #!Empty_LineInfo!
+	REBEL_SHIP_arm_of_the_senate: "Arm of the Senate" #!Empty_LineInfo!
+	REBEL_SHIP_scales_of_justice: "Scales of Justice" #!Empty_LineInfo!
+	REBEL_SHIP_lady_justice: "Lady Justice" #!Empty_LineInfo!
+	REBEL_SHIP_harmony: "Harmony" #!Empty_LineInfo!
+	REBEL_SHIP_token_of_resistance: "Token of Resistance" #!Empty_LineInfo!
+	REBEL_SHIP_mirage: "Mirage" #!Empty_LineInfo!
+	REBEL_SHIP_will_o__wisp: "Will-o'-Wisp" #!Empty_LineInfo!
+	REBEL_SHIP_odyssey: "Odyssey" #!Empty_LineInfo!
+	REBEL_SHIP_unforeseeable: "Unforeseeable" #!Empty_LineInfo!
+	REBEL_SHIP_unforgiven: "Unforgiven" #!Empty_LineInfo!
+	REBEL_SHIP_repudiatory: "Repudiatory" #!Empty_LineInfo!
+	REBEL_SHIP_repudiation: "Repudiation" #!Empty_LineInfo!
+	REBEL_SHIP_high_tide: "High Tide" #!Empty_LineInfo!
+	REBEL_SHIP_just_cause: "Just Cause" #!Empty_LineInfo!
+	REBEL_SHIP_ratifier: "Ratifier" #!Empty_LineInfo!
+	REBEL_SHIP_ratification: "Ratification" #!Empty_LineInfo!
+	REBEL_SHIP_open_forum: "Open Forum" #!Empty_LineInfo!
+	REBEL_SHIP_open_air: "Open Air" #!Empty_LineInfo!
+	REBEL_SHIP_introspection: "Introspection" #!Empty_LineInfo!
+	REBEL_SHIP_remedial: "Remedial" #!Empty_LineInfo!
+	REBEL_SHIP_chandrila_skies: "Chandrila Skies" #!Empty_LineInfo!
+	REBEL_SHIP_compass_star: "Compass Star" #!Empty_LineInfo!
+	REBEL_SHIP_coriolis: "Coriolis" #!Empty_LineInfo!
+	REBEL_SHIP_daring: "Daring" #!Empty_LineInfo!
+	REBEL_SHIP_fireborn: "Fireborn" #!Empty_LineInfo!
+	REBEL_SHIP_firethorn: "Firethorn" #!Empty_LineInfo!
+	REBEL_SHIP_galactic_voyager: "Galactic Voyager" #!Empty_LineInfo!
+	REBEL_SHIP_loyal_defender: "Loyal Defender" #!Empty_LineInfo!
+	REBEL_SHIP_mawrunner: "Mawrunner" #!Empty_LineInfo!
+	REBEL_SHIP_panther_star: "Panther Star" #!Empty_LineInfo!
+	REBEL_SHIP_peacebringer: "Peacebringer" #!Empty_LineInfo!
+	REBEL_SHIP_quarren_eye: "Quarren Eye" #!Empty_LineInfo!
+	REBEL_SHIP_rebel_dream: "Rebel Dream" #!Empty_LineInfo!
+	REBEL_SHIP_ralroost: "Ralroost" #!Empty_LineInfo!
+	REBEL_SHIP_redclaw: "Redclaw" #!Empty_LineInfo!
+	REBEL_SHIP_redheart: "Redheart" #!Empty_LineInfo!
+	REBEL_SHIP_redstar: "Redstar" #!Empty_LineInfo!
+	REBEL_SHIP_resilient: "Resilient" #!Empty_LineInfo!
+	REBEL_SHIP_resolute: "Resolute" #!Empty_LineInfo!
+	REBEL_SHIP_revival: "Revival" #!Empty_LineInfo!
+	REBEL_SHIP_sarpentia: "Sarpentia" #!Empty_LineInfo!
+	REBEL_SHIP_scarlet_star: "Scarlet Star" #!Empty_LineInfo!
+	REBEL_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	REBEL_SHIP_starhook: "Starhook" #!Empty_LineInfo!
+	REBEL_SHIP_starrunner: "Starrunner" #!Empty_LineInfo!
+	REBEL_SHIP_starsider: "Starsider" #!Empty_LineInfo!
+	REBEL_SHIP_trickster: "Trickster" #!Empty_LineInfo!
+	REBEL_SHIP_trucemaker: "Trucemaker" #!Empty_LineInfo!
+	REBEL_SHIP_verity: "Verity" #!Empty_LineInfo!
+	REBEL_SHIP_vortex_wind: "Vortex Wind" #!Empty_LineInfo!
+	REBEL_SHIP_reckoner: "Reckoner" #!Empty_LineInfo!
+	REBEL_SHIP_last_hope: "Last Hope" #!Empty_LineInfo!
+	REBEL_SHIP_leap_of_faith: "Leap of Faith" #!Empty_LineInfo!
+	REBEL_SHIP_lifeline: "Lifeline" #!Empty_LineInfo!
+	REBEL_SHIP_long_run: "Long Run" #!Empty_LineInfo!
+	REBEL_SHIP_long_shot: "Long Shot" #!Empty_LineInfo!
+	REBEL_SHIP_lucky_star: "Lucky Star" #!Empty_LineInfo!
+	REBEL_SHIP_lulsla: "Lulsla" #!Empty_LineInfo!
+	REBEL_SHIP_luudrian_star: "Luudrian Star" #!Empty_LineInfo!
+	REBEL_SHIP_magnus: "Magnus" #!Empty_LineInfo!
+	REBEL_SHIP_maidstone: "Maidstone" #!Empty_LineInfo!
+	REBEL_SHIP_mantan_wanderer: "Mantan Wanderer" #!Empty_LineInfo!
+	REBEL_SHIP_mar_duun: "Mar Duun" #!Empty_LineInfo!
+	REBEL_SHIP_maria: "Maria" #!Empty_LineInfo!
+	REBEL_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	REBEL_SHIP_meandering_star: "Meandering Star" #!Empty_LineInfo!
+	REBEL_SHIP_mellcrawler: "Mellcrawler" #!Empty_LineInfo!
+	REBEL_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	REBEL_SHIP_midnight_star: "Midnight Star" #!Empty_LineInfo!
+	REBEL_SHIP_mighty_oak_apocalypse: "Mighty Oak Apocalypse" #!Empty_LineInfo!
+	REBEL_SHIP_millennium_fist: "Millennium Fist" #!Empty_LineInfo!
+	REBEL_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	REBEL_SHIP_molator: "Molator" #!Empty_LineInfo!
+	REBEL_SHIP_moori: "Moori" #!Empty_LineInfo!
+	REBEL_SHIP_morgath: "Morgath" #!Empty_LineInfo!
+	REBEL_SHIP_nightmoth: "Nightmoth" #!Empty_LineInfo!
+	REBEL_SHIP_naritus: "Naritus" #!Empty_LineInfo!
+	REBEL_SHIP_narrow_margin: "Narrow Margin" #!Empty_LineInfo!
+	REBEL_SHIP_nautilian: "Nautilian" #!Empty_LineInfo!
+	REBEL_SHIP_neladeen: "Neladeen" #!Empty_LineInfo!
+	REBEL_SHIP_neva: "Neva" #!Empty_LineInfo!
+	REBEL_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	REBEL_SHIP_nova_whisper: "Nova Whisper" #!Empty_LineInfo!
+	REBEL_SHIP_nova_s_heart: "Nova's Heart" #!Empty_LineInfo!
+	REBEL_SHIP_oceana: "Oceana" #!Empty_LineInfo!
+	REBEL_SHIP_olinor: "Olinor" #!Empty_LineInfo!
+	REBEL_SHIP_onderian_raptor: "Onderian Raptor" #!Empty_LineInfo!
+	REBEL_SHIP_opal: "Opal" #!Empty_LineInfo!
+	REBEL_SHIP_ossus_day: "Ossus Day" #!Empty_LineInfo!
+	REBEL_SHIP_out_runner: "Out Runner" #!Empty_LineInfo!
+	REBEL_SHIP_patience: "Patience" #!Empty_LineInfo!
+	REBEL_SHIP_pe_aty: "Pe'aty" #!Empty_LineInfo!
+	REBEL_SHIP_pelex: "Pelex" #!Empty_LineInfo!
+	REBEL_SHIP_persistence: "Persistence" #!Empty_LineInfo!
+	REBEL_SHIP_pharos: "Pharos" #!Empty_LineInfo!
+	REBEL_SHIP_priam: "Priam" #!Empty_LineInfo!
+	REBEL_SHIP_price_of_liberty: "Price of Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	REBEL_SHIP_promise: "Promise" #!Empty_LineInfo!
+	REBEL_SHIP_prowler: "Prowler" #!Empty_LineInfo!
+	REBEL_SHIP_pulsar: "Pulsar" #!Empty_LineInfo!
+	REBEL_SHIP_quantum_storm: "Quantum Storm" #!Empty_LineInfo!
+	REBEL_SHIP_rakan: "Rakan" #!Empty_LineInfo!
+	REBEL_SHIP_ram_s_head: "Ram's Head" #!Empty_LineInfo!
+	REBEL_SHIP_rampart: "Rampart" #!Empty_LineInfo!
+	REBEL_SHIP_rancor_s_tooth: "Rancor's Tooth" #!Empty_LineInfo!
+	REBEL_SHIP_rand_ecliptic: "Rand Ecliptic" #!Empty_LineInfo!
+	REBEL_SHIP_razor: "Razor" #!Empty_LineInfo!
+	REBEL_SHIP_rebel_one: "Rebel One" #!Empty_LineInfo!
+	REBEL_SHIP_rebel_star: "Rebel Star" #!Empty_LineInfo!
+	REBEL_SHIP_rebellion_blaze: "Rebellion Blaze" #!Empty_LineInfo!
+	REBEL_SHIP_red_dog: "Red Dog" #!Empty_LineInfo!
+	REBEL_SHIP_red_lancer: "Red Lancer" #!Empty_LineInfo!
+	REBEL_SHIP_redeemer: "Redeemer" #!Empty_LineInfo!
+	REBEL_SHIP_redemptio: "Redemptio" #!Empty_LineInfo!
+	REBEL_SHIP_reef_home: "Reef Home" #!Empty_LineInfo!
+	REBEL_SHIP_reekeene_s_retribution: "Reekeene's Retribution" #!Empty_LineInfo!
+	REBEL_SHIP_rehz_nor: "Rehz'nor" #!Empty_LineInfo!
+	REBEL_SHIP_renhoek: "Renhoek" #!Empty_LineInfo!
+	REBEL_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	REBEL_SHIP_rescue_one: "Rescue One" #!Empty_LineInfo!
+	REBEL_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	REBEL_SHIP_rogue_shadow: "Rogue Shadow" #!Empty_LineInfo!
+	REBEL_SHIP_rover: "Rover" #!Empty_LineInfo!
+	REBEL_SHIP_sagina: "Sagina" #!Empty_LineInfo!
+	REBEL_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	REBEL_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	REBEL_SHIP_shantipole: "Shantipole" #!Empty_LineInfo!
+	REBEL_SHIP_shayan: "Shayan" #!Empty_LineInfo!
+	REBEL_SHIP_shooting_star: "Shooting Star" #!Empty_LineInfo!
+	REBEL_SHIP_silent_water: "Silent Water" #!Empty_LineInfo!
+	REBEL_SHIP_silver_bolt: "Silver Bolt" #!Empty_LineInfo!
+	REBEL_SHIP_simoom: "Simoom" #!Empty_LineInfo!
+	REBEL_SHIP_solar_flare: "Solar Flare" #!Empty_LineInfo!
+	REBEL_SHIP_solemnis: "Solemnis" #!Empty_LineInfo!
+	REBEL_SHIP_solidarity: "Solidarity" #!Empty_LineInfo!
+	REBEL_SHIP_spartzen: "Spartzen" #!Empty_LineInfo!
+	REBEL_SHIP_spirit_of_solaris: "Spirit of Solaris" #!Empty_LineInfo!
+	REBEL_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	REBEL_SHIP_splinter: "Splinter" #!Empty_LineInfo!
+	REBEL_SHIP_star_breeze: "Star Breeze" #!Empty_LineInfo!
+	REBEL_SHIP_star_breeze_two: "Star Breeze Two" #!Empty_LineInfo!
+	REBEL_SHIP_star_of_the_tion: "Star of the Tion" #!Empty_LineInfo!
+	REBEL_SHIP_star_beast: "Star-Beast" #!Empty_LineInfo!
+	REBEL_SHIP_staraker: "Staraker" #!Empty_LineInfo!
+	REBEL_SHIP_starcrossed: "Starcrossed" #!Empty_LineInfo!
+	REBEL_SHIP_starduster: "Starduster" #!Empty_LineInfo!
+	REBEL_SHIP_starhound: "Starhound" #!Empty_LineInfo!
+	REBEL_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	REBEL_SHIP_starway: "Starway" #!Empty_LineInfo!
+	REBEL_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	REBEL_SHIP_stellar_damsel: "Stellar Damsel" #!Empty_LineInfo!
+	REBEL_SHIP_stellar_manx: "Stellar Manx" #!Empty_LineInfo!
+	REBEL_SHIP_storm: "Storm" #!Empty_LineInfo!
+	REBEL_SHIP_striker: "Striker" #!Empty_LineInfo!
+	REBEL_SHIP_strix: "Strix" #!Empty_LineInfo!
+	REBEL_SHIP_storm_wind: "Storm Wind" #!Empty_LineInfo!
+	REBEL_SHIP_sundered_heart: "Sundered Heart" #!Empty_LineInfo!
+	REBEL_SHIP_sundog: "Sundog" #!Empty_LineInfo!
+	REBEL_SHIP_swift: "Swift" #!Empty_LineInfo!
+	REBEL_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	REBEL_SHIP_tano: "Tano" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_i: "Tantive I" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_ii: "Tantive II" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_iii: "Tantive III" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_iv: "Tantive IV" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_v: "Tantive V" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_vi: "Tantive VI" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_vii: "Tantive VII" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_viii: "Tantive VIII" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_ix: "Tantive IX" #!Empty_LineInfo!
+	REBEL_SHIP_tantive_x: "Tantive X" #!Empty_LineInfo!
+	REBEL_SHIP_tector: "Tector" #!Empty_LineInfo!
+	REBEL_SHIP_tela: "Tela" #!Empty_LineInfo!
+	REBEL_SHIP_tharen: "Tharen" #!Empty_LineInfo!
+	REBEL_SHIP_solar_flair: "Solar Flair" #!Empty_LineInfo!
+	REBEL_SHIP_theed_s_reach: "Theed's Reach" #!Empty_LineInfo!
+	REBEL_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	REBEL_SHIP_thunderflame: "Thunderflame" #!Empty_LineInfo!
+	REBEL_SHIP_thunderstrike: "Thunderstrike" #!Empty_LineInfo!
+	REBEL_SHIP_titanius: "Titanius" #!Empty_LineInfo!
+	REBEL_SHIP_torktarak: "Torktarak" #!Empty_LineInfo!
+	REBEL_SHIP_trait_luminique: "Trait Luminique" #!Empty_LineInfo!
+	REBEL_SHIP_transorb: "Transorb" #!Empty_LineInfo!
+	REBEL_SHIP_tribune: "Tribune" #!Empty_LineInfo!
+	REBEL_SHIP_triumph: "Triumph" #!Empty_LineInfo!
+	REBEL_SHIP_trumpet_s_call: "Trumpet's Call" #!Empty_LineInfo!
+	REBEL_SHIP_twilight_sun: "Twilight Sun" #!Empty_LineInfo!
+	REBEL_SHIP_tyaonon_ranger: "Tyaonon Ranger" #!Empty_LineInfo!
+	REBEL_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	REBEL_SHIP_tyvarex: "Tyvarex" #!Empty_LineInfo!
+	REBEL_SHIP_vaisang: "Vaisang" #!Empty_LineInfo!
+	REBEL_SHIP_valiant_damsel: "Valiant Damsel" #!Empty_LineInfo!
+	REBEL_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	REBEL_SHIP_vemmer: "Vemmer" #!Empty_LineInfo!
+	REBEL_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	REBEL_SHIP_venturer: "Venturer" #!Empty_LineInfo!
+	REBEL_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	REBEL_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	REBEL_SHIP_viper: "Viper" #!Empty_LineInfo!
+	REBEL_SHIP_visara: "Visara" #!Empty_LineInfo!
+	REBEL_SHIP_vorpal_demise: "Vorpal Demise" #!Empty_LineInfo!
+	REBEL_SHIP_voxen_tass: "Voxen Tass" #!Empty_LineInfo!
+	REBEL_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	REBEL_SHIP_war_pig: "War Pig" #!Empty_LineInfo!
+	REBEL_SHIP_warhawk: "Warhawk" #!Empty_LineInfo!
+	REBEL_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	REBEL_SHIP_wasp: "Wasp" #!Empty_LineInfo!
+	REBEL_SHIP_watchful: "Watchful" #!Empty_LineInfo!
+	REBEL_SHIP_waterspire: "Waterspire" #!Empty_LineInfo!
+	REBEL_SHIP_wavesong: "Wavesong" #!Empty_LineInfo!
+	REBEL_SHIP_whisper: "Whisper" #!Empty_LineInfo!
+	REBEL_SHIP_whitehawk: "Whitehawk" #!Empty_LineInfo!
+	REBEL_SHIP_wolf: "Wolf" #!Empty_LineInfo!
+	REBEL_SHIP_xarxis: "Xarxis" #!Empty_LineInfo!
+	REBEL_SHIP_yanov: "Yanov" #!Empty_LineInfo!
+	REBEL_SHIP_yavaris: "Yavaris" #!Empty_LineInfo!
+	REBEL_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	REBEL_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	REBEL_SHIP_adder_s_bite: "Adder's Bite" #!Empty_LineInfo!
+	REBEL_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	REBEL_SHIP_amity: "Amity" #!Empty_LineInfo!
+	REBEL_SHIP_astrolabe: "Astrolabe" #!Empty_LineInfo!
+	REBEL_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	REBEL_SHIP_bespin_bandit: "Bespin Bandit" #!Empty_LineInfo!
+	REBEL_SHIP_best_chance: "Best Chance" #!Empty_LineInfo!
+	REBEL_SHIP_boldheart: "Boldheart" #!Empty_LineInfo!
+	REBEL_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	REBEL_SHIP_bright_vigil: "Bright Vigil" #!Empty_LineInfo!
+	REBEL_SHIP_buried: "Buried" #!Empty_LineInfo!
+	REBEL_SHIP_treasure: "Treasure" #!Empty_LineInfo!
+	REBEL_SHIP_chandrila: "Chandrila" #!Empty_LineInfo!
+	REBEL_SHIP_chevalier: "Chevalier" #!Empty_LineInfo!
+	REBEL_SHIP_concord: "Concord" #!Empty_LineInfo!
+	REBEL_SHIP_corulag: "Corulag" #!Empty_LineInfo!
+	REBEL_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	REBEL_SHIP_corsuca_fire: "Corsuca Fire" #!Empty_LineInfo!
+	REBEL_SHIP_corsuca_rainbow: "Corsuca Rainbow" #!Empty_LineInfo!
+	REBEL_SHIP_corvus: "Corvus" #!Empty_LineInfo!
+	REBEL_SHIP_dantooine: "Dantooine" #!Empty_LineInfo!
+	REBEL_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	REBEL_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	REBEL_SHIP_direption: "Direption" #!Empty_LineInfo!
+	REBEL_SHIP_dominion: "Dominion" #!Empty_LineInfo!
+	REBEL_SHIP_doran_star: "Doran Star" #!Empty_LineInfo!
+	REBEL_SHIP_dragonsnake: "Dragonsnake" #!Empty_LineInfo!
+	REBEL_SHIP_eclipse_rider: "Eclipse Rider" #!Empty_LineInfo!
+	REBEL_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	REBEL_SHIP_ession_strike: "Ession Strike" #!Empty_LineInfo!
+	REBEL_SHIP_etherhawk: "Etherhawk" #!Empty_LineInfo!
+	REBEL_SHIP_farlight: "Farlight" #!Empty_LineInfo!
+	REBEL_SHIP_first_citizen: "First Citizen" #!Empty_LineInfo!
+	REBEL_SHIP_forbidden: "Forbidden" #!Empty_LineInfo!
+	REBEL_SHIP_fulminant: "Fulminant" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_s_fury: "Freedom's Fury" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_s_dawn: "Freedom's Dawn" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_of_sullust: "Freedom of Sullust" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_of_thought: "Freedom of Thought" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_of_association: "Freedom of Association" #!Empty_LineInfo!
+	REBEL_SHIP_freedom_of_belief: "Freedom of Belief" #!Empty_LineInfo!
+	REBEL_SHIP_believer: "Believer" #!Empty_LineInfo!
+	REBEL_SHIP_garland: "Garland" #!Empty_LineInfo!
+	REBEL_SHIP_harrier: "Harrier" #!Empty_LineInfo!
+	REBEL_SHIP_heart_of_artorias: "Heart of Artorias" #!Empty_LineInfo!
+	REBEL_SHIP_hellion_s_dare: "Hellion's Dare" #!Empty_LineInfo!
+	REBEL_SHIP_hellion: "Hellion" #!Empty_LineInfo!
+	REBEL_SHIP_hope: "Hope" #!Empty_LineInfo!
+	REBEL_SHIP_huntsman: "Huntsman" #!Empty_LineInfo!
+	REBEL_SHIP_illustrious: "Illustrious" #!Empty_LineInfo!
+	REBEL_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	REBEL_SHIP_instigator: "Instigator" #!Empty_LineInfo!
+	REBEL_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	REBEL_SHIP_jedi_dreamer: "Jedi Dreamer" #!Empty_LineInfo!
+	REBEL_SHIP_jedi_dream: "Jedi Dream" #!Empty_LineInfo!
+	REBEL_SHIP_high_council: "High Council" #!Empty_LineInfo!
+	REBEL_SHIP_katana: "Katana" #!Empty_LineInfo!
+	REBEL_SHIP_krakana: "Krakana" #!Empty_LineInfo!
+	REBEL_SHIP_liberty_star: "Liberty Star" #!Empty_LineInfo!
+	REBEL_SHIP_lightning_rod: "Lightning Rod" #!Empty_LineInfo!
+	REBEL_SHIP_lodestar: "Lodestar" #!Empty_LineInfo!
+	REBEL_SHIP_lunar_tide: "Lunar Tide" #!Empty_LineInfo!
+	REBEL_SHIP_mantooine: "Mantooine" #!Empty_LineInfo!
+	REBEL_SHIP_cloudrider: "Cloudrider" #!Empty_LineInfo!
+	REBEL_SHIP_monitor: "Monitor" #!Empty_LineInfo!
+	REBEL_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	REBEL_SHIP_mother_s_valkyrie: "Mother's Valkyrie" #!Empty_LineInfo!
+	REBEL_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	REBEL_SHIP_no_harm: "No Harm" #!Empty_LineInfo!
+	REBEL_SHIP_philosopher_s_oath: "Philosopher's Oath" #!Empty_LineInfo!
+	REBEL_SHIP_pelagia: "Pelagia" #!Empty_LineInfo!
+	REBEL_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	REBEL_SHIP_pride_of_honor: "Pride of Honor" #!Empty_LineInfo!
+	REBEL_SHIP_pride_of_eiattu: "Pride of Eiattu" #!Empty_LineInfo!
+	REBEL_SHIP_pride_of_thela: "Pride of Thela" #!Empty_LineInfo!
+	REBEL_SHIP_raddus: "Raddus" #!Empty_LineInfo!
+	REBEL_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	REBEL_SHIP_reckless_abandon: "Reckless Abandon" #!Empty_LineInfo!
+	REBEL_SHIP_red_feather: "Red Feather" #!Empty_LineInfo!
+	REBEL_SHIP_red_gauntlet: "Red Gauntlet" #!Empty_LineInfo!
+	REBEL_SHIP_rejuvenator: "Rejuvenator" #!Empty_LineInfo!
+	REBEL_SHIP_reprieve: "Reprieve" #!Empty_LineInfo!
+	REBEL_SHIP_repulsor: "Repulsor" #!Empty_LineInfo!
+	REBEL_SHIP_rieekan: "Rieekan" #!Empty_LineInfo!
+	REBEL_SHIP_selonian_fire: "Selonian Fire" #!Empty_LineInfo!
+	REBEL_SHIP_skyhook: "Skyhook" #!Empty_LineInfo!
+	REBEL_SHIP_starhawk: "Starhawk" #!Empty_LineInfo!
+	REBEL_SHIP_starlight_warrior: "Starlight Warrior" #!Empty_LineInfo!
+	REBEL_SHIP_starpoint: "Starpoint" #!Empty_LineInfo!
+	REBEL_SHIP_startide: "Startide" #!Empty_LineInfo!
+	REBEL_SHIP_stellar_sentinel: "Stellar Sentinel" #!Empty_LineInfo!
+	REBEL_SHIP_sunspire: "Sunspire" #!Empty_LineInfo!
+	REBEL_SHIP_swift_liberty: "Swift Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_lady_liberty: "Lady Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_taanab_sunrise: "Taanab Sunrise" #!Empty_LineInfo!
+	REBEL_SHIP_tyrant_s_bane: "Tyrant's Bane" #!Empty_LineInfo!
+	REBEL_SHIP_unity: "Unity" #!Empty_LineInfo!
+	REBEL_SHIP_unsung: "Unsung" #!Empty_LineInfo!
+	REBEL_SHIP_victorum: "Victorum" #!Empty_LineInfo!
+	REBEL_SHIP_vigilant: "Vigilant" #!Empty_LineInfo!
+	REBEL_SHIP_viscount: "Viscount" #!Empty_LineInfo!
+	REBEL_SHIP_wanderhome: "Wanderhome" #!Empty_LineInfo!
+	REBEL_SHIP_warder: "Warder" #!Empty_LineInfo!
+	REBEL_SHIP_yavin: "Yavin" #!Empty_LineInfo!
+	REBEL_SHIP_spirit_of_the_republic: "Spirit of the Republic" #!Empty_LineInfo!
+	REBEL_SHIP_tranquility: "Tranquility" #!Empty_LineInfo!
+	REBEL_SHIP_tempestuous: "Tempestuous" #!Empty_LineInfo!
+	REBEL_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	REBEL_SHIP_revivalist: "Revivalist" #!Empty_LineInfo!
+	REBEL_SHIP_sanative: "Sanative" #!Empty_LineInfo!
+	REBEL_SHIP_renaissance: "Renaissance" #!Empty_LineInfo!
+	REBEL_SHIP_dreamdancer: "Dreamdancer" #!Empty_LineInfo!
+	REBEL_SHIP_no_try: "No Try" #!Empty_LineInfo!
+	REBEL_SHIP_home_three: "Home Three" #!Empty_LineInfo!
+	REBEL_SHIP_bail_organa: "Bail Organa" #!Empty_LineInfo!
+	REBEL_SHIP_marek: "Marek" #!Empty_LineInfo!
+	REBEL_SHIP_queen_amidala: "Queen Amidala" #!Empty_LineInfo!
+	REBEL_SHIP_errant_venture: "Errant Venture" #!Empty_LineInfo!
+	REBEL_SHIP_aurora_flare: "Aurora Flare" #!Empty_LineInfo!
+	REBEL_SHIP_beam_wind: "Beam Wind" #!Empty_LineInfo!
+	REBEL_SHIP_bitter_end: "Bitter End" #!Empty_LineInfo!
+	REBEL_SHIP_blue_diver: "Blue Diver" #!Empty_LineInfo!
+	REBEL_SHIP_bright_coral: "Bright Coral" #!Empty_LineInfo!
+	REBEL_SHIP_cimrab_deshet: "Cimrab Deshet" #!Empty_LineInfo!
+	REBEL_SHIP_coral_cliff: "Coral Cliff" #!Empty_LineInfo!
+	REBEL_SHIP_corusca_rainbow: "Corusca Rainbow" #!Empty_LineInfo!
+	REBEL_SHIP_ebb_tide: "Ebb Tide" #!Empty_LineInfo!
+	REBEL_SHIP_echo_of_hope: "Echo of Hope" #!Empty_LineInfo!
+	REBEL_SHIP_flash_storm: "Flash Storm" #!Empty_LineInfo!
+	REBEL_SHIP_flying_dromon: "Flying Dromon" #!Empty_LineInfo!
+	REBEL_SHIP_home_five: "Home Five" #!Empty_LineInfo!
+	REBEL_SHIP_home_four: "Home Four" #!Empty_LineInfo!
+	REBEL_SHIP_home_one: "Home One" #!Empty_LineInfo!
+	REBEL_SHIP_home_two: "Home Two" #!Empty_LineInfo!
+	REBEL_SHIP_krakana_s_claw: "Krakana's Claw" #!Empty_LineInfo!
+	REBEL_SHIP_last_fathom: "Last Fathom" #!Empty_LineInfo!
+	REBEL_SHIP_mon_adapyne: "Mon Adapyne" #!Empty_LineInfo!
+	REBEL_SHIP_mon_badril: "Mon Badril" #!Empty_LineInfo!
+	REBEL_SHIP_mon_bialdu: "Mon Bialdu" #!Empty_LineInfo!
+	REBEL_SHIP_mon_binli: "Mon Binli" #!Empty_LineInfo!
+	REBEL_SHIP_mon_bragrib: "Mon Bragrib" #!Empty_LineInfo!
+	REBEL_SHIP_mon_brodic: "Mon Brodic" #!Empty_LineInfo!
+	REBEL_SHIP_mon_casima: "Mon Casima" #!Empty_LineInfo!
+	REBEL_SHIP_mon_chona: "Mon Chona" #!Empty_LineInfo!
+	REBEL_SHIP_mon_churgel: "Mon Churgel" #!Empty_LineInfo!
+	REBEL_SHIP_mon_cimna: "Mon Cimna" #!Empty_LineInfo!
+	REBEL_SHIP_mon_deddu: "Mon Deddu" #!Empty_LineInfo!
+	REBEL_SHIP_mon_delindo: "Mon Delindo" #!Empty_LineInfo!
+	REBEL_SHIP_mon_duza: "Mon Duza" #!Empty_LineInfo!
+	REBEL_SHIP_mon_fomban: "Mon Fomban" #!Empty_LineInfo!
+	REBEL_SHIP_mon_gazza: "Mon Gazza" #!Empty_LineInfo!
+	REBEL_SHIP_mon_gilko: "Mon Gilko" #!Empty_LineInfo!
+	REBEL_SHIP_mon_gutre: "Mon Gutre" #!Empty_LineInfo!
+	REBEL_SHIP_mon_heurkea: "Mon Heurkea" #!Empty_LineInfo!
+	REBEL_SHIP_mon_hikahi: "Mon Hikahi" #!Empty_LineInfo!
+	REBEL_SHIP_mon_huscol: "Mon Huscol" #!Empty_LineInfo!
+	REBEL_SHIP_mon_irdeal: "Mon Irdeal" #!Empty_LineInfo!
+	REBEL_SHIP_mon_jhaemez: "Mon Jhaemez" #!Empty_LineInfo!
+	REBEL_SHIP_mon_karren: "Mon Karren" #!Empty_LineInfo!
+	REBEL_SHIP_mon_kebta: "Mon Kebta" #!Empty_LineInfo!
+	REBEL_SHIP_mon_kelki: "Mon Kelki" #!Empty_LineInfo!
+	REBEL_SHIP_mon_ledha: "Mon Ledha" #!Empty_LineInfo!
+	REBEL_SHIP_mon_nalkaxz: "Mon Nalkaxz" #!Empty_LineInfo!
+	REBEL_SHIP_mon_nhidna: "Mon Nhidna" #!Empty_LineInfo!
+	REBEL_SHIP_mon_nhile: "Mon Nhile" #!Empty_LineInfo!
+	REBEL_SHIP_mon_nhilnu: "Mon Nhilnu" #!Empty_LineInfo!
+	REBEL_SHIP_mon_opob: "Mon Opob" #!Empty_LineInfo!
+	REBEL_SHIP_mon_oulgax: "Mon Oulgax" #!Empty_LineInfo!
+	REBEL_SHIP_mon_piab: "Mon Piab" #!Empty_LineInfo!
+	REBEL_SHIP_mon_qiomaak: "Mon Qiomaak" #!Empty_LineInfo!
+	REBEL_SHIP_mon_rako: "Mon Rako" #!Empty_LineInfo!
+	REBEL_SHIP_mon_remonda: "Mon Remonda" #!Empty_LineInfo!
+	REBEL_SHIP_mon_royasch: "Mon Royasch" #!Empty_LineInfo!
+	REBEL_SHIP_mon_sar_galva: "Mon Sar Galva" #!Empty_LineInfo!
+	REBEL_SHIP_mon_septess: "Mon Septess" #!Empty_LineInfo!
+	REBEL_SHIP_mon_siadnu: "Mon Siadnu" #!Empty_LineInfo!
+	REBEL_SHIP_mon_tragaih: "Mon Tragaih" #!Empty_LineInfo!
+	REBEL_SHIP_mon_tuezon: "Mon Tuezon" #!Empty_LineInfo!
+	REBEL_SHIP_mon_ubrek: "Mon Ubrek" #!Empty_LineInfo!
+	REBEL_SHIP_mon_uldil: "Mon Uldil" #!Empty_LineInfo!
+	REBEL_SHIP_mon_vardint: "Mon Vardint" #!Empty_LineInfo!
+	REBEL_SHIP_mon_vihmihha: "Mon Vihmihha" #!Empty_LineInfo!
+	REBEL_SHIP_mon_vraha: "Mon Vraha" #!Empty_LineInfo!
+	REBEL_SHIP_mon_vro: "Mon Vro" #!Empty_LineInfo!
+	REBEL_SHIP_mon_wadla: "Mon Wadla" #!Empty_LineInfo!
+	REBEL_SHIP_mon_yohhenna: "Mon Yohhenna" #!Empty_LineInfo!
+	REBEL_SHIP_mon_yoza: "Mon Yoza" #!Empty_LineInfo!
+	REBEL_SHIP_murul_abyss: "Murul Abyss" #!Empty_LineInfo!
+	REBEL_SHIP_queen_amidala_iv: "Queen Amidala IV" #!Empty_LineInfo!
+	REBEL_SHIP_queen_conch: "Queen Conch" #!Empty_LineInfo!
+	REBEL_SHIP_red_brine: "Red Brine" #!Empty_LineInfo!
+	REBEL_SHIP_reefcutter: "Reefcutter" #!Empty_LineInfo!
+	REBEL_SHIP_scrup_hound: "Scrup Hound" #!Empty_LineInfo!
+	REBEL_SHIP_shell_game: "Shell Game" #!Empty_LineInfo!
+	REBEL_SHIP_sidral_ii: "Sidral II" #!Empty_LineInfo!
+	REBEL_SHIP_star_urchin: "Star-urchin" #!Empty_LineInfo!
+	REBEL_SHIP_stellar_vista: "Stellar Vista" #!Empty_LineInfo!
+	REBEL_SHIP_striking_distance: "Striking Distance" #!Empty_LineInfo!
+	REBEL_SHIP_aboukir: "Aboukir" #!Empty_LineInfo!
+	REBEL_SHIP_alamania: "Alamania" #!Empty_LineInfo!
+	REBEL_SHIP_amalthea: "Amalthea" #!Empty_LineInfo!
+	REBEL_SHIP_anchorhome: "Anchorhome" #!Empty_LineInfo!
+	REBEL_SHIP_anlage: "Anlage" #!Empty_LineInfo!
+	REBEL_SHIP_ansta: "Ansta" #!Empty_LineInfo!
+	REBEL_SHIP_aquarius: "Aquarius" #!Empty_LineInfo!
+	REBEL_SHIP_ballarat: "Ballarat" #!Empty_LineInfo!
+	REBEL_SHIP_becalmer: "Becalmer" #!Empty_LineInfo!
+	REBEL_SHIP_beledeen: "Beledeen" #!Empty_LineInfo!
+	REBEL_SHIP_breakwater: "Breakwater" #!Empty_LineInfo!
+	REBEL_SHIP_brightwork: "Brightwork" #!Empty_LineInfo!
+	REBEL_SHIP_broadhorn: "Broadhorn" #!Empty_LineInfo!
+	REBEL_SHIP_broadside: "Broadside" #!Empty_LineInfo!
+	REBEL_SHIP_carronade: "Carronade" #!Empty_LineInfo!
+	REBEL_SHIP_chainwale: "Chainwale" #!Empty_LineInfo!
+	REBEL_SHIP_choarn: "Choarn" #!Empty_LineInfo!
+	REBEL_SHIP_coaster: "Coaster" #!Empty_LineInfo!
+	REBEL_SHIP_cutwater: "Cutwater" #!Empty_LineInfo!
+	REBEL_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	REBEL_SHIP_devilsquid: "Devilsquid" #!Empty_LineInfo!
+	REBEL_SHIP_doldrum: "Doldrum" #!Empty_LineInfo!
+	REBEL_SHIP_drejil: "Drejil" #!Empty_LineInfo!
+	REBEL_SHIP_endurance: "Endurance" #!Empty_LineInfo!
+	REBEL_SHIP_exosquidra: "Exosquidra" #!Empty_LineInfo!
+	REBEL_SHIP_extremis: "Extremis" #!Empty_LineInfo!
+	REBEL_SHIP_fanladi: "Fanladi" #!Empty_LineInfo!
+	REBEL_SHIP_fantail: "Fantail" #!Empty_LineInfo!
+	REBEL_SHIP_felucca: "Felucca" #!Empty_LineInfo!
+	REBEL_SHIP_foamwander: "Foamwander" #!Empty_LineInfo!
+	REBEL_SHIP_gamble: "Gamble" #!Empty_LineInfo!
+	REBEL_SHIP_gennaker: "Gennaker" #!Empty_LineInfo!
+	REBEL_SHIP_ghaleesit: "Ghaleesit" #!Empty_LineInfo!
+	REBEL_SHIP_gloomwalker: "Gloomwalker" #!Empty_LineInfo!
+	REBEL_SHIP_gulomi: "Gulomi" #!Empty_LineInfo!
+	REBEL_SHIP_halliard: "Halliard" #!Empty_LineInfo!
+	REBEL_SHIP_ilikith: "Ilikith" #!Empty_LineInfo!
+	REBEL_SHIP_jetsam: "Jetsam" #!Empty_LineInfo!
+	REBEL_SHIP_kantrey: "Kantrey" #!Empty_LineInfo!
+	REBEL_SHIP_khasva: "Khasva" #!Empty_LineInfo!
+	REBEL_SHIP_kieler: "Kieler" #!Empty_LineInfo!
+	REBEL_SHIP_krabbex: "Krabbex" #!Empty_LineInfo!
+	REBEL_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	REBEL_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_lishin: "Lishin" #!Empty_LineInfo!
+	REBEL_SHIP_littoral: "Littoral" #!Empty_LineInfo!
+	REBEL_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	REBEL_SHIP_maximus: "Maximus" #!Empty_LineInfo!
+	REBEL_SHIP_morjansik: "Morjansik" #!Empty_LineInfo!
+	REBEL_SHIP_narlit: "Narlit" #!Empty_LineInfo!
+	REBEL_SHIP_orthavan: "Orthavan" #!Empty_LineInfo!
+	REBEL_SHIP_oshtra: "Oshtra" #!Empty_LineInfo!
+	REBEL_SHIP_poesy: "Poesy" #!Empty_LineInfo!
+	REBEL_SHIP_riptide: "Riptide" #!Empty_LineInfo!
+	REBEL_SHIP_sailfish: "Sailfish" #!Empty_LineInfo!
+	REBEL_SHIP_shashore: "ShaShore" #!Empty_LineInfo!
+	REBEL_SHIP_spraycloak: "Spraycloak" #!Empty_LineInfo!
+	REBEL_SHIP_starlite: "Starlite" #!Empty_LineInfo!
+	REBEL_SHIP_starpike: "Starpike" #!Empty_LineInfo!
+	REBEL_SHIP_stillwater: "Stillwater" #!Empty_LineInfo!
+	REBEL_SHIP_stormcaller: "Stormcaller" #!Empty_LineInfo!
+	REBEL_SHIP_terkana: "Terkana" #!Empty_LineInfo!
+	REBEL_SHIP_tessek: "Tessek" #!Empty_LineInfo!
+	REBEL_SHIP_tidecrest: "Tidecrest" #!Empty_LineInfo!
+	REBEL_SHIP_tikit: "Tikit" #!Empty_LineInfo!
+	REBEL_SHIP_toklar: "Toklar" #!Empty_LineInfo!
+	REBEL_SHIP_torrent: "Torrent" #!Empty_LineInfo!
+	REBEL_SHIP_tradewyn: "Tradewyn" #!Empty_LineInfo!
+	REBEL_SHIP_tsunami: "Tsunami" #!Empty_LineInfo!
+	REBEL_SHIP_undertow: "Undertow" #!Empty_LineInfo!
+	REBEL_SHIP_vebb: "Vebb" #!Empty_LineInfo!
+	REBEL_SHIP_vekkor: "Vekkor" #!Empty_LineInfo!
+	REBEL_SHIP_voidpool: "Voidpool" #!Empty_LineInfo!
+	REBEL_SHIP_voidshark: "Voidshark" #!Empty_LineInfo!
+	REBEL_SHIP_whaladon: "Whaladon" #!Empty_LineInfo!
+	REBEL_SHIP_wildwater: "Wildwater" #!Empty_LineInfo!
+	REBEL_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	REBEL_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	REBEL_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	REBEL_SHIP_guiding_light: "Guiding Light" #!Empty_LineInfo!
+	REBEL_SHIP_helping_hand: "Helping Hand" #!Empty_LineInfo!
+	REBEL_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	REBEL_SHIP_bright_flight: "Bright Flight" #!Empty_LineInfo!
+	REBEL_SHIP_benevolence: "Benevolence" #!Empty_LineInfo!
+	REBEL_SHIP_true_star: "True Star" #!Empty_LineInfo!
+	REBEL_SHIP_high_haven: "High Haven" #!Empty_LineInfo!
+	REBEL_SHIP_respite: "Respite" #!Empty_LineInfo!
+	REBEL_SHIP_golandras: "Golandras" #!Empty_LineInfo!
+	REBEL_SHIP_navigator: "Navigator" #!Empty_LineInfo!
+	REBEL_SHIP_wayward: "Wayward" #!Empty_LineInfo!
+	REBEL_SHIP_wayfinder: "Wayfinder" #!Empty_LineInfo!
+	REBEL_SHIP_waymaker: "Waymaker" #!Empty_LineInfo!
+	REBEL_SHIP_jori_daragon: "Jori Daragon" #!Empty_LineInfo!
+	REBEL_SHIP_vector_one: "Vector One" #!Empty_LineInfo!
+	REBEL_SHIP_void_guide: "Void Guide" #!Empty_LineInfo!
+	REBEL_SHIP_trustant: "Trustant" #!Empty_LineInfo!
+	REBEL_SHIP_starchaser: "Starchaser" #!Empty_LineInfo!
+	REBEL_SHIP_beneficent: "Beneficent" #!Empty_LineInfo!
+	REBEL_SHIP_sentientarian: "Sentientarian" #!Empty_LineInfo!
+	REBEL_SHIP_munificent: "Munificent" #!Empty_LineInfo!
+	REBEL_SHIP_bountiful: "Bountiful" #!Empty_LineInfo!
+	REBEL_SHIP_bountenous: "Bountenous" #!Empty_LineInfo!
+	REBEL_SHIP_openhand: "Openhand" #!Empty_LineInfo!
+	REBEL_SHIP_free_hand: "Free Hand" #!Empty_LineInfo!
+	REBEL_SHIP_benignant: "Benignant" #!Empty_LineInfo!
+	REBEL_SHIP_liberality: "Liberality" #!Empty_LineInfo!
+	REBEL_SHIP_first_charity: "First Charity" #!Empty_LineInfo!
+	REBEL_SHIP_altruist: "Altruist" #!Empty_LineInfo!
+	REBEL_SHIP_settler: "Settler" #!Empty_LineInfo!
+	REBEL_SHIP_scion: "Scion" #!Empty_LineInfo!
+	REBEL_SHIP_forerunner: "Forerunner" #!Empty_LineInfo!
+	REBEL_SHIP_successor: "Successor" #!Empty_LineInfo!
+	REBEL_SHIP_truespring: "Truespring" #!Empty_LineInfo!
+	REBEL_SHIP_industry: "Industry" #!Empty_LineInfo!
+	REBEL_SHIP_spanner: "Spanner" #!Empty_LineInfo!
+	REBEL_SHIP_true_faith: "True Faith" #!Empty_LineInfo!
+	REBEL_SHIP_cooperation: "Cooperation" #!Empty_LineInfo!
+	REBEL_SHIP_builder: "Builder" #!Empty_LineInfo!
+	REBEL_SHIP_collaboration: "Collaboration" #!Empty_LineInfo!
+	REBEL_SHIP_joiner: "Joiner" #!Empty_LineInfo!
+	REBEL_SHIP_teamwork: "Teamwork" #!Empty_LineInfo!
+	REBEL_SHIP_partnership: "Partnership" #!Empty_LineInfo!
+	REBEL_SHIP_coordination: "Coordination" #!Empty_LineInfo!
+	REBEL_SHIP_synergy: "Synergy" #!Empty_LineInfo!
+	REBEL_SHIP_dealer: "Dealer" #!Empty_LineInfo!
+	REBEL_SHIP_relater: "Relater" #!Empty_LineInfo!
+	REBEL_SHIP_assistant: "Assistant" #!Empty_LineInfo!
+	REBEL_SHIP_supporter: "Supporter" #!Empty_LineInfo!
+	REBEL_SHIP_backer: "Backer" #!Empty_LineInfo!
+	REBEL_SHIP_contributor: "Contributor" #!Empty_LineInfo!
+	REBEL_SHIP_ministration: "Ministration" #!Empty_LineInfo!
+	REBEL_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	REBEL_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	REBEL_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	REBEL_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	REBEL_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	REBEL_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	REBEL_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	REBEL_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	REBEL_SHIP_acre: "Acre" #!Empty_LineInfo!
+	REBEL_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	REBEL_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	REBEL_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	REBEL_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	REBEL_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	REBEL_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	REBEL_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	REBEL_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	REBEL_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	REBEL_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	REBEL_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	REBEL_SHIP_newport: "Newport" #!Empty_LineInfo!
+	REBEL_SHIP_guam: "Guam" #!Empty_LineInfo!
+	REBEL_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	REBEL_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	REBEL_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	REBEL_SHIP_everest: "Everest" #!Empty_LineInfo!
+	REBEL_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	REBEL_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	REBEL_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	REBEL_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	REBEL_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	REBEL_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	REBEL_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	REBEL_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	REBEL_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	REBEL_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	REBEL_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	REBEL_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	REBEL_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	REBEL_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	REBEL_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	REBEL_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	REBEL_SHIP_perry: "Perry" #!Empty_LineInfo!
+	REBEL_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	REBEL_SHIP_morris: "Morris" #!Empty_LineInfo!
+	REBEL_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	REBEL_SHIP_hart: "Hart" #!Empty_LineInfo!
+	REBEL_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	REBEL_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	REBEL_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	REBEL_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	REBEL_SHIP_turner: "Turner" #!Empty_LineInfo!
+	REBEL_SHIP_doria: "Doria" #!Empty_LineInfo!
+	REBEL_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	REBEL_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	REBEL_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	REBEL_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	REBEL_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	REBEL_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	REBEL_SHIP_durham: "Durham" #!Empty_LineInfo!
+	REBEL_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	REBEL_SHIP_milne: "Milne" #!Empty_LineInfo!
+	REBEL_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	REBEL_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	REBEL_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	REBEL_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	REBEL_SHIP_pound: "Pound" #!Empty_LineInfo!
+	REBEL_SHIP_king: "King" #!Empty_LineInfo!
+	REBEL_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	REBEL_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	REBEL_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	REBEL_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	REBEL_SHIP_essen: "Essen" #!Empty_LineInfo!
+	REBEL_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	REBEL_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	REBEL_SHIP_treville: "Treville" #!Empty_LineInfo!
+	REBEL_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	REBEL_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	REBEL_SHIP_byng: "Byng" #!Empty_LineInfo!
+	REBEL_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	REBEL_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	REBEL_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	REBEL_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	REBEL_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	REBEL_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	REBEL_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	REBEL_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	REBEL_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	REBEL_FLEET_armada_ORD: "$ORD$ Armada" #!Empty_LineInfo!
+	REBEL_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	REBEL_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	REBEL_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	REBEL_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	REBEL_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	REBEL_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	REBEL_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	REBEL_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	REBEL_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	REBEL_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	REBEL_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	REBEL_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	REBEL_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	REBEL_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	REBEL_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	REBEL_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	REBEL_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	REBEL_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	REBEL_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	REBEL_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	REBEL_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	REBEL_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	REBEL_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	REBEL_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	REBEL_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	REBEL_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	REBEL_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	REBEL_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	REBEL_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	REBEL_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	REBEL_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	REBEL_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	REBEL_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	REBEL_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	REBEL_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	REBEL_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	REBEL_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	REBEL_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	REBEL_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	REBEL_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	REBEL_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	REBEL_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	REBEL_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	REBEL_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	REBEL_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	REBEL_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	REBEL_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	REBEL_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	REBEL_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	REBEL_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	REBEL_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	REBEL_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	REBEL_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	REBEL_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	REBEL_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	REBEL_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	REBEL_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	REBEL_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	REBEL_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	REBEL_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	REBEL_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	REBEL_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	REBEL_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	REBEL_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	REBEL_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	REBEL_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	REBEL_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	REBEL_CHR_judder: "Judder" #!Empty_LineInfo!
+	REBEL_CHR_kade: "Kade" #!Empty_LineInfo!
+	REBEL_CHR_jak: "Jak" #!Empty_LineInfo!
+	REBEL_CHR_dixon: "Dixon" #!Empty_LineInfo!
+	REBEL_CHR_skere: "Skere" #!Empty_LineInfo!
+	REBEL_CHR_derek: "Derek" #!Empty_LineInfo!
+	REBEL_CHR_jaden: "Jaden" #!Empty_LineInfo!
+	REBEL_CHR_del: "Del" #!Empty_LineInfo!
+	REBEL_CHR_kessin: "Kessin" #!Empty_LineInfo!
+	REBEL_CHR_alexi: "Alexi" #!Empty_LineInfo!
+	REBEL_CHR_airen: "Airen" #!Empty_LineInfo!
+	REBEL_CHR_jacen: "Jacen" #!Empty_LineInfo!
+	REBEL_CHR_kanan: "Kanan" #!Empty_LineInfo!
+	REBEL_CHR_saw: "Saw" #!Empty_LineInfo!
+	REBEL_CHR_gideon: "Gideon" #!Empty_LineInfo!
+	REBEL_CHR_jalice: "Jalice" #!Empty_LineInfo!
+	REBEL_CHR_baze: "Baze" #!Empty_LineInfo!
+	REBEL_CHR_chirrut: "Chirrut" #!Empty_LineInfo!
+	REBEL_CHR_cassian: "Cassian" #!Empty_LineInfo!
+	REBEL_CHR_jun: "Jun" #!Empty_LineInfo!
+	REBEL_CHR_cal: "Cal" #!Empty_LineInfo!
+	REBEL_CHR_jan: "Jan" #!Empty_LineInfo!
+	REBEL_CHR_rob: "Rob" #!Empty_LineInfo!
+	REBEL_CHR_carlist: "Carlist" #!Empty_LineInfo!
+	REBEL_CHR_ryder: "Ryder" #!Empty_LineInfo!
+	REBEL_CHR_garm: "Garm" #!Empty_LineInfo!
+	REBEL_CHR_tanner: "Tanner" #!Empty_LineInfo!
+	REBEL_CHR_jax: "Jax" #!Empty_LineInfo!
+	REBEL_CHR_jarek: "Jarek" #!Empty_LineInfo!
+	REBEL_CHR_wes: "Wes" #!Empty_LineInfo!
+	REBEL_CHR_dak: "Dak" #!Empty_LineInfo!
+	REBEL_CHR_avan: "Avan" #!Empty_LineInfo!
+	REBEL_CHR_pash: "Pash" #!Empty_LineInfo!
+	REBEL_CHR_myn: "Myn" #!Empty_LineInfo!
+	REBEL_CHR_zev: "Zev" #!Empty_LineInfo!
+	REBEL_CHR_kit: "Kit" #!Empty_LineInfo!
+	REBEL_CHR_kell: "Kell" #!Empty_LineInfo!
+	REBEL_CHR_biggs: "Biggs" #!Empty_LineInfo!
+	REBEL_CHR_garven: "Garven" #!Empty_LineInfo!
+	REBEL_CHR_ralo: "Ralo" #!Empty_LineInfo!
+	REBEL_CHR_jon: "Jon" #!Empty_LineInfo!
+	REBEL_CHR_poe: "Poe" #!Empty_LineInfo!
+	REBEL_CHR_raymus: "Raymus" #!Empty_LineInfo!
+	REBEL_CHR_owen: "Owen" #!Empty_LineInfo!
+	REBEL_CHR_jyn: "Jyn" #!Empty_LineInfo!
+	REBEL_CHR_kalyn: "Kalyn" #!Empty_LineInfo!
+	REBEL_CHR_kara: "Kara" #!Empty_LineInfo!
+	REBEL_CHR_karin: "Karin" #!Empty_LineInfo!
+	REBEL_CHR_ellie: "Ellie" #!Empty_LineInfo!
+	REBEL_CHR_elliye: "Elliye" #!Empty_LineInfo!
+	REBEL_CHR_iris: "Iris" #!Empty_LineInfo!
+	REBEL_CHR_jaina: "Jaina" #!Empty_LineInfo!
+	REBEL_CHR_alanna: "Alanna" #!Empty_LineInfo!
+	REBEL_CHR_kaia: "Kaia" #!Empty_LineInfo!
+	REBEL_CHR_kari: "Kari" #!Empty_LineInfo!
+	REBEL_CHR_katalin: "Katalin" #!Empty_LineInfo!
+	REBEL_CHR_kayla: "Kayla" #!Empty_LineInfo!
+	REBEL_CHR_lexi: "Lexi" #!Empty_LineInfo!
+	REBEL_CHR_maisie: "Maisie" #!Empty_LineInfo!
+	REBEL_CHR_tessa: "Tessa" #!Empty_LineInfo!
+	REBEL_CHR_silara: "Silara" #!Empty_LineInfo!
+	REBEL_CHR_pooja: "Pooja" #!Empty_LineInfo!
+	REBEL_CHR_mya: "Mya" #!Empty_LineInfo!
+	REBEL_CHR_lela: "Lela" #!Empty_LineInfo!
+	REBEL_CHR_sabine: "Sabine" #!Empty_LineInfo!
+	REBEL_CHR_idryssa: "Idryssa" #!Empty_LineInfo!
+	REBEL_CHR_gerrera: "Gerrera" #!Empty_LineInfo!
+	REBEL_CHR_mari: "Mari" #!Empty_LineInfo!
+	REBEL_CHR_maia: "Maia" #!Empty_LineInfo!
+	REBEL_CHR_iden: "Iden" #!Empty_LineInfo!
+	REBEL_CHR_mon: "Mon" #!Empty_LineInfo!
+	REBEL_CHR_winter: "Winter" #!Empty_LineInfo!
+	REBEL_CHR_iella: "Iella" #!Empty_LineInfo!
+	REBEL_CHR_maxine: "Maxine" #!Empty_LineInfo!
+	REBEL_CHR_venisa: "Venisa" #!Empty_LineInfo!
+	REBEL_CHR_mirax: "Mirax" #!Empty_LineInfo!
+	REBEL_CHR_mia: "Mia" #!Empty_LineInfo!
+	REBEL_CHR_breha: "Breha" #!Empty_LineInfo!
+	REBEL_CHR_sasha: "Sasha" #!Empty_LineInfo!
+	REBEL_CHR_anni: "Anni" #!Empty_LineInfo!
+	REBEL_CHR_inyri: "Inyri" #!Empty_LineInfo!
+	REBEL_CHR_lujayne: "Lujayne" #!Empty_LineInfo!
+	REBEL_CHR_syal: "Syal" #!Empty_LineInfo!
+	REBEL_CHR_bria: "Bria" #!Empty_LineInfo!
+	REBEL_CHR_tendra: "Tendra" #!Empty_LineInfo!
+	REBEL_CHR_page: "Page" #!Empty_LineInfo!
+	REBEL_CHR_kaan: "Kaan" #!Empty_LineInfo!
+	REBEL_CHR_klivian: "Klivian" #!Empty_LineInfo!
+	REBEL_CHR_korr: "Korr" #!Empty_LineInfo!
+	REBEL_CHR_pavan: "Pavan" #!Empty_LineInfo!
+	REBEL_CHR_rist: "Rist" #!Empty_LineInfo!
+	REBEL_CHR_organa: "Organa" #!Empty_LineInfo!
+	REBEL_CHR_berenko: "Berenko" #!Empty_LineInfo!
+	REBEL_CHR_alde: "Alde" #!Empty_LineInfo!
+	REBEL_CHR_baliss: "Baliss" #!Empty_LineInfo!
+	REBEL_CHR_cortess: "Cortess" #!Empty_LineInfo!
+	REBEL_CHR_ulgo: "Ulgo" #!Empty_LineInfo!
+	REBEL_CHR_thule: "Thule" #!Empty_LineInfo!
+	REBEL_CHR_teral: "Teral" #!Empty_LineInfo!
+	REBEL_CHR_antilles: "Antilles" #!Empty_LineInfo!
+	REBEL_CHR_panteer: "Panteer" #!Empty_LineInfo!
+	REBEL_CHR_rendar: "Rendar" #!Empty_LineInfo!
+	REBEL_CHR_korden: "Korden" #!Empty_LineInfo!
+	REBEL_CHR_naberrie: "Naberrie" #!Empty_LineInfo!
+	REBEL_CHR_onasi: "Onasi" #!Empty_LineInfo!
+	REBEL_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
+	REBEL_CHR_imwe: "Imwe" #!Empty_LineInfo!
+	REBEL_CHR_andor: "Andor" #!Empty_LineInfo!
+	REBEL_CHR_sato: "Sato" #!Empty_LineInfo!
+	REBEL_CHR_javes: "Javes" #!Empty_LineInfo!
+	REBEL_CHR_dodonna: "Dodonna" #!Empty_LineInfo!
+	REBEL_CHR_mothma: "Mothma" #!Empty_LineInfo!
+	REBEL_CHR_draven: "Draven" #!Empty_LineInfo!
+	REBEL_CHR_celchu: "Celchu" #!Empty_LineInfo!
+	REBEL_CHR_wessiri: "Wessiri" #!Empty_LineInfo!
+	REBEL_CHR_azadi: "Azadi" #!Empty_LineInfo!
+	REBEL_CHR_bel_iblis: "Bel Iblis" #!Empty_LineInfo!
+	REBEL_CHR_chan: "Chan" #!Empty_LineInfo!
+	REBEL_CHR_darklighter: "Darklighter" #!Empty_LineInfo!
+	REBEL_CHR_drake: "Drake" #!Empty_LineInfo!
+	REBEL_CHR_ors: "Ors" #!Empty_LineInfo!
+	REBEL_CHR_terrik: "Terrik" #!Empty_LineInfo!
+	REBEL_CHR_horn: "Horn" #!Empty_LineInfo!
+	REBEL_CHR_wexley: "Wexley" #!Empty_LineInfo!
+	REBEL_CHR_janson: "Janson" #!Empty_LineInfo!
+	REBEL_CHR_ralter: "Ralter" #!Empty_LineInfo!
+	REBEL_CHR_ardele: "Ardele" #!Empty_LineInfo!
+	REBEL_CHR_cracken: "Cracken" #!Empty_LineInfo!
+	REBEL_CHR_donos: "Donos" #!Empty_LineInfo!
+	REBEL_CHR_forge: "Forge" #!Empty_LineInfo!
+	REBEL_CHR_tainer: "Tainer" #!Empty_LineInfo!
+	REBEL_CHR_tharen: "Tharen" #!Empty_LineInfo!
+	REBEL_CHR_dreis: "Dreis" #!Empty_LineInfo!
+	REBEL_CHR_dameron: "Dameron" #!Empty_LineInfo!
+	REBEL_CHR_calrissian: "Calrissian" #!Empty_LineInfo!
+	REBEL_CHR_lux: "Lux" #!Empty_LineInfo!
+	REBEL_CHR_codo: "Codo" #!Empty_LineInfo!
+	REBEL_CHR_euwood: "Euwood" #!Empty_LineInfo!
+	REBEL_CHR_azen: "Azen" #!Empty_LineInfo!
+	REBEL_CHR_lar: "Lar" #!Empty_LineInfo!
+	REBEL_CHR_staven: "Staven" #!Empty_LineInfo!
+	REBEL_CHR_saurval: "Saurval" #!Empty_LineInfo!
+	REBEL_CHR_reece: "Reece" #!Empty_LineInfo!
+	REBEL_CHR_tivik: "Tivik" #!Empty_LineInfo!
+	REBEL_CHR_jonner: "Jonner" #!Empty_LineInfo!
+	REBEL_CHR_mart: "Mart" #!Empty_LineInfo!
+	REBEL_CHR_lindon: "Lindon" #!Empty_LineInfo!
+	REBEL_CHR_adame: "Adame" #!Empty_LineInfo!
+	REBEL_CHR_alexan: "Alexan" #!Empty_LineInfo!
+	REBEL_CHR_philap: "Philap" #!Empty_LineInfo!
+	REBEL_CHR_dustil: "Dustil" #!Empty_LineInfo!
+	REBEL_CHR_baccam: "Baccam" #!Empty_LineInfo!
+	REBEL_CHR_nower: "Nower" #!Empty_LineInfo!
+	REBEL_CHR_prestor: "Prestor" #!Empty_LineInfo!
+	REBEL_CHR_vasp: "Vasp" #!Empty_LineInfo!
+	REBEL_CHR_vanden: "Vanden" #!Empty_LineInfo!
+	REBEL_CHR_davits: "Davits" #!Empty_LineInfo!
+	REBEL_CHR_antoc: "Antoc" #!Empty_LineInfo!
+	REBEL_CHR_bandwin: "Bandwin" #!Empty_LineInfo!
+	REBEL_CHR_mikos: "Mikos" #!Empty_LineInfo!
+	REBEL_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
+	REBEL_CHR_vestin: "Vestin" #!Empty_LineInfo!
+	REBEL_CHR_ayx: "Ayx" #!Empty_LineInfo!
+	REBEL_CHR_daye: "Daye" #!Empty_LineInfo!
+	REBEL_CHR_rojo: "Rojo" #!Empty_LineInfo!
+	REBEL_CHR_jom: "Jom" #!Empty_LineInfo!
+	REBEL_CHR_benthar: "Benthar" #!Empty_LineInfo!
+	REBEL_CHR_buran: "Buran" #!Empty_LineInfo!
+	REBEL_CHR_deckland: "Deckland" #!Empty_LineInfo!
+	REBEL_CHR_willer: "Willer" #!Empty_LineInfo!
+	REBEL_CHR_colin: "Colin" #!Empty_LineInfo!
+	REBEL_CHR_hric: "Hric" #!Empty_LineInfo!
+	REBEL_CHR_villian: "Villian" #!Empty_LineInfo!
+	REBEL_CHR_saun: "Saun" #!Empty_LineInfo!
+	REBEL_CHR_evram: "Evram" #!Empty_LineInfo!
+	REBEL_CHR_haanos: "Haanos" #!Empty_LineInfo!
+	REBEL_CHR_daiv: "Daiv" #!Empty_LineInfo!
+	REBEL_CHR_ardin: "Ardin" #!Empty_LineInfo!
+	REBEL_CHR_leger: "Leger" #!Empty_LineInfo!
+	REBEL_CHR_keenal: "Keenal" #!Empty_LineInfo!
+	REBEL_CHR_jotil: "Jotil" #!Empty_LineInfo!
+	REBEL_CHR_fez: "Fez" #!Empty_LineInfo!
+	REBEL_CHR_temo: "Temo" #!Empty_LineInfo!
+	REBEL_CHR_kornell: "Kornell" #!Empty_LineInfo!
+	REBEL_CHR_garil: "Garil" #!Empty_LineInfo!
+	REBEL_CHR_ivor: "Ivor" #!Empty_LineInfo!
+	REBEL_CHR_cooper: "Cooper" #!Empty_LineInfo!
+	REBEL_CHR_eron: "Eron" #!Empty_LineInfo!
+	REBEL_CHR_erik: "Erik" #!Empty_LineInfo!
+	REBEL_CHR_carter: "Carter" #!Empty_LineInfo!
+	REBEL_CHR_gaav: "Gaav" #!Empty_LineInfo!
+	REBEL_CHR_erissson: "Erissson" #!Empty_LineInfo!
+	REBEL_CHR_hamman: "Hamman" #!Empty_LineInfo!
+	REBEL_CHR_devon: "Devon" #!Empty_LineInfo!
+	REBEL_CHR_roark: "Roark" #!Empty_LineInfo!
+	REBEL_CHR_nolan: "Nolan" #!Empty_LineInfo!
+	REBEL_CHR_tag: "Tag" #!Empty_LineInfo!
+	REBEL_CHR_chaz: "Chaz" #!Empty_LineInfo!
+	REBEL_CHR_zaz: "Zaz" #!Empty_LineInfo!
+	REBEL_CHR_jarrod: "Jarrod" #!Empty_LineInfo!
+	REBEL_CHR_melvor: "Melvor" #!Empty_LineInfo!
+	REBEL_CHR_alben: "Alben" #!Empty_LineInfo!
+	REBEL_CHR_kaeden: "Kaeden" #!Empty_LineInfo!
+	REBEL_CHR_gren: "Gren" #!Empty_LineInfo!
+	REBEL_CHR_aurin: "Aurin" #!Empty_LineInfo!
+	REBEL_CHR_jaahn: "Jaahn" #!Empty_LineInfo!
+	REBEL_CHR_dannen: "Dannen" #!Empty_LineInfo!
+	REBEL_CHR_mak: "Mak" #!Empty_LineInfo!
+	REBEL_CHR_lucas: "Lucas" #!Empty_LineInfo!
+	REBEL_CHR_luca: "Luca" #!Empty_LineInfo!
+	REBEL_CHR_artis: "Artis" #!Empty_LineInfo!
+	REBEL_CHR_lorn: "Lorn" #!Empty_LineInfo!
+	REBEL_CHR_jono: "Jono" #!Empty_LineInfo!
+	REBEL_CHR_grondorn: "Grondorn" #!Empty_LineInfo!
+	REBEL_CHR_elth: "Elth" #!Empty_LineInfo!
+	REBEL_CHR_var: "Var" #!Empty_LineInfo!
+	REBEL_CHR_jaliq: "Jaliq" #!Empty_LineInfo!
+	REBEL_CHR_palejo: "Palejo" #!Empty_LineInfo!
+	REBEL_CHR_lord_sloan: "Lord Sloan" #!Empty_LineInfo!
+	REBEL_CHR_thaum: "Thaum" #!Empty_LineInfo!
+	REBEL_CHR_siro: "Siro" #!Empty_LineInfo!
+	REBEL_CHR_mygo: "Mygo" #!Empty_LineInfo!
+	REBEL_CHR_jorin: "Jorin" #!Empty_LineInfo!
+	REBEL_CHR_regul: "Regul" #!Empty_LineInfo!
+	REBEL_CHR_roger: "Roger" #!Empty_LineInfo!
+	REBEL_CHR_janek: "Janek" #!Empty_LineInfo!
+	REBEL_CHR_dav: "Dav" #!Empty_LineInfo!
+	REBEL_CHR_matt: "Matt" #!Empty_LineInfo!
+	REBEL_CHR_kandar: "Kandar" #!Empty_LineInfo!
+	REBEL_CHR_vors: "Vors" #!Empty_LineInfo!
+	REBEL_CHR_ris: "Ris" #!Empty_LineInfo!
+	REBEL_CHR_croy: "Croy" #!Empty_LineInfo!
+	REBEL_CHR_ral: "Ral" #!Empty_LineInfo!
+	REBEL_CHR_trux: "Trux" #!Empty_LineInfo!
+	REBEL_CHR_tarrin: "Tarrin" #!Empty_LineInfo!
+	REBEL_CHR_barlon: "Barlon" #!Empty_LineInfo!
+	REBEL_CHR_bror: "Bror" #!Empty_LineInfo!
+	REBEL_CHR_kin: "Kin" #!Empty_LineInfo!
+	REBEL_CHR_kasan: "Kasan" #!Empty_LineInfo!
+	REBEL_CHR_kesin: "Kesin" #!Empty_LineInfo!
+	REBEL_CHR_dix: "Dix" #!Empty_LineInfo!
+	REBEL_CHR_keir: "Keir" #!Empty_LineInfo!
+	REBEL_CHR_will: "Will" #!Empty_LineInfo!
+	REBEL_CHR_gemmer: "Gemmer" #!Empty_LineInfo!
+	REBEL_CHR_zekk: "Zekk" #!Empty_LineInfo!
+	REBEL_CHR_baljos: "Baljos" #!Empty_LineInfo!
+	REBEL_CHR_trey: "Trey" #!Empty_LineInfo!
+	REBEL_CHR_cubber: "Cubber" #!Empty_LineInfo!
+	REBEL_CHR_turman: "Turman" #!Empty_LineInfo!
+	REBEL_CHR_garik: "Garik" #!Empty_LineInfo!
+	REBEL_CHR_ton: "Ton" #!Empty_LineInfo!
+	REBEL_CHR_jek: "Jek" #!Empty_LineInfo!
+	REBEL_CHR_harb: "Harb" #!Empty_LineInfo!
+	REBEL_CHR_wenton: "Wenton" #!Empty_LineInfo!
+	REBEL_CHR_grizz: "Grizz" #!Empty_LineInfo!
+	REBEL_CHR_pedrin: "Pedrin" #!Empty_LineInfo!
+	REBEL_CHR_sila: "Sila" #!Empty_LineInfo!
+	REBEL_CHR_arhul: "Arhul" #!Empty_LineInfo!
+	REBEL_CHR_nozzo: "Nozzo" #!Empty_LineInfo!
+	REBEL_CHR_theron: "Theron" #!Empty_LineInfo!
+	REBEL_CHR_bren: "Bren" #!Empty_LineInfo!
+	REBEL_CHR_rue: "Rue" #!Empty_LineInfo!
+	REBEL_CHR_joff: "Joff" #!Empty_LineInfo!
+	REBEL_CHR_col: "Col" #!Empty_LineInfo!
+	REBEL_CHR_chance: "Chance" #!Empty_LineInfo!
+	REBEL_CHR_charle: "Charle" #!Empty_LineInfo!
+	REBEL_CHR_dolin: "Dolin" #!Empty_LineInfo!
+	REBEL_CHR_elz: "Elz" #!Empty_LineInfo!
+	REBEL_CHR_haley: "Haley" #!Empty_LineInfo!
+	REBEL_CHR_hallam: "Hallam" #!Empty_LineInfo!
+	REBEL_CHR_tarrik: "Tarrik" #!Empty_LineInfo!
+	REBEL_CHR_ben: "Ben" #!Empty_LineInfo!
+	REBEL_CHR_han: "Han" #!Empty_LineInfo!
+	REBEL_CHR_wynne: "Wynne" #!Empty_LineInfo!
+	REBEL_CHR_rickard: "Rickard" #!Empty_LineInfo!
+	REBEL_CHR_palo: "Palo" #!Empty_LineInfo!
+	REBEL_CHR_nomar: "Nomar" #!Empty_LineInfo!
+	REBEL_CHR_nial: "Nial" #!Empty_LineInfo!
+	REBEL_CHR_linel: "Linel" #!Empty_LineInfo!
+	REBEL_CHR_lew: "Lew" #!Empty_LineInfo!
+	REBEL_CHR_jeren: "Jeren" #!Empty_LineInfo!
+	REBEL_CHR_cliegg: "Cliegg" #!Empty_LineInfo!
+	REBEL_CHR_bellek: "Bellek" #!Empty_LineInfo!
+	REBEL_CHR_walt: "Walt" #!Empty_LineInfo!
+	REBEL_CHR_sam: "Sam" #!Empty_LineInfo!
+	REBEL_CHR_jabe: "Jabe" #!Empty_LineInfo!
+	REBEL_CHR_ardon: "Ardon" #!Empty_LineInfo!
+	REBEL_CHR_gavin: "Gavin" #!Empty_LineInfo!
+	REBEL_CHR_huff: "Huff" #!Empty_LineInfo!
+	REBEL_CHR_ariq: "Ariq" #!Empty_LineInfo!
+	REBEL_CHR_jahn: "Jahn" #!Empty_LineInfo!
+	REBEL_CHR_caelum: "Caelum" #!Empty_LineInfo!
+	REBEL_CHR_laze: "Laze" #!Empty_LineInfo!
+	REBEL_CHR_luke: "Luke" #!Empty_LineInfo!
+	REBEL_CHR_horzao: "Horzao" #!Empty_LineInfo!
+	REBEL_CHR_tomer: "Tomer" #!Empty_LineInfo!
+	REBEL_CHR_kissek: "Kissek" #!Empty_LineInfo!
+	REBEL_CHR_vangos: "Vangos" #!Empty_LineInfo!
+	REBEL_CHR_robich: "Robich" #!Empty_LineInfo!
+	REBEL_CHR_dosmit: "Dosmit" #!Empty_LineInfo!
+	REBEL_CHR_ryle: "Ryle" #!Empty_LineInfo!
+	REBEL_CHR_kavish: "Kavish" #!Empty_LineInfo!
+	REBEL_CHR_keyan: "Keyan" #!Empty_LineInfo!
+	REBEL_CHR_puck: "Puck" #!Empty_LineInfo!
+	REBEL_CHR_aron: "Aron" #!Empty_LineInfo!
+	REBEL_CHR_dex: "Dex" #!Empty_LineInfo!
+	REBEL_CHR_tofen: "Tofen" #!Empty_LineInfo!
+	REBEL_CHR_temmin: "Temmin" #!Empty_LineInfo!
+	REBEL_CHR_theo: "Theo" #!Empty_LineInfo!
+	REBEL_CHR_jay: "Jay" #!Empty_LineInfo!
+	REBEL_CHR_aarton: "Aarton" #!Empty_LineInfo!
+	REBEL_CHR_derham: "Derham" #!Empty_LineInfo!
+	REBEL_CHR_cobel: "Cobel" #!Empty_LineInfo!
+	REBEL_CHR_fassio: "Fassio" #!Empty_LineInfo!
+	REBEL_CHR_bryce: "Bryce" #!Empty_LineInfo!
+	REBEL_CHR_maxiron: "Maxiron" #!Empty_LineInfo!
+	REBEL_CHR_braedon: "Braedon" #!Empty_LineInfo!
+	REBEL_CHR_gez: "Gez" #!Empty_LineInfo!
+	REBEL_CHR_arkoh: "Arkoh" #!Empty_LineInfo!
+	REBEL_CHR_alok: "Alok" #!Empty_LineInfo!
+	REBEL_CHR_aythan: "Aythan" #!Empty_LineInfo!
+	REBEL_CHR_alric: "Alric" #!Empty_LineInfo!
+	REBEL_CHR_caern: "Caern" #!Empty_LineInfo!
+	REBEL_CHR_aden: "Aden" #!Empty_LineInfo!
+	REBEL_CHR_alain: "Alain" #!Empty_LineInfo!
+	REBEL_CHR_joral: "Joral" #!Empty_LineInfo!
+	REBEL_CHR_brixus: "Brixus" #!Empty_LineInfo!
+	REBEL_CHR_kel: "Kel" #!Empty_LineInfo!
+	REBEL_CHR_jess: "Jess" #!Empty_LineInfo!
+	REBEL_CHR_jeze: "Jeze" #!Empty_LineInfo!
+	REBEL_CHR_jesper: "Jesper" #!Empty_LineInfo!
+	REBEL_CHR_tren: "Tren" #!Empty_LineInfo!
+	REBEL_CHR_jioie: "Jioie" #!Empty_LineInfo!
+	REBEL_CHR_ryley: "Ryley" #!Empty_LineInfo!
+	REBEL_CHR_jeron: "Jeron" #!Empty_LineInfo!
+	REBEL_CHR_reez: "Reez" #!Empty_LineInfo!
+	REBEL_CHR_koffi: "Koffi" #!Empty_LineInfo!
+	REBEL_CHR_tor: "Tor" #!Empty_LineInfo!
+	REBEL_CHR_korin: "Korin" #!Empty_LineInfo!
+	REBEL_CHR_jareck: "Jareck" #!Empty_LineInfo!
+	REBEL_CHR_zak: "Zak" #!Empty_LineInfo!
+	REBEL_CHR_ellis: "Ellis" #!Empty_LineInfo!
+	REBEL_CHR_wil: "Wil" #!Empty_LineInfo!
+	REBEL_CHR_tal: "Tal" #!Empty_LineInfo!
+	REBEL_CHR_vinn: "Vinn" #!Empty_LineInfo!
+	REBEL_CHR_atty: "Atty" #!Empty_LineInfo!
+	REBEL_CHR_gravom: "Gravom" #!Empty_LineInfo!
+	REBEL_CHR_tomas: "Tomas" #!Empty_LineInfo!
+	REBEL_CHR_tomaas: "Tomaas" #!Empty_LineInfo!
+	REBEL_CHR_ash: "Ash" #!Empty_LineInfo!
+	REBEL_CHR_jonas: "Jonas" #!Empty_LineInfo!
+	REBEL_CHR_yonas: "Yonas" #!Empty_LineInfo!
+	REBEL_CHR_kitster: "Kitster" #!Empty_LineInfo!
+	REBEL_CHR_sors: "Sors" #!Empty_LineInfo!
+	REBEL_CHR_mattis: "Mattis" #!Empty_LineInfo!
+	REBEL_CHR_arro: "Arro" #!Empty_LineInfo!
+	REBEL_CHR_zam: "Zam" #!Empty_LineInfo!
+	REBEL_CHR_zale: "Zale" #!Empty_LineInfo!
+	REBEL_CHR_mar: "Mar" #!Empty_LineInfo!
+	REBEL_CHR_jas: "Jas" #!Empty_LineInfo!
+	REBEL_CHR_neil: "Neil" #!Empty_LineInfo!
+	REBEL_CHR_biros: "Biros" #!Empty_LineInfo!
+	REBEL_CHR_jad: "Jad" #!Empty_LineInfo!
+	REBEL_CHR_moryo: "Moryo" #!Empty_LineInfo!
+	REBEL_CHR_tobias: "Tobias" #!Empty_LineInfo!
+	REBEL_CHR_nizuc: "Nizuc" #!Empty_LineInfo!
+	REBEL_CHR_tad: "Tad" #!Empty_LineInfo!
+	REBEL_CHR_dorin: "Dorin" #!Empty_LineInfo!
+	REBEL_CHR_leo: "Leo" #!Empty_LineInfo!
+	REBEL_CHR_alec: "Alec" #!Empty_LineInfo!
+	REBEL_CHR_megyn: "Megyn" #!Empty_LineInfo!
+	REBEL_CHR_mirienna: "Mirienna" #!Empty_LineInfo!
+	REBEL_CHR_nadrine: "Nadrine" #!Empty_LineInfo!
+	REBEL_CHR_magva: "Magva" #!Empty_LineInfo!
+	REBEL_CHR_aeliar: "Aeliar" #!Empty_LineInfo!
+	REBEL_CHR_tynnra: "Tynnra" #!Empty_LineInfo!
+	REBEL_CHR_magna: "Magna" #!Empty_LineInfo!
+	REBEL_CHR_nath: "Nath" #!Empty_LineInfo!
+	REBEL_CHR_lesle: "Lesle" #!Empty_LineInfo!
+	REBEL_CHR_allegra: "Allegra" #!Empty_LineInfo!
+	REBEL_CHR_ashe: "Ashe" #!Empty_LineInfo!
+	REBEL_CHR_belaya: "Belaya" #!Empty_LineInfo!
+	REBEL_CHR_aloren: "Aloren" #!Empty_LineInfo!
+	REBEL_CHR_renia: "Renia" #!Empty_LineInfo!
+	REBEL_CHR_lirisa: "Lirisa" #!Empty_LineInfo!
+	REBEL_CHR_travia: "Travia" #!Empty_LineInfo!
+	REBEL_CHR_javul: "Javul" #!Empty_LineInfo!
+	REBEL_CHR_tian: "Tian" #!Empty_LineInfo!
+	REBEL_CHR_cianne: "Cianne" #!Empty_LineInfo!
+	REBEL_CHR_meeta: "Meeta" #!Empty_LineInfo!
+	REBEL_CHR_dania: "Dania" #!Empty_LineInfo!
+	REBEL_CHR_dera: "Dera" #!Empty_LineInfo!
+	REBEL_CHR_elibet: "Elibet" #!Empty_LineInfo!
+	REBEL_CHR_shondra: "Shondra" #!Empty_LineInfo!
+	REBEL_CHR_lynia: "Lynia" #!Empty_LineInfo!
+	REBEL_CHR_mina: "Mina" #!Empty_LineInfo!
+	REBEL_CHR_chessa: "Chessa" #!Empty_LineInfo!
+	REBEL_CHR_chel: "Chel" #!Empty_LineInfo!
+	REBEL_CHR_ellenne: "Ellenne" #!Empty_LineInfo!
+	REBEL_CHR_silver: "Silver" #!Empty_LineInfo!
+	REBEL_CHR_gita: "Gita" #!Empty_LineInfo!
+	REBEL_CHR_astina: "Astina" #!Empty_LineInfo!
+	REBEL_CHR_rolanda: "Rolanda" #!Empty_LineInfo!
+	REBEL_CHR_selnia: "Selnia" #!Empty_LineInfo!
+	REBEL_CHR_ela: "Ela" #!Empty_LineInfo!
+	REBEL_CHR_setenna: "Setenna" #!Empty_LineInfo!
+	REBEL_CHR_jonda: "Jonda" #!Empty_LineInfo!
+	REBEL_CHR_fae: "Fae" #!Empty_LineInfo!
+	REBEL_CHR_milessa: "Milessa" #!Empty_LineInfo!
+	REBEL_CHR_terri: "Terri" #!Empty_LineInfo!
+	REBEL_CHR_teva: "Teva" #!Empty_LineInfo!
+	REBEL_CHR_katarra: "Katarra" #!Empty_LineInfo!
+	REBEL_CHR_nakari: "Nakari" #!Empty_LineInfo!
+	REBEL_CHR_tria: "Tria" #!Empty_LineInfo!
+	REBEL_CHR_vulaada: "Vulaada" #!Empty_LineInfo!
+	REBEL_CHR_kar: "Kar" #!Empty_LineInfo!
+	REBEL_CHR_ada: "Ada" #!Empty_LineInfo!
+	REBEL_CHR_avery: "Avery" #!Empty_LineInfo!
+	REBEL_CHR_dathnaeya: "Dathnaeya" #!Empty_LineInfo!
+	REBEL_CHR_leona: "Leona" #!Empty_LineInfo!
+	REBEL_CHR_marna: "Marna" #!Empty_LineInfo!
+	REBEL_CHR_corla: "Corla" #!Empty_LineInfo!
+	REBEL_CHR_sena: "Sena" #!Empty_LineInfo!
+	REBEL_CHR_mora: "Mora" #!Empty_LineInfo!
+	REBEL_CHR_voralla: "Voralla" #!Empty_LineInfo!
+	REBEL_CHR_oponni: "Oponni" #!Empty_LineInfo!
+	REBEL_CHR_kima: "Kima" #!Empty_LineInfo!
+	REBEL_CHR_neena: "Neena" #!Empty_LineInfo!
+	REBEL_CHR_platia: "Platia" #!Empty_LineInfo!
+	REBEL_CHR_elea: "Elea" #!Empty_LineInfo!
+	REBEL_CHR_shae: "Shae" #!Empty_LineInfo!
+	REBEL_CHR_una: "Una" #!Empty_LineInfo!
+	REBEL_CHR_ghia: "Ghia" #!Empty_LineInfo!
+	REBEL_CHR_karvinna: "Karvinna" #!Empty_LineInfo!
+	REBEL_CHR_talia: "Talia" #!Empty_LineInfo!
+	REBEL_CHR_mikka: "Mikka" #!Empty_LineInfo!
+	REBEL_CHR_iona: "Iona" #!Empty_LineInfo!
+	REBEL_CHR_morrina: "Morrina" #!Empty_LineInfo!
+	REBEL_CHR_shea: "Shea" #!Empty_LineInfo!
+	REBEL_CHR_samona: "Samona" #!Empty_LineInfo!
+	REBEL_CHR_sanna: "Sanna" #!Empty_LineInfo!
+	REBEL_CHR_sarrah: "Sarrah" #!Empty_LineInfo!
+	REBEL_CHR_silya: "Silya" #!Empty_LineInfo!
+	REBEL_CHR_solla: "Solla" #!Empty_LineInfo!
+	REBEL_CHR_sana: "Sana" #!Empty_LineInfo!
+	REBEL_CHR_marida: "Marida" #!Empty_LineInfo!
+	REBEL_CHR_alia: "Alia" #!Empty_LineInfo!
+	REBEL_CHR_mosara: "Mosara" #!Empty_LineInfo!
+	REBEL_CHR_mala: "Mala" #!Empty_LineInfo!
+	REBEL_CHR_trillia: "Trillia" #!Empty_LineInfo!
+	REBEL_CHR_nadea: "Nadea" #!Empty_LineInfo!
+	REBEL_CHR_hendri: "Hendri" #!Empty_LineInfo!
+	REBEL_CHR_valntya: "Valntya" #!Empty_LineInfo!
+	REBEL_CHR_kelly: "Kelly" #!Empty_LineInfo!
+	REBEL_CHR_kaysilla: "Kaysilla" #!Empty_LineInfo!
+	REBEL_CHR_shannon: "Shannon" #!Empty_LineInfo!
+	REBEL_CHR_brentin: "Brentin" #!Empty_LineInfo!
+	REBEL_CHR_zia: "Zia" #!Empty_LineInfo!
+	REBEL_CHR_cala: "Cala" #!Empty_LineInfo!
+	REBEL_CHR_feylis: "Feylis" #!Empty_LineInfo!
+	REBEL_CHR_viera: "Viera" #!Empty_LineInfo!
+	REBEL_CHR_samoc: "Samoc" #!Empty_LineInfo!
+	REBEL_CHR_myda: "Myda" #!Empty_LineInfo!
+	REBEL_CHR_kirst: "Kirst" #!Empty_LineInfo!
+	REBEL_CHR_elscol: "Elscol" #!Empty_LineInfo!
+	REBEL_CHR_ezla: "Ezla" #!Empty_LineInfo!
+	REBEL_CHR_karie: "Karie" #!Empty_LineInfo!
+	REBEL_CHR_gayla: "Gayla" #!Empty_LineInfo!
+	REBEL_CHR_cinda: "Cinda" #!Empty_LineInfo!
+	REBEL_CHR_alinn: "Alinn" #!Empty_LineInfo!
+	REBEL_CHR_rhysati: "Rhysati" #!Empty_LineInfo!
+	REBEL_CHR_myra: "Myra" #!Empty_LineInfo!
+	REBEL_CHR_myri: "Myri" #!Empty_LineInfo!
+	REBEL_CHR_bhindi: "Bhindi" #!Empty_LineInfo!
+	REBEL_CHR_shalla: "Shalla" #!Empty_LineInfo!
+	REBEL_CHR_falynn: "Falynn" #!Empty_LineInfo!
+	REBEL_CHR_jesmin: "Jesmin" #!Empty_LineInfo!
+	REBEL_CHR_tyria: "Tyria" #!Empty_LineInfo!
+	REBEL_CHR_zal: "Zal" #!Empty_LineInfo!
+	REBEL_CHR_aisala: "Aisala" #!Empty_LineInfo!
+	REBEL_CHR_amee: "Amee" #!Empty_LineInfo!
+	REBEL_CHR_camelle: "Camelle" #!Empty_LineInfo!
+	REBEL_CHR_belina: "Belina" #!Empty_LineInfo!
+	REBEL_CHR_tyla: "Tyla" #!Empty_LineInfo!
+	REBEL_CHR_lana: "Lana" #!Empty_LineInfo!
+	REBEL_CHR_sidi: "Sidi" #!Empty_LineInfo!
+	REBEL_CHR_jula: "Jula" #!Empty_LineInfo!
+	REBEL_CHR_anya: "Anya" #!Empty_LineInfo!
+	REBEL_CHR_swilla: "Swilla" #!Empty_LineInfo!
+	REBEL_CHR_celia: "Celia" #!Empty_LineInfo!
+	REBEL_CHR_caryn: "Caryn" #!Empty_LineInfo!
+	REBEL_CHR_melina: "Melina" #!Empty_LineInfo!
+	REBEL_CHR_kayna: "Kayna" #!Empty_LineInfo!
+	REBEL_CHR_celly: "Celly" #!Empty_LineInfo!
+	REBEL_CHR_gesselle: "Gesselle" #!Empty_LineInfo!
+	REBEL_CHR_jessie: "Jessie" #!Empty_LineInfo!
+	REBEL_CHR_vala: "Vala" #!Empty_LineInfo!
+	REBEL_CHR_samara: "Samara" #!Empty_LineInfo!
+	REBEL_CHR_mazicia: "Mazicia" #!Empty_LineInfo!
+	REBEL_CHR_lenan: "Lenan" #!Empty_LineInfo!
+	REBEL_CHR_beru: "Beru" #!Empty_LineInfo!
+	REBEL_CHR_shmi: "Shmi" #!Empty_LineInfo!
+	REBEL_CHR_nella: "Nella" #!Empty_LineInfo!
+	REBEL_CHR_dana: "Dana" #!Empty_LineInfo!
+	REBEL_CHR_minda: "Minda" #!Empty_LineInfo!
+	REBEL_CHR_lania: "Lania" #!Empty_LineInfo!
+	REBEL_CHR_jennica: "Jennica" #!Empty_LineInfo!
+	REBEL_CHR_camie: "Camie" #!Empty_LineInfo!
+	REBEL_CHR_kandji: "Kandji" #!Empty_LineInfo!
+	REBEL_CHR_kaimi: "Kaimi" #!Empty_LineInfo!
+	REBEL_CHR_princess_julya: "Princess Julya" #!Empty_LineInfo!
+	REBEL_CHR_joslara: "Joslara" #!Empty_LineInfo!
+	REBEL_CHR_kalymaeg: "Kalymaeg" #!Empty_LineInfo!
+	REBEL_CHR_camara: "Camara" #!Empty_LineInfo!
+	REBEL_CHR_lauril: "Lauril" #!Empty_LineInfo!
+	REBEL_CHR_auroava: "Auroava" #!Empty_LineInfo!
+	REBEL_CHR_camsca: "Camsca" #!Empty_LineInfo!
+	REBEL_CHR_monaya: "Monaya" #!Empty_LineInfo!
+	REBEL_CHR_melria: "Melria" #!Empty_LineInfo!
+	REBEL_CHR_elisele: "Elisele" #!Empty_LineInfo!
+	REBEL_CHR_kathau: "Kathau" #!Empty_LineInfo!
+	REBEL_CHR_eilles: "Eilles" #!Empty_LineInfo!
+	REBEL_CHR_emmaray: "Emmaray" #!Empty_LineInfo!
+	REBEL_CHR_anneaya: "Anneaya" #!Empty_LineInfo!
+	REBEL_CHR_emilei: "Emilei" #!Empty_LineInfo!
+	REBEL_CHR_brya: "Brya" #!Empty_LineInfo!
+	REBEL_CHR_friari: "Friari" #!Empty_LineInfo!
+	REBEL_CHR_emilkasa: "Emilkasa" #!Empty_LineInfo!
+	REBEL_CHR_daria: "Daria" #!Empty_LineInfo!
+	REBEL_CHR_avaca: "Avaca" #!Empty_LineInfo!
+	REBEL_CHR_savana: "Savana" #!Empty_LineInfo!
+	REBEL_CHR_ajasie: "Ajasie" #!Empty_LineInfo!
+	REBEL_CHR_julani: "Julani" #!Empty_LineInfo!
+	REBEL_CHR_lolrita: "Lolrita" #!Empty_LineInfo!
+	REBEL_CHR_genelea: "Genelea" #!Empty_LineInfo!
+	REBEL_CHR_shysa: "Shysa" #!Empty_LineInfo!
+	REBEL_CHR_julidea: "Julidea" #!Empty_LineInfo!
+	REBEL_CHR_elye: "Elye" #!Empty_LineInfo!
+	REBEL_CHR_nat: "Nat" #!Empty_LineInfo!
+	REBEL_CHR_mela: "Mela" #!Empty_LineInfo!
+	REBEL_CHR_isla: "Isla" #!Empty_LineInfo!
+	REBEL_CHR_kyra: "Kyra" #!Empty_LineInfo!
+	REBEL_CHR_nata: "Nata" #!Empty_LineInfo!
+	REBEL_CHR_soni: "Soni" #!Empty_LineInfo!
+	REBEL_CHR_kat: "Kat" #!Empty_LineInfo!
+	REBEL_CHR_kylca: "Kylca" #!Empty_LineInfo!
+	REBEL_CHR_shana: "Shana" #!Empty_LineInfo!
+	REBEL_CHR_lettya: "Lettya" #!Empty_LineInfo!
+	REBEL_CHR_kairi: "Kairi" #!Empty_LineInfo!
+	REBEL_CHR_fransa: "Fransa" #!Empty_LineInfo!
+	REBEL_CHR_katjenn: "Katjenn" #!Empty_LineInfo!
+	REBEL_CHR_gensha: "Gensha" #!Empty_LineInfo!
+	REBEL_CHR_shacha: "Shacha" #!Empty_LineInfo!
+	REBEL_CHR_katshya: "Katshya" #!Empty_LineInfo!
+	REBEL_CHR_nalla: "Nalla" #!Empty_LineInfo!
+	REBEL_CHR_jessika: "Jessika" #!Empty_LineInfo!
+	REBEL_CHR_shara: "Shara" #!Empty_LineInfo!
+	REBEL_CHR_kare: "Kare" #!Empty_LineInfo!
+	REBEL_CHR_elna: "Elna" #!Empty_LineInfo!
+	REBEL_CHR_shasa: "Shasa" #!Empty_LineInfo!
+	REBEL_CHR_nimi: "Nimi" #!Empty_LineInfo!
+	REBEL_CHR_adana: "Adana" #!Empty_LineInfo!
+	REBEL_CHR_terena: "Terena" #!Empty_LineInfo!
+	REBEL_CHR_nalia: "Nalia" #!Empty_LineInfo!
+	REBEL_CHR_kaiya: "Kaiya" #!Empty_LineInfo!
+	REBEL_CHR_krysta: "Krysta" #!Empty_LineInfo!
+	REBEL_CHR_jin_rio: "Jin-Rio" #!Empty_LineInfo!
+	REBEL_CHR_alani: "Alani" #!Empty_LineInfo!
+	REBEL_CHR_maelrich: "Maelrich" #!Empty_LineInfo!
+	REBEL_CHR_renata: "Renata" #!Empty_LineInfo!
+	REBEL_CHR_nala: "Nala" #!Empty_LineInfo!
+	REBEL_CHR_tess: "Tess" #!Empty_LineInfo!
+	REBEL_CHR_elarea: "Elarea" #!Empty_LineInfo!
+	REBEL_CHR_alya: "Alya" #!Empty_LineInfo!
+	REBEL_CHR_cassy: "Cassy" #!Empty_LineInfo!
+	REBEL_CHR_allura: "Allura" #!Empty_LineInfo!
+	REBEL_CHR_allie: "Allie" #!Empty_LineInfo!
+	REBEL_CHR_amaya: "Amaya" #!Empty_LineInfo!
+	REBEL_CHR_talena: "Talena" #!Empty_LineInfo!
+	REBEL_CHR_andra: "Andra" #!Empty_LineInfo!
+	REBEL_CHR_chelli: "Chelli" #!Empty_LineInfo!
+	REBEL_CHR_lona: "Lona" #!Empty_LineInfo!
+	REBEL_CHR_ona: "Ona" #!Empty_LineInfo!
+	REBEL_CHR_melnea: "Melnea" #!Empty_LineInfo!
+	REBEL_CHR_tash: "Tash" #!Empty_LineInfo!
+	REBEL_CHR_jora: "Jora" #!Empty_LineInfo!
+	REBEL_CHR_marda: "Marda" #!Empty_LineInfo!
+	REBEL_CHR_mardu: "Mardu" #!Empty_LineInfo!
+	REBEL_CHR_fema: "Fema" #!Empty_LineInfo!
+	REBEL_CHR_vitala: "Vitala" #!Empty_LineInfo!
+	REBEL_CHR_ress: "Ress" #!Empty_LineInfo!
+	REBEL_CHR_alecia: "Alecia" #!Empty_LineInfo!
+	REBEL_CHR_dansra: "Dansra" #!Empty_LineInfo!
+	REBEL_CHR_deena: "Deena" #!Empty_LineInfo!
+	REBEL_CHR_tricia: "Tricia" #!Empty_LineInfo!
+	REBEL_CHR_trina: "Trina" #!Empty_LineInfo!
+	REBEL_CHR_bella: "Bella" #!Empty_LineInfo!
+	REBEL_CHR_rasha: "Rasha" #!Empty_LineInfo!
+	REBEL_CHR_elta: "Elta" #!Empty_LineInfo!
+	REBEL_CHR_andit: "Andit" #!Empty_LineInfo!
+	REBEL_CHR_baarruck: "Baarruck" #!Empty_LineInfo!
+	REBEL_CHR_thimram: "Thimram" #!Empty_LineInfo!
+	REBEL_CHR_des: "Des" #!Empty_LineInfo!
+	REBEL_CHR_gor: "Gor" #!Empty_LineInfo!
+	REBEL_CHR_kantayan: "Kantayan" #!Empty_LineInfo!
+	REBEL_CHR_novaren: "Novaren" #!Empty_LineInfo!
+	REBEL_CHR_kosan: "Kosan" #!Empty_LineInfo!
+	REBEL_CHR_malbus: "Malbus" #!Empty_LineInfo!
+	REBEL_CHR_marana: "Marana" #!Empty_LineInfo!
+	REBEL_CHR_soone: "Soone" #!Empty_LineInfo!
+	REBEL_CHR_tallent: "Tallent" #!Empty_LineInfo!
+	REBEL_CHR_yarro: "Yarro" #!Empty_LineInfo!
+	REBEL_CHR_farrell: "Farrell" #!Empty_LineInfo!
+	REBEL_CHR_mattin: "Mattin" #!Empty_LineInfo!
+	REBEL_CHR_jin: "Jin" #!Empty_LineInfo!
+	REBEL_CHR_abya: "Abya" #!Empty_LineInfo!
+	REBEL_CHR_alder: "Alder" #!Empty_LineInfo!
+	REBEL_CHR_bygar: "Bygar" #!Empty_LineInfo!
+	REBEL_CHR_forell: "Forell" #!Empty_LineInfo!
+	REBEL_CHR_grafis: "Grafis" #!Empty_LineInfo!
+	REBEL_CHR_hudsol: "Hudsol" #!Empty_LineInfo!
+	REBEL_CHR_jebel: "Jebel" #!Empty_LineInfo!
+	REBEL_CHR_pamlo: "Pamlo" #!Empty_LineInfo!
+	REBEL_CHR_rieekan: "Rieekan" #!Empty_LineInfo!
+	REBEL_CHR_tantor: "Tantor" #!Empty_LineInfo!
+	REBEL_CHR_vaspar: "Vaspar" #!Empty_LineInfo!
+	REBEL_CHR_willard: "Willard" #!Empty_LineInfo!
+	REBEL_CHR_tolvan: "Tolvan" #!Empty_LineInfo!
+	REBEL_CHR_merrick: "Merrick" #!Empty_LineInfo!
+	REBEL_CHR_cor: "Cor" #!Empty_LineInfo!
+	REBEL_CHR_alico: "Alico" #!Empty_LineInfo!
+	REBEL_CHR_andreya: "Andreya" #!Empty_LineInfo!
+	REBEL_CHR_amar: "Amar" #!Empty_LineInfo!
+	REBEL_CHR_argdran: "Argdran" #!Empty_LineInfo!
+	REBEL_CHR_atanna: "Atanna" #!Empty_LineInfo!
+	REBEL_CHR_axlon: "Axlon" #!Empty_LineInfo!
+	REBEL_CHR_azur_jamin: "Azur-Jamin" #!Empty_LineInfo!
+	REBEL_CHR_barant: "Barant" #!Empty_LineInfo!
+	REBEL_CHR_barell: "Barell" #!Empty_LineInfo!
+	REBEL_CHR_baytor: "Baytor" #!Empty_LineInfo!
+	REBEL_CHR_borsil: "Borsil" #!Empty_LineInfo!
+	REBEL_CHR_breesa: "Breesa" #!Empty_LineInfo!
+	REBEL_CHR_brila: "Brila" #!Empty_LineInfo!
+	REBEL_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
+	REBEL_CHR_casti: "Casti" #!Empty_LineInfo!
+	REBEL_CHR_carper: "Carper" #!Empty_LineInfo!
+	REBEL_CHR_charn: "Charn" #!Empty_LineInfo!
+	REBEL_CHR_chyler: "Chyler" #!Empty_LineInfo!
+	REBEL_CHR_clines: "Clines" #!Empty_LineInfo!
+	REBEL_CHR_cors: "Cors" #!Empty_LineInfo!
+	REBEL_CHR_dalhney: "Dalhney" #!Empty_LineInfo!
+	REBEL_CHR_dance: "Dance" #!Empty_LineInfo!
+	REBEL_CHR_dann: "Dann" #!Empty_LineInfo!
+	REBEL_CHR_darr: "Darr" #!Empty_LineInfo!
+	REBEL_CHR_dekven: "Dekven" #!Empty_LineInfo!
+	REBEL_CHR_dellox: "Dellox" #!Empty_LineInfo!
+	REBEL_CHR_deltura: "Deltura" #!Empty_LineInfo!
+	REBEL_CHR_demain: "DeMain" #!Empty_LineInfo!
+	REBEL_CHR_dene: "Dene" #!Empty_LineInfo!
+	REBEL_CHR_denive: "Denive" #!Empty_LineInfo!
+	REBEL_CHR_devvol: "Devvol" #!Empty_LineInfo!
+	REBEL_CHR_tolis: "Tolis" #!Empty_LineInfo!
+	REBEL_CHR_dioniso: "Dioniso" #!Empty_LineInfo!
+	REBEL_CHR_divini: "Divini" #!Empty_LineInfo!
+	REBEL_CHR_dohhenty: "Dohhenty" #!Empty_LineInfo!
+	REBEL_CHR_dorat: "Dorat" #!Empty_LineInfo!
+	REBEL_CHR_dox: "Dox" #!Empty_LineInfo!
+	REBEL_CHR_doza: "Doza" #!Empty_LineInfo!
+	REBEL_CHR_dray: "Dray" #!Empty_LineInfo!
+	REBEL_CHR_durn: "Durn" #!Empty_LineInfo!
+	REBEL_CHR_wune: "Wune" #!Empty_LineInfo!
+	REBEL_CHR_escalon: "Escalon" #!Empty_LineInfo!
+	REBEL_CHR_farnmir: "Farnmir" #!Empty_LineInfo!
+	REBEL_CHR_fennro: "Fennro" #!Empty_LineInfo!
+	REBEL_CHR_flask: "Flask" #!Empty_LineInfo!
+	REBEL_CHR_flatt: "Flatt" #!Empty_LineInfo!
+	REBEL_CHR_freemaker: "Freemaker" #!Empty_LineInfo!
+	REBEL_CHR_fuller: "Fuller" #!Empty_LineInfo!
+	REBEL_CHR_fyre: "Fyre" #!Empty_LineInfo!
+	REBEL_CHR_garnet: "Garnet" #!Empty_LineInfo!
+	REBEL_CHR_gillmunn: "Gillmunn" #!Empty_LineInfo!
+	REBEL_CHR_greenley: "Greenley" #!Empty_LineInfo!
+	REBEL_CHR_griek: "Griek" #!Empty_LineInfo!
+	REBEL_CHR_gron: "Gron" #!Empty_LineInfo!
+	REBEL_CHR_harbright: "Harbright" #!Empty_LineInfo!
+	REBEL_CHR_harns: "Harns" #!Empty_LineInfo!
+	REBEL_CHR_hase: "Hase" #!Empty_LineInfo!
+	REBEL_CHR_hunter: "Hunter" #!Empty_LineInfo!
+	REBEL_CHR_hurra: "Hurra" #!Empty_LineInfo!
+	REBEL_CHR_ikova: "Ikova" #!Empty_LineInfo!
+	REBEL_CHR_joanson: "Joanson" #!Empty_LineInfo!
+	REBEL_CHR_kalena: "Kalena" #!Empty_LineInfo!
+	REBEL_CHR_kamiroz: "Kamiroz" #!Empty_LineInfo!
+	REBEL_CHR_kand: "Kand" #!Empty_LineInfo!
+	REBEL_CHR_kelen: "Kelen" #!Empty_LineInfo!
+	REBEL_CHR_kelvin: "Kelvin" #!Empty_LineInfo!
+	REBEL_CHR_keyn: "Keyn" #!Empty_LineInfo!
+	REBEL_CHR_khamp: "Khamp" #!Empty_LineInfo!
+	REBEL_CHR_klam: "Klam" #!Empty_LineInfo!
+	REBEL_CHR_korbin: "Korbin" #!Empty_LineInfo!
+	REBEL_CHR_kreskian: "Kreskian" #!Empty_LineInfo!
+	REBEL_CHR_kultosi: "Kultosi" #!Empty_LineInfo!
+	REBEL_CHR_lamoran: "Lamoran" #!Empty_LineInfo!
+	REBEL_CHR_lavorn: "Lavorn" #!Empty_LineInfo!
+	REBEL_CHR_leith: "Leith" #!Empty_LineInfo!
+	REBEL_CHR_lell: "Lell" #!Empty_LineInfo!
+	REBEL_CHR_liddle: "Liddle" #!Empty_LineInfo!
+	REBEL_CHR_lin: "Lin" #!Empty_LineInfo!
+	REBEL_CHR_linnix: "Linnix" #!Empty_LineInfo!
+	REBEL_CHR_loessin: "Loessin" #!Empty_LineInfo!
+	REBEL_CHR_lucian: "Lucian" #!Empty_LineInfo!
+	REBEL_CHR_makk: "Makk" #!Empty_LineInfo!
+	REBEL_CHR_malvarra: "Malvarra" #!Empty_LineInfo!
+	REBEL_CHR_metonae: "Metonae" #!Empty_LineInfo!
+	REBEL_CHR_midanyl: "Midanyl" #!Empty_LineInfo!
+	REBEL_CHR_morbo: "Morbo" #!Empty_LineInfo!
+	REBEL_CHR_moroni: "Moroni" #!Empty_LineInfo!
+	REBEL_CHR_muse: "Muse" #!Empty_LineInfo!
+	REBEL_CHR_nardah: "Nardah" #!Empty_LineInfo!
+	REBEL_CHR_narek: "Narek" #!Empty_LineInfo!
+	REBEL_CHR_nazith: "Nazith" #!Empty_LineInfo!
+	REBEL_CHR_o_shaunessy: "O'Shaunessy" #!Empty_LineInfo!
+	REBEL_CHR_odan: "Odan" #!Empty_LineInfo!
+	REBEL_CHR_poistaa: "Poistaa" #!Empty_LineInfo!
+	REBEL_CHR_poot: "Poot" #!Empty_LineInfo!
+	REBEL_CHR_preyssola: "Preyssola" #!Empty_LineInfo!
+	REBEL_CHR_raen: "Raen" #!Empty_LineInfo!
+	REBEL_CHR_ramas: "Ramas" #!Empty_LineInfo!
+	REBEL_CHR_reede: "Reede" #!Empty_LineInfo!
+	REBEL_CHR_reekeene: "Reekeene" #!Empty_LineInfo!
+	REBEL_CHR_renkov: "Renkov" #!Empty_LineInfo!
+	REBEL_CHR_reshad: "Reshad" #!Empty_LineInfo!
+	REBEL_CHR_retter: "Retter" #!Empty_LineInfo!
+	REBEL_CHR_reugus: "Reugus" #!Empty_LineInfo!
+	REBEL_CHR_rusper: "Rusper" #!Empty_LineInfo!
+	REBEL_CHR_rystra: "Rystra" #!Empty_LineInfo!
+	REBEL_CHR_sadashassa: "Sadashassa" #!Empty_LineInfo!
+	REBEL_CHR_saponza: "Saponza" #!Empty_LineInfo!
+	REBEL_CHR_shessaun: "Shessaun" #!Empty_LineInfo!
+	REBEL_CHR_simito: "Simito" #!Empty_LineInfo!
+	REBEL_CHR_sol: "Sol" #!Empty_LineInfo!
+	REBEL_CHR_kyler: "Kyler" #!Empty_LineInfo!
+	REBEL_CHR_staganac: "Staganac" #!Empty_LineInfo!
+	REBEL_CHR_starros: "Starros" #!Empty_LineInfo!
+	REBEL_CHR_sumar: "Sumar" #!Empty_LineInfo!
+	REBEL_CHR_sunber: "Sunber" #!Empty_LineInfo!
+	REBEL_CHR_talon: "Talon" #!Empty_LineInfo!
+	REBEL_CHR_talor: "Talor" #!Empty_LineInfo!
+	REBEL_CHR_terae: "Terae" #!Empty_LineInfo!
+	REBEL_CHR_thiirn: "Thiirn" #!Empty_LineInfo!
+	REBEL_CHR_tinero: "Tinero" #!Empty_LineInfo!
+	REBEL_CHR_trigg: "Trigg" #!Empty_LineInfo!
+	REBEL_CHR_underholt: "Underholt" #!Empty_LineInfo!
+	REBEL_CHR_vallan: "Vallan" #!Empty_LineInfo!
+	REBEL_CHR_veers: "Veers" #!Empty_LineInfo!
+	REBEL_CHR_vermillion: "Vermillion" #!Empty_LineInfo!
+	REBEL_CHR_verwood: "Verwood" #!Empty_LineInfo!
+	REBEL_CHR_vharn: "Vharn" #!Empty_LineInfo!
+	REBEL_CHR_vibrion: "Vibrion" #!Empty_LineInfo!
+	REBEL_CHR_vokkoli: "Vokkoli" #!Empty_LineInfo!
+	REBEL_CHR_voorhorian: "Voorhorian" #!Empty_LineInfo!
+	REBEL_CHR_voorson: "Voorson" #!Empty_LineInfo!
+	REBEL_CHR_waller: "Waller" #!Empty_LineInfo!
+	REBEL_CHR_winnis: "Winnis" #!Empty_LineInfo!
+	REBEL_CHR_woog: "Woog" #!Empty_LineInfo!
+	REBEL_CHR_worner: "Worner" #!Empty_LineInfo!
+	REBEL_CHR_yeager: "Yeager" #!Empty_LineInfo!
+	REBEL_CHR_yekkiv: "Yekkiv" #!Empty_LineInfo!
+	REBEL_CHR_yoth: "Yoth" #!Empty_LineInfo!
+	REBEL_CHR_oryn: "Oryn" #!Empty_LineInfo!
+	REBEL_CHR_zissu: "Zissu" #!Empty_LineInfo!
+	REBEL_CHR_beruss: "Beruss" #!Empty_LineInfo!
+	REBEL_CHR_capstan: "Capstan" #!Empty_LineInfo!
+	REBEL_CHR_cheran: "Cheran" #!Empty_LineInfo!
+	REBEL_CHR_datch: "Datch" #!Empty_LineInfo!
+	REBEL_CHR_hightower: "Hightower" #!Empty_LineInfo!
+	REBEL_CHR_jace: "Jace" #!Empty_LineInfo!
+	REBEL_CHR_kian: "Kian" #!Empty_LineInfo!
+	REBEL_CHR_loro: "Loro" #!Empty_LineInfo!
+	REBEL_CHR_moor: "Moor" #!Empty_LineInfo!
+	REBEL_CHR_neth: "Neth" #!Empty_LineInfo!
+	REBEL_CHR_ommis: "Ommis" #!Empty_LineInfo!
+	REBEL_CHR_riemann: "Riemann" #!Empty_LineInfo!
+	REBEL_CHR_rivian: "Rivian" #!Empty_LineInfo!
+	REBEL_CHR_santage: "Santage" #!Empty_LineInfo!
+	REBEL_CHR_scotian: "Scotian" #!Empty_LineInfo!
+	REBEL_CHR_senesca: "Senesca" #!Empty_LineInfo!
+	REBEL_CHR_sojan: "Sojan" #!Empty_LineInfo!
+	REBEL_CHR_tarheel: "Tarheel" #!Empty_LineInfo!
+	REBEL_CHR_valent: "Valent" #!Empty_LineInfo!
+	REBEL_CHR_varth: "Varth" #!Empty_LineInfo!
+	REBEL_CHR_arnjak: "Arnjak" #!Empty_LineInfo!
+	REBEL_CHR_courser: "Courser" #!Empty_LineInfo!
+	REBEL_CHR_daine: "Daine" #!Empty_LineInfo!
+	REBEL_CHR_drayson: "Drayson" #!Empty_LineInfo!
+	REBEL_CHR_durra: "Durra" #!Empty_LineInfo!
+	REBEL_CHR_loran: "Loran" #!Empty_LineInfo!
+	REBEL_CHR_nelprin: "Nelprin" #!Empty_LineInfo!
+	REBEL_CHR_phanan: "Phanan" #!Empty_LineInfo!
+	REBEL_CHR_sandskimmer: "Sandskimmer" #!Empty_LineInfo!
+	REBEL_CHR_sarkin: "Sarkin" #!Empty_LineInfo!
+	REBEL_CHR_porkins: "Porkins" #!Empty_LineInfo!
+	REBEL_CHR_dinnes: "Dinnes" #!Empty_LineInfo!
+	REBEL_CHR_frix: "Frix" #!Empty_LineInfo!
+	REBEL_CHR_gaul: "Gaul" #!Empty_LineInfo!
+	REBEL_CHR_kott: "Kott" #!Empty_LineInfo!
+	REBEL_CHR_naeco: "Naeco" #!Empty_LineInfo!
+	REBEL_CHR_naytaan: "Naytaan" #!Empty_LineInfo!
+	REBEL_CHR_nett: "Nett" #!Empty_LineInfo!
+	REBEL_CHR_quersey: "Quersey" #!Empty_LineInfo!
+	REBEL_CHR_surrel: "Surrel" #!Empty_LineInfo!
+	REBEL_CHR_takbright: "Takbright" #!Empty_LineInfo!
+	REBEL_CHR_risant: "Risant" #!Empty_LineInfo!
+	REBEL_CHR_barje: "Barje" #!Empty_LineInfo!
+	REBEL_CHR_lars: "Lars" #!Empty_LineInfo!
+	REBEL_CHR_bjornson: "Bjornson" #!Empty_LineInfo!
+	REBEL_CHR_calwell: "Calwell" #!Empty_LineInfo!
+	REBEL_CHR_crell: "Crell" #!Empty_LineInfo!
+	REBEL_CHR_thaney: "Thaney" #!Empty_LineInfo!
+	REBEL_CHR_pierce: "Pierce" #!Empty_LineInfo!
+	REBEL_CHR_marstrap: "Marstrap" #!Empty_LineInfo!
+	REBEL_CHR_magzyn: "Magzyn" #!Empty_LineInfo!
+	REBEL_CHR_grek: "Grek" #!Empty_LineInfo!
+	REBEL_CHR_duggsin: "Duggsin" #!Empty_LineInfo!
+	REBEL_CHR_cander: "Cander" #!Empty_LineInfo!
+	REBEL_CHR_torsyn: "Torsyn" #!Empty_LineInfo!
+	REBEL_CHR_lepira: "Lepira" #!Empty_LineInfo!
+	REBEL_CHR_krail: "Krail" #!Empty_LineInfo!
+	REBEL_CHR_onstall: "Onstall" #!Empty_LineInfo!
+	REBEL_CHR_tiree: "Tiree" #!Empty_LineInfo!
+	REBEL_CHR_vane: "Vane" #!Empty_LineInfo!
+	REBEL_CHR_kun: "Kun" #!Empty_LineInfo!
+	REBEL_CHR_zaro: "Zaro" #!Empty_LineInfo!
+	REBEL_CHR_chireen: "Chireen" #!Empty_LineInfo!
+	REBEL_CHR_ablund: "Ablund" #!Empty_LineInfo!
+	REBEL_CHR_azoras: "Azoras" #!Empty_LineInfo!
+	REBEL_CHR_beckett: "Beckett" #!Empty_LineInfo!

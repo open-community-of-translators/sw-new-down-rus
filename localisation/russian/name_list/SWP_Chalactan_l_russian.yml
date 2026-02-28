@@ -1,1447 +1,1447 @@
 ﻿l_russian:
-	CHALACTAN_SHIP_mystic: "Mystic"
-	CHALACTAN_SHIP_naiad: "Naiad"
-	CHALACTAN_SHIP_nautilus: "Nautilus"
-	CHALACTAN_SHIP_nebula: "Nebula"
-	CHALACTAN_SHIP_nimble: "Nimble"
-	CHALACTAN_SHIP_north_star: "North Star"
-	CHALACTAN_SHIP_nymph: "Nymph"
-	CHALACTAN_SHIP_obdurate: "Obdurate"
-	CHALACTAN_SHIP_ocean: "Ocean"
-	CHALACTAN_SHIP_onward: "Onward"
-	CHALACTAN_SHIP_oracle: "Oracle"
-	CHALACTAN_SHIP_paradox: "Paradox"
-	CHALACTAN_SHIP_paragon: "Paragon"
-	CHALACTAN_SHIP_pearl: "Pearl"
-	CHALACTAN_SHIP_peregrine: "Peregrine"
-	CHALACTAN_SHIP_perseverance: "Perseverance"
-	CHALACTAN_SHIP_marksman: "Marksman"
-	CHALACTAN_SHIP_rifleman: "Rifleman"
-	CHALACTAN_SHIP_sniper: "Sniper"
-	CHALACTAN_SHIP_trident: "Trident"
-	CHALACTAN_SHIP_trumpet: "Trumpet"
-	CHALACTAN_SHIP_truncheon: "Truncheon"
-	CHALACTAN_SHIP_typhoon: "Typhoon"
-	CHALACTAN_SHIP_undaunted: "Undaunted"
-	CHALACTAN_SHIP_venture: "Venture"
-	CHALACTAN_SHIP_versatile: "Versatile"
-	CHALACTAN_SHIP_vigorous: "Vigorous"
-	CHALACTAN_SHIP_viper: "Viper"
-	CHALACTAN_SHIP_vivacious: "Vivacious"
-	CHALACTAN_SHIP_winger: "Winger"
-	CHALACTAN_SHIP_wizard: "Wizard"
-	CHALACTAN_SHIP_wyvern: "Wyvern"
-	CHALACTAN_SHIP_wolfhound: "Wolfhound"
-	CHALACTAN_SHIP_devastator: "Devastator"
-	CHALACTAN_SHIP_warhammer: "Warhammer"
-	CHALACTAN_SHIP_retribution: "Retribution"
-	CHALACTAN_SHIP_senator: "Senator"
-	CHALACTAN_SHIP_tornado: "Tornado"
-	CHALACTAN_SHIP_infinity: "Infinity"
-	CHALACTAN_SHIP_usurper: "Usurper"
-	CHALACTAN_SHIP_utmost: "Utmost"
-	CHALACTAN_SHIP_valorous: "Valorous"
-	CHALACTAN_SHIP_whirlwind: "Whirlwind"
-	CHALACTAN_SHIP_athena: "Athena"
-	CHALACTAN_SHIP_artemis: "Artemis"
-	CHALACTAN_SHIP_vigilance: "Vigilance"
-	CHALACTAN_SHIP_decimator: "Decimator"
-	CHALACTAN_SHIP_indomitable: "Indomitable"
-	CHALACTAN_SHIP_goliath: "Goliath"
-	CHALACTAN_SHIP_sentinel: "Sentinel"
-	CHALACTAN_SHIP_brilliant: "Brilliant"
-	CHALACTAN_SHIP_blazer: "Blazer"
-	CHALACTAN_SHIP_audacity: "Audacity"
-	CHALACTAN_SHIP_gallant: "Gallant"
-	CHALACTAN_SHIP_nova: "Nova"
-	CHALACTAN_SHIP_shadow: "Shadow"
-	CHALACTAN_SHIP_allegiance: "Allegiance"
-	CHALACTAN_SHIP_challenger: "Challenger"
-	CHALACTAN_SHIP_fearless: "Fearless"
-	CHALACTAN_SHIP_protector: "Protector"
-	CHALACTAN_SHIP_guardian: "Guardian"
-	CHALACTAN_SHIP_victorious: "Victorious"
-	CHALACTAN_SHIP_courageous: "Courageous"
-	CHALACTAN_SHIP_defiance: "Defiance"
-	CHALACTAN_SHIP_azrael: "Azrael"
-	CHALACTAN_SHIP_adamantine: "Adamantine"
-	CHALACTAN_SHIP_aralanni: "Aralanni"
-	CHALACTAN_SHIP_ardent_iv: "Ardent IV"
-	CHALACTAN_SHIP_armistice: "Armistice"
-	CHALACTAN_SHIP_avengeance: "Avengeance"
-	CHALACTAN_SHIP_ballista: "Ballista"
-	CHALACTAN_SHIP_bloodstripe: "Bloodstripe"
-	CHALACTAN_SHIP_borealis: "Borealis"
-	CHALACTAN_SHIP_caelus: "Caelus"
-	CHALACTAN_SHIP_caravan: "Caravan"
-	CHALACTAN_SHIP_chaf_envoy: "Chaf Envoy"
-	CHALACTAN_SHIP_commenor: "Commenor"
-	CHALACTAN_SHIP_corbantis: "Corbantis"
-	CHALACTAN_SHIP_corellia: "Corellia"
-	CHALACTAN_SHIP_courteous: "Courteous"
-	CHALACTAN_SHIP_dauntless: "Dauntless"
-	CHALACTAN_SHIP_defiant: "Defiant"
-	CHALACTAN_SHIP_deliverance: "Deliverance"
-	CHALACTAN_SHIP_derapha: "Derapha"
-	CHALACTAN_SHIP_devout: "Devout"
-	CHALACTAN_SHIP_empirical: "Empirical"
-	CHALACTAN_SHIP_empyrean: "Empyrean"
-	CHALACTAN_SHIP_era_daimanos: "Era Daimanos"
-	CHALACTAN_SHIP_eye_of_the_storm: "Eye of the Storm"
-	CHALACTAN_SHIP_farstar: "Farstar"
-	CHALACTAN_SHIP_fastblast: "Fastblast"
-	CHALACTAN_SHIP_galaaron: "Galaaron"
-	CHALACTAN_SHIP_garrote: "Garrote"
-	CHALACTAN_SHIP_gilagimar: "Gilagimar"
-	CHALACTAN_SHIP_halleck: "Halleck"
-	CHALACTAN_SHIP_hunter: "Hunter"
-	CHALACTAN_SHIP_intractable: "Intractable"
-	CHALACTAN_SHIP_ithor_lady: "Ithor Lady"
-	CHALACTAN_SHIP_justice_crusader: "Justice Crusader"
-	CHALACTAN_SHIP_kana_s_steel: "Kana's Steel"
-	CHALACTAN_SHIP_lathir: "Lathir"
-	CHALACTAN_SHIP_liberty: "Liberty"
-	CHALACTAN_SHIP_lillibanca: "Lillibanca"
-	CHALACTAN_SHIP_maelstrom: "Maelstrom"
-	CHALACTAN_SHIP_malachite_scent: "Malachite Scent"
-	CHALACTAN_SHIP_mercy: "Mercy"
-	CHALACTAN_SHIP_myrkos: "Myrkos"
-	CHALACTAN_SHIP_nebula_chaser: "Nebula Chaser"
-	CHALACTAN_SHIP_nova_viper: "Nova Viper"
-	CHALACTAN_SHIP_obedience: "Obedience"
-	CHALACTAN_SHIP_olemp: "Olemp"
-	CHALACTAN_SHIP_pegasus: "Pegasus"
-	CHALACTAN_SHIP_perspicacity: "Perspicacity"
-	CHALACTAN_SHIP_phalanx: "Phalanx"
-	CHALACTAN_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	CHALACTAN_SHIP_predominance: "Predominance"
-	CHALACTAN_SHIP_prosperity: "Prosperity"
-	CHALACTAN_SHIP_purity: "Purity"
-	CHALACTAN_SHIP_recalcitrant: "Recalcitrant"
-	CHALACTAN_SHIP_red_nova: "Red Nova"
-	CHALACTAN_SHIP_redma: "Redma"
-	CHALACTAN_SHIP_reliable: "Reliable"
-	CHALACTAN_SHIP_reliant: "Reliant"
-	CHALACTAN_SHIP_reluctant: "Reluctant"
-	CHALACTAN_SHIP_republic: "Republic"
-	CHALACTAN_SHIP_republic_s_return: "Republic's Return"
-	CHALACTAN_SHIP_resolve: "Resolve"
-	CHALACTAN_SHIP_respectable: "Respectable"
-	CHALACTAN_SHIP_revenge: "Revenge"
-	CHALACTAN_SHIP_shadowblade: "Shadowblade"
-	CHALACTAN_SHIP_spritespray: "Spritespray"
-	CHALACTAN_SHIP_star_dream: "Star Dream"
-	CHALACTAN_SHIP_stark_wing: "Stark Wing"
-	CHALACTAN_SHIP_starveil: "Starveil"
-	CHALACTAN_SHIP_undying: "Undying"
-	CHALACTAN_SHIP_vaathkree: "Vaathkree"
-	CHALACTAN_SHIP_vainglorious: "Vainglorious"
-	CHALACTAN_SHIP_valiant: "Valiant"
-	CHALACTAN_SHIP_valor: "Valor"
-	CHALACTAN_SHIP_vanquisher: "Vanquisher"
-	CHALACTAN_SHIP_vinsor: "Vinsor"
-	CHALACTAN_SHIP_visseon: "Visseon"
-	CHALACTAN_SHIP_wennis: "Wennis"
-	CHALACTAN_SHIP_yavin_s_glory: "Yavin's Glory"
-	CHALACTAN_SHIP_moldy_crow: "Moldy Crow"
-	CHALACTAN_SHIP_raven_s_claw: "Raven's Claw"
-	CHALACTAN_SHIP_agile: "Agile"
-	CHALACTAN_SHIP_archer: "Archer"
-	CHALACTAN_SHIP_arrow: "Arrow"
-	CHALACTAN_SHIP_bruiser: "Bruiser"
-	CHALACTAN_SHIP_cherub: "Cherub"
-	CHALACTAN_SHIP_chimera: "Chimera"
-	CHALACTAN_SHIP_claymore: "Claymore"
-	CHALACTAN_SHIP_broadsword: "Broadsword"
-	CHALACTAN_SHIP_battleaxe: "Battleaxe"
-	CHALACTAN_SHIP_crossbow: "Crossbow"
-	CHALACTAN_SHIP_cutlass: "Cutlass"
-	CHALACTAN_SHIP_deterrent: "Deterrent"
-	CHALACTAN_SHIP_errant: "Errant"
-	CHALACTAN_SHIP_faithful: "Faithful"
-	CHALACTAN_SHIP_fierce: "Fierce"
-	CHALACTAN_SHIP_gladius: "Gladius"
-	CHALACTAN_SHIP_longbow: "Longbow"
-	CHALACTAN_SHIP_grappler: "Grappler"
-	CHALACTAN_SHIP_hammer: "Hammer"
-	CHALACTAN_SHIP_vampire: "Vampire"
-	CHALACTAN_SHIP_velox: "Velox"
-	CHALACTAN_SHIP_venator: "Venator"
-	CHALACTAN_SHIP_vendetta: "Vendetta"
-	CHALACTAN_SHIP_venerable: "Venerable"
-	CHALACTAN_SHIP_venomous: "Venomous"
-	CHALACTAN_SHIP_taciturn: "Taciturn"
-	CHALACTAN_SHIP_supreme: "Supreme"
-	CHALACTAN_SHIP_success: "Success"
-	CHALACTAN_SHIP_shredder: "Shredder"
-	CHALACTAN_SHIP_seraph: "Seraph"
-	CHALACTAN_SHIP_serpent: "Serpent"
-	CHALACTAN_SHIP_spitfire: "Spitfire"
-	CHALACTAN_SHIP_stalker: "Stalker"
-	CHALACTAN_SHIP_stratagem: "Stratagem"
-	CHALACTAN_SHIP_scimitar: "Scimitar"
-	CHALACTAN_SHIP_scorcher: "Scorcher"
-	CHALACTAN_SHIP_scourge: "Scourge"
-	CHALACTAN_SHIP_scythe: "Scythe"
-	CHALACTAN_SHIP_revenant: "Revenant"
-	CHALACTAN_SHIP_redoubtable: "Redoubtable"
-	CHALACTAN_SHIP_raptor: "Raptor"
-	CHALACTAN_SHIP_reaver: "Reaver"
-	CHALACTAN_SHIP_prodigal: "Prodigal"
-	CHALACTAN_SHIP_rapier: "Rapier"
-	CHALACTAN_SHIP_prudent: "Prudent"
-	CHALACTAN_SHIP_persistent: "Persistent"
-	CHALACTAN_SHIP_peerless: "Peerless"
-	CHALACTAN_SHIP_myrmidon: "Myrmidon"
-	CHALACTAN_SHIP_indignant: "Indignant"
-	CHALACTAN_SHIP_javelin: "Javelin"
-	CHALACTAN_SHIP_knight: "Knight"
-	CHALACTAN_SHIP_starwolf: "Starwolf"
-	CHALACTAN_SHIP_bonaventure: "Bonaventure"
-	CHALACTAN_SHIP_adventure: "Adventure"
-	CHALACTAN_SHIP_boxer: "Boxer"
-	CHALACTAN_SHIP_buccaneer: "Buccaneer"
-	CHALACTAN_SHIP_cavalier: "Cavalier"
-	CHALACTAN_SHIP_celestial: "Celestial"
-	CHALACTAN_SHIP_chariot: "Chariot"
-	CHALACTAN_SHIP_comet: "Comet"
-	CHALACTAN_SHIP_crucible: "Crucible"
-	CHALACTAN_SHIP_cyclone: "Cyclone"
-	CHALACTAN_SHIP_decisive: "Decisive"
-	CHALACTAN_SHIP_dexterous: "Dexterous"
-	CHALACTAN_SHIP_diadem: "Diadem"
-	CHALACTAN_SHIP_earnest: "Earnest"
-	CHALACTAN_SHIP_eclipse: "Eclipse"
-	CHALACTAN_SHIP_forger: "Forger"
-	CHALACTAN_SHIP_fortune: "Fortune"
-	CHALACTAN_SHIP_gauntlet: "Gauntlet"
-	CHALACTAN_SHIP_griffin: "Griffin"
-	CHALACTAN_SHIP_horizon: "Horizon"
-	CHALACTAN_SHIP_hotspur: "Hotspur"
-	CHALACTAN_SHIP_hurricane: "Hurricane"
-	CHALACTAN_SHIP_hussar: "Hussar"
-	CHALACTAN_SHIP_jubilant: "Jubilant"
-	CHALACTAN_SHIP_lancer: "Lancer"
-	CHALACTAN_SHIP_lightning: "Lightning"
-	CHALACTAN_SHIP_magic: "Magic"
-	CHALACTAN_SHIP_mediator: "Mediator"
-	CHALACTAN_SHIP_mermaid: "Mermaid"
-	CHALACTAN_SHIP_meteor: "Meteor"
-	CHALACTAN_SHIP_minstrel: "Minstrel"
-	CHALACTAN_SHIP_miranda: "Miranda"
-	CHALACTAN_SHIP_mustang: "Mustang"
-	CHALACTAN_SHIP_sharpshooter: "Sharpshooter"
-	CHALACTAN_SHIP_cyclops: "Cyclops"
-	CHALACTAN_SHIP_centaur: "Centaur"
-	CHALACTAN_SHIP_adversary: "Adversary"
-	CHALACTAN_SHIP_assassin: "Assassin"
-	CHALACTAN_SHIP_dagger: "Dagger"
-	CHALACTAN_SHIP_daring: "Daring"
-	CHALACTAN_SHIP_duty: "Duty"
-	CHALACTAN_SHIP_havoc: "Havoc"
-	CHALACTAN_SHIP_hero: "Hero"
-	CHALACTAN_SHIP_justice: "Justice"
-	CHALACTAN_SHIP_impeccable: "Impeccable"
-	CHALACTAN_SHIP_interceptor: "Interceptor"
-	CHALACTAN_SHIP_infernal: "Infernal"
-	CHALACTAN_SHIP_loyal: "Loyal"
-	CHALACTAN_SHIP_matchless: "Matchless"
-	CHALACTAN_SHIP_mauler: "Mauler"
-	CHALACTAN_SHIP_mayhem: "Mayhem"
-	CHALACTAN_SHIP_malice: "Malice"
-	CHALACTAN_SHIP_menace: "Menace"
-	CHALACTAN_SHIP_merciless: "Merciless"
-	CHALACTAN_SHIP_mischief: "Mischief"
-	CHALACTAN_SHIP_monarch: "Monarch"
-	CHALACTAN_SHIP_patriot: "Patriot"
-	CHALACTAN_SHIP_predator: "Predator"
-	CHALACTAN_SHIP_powerful: "Powerful"
-	CHALACTAN_SHIP_punisher: "Punisher"
-	CHALACTAN_SHIP_ravager: "Ravager"
-	CHALACTAN_SHIP_reaper: "Reaper"
-	CHALACTAN_SHIP_savage: "Savage"
-	CHALACTAN_SHIP_spiteful: "Spiteful"
-	CHALACTAN_SHIP_templar: "Templar"
-	CHALACTAN_SHIP_terminator: "Terminator"
-	CHALACTAN_SHIP_terror: "Terror"
-	CHALACTAN_SHIP_thrasher: "Thrasher"
-	CHALACTAN_SHIP_minotaur: "Minotaur"
-	CHALACTAN_SHIP_manticore: "Manticore"
-	CHALACTAN_SHIP_interdictor: "Interdictor"
-	CHALACTAN_SHIP_intruder: "Intruder"
-	CHALACTAN_SHIP_hydra: "Hydra"
-	CHALACTAN_SHIP_enfield: "Enfield"
-	CHALACTAN_SHIP_harasser: "Harasser"
-	CHALACTAN_SHIP_unbeaten: "Unbeaten"
-	CHALACTAN_SHIP_werewolf: "Werewolf"
-	CHALACTAN_SHIP_zealous: "Zealous"
-	CHALACTAN_SHIP_petulant: "Petulant"
-	CHALACTAN_SHIP_phantom: "Phantom"
-	CHALACTAN_SHIP_phoenix: "Phoenix"
-	CHALACTAN_SHIP_pike: "Pike"
-	CHALACTAN_SHIP_pursuer: "Pursuer"
-	CHALACTAN_SHIP_raider: "Raider"
-	CHALACTAN_SHIP_rainbow: "Rainbow"
-	CHALACTAN_SHIP_rapid: "Rapid"
-	CHALACTAN_SHIP_redemption: "Redemption"
-	CHALACTAN_SHIP_relentless: "Relentless"
-	CHALACTAN_SHIP_rigorous: "Rigorous"
-	CHALACTAN_SHIP_robust: "Robust"
-	CHALACTAN_SHIP_sabre: "Sabre"
-	CHALACTAN_SHIP_salvation: "Salvation"
-	CHALACTAN_SHIP_sanguine: "Sanguine"
-	CHALACTAN_SHIP_scarab: "Scarab"
-	CHALACTAN_SHIP_scepter: "Scepter"
-	CHALACTAN_SHIP_sea_witch: "Sea Witch"
-	CHALACTAN_SHIP_siren: "Siren"
-	CHALACTAN_SHIP_sorceress: "Sorceress"
-	CHALACTAN_SHIP_spearhead: "Spearhead"
-	CHALACTAN_SHIP_specter: "Specter"
-	CHALACTAN_SHIP_spirit: "Spirit"
-	CHALACTAN_SHIP_splendid: "Splendid"
-	CHALACTAN_SHIP_stallion: "Stallion"
-	CHALACTAN_SHIP_stalwart: "Stalwart"
-	CHALACTAN_SHIP_steadfast: "Steadfast"
-	CHALACTAN_SHIP_strenuous: "Strenuous"
-	CHALACTAN_SHIP_superb: "Superb"
-	CHALACTAN_SHIP_supernova: "Supernova"
-	CHALACTAN_SHIP_surprise: "Surprise"
-	CHALACTAN_SHIP_swiftsure: "Swiftsure"
-	CHALACTAN_SHIP_talent: "Talent"
-	CHALACTAN_SHIP_talisman: "Talisman"
-	CHALACTAN_SHIP_talon: "Talon"
-	CHALACTAN_SHIP_taurus: "Taurus"
-	CHALACTAN_SHIP_tenacious: "Tenacious"
-	CHALACTAN_SHIP_thunder_child: "Thunder Child"
-	CHALACTAN_SHIP_thunderous: "Thunderous"
-	CHALACTAN_SHIP_tireless: "Tireless"
-	CHALACTAN_SHIP_trenchant: "Trenchant"
-	CHALACTAN_SHIP_righteous: "Righteous"
-	CHALACTAN_SHIP_acheron: "Acheron"
-	CHALACTAN_SHIP_achilles: "Achilles"
-	CHALACTAN_SHIP_agamemnon: "Agamemnon"
-	CHALACTAN_SHIP_amphion: "Amphion"
-	CHALACTAN_SHIP_aquilon: "Aquilon"
-	CHALACTAN_SHIP_argonaut: "Argonaut"
-	CHALACTAN_SHIP_argus: "Argus"
-	CHALACTAN_SHIP_ariel: "Ariel"
-	CHALACTAN_SHIP_aurora: "Aurora"
-	CHALACTAN_SHIP_avernus: "Avernus"
-	CHALACTAN_SHIP_bacchus: "Bacchus"
-	CHALACTAN_SHIP_bucephalus: "Bucephalus"
-	CHALACTAN_SHIP_calliope: "Calliope"
-	CHALACTAN_SHIP_calypso: "Calypso"
-	CHALACTAN_SHIP_castor: "Castor"
-	CHALACTAN_SHIP_charybdis: "Charybdis"
-	CHALACTAN_SHIP_circe: "Circe"
-	CHALACTAN_SHIP_cleopatra: "Cleopatra"
-	CHALACTAN_SHIP_constantine: "Constantine"
-	CHALACTAN_SHIP_cordelia: "Cordelia"
-	CHALACTAN_SHIP_cyrus: "Cyrus"
-	CHALACTAN_SHIP_damocles: "Damocles"
-	CHALACTAN_SHIP_daedalus: "Daedalus"
-	CHALACTAN_SHIP_darius: "Darius"
-	CHALACTAN_SHIP_diomede: "Diomede"
-	CHALACTAN_SHIP_dryad: "Dryad"
-	CHALACTAN_SHIP_electra: "Electra"
-	CHALACTAN_SHIP_endymion: "Endymion"
-	CHALACTAN_SHIP_erebus: "Erebus"
-	CHALACTAN_SHIP_fenris: "Fenris"
-	CHALACTAN_SHIP_freya: "Freya"
-	CHALACTAN_SHIP_gilgamesh: "Gilgamesh"
-	CHALACTAN_SHIP_gorgon: "Gorgon"
-	CHALACTAN_SHIP_halcyon: "Halcyon"
-	CHALACTAN_SHIP_hecate: "Hecate"
-	CHALACTAN_SHIP_hector: "Hector"
-	CHALACTAN_SHIP_hesperus: "Hesperus"
-	CHALACTAN_SHIP_janus: "Janus"
-	CHALACTAN_SHIP_jason: "Jason"
-	CHALACTAN_SHIP_juno: "Juno"
-	CHALACTAN_SHIP_jupiter: "Jupiter"
-	CHALACTAN_SHIP_lancelot: "Lancelot"
-	CHALACTAN_SHIP_lazarus: "Lazarus"
-	CHALACTAN_SHIP_leander: "Leander"
-	CHALACTAN_SHIP_leonidas: "Leonidas"
-	CHALACTAN_SHIP_lysander: "Lysander"
-	CHALACTAN_SHIP_maenad: "Maenad"
-	CHALACTAN_SHIP_mars: "Mars"
-	CHALACTAN_SHIP_medea: "Medea"
-	CHALACTAN_SHIP_medusa: "Medusa"
-	CHALACTAN_SHIP_menestheus: "Menestheus"
-	CHALACTAN_SHIP_mercury: "Mercury"
-	CHALACTAN_SHIP_merlin: "Merlin"
-	CHALACTAN_SHIP_minerva: "Minerva"
-	CHALACTAN_SHIP_minos: "Minos"
-	CHALACTAN_SHIP_neptune: "Neptune"
-	CHALACTAN_SHIP_nessus: "Nessus"
-	CHALACTAN_SHIP_nestor: "Nestor"
-	CHALACTAN_SHIP_nimrod: "Nimrod"
-	CHALACTAN_SHIP_niobe: "Niobe"
-	CHALACTAN_SHIP_oberon: "Oberon"
-	CHALACTAN_SHIP_odin: "Odin"
-	CHALACTAN_SHIP_ophelia: "Ophelia"
-	CHALACTAN_SHIP_orestes: "Orestes"
-	CHALACTAN_SHIP_orpheus: "Orpheus"
-	CHALACTAN_SHIP_osiris: "Osiris"
-	CHALACTAN_SHIP_pandora: "Pandora"
-	CHALACTAN_SHIP_penelope: "Penelope"
-	CHALACTAN_SHIP_persephone: "Persephone"
-	CHALACTAN_SHIP_perseus: "Perseus"
-	CHALACTAN_SHIP_phoebe: "Phoebe"
-	CHALACTAN_SHIP_pluto: "Pluto"
-	CHALACTAN_SHIP_poseidon: "Poseidon"
-	CHALACTAN_SHIP_proteus: "Proteus"
-	CHALACTAN_SHIP_pylades: "Pylades"
-	CHALACTAN_SHIP_serapis: "Serapis"
-	CHALACTAN_SHIP_stygian: "Stygian"
-	CHALACTAN_SHIP_tantalus: "Tantalus"
-	CHALACTAN_SHIP_telemachus: "Telemachus"
-	CHALACTAN_SHIP_theseus: "Theseus"
-	CHALACTAN_SHIP_thor: "Thor"
-	CHALACTAN_SHIP_trajan: "Trajan"
-	CHALACTAN_SHIP_triton: "Triton"
-	CHALACTAN_SHIP_venus: "Venus"
-	CHALACTAN_SHIP_adamant: "Adamant"
-	CHALACTAN_SHIP_ardent: "Ardent"
-	CHALACTAN_SHIP_assail: "Assail"
-	CHALACTAN_SHIP_austere: "Austere"
-	CHALACTAN_SHIP_archon: "Archon"
-	CHALACTAN_SHIP_adroit: "Adroit"
-	CHALACTAN_SHIP_aegis: "Aegis"
-	CHALACTAN_SHIP_anchor: "Anchor"
-	CHALACTAN_SHIP_corsair: "Corsair"
-	CHALACTAN_SHIP_banshee: "Banshee"
-	CHALACTAN_SHIP_enchantress: "Enchantress"
-	CHALACTAN_SHIP_eradicator: "Eradicator"
-	CHALACTAN_SHIP_tormentor: "Tormentor"
-	CHALACTAN_SHIP_legion: "Legion"
-	CHALACTAN_SHIP_reprisal: "Reprisal"
-	CHALACTAN_SHIP_aggressor: "Aggressor"
-	CHALACTAN_SHIP_assault: "Assault"
-	CHALACTAN_SHIP_eviscerator: "Eviscerator"
-	CHALACTAN_SHIP_imperator: "Imperator"
-	CHALACTAN_SHIP_excellence: "Excellence"
-	CHALACTAN_SHIP_unrivalled: "Unrivalled"
-	CHALACTAN_SHIP_warlord: "Warlord"
-	CHALACTAN_SHIP_vengeance: "Vengeance"
-	CHALACTAN_SHIP_triumphant: "Triumphant"
-	CHALACTAN_SHIP_nemesis: "Nemesis"
-	CHALACTAN_SHIP_avenger: "Avenger"
-	CHALACTAN_SHIP_champion: "Champion"
-	CHALACTAN_SHIP_conqueror: "Conqueror"
-	CHALACTAN_SHIP_crusader: "Crusader"
-	CHALACTAN_SHIP_glory: "Glory"
-	CHALACTAN_SHIP_immortal: "Immortal"
-	CHALACTAN_SHIP_judicator: "Judicator"
-	CHALACTAN_SHIP_vanguard: "Vanguard"
-	CHALACTAN_SHIP_renown: "Renown"
-	CHALACTAN_SHIP_demolisher: "Demolisher"
-	CHALACTAN_SHIP_dragon: "Dragon"
-	CHALACTAN_SHIP_executor: "Executor"
-	CHALACTAN_SHIP_furious: "Furious"
-	CHALACTAN_SHIP_gladiator: "Gladiator"
-	CHALACTAN_SHIP_magnificent: "Magnificent"
-	CHALACTAN_SHIP_ogre: "Ogre"
-	CHALACTAN_SHIP_onslaught: "Onslaught"
-	CHALACTAN_SHIP_vehement: "Vehement"
-	CHALACTAN_SHIP_basilisk: "Basilisk"
-	CHALACTAN_SHIP_tempest: "Tempest"
-	CHALACTAN_SHIP_overlord: "Overlord"
-	CHALACTAN_SHIP_warrior: "Warrior"
-	CHALACTAN_SHIP_titan: "Titan"
-	CHALACTAN_SHIP_colossus: "Colossus"
-	CHALACTAN_SHIP_prometheus: "Prometheus"
-	CHALACTAN_SHIP_nike: "Nike"
-	CHALACTAN_SHIP_paladin: "Paladin"
-	CHALACTAN_SHIP_sovereign: "Sovereign"
-	CHALACTAN_SHIP_repulse: "Repulse"
-	CHALACTAN_SHIP_majestic: "Majestic"
-	CHALACTAN_SHIP_avatar: "Avatar"
-	CHALACTAN_SHIP_behemoth: "Behemoth"
-	CHALACTAN_SHIP_centurion: "Centurion"
-	CHALACTAN_SHIP_citadel: "Citadel"
-	CHALACTAN_SHIP_katana: "Katana"
-	CHALACTAN_SHIP_kraken: "Kraken"
-	CHALACTAN_SHIP_cerberus: "Cerberus"
-	CHALACTAN_SHIP_valkyrie: "Valkyrie"
-	CHALACTAN_SHIP_dreadnought: "Dreadnought"
-	CHALACTAN_SHIP_harbinger: "Harbinger"
-	CHALACTAN_SHIP_juggernaut: "Juggernaut"
-	CHALACTAN_SHIP_leviathan: "Leviathan"
-	CHALACTAN_SHIP_hyperion: "Hyperion"
-	CHALACTAN_SHIP_galatea: "Galatea"
-	CHALACTAN_SHIP_ambush: "Ambush"
-	CHALACTAN_SHIP_vindicator: "Vindicator"
-	CHALACTAN_SHIP_crescent: "Crescent"
-	CHALACTAN_SHIP_diligent: "Diligent"
-	CHALACTAN_SHIP_zephyr: "Zephyr"
-	CHALACTAN_SHIP_enigma: "Enigma"
-	CHALACTAN_SHIP_conquistador: "Conquistador"
-	CHALACTAN_SHIP_scylla: "Scylla"
-	CHALACTAN_SHIP_arbiter: "Arbiter"
-	CHALACTAN_SHIP_asperity: "Asperity"
-	CHALACTAN_SHIP_eminence: "Eminence"
-	CHALACTAN_SHIP_astute: "Astute"
-	CHALACTAN_SHIP_alacrity: "Alacrity"
-	CHALACTAN_SHIP_satyr: "Satyr"
-	CHALACTAN_SHIP_prospero: "Prospero"
-	CHALACTAN_SHIP_untiring: "Untiring"
-	CHALACTAN_SHIP_zenith: "Zenith"
-	CHALACTAN_SHIP_torch: "Torch"
-	CHALACTAN_SHIP_remembrance: "Remembrance"
-	CHALACTAN_SHIP_pilgrim: "Pilgrim"
-	CHALACTAN_SHIP_trailblazer: "Trailblazer"
-	CHALACTAN_SHIP_vagabond: "Vagabond"
-	CHALACTAN_SHIP_wayfarer: "Wayfarer"
-	CHALACTAN_SHIP_ambassador: "Ambassador"
-	CHALACTAN_SHIP_emissary: "Emissary"
-	CHALACTAN_SHIP_nomad: "Nomad"
-	CHALACTAN_SHIP_pathfinder: "Pathfinder"
-	CHALACTAN_SHIP_wanderer: "Wanderer"
-	CHALACTAN_SHIP_traveler: "Traveler"
-	CHALACTAN_SHIP_godspeed: "Godspeed"
-	CHALACTAN_SHIP_prophecy: "Prophecy"
-	CHALACTAN_SHIP_manifest_destiny: "Manifest Destiny"
-	CHALACTAN_SHIP_virtue: "Virtue"
-	CHALACTAN_SHIP_potential: "Potential"
-	CHALACTAN_SHIP_expansion: "Expansion"
-	CHALACTAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	CHALACTAN_SHIP_summit: "Summit"
-	CHALACTAN_SHIP_pinnacle: "Pinnacle"
-	CHALACTAN_SHIP_seeder: "Seeder"
-	CHALACTAN_SHIP_harvest: "Harvest"
-	CHALACTAN_SHIP_demeter: "Demeter"
-	CHALACTAN_SHIP_isis: "Isis"
-	CHALACTAN_SHIP_ceres: "Ceres"
-	CHALACTAN_SHIP_exodus: "Exodus"
-	CHALACTAN_SHIP_foundation: "Foundation"
-	CHALACTAN_SHIP_scion: "Scion"
-	CHALACTAN_SHIP_progeny: "Progeny"
-	CHALACTAN_SHIP_obligation: "Obligation"
-	CHALACTAN_SHIP_purpose: "Purpose"
-	CHALACTAN_SHIP_provider: "Provider"
-	CHALACTAN_SHIP_shining_city: "Shining City"
-	CHALACTAN_SHIP_acquirer: "Acquirer"
-	CHALACTAN_SHIP_cultivator: "Cultivator"
-	CHALACTAN_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	CHALACTAN_SHIP_community: "Community"
-	CHALACTAN_SHIP_brotherhood: "Brotherhood"
-	CHALACTAN_SHIP_industry: "Industry"
-	CHALACTAN_SHIP_assiduity: "Assiduity"
-	CHALACTAN_SHIP_effort: "Effort"
-	CHALACTAN_SHIP_laborer: "Laborer"
-	CHALACTAN_SHIP_builder: "Builder"
-	CHALACTAN_SHIP_craftsman: "Craftsman"
-	CHALACTAN_SHIP_hard_hat: "Hard Hat"
-	CHALACTAN_SHIP_progress: "Progress"
-	CHALACTAN_SHIP_engineer: "Engineer"
-	CHALACTAN_SHIP_promise: "Promise"
-	CHALACTAN_SHIP_service: "Service"
-	CHALACTAN_SHIP_shelter: "Shelter"
-	CHALACTAN_SHIP_beast: "Beast"
-	CHALACTAN_SHIP_creator: "Creator"
-	CHALACTAN_SHIP_developer: "Developer"
-	CHALACTAN_SHIP_foundry: "Foundry"
-	CHALACTAN_SHIP_factory: "Factory"
-	CHALACTAN_SHIP_anvil: "Anvil"
-	CHALACTAN_SHIP_pillar: "Pillar"
-	CHALACTAN_SHIP_architect: "Architect"
-	CHALACTAN_SHIP_accommodator: "Accommodator"
-	CHALACTAN_SHIP_ptah: "Ptah"
-	CHALACTAN_SHIP_ilmarinen: "Ilmarinen"
-	CHALACTAN_SHIP_creidhne: "Creidhne"
-	CHALACTAN_SHIP_gobannus: "Gobannus"
-	CHALACTAN_SHIP_luchtaine: "Luchtaine"
-	CHALACTAN_SHIP_goibniu: "Goibniu"
-	CHALACTAN_SHIP_vishvakarman: "Vishvakarman"
-	CHALACTAN_SHIP_tvastar: "Tvastar"
-	CHALACTAN_SHIP_ikenga: "Ikenga"
-	CHALACTAN_SHIP_qaynan: "Qaynan"
-	CHALACTAN_SHIP_ucuetis: "Ucuetis"
-	CHALACTAN_SHIP_ogoun: "Ogoun"
-	CHALACTAN_SHIP_ground_transport: "Транспортный корабль"
-	CHALACTAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	CHALACTAN_SHIP_spacegun_success: "SpaceGun Success"
-	CHALACTAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	CHALACTAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	CHALACTAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	CHALACTAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	CHALACTAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	CHALACTAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	CHALACTAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	CHALACTAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	CHALACTAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	CHALACTAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	CHALACTAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	CHALACTAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	CHALACTAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	CHALACTAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	CHALACTAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	CHALACTAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	CHALACTAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	CHALACTAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	CHALACTAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	CHALACTAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	CHALACTAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	CHALACTAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	CHALACTAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	CHALACTAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	CHALACTAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	CHALACTAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	CHALACTAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	CHALACTAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	CHALACTAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	CHALACTAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	CHALACTAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	CHALACTAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	CHALACTAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	CHALACTAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	CHALACTAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	CHALACTAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	CHALACTAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	CHALACTAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	CHALACTAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	CHALACTAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	CHALACTAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	CHALACTAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	CHALACTAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	CHALACTAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	CHALACTAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	CHALACTAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	CHALACTAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	CHALACTAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	CHALACTAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	CHALACTAN_SHIP_albacore: "Albacore"
-	CHALACTAN_SHIP_gateway: "Gateway"
-	CHALACTAN_SHIP_vincent: "Vincent"
-	CHALACTAN_SHIP_babylon: "Babylon"
-	CHALACTAN_SHIP_caernavon: "Caernavon"
-	CHALACTAN_SHIP_acre: "Acre"
-	CHALACTAN_SHIP_pembroke: "Pembroke"
-	CHALACTAN_SHIP_spithead: "Spithead"
-	CHALACTAN_SHIP_halifax: "Halifax"
-	CHALACTAN_SHIP_victoria: "Victoria"
-	CHALACTAN_SHIP_chatham: "Chatham"
-	CHALACTAN_SHIP_anchorage: "Anchorage"
-	CHALACTAN_SHIP_scapa_flow: "Scapa Flow"
-	CHALACTAN_SHIP_hampton_roads: "Hampton Roads"
-	CHALACTAN_SHIP_brooklyn: "Brooklyn"
-	CHALACTAN_SHIP_norfolk: "Norfolk"
-	CHALACTAN_SHIP_newport: "Newport"
-	CHALACTAN_SHIP_guam: "Guam"
-	CHALACTAN_SHIP_pensacola: "Pensacola"
-	CHALACTAN_SHIP_vesuvius: "Vesuvius"
-	CHALACTAN_SHIP_mckinley: "McKinley"
-	CHALACTAN_SHIP_everest: "Everest"
-	CHALACTAN_SHIP_kilimanjaro: "Kilimanjaro"
-	CHALACTAN_SHIP_aconcagua: "Aconcagua"
-	CHALACTAN_SHIP_elbrus: "Elbrus"
-	CHALACTAN_SHIP_st__helens: "St. Helens"
-	CHALACTAN_SHIP_fuji: "Fuji"
-	CHALACTAN_SHIP_olympus: "Olympus"
-	CHALACTAN_SHIP_sinai: "Sinai"
-	CHALACTAN_SHIP_ambrose: "Ambrose"
-	CHALACTAN_SHIP_bermuda: "Bermuda"
-	CHALACTAN_SHIP_farpoint: "Farpoint"
-	CHALACTAN_SHIP_blue_star: "Blue Star"
-	CHALACTAN_SHIP_olympus_mons: "Olympus Mons"
-	CHALACTAN_SHIP_tharsis: "Tharsis"
-	CHALACTAN_SHIP_syrtis: "Syrtis"
-	CHALACTAN_SHIP_blackham: "Blackham"
-	CHALACTAN_SHIP_fletcher: "Fletcher"
-	CHALACTAN_SHIP_perry: "Perry"
-	CHALACTAN_SHIP_butakov: "Butakov"
-	CHALACTAN_SHIP_morris: "Morris"
-	CHALACTAN_SHIP_moorsom: "Moorsom"
-	CHALACTAN_SHIP_hart: "Hart"
-	CHALACTAN_SHIP_hargood: "Hargood"
-	CHALACTAN_SHIP_spruance: "Spruance"
-	CHALACTAN_SHIP_tanaka: "Tanaka"
-	CHALACTAN_SHIP_halsey: "Halsey"
-	CHALACTAN_SHIP_turner: "Turner"
-	CHALACTAN_SHIP_doria: "Doria"
-	CHALACTAN_SHIP_tirpitz: "Tirpitz"
-	CHALACTAN_SHIP_cunningham: "Cunningham"
-	CHALACTAN_SHIP_jellicoe: "Jellicoe"
-	CHALACTAN_SHIP_hipper: "Hipper"
-	CHALACTAN_SHIP_beatty: "Beatty"
-	CHALACTAN_SHIP_potemkin: "Potemkin"
-	CHALACTAN_SHIP_durham: "Durham"
-	CHALACTAN_SHIP_codrington: "Codrington"
-	CHALACTAN_SHIP_milne: "Milne"
-	CHALACTAN_SHIP_laforey: "Laforey"
-	CHALACTAN_SHIP_tyler: "Tyler"
-	CHALACTAN_SHIP_hawke: "Hawke"
-	CHALACTAN_SHIP_yonai: "Yonai"
-	CHALACTAN_SHIP_pound: "Pound"
-	CHALACTAN_SHIP_king: "King"
-	CHALACTAN_SHIP_crutchley: "Crutchley"
-	CHALACTAN_SHIP_mountbatten: "Mountbatten"
-	CHALACTAN_SHIP_kountouriotis: "Kountouriotis"
-	CHALACTAN_SHIP_kuznetsov: "Kuznetsov"
-	CHALACTAN_SHIP_essen: "Essen"
-	CHALACTAN_SHIP_kornilov: "Kornilov"
-	CHALACTAN_SHIP_suffren: "Suffren"
-	CHALACTAN_SHIP_treville: "Treville"
-	CHALACTAN_SHIP_villeneuve: "Villeneuve"
-	CHALACTAN_SHIP_grasse: "Grasse"
-	CHALACTAN_SHIP_byng: "Byng"
-	CHALACTAN_SHIP_lezo: "Lezo"
-	CHALACTAN_SHIP_bombard: "Bombard"
-	CHALACTAN_SHIP_catapult: "Catapult"
-	CHALACTAN_SHIP_harpoon: "Harpoon"
-	CHALACTAN_SHIP_polybolos: "Polybolos"
-	CHALACTAN_SHIP_culverin: "Culverin"
-	CHALACTAN_SHIP_exemplary: "Exemplary"
-	CHALACTAN_SHIP_CLASS_cr_90: "CR-90"
-	CHALACTAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	CHALACTAN_SHIP_CLASS_lupus: "Lupus"
-	CHALACTAN_SHIP_CLASS_asdroni: "Asdroni"
-	CHALACTAN_SHIP_CLASS_customs: "Customs"
-	CHALACTAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	CHALACTAN_SHIP_CLASS_scurge: "Scurge"
-	CHALACTAN_SHIP_CLASS_krayt: "Krayt"
-	CHALACTAN_SHIP_CLASS_diamond: "Diamond"
-	CHALACTAN_SHIP_CLASS_etti: "Etti"
-	CHALACTAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	CHALACTAN_SHIP_CLASS_vigil: "Vigil"
-	CHALACTAN_SHIP_CLASS_dp20: "DP20"
-	CHALACTAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	CHALACTAN_SHIP_CLASS_raider: "Raider"
-	CHALACTAN_SHIP_CLASS_dornean: "Dornean"
-	CHALACTAN_SHIP_CLASS_crusader: "Crusader"
-	CHALACTAN_SHIP_CLASS_marauder: "Marauder"
-	CHALACTAN_SHIP_CLASS_arquitens: "Arquitens"
-	CHALACTAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	CHALACTAN_SHIP_CLASS_pelta: "Pelta"
-	CHALACTAN_SHIP_CLASS_pinnace: "Pinnace"
-	CHALACTAN_SHIP_CLASS_nova: "Nova"
-	CHALACTAN_SHIP_CLASS_vigilance: "Vigilance"
-	CHALACTAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	CHALACTAN_SHIP_CLASS_cg_273: "CG-273"
-	CHALACTAN_SHIP_CLASS_kariek: "Kariek"
-	CHALACTAN_SHIP_CLASS_ton_falk: "Ton-Falk"
-	CHALACTAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	CHALACTAN_SHIP_CLASS_lancer: "Lancer"
-	CHALACTAN_SHIP_CLASS_teroch: "Teroch"
-	CHALACTAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	CHALACTAN_SHIP_CLASS_nova_ii: "Nova II"
-	CHALACTAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	CHALACTAN_SHIP_CLASS_velox: "Velox"
-	CHALACTAN_SHIP_CLASS_mc30c: "MC30c"
-	CHALACTAN_SHIP_CLASS_vengeance: "Vengeance"
-	CHALACTAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	CHALACTAN_SHIP_CLASS_cc_7700: "CC-7700"
-	CHALACTAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	CHALACTAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	CHALACTAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	CHALACTAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	CHALACTAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	CHALACTAN_SHIP_CLASS_kontos: "Kontos"
-	CHALACTAN_SHIP_CLASS_mc40: "MC40"
-	CHALACTAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	CHALACTAN_SHIP_CLASS_broadside: "Broadside"
-	CHALACTAN_SHIP_CLASS_protector: "Protector"
-	CHALACTAN_SHIP_CLASS_warlord: "Warlord"
-	CHALACTAN_SHIP_CLASS_gladiator: "Gladiator"
-	CHALACTAN_SHIP_CLASS_beviin: "Beviin"
-	CHALACTAN_SHIP_CLASS_liberator: "Liberator"
-	CHALACTAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	CHALACTAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	CHALACTAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	CHALACTAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	CHALACTAN_SHIP_CLASS_massias: "Massias"
-	CHALACTAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	CHALACTAN_SHIP_CLASS_kyramud: "Kyramud"
-	CHALACTAN_SHIP_CLASS_munificent: "Munificent"
-	CHALACTAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	CHALACTAN_SHIP_CLASS_acclamator: "Acclamator"
-	CHALACTAN_SHIP_CLASS_lictor: "Lictor"
-	CHALACTAN_SHIP_CLASS_bulwark: "Bulwark"
-	CHALACTAN_SHIP_CLASS_victory_i: "Victory I"
-	CHALACTAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	CHALACTAN_SHIP_CLASS_bulk: "Bulk"
-	CHALACTAN_SHIP_CLASS_vindicator: "Vindicator"
-	CHALACTAN_SHIP_CLASS_dauntless: "Dauntless"
-	CHALACTAN_SHIP_CLASS_captor: "Captor"
-	CHALACTAN_SHIP_CLASS_au_riette: "Au'riette"
-	CHALACTAN_SHIP_CLASS_mc55: "MC55"
-	CHALACTAN_SHIP_CLASS_afthonia: "Afthonia"
-	CHALACTAN_SHIP_CLASS_victory_ii: "Victory II"
-	CHALACTAN_SHIP_CLASS_beroya: "Beroya"
-	CHALACTAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	CHALACTAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	CHALACTAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	CHALACTAN_SHIP_CLASS_venator: "Venator"
-	CHALACTAN_SHIP_CLASS_centurion: "Centurion"
-	CHALACTAN_SHIP_CLASS_mc75: "MC75"
-	CHALACTAN_SHIP_CLASS_kandosii: "Kandosii"
-	CHALACTAN_SHIP_CLASS_corellian: "Corellian"
-	CHALACTAN_SHIP_CLASS_providence: "Providence"
-	CHALACTAN_SHIP_CLASS_syndic: "Syndic"
-	CHALACTAN_SHIP_CLASS_recusant: "Recusant"
-	CHALACTAN_SHIP_CLASS_invincible: "Invincible"
-	CHALACTAN_SHIP_CLASS_imperial_i: "Imperial I"
-	CHALACTAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	CHALACTAN_SHIP_CLASS_procursator: "Procursator"
-	CHALACTAN_SHIP_CLASS_mc80a: "MC80a"
-	CHALACTAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	CHALACTAN_SHIP_CLASS_aggressor: "Aggressor"
-	CHALACTAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	CHALACTAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	CHALACTAN_SHIP_CLASS_keldabe: "Keldabe"
-	CHALACTAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	CHALACTAN_SHIP_CLASS_chaf: "Chaf"
-	CHALACTAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	CHALACTAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	CHALACTAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	CHALACTAN_SHIP_CLASS_dominator: "Dominator"
-	CHALACTAN_SHIP_CLASS_allegiance: "Allegiance"
-	CHALACTAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	CHALACTAN_SHIP_CLASS_phalanx: "Phalanx"
-	CHALACTAN_SHIP_CLASS_titan: "Titan"
-	CHALACTAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	CHALACTAN_SHIP_CLASS_star_home: "Star Home"
-	CHALACTAN_SHIP_CLASS_subjugator: "Subjugator"
-	CHALACTAN_SHIP_CLASS_bellator: "Bellator"
-	CHALACTAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	CHALACTAN_SHIP_CLASS_executor: "Executor"
-	CHALACTAN_FLEET_flotilla_ORD: "$ORD$ Flotilla"
-	CHALACTAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	CHALACTAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	CHALACTAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	CHALACTAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	CHALACTAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	CHALACTAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	CHALACTAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	CHALACTAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	CHALACTAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	CHALACTAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	CHALACTAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	CHALACTAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	CHALACTAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	CHALACTAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	CHALACTAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	CHALACTAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	CHALACTAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	CHALACTAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	CHALACTAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	CHALACTAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	CHALACTAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	CHALACTAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	CHALACTAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	CHALACTAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	CHALACTAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	CHALACTAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	CHALACTAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	CHALACTAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	CHALACTAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	CHALACTAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	CHALACTAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	CHALACTAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	CHALACTAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	CHALACTAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	CHALACTAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	CHALACTAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	CHALACTAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	CHALACTAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	CHALACTAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	CHALACTAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	CHALACTAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	CHALACTAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	CHALACTAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	CHALACTAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	CHALACTAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	CHALACTAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	CHALACTAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	CHALACTAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	CHALACTAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	CHALACTAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	CHALACTAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	CHALACTAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	CHALACTAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	CHALACTAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	CHALACTAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	CHALACTAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	CHALACTAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	CHALACTAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	CHALACTAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	CHALACTAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	CHALACTAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	CHALACTAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	CHALACTAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	CHALACTAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	CHALACTAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	CHALACTAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	CHALACTAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	CHALACTAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	CHALACTAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	CHALACTAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	CHALACTAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	CHALACTAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	CHALACTAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	CHALACTAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	CHALACTAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	CHALACTAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	CHALACTAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	CHALACTAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	CHALACTAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	CHALACTAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	CHALACTAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	CHALACTAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	CHALACTAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	CHALACTAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	CHALACTAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	CHALACTAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	CHALACTAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	CHALACTAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	CHALACTAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	CHALACTAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	CHALACTAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	CHALACTAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	CHALACTAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	CHALACTAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	CHALACTAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	CHALACTAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	CHALACTAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	CHALACTAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	CHALACTAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	CHALACTAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	CHALACTAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	CHALACTAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	CHALACTAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	CHALACTAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	CHALACTAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	CHALACTAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	CHALACTAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	CHALACTAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	CHALACTAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	CHALACTAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	CHALACTAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	CHALACTAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	CHALACTAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	CHALACTAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	CHALACTAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	CHALACTAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	CHALACTAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	CHALACTAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	CHALACTAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	CHALACTAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	CHALACTAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	CHALACTAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	CHALACTAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	CHALACTAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	CHALACTAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	CHALACTAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	CHALACTAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	CHALACTAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	CHALACTAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	CHALACTAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	CHALACTAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	CHALACTAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	CHALACTAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	CHALACTAN_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	CHALACTAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	CHALACTAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	CHALACTAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	CHALACTAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	CHALACTAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	CHALACTAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	CHALACTAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	CHALACTAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	CHALACTAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	CHALACTAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	CHALACTAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	CHALACTAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	CHALACTAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	CHALACTAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	CHALACTAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	CHALACTAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	CHALACTAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	CHALACTAN_CHR_bail: "Bail"
-	CHALACTAN_CHR_ylenic: "Ylenic"
-	CHALACTAN_CHR_kel: "Kel"
-	CHALACTAN_CHR_gunn: "Gunn"
-	CHALACTAN_CHR_gregory: "Gregory"
-	CHALACTAN_CHR_abraxis: "Abraxis"
-	CHALACTAN_CHR_jonas: "Jonas"
-	CHALACTAN_CHR_xerda: "Xerda"
-	CHALACTAN_CHR_carth: "Carth"
-	CHALACTAN_CHR_kir: "Kir"
-	CHALACTAN_CHR_mebba: "Mebba"
-	CHALACTAN_CHR_dagos: "Dagos"
-	CHALACTAN_CHR_adam: "Adam"
-	CHALACTAN_CHR_kyle: "Kyle"
-	CHALACTAN_CHR_forren: "Forren"
-	CHALACTAN_CHR_malcolm: "Malcolm"
-	CHALACTAN_CHR_jeho: "Jeho"
-	CHALACTAN_CHR_lee: "Lee"
-	CHALACTAN_CHR_griggs: "Griggs"
-	CHALACTAN_CHR_milo: "Milo"
-	CHALACTAN_CHR_aeron: "Aeron"
-	CHALACTAN_CHR_byrec: "Byrec"
-	CHALACTAN_CHR_strata: "Strata"
-	CHALACTAN_CHR_lancer: "Lancer"
-	CHALACTAN_CHR_zeak: "Zeak"
-	CHALACTAN_CHR_niuk: "Niuk"
-	CHALACTAN_CHR_lavidean: "Lavidean"
-	CHALACTAN_CHR_tanizandar: "Tanizandar"
-	CHALACTAN_CHR_japla: "Japla"
-	CHALACTAN_CHR_aran: "Aran"
-	CHALACTAN_CHR_rail: "Rail"
-	CHALACTAN_CHR_zeven: "Zeven"
-	CHALACTAN_CHR_yakown: "Yakown"
-	CHALACTAN_CHR_sibar: "Sibar"
-	CHALACTAN_CHR_sair: "Sair"
-	CHALACTAN_CHR_klai: "Klai"
-	CHALACTAN_CHR_imay: "Imay"
-	CHALACTAN_CHR_traest: "Traest"
-	CHALACTAN_CHR_simo: "Simo"
-	CHALACTAN_CHR_riyan: "Riyan"
-	CHALACTAN_CHR_magnus: "Magnus"
-	CHALACTAN_CHR_boceta: "Boceta"
-	CHALACTAN_CHR_agnook: "Agnook"
-	CHALACTAN_CHR_silus: "Silus"
-	CHALACTAN_CHR_rowan: "Rowan"
-	CHALACTAN_CHR_coren: "Coren"
-	CHALACTAN_CHR_jett: "Jett"
-	CHALACTAN_CHR_linth: "Linth"
-	CHALACTAN_CHR_annor: "Annor"
-	CHALACTAN_CHR_ulas: "Ulas"
-	CHALACTAN_CHR_fenn: "Fenn"
-	CHALACTAN_CHR_tal: "Tal"
-	CHALACTAN_CHR_plo: "Plo"
-	CHALACTAN_CHR_torin: "Torin"
-	CHALACTAN_CHR_boone: "Boone"
-	CHALACTAN_CHR_davith: "Davith"
-	CHALACTAN_CHR_jorgen: "Jorgen"
-	CHALACTAN_CHR_bertos: "Bertos"
-	CHALACTAN_CHR_ress: "Ress"
-	CHALACTAN_CHR_malius: "Malius"
-	CHALACTAN_CHR_kale: "Kale"
-	CHALACTAN_CHR_cregan: "Cregan"
-	CHALACTAN_CHR_galen: "Galen"
-	CHALACTAN_CHR_zekk: "Zekk"
-	CHALACTAN_CHR_jinn_tu: "Jinn-Tu"
-	CHALACTAN_CHR_jaryn: "Jaryn"
-	CHALACTAN_CHR_gentti: "Gentti"
-	CHALACTAN_CHR_yu_sien: "Yu-Sien"
-	CHALACTAN_CHR_akela: "Akela"
-	CHALACTAN_CHR_arslan: "Arslan"
-	CHALACTAN_CHR_sidias: "Sidias"
-	CHALACTAN_CHR_haken: "Haken"
-	CHALACTAN_CHR_biran: "Biran"
-	CHALACTAN_CHR_vidown: "Vidown"
-	CHALACTAN_CHR_ares: "Ares"
-	CHALACTAN_CHR_ithan: "Ithan"
-	CHALACTAN_CHR_cul_utaan: "Cul-utaan"
-	CHALACTAN_CHR_thoja: "Thoja"
-	CHALACTAN_CHR_cron: "Cron"
-	CHALACTAN_CHR_mossi: "Mossi"
-	CHALACTAN_CHR_abric: "Abric"
-	CHALACTAN_CHR_darg: "Darg"
-	CHALACTAN_CHR_gaman: "Gaman"
-	CHALACTAN_CHR_naiad: "Naiad"
-	CHALACTAN_CHR_herub: "Herub"
-	CHALACTAN_CHR_marius: "Marius"
-	CHALACTAN_CHR_torkin: "Torkin"
-	CHALACTAN_CHR_caton: "Caton"
-	CHALACTAN_CHR_kane: "Kane"
-	CHALACTAN_CHR_versita: "Versita"
-	CHALACTAN_CHR_cric: "Cric"
-	CHALACTAN_CHR_foxdi: "Foxdi"
-	CHALACTAN_CHR_montacca: "Montacca"
-	CHALACTAN_CHR_jospi: "Jospi"
-	CHALACTAN_CHR_baz: "Baz"
-	CHALACTAN_CHR_kam: "Kam"
-	CHALACTAN_CHR_erek: "Erek"
-	CHALACTAN_CHR_lerak: "Lerak"
-	CHALACTAN_CHR_morla: "Morla"
-	CHALACTAN_CHR_baxter: "Baxter"
-	CHALACTAN_CHR_talan: "Talan"
-	CHALACTAN_CHR_thion: "Thion"
-	CHALACTAN_CHR_kannon: "Kannon"
-	CHALACTAN_CHR_corsair: "Corsair"
-	CHALACTAN_CHR_caster: "Caster"
-	CHALACTAN_CHR_elden: "Elden"
-	CHALACTAN_CHR_faelgrom: "Faelgrom"
-	CHALACTAN_CHR_jack: "Jack"
-	CHALACTAN_CHR_raltharan: "Raltharan"
-	CHALACTAN_CHR_flash: "Flash"
-	CHALACTAN_CHR_waseem: "Waseem"
-	CHALACTAN_CHR_bendak: "Bendak"
-	CHALACTAN_CHR_kaz: "Kaz"
-	CHALACTAN_CHR_montileu: "Montileu"
-	CHALACTAN_CHR_gonoga: "Gonoga"
-	CHALACTAN_CHR_galven: "Galven"
-	CHALACTAN_CHR_vincenzo: "Vincenzo"
-	CHALACTAN_CHR_ric: "Ric"
-	CHALACTAN_CHR_rebar: "Rebar"
-	CHALACTAN_CHR_jebediah: "Jebediah"
-	CHALACTAN_CHR_aramil: "Aramil"
-	CHALACTAN_CHR_delmi: "Delmi"
-	CHALACTAN_CHR_caalin: "Caalin"
-	CHALACTAN_CHR_rassth: "Rassth"
-	CHALACTAN_CHR_adorn: "Adorn"
-	CHALACTAN_CHR_cyrus: "Cyrus"
-	CHALACTAN_CHR_zhar_khan: "Zhar-Khan"
-	CHALACTAN_CHR_predor: "Predor"
-	CHALACTAN_CHR_tarlson: "Tarlson"
-	CHALACTAN_CHR_boaz: "Boaz"
-	CHALACTAN_CHR_bradley: "Bradley"
-	CHALACTAN_CHR_zerrid: "Zerrid"
-	CHALACTAN_CHR_bobecc: "Bobecc"
-	CHALACTAN_CHR_jelantos: "Jelantos"
-	CHALACTAN_CHR_jephego: "Jephego"
-	CHALACTAN_CHR_svante: "Svante"
-	CHALACTAN_CHR_tesvalo: "Tesvalo"
-	CHALACTAN_CHR_aeon: "Aeon"
-	CHALACTAN_CHR_dekar: "Dekar"
-	CHALACTAN_CHR_jean_francois: "Jean-Francois"
-	CHALACTAN_CHR_elen: "Elen"
-	CHALACTAN_CHR_han: "Han"
-	CHALACTAN_CHR_owen: "Owen"
-	CHALACTAN_CHR_biggs: "Biggs"
-	CHALACTAN_CHR_charratha: "Charratha"
-	CHALACTAN_CHR_edaara: "Edaara"
-	CHALACTAN_CHR_bella: "Bella"
-	CHALACTAN_CHR_callista: "Callista"
-	CHALACTAN_CHR_mara: "Mara"
-	CHALACTAN_CHR_seena: "Seena"
-	CHALACTAN_CHR_areta: "Areta"
-	CHALACTAN_CHR_cord: "Cord"
-	CHALACTAN_CHR_cyrinity: "Cyrinity"
-	CHALACTAN_CHR_nile: "Nile"
-	CHALACTAN_CHR_kiyfi: "Kiyfi"
-	CHALACTAN_CHR_yasmyn: "Yasmyn"
-	CHALACTAN_CHR_satra: "Satra"
-	CHALACTAN_CHR_shehish: "Shehish"
-	CHALACTAN_CHR_sarna: "Sarna"
-	CHALACTAN_CHR_krava: "Krava"
-	CHALACTAN_CHR_roxis: "Roxis"
-	CHALACTAN_CHR_jessa: "Jessa"
-	CHALACTAN_CHR_aqua: "Aqua"
-	CHALACTAN_CHR_maryna: "Maryna"
-	CHALACTAN_CHR_essaj: "Essaj"
-	CHALACTAN_CHR_looriw: "Looriw"
-	CHALACTAN_CHR_teeana: "Teeana"
-	CHALACTAN_CHR_raena: "Raena"
-	CHALACTAN_CHR_yula: "Yula"
-	CHALACTAN_CHR_vifi: "Vifi"
-	CHALACTAN_CHR_vania: "Vania"
-	CHALACTAN_CHR_jeanida: "Jeanida"
-	CHALACTAN_CHR_aerena: "Aerena"
-	CHALACTAN_CHR_nataya: "Nataya"
-	CHALACTAN_CHR_bernarda: "Bernarda"
-	CHALACTAN_CHR_geela: "Geela"
-	CHALACTAN_CHR_lya: "Lya"
-	CHALACTAN_CHR_sirra: "Sirra"
-	CHALACTAN_CHR_teris: "Teris"
-	CHALACTAN_CHR_terral: "Terral"
-	CHALACTAN_CHR_riema: "Riema"
-	CHALACTAN_CHR_erri: "Erri"
-	CHALACTAN_CHR_shanna: "Shanna"
-	CHALACTAN_CHR_lyra: "Lyra"
-	CHALACTAN_CHR_pranda: "Pranda"
-	CHALACTAN_CHR_luna: "Luna"
-	CHALACTAN_CHR_cally: "Cally"
-	CHALACTAN_CHR_viqi: "Viqi"
-	CHALACTAN_CHR_hadriel: "Hadriel"
-	CHALACTAN_CHR_lora: "Lora"
-	CHALACTAN_CHR_selena: "Selena"
-	CHALACTAN_CHR_zana: "Zana"
-	CHALACTAN_CHR_tuija: "Tuija"
-	CHALACTAN_CHR_railin: "Railin"
-	CHALACTAN_CHR_odona: "Odona"
-	CHALACTAN_CHR_shyon: "Shyon"
-	CHALACTAN_CHR_walas: "Walas"
-	CHALACTAN_CHR_rylla: "Rylla"
-	CHALACTAN_CHR_gara: "Gara"
-	CHALACTAN_CHR_delos: "Delos"
-	CHALACTAN_CHR_loretta: "Loretta"
-	CHALACTAN_CHR_luhon: "Luhon"
-	CHALACTAN_CHR_delinia: "Delinia"
-	CHALACTAN_CHR_aama: "Aama"
-	CHALACTAN_CHR_shorya: "Shorya"
-	CHALACTAN_CHR_melfina: "Melfina"
-	CHALACTAN_CHR_davessi: "Davessi"
-	CHALACTAN_CHR_larana: "Larana"
-	CHALACTAN_CHR_galatea: "Galatea"
-	CHALACTAN_CHR_nola: "Nola"
-	CHALACTAN_CHR_syna: "Syna"
-	CHALACTAN_CHR_jauhzmynn: "Jauhzmynn"
-	CHALACTAN_CHR_anen: "Anen"
-	CHALACTAN_CHR_orona: "Orona"
-	CHALACTAN_CHR_yana: "Yana"
-	CHALACTAN_CHR_zoras: "Zoras"
-	CHALACTAN_CHR_ree: "Ree"
-	CHALACTAN_CHR_grace: "Grace"
-	CHALACTAN_CHR_tantema: "Tantema"
-	CHALACTAN_CHR_myn: "Myn"
-	CHALACTAN_CHR_una: "Una"
-	CHALACTAN_CHR_dalharil: "Dalharil"
-	CHALACTAN_CHR_losa: "Losa"
-	CHALACTAN_CHR_sovi: "Sovi"
-	CHALACTAN_CHR_elaiza: "Elaiza"
-	CHALACTAN_CHR_vucora: "Vucora"
-	CHALACTAN_CHR_ava: "Ava"
-	CHALACTAN_CHR_joi: "Joi"
-	CHALACTAN_CHR_stryka: "Stryka"
-	CHALACTAN_CHR_shandra: "Shandra"
-	CHALACTAN_CHR_kely: "Kely"
-	CHALACTAN_CHR_caileta: "Caileta"
-	CHALACTAN_CHR_taia: "Taia"
-	CHALACTAN_CHR_siala: "Siala"
-	CHALACTAN_CHR_reki: "Reki"
-	CHALACTAN_CHR_maydla: "Maydla"
-	CHALACTAN_CHR_bot: "Bot"
-	CHALACTAN_CHR_kiandra: "Kiandra"
-	CHALACTAN_CHR_xilaren: "Xilaren"
-	CHALACTAN_CHR_zulara: "Zulara"
-	CHALACTAN_CHR_ren: "Ren"
-	CHALACTAN_CHR_karissa: "Karissa"
-	CHALACTAN_CHR_haruko: "Haruko"
-	CHALACTAN_CHR_jenna: "Jenna"
-	CHALACTAN_CHR_liana: "Liana"
-	CHALACTAN_CHR_rale: "Rale"
-	CHALACTAN_CHR_megara: "Megara"
-	CHALACTAN_CHR_aria: "Aria"
-	CHALACTAN_CHR_akiva: "Akiva"
-	CHALACTAN_CHR_nalah: "Nalah"
-	CHALACTAN_CHR_erlem: "Erlem"
-	CHALACTAN_CHR_nali: "Nali"
-	CHALACTAN_CHR_fallah: "Fallah"
-	CHALACTAN_CHR_kotrana: "Kotrana"
-	CHALACTAN_CHR_aayla: "Aayla"
-	CHALACTAN_CHR_kalira: "Kalira"
-	CHALACTAN_CHR_arani: "Arani"
-	CHALACTAN_CHR_fama: "Fama"
-	CHALACTAN_CHR_lyyr: "Lyyr"
-	CHALACTAN_CHR_arcas: "Arcas"
-	CHALACTAN_CHR_rane: "Rane"
-	CHALACTAN_CHR_nayru: "Nayru"
-	CHALACTAN_CHR_zylas: "Zylas"
-	CHALACTAN_CHR_vexa: "Vexa"
-	CHALACTAN_CHR_kana: "Kana"
-	CHALACTAN_CHR_beru: "Beru"
-	CHALACTAN_CHR_elysar: "Elysar"
-	CHALACTAN_CHR_tisa: "Tisa"
-	CHALACTAN_CHR_wahia: "Wahia"
-	CHALACTAN_CHR_wezz: "Wezz"
-	CHALACTAN_CHR_unic: "Unic"
-	CHALACTAN_CHR_tiovata: "Tiovata"
-	CHALACTAN_CHR_nakcohh: "Nakcohh"
-	CHALACTAN_CHR_vitaan: "Vitaan"
-	CHALACTAN_CHR_mefrid: "Mefrid"
-	CHALACTAN_CHR_daklan: "Daklan"
-	CHALACTAN_CHR_kenzee: "Kenzee"
-	CHALACTAN_CHR_joben: "Joben"
-	CHALACTAN_CHR_thegas: "Thegas"
-	CHALACTAN_CHR_moryne: "Moryne"
-	CHALACTAN_CHR_holgor: "Holgor"
-	CHALACTAN_CHR_ijaaz: "Ijaaz"
-	CHALACTAN_CHR_tromans: "Tromans"
-	CHALACTAN_CHR_sprax: "Sprax"
-	CHALACTAN_CHR_knesos: "Knesos"
-	CHALACTAN_CHR_lasek: "Lasek"
-	CHALACTAN_CHR_artis: "Artis"
-	CHALACTAN_CHR_pax: "Pax"
-	CHALACTAN_CHR_corso: "Corso"
-	CHALACTAN_CHR_fallon: "Fallon"
-	CHALACTAN_CHR_gundo: "Gundo"
-	CHALACTAN_CHR_ruana: "Ruana"
-	CHALACTAN_CHR_fremlin: "Fremlin"
-	CHALACTAN_CHR_thont: "Thont"
-	CHALACTAN_CHR_creel: "Creel"
-	CHALACTAN_CHR_rar: "Rar"
-	CHALACTAN_CHR_dusat: "Dusat"
-	CHALACTAN_CHR_kessler: "Kessler"
-	CHALACTAN_CHR_shaia: "Shaia"
-	CHALACTAN_CHR_el_theriam: "El-Theriam"
-	CHALACTAN_CHR_vanmeer: "VanMeer"
-	CHALACTAN_CHR_vrieska: "Vrieska"
-	CHALACTAN_CHR_calway: "Calway"
-	CHALACTAN_CHR_yamaguchi: "Yamaguchi"
-	CHALACTAN_CHR_riggers: "Riggers"
-	CHALACTAN_CHR_brower: "Brower"
-	CHALACTAN_CHR_fash: "Fash"
-	CHALACTAN_CHR_nalto: "Nalto"
-	CHALACTAN_CHR_stryder: "Stryder"
-	CHALACTAN_CHR_dubreas: "Dubreas"
-	CHALACTAN_CHR_colsan: "Colsan"
-	CHALACTAN_CHR_terrek: "Terrek"
-	CHALACTAN_CHR_solon: "Solon"
-	CHALACTAN_CHR_merquise: "Merquise"
-	CHALACTAN_CHR_varn: "Varn"
-	CHALACTAN_CHR_basai: "Basai"
-	CHALACTAN_CHR_froud: "Froud"
-	CHALACTAN_CHR_addacess: "Addacess"
-	CHALACTAN_CHR_durgen: "Durgen"
-	CHALACTAN_CHR_slahlvo: "Slahlvo"
-	CHALACTAN_CHR_remex: "Remex"
-	CHALACTAN_CHR_madowki: "Madowki"
-	CHALACTAN_CHR_hayes: "Hayes"
-	CHALACTAN_CHR_ne: "Ne"
-	CHALACTAN_CHR_dago: "Dago"
-	CHALACTAN_CHR_greenback: "Greenback"
-	CHALACTAN_CHR_stithta: "Stithta"
-	CHALACTAN_CHR_ker: "Ker"
-	CHALACTAN_CHR_driet: "Driet"
-	CHALACTAN_CHR_klakk: "Klakk"
-	CHALACTAN_CHR_reed: "Reed"
-	CHALACTAN_CHR_lefex: "Lefex"
-	CHALACTAN_CHR_minn: "Minn"
-	CHALACTAN_CHR_irokini: "Irokini"
-	CHALACTAN_CHR_roye: "Roye"
-	CHALACTAN_CHR_danakar: "Danakar"
-	CHALACTAN_CHR_forin: "Forin"
-	CHALACTAN_CHR_glopio: "Glopio"
-	CHALACTAN_CHR_shenuri: "Shenuri"
-	CHALACTAN_CHR_corcer: "Corcer"
-	CHALACTAN_CHR_ordo: "Ordo"
-	CHALACTAN_CHR_wan: "Wan"
-	CHALACTAN_CHR_tagratt: "Tagratt"
-	CHALACTAN_CHR_golladio: "Golladio"
-	CHALACTAN_CHR_adramcsia: "Adramcsia"
-	CHALACTAN_CHR_jetberg: "Jetberg"
-	CHALACTAN_CHR_noth: "Noth"
-	CHALACTAN_CHR_taske: "Taske"
-	CHALACTAN_CHR_komo: "Komo"
-	CHALACTAN_CHR_styles: "Styles"
-	CHALACTAN_CHR_angavel: "Angavel"
-	CHALACTAN_CHR_tyrnith: "Tyrnith"
-	CHALACTAN_CHR_yavoog: "Yavoog"
-	CHALACTAN_CHR_kelbier: "Kelbier"
-	CHALACTAN_CHR_racto: "Racto"
-	CHALACTAN_CHR_degor: "Degor"
-	CHALACTAN_CHR_magre: "Magre"
-	CHALACTAN_CHR_soylon: "Soylon"
-	CHALACTAN_CHR_lerann: "Lerann"
-	CHALACTAN_CHR_chro: "Chro"
-	CHALACTAN_CHR_finn: "Finn"
-	CHALACTAN_CHR_blackmoor: "Blackmoor"
-	CHALACTAN_CHR_hwang: "Hwang"
-	CHALACTAN_CHR_vekarr: "Vekarr"
-	CHALACTAN_CHR_amon: "Amon"
-	CHALACTAN_CHR_thiddex: "Thiddex"
-	CHALACTAN_CHR_selkayim: "Selkayim"
-	CHALACTAN_CHR_gilder: "Gilder"
-	CHALACTAN_CHR_dhuramav: "Dhuramav"
-	CHALACTAN_CHR_kodd: "Kodd"
-	CHALACTAN_CHR_morin: "Morin"
-	CHALACTAN_CHR_kobylarz: "Kobylarz"
-	CHALACTAN_CHR_tade: "Tade"
-	CHALACTAN_CHR_solman: "Solman"
-	CHALACTAN_CHR_bintaghr: "Bintaghr"
-	CHALACTAN_CHR_marclonus: "Marclonus"
-	CHALACTAN_CHR_precore: "Precore"
-	CHALACTAN_CHR_solborne: "Solborne"
-	CHALACTAN_CHR_bailer: "Bailer"
-	CHALACTAN_CHR_katarn: "Katarn"
-	CHALACTAN_CHR_anjek: "Anjek"
-	CHALACTAN_CHR_dalgas: "Dalgas"
-	CHALACTAN_CHR_kast: "Kast"
-	CHALACTAN_CHR_airerith: "Airerith"
-	CHALACTAN_CHR_halo: "Halo"
-	CHALACTAN_CHR_clash: "Clash"
-	CHALACTAN_CHR_jalba: "Jalba"
-	CHALACTAN_CHR_benn: "Benn"
-	CHALACTAN_CHR_haruhana: "Haruhana"
-	CHALACTAN_CHR_roice: "Roice"
-	CHALACTAN_CHR_lokar: "Lokar"
-	CHALACTAN_CHR_korpil: "Korpil"
-	CHALACTAN_CHR_turon: "Turon"
-	CHALACTAN_CHR_cavi: "Cavi"
-	CHALACTAN_CHR_deece: "Deece"
-	CHALACTAN_CHR_braitano: "Braitano"
-	CHALACTAN_CHR_garnik: "Garnik"
-	CHALACTAN_CHR_tyandas: "Tyandas"
-	CHALACTAN_CHR_ka_taramas: "Ka'Taramas"
-	CHALACTAN_CHR_nuwest: "Nuwest"
-	CHALACTAN_CHR_forte: "Forte"
-	CHALACTAN_CHR_noshey: "Noshey"
-	CHALACTAN_CHR_gyyll: "Gyyll"
-	CHALACTAN_CHR_tallon: "Tallon"
-	CHALACTAN_CHR_lionne: "Lionne"
-	CHALACTAN_CHR_adras: "Adras"
-	CHALACTAN_CHR_peoly: "Peoly"
-	CHALACTAN_CHR_damiel: "Damiel"
-	CHALACTAN_CHR_chup_pau: "Chup-Pau"
-	CHALACTAN_CHR_drayven: "Drayven"
-	CHALACTAN_CHR_zaposug: "Zaposug"
-	CHALACTAN_CHR_bela_trepada: "Bela-Trepada"
-	CHALACTAN_CHR_defelice: "Defelice"
-	CHALACTAN_CHR_monsula: "Monsula"
-	CHALACTAN_CHR_baralein: "Baralein"
-	CHALACTAN_CHR_denive: "Denive"
-	CHALACTAN_CHR_hodrren: "Hodrren"
-	CHALACTAN_CHR_xergo: "Xergo"
-	CHALACTAN_CHR_sarat: "Sarat"
-	CHALACTAN_CHR_vercet: "Vercet"
-	CHALACTAN_CHR_ossaki: "Ossaki"
-	CHALACTAN_CHR_kappa: "Kappa"
-	CHALACTAN_CHR_zerga: "Zerga"
-	CHALACTAN_CHR_kopos: "Kopos"
-	CHALACTAN_CHR_aldrecht: "Aldrecht"
-	CHALACTAN_CHR_bohme: "Bohme"
-	CHALACTAN_CHR_tull: "Tull"
-	CHALACTAN_CHR_eldrel: "Eldrel"
-	CHALACTAN_CHR_marh: "Marh"
-	CHALACTAN_CHR_darksword: "Darksword"
-	CHALACTAN_CHR_krandor: "Krandor"
-	CHALACTAN_CHR_montag: "Montag"
-	CHALACTAN_CHR_dimodan: "Dimodan"
-	CHALACTAN_CHR_starfallen: "Starfallen"
-	CHALACTAN_CHR_fett: "Fett"
-	CHALACTAN_CHR_mohebbi: "Mohebbi"
-	CHALACTAN_CHR_runalian: "Runalian"
-	CHALACTAN_CHR_binette: "Binette"
-	CHALACTAN_CHR_laurent: "Laurent"
-	CHALACTAN_CHR_mavr: "Mavr"
-	CHALACTAN_CHR_ryra: "Ryra"
-	CHALACTAN_CHR_truden: "Truden"
-	CHALACTAN_CHR_solo: "Solo"
-	CHALACTAN_CHR_lars: "Lars"
-	CHALACTAN_CHR_amedda: "Amedda"
-	CHALACTAN_CHR_amidala: "Amidala"
-	CHALACTAN_CHR_andrell: "Andrell"
-	CHALACTAN_CHR_annon: "Annon"
-	CHALACTAN_CHR_antilles: "Antilles"
-	CHALACTAN_CHR_atanna: "Atanna"
-	CHALACTAN_CHR_baab: "Baab"
-	CHALACTAN_CHR_barc: "Barc"
-	CHALACTAN_CHR_bonteri: "Bonteri"
-	CHALACTAN_CHR_breemu: "Breemu"
-	CHALACTAN_CHR_bremack: "Bremack"
-	CHALACTAN_CHR_bronk: "Bronk"
-	CHALACTAN_CHR_burtoni: "Burtoni"
-	CHALACTAN_CHR_cadaman: "Cadaman"
-	CHALACTAN_CHR_callen: "Callen"
-	CHALACTAN_CHR_clovis: "Clovis"
-	CHALACTAN_CHR_ledwellow: "Ledwellow"
-	CHALACTAN_CHR_dio: "Dio"
-	CHALACTAN_CHR_organa: "Organa"
-	CHALACTAN_CHR_mas: "Mas"
-	CHALACTAN_CHR_wain: "Wain"
-	CHALACTAN_CHR_gabrial: "Gabrial"
-	CHALACTAN_CHR_dewell: "Dewell"
-	CHALACTAN_CHR_tanner: "Tanner"
-	CHALACTAN_CHR_vi: "Vi"
-	CHALACTAN_CHR_rush: "Rush"
-	CHALACTAN_CHR_danry: "Danry"
-	CHALACTAN_CHR_padm_: "Padmé"
-	CHALACTAN_CHR_fema: "Fema"
-	CHALACTAN_CHR_mina: "Mina"
-	CHALACTAN_CHR_bana: "Bana"
-	CHALACTAN_CHR_tyreca: "Tyreca"
-	CHALACTAN_CHR_halle: "Halle"
-	CHALACTAN_CHR_lexi: "Lexi"
-	CHALACTAN_CHR_leia: "Leia"
-	CHALACTAN_CHR_alyssa: "Alyssa"
-	CHALACTAN_CHR_leanna: "Leanna"
-	CHALACTAN_CHR_arya: "Arya"
-	CHALACTAN_CHR_panteer: "Panteer"
-	CHALACTAN_CHR_alde: "Alde"
-	CHALACTAN_CHR_frayus: "Frayus"
-	CHALACTAN_CHR_cortess: "Cortess"
-	CHALACTAN_CHR_killesa: "Killesa"
+	CHALACTAN_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	CHALACTAN_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	CHALACTAN_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	CHALACTAN_SHIP_onward: "Onward" #!Empty_LineInfo!
+	CHALACTAN_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	CHALACTAN_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	CHALACTAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	CHALACTAN_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	CHALACTAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	CHALACTAN_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_trident: "Trident" #!Empty_LineInfo!
+	CHALACTAN_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	CHALACTAN_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	CHALACTAN_SHIP_venture: "Venture" #!Empty_LineInfo!
+	CHALACTAN_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_viper: "Viper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_winger: "Winger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	CHALACTAN_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	CHALACTAN_SHIP_senator: "Senator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	CHALACTAN_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	CHALACTAN_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	CHALACTAN_SHIP_athena: "Athena" #!Empty_LineInfo!
+	CHALACTAN_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	CHALACTAN_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nova: "Nova" #!Empty_LineInfo!
+	CHALACTAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_protector: "Protector" #!Empty_LineInfo!
+	CHALACTAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	CHALACTAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	CHALACTAN_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	CHALACTAN_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	CHALACTAN_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	CHALACTAN_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	CHALACTAN_SHIP_devout: "Devout" #!Empty_LineInfo!
+	CHALACTAN_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	CHALACTAN_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	CHALACTAN_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	CHALACTAN_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	CHALACTAN_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	CHALACTAN_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	CHALACTAN_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	CHALACTAN_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	CHALACTAN_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	CHALACTAN_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	CHALACTAN_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	CHALACTAN_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	CHALACTAN_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_purity: "Purity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	CHALACTAN_SHIP_redma: "Redma" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_republic: "Republic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	CHALACTAN_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	CHALACTAN_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	CHALACTAN_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	CHALACTAN_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	CHALACTAN_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	CHALACTAN_SHIP_undying: "Undying" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_valor: "Valor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	CHALACTAN_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	CHALACTAN_SHIP_agile: "Agile" #!Empty_LineInfo!
+	CHALACTAN_SHIP_archer: "Archer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	CHALACTAN_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	CHALACTAN_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	CHALACTAN_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	CHALACTAN_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	CHALACTAN_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_errant: "Errant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	CHALACTAN_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	CHALACTAN_SHIP_velox: "Velox" #!Empty_LineInfo!
+	CHALACTAN_SHIP_venator: "Venator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	CHALACTAN_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	CHALACTAN_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	CHALACTAN_SHIP_success: "Success" #!Empty_LineInfo!
+	CHALACTAN_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	CHALACTAN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	CHALACTAN_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_knight: "Knight" #!Empty_LineInfo!
+	CHALACTAN_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	CHALACTAN_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	CHALACTAN_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	CHALACTAN_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	CHALACTAN_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	CHALACTAN_SHIP_comet: "Comet" #!Empty_LineInfo!
+	CHALACTAN_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	CHALACTAN_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	CHALACTAN_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	CHALACTAN_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	CHALACTAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	CHALACTAN_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	CHALACTAN_SHIP_magic: "Magic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	CHALACTAN_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	CHALACTAN_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	CHALACTAN_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	CHALACTAN_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	CHALACTAN_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_daring: "Daring" #!Empty_LineInfo!
+	CHALACTAN_SHIP_duty: "Duty" #!Empty_LineInfo!
+	CHALACTAN_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hero: "Hero" #!Empty_LineInfo!
+	CHALACTAN_SHIP_justice: "Justice" #!Empty_LineInfo!
+	CHALACTAN_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	CHALACTAN_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	CHALACTAN_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	CHALACTAN_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	CHALACTAN_SHIP_malice: "Malice" #!Empty_LineInfo!
+	CHALACTAN_SHIP_menace: "Menace" #!Empty_LineInfo!
+	CHALACTAN_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	CHALACTAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	CHALACTAN_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	CHALACTAN_SHIP_predator: "Predator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	CHALACTAN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_savage: "Savage" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	CHALACTAN_SHIP_templar: "Templar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_terror: "Terror" #!Empty_LineInfo!
+	CHALACTAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	CHALACTAN_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	CHALACTAN_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	CHALACTAN_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	CHALACTAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	CHALACTAN_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	CHALACTAN_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	CHALACTAN_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	CHALACTAN_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pike: "Pike" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_raider: "Raider" #!Empty_LineInfo!
+	CHALACTAN_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	CHALACTAN_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	CHALACTAN_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_robust: "Robust" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	CHALACTAN_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	CHALACTAN_SHIP_siren: "Siren" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	CHALACTAN_SHIP_specter: "Specter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	CHALACTAN_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	CHALACTAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	CHALACTAN_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_superb: "Superb" #!Empty_LineInfo!
+	CHALACTAN_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	CHALACTAN_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	CHALACTAN_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	CHALACTAN_SHIP_talent: "Talent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	CHALACTAN_SHIP_talon: "Talon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	CHALACTAN_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	CHALACTAN_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	CHALACTAN_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	CHALACTAN_SHIP_argus: "Argus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	CHALACTAN_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	CHALACTAN_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	CHALACTAN_SHIP_castor: "Castor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_circe: "Circe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	CHALACTAN_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	CHALACTAN_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_darius: "Darius" #!Empty_LineInfo!
+	CHALACTAN_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	CHALACTAN_SHIP_electra: "Electra" #!Empty_LineInfo!
+	CHALACTAN_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	CHALACTAN_SHIP_freya: "Freya" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hector: "Hector" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_janus: "Janus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_jason: "Jason" #!Empty_LineInfo!
+	CHALACTAN_SHIP_juno: "Juno" #!Empty_LineInfo!
+	CHALACTAN_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_leander: "Leander" #!Empty_LineInfo!
+	CHALACTAN_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	CHALACTAN_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mars: "Mars" #!Empty_LineInfo!
+	CHALACTAN_SHIP_medea: "Medea" #!Empty_LineInfo!
+	CHALACTAN_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	CHALACTAN_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	CHALACTAN_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	CHALACTAN_SHIP_minos: "Minos" #!Empty_LineInfo!
+	CHALACTAN_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	CHALACTAN_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_odin: "Odin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	CHALACTAN_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	CHALACTAN_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	CHALACTAN_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	CHALACTAN_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	CHALACTAN_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	CHALACTAN_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	CHALACTAN_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_thor: "Thor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_triton: "Triton" #!Empty_LineInfo!
+	CHALACTAN_SHIP_venus: "Venus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_assail: "Assail" #!Empty_LineInfo!
+	CHALACTAN_SHIP_austere: "Austere" #!Empty_LineInfo!
+	CHALACTAN_SHIP_archon: "Archon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	CHALACTAN_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	CHALACTAN_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	CHALACTAN_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_legion: "Legion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_assault: "Assault" #!Empty_LineInfo!
+	CHALACTAN_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	CHALACTAN_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_champion: "Champion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	CHALACTAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	CHALACTAN_SHIP_glory: "Glory" #!Empty_LineInfo!
+	CHALACTAN_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	CHALACTAN_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	CHALACTAN_SHIP_renown: "Renown" #!Empty_LineInfo!
+	CHALACTAN_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_executor: "Executor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_furious: "Furious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	CHALACTAN_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	CHALACTAN_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	CHALACTAN_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	CHALACTAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	CHALACTAN_SHIP_titan: "Titan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nike: "Nike" #!Empty_LineInfo!
+	CHALACTAN_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	CHALACTAN_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	CHALACTAN_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	CHALACTAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	CHALACTAN_SHIP_katana: "Katana" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	CHALACTAN_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	CHALACTAN_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	CHALACTAN_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	CHALACTAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	CHALACTAN_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	CHALACTAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	CHALACTAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	CHALACTAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	CHALACTAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	CHALACTAN_SHIP_torch: "Torch" #!Empty_LineInfo!
+	CHALACTAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	CHALACTAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	CHALACTAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	CHALACTAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	CHALACTAN_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	CHALACTAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	CHALACTAN_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	CHALACTAN_SHIP_potential: "Potential" #!Empty_LineInfo!
+	CHALACTAN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	CHALACTAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	CHALACTAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	CHALACTAN_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_isis: "Isis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	CHALACTAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	CHALACTAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	CHALACTAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	CHALACTAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	CHALACTAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	CHALACTAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	CHALACTAN_SHIP_community: "Community" #!Empty_LineInfo!
+	CHALACTAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	CHALACTAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	CHALACTAN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_effort: "Effort" #!Empty_LineInfo!
+	CHALACTAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	CHALACTAN_SHIP_progress: "Progress" #!Empty_LineInfo!
+	CHALACTAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	CHALACTAN_SHIP_service: "Service" #!Empty_LineInfo!
+	CHALACTAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	CHALACTAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	CHALACTAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	CHALACTAN_SHIP_factory: "Factory" #!Empty_LineInfo!
+	CHALACTAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	CHALACTAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	CHALACTAN_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	CHALACTAN_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	CHALACTAN_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	CHALACTAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_acre: "Acre" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	CHALACTAN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	CHALACTAN_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	CHALACTAN_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	CHALACTAN_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	CHALACTAN_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	CHALACTAN_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	CHALACTAN_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	CHALACTAN_SHIP_newport: "Newport" #!Empty_LineInfo!
+	CHALACTAN_SHIP_guam: "Guam" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	CHALACTAN_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	CHALACTAN_SHIP_everest: "Everest" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	CHALACTAN_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	CHALACTAN_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	CHALACTAN_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	CHALACTAN_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	CHALACTAN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	CHALACTAN_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	CHALACTAN_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	CHALACTAN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	CHALACTAN_SHIP_perry: "Perry" #!Empty_LineInfo!
+	CHALACTAN_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	CHALACTAN_SHIP_morris: "Morris" #!Empty_LineInfo!
+	CHALACTAN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hart: "Hart" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	CHALACTAN_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	CHALACTAN_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	CHALACTAN_SHIP_turner: "Turner" #!Empty_LineInfo!
+	CHALACTAN_SHIP_doria: "Doria" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	CHALACTAN_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	CHALACTAN_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	CHALACTAN_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	CHALACTAN_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_durham: "Durham" #!Empty_LineInfo!
+	CHALACTAN_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	CHALACTAN_SHIP_milne: "Milne" #!Empty_LineInfo!
+	CHALACTAN_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	CHALACTAN_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	CHALACTAN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	CHALACTAN_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	CHALACTAN_SHIP_pound: "Pound" #!Empty_LineInfo!
+	CHALACTAN_SHIP_king: "King" #!Empty_LineInfo!
+	CHALACTAN_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	CHALACTAN_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	CHALACTAN_SHIP_essen: "Essen" #!Empty_LineInfo!
+	CHALACTAN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	CHALACTAN_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	CHALACTAN_SHIP_treville: "Treville" #!Empty_LineInfo!
+	CHALACTAN_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	CHALACTAN_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	CHALACTAN_SHIP_byng: "Byng" #!Empty_LineInfo!
+	CHALACTAN_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	CHALACTAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	CHALACTAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	CHALACTAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	CHALACTAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	CHALACTAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	CHALACTAN_FLEET_flotilla_ORD: "$ORD$ Flotilla" #!Empty_LineInfo!
+	CHALACTAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	CHALACTAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	CHALACTAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	CHALACTAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	CHALACTAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	CHALACTAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	CHALACTAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	CHALACTAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	CHALACTAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	CHALACTAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	CHALACTAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	CHALACTAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	CHALACTAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	CHALACTAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	CHALACTAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	CHALACTAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	CHALACTAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	CHALACTAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	CHALACTAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	CHALACTAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	CHALACTAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	CHALACTAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	CHALACTAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	CHALACTAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	CHALACTAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	CHALACTAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	CHALACTAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	CHALACTAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	CHALACTAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	CHALACTAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	CHALACTAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	CHALACTAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	CHALACTAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	CHALACTAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	CHALACTAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	CHALACTAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	CHALACTAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	CHALACTAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	CHALACTAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	CHALACTAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	CHALACTAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	CHALACTAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	CHALACTAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	CHALACTAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	CHALACTAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	CHALACTAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	CHALACTAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	CHALACTAN_CHR_bail: "Bail" #!Empty_LineInfo!
+	CHALACTAN_CHR_ylenic: "Ylenic" #!Empty_LineInfo!
+	CHALACTAN_CHR_kel: "Kel" #!Empty_LineInfo!
+	CHALACTAN_CHR_gunn: "Gunn" #!Empty_LineInfo!
+	CHALACTAN_CHR_gregory: "Gregory" #!Empty_LineInfo!
+	CHALACTAN_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
+	CHALACTAN_CHR_jonas: "Jonas" #!Empty_LineInfo!
+	CHALACTAN_CHR_xerda: "Xerda" #!Empty_LineInfo!
+	CHALACTAN_CHR_carth: "Carth" #!Empty_LineInfo!
+	CHALACTAN_CHR_kir: "Kir" #!Empty_LineInfo!
+	CHALACTAN_CHR_mebba: "Mebba" #!Empty_LineInfo!
+	CHALACTAN_CHR_dagos: "Dagos" #!Empty_LineInfo!
+	CHALACTAN_CHR_adam: "Adam" #!Empty_LineInfo!
+	CHALACTAN_CHR_kyle: "Kyle" #!Empty_LineInfo!
+	CHALACTAN_CHR_forren: "Forren" #!Empty_LineInfo!
+	CHALACTAN_CHR_malcolm: "Malcolm" #!Empty_LineInfo!
+	CHALACTAN_CHR_jeho: "Jeho" #!Empty_LineInfo!
+	CHALACTAN_CHR_lee: "Lee" #!Empty_LineInfo!
+	CHALACTAN_CHR_griggs: "Griggs" #!Empty_LineInfo!
+	CHALACTAN_CHR_milo: "Milo" #!Empty_LineInfo!
+	CHALACTAN_CHR_aeron: "Aeron" #!Empty_LineInfo!
+	CHALACTAN_CHR_byrec: "Byrec" #!Empty_LineInfo!
+	CHALACTAN_CHR_strata: "Strata" #!Empty_LineInfo!
+	CHALACTAN_CHR_lancer: "Lancer" #!Empty_LineInfo!
+	CHALACTAN_CHR_zeak: "Zeak" #!Empty_LineInfo!
+	CHALACTAN_CHR_niuk: "Niuk" #!Empty_LineInfo!
+	CHALACTAN_CHR_lavidean: "Lavidean" #!Empty_LineInfo!
+	CHALACTAN_CHR_tanizandar: "Tanizandar" #!Empty_LineInfo!
+	CHALACTAN_CHR_japla: "Japla" #!Empty_LineInfo!
+	CHALACTAN_CHR_aran: "Aran" #!Empty_LineInfo!
+	CHALACTAN_CHR_rail: "Rail" #!Empty_LineInfo!
+	CHALACTAN_CHR_zeven: "Zeven" #!Empty_LineInfo!
+	CHALACTAN_CHR_yakown: "Yakown" #!Empty_LineInfo!
+	CHALACTAN_CHR_sibar: "Sibar" #!Empty_LineInfo!
+	CHALACTAN_CHR_sair: "Sair" #!Empty_LineInfo!
+	CHALACTAN_CHR_klai: "Klai" #!Empty_LineInfo!
+	CHALACTAN_CHR_imay: "Imay" #!Empty_LineInfo!
+	CHALACTAN_CHR_traest: "Traest" #!Empty_LineInfo!
+	CHALACTAN_CHR_simo: "Simo" #!Empty_LineInfo!
+	CHALACTAN_CHR_riyan: "Riyan" #!Empty_LineInfo!
+	CHALACTAN_CHR_magnus: "Magnus" #!Empty_LineInfo!
+	CHALACTAN_CHR_boceta: "Boceta" #!Empty_LineInfo!
+	CHALACTAN_CHR_agnook: "Agnook" #!Empty_LineInfo!
+	CHALACTAN_CHR_silus: "Silus" #!Empty_LineInfo!
+	CHALACTAN_CHR_rowan: "Rowan" #!Empty_LineInfo!
+	CHALACTAN_CHR_coren: "Coren" #!Empty_LineInfo!
+	CHALACTAN_CHR_jett: "Jett" #!Empty_LineInfo!
+	CHALACTAN_CHR_linth: "Linth" #!Empty_LineInfo!
+	CHALACTAN_CHR_annor: "Annor" #!Empty_LineInfo!
+	CHALACTAN_CHR_ulas: "Ulas" #!Empty_LineInfo!
+	CHALACTAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
+	CHALACTAN_CHR_tal: "Tal" #!Empty_LineInfo!
+	CHALACTAN_CHR_plo: "Plo" #!Empty_LineInfo!
+	CHALACTAN_CHR_torin: "Torin" #!Empty_LineInfo!
+	CHALACTAN_CHR_boone: "Boone" #!Empty_LineInfo!
+	CHALACTAN_CHR_davith: "Davith" #!Empty_LineInfo!
+	CHALACTAN_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
+	CHALACTAN_CHR_bertos: "Bertos" #!Empty_LineInfo!
+	CHALACTAN_CHR_ress: "Ress" #!Empty_LineInfo!
+	CHALACTAN_CHR_malius: "Malius" #!Empty_LineInfo!
+	CHALACTAN_CHR_kale: "Kale" #!Empty_LineInfo!
+	CHALACTAN_CHR_cregan: "Cregan" #!Empty_LineInfo!
+	CHALACTAN_CHR_galen: "Galen" #!Empty_LineInfo!
+	CHALACTAN_CHR_zekk: "Zekk" #!Empty_LineInfo!
+	CHALACTAN_CHR_jinn_tu: "Jinn-Tu" #!Empty_LineInfo!
+	CHALACTAN_CHR_jaryn: "Jaryn" #!Empty_LineInfo!
+	CHALACTAN_CHR_gentti: "Gentti" #!Empty_LineInfo!
+	CHALACTAN_CHR_yu_sien: "Yu-Sien" #!Empty_LineInfo!
+	CHALACTAN_CHR_akela: "Akela" #!Empty_LineInfo!
+	CHALACTAN_CHR_arslan: "Arslan" #!Empty_LineInfo!
+	CHALACTAN_CHR_sidias: "Sidias" #!Empty_LineInfo!
+	CHALACTAN_CHR_haken: "Haken" #!Empty_LineInfo!
+	CHALACTAN_CHR_biran: "Biran" #!Empty_LineInfo!
+	CHALACTAN_CHR_vidown: "Vidown" #!Empty_LineInfo!
+	CHALACTAN_CHR_ares: "Ares" #!Empty_LineInfo!
+	CHALACTAN_CHR_ithan: "Ithan" #!Empty_LineInfo!
+	CHALACTAN_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
+	CHALACTAN_CHR_thoja: "Thoja" #!Empty_LineInfo!
+	CHALACTAN_CHR_cron: "Cron" #!Empty_LineInfo!
+	CHALACTAN_CHR_mossi: "Mossi" #!Empty_LineInfo!
+	CHALACTAN_CHR_abric: "Abric" #!Empty_LineInfo!
+	CHALACTAN_CHR_darg: "Darg" #!Empty_LineInfo!
+	CHALACTAN_CHR_gaman: "Gaman" #!Empty_LineInfo!
+	CHALACTAN_CHR_naiad: "Naiad" #!Empty_LineInfo!
+	CHALACTAN_CHR_herub: "Herub" #!Empty_LineInfo!
+	CHALACTAN_CHR_marius: "Marius" #!Empty_LineInfo!
+	CHALACTAN_CHR_torkin: "Torkin" #!Empty_LineInfo!
+	CHALACTAN_CHR_caton: "Caton" #!Empty_LineInfo!
+	CHALACTAN_CHR_kane: "Kane" #!Empty_LineInfo!
+	CHALACTAN_CHR_versita: "Versita" #!Empty_LineInfo!
+	CHALACTAN_CHR_cric: "Cric" #!Empty_LineInfo!
+	CHALACTAN_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
+	CHALACTAN_CHR_montacca: "Montacca" #!Empty_LineInfo!
+	CHALACTAN_CHR_jospi: "Jospi" #!Empty_LineInfo!
+	CHALACTAN_CHR_baz: "Baz" #!Empty_LineInfo!
+	CHALACTAN_CHR_kam: "Kam" #!Empty_LineInfo!
+	CHALACTAN_CHR_erek: "Erek" #!Empty_LineInfo!
+	CHALACTAN_CHR_lerak: "Lerak" #!Empty_LineInfo!
+	CHALACTAN_CHR_morla: "Morla" #!Empty_LineInfo!
+	CHALACTAN_CHR_baxter: "Baxter" #!Empty_LineInfo!
+	CHALACTAN_CHR_talan: "Talan" #!Empty_LineInfo!
+	CHALACTAN_CHR_thion: "Thion" #!Empty_LineInfo!
+	CHALACTAN_CHR_kannon: "Kannon" #!Empty_LineInfo!
+	CHALACTAN_CHR_corsair: "Corsair" #!Empty_LineInfo!
+	CHALACTAN_CHR_caster: "Caster" #!Empty_LineInfo!
+	CHALACTAN_CHR_elden: "Elden" #!Empty_LineInfo!
+	CHALACTAN_CHR_faelgrom: "Faelgrom" #!Empty_LineInfo!
+	CHALACTAN_CHR_jack: "Jack" #!Empty_LineInfo!
+	CHALACTAN_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
+	CHALACTAN_CHR_flash: "Flash" #!Empty_LineInfo!
+	CHALACTAN_CHR_waseem: "Waseem" #!Empty_LineInfo!
+	CHALACTAN_CHR_bendak: "Bendak" #!Empty_LineInfo!
+	CHALACTAN_CHR_kaz: "Kaz" #!Empty_LineInfo!
+	CHALACTAN_CHR_montileu: "Montileu" #!Empty_LineInfo!
+	CHALACTAN_CHR_gonoga: "Gonoga" #!Empty_LineInfo!
+	CHALACTAN_CHR_galven: "Galven" #!Empty_LineInfo!
+	CHALACTAN_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
+	CHALACTAN_CHR_ric: "Ric" #!Empty_LineInfo!
+	CHALACTAN_CHR_rebar: "Rebar" #!Empty_LineInfo!
+	CHALACTAN_CHR_jebediah: "Jebediah" #!Empty_LineInfo!
+	CHALACTAN_CHR_aramil: "Aramil" #!Empty_LineInfo!
+	CHALACTAN_CHR_delmi: "Delmi" #!Empty_LineInfo!
+	CHALACTAN_CHR_caalin: "Caalin" #!Empty_LineInfo!
+	CHALACTAN_CHR_rassth: "Rassth" #!Empty_LineInfo!
+	CHALACTAN_CHR_adorn: "Adorn" #!Empty_LineInfo!
+	CHALACTAN_CHR_cyrus: "Cyrus" #!Empty_LineInfo!
+	CHALACTAN_CHR_zhar_khan: "Zhar-Khan" #!Empty_LineInfo!
+	CHALACTAN_CHR_predor: "Predor" #!Empty_LineInfo!
+	CHALACTAN_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
+	CHALACTAN_CHR_boaz: "Boaz" #!Empty_LineInfo!
+	CHALACTAN_CHR_bradley: "Bradley" #!Empty_LineInfo!
+	CHALACTAN_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
+	CHALACTAN_CHR_bobecc: "Bobecc" #!Empty_LineInfo!
+	CHALACTAN_CHR_jelantos: "Jelantos" #!Empty_LineInfo!
+	CHALACTAN_CHR_jephego: "Jephego" #!Empty_LineInfo!
+	CHALACTAN_CHR_svante: "Svante" #!Empty_LineInfo!
+	CHALACTAN_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
+	CHALACTAN_CHR_aeon: "Aeon" #!Empty_LineInfo!
+	CHALACTAN_CHR_dekar: "Dekar" #!Empty_LineInfo!
+	CHALACTAN_CHR_jean_francois: "Jean-Francois" #!Empty_LineInfo!
+	CHALACTAN_CHR_elen: "Elen" #!Empty_LineInfo!
+	CHALACTAN_CHR_han: "Han" #!Empty_LineInfo!
+	CHALACTAN_CHR_owen: "Owen" #!Empty_LineInfo!
+	CHALACTAN_CHR_biggs: "Biggs" #!Empty_LineInfo!
+	CHALACTAN_CHR_charratha: "Charratha" #!Empty_LineInfo!
+	CHALACTAN_CHR_edaara: "Edaara" #!Empty_LineInfo!
+	CHALACTAN_CHR_bella: "Bella" #!Empty_LineInfo!
+	CHALACTAN_CHR_callista: "Callista" #!Empty_LineInfo!
+	CHALACTAN_CHR_mara: "Mara" #!Empty_LineInfo!
+	CHALACTAN_CHR_seena: "Seena" #!Empty_LineInfo!
+	CHALACTAN_CHR_areta: "Areta" #!Empty_LineInfo!
+	CHALACTAN_CHR_cord: "Cord" #!Empty_LineInfo!
+	CHALACTAN_CHR_cyrinity: "Cyrinity" #!Empty_LineInfo!
+	CHALACTAN_CHR_nile: "Nile" #!Empty_LineInfo!
+	CHALACTAN_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
+	CHALACTAN_CHR_yasmyn: "Yasmyn" #!Empty_LineInfo!
+	CHALACTAN_CHR_satra: "Satra" #!Empty_LineInfo!
+	CHALACTAN_CHR_shehish: "Shehish" #!Empty_LineInfo!
+	CHALACTAN_CHR_sarna: "Sarna" #!Empty_LineInfo!
+	CHALACTAN_CHR_krava: "Krava" #!Empty_LineInfo!
+	CHALACTAN_CHR_roxis: "Roxis" #!Empty_LineInfo!
+	CHALACTAN_CHR_jessa: "Jessa" #!Empty_LineInfo!
+	CHALACTAN_CHR_aqua: "Aqua" #!Empty_LineInfo!
+	CHALACTAN_CHR_maryna: "Maryna" #!Empty_LineInfo!
+	CHALACTAN_CHR_essaj: "Essaj" #!Empty_LineInfo!
+	CHALACTAN_CHR_looriw: "Looriw" #!Empty_LineInfo!
+	CHALACTAN_CHR_teeana: "Teeana" #!Empty_LineInfo!
+	CHALACTAN_CHR_raena: "Raena" #!Empty_LineInfo!
+	CHALACTAN_CHR_yula: "Yula" #!Empty_LineInfo!
+	CHALACTAN_CHR_vifi: "Vifi" #!Empty_LineInfo!
+	CHALACTAN_CHR_vania: "Vania" #!Empty_LineInfo!
+	CHALACTAN_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
+	CHALACTAN_CHR_aerena: "Aerena" #!Empty_LineInfo!
+	CHALACTAN_CHR_nataya: "Nataya" #!Empty_LineInfo!
+	CHALACTAN_CHR_bernarda: "Bernarda" #!Empty_LineInfo!
+	CHALACTAN_CHR_geela: "Geela" #!Empty_LineInfo!
+	CHALACTAN_CHR_lya: "Lya" #!Empty_LineInfo!
+	CHALACTAN_CHR_sirra: "Sirra" #!Empty_LineInfo!
+	CHALACTAN_CHR_teris: "Teris" #!Empty_LineInfo!
+	CHALACTAN_CHR_terral: "Terral" #!Empty_LineInfo!
+	CHALACTAN_CHR_riema: "Riema" #!Empty_LineInfo!
+	CHALACTAN_CHR_erri: "Erri" #!Empty_LineInfo!
+	CHALACTAN_CHR_shanna: "Shanna" #!Empty_LineInfo!
+	CHALACTAN_CHR_lyra: "Lyra" #!Empty_LineInfo!
+	CHALACTAN_CHR_pranda: "Pranda" #!Empty_LineInfo!
+	CHALACTAN_CHR_luna: "Luna" #!Empty_LineInfo!
+	CHALACTAN_CHR_cally: "Cally" #!Empty_LineInfo!
+	CHALACTAN_CHR_viqi: "Viqi" #!Empty_LineInfo!
+	CHALACTAN_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
+	CHALACTAN_CHR_lora: "Lora" #!Empty_LineInfo!
+	CHALACTAN_CHR_selena: "Selena" #!Empty_LineInfo!
+	CHALACTAN_CHR_zana: "Zana" #!Empty_LineInfo!
+	CHALACTAN_CHR_tuija: "Tuija" #!Empty_LineInfo!
+	CHALACTAN_CHR_railin: "Railin" #!Empty_LineInfo!
+	CHALACTAN_CHR_odona: "Odona" #!Empty_LineInfo!
+	CHALACTAN_CHR_shyon: "Shyon" #!Empty_LineInfo!
+	CHALACTAN_CHR_walas: "Walas" #!Empty_LineInfo!
+	CHALACTAN_CHR_rylla: "Rylla" #!Empty_LineInfo!
+	CHALACTAN_CHR_gara: "Gara" #!Empty_LineInfo!
+	CHALACTAN_CHR_delos: "Delos" #!Empty_LineInfo!
+	CHALACTAN_CHR_loretta: "Loretta" #!Empty_LineInfo!
+	CHALACTAN_CHR_luhon: "Luhon" #!Empty_LineInfo!
+	CHALACTAN_CHR_delinia: "Delinia" #!Empty_LineInfo!
+	CHALACTAN_CHR_aama: "Aama" #!Empty_LineInfo!
+	CHALACTAN_CHR_shorya: "Shorya" #!Empty_LineInfo!
+	CHALACTAN_CHR_melfina: "Melfina" #!Empty_LineInfo!
+	CHALACTAN_CHR_davessi: "Davessi" #!Empty_LineInfo!
+	CHALACTAN_CHR_larana: "Larana" #!Empty_LineInfo!
+	CHALACTAN_CHR_galatea: "Galatea" #!Empty_LineInfo!
+	CHALACTAN_CHR_nola: "Nola" #!Empty_LineInfo!
+	CHALACTAN_CHR_syna: "Syna" #!Empty_LineInfo!
+	CHALACTAN_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
+	CHALACTAN_CHR_anen: "Anen" #!Empty_LineInfo!
+	CHALACTAN_CHR_orona: "Orona" #!Empty_LineInfo!
+	CHALACTAN_CHR_yana: "Yana" #!Empty_LineInfo!
+	CHALACTAN_CHR_zoras: "Zoras" #!Empty_LineInfo!
+	CHALACTAN_CHR_ree: "Ree" #!Empty_LineInfo!
+	CHALACTAN_CHR_grace: "Grace" #!Empty_LineInfo!
+	CHALACTAN_CHR_tantema: "Tantema" #!Empty_LineInfo!
+	CHALACTAN_CHR_myn: "Myn" #!Empty_LineInfo!
+	CHALACTAN_CHR_una: "Una" #!Empty_LineInfo!
+	CHALACTAN_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
+	CHALACTAN_CHR_losa: "Losa" #!Empty_LineInfo!
+	CHALACTAN_CHR_sovi: "Sovi" #!Empty_LineInfo!
+	CHALACTAN_CHR_elaiza: "Elaiza" #!Empty_LineInfo!
+	CHALACTAN_CHR_vucora: "Vucora" #!Empty_LineInfo!
+	CHALACTAN_CHR_ava: "Ava" #!Empty_LineInfo!
+	CHALACTAN_CHR_joi: "Joi" #!Empty_LineInfo!
+	CHALACTAN_CHR_stryka: "Stryka" #!Empty_LineInfo!
+	CHALACTAN_CHR_shandra: "Shandra" #!Empty_LineInfo!
+	CHALACTAN_CHR_kely: "Kely" #!Empty_LineInfo!
+	CHALACTAN_CHR_caileta: "Caileta" #!Empty_LineInfo!
+	CHALACTAN_CHR_taia: "Taia" #!Empty_LineInfo!
+	CHALACTAN_CHR_siala: "Siala" #!Empty_LineInfo!
+	CHALACTAN_CHR_reki: "Reki" #!Empty_LineInfo!
+	CHALACTAN_CHR_maydla: "Maydla" #!Empty_LineInfo!
+	CHALACTAN_CHR_bot: "Bot" #!Empty_LineInfo!
+	CHALACTAN_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
+	CHALACTAN_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
+	CHALACTAN_CHR_zulara: "Zulara" #!Empty_LineInfo!
+	CHALACTAN_CHR_ren: "Ren" #!Empty_LineInfo!
+	CHALACTAN_CHR_karissa: "Karissa" #!Empty_LineInfo!
+	CHALACTAN_CHR_haruko: "Haruko" #!Empty_LineInfo!
+	CHALACTAN_CHR_jenna: "Jenna" #!Empty_LineInfo!
+	CHALACTAN_CHR_liana: "Liana" #!Empty_LineInfo!
+	CHALACTAN_CHR_rale: "Rale" #!Empty_LineInfo!
+	CHALACTAN_CHR_megara: "Megara" #!Empty_LineInfo!
+	CHALACTAN_CHR_aria: "Aria" #!Empty_LineInfo!
+	CHALACTAN_CHR_akiva: "Akiva" #!Empty_LineInfo!
+	CHALACTAN_CHR_nalah: "Nalah" #!Empty_LineInfo!
+	CHALACTAN_CHR_erlem: "Erlem" #!Empty_LineInfo!
+	CHALACTAN_CHR_nali: "Nali" #!Empty_LineInfo!
+	CHALACTAN_CHR_fallah: "Fallah" #!Empty_LineInfo!
+	CHALACTAN_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
+	CHALACTAN_CHR_aayla: "Aayla" #!Empty_LineInfo!
+	CHALACTAN_CHR_kalira: "Kalira" #!Empty_LineInfo!
+	CHALACTAN_CHR_arani: "Arani" #!Empty_LineInfo!
+	CHALACTAN_CHR_fama: "Fama" #!Empty_LineInfo!
+	CHALACTAN_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
+	CHALACTAN_CHR_arcas: "Arcas" #!Empty_LineInfo!
+	CHALACTAN_CHR_rane: "Rane" #!Empty_LineInfo!
+	CHALACTAN_CHR_nayru: "Nayru" #!Empty_LineInfo!
+	CHALACTAN_CHR_zylas: "Zylas" #!Empty_LineInfo!
+	CHALACTAN_CHR_vexa: "Vexa" #!Empty_LineInfo!
+	CHALACTAN_CHR_kana: "Kana" #!Empty_LineInfo!
+	CHALACTAN_CHR_beru: "Beru" #!Empty_LineInfo!
+	CHALACTAN_CHR_elysar: "Elysar" #!Empty_LineInfo!
+	CHALACTAN_CHR_tisa: "Tisa" #!Empty_LineInfo!
+	CHALACTAN_CHR_wahia: "Wahia" #!Empty_LineInfo!
+	CHALACTAN_CHR_wezz: "Wezz" #!Empty_LineInfo!
+	CHALACTAN_CHR_unic: "Unic" #!Empty_LineInfo!
+	CHALACTAN_CHR_tiovata: "Tiovata" #!Empty_LineInfo!
+	CHALACTAN_CHR_nakcohh: "Nakcohh" #!Empty_LineInfo!
+	CHALACTAN_CHR_vitaan: "Vitaan" #!Empty_LineInfo!
+	CHALACTAN_CHR_mefrid: "Mefrid" #!Empty_LineInfo!
+	CHALACTAN_CHR_daklan: "Daklan" #!Empty_LineInfo!
+	CHALACTAN_CHR_kenzee: "Kenzee" #!Empty_LineInfo!
+	CHALACTAN_CHR_joben: "Joben" #!Empty_LineInfo!
+	CHALACTAN_CHR_thegas: "Thegas" #!Empty_LineInfo!
+	CHALACTAN_CHR_moryne: "Moryne" #!Empty_LineInfo!
+	CHALACTAN_CHR_holgor: "Holgor" #!Empty_LineInfo!
+	CHALACTAN_CHR_ijaaz: "Ijaaz" #!Empty_LineInfo!
+	CHALACTAN_CHR_tromans: "Tromans" #!Empty_LineInfo!
+	CHALACTAN_CHR_sprax: "Sprax" #!Empty_LineInfo!
+	CHALACTAN_CHR_knesos: "Knesos" #!Empty_LineInfo!
+	CHALACTAN_CHR_lasek: "Lasek" #!Empty_LineInfo!
+	CHALACTAN_CHR_artis: "Artis" #!Empty_LineInfo!
+	CHALACTAN_CHR_pax: "Pax" #!Empty_LineInfo!
+	CHALACTAN_CHR_corso: "Corso" #!Empty_LineInfo!
+	CHALACTAN_CHR_fallon: "Fallon" #!Empty_LineInfo!
+	CHALACTAN_CHR_gundo: "Gundo" #!Empty_LineInfo!
+	CHALACTAN_CHR_ruana: "Ruana" #!Empty_LineInfo!
+	CHALACTAN_CHR_fremlin: "Fremlin" #!Empty_LineInfo!
+	CHALACTAN_CHR_thont: "Thont" #!Empty_LineInfo!
+	CHALACTAN_CHR_creel: "Creel" #!Empty_LineInfo!
+	CHALACTAN_CHR_rar: "Rar" #!Empty_LineInfo!
+	CHALACTAN_CHR_dusat: "Dusat" #!Empty_LineInfo!
+	CHALACTAN_CHR_kessler: "Kessler" #!Empty_LineInfo!
+	CHALACTAN_CHR_shaia: "Shaia" #!Empty_LineInfo!
+	CHALACTAN_CHR_el_theriam: "El-Theriam" #!Empty_LineInfo!
+	CHALACTAN_CHR_vanmeer: "VanMeer" #!Empty_LineInfo!
+	CHALACTAN_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
+	CHALACTAN_CHR_calway: "Calway" #!Empty_LineInfo!
+	CHALACTAN_CHR_yamaguchi: "Yamaguchi" #!Empty_LineInfo!
+	CHALACTAN_CHR_riggers: "Riggers" #!Empty_LineInfo!
+	CHALACTAN_CHR_brower: "Brower" #!Empty_LineInfo!
+	CHALACTAN_CHR_fash: "Fash" #!Empty_LineInfo!
+	CHALACTAN_CHR_nalto: "Nalto" #!Empty_LineInfo!
+	CHALACTAN_CHR_stryder: "Stryder" #!Empty_LineInfo!
+	CHALACTAN_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
+	CHALACTAN_CHR_colsan: "Colsan" #!Empty_LineInfo!
+	CHALACTAN_CHR_terrek: "Terrek" #!Empty_LineInfo!
+	CHALACTAN_CHR_solon: "Solon" #!Empty_LineInfo!
+	CHALACTAN_CHR_merquise: "Merquise" #!Empty_LineInfo!
+	CHALACTAN_CHR_varn: "Varn" #!Empty_LineInfo!
+	CHALACTAN_CHR_basai: "Basai" #!Empty_LineInfo!
+	CHALACTAN_CHR_froud: "Froud" #!Empty_LineInfo!
+	CHALACTAN_CHR_addacess: "Addacess" #!Empty_LineInfo!
+	CHALACTAN_CHR_durgen: "Durgen" #!Empty_LineInfo!
+	CHALACTAN_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
+	CHALACTAN_CHR_remex: "Remex" #!Empty_LineInfo!
+	CHALACTAN_CHR_madowki: "Madowki" #!Empty_LineInfo!
+	CHALACTAN_CHR_hayes: "Hayes" #!Empty_LineInfo!
+	CHALACTAN_CHR_ne: "Ne" #!Empty_LineInfo!
+	CHALACTAN_CHR_dago: "Dago" #!Empty_LineInfo!
+	CHALACTAN_CHR_greenback: "Greenback" #!Empty_LineInfo!
+	CHALACTAN_CHR_stithta: "Stithta" #!Empty_LineInfo!
+	CHALACTAN_CHR_ker: "Ker" #!Empty_LineInfo!
+	CHALACTAN_CHR_driet: "Driet" #!Empty_LineInfo!
+	CHALACTAN_CHR_klakk: "Klakk" #!Empty_LineInfo!
+	CHALACTAN_CHR_reed: "Reed" #!Empty_LineInfo!
+	CHALACTAN_CHR_lefex: "Lefex" #!Empty_LineInfo!
+	CHALACTAN_CHR_minn: "Minn" #!Empty_LineInfo!
+	CHALACTAN_CHR_irokini: "Irokini" #!Empty_LineInfo!
+	CHALACTAN_CHR_roye: "Roye" #!Empty_LineInfo!
+	CHALACTAN_CHR_danakar: "Danakar" #!Empty_LineInfo!
+	CHALACTAN_CHR_forin: "Forin" #!Empty_LineInfo!
+	CHALACTAN_CHR_glopio: "Glopio" #!Empty_LineInfo!
+	CHALACTAN_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
+	CHALACTAN_CHR_corcer: "Corcer" #!Empty_LineInfo!
+	CHALACTAN_CHR_ordo: "Ordo" #!Empty_LineInfo!
+	CHALACTAN_CHR_wan: "Wan" #!Empty_LineInfo!
+	CHALACTAN_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
+	CHALACTAN_CHR_golladio: "Golladio" #!Empty_LineInfo!
+	CHALACTAN_CHR_adramcsia: "Adramcsia" #!Empty_LineInfo!
+	CHALACTAN_CHR_jetberg: "Jetberg" #!Empty_LineInfo!
+	CHALACTAN_CHR_noth: "Noth" #!Empty_LineInfo!
+	CHALACTAN_CHR_taske: "Taske" #!Empty_LineInfo!
+	CHALACTAN_CHR_komo: "Komo" #!Empty_LineInfo!
+	CHALACTAN_CHR_styles: "Styles" #!Empty_LineInfo!
+	CHALACTAN_CHR_angavel: "Angavel" #!Empty_LineInfo!
+	CHALACTAN_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
+	CHALACTAN_CHR_yavoog: "Yavoog" #!Empty_LineInfo!
+	CHALACTAN_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
+	CHALACTAN_CHR_racto: "Racto" #!Empty_LineInfo!
+	CHALACTAN_CHR_degor: "Degor" #!Empty_LineInfo!
+	CHALACTAN_CHR_magre: "Magre" #!Empty_LineInfo!
+	CHALACTAN_CHR_soylon: "Soylon" #!Empty_LineInfo!
+	CHALACTAN_CHR_lerann: "Lerann" #!Empty_LineInfo!
+	CHALACTAN_CHR_chro: "Chro" #!Empty_LineInfo!
+	CHALACTAN_CHR_finn: "Finn" #!Empty_LineInfo!
+	CHALACTAN_CHR_blackmoor: "Blackmoor" #!Empty_LineInfo!
+	CHALACTAN_CHR_hwang: "Hwang" #!Empty_LineInfo!
+	CHALACTAN_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
+	CHALACTAN_CHR_amon: "Amon" #!Empty_LineInfo!
+	CHALACTAN_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
+	CHALACTAN_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
+	CHALACTAN_CHR_gilder: "Gilder" #!Empty_LineInfo!
+	CHALACTAN_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
+	CHALACTAN_CHR_kodd: "Kodd" #!Empty_LineInfo!
+	CHALACTAN_CHR_morin: "Morin" #!Empty_LineInfo!
+	CHALACTAN_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
+	CHALACTAN_CHR_tade: "Tade" #!Empty_LineInfo!
+	CHALACTAN_CHR_solman: "Solman" #!Empty_LineInfo!
+	CHALACTAN_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
+	CHALACTAN_CHR_marclonus: "Marclonus" #!Empty_LineInfo!
+	CHALACTAN_CHR_precore: "Precore" #!Empty_LineInfo!
+	CHALACTAN_CHR_solborne: "Solborne" #!Empty_LineInfo!
+	CHALACTAN_CHR_bailer: "Bailer" #!Empty_LineInfo!
+	CHALACTAN_CHR_katarn: "Katarn" #!Empty_LineInfo!
+	CHALACTAN_CHR_anjek: "Anjek" #!Empty_LineInfo!
+	CHALACTAN_CHR_dalgas: "Dalgas" #!Empty_LineInfo!
+	CHALACTAN_CHR_kast: "Kast" #!Empty_LineInfo!
+	CHALACTAN_CHR_airerith: "Airerith" #!Empty_LineInfo!
+	CHALACTAN_CHR_halo: "Halo" #!Empty_LineInfo!
+	CHALACTAN_CHR_clash: "Clash" #!Empty_LineInfo!
+	CHALACTAN_CHR_jalba: "Jalba" #!Empty_LineInfo!
+	CHALACTAN_CHR_benn: "Benn" #!Empty_LineInfo!
+	CHALACTAN_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
+	CHALACTAN_CHR_roice: "Roice" #!Empty_LineInfo!
+	CHALACTAN_CHR_lokar: "Lokar" #!Empty_LineInfo!
+	CHALACTAN_CHR_korpil: "Korpil" #!Empty_LineInfo!
+	CHALACTAN_CHR_turon: "Turon" #!Empty_LineInfo!
+	CHALACTAN_CHR_cavi: "Cavi" #!Empty_LineInfo!
+	CHALACTAN_CHR_deece: "Deece" #!Empty_LineInfo!
+	CHALACTAN_CHR_braitano: "Braitano" #!Empty_LineInfo!
+	CHALACTAN_CHR_garnik: "Garnik" #!Empty_LineInfo!
+	CHALACTAN_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
+	CHALACTAN_CHR_ka_taramas: "Ka'Taramas" #!Empty_LineInfo!
+	CHALACTAN_CHR_nuwest: "Nuwest" #!Empty_LineInfo!
+	CHALACTAN_CHR_forte: "Forte" #!Empty_LineInfo!
+	CHALACTAN_CHR_noshey: "Noshey" #!Empty_LineInfo!
+	CHALACTAN_CHR_gyyll: "Gyyll" #!Empty_LineInfo!
+	CHALACTAN_CHR_tallon: "Tallon" #!Empty_LineInfo!
+	CHALACTAN_CHR_lionne: "Lionne" #!Empty_LineInfo!
+	CHALACTAN_CHR_adras: "Adras" #!Empty_LineInfo!
+	CHALACTAN_CHR_peoly: "Peoly" #!Empty_LineInfo!
+	CHALACTAN_CHR_damiel: "Damiel" #!Empty_LineInfo!
+	CHALACTAN_CHR_chup_pau: "Chup-Pau" #!Empty_LineInfo!
+	CHALACTAN_CHR_drayven: "Drayven" #!Empty_LineInfo!
+	CHALACTAN_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
+	CHALACTAN_CHR_bela_trepada: "Bela-Trepada" #!Empty_LineInfo!
+	CHALACTAN_CHR_defelice: "Defelice" #!Empty_LineInfo!
+	CHALACTAN_CHR_monsula: "Monsula" #!Empty_LineInfo!
+	CHALACTAN_CHR_baralein: "Baralein" #!Empty_LineInfo!
+	CHALACTAN_CHR_denive: "Denive" #!Empty_LineInfo!
+	CHALACTAN_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
+	CHALACTAN_CHR_xergo: "Xergo" #!Empty_LineInfo!
+	CHALACTAN_CHR_sarat: "Sarat" #!Empty_LineInfo!
+	CHALACTAN_CHR_vercet: "Vercet" #!Empty_LineInfo!
+	CHALACTAN_CHR_ossaki: "Ossaki" #!Empty_LineInfo!
+	CHALACTAN_CHR_kappa: "Kappa" #!Empty_LineInfo!
+	CHALACTAN_CHR_zerga: "Zerga" #!Empty_LineInfo!
+	CHALACTAN_CHR_kopos: "Kopos" #!Empty_LineInfo!
+	CHALACTAN_CHR_aldrecht: "Aldrecht" #!Empty_LineInfo!
+	CHALACTAN_CHR_bohme: "Bohme" #!Empty_LineInfo!
+	CHALACTAN_CHR_tull: "Tull" #!Empty_LineInfo!
+	CHALACTAN_CHR_eldrel: "Eldrel" #!Empty_LineInfo!
+	CHALACTAN_CHR_marh: "Marh" #!Empty_LineInfo!
+	CHALACTAN_CHR_darksword: "Darksword" #!Empty_LineInfo!
+	CHALACTAN_CHR_krandor: "Krandor" #!Empty_LineInfo!
+	CHALACTAN_CHR_montag: "Montag" #!Empty_LineInfo!
+	CHALACTAN_CHR_dimodan: "Dimodan" #!Empty_LineInfo!
+	CHALACTAN_CHR_starfallen: "Starfallen" #!Empty_LineInfo!
+	CHALACTAN_CHR_fett: "Fett" #!Empty_LineInfo!
+	CHALACTAN_CHR_mohebbi: "Mohebbi" #!Empty_LineInfo!
+	CHALACTAN_CHR_runalian: "Runalian" #!Empty_LineInfo!
+	CHALACTAN_CHR_binette: "Binette" #!Empty_LineInfo!
+	CHALACTAN_CHR_laurent: "Laurent" #!Empty_LineInfo!
+	CHALACTAN_CHR_mavr: "Mavr" #!Empty_LineInfo!
+	CHALACTAN_CHR_ryra: "Ryra" #!Empty_LineInfo!
+	CHALACTAN_CHR_truden: "Truden" #!Empty_LineInfo!
+	CHALACTAN_CHR_solo: "Solo" #!Empty_LineInfo!
+	CHALACTAN_CHR_lars: "Lars" #!Empty_LineInfo!
+	CHALACTAN_CHR_amedda: "Amedda" #!Empty_LineInfo!
+	CHALACTAN_CHR_amidala: "Amidala" #!Empty_LineInfo!
+	CHALACTAN_CHR_andrell: "Andrell" #!Empty_LineInfo!
+	CHALACTAN_CHR_annon: "Annon" #!Empty_LineInfo!
+	CHALACTAN_CHR_antilles: "Antilles" #!Empty_LineInfo!
+	CHALACTAN_CHR_atanna: "Atanna" #!Empty_LineInfo!
+	CHALACTAN_CHR_baab: "Baab" #!Empty_LineInfo!
+	CHALACTAN_CHR_barc: "Barc" #!Empty_LineInfo!
+	CHALACTAN_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
+	CHALACTAN_CHR_breemu: "Breemu" #!Empty_LineInfo!
+	CHALACTAN_CHR_bremack: "Bremack" #!Empty_LineInfo!
+	CHALACTAN_CHR_bronk: "Bronk" #!Empty_LineInfo!
+	CHALACTAN_CHR_burtoni: "Burtoni" #!Empty_LineInfo!
+	CHALACTAN_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
+	CHALACTAN_CHR_callen: "Callen" #!Empty_LineInfo!
+	CHALACTAN_CHR_clovis: "Clovis" #!Empty_LineInfo!
+	CHALACTAN_CHR_ledwellow: "Ledwellow" #!Empty_LineInfo!
+	CHALACTAN_CHR_dio: "Dio" #!Empty_LineInfo!
+	CHALACTAN_CHR_organa: "Organa" #!Empty_LineInfo!
+	CHALACTAN_CHR_mas: "Mas" #!Empty_LineInfo!
+	CHALACTAN_CHR_wain: "Wain" #!Empty_LineInfo!
+	CHALACTAN_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
+	CHALACTAN_CHR_dewell: "Dewell" #!Empty_LineInfo!
+	CHALACTAN_CHR_tanner: "Tanner" #!Empty_LineInfo!
+	CHALACTAN_CHR_vi: "Vi" #!Empty_LineInfo!
+	CHALACTAN_CHR_rush: "Rush" #!Empty_LineInfo!
+	CHALACTAN_CHR_danry: "Danry" #!Empty_LineInfo!
+	CHALACTAN_CHR_padm_: "Padmé" #!Empty_LineInfo!
+	CHALACTAN_CHR_fema: "Fema" #!Empty_LineInfo!
+	CHALACTAN_CHR_mina: "Mina" #!Empty_LineInfo!
+	CHALACTAN_CHR_bana: "Bana" #!Empty_LineInfo!
+	CHALACTAN_CHR_tyreca: "Tyreca" #!Empty_LineInfo!
+	CHALACTAN_CHR_halle: "Halle" #!Empty_LineInfo!
+	CHALACTAN_CHR_lexi: "Lexi" #!Empty_LineInfo!
+	CHALACTAN_CHR_leia: "Leia" #!Empty_LineInfo!
+	CHALACTAN_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
+	CHALACTAN_CHR_leanna: "Leanna" #!Empty_LineInfo!
+	CHALACTAN_CHR_arya: "Arya" #!Empty_LineInfo!
+	CHALACTAN_CHR_panteer: "Panteer" #!Empty_LineInfo!
+	CHALACTAN_CHR_alde: "Alde" #!Empty_LineInfo!
+	CHALACTAN_CHR_frayus: "Frayus" #!Empty_LineInfo!
+	CHALACTAN_CHR_cortess: "Cortess" #!Empty_LineInfo!
+	CHALACTAN_CHR_killesa: "Killesa" #!Empty_LineInfo!

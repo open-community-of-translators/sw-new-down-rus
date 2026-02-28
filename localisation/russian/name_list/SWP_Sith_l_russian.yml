@@ -1,863 +1,863 @@
 ﻿l_russian:
-	SITH_SHIP_red_engine: "Red Engine"
-	SITH_SHIP_shyrak: "Shyrak"
-	SITH_SHIP_tukata: "Tukata"
-	SITH_SHIP_vix_tra: "Vix'tra"
-	SITH_SHIP_zash: "Zash"
-	SITH_SHIP_hereditary: "Hereditary"
-	SITH_SHIP_inquisitor: "Inquisitor"
-	SITH_SHIP_juggernaut: "Juggernaut"
-	SITH_SHIP_assassin: "Assassin"
-	SITH_SHIP_caltrop: "Caltrop"
-	SITH_SHIP_reaver: "Reaver"
-	SITH_SHIP_reaper: "Reaper"
-	SITH_SHIP_blood_eagle: "Blood Eagle"
-	SITH_SHIP_lord_of_hate: "Lord of Hate"
-	SITH_SHIP_khem_val: "Khem Val"
-	SITH_SHIP_gathering_dark: "Gathering Dark"
-	SITH_SHIP_veshikk: "Veshikk"
-	SITH_SHIP_aloysius: "Aloysius"
-	SITH_SHIP_thanaton: "Thanaton"
-	SITH_SHIP_ludo_kressh: "Ludo Kressh"
-	SITH_SHIP_horak_mul: "Horak-mul"
-	SITH_SHIP_dor_galran: "Dor Galran"
-	SITH_SHIP_supremacy: "Supremacy"
-	SITH_SHIP_conflagration: "Conflagration"
-	SITH_SHIP_enchantress: "Enchantress"
-	SITH_SHIP_sarcophagus: "Sarcophagus"
-	SITH_SHIP_occultant: "Occultant"
-	SITH_SHIP_immolator: "Immolator"
-	SITH_SHIP_pestilence: "Pestilence"
-	SITH_SHIP_pureblood: "Pureblood"
-	SITH_SHIP_purifier: "Purifier"
-	SITH_SHIP_defiler: "Defiler"
-	SITH_SHIP_mortis: "Mortis"
-	SITH_SHIP_leper: "Leper"
-	SITH_SHIP_first_heretic: "First Heretic"
-	SITH_SHIP_apotheisis: "Apotheisis"
-	SITH_SHIP_neophyte: "Neophyte"
-	SITH_SHIP_hexid: "Hexid"
-	SITH_SHIP_kancras: "Kancras"
-	SITH_SHIP_mellichae: "Mellichae"
-	SITH_SHIP_shadow: "Shadow"
-	SITH_SHIP_raxxus: "Raxxus"
-	SITH_SHIP_simi: "Simi"
-	SITH_SHIP_val: "Val"
-	SITH_SHIP_plagueis: "Plagueis"
-	SITH_SHIP_gen_dai_reward: "Gen'Dai Reward"
-	SITH_SHIP_eradicator: "Eradicator"
-	SITH_SHIP_lokess: "Lokess"
-	SITH_SHIP_nathema: "Nathema"
-	SITH_SHIP_ovair: "Ovair"
-	SITH_SHIP_baras: "Baras"
-	SITH_SHIP_ziroxin: "Ziroxin"
-	SITH_SHIP_ambria_s_fury: "Ambria's Fury"
-	SITH_SHIP_ascendant_spear: "Ascendant Spear"
-	SITH_SHIP_black_talon: "Black Talon"
-	SITH_SHIP_carnage: "Carnage"
-	SITH_SHIP_darkness: "Darkness"
-	SITH_SHIP_deference: "Deference"
-	SITH_SHIP_dominator: "Dominator"
-	SITH_SHIP_doombringer: "Doombringer"
-	SITH_SHIP_harrower: "Harrower"
-	SITH_SHIP_dread_master: "Dread Master"
-	SITH_SHIP_dromo: "Dromo"
-	SITH_SHIP_eclipse: "Eclipse"
-	SITH_SHIP_enforcer: "Enforcer"
-	SITH_SHIP_euphony: "Euphony"
-	SITH_SHIP_exemplar: "Exemplar"
-	SITH_SHIP_extempus: "Extempus"
-	SITH_SHIP_fatality: "Fatality"
-	SITH_SHIP_firelance: "Firelance"
-	SITH_SHIP_fortress: "Fortress"
-	SITH_SHIP_fuliginous: "Fuliginous"
-	SITH_SHIP_immeren: "Immeren"
-	SITH_SHIP_indignation: "Indignation"
-	SITH_SHIP_javelin: "Javelin"
-	SITH_SHIP_khyphe: "Khyphe"
-	SITH_SHIP_king_s_ransom: "King's Ransom"
-	SITH_SHIP_lindworm: "Lindworm"
-	SITH_SHIP_malgus: "Malgus"
-	SITH_SHIP_marr: "Marr"
-	SITH_SHIP_oppressor: "Oppressor"
-	SITH_SHIP_overlord: "Overlord"
-	SITH_SHIP_terminus: "Terminus"
-	SITH_SHIP_paramount: "Paramount"
-	SITH_SHIP_red_reaper: "Red Reaper"
-	SITH_SHIP_red_shrike: "Red Shrike"
-	SITH_SHIP_regnant: "Regnant"
-	SITH_SHIP_scream_of_ragnos: "Scream of Ragnos"
-	SITH_SHIP_steadfast: "Steadfast"
-	SITH_SHIP_sting: "Sting"
-	SITH_SHIP_storm_fire: "Storm Fire"
-	SITH_SHIP_tears_of_taris: "Tears of Taris"
-	SITH_SHIP_tenebrous: "Tenebrous"
-	SITH_SHIP_tyrant: "Tyrant"
-	SITH_SHIP_undying: "Undying"
-	SITH_SHIP_valor: "Valor"
-	SITH_SHIP_valor_prevails: "Valor Prevails"
-	SITH_SHIP_vengean: "Vengean"
-	SITH_SHIP_vigilance: "Vigilance"
-	SITH_SHIP_vivicar: "Vivicar"
-	SITH_SHIP_voidstar: "Voidstar"
-	SITH_SHIP_warhammer: "Warhammer"
-	SITH_SHIP_white_nova: "White Nova"
-	SITH_SHIP_ziost_shadow: "Ziost Shadow"
-	SITH_SHIP_overseer: "Overseer"
-	SITH_SHIP_executioner: "Executioner"
-	SITH_SHIP_subjugator: "Subjugator"
-	SITH_SHIP_atrius: "Atrius"
-	SITH_SHIP_desolus: "Desolus"
-	SITH_SHIP_attrius: "Attrius"
-	SITH_SHIP_andeddu: "Andeddu"
-	SITH_SHIP_caldoth: "Caldoth"
-	SITH_SHIP_nymbis: "Nymbis"
-	SITH_SHIP_crassus: "Crassus"
-	SITH_SHIP_bane: "Bane"
-	SITH_SHIP_malak: "Malak"
-	SITH_SHIP_maul: "Maul"
-	SITH_SHIP_nadd: "Nadd"
-	SITH_SHIP_nihilus: "Nihilus"
-	SITH_SHIP_na_daz: "Na'daz"
-	SITH_SHIP_sakia: "Sakia"
-	SITH_SHIP_zannah: "Zannah"
-	SITH_SHIP_broodica: "Broodica"
-	SITH_SHIP_cognus: "Cognus"
-	SITH_SHIP_gravid: "Gravid"
-	SITH_SHIP_vectivus: "Vectivus"
-	SITH_SHIP_venamis: "Venamis"
-	SITH_SHIP_krall: "Krall"
-	SITH_SHIP_noctyss: "Noctyss"
-	SITH_SHIP_phobos: "Phobos"
-	SITH_SHIP_sanguis: "Sanguis"
-	SITH_SHIP_vacuus: "Vacuus"
-	SITH_SHIP_skyre: "Skyre"
-	SITH_SHIP_tanis: "Tanis"
-	SITH_SHIP_wrend: "Wrend"
-	SITH_SHIP_sion: "Sion"
-	SITH_SHIP_bandon: "Bandon"
-	SITH_SHIP_glovoc: "Glovoc"
-	SITH_SHIP_eradicus: "Eradicus"
-	SITH_SHIP_daiman: "Daiman"
-	SITH_SHIP_xelian: "Xelian"
-	SITH_SHIP_odion: "Odion"
-	SITH_SHIP_malakite: "Malakite"
-	SITH_SHIP_voren: "Voren"
-	SITH_SHIP_acharon: "Acharon"
-	SITH_SHIP_achelon: "Achelon"
-	SITH_SHIP_acina: "Acina"
-	SITH_SHIP_anathel: "Anathel"
-	SITH_SHIP_andru: "Andru"
-	SITH_SHIP_angral: "Angral"
-	SITH_SHIP_arctis: "Arctis"
-	SITH_SHIP_arho: "Arho"
-	SITH_SHIP_arkous: "Arkous"
-	SITH_SHIP_arrid: "Arrid"
-	SITH_SHIP_aruk: "Aruk"
-	SITH_SHIP_atroph: "Atroph"
-	SITH_SHIP_atroxa: "Atroxa"
-	SITH_SHIP_azamin: "Azamin"
-	SITH_SHIP_betton: "Betton"
-	SITH_SHIP_caba: "Caba"
-	SITH_SHIP_charnus: "Charnus"
-	SITH_SHIP_chratis: "Chratis"
-	SITH_SHIP_decimus: "Decimus"
-	SITH_SHIP_ekkage: "Ekkage"
-	SITH_SHIP_drear: "Drear"
-	SITH_SHIP_enraj: "Enraj"
-	SITH_SHIP_fastus: "Fastus"
-	SITH_SHIP_gorgos: "Gorgos"
-	SITH_SHIP_hadra: "Hadra"
-	SITH_SHIP_igrol: "Igrol"
-	SITH_SHIP_ikoral: "Ikoral"
-	SITH_SHIP_iratus: "Iratus"
-	SITH_SHIP_jadus: "Jadus"
-	SITH_SHIP_jaga: "Jaga"
-	SITH_SHIP_kallous: "Kallous"
-	SITH_SHIP_karrid: "Karrid"
-	SITH_SHIP_krovos: "Krovos"
-	SITH_SHIP_lachris: "Lachris"
-	SITH_SHIP_malora: "Malora"
-	SITH_SHIP_mekhis: "Mekhis"
-	SITH_SHIP_minax: "Minax"
-	SITH_SHIP_nacheria: "Nacheria"
-	SITH_SHIP_nurin: "Nurin"
-	SITH_SHIP_nostrem: "Nostrem"
-	SITH_SHIP_nox: "Nox"
-	SITH_SHIP_nyriss: "Nyriss"
-	SITH_SHIP_ordrem: "Ordrem"
-	SITH_SHIP_ouzal: "Ouzal"
-	SITH_SHIP_qalar: "Qalar"
-	SITH_SHIP_perash: "Perash"
-	SITH_SHIP_ravage: "Ravage"
-	SITH_SHIP_rictus: "Rictus"
-	SITH_SHIP_sajar: "Sajar"
-	SITH_SHIP_savik: "Savik"
-	SITH_SHIP_scabrous: "Scabrous"
-	SITH_SHIP_serevin: "Serevin"
-	SITH_SHIP_shaar: "Shaar"
-	SITH_SHIP_shattra: "Shattra"
-	SITH_SHIP_silthar: "Silthar"
-	SITH_SHIP_skotia: "Skotia"
-	SITH_SHIP_soverus: "Soverus"
-	SITH_SHIP_synar: "Synar"
-	SITH_SHIP_synn: "Synn"
-	SITH_SHIP_tormen: "Tormen"
-	SITH_SHIP_vax: "Vax"
-	SITH_SHIP_venemal: "Venemal"
-	SITH_SHIP_vich: "Vich"
-	SITH_SHIP_victun: "Victun"
-	SITH_SHIP_viktus: "Viktus"
-	SITH_SHIP_vilus: "Vilus"
-	SITH_SHIP_vowrawn: "Vowrawn"
-	SITH_SHIP_xarion: "Xarion"
-	SITH_SHIP_xedrix: "Xedrix"
-	SITH_SHIP_zavakon: "Zavakon"
-	SITH_SHIP_zhorrid: "Zhorrid"
-	SITH_SHIP_ruin: "Ruin"
-	SITH_SHIP_rivan: "Rivan"
-	SITH_SHIP_malus: "Malus"
-	SITH_SHIP_tyranus: "Tyranus"
-	SITH_SHIP_guile: "Guile"
-	SITH_SHIP_vitus: "Vitus"
-	SITH_SHIP_karnage: "Karnage"
-	SITH_SHIP_kaox_krul: "Kaox Krul"
-	SITH_SHIP_kas_im: "Kas'im"
-	SITH_SHIP_lator: "LaTor"
-	SITH_SHIP_qordis: "Qordis"
-	SITH_SHIP_kopecz: "Kopecz"
-	SITH_SHIP_nightfall: "Nightfall"
-	SITH_SHIP_nyras: "Nyras"
-	SITH_SHIP_valcyn: "Valcyn"
-	SITH_SHIP_fury: "Fury"
-	SITH_SHIP_rage: "Rage"
-	SITH_SHIP_eye_of_horak: "Eye of Horak"
-	SITH_SHIP_dathka_graush: "Dathka Graush"
-	SITH_SHIP_seed_of_rage: "Seed of Rage"
-	SITH_SHIP_shadow_crown: "Shadow Crown"
-	SITH_SHIP_sword_of_khashyun: "Sword of Khashyun"
-	SITH_SHIP_muur: "Muur"
-	SITH_SHIP_new_omen: "New Omen"
-	SITH_SHIP_yaru_korsin: "Yaru Korsin"
-	SITH_SHIP_varner_hilts: "Varner Hilts"
-	SITH_SHIP_king_adas: "King Adas"
-	SITH_SHIP_keshtah: "Keshtah"
-	SITH_SHIP_korriban: "Korriban"
-	SITH_SHIP_dromund: "Dromund"
-	SITH_SHIP_ziost: "Ziost"
-	SITH_SHIP_athiss: "Athiss"
-	SITH_SHIP_malachor: "Malachor"
-	SITH_SHIP_exegol: "Exegol"
-	SITH_SHIP_lehon: "Lehon"
-	SITH_SHIP_moraband: "Moraband"
-	SITH_SHIP_vizier: "Vizier"
-	SITH_SHIP_alchemist: "Alchemist"
-	SITH_SHIP_sorcerer: "Sorcerer"
-	SITH_SHIP_magi: "Magi"
-	SITH_SHIP_prophet: "Prophet"
-	SITH_SHIP_emperor_s_hand: "Emperor’s Hand"
-	SITH_SHIP_hand_of_the_empress: "Hand of the Empress"
-	SITH_SHIP_forbidden: "Forbidden"
-	SITH_SHIP_craver: "Craver"
-	SITH_SHIP_dark_art: "Dark Art"
-	SITH_SHIP_night_sparrow: "Night Sparrow"
-	SITH_SHIP_seeker: "Seeker"
-	SITH_SHIP_untiring: "Untiring"
-	SITH_SHIP_sable_engine: "Sable Engine"
-	SITH_SHIP_acolyte: "Acolyte"
-	SITH_SHIP_damnation: "Damnation"
-	SITH_SHIP_seed_of_anger: "Seed of Anger"
-	SITH_SHIP_seed_of_hatred: "Seed of Hatred"
-	SITH_SHIP_seed_of_fear: "Seed of Fear"
-	SITH_SHIP_seed_of_doubt: "Seed of Doubt"
-	SITH_SHIP_seed_of_power: "Seed of Power"
-	SITH_SHIP_seed_of_destiny: "Seed of Destiny"
-	SITH_SHIP_seed_of_fury: "Seed of Fury"
-	SITH_SHIP_seed_of_odium: "Seed of Odium"
-	SITH_SHIP_seed_of_acrimony: "Seed of Acrimony"
-	SITH_SHIP_seed_of_frenzy: "Seed of Frenzy"
-	SITH_SHIP_seed_of_woe: "Seed of Woe"
-	SITH_SHIP_servant: "Servant"
-	SITH_SHIP_servant_three: "Servant Three"
-	SITH_SHIP_helot: "Helot"
-	SITH_SHIP_subjugated: "Subjugated"
-	SITH_SHIP_useful: "Useful"
-	SITH_SHIP_factorial: "Factorial"
-	SITH_SHIP_beast_within: "Beast Within"
-	SITH_SHIP_slow_boil: "Slow Boil"
-	SITH_SHIP_eternal_service: "Eternal Service"
-	SITH_SHIP_attendant: "Attendant"
-	SITH_SHIP_steward: "Steward"
-	SITH_SHIP_menial: "Menial"
-	SITH_SHIP_auxiliary: "Auxiliary"
-	SITH_SHIP_keeper: "Keeper"
-	SITH_SHIP_ground_transport: "Транспортный корабль"
-	SITH_SHIP_spacegun_victory: "SpaceGun Victory"
-	SITH_SHIP_spacegun_success: "SpaceGun Success"
-	SITH_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	SITH_SHIP_spacegun_superior: "SpaceGun Superior"
-	SITH_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	SITH_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	SITH_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	SITH_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	SITH_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	SITH_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	SITH_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	SITH_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	SITH_SHIP_spacegun_honor: "SpaceGun Honor"
-	SITH_SHIP_spacegun_renown: "SpaceGun Renown"
-	SITH_SHIP_spacegun_glory: "SpaceGun Glory"
-	SITH_SHIP_spacegun_superb: "SpaceGun Superb"
-	SITH_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	SITH_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	SITH_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	SITH_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	SITH_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	SITH_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	SITH_SHIP_spacegun_merit: "SpaceGun Merit"
-	SITH_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	SITH_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	SITH_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	SITH_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	SITH_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	SITH_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	SITH_SHIP_spacegun_justice: "SpaceGun Justice"
-	SITH_SHIP_spacegun_probity: "SpaceGun Probity"
-	SITH_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	SITH_SHIP_spacegun_purity: "SpaceGun Purity"
-	SITH_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	SITH_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	SITH_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	SITH_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	SITH_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	SITH_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	SITH_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	SITH_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	SITH_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	SITH_SHIP_spacegun_courage: "SpaceGun Courage"
-	SITH_SHIP_spacegun_valor: "SpaceGun Valor"
-	SITH_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	SITH_SHIP_spacegun_daring: "SpaceGun Daring"
-	SITH_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	SITH_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	SITH_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	SITH_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	SITH_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	SITH_SHIP_vanahame: "Vanahame"
-	SITH_SHIP_dromund_kaas: "Dromund Kaas"
-	SITH_SHIP_dxun: "Dxun"
-	SITH_SHIP_ashas_ree: "Ashas Ree"
-	SITH_SHIP_begeren: "Begeren"
-	SITH_SHIP_bosthirda: "Bosthirda"
-	SITH_SHIP_ch_hodos: "Ch'hodos"
-	SITH_SHIP_drezzi: "Drezzi"
-	SITH_SHIP_droumnd_fels: "Droumnd Fels"
-	SITH_SHIP_dromund_ixin: "Dromund Ixin"
-	SITH_SHIP_dromund_tyne: "Dromund Tyne"
-	SITH_SHIP_dromund_kalakar: "Dromund Kalakar"
-	SITH_SHIP_hallion: "Hallion"
-	SITH_SHIP_jaguada: "Jaguada"
-	SITH_SHIP_kalakar: "Kalakar"
-	SITH_SHIP_kalsunor: "Kalsunor"
-	SITH_SHIP_khar_delba: "Khar Delba"
-	SITH_SHIP_korriz: "Korriz"
-	SITH_SHIP_nfolgai: "Nfolgai"
-	SITH_SHIP_nicht_ka: "Nicht Ka"
-	SITH_SHIP_rhelg: "Rhelg"
-	SITH_SHIP_upekzar: "Upekzar"
-	SITH_SHIP_abregado_rae: "Abregado-rae"
-	SITH_SHIP_aefao: "Aefao"
-	SITH_SHIP_almania: "Almania"
-	SITH_SHIP_almas: "Almas"
-	SITH_SHIP_alpheridies: "Alpheridies"
-	SITH_SHIP_altarrn: "Altarrn"
-	SITH_SHIP_alvorine: "Alvorine"
-	SITH_SHIP_alzar: "Alzar"
-	SITH_SHIP_amarin: "Amarin"
-	SITH_SHIP_ambria: "Ambria"
-	SITH_SHIP_anantapar: "Anantapar"
-	SITH_SHIP_anarak: "Anarak"
-	SITH_SHIP_anaxes: "Anaxes"
-	SITH_SHIP_ando: "Ando"
-	SITH_SHIP_byss: "Byss"
-	SITH_SHIP_daalang: "Daalang"
-	SITH_SHIP_darkknell: "Darkknell"
-	SITH_SHIP_dathomir: "Dathomir"
-	SITH_SHIP_empress_teta: "Empress Teta"
-	SITH_SHIP_gentes: "Gentes"
-	SITH_SHIP_herdessa: "Herdessa"
-	SITH_SHIP_kesh: "Kesh"
-	SITH_SHIP_kril_dor: "Kril'Dor"
-	SITH_SHIP_phaseera: "Phaseera"
-	SITH_SHIP_puloorn: "Puloorn"
-	SITH_SHIP_quermia: "Quermia"
-	SITH_SHIP_randon: "Randon"
-	SITH_SHIP_rekkiad: "Rekkiad"
-	SITH_SHIP_roon: "Roon"
-	SITH_SHIP_ruusan: "Ruusan"
-	SITH_SHIP_sanrafsix: "Sanrafsix"
-	SITH_SHIP_sarrassia: "Sarrassia"
-	SITH_SHIP_skarpos: "Skarpos"
-	SITH_SHIP_vjun: "Vjun"
-	SITH_SHIP_volik: "Volik"
-	SITH_SHIP_orreg: "Orreg"
-	SITH_SHIP_ryav: "Ryav"
-	SITH_SHIP_purple_dunes: "Purple Dunes"
-	SITH_SHIP_elvaarnos: "Elvaarnos"
-	SITH_SHIP_roston: "Roston"
-	SITH_SHIP_kithar: "Kithar"
-	SITH_SHIP_telmath: "Telmath"
-	SITH_SHIP_cham: "Cham"
-	SITH_SHIP_glorim: "Glorim"
-	SITH_SHIP_eorm: "Eorm"
-	SITH_SHIP_sessal_spire: "Sessal Spire"
-	SITH_SHIP_wyldar: "Wyldar"
-	SITH_SHIP_rees: "Rees"
-	SITH_SHIP_tahv: "Tahv"
-	SITH_SHIP_sharv: "Sharv"
-	SITH_SHIP_zandi: "Zandi"
-	SITH_SHIP_berav: "Berav"
-	SITH_SHIP_takara: "Takara"
-	SITH_SHIP_bombard: "Bombard"
-	SITH_SHIP_ballista: "Ballista"
-	SITH_SHIP_catapult: "Catapult"
-	SITH_SHIP_harpoon: "Harpoon"
-	SITH_SHIP_polybolos: "Polybolos"
-	SITH_SHIP_culverin: "Culverin"
-	SITH_SHIP_exemplary: "Exemplary"
-	SITH_SHIP_CLASS_cr_90: "CR-90"
-	SITH_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	SITH_SHIP_CLASS_lupus: "Lupus"
-	SITH_SHIP_CLASS_asdroni: "Asdroni"
-	SITH_SHIP_CLASS_customs: "Customs"
-	SITH_SHIP_CLASS_hammerhead: "Hammerhead"
-	SITH_SHIP_CLASS_scurge: "Scurge"
-	SITH_SHIP_CLASS_krayt: "Krayt"
-	SITH_SHIP_CLASS_diamond: "Diamond"
-	SITH_SHIP_CLASS_etti: "Etti"
-	SITH_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	SITH_SHIP_CLASS_vigil: "Vigil"
-	SITH_SHIP_CLASS_dp20: "DP20"
-	SITH_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	SITH_SHIP_CLASS_raider: "Raider"
-	SITH_SHIP_CLASS_dornean: "Dornean"
-	SITH_SHIP_CLASS_crusader: "Crusader"
-	SITH_SHIP_CLASS_marauder: "Marauder"
-	SITH_SHIP_CLASS_arquitens: "Arquitens"
-	SITH_SHIP_CLASS_kiltirin: "Kiltirin"
-	SITH_SHIP_CLASS_pelta: "Pelta"
-	SITH_SHIP_CLASS_pinnace: "Pinnace"
-	SITH_SHIP_CLASS_nova: "Nova"
-	SITH_SHIP_CLASS_vigilance: "Vigilance"
-	SITH_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	SITH_SHIP_CLASS_cg_273: "CG-273"
-	SITH_SHIP_CLASS_kariek: "Kariek"
-	SITH_SHIP_CLASS_imperial_escort: "Imperial Escort"
-	SITH_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	SITH_SHIP_CLASS_lancer: "Lancer"
-	SITH_SHIP_CLASS_teroch: "Teroch"
-	SITH_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	SITH_SHIP_CLASS_nova_ii: "Nova II"
-	SITH_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	SITH_SHIP_CLASS_velox: "Velox"
-	SITH_SHIP_CLASS_mc30c: "MC30c"
-	SITH_SHIP_CLASS_vengeance: "Vengeance"
-	SITH_SHIP_CLASS_kariek_ii: "Kariek II"
-	SITH_SHIP_CLASS_cc_7700: "CC-7700"
-	SITH_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	SITH_SHIP_CLASS_wavecrest: "Wavecrest"
-	SITH_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	SITH_SHIP_CLASS_nuruodo: "Nuruodo"
-	SITH_SHIP_CLASS_sabaoth: "Sabaoth"
-	SITH_SHIP_CLASS_kontos: "Kontos"
-	SITH_SHIP_CLASS_mc40: "MC40"
-	SITH_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	SITH_SHIP_CLASS_broadside: "Broadside"
-	SITH_SHIP_CLASS_protector: "Protector"
-	SITH_SHIP_CLASS_warlord: "Warlord"
-	SITH_SHIP_CLASS_gladiator: "Gladiator"
-	SITH_SHIP_CLASS_beviin: "Beviin"
-	SITH_SHIP_CLASS_liberator: "Liberator"
-	SITH_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	SITH_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	SITH_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	SITH_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	SITH_SHIP_CLASS_massias: "Massias"
-	SITH_SHIP_CLASS_dreadnought: "Dreadnought"
-	SITH_SHIP_CLASS_kyramud: "Kyramud"
-	SITH_SHIP_CLASS_munificent: "Munificent"
-	SITH_SHIP_CLASS_prosvoli: "Prosvoli"
-	SITH_SHIP_CLASS_acclamator: "Acclamator"
-	SITH_SHIP_CLASS_lictor: "Lictor"
-	SITH_SHIP_CLASS_bulwark: "Bulwark"
-	SITH_SHIP_CLASS_victory_i: "Victory I"
-	SITH_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	SITH_SHIP_CLASS_bulk: "Bulk"
-	SITH_SHIP_CLASS_vindicator: "Vindicator"
-	SITH_SHIP_CLASS_dauntless: "Dauntless"
-	SITH_SHIP_CLASS_captor: "Captor"
-	SITH_SHIP_CLASS_au_riette: "Au'riette"
-	SITH_SHIP_CLASS_mc55: "MC55"
-	SITH_SHIP_CLASS_afthonia: "Afthonia"
-	SITH_SHIP_CLASS_victory_ii: "Victory II"
-	SITH_SHIP_CLASS_beroya: "Beroya"
-	SITH_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	SITH_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	SITH_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	SITH_SHIP_CLASS_venator: "Venator"
-	SITH_SHIP_CLASS_centurion: "Centurion"
-	SITH_SHIP_CLASS_mc75: "MC75"
-	SITH_SHIP_CLASS_kandosii: "Kandosii"
-	SITH_SHIP_CLASS_corellian: "Corellian"
-	SITH_SHIP_CLASS_providence: "Providence"
-	SITH_SHIP_CLASS_syndic: "Syndic"
-	SITH_SHIP_CLASS_recusant: "Recusant"
-	SITH_SHIP_CLASS_invincible: "Invincible"
-	SITH_SHIP_CLASS_imperial_i: "Imperial I"
-	SITH_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	SITH_SHIP_CLASS_procursator: "Procursator"
-	SITH_SHIP_CLASS_mc80a: "MC80a"
-	SITH_SHIP_CLASS_dh_omni: "DH-Omni"
-	SITH_SHIP_CLASS_aggressor: "Aggressor"
-	SITH_SHIP_CLASS_syndic_ii: "Syndic II"
-	SITH_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	SITH_SHIP_CLASS_keldabe: "Keldabe"
-	SITH_SHIP_CLASS_corellian_ii: "Corellian II"
-	SITH_SHIP_CLASS_chaf: "Chaf"
-	SITH_SHIP_CLASS_imperial_ii: "Imperial II"
-	SITH_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	SITH_SHIP_CLASS_ascendancy: "Ascendancy"
-	SITH_SHIP_CLASS_dominator: "Dominator"
-	SITH_SHIP_CLASS_allegiance: "Allegiance"
-	SITH_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	SITH_SHIP_CLASS_phalanx: "Phalanx"
-	SITH_SHIP_CLASS_titan: "Titan"
-	SITH_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	SITH_SHIP_CLASS_star_home: "Star Home"
-	SITH_SHIP_CLASS_subjugator: "Subjugator"
-	SITH_SHIP_CLASS_bellator: "Bellator"
-	SITH_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	SITH_SHIP_CLASS_executor: "Executor"
-	SITH_FLEET_1st__tulak__battle_group: "1st 'Tulak' Battle Group"
-	SITH_FLEET_2nd__ajunta__battle_group: "2nd 'Ajunta' Battle Group"
-	SITH_FLEET_3rd__ragnos__battle_group: "3rd 'Ragnos' Battle Group"
-	SITH_FLEET_4th__sadow__battle_group: "4th 'Sadow' Battle Group"
-	SITH_FLEET_5th__exar__battle_group: "5th 'Exar' Battle Group"
-	SITH_FLEET_6th__malgus__battle_group: "6th 'Malgus' Battle Group"
-	SITH_FLEET_7th__marr__battle_group: "7th 'Marr' Battle Group"
-	SITH_FLEET_8th__bane__battle_group: "8th 'Bane' Battle Group"
-	SITH_FLEET_9th__traya__battle_group: "9th 'Traya' Battle Group"
-	SITH_FLEET_10th__tyranus__battle_group: "10th 'Tyranus' Battle Group"
-	SITH_FLEET_11th__kressh__battle_group: "11th 'Kressh' Battle Group"
-	SITH_FLEET_12th__sorzus__battle_group: "12th 'Sorzus' Battle Group"
-	SITH_FLEET_13th__karness__battle_group: "13th 'Karness' Battle Group"
-	SITH_FLEET_sith_expeditionary_force_ORD: "$ORD$ Sith Expeditionary Force"
-	SITH_ARMY_sithsworn_guard_ORD: "$ORD$ Sithsworn Guard"
-	SITH_ARMY_devastator_battalion_ORD: "$ORD$ Devastator Battalion"
-	SITH_ARMY_branded_rifles_ORD: "$ORD$ Branded Rifles"
-	SITH_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	SITH_ARMY_wardroid_group_ORD: "$ORD$ Wardroid Group"
-	SITH_ARMY_wardroid_matrix_ORD: "$ORD$ Wardroid Matrix"
-	SITH_ARMY_juggernauts_ORD: "$ORD$ Juggernauts"
-	SITH_ARMY_sithspawn_detachment_ORD: "$ORD$ Sithspawn Detachment"
-	SITH_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	SITH_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	SITH_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	SITH_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	SITH_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	SITH_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	SITH_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	SITH_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	SITH_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	SITH_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	SITH_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	SITH_ARMY_sith_garrison_force_ORD: "$ORD$ Sith Garrison Force"
-	SITH_ARMY_wardroid_garrison_ORD: "$ORD$ Wardroid Garrison"
-	SITH_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	SITH_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	SITH_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	SITH_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	SITH_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	SITH_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	SITH_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	SITH_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	SITH_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	SITH_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	SITH_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	SITH_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	SITH_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	SITH_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	SITH_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	SITH_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	SITH_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	SITH_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	SITH_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	SITH_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	SITH_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	SITH_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	SITH_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	SITH_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	SITH_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	SITH_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	SITH_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	SITH_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	SITH_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	SITH_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	SITH_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	SITH_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	SITH_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	SITH_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	SITH_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	SITH_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	SITH_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	SITH_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	SITH_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	SITH_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	SITH_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	SITH_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	SITH_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	SITH_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	SITH_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	SITH_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	SITH_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	SITH_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	SITH_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	SITH_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	SITH_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	SITH_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	SITH_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	SITH_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	SITH_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	SITH_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	SITH_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	SITH_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	SITH_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	SITH_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	SITH_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	SITH_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	SITH_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	SITH_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	SITH_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	SITH_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	SITH_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	SITH_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	SITH_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	SITH_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	SITH_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	SITH_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	SITH_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	SITH_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	SITH_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	SITH_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	SITH_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	SITH_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	SITH_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	SITH_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	SITH_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	SITH_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	SITH_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	SITH_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	SITH_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	SITH_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	SITH_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	SITH_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	SITH_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	SITH_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	SITH_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	SITH_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	SITH_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	SITH_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	SITH_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	SITH_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	SITH_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	SITH_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	SITH_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	SITH_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	SITH_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	SITH_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	SITH_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	SITH_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	SITH_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	SITH_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	SITH_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	SITH_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	SITH_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	SITH_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	SITH_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	SITH_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	SITH_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	SITH_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	SITH_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	SITH_ARMY_rancor_ORD: "$ORD$ Rancor"
-	SITH_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	SITH_ARMY_acklay_ORD: "$ORD$ Acklay "
-	SITH_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	SITH_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	SITH_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	SITH_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	SITH_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	SITH_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	SITH_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	SITH_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	SITH_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	SITH_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	SITH_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	SITH_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	SITH_CHR_lord: "Lord"
-	SITH_CHR_dread_lord: "Dread Lord"
-	SITH_CHR_inquisitor: "Inquisitor"
-	SITH_CHR_battlelord: "Battlelord"
-	SITH_CHR_master: "Master"
-	SITH_CHR_alchemist: "Alchemist"
-	SITH_CHR_dark_lord: "Dark Lord"
-	SITH_CHR_darth: "Darth"
-	SITH_CHR_grand_consort: "Grand Consort"
-	SITH_CHR_high_lord: "High Lord"
-	SITH_CHR_prophet: "Prophet"
-	SITH_CHR_seer: "Seer"
-	SITH_CHR_overlord: "Overlord"
-	SITH_CHR_overseer: "Overseer"
-	SITH_CHR_lady: "Lady"
-	SITH_CHR_dread_lady: "Dread Lady"
-	SITH_CHR_mistress: "Mistress"
-	SITH_CHR_dark_lady: "Dark Lady"
-	SITH_CHR_high_lady: "High Lady"
-	SITH_CHR_prophetess: "Prophetess"
-	SITH_CHR_abaron: "Abaron"
-	SITH_CHR_adas: "Adas"
-	SITH_CHR_alarii: "Alarii"
-	SITH_CHR_althe: "Althe"
-	SITH_CHR_arkous: "Arkous"
-	SITH_CHR_arosh: "Arosh"
-	SITH_CHR_avarok: "Avarok"
-	SITH_CHR_avorr: "Avorr"
-	SITH_CHR_bensyn: "Bensyn"
-	SITH_CHR_breesh: "Breesh"
-	SITH_CHR_carnus: "Carnus"
-	SITH_CHR_carnor: "Carnor"
-	SITH_CHR_chane: "Chane"
-	SITH_CHR_chaskar: "Chaskar"
-	SITH_CHR_cherkolotar: "Cherkolotar"
-	SITH_CHR_cyrsip: "Cyrsip"
-	SITH_CHR_cytharat: "Cytharat"
-	SITH_CHR_dakhan: "Dakhan"
-	SITH_CHR_shar: "Shar"
-	SITH_CHR_davorak: "Davorak"
-	SITH_CHR_desora: "Desora"
-	SITH_CHR_xynso: "Xynso"
-	SITH_CHR_doruk: "Doruk"
-	SITH_CHR_dramath: "Dramath"
-	SITH_CHR_taliav: "Taliav"
-	SITH_CHR_engdo: "Engdo"
-	SITH_CHR_fa_ann: "Fa'ann"
-	SITH_CHR_fentis: "Fentis"
-	SITH_CHR_brach: "Brach"
-	SITH_CHR_gal_ram: "Gal-ram"
-	SITH_CHR_galall: "Galall"
-	SITH_CHR_baous: "Baous"
-	SITH_CHR_gapuois: "Gapuois"
-	SITH_CHR_graush: "Graush"
-	SITH_CHR_dathka: "Dathka"
-	SITH_CHR_hakagram: "Hakagram"
-	SITH_CHR_hestus: "Hestus"
-	SITH_CHR_horak_muli: "Horak-muli"
-	SITH_CHR_igrol: "Igrol"
-	SITH_CHR_ikoral: "Ikoral"
-	SITH_CHR_ishla: "Ishla"
-	SITH_CHR_izar: "Izar"
-	SITH_CHR_jhael: "Jhael"
-	SITH_CHR_fahren: "Fahren"
-	SITH_CHR_jaj: "Jaj"
-	SITH_CHR_jekhop: "Jekhop"
-	SITH_CHR_jinatte: "Jinatte"
-	SITH_CHR_yshaar: "Yshaar"
-	SITH_CHR_kael: "Kael"
-	SITH_CHR_kaur: "Kaur"
-	SITH_CHR_za_heen: "Za'heen"
-	SITH_CHR_kahesh: "Kahesh"
-	SITH_CHR_kantale: "Kantale"
-	SITH_CHR_sylen: "Sylen"
-	SITH_CHR_kempar: "Kempar"
-	SITH_CHR_keryha: "Keryha"
-	SITH_CHR_valik: "Valik"
-	SITH_CHR_kodank: "Kodank"
-	SITH_CHR_komok: "Komok"
-	SITH_CHR_kressh: "Kressh"
-	SITH_CHR_exal: "Exal"
-	SITH_CHR_elcho: "Elcho"
-	SITH_CHR_ludo: "Ludo"
-	SITH_CHR_vodal: "Vodal"
-	SITH_CHR_domoru: "Domoru"
-	SITH_CHR_krev: "Krev"
-	SITH_CHR_krovos: "Krovos"
-	SITH_CHR_kurse: "Kurse"
-	SITH_CHR_kyyrah: "Kyyrah"
-	SITH_CHR_ladra: "Ladra"
-	SITH_CHR_garahe: "Garahe"
-	SITH_CHR_lesi: "Lesi"
-	SITH_CHR_lorus: "Lorus"
-	SITH_CHR_loun: "Loun"
-	SITH_CHR_luthro: "Luthro"
-	SITH_CHR_majzon: "Majzon"
-	SITH_CHR_maraad: "Maraad"
-	SITH_CHR_materrus: "Materrus"
-	SITH_CHR_mathieren: "Mathieren"
-	SITH_CHR_myrox: "Myrox"
-	SITH_CHR_minax: "Minax"
-	SITH_CHR_nyriss: "Nyriss"
-	SITH_CHR_ogun: "Ogun"
-	SITH_CHR_orazio: "Orazio"
-	SITH_CHR_auux: "Auux"
-	SITH_CHR_paladius: "Paladius"
-	SITH_CHR_paolen: "Paolen"
-	SITH_CHR_praven: "Praven"
-	SITH_CHR_r_hoteb: "R'hoteb"
-	SITH_CHR_marka: "Marka"
-	SITH_CHR_rasche: "Rasche"
-	SITH_CHR_raspir: "Raspir"
-	SITH_CHR_rath: "Rath"
-	SITH_CHR_sek_nos: "Sek'nos"
-	SITH_CHR_thok: "Thok"
-	SITH_CHR_rhexa: "Rhexa"
-	SITH_CHR_naga: "Naga"
-	SITH_CHR_sathel: "Sathel"
-	SITH_CHR_saviel: "Saviel"
-	SITH_CHR_scourge: "Scourge"
-	SITH_CHR_seake: "Seake"
-	SITH_CHR_miarta: "Miarta"
-	SITH_CHR_serevin: "Serevin"
-	SITH_CHR_serrod: "Serrod"
-	SITH_CHR_shaar: "Shaar"
-	SITH_CHR_simus: "Simus"
-	SITH_CHR_soverus: "Soverus"
-	SITH_CHR_synar: "Synar"
-	SITH_CHR_tanzu: "Tanzu"
-	SITH_CHR_tetsu: "Tetsu"
-	SITH_CHR_karnak: "Karnak"
-	SITH_CHR_andreaus: "Andreaus"
-	SITH_CHR_thos: "Thos"
-	SITH_CHR_torius: "Torius"
-	SITH_CHR_tormen: "Tormen"
-	SITH_CHR_trok: "Trok"
-	SITH_CHR_twintan: "Twintan"
-	SITH_CHR_vex: "Vex"
-	SITH_CHR_dantos: "Dantos"
-	SITH_CHR_vincine: "Vincine"
-	SITH_CHR_vindican: "Vindican"
-	SITH_CHR_vindis: "Vindis"
-	SITH_CHR_vodd: "Vodd"
-	SITH_CHR_vowrawn: "Vowrawn"
-	SITH_CHR_ravilan: "Ravilan"
-	SITH_CHR_wroth: "Wroth"
-	SITH_CHR_wroth_the_elder: "Wroth the Elder"
-	SITH_CHR_wroth_the_younger: "Wroth the Younger"
-	SITH_CHR_xiang: "Xiang"
-	SITH_CHR_saveel: "Saveel"
-	SITH_CHR_yacommsa: "Yacommsa"
-	SITH_CHR_yarri: "Yarri"
-	SITH_CHR_silas: "Silas"
-	SITH_CHR_yun_weah: "Yun'weah"
-	SITH_CHR_zavrasha: "Zavrasha"
-	SITH_CHR_apprentice: "Apprentice"
-	SITH_CHR_acolyte: "Acolyte"
-	SITH_CHR_neophyte: "Neophyte"
+	SITH_SHIP_red_engine: "Red Engine" #!Empty_LineInfo!
+	SITH_SHIP_shyrak: "Shyrak" #!Empty_LineInfo!
+	SITH_SHIP_tukata: "Tukata" #!Empty_LineInfo!
+	SITH_SHIP_vix_tra: "Vix'tra" #!Empty_LineInfo!
+	SITH_SHIP_zash: "Zash" #!Empty_LineInfo!
+	SITH_SHIP_hereditary: "Hereditary" #!Empty_LineInfo!
+	SITH_SHIP_inquisitor: "Inquisitor" #!Empty_LineInfo!
+	SITH_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	SITH_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	SITH_SHIP_caltrop: "Caltrop" #!Empty_LineInfo!
+	SITH_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	SITH_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	SITH_SHIP_blood_eagle: "Blood Eagle" #!Empty_LineInfo!
+	SITH_SHIP_lord_of_hate: "Lord of Hate" #!Empty_LineInfo!
+	SITH_SHIP_khem_val: "Khem Val" #!Empty_LineInfo!
+	SITH_SHIP_gathering_dark: "Gathering Dark" #!Empty_LineInfo!
+	SITH_SHIP_veshikk: "Veshikk" #!Empty_LineInfo!
+	SITH_SHIP_aloysius: "Aloysius" #!Empty_LineInfo!
+	SITH_SHIP_thanaton: "Thanaton" #!Empty_LineInfo!
+	SITH_SHIP_ludo_kressh: "Ludo Kressh" #!Empty_LineInfo!
+	SITH_SHIP_horak_mul: "Horak-mul" #!Empty_LineInfo!
+	SITH_SHIP_dor_galran: "Dor Galran" #!Empty_LineInfo!
+	SITH_SHIP_supremacy: "Supremacy" #!Empty_LineInfo!
+	SITH_SHIP_conflagration: "Conflagration" #!Empty_LineInfo!
+	SITH_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	SITH_SHIP_sarcophagus: "Sarcophagus" #!Empty_LineInfo!
+	SITH_SHIP_occultant: "Occultant" #!Empty_LineInfo!
+	SITH_SHIP_immolator: "Immolator" #!Empty_LineInfo!
+	SITH_SHIP_pestilence: "Pestilence" #!Empty_LineInfo!
+	SITH_SHIP_pureblood: "Pureblood" #!Empty_LineInfo!
+	SITH_SHIP_purifier: "Purifier" #!Empty_LineInfo!
+	SITH_SHIP_defiler: "Defiler" #!Empty_LineInfo!
+	SITH_SHIP_mortis: "Mortis" #!Empty_LineInfo!
+	SITH_SHIP_leper: "Leper" #!Empty_LineInfo!
+	SITH_SHIP_first_heretic: "First Heretic" #!Empty_LineInfo!
+	SITH_SHIP_apotheisis: "Apotheisis" #!Empty_LineInfo!
+	SITH_SHIP_neophyte: "Neophyte" #!Empty_LineInfo!
+	SITH_SHIP_hexid: "Hexid" #!Empty_LineInfo!
+	SITH_SHIP_kancras: "Kancras" #!Empty_LineInfo!
+	SITH_SHIP_mellichae: "Mellichae" #!Empty_LineInfo!
+	SITH_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	SITH_SHIP_raxxus: "Raxxus" #!Empty_LineInfo!
+	SITH_SHIP_simi: "Simi" #!Empty_LineInfo!
+	SITH_SHIP_val: "Val" #!Empty_LineInfo!
+	SITH_SHIP_plagueis: "Plagueis" #!Empty_LineInfo!
+	SITH_SHIP_gen_dai_reward: "Gen'Dai Reward" #!Empty_LineInfo!
+	SITH_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	SITH_SHIP_lokess: "Lokess" #!Empty_LineInfo!
+	SITH_SHIP_nathema: "Nathema" #!Empty_LineInfo!
+	SITH_SHIP_ovair: "Ovair" #!Empty_LineInfo!
+	SITH_SHIP_baras: "Baras" #!Empty_LineInfo!
+	SITH_SHIP_ziroxin: "Ziroxin" #!Empty_LineInfo!
+	SITH_SHIP_ambria_s_fury: "Ambria's Fury" #!Empty_LineInfo!
+	SITH_SHIP_ascendant_spear: "Ascendant Spear" #!Empty_LineInfo!
+	SITH_SHIP_black_talon: "Black Talon" #!Empty_LineInfo!
+	SITH_SHIP_carnage: "Carnage" #!Empty_LineInfo!
+	SITH_SHIP_darkness: "Darkness" #!Empty_LineInfo!
+	SITH_SHIP_deference: "Deference" #!Empty_LineInfo!
+	SITH_SHIP_dominator: "Dominator" #!Empty_LineInfo!
+	SITH_SHIP_doombringer: "Doombringer" #!Empty_LineInfo!
+	SITH_SHIP_harrower: "Harrower" #!Empty_LineInfo!
+	SITH_SHIP_dread_master: "Dread Master" #!Empty_LineInfo!
+	SITH_SHIP_dromo: "Dromo" #!Empty_LineInfo!
+	SITH_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	SITH_SHIP_enforcer: "Enforcer" #!Empty_LineInfo!
+	SITH_SHIP_euphony: "Euphony" #!Empty_LineInfo!
+	SITH_SHIP_exemplar: "Exemplar" #!Empty_LineInfo!
+	SITH_SHIP_extempus: "Extempus" #!Empty_LineInfo!
+	SITH_SHIP_fatality: "Fatality" #!Empty_LineInfo!
+	SITH_SHIP_firelance: "Firelance" #!Empty_LineInfo!
+	SITH_SHIP_fortress: "Fortress" #!Empty_LineInfo!
+	SITH_SHIP_fuliginous: "Fuliginous" #!Empty_LineInfo!
+	SITH_SHIP_immeren: "Immeren" #!Empty_LineInfo!
+	SITH_SHIP_indignation: "Indignation" #!Empty_LineInfo!
+	SITH_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	SITH_SHIP_khyphe: "Khyphe" #!Empty_LineInfo!
+	SITH_SHIP_king_s_ransom: "King's Ransom" #!Empty_LineInfo!
+	SITH_SHIP_lindworm: "Lindworm" #!Empty_LineInfo!
+	SITH_SHIP_malgus: "Malgus" #!Empty_LineInfo!
+	SITH_SHIP_marr: "Marr" #!Empty_LineInfo!
+	SITH_SHIP_oppressor: "Oppressor" #!Empty_LineInfo!
+	SITH_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	SITH_SHIP_terminus: "Terminus" #!Empty_LineInfo!
+	SITH_SHIP_paramount: "Paramount" #!Empty_LineInfo!
+	SITH_SHIP_red_reaper: "Red Reaper" #!Empty_LineInfo!
+	SITH_SHIP_red_shrike: "Red Shrike" #!Empty_LineInfo!
+	SITH_SHIP_regnant: "Regnant" #!Empty_LineInfo!
+	SITH_SHIP_scream_of_ragnos: "Scream of Ragnos" #!Empty_LineInfo!
+	SITH_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	SITH_SHIP_sting: "Sting" #!Empty_LineInfo!
+	SITH_SHIP_storm_fire: "Storm Fire" #!Empty_LineInfo!
+	SITH_SHIP_tears_of_taris: "Tears of Taris" #!Empty_LineInfo!
+	SITH_SHIP_tenebrous: "Tenebrous" #!Empty_LineInfo!
+	SITH_SHIP_tyrant: "Tyrant" #!Empty_LineInfo!
+	SITH_SHIP_undying: "Undying" #!Empty_LineInfo!
+	SITH_SHIP_valor: "Valor" #!Empty_LineInfo!
+	SITH_SHIP_valor_prevails: "Valor Prevails" #!Empty_LineInfo!
+	SITH_SHIP_vengean: "Vengean" #!Empty_LineInfo!
+	SITH_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	SITH_SHIP_vivicar: "Vivicar" #!Empty_LineInfo!
+	SITH_SHIP_voidstar: "Voidstar" #!Empty_LineInfo!
+	SITH_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	SITH_SHIP_white_nova: "White Nova" #!Empty_LineInfo!
+	SITH_SHIP_ziost_shadow: "Ziost Shadow" #!Empty_LineInfo!
+	SITH_SHIP_overseer: "Overseer" #!Empty_LineInfo!
+	SITH_SHIP_executioner: "Executioner" #!Empty_LineInfo!
+	SITH_SHIP_subjugator: "Subjugator" #!Empty_LineInfo!
+	SITH_SHIP_atrius: "Atrius" #!Empty_LineInfo!
+	SITH_SHIP_desolus: "Desolus" #!Empty_LineInfo!
+	SITH_SHIP_attrius: "Attrius" #!Empty_LineInfo!
+	SITH_SHIP_andeddu: "Andeddu" #!Empty_LineInfo!
+	SITH_SHIP_caldoth: "Caldoth" #!Empty_LineInfo!
+	SITH_SHIP_nymbis: "Nymbis" #!Empty_LineInfo!
+	SITH_SHIP_crassus: "Crassus" #!Empty_LineInfo!
+	SITH_SHIP_bane: "Bane" #!Empty_LineInfo!
+	SITH_SHIP_malak: "Malak" #!Empty_LineInfo!
+	SITH_SHIP_maul: "Maul" #!Empty_LineInfo!
+	SITH_SHIP_nadd: "Nadd" #!Empty_LineInfo!
+	SITH_SHIP_nihilus: "Nihilus" #!Empty_LineInfo!
+	SITH_SHIP_na_daz: "Na'daz" #!Empty_LineInfo!
+	SITH_SHIP_sakia: "Sakia" #!Empty_LineInfo!
+	SITH_SHIP_zannah: "Zannah" #!Empty_LineInfo!
+	SITH_SHIP_broodica: "Broodica" #!Empty_LineInfo!
+	SITH_SHIP_cognus: "Cognus" #!Empty_LineInfo!
+	SITH_SHIP_gravid: "Gravid" #!Empty_LineInfo!
+	SITH_SHIP_vectivus: "Vectivus" #!Empty_LineInfo!
+	SITH_SHIP_venamis: "Venamis" #!Empty_LineInfo!
+	SITH_SHIP_krall: "Krall" #!Empty_LineInfo!
+	SITH_SHIP_noctyss: "Noctyss" #!Empty_LineInfo!
+	SITH_SHIP_phobos: "Phobos" #!Empty_LineInfo!
+	SITH_SHIP_sanguis: "Sanguis" #!Empty_LineInfo!
+	SITH_SHIP_vacuus: "Vacuus" #!Empty_LineInfo!
+	SITH_SHIP_skyre: "Skyre" #!Empty_LineInfo!
+	SITH_SHIP_tanis: "Tanis" #!Empty_LineInfo!
+	SITH_SHIP_wrend: "Wrend" #!Empty_LineInfo!
+	SITH_SHIP_sion: "Sion" #!Empty_LineInfo!
+	SITH_SHIP_bandon: "Bandon" #!Empty_LineInfo!
+	SITH_SHIP_glovoc: "Glovoc" #!Empty_LineInfo!
+	SITH_SHIP_eradicus: "Eradicus" #!Empty_LineInfo!
+	SITH_SHIP_daiman: "Daiman" #!Empty_LineInfo!
+	SITH_SHIP_xelian: "Xelian" #!Empty_LineInfo!
+	SITH_SHIP_odion: "Odion" #!Empty_LineInfo!
+	SITH_SHIP_malakite: "Malakite" #!Empty_LineInfo!
+	SITH_SHIP_voren: "Voren" #!Empty_LineInfo!
+	SITH_SHIP_acharon: "Acharon" #!Empty_LineInfo!
+	SITH_SHIP_achelon: "Achelon" #!Empty_LineInfo!
+	SITH_SHIP_acina: "Acina" #!Empty_LineInfo!
+	SITH_SHIP_anathel: "Anathel" #!Empty_LineInfo!
+	SITH_SHIP_andru: "Andru" #!Empty_LineInfo!
+	SITH_SHIP_angral: "Angral" #!Empty_LineInfo!
+	SITH_SHIP_arctis: "Arctis" #!Empty_LineInfo!
+	SITH_SHIP_arho: "Arho" #!Empty_LineInfo!
+	SITH_SHIP_arkous: "Arkous" #!Empty_LineInfo!
+	SITH_SHIP_arrid: "Arrid" #!Empty_LineInfo!
+	SITH_SHIP_aruk: "Aruk" #!Empty_LineInfo!
+	SITH_SHIP_atroph: "Atroph" #!Empty_LineInfo!
+	SITH_SHIP_atroxa: "Atroxa" #!Empty_LineInfo!
+	SITH_SHIP_azamin: "Azamin" #!Empty_LineInfo!
+	SITH_SHIP_betton: "Betton" #!Empty_LineInfo!
+	SITH_SHIP_caba: "Caba" #!Empty_LineInfo!
+	SITH_SHIP_charnus: "Charnus" #!Empty_LineInfo!
+	SITH_SHIP_chratis: "Chratis" #!Empty_LineInfo!
+	SITH_SHIP_decimus: "Decimus" #!Empty_LineInfo!
+	SITH_SHIP_ekkage: "Ekkage" #!Empty_LineInfo!
+	SITH_SHIP_drear: "Drear" #!Empty_LineInfo!
+	SITH_SHIP_enraj: "Enraj" #!Empty_LineInfo!
+	SITH_SHIP_fastus: "Fastus" #!Empty_LineInfo!
+	SITH_SHIP_gorgos: "Gorgos" #!Empty_LineInfo!
+	SITH_SHIP_hadra: "Hadra" #!Empty_LineInfo!
+	SITH_SHIP_igrol: "Igrol" #!Empty_LineInfo!
+	SITH_SHIP_ikoral: "Ikoral" #!Empty_LineInfo!
+	SITH_SHIP_iratus: "Iratus" #!Empty_LineInfo!
+	SITH_SHIP_jadus: "Jadus" #!Empty_LineInfo!
+	SITH_SHIP_jaga: "Jaga" #!Empty_LineInfo!
+	SITH_SHIP_kallous: "Kallous" #!Empty_LineInfo!
+	SITH_SHIP_karrid: "Karrid" #!Empty_LineInfo!
+	SITH_SHIP_krovos: "Krovos" #!Empty_LineInfo!
+	SITH_SHIP_lachris: "Lachris" #!Empty_LineInfo!
+	SITH_SHIP_malora: "Malora" #!Empty_LineInfo!
+	SITH_SHIP_mekhis: "Mekhis" #!Empty_LineInfo!
+	SITH_SHIP_minax: "Minax" #!Empty_LineInfo!
+	SITH_SHIP_nacheria: "Nacheria" #!Empty_LineInfo!
+	SITH_SHIP_nurin: "Nurin" #!Empty_LineInfo!
+	SITH_SHIP_nostrem: "Nostrem" #!Empty_LineInfo!
+	SITH_SHIP_nox: "Nox" #!Empty_LineInfo!
+	SITH_SHIP_nyriss: "Nyriss" #!Empty_LineInfo!
+	SITH_SHIP_ordrem: "Ordrem" #!Empty_LineInfo!
+	SITH_SHIP_ouzal: "Ouzal" #!Empty_LineInfo!
+	SITH_SHIP_qalar: "Qalar" #!Empty_LineInfo!
+	SITH_SHIP_perash: "Perash" #!Empty_LineInfo!
+	SITH_SHIP_ravage: "Ravage" #!Empty_LineInfo!
+	SITH_SHIP_rictus: "Rictus" #!Empty_LineInfo!
+	SITH_SHIP_sajar: "Sajar" #!Empty_LineInfo!
+	SITH_SHIP_savik: "Savik" #!Empty_LineInfo!
+	SITH_SHIP_scabrous: "Scabrous" #!Empty_LineInfo!
+	SITH_SHIP_serevin: "Serevin" #!Empty_LineInfo!
+	SITH_SHIP_shaar: "Shaar" #!Empty_LineInfo!
+	SITH_SHIP_shattra: "Shattra" #!Empty_LineInfo!
+	SITH_SHIP_silthar: "Silthar" #!Empty_LineInfo!
+	SITH_SHIP_skotia: "Skotia" #!Empty_LineInfo!
+	SITH_SHIP_soverus: "Soverus" #!Empty_LineInfo!
+	SITH_SHIP_synar: "Synar" #!Empty_LineInfo!
+	SITH_SHIP_synn: "Synn" #!Empty_LineInfo!
+	SITH_SHIP_tormen: "Tormen" #!Empty_LineInfo!
+	SITH_SHIP_vax: "Vax" #!Empty_LineInfo!
+	SITH_SHIP_venemal: "Venemal" #!Empty_LineInfo!
+	SITH_SHIP_vich: "Vich" #!Empty_LineInfo!
+	SITH_SHIP_victun: "Victun" #!Empty_LineInfo!
+	SITH_SHIP_viktus: "Viktus" #!Empty_LineInfo!
+	SITH_SHIP_vilus: "Vilus" #!Empty_LineInfo!
+	SITH_SHIP_vowrawn: "Vowrawn" #!Empty_LineInfo!
+	SITH_SHIP_xarion: "Xarion" #!Empty_LineInfo!
+	SITH_SHIP_xedrix: "Xedrix" #!Empty_LineInfo!
+	SITH_SHIP_zavakon: "Zavakon" #!Empty_LineInfo!
+	SITH_SHIP_zhorrid: "Zhorrid" #!Empty_LineInfo!
+	SITH_SHIP_ruin: "Ruin" #!Empty_LineInfo!
+	SITH_SHIP_rivan: "Rivan" #!Empty_LineInfo!
+	SITH_SHIP_malus: "Malus" #!Empty_LineInfo!
+	SITH_SHIP_tyranus: "Tyranus" #!Empty_LineInfo!
+	SITH_SHIP_guile: "Guile" #!Empty_LineInfo!
+	SITH_SHIP_vitus: "Vitus" #!Empty_LineInfo!
+	SITH_SHIP_karnage: "Karnage" #!Empty_LineInfo!
+	SITH_SHIP_kaox_krul: "Kaox Krul" #!Empty_LineInfo!
+	SITH_SHIP_kas_im: "Kas'im" #!Empty_LineInfo!
+	SITH_SHIP_lator: "LaTor" #!Empty_LineInfo!
+	SITH_SHIP_qordis: "Qordis" #!Empty_LineInfo!
+	SITH_SHIP_kopecz: "Kopecz" #!Empty_LineInfo!
+	SITH_SHIP_nightfall: "Nightfall" #!Empty_LineInfo!
+	SITH_SHIP_nyras: "Nyras" #!Empty_LineInfo!
+	SITH_SHIP_valcyn: "Valcyn" #!Empty_LineInfo!
+	SITH_SHIP_fury: "Fury" #!Empty_LineInfo!
+	SITH_SHIP_rage: "Rage" #!Empty_LineInfo!
+	SITH_SHIP_eye_of_horak: "Eye of Horak" #!Empty_LineInfo!
+	SITH_SHIP_dathka_graush: "Dathka Graush" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_rage: "Seed of Rage" #!Empty_LineInfo!
+	SITH_SHIP_shadow_crown: "Shadow Crown" #!Empty_LineInfo!
+	SITH_SHIP_sword_of_khashyun: "Sword of Khashyun" #!Empty_LineInfo!
+	SITH_SHIP_muur: "Muur" #!Empty_LineInfo!
+	SITH_SHIP_new_omen: "New Omen" #!Empty_LineInfo!
+	SITH_SHIP_yaru_korsin: "Yaru Korsin" #!Empty_LineInfo!
+	SITH_SHIP_varner_hilts: "Varner Hilts" #!Empty_LineInfo!
+	SITH_SHIP_king_adas: "King Adas" #!Empty_LineInfo!
+	SITH_SHIP_keshtah: "Keshtah" #!Empty_LineInfo!
+	SITH_SHIP_korriban: "Korriban" #!Empty_LineInfo!
+	SITH_SHIP_dromund: "Dromund" #!Empty_LineInfo!
+	SITH_SHIP_ziost: "Ziost" #!Empty_LineInfo!
+	SITH_SHIP_athiss: "Athiss" #!Empty_LineInfo!
+	SITH_SHIP_malachor: "Malachor" #!Empty_LineInfo!
+	SITH_SHIP_exegol: "Exegol" #!Empty_LineInfo!
+	SITH_SHIP_lehon: "Lehon" #!Empty_LineInfo!
+	SITH_SHIP_moraband: "Moraband" #!Empty_LineInfo!
+	SITH_SHIP_vizier: "Vizier" #!Empty_LineInfo!
+	SITH_SHIP_alchemist: "Alchemist" #!Empty_LineInfo!
+	SITH_SHIP_sorcerer: "Sorcerer" #!Empty_LineInfo!
+	SITH_SHIP_magi: "Magi" #!Empty_LineInfo!
+	SITH_SHIP_prophet: "Prophet" #!Empty_LineInfo!
+	SITH_SHIP_emperor_s_hand: "Emperor's Hand" #!Empty_LineInfo!
+	SITH_SHIP_hand_of_the_empress: "Hand of the Empress" #!Empty_LineInfo!
+	SITH_SHIP_forbidden: "Forbidden" #!Empty_LineInfo!
+	SITH_SHIP_craver: "Craver" #!Empty_LineInfo!
+	SITH_SHIP_dark_art: "Dark Art" #!Empty_LineInfo!
+	SITH_SHIP_night_sparrow: "Night Sparrow" #!Empty_LineInfo!
+	SITH_SHIP_seeker: "Seeker" #!Empty_LineInfo!
+	SITH_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	SITH_SHIP_sable_engine: "Sable Engine" #!Empty_LineInfo!
+	SITH_SHIP_acolyte: "Acolyte" #!Empty_LineInfo!
+	SITH_SHIP_damnation: "Damnation" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_anger: "Seed of Anger" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_hatred: "Seed of Hatred" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_fear: "Seed of Fear" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_doubt: "Seed of Doubt" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_power: "Seed of Power" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_destiny: "Seed of Destiny" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_fury: "Seed of Fury" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_odium: "Seed of Odium" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_acrimony: "Seed of Acrimony" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_frenzy: "Seed of Frenzy" #!Empty_LineInfo!
+	SITH_SHIP_seed_of_woe: "Seed of Woe" #!Empty_LineInfo!
+	SITH_SHIP_servant: "Servant" #!Empty_LineInfo!
+	SITH_SHIP_servant_three: "Servant Three" #!Empty_LineInfo!
+	SITH_SHIP_helot: "Helot" #!Empty_LineInfo!
+	SITH_SHIP_subjugated: "Subjugated" #!Empty_LineInfo!
+	SITH_SHIP_useful: "Useful" #!Empty_LineInfo!
+	SITH_SHIP_factorial: "Factorial" #!Empty_LineInfo!
+	SITH_SHIP_beast_within: "Beast Within" #!Empty_LineInfo!
+	SITH_SHIP_slow_boil: "Slow Boil" #!Empty_LineInfo!
+	SITH_SHIP_eternal_service: "Eternal Service" #!Empty_LineInfo!
+	SITH_SHIP_attendant: "Attendant" #!Empty_LineInfo!
+	SITH_SHIP_steward: "Steward" #!Empty_LineInfo!
+	SITH_SHIP_menial: "Menial" #!Empty_LineInfo!
+	SITH_SHIP_auxiliary: "Auxiliary" #!Empty_LineInfo!
+	SITH_SHIP_keeper: "Keeper" #!Empty_LineInfo!
+	SITH_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	SITH_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	SITH_SHIP_vanahame: "Vanahame" #!Empty_LineInfo!
+	SITH_SHIP_dromund_kaas: "Dromund Kaas" #!Empty_LineInfo!
+	SITH_SHIP_dxun: "Dxun" #!Empty_LineInfo!
+	SITH_SHIP_ashas_ree: "Ashas Ree" #!Empty_LineInfo!
+	SITH_SHIP_begeren: "Begeren" #!Empty_LineInfo!
+	SITH_SHIP_bosthirda: "Bosthirda" #!Empty_LineInfo!
+	SITH_SHIP_ch_hodos: "Ch'hodos" #!Empty_LineInfo!
+	SITH_SHIP_drezzi: "Drezzi" #!Empty_LineInfo!
+	SITH_SHIP_droumnd_fels: "Droumnd Fels" #!Empty_LineInfo!
+	SITH_SHIP_dromund_ixin: "Dromund Ixin" #!Empty_LineInfo!
+	SITH_SHIP_dromund_tyne: "Dromund Tyne" #!Empty_LineInfo!
+	SITH_SHIP_dromund_kalakar: "Dromund Kalakar" #!Empty_LineInfo!
+	SITH_SHIP_hallion: "Hallion" #!Empty_LineInfo!
+	SITH_SHIP_jaguada: "Jaguada" #!Empty_LineInfo!
+	SITH_SHIP_kalakar: "Kalakar" #!Empty_LineInfo!
+	SITH_SHIP_kalsunor: "Kalsunor" #!Empty_LineInfo!
+	SITH_SHIP_khar_delba: "Khar Delba" #!Empty_LineInfo!
+	SITH_SHIP_korriz: "Korriz" #!Empty_LineInfo!
+	SITH_SHIP_nfolgai: "Nfolgai" #!Empty_LineInfo!
+	SITH_SHIP_nicht_ka: "Nicht Ka" #!Empty_LineInfo!
+	SITH_SHIP_rhelg: "Rhelg" #!Empty_LineInfo!
+	SITH_SHIP_upekzar: "Upekzar" #!Empty_LineInfo!
+	SITH_SHIP_abregado_rae: "Abregado-rae" #!Empty_LineInfo!
+	SITH_SHIP_aefao: "Aefao" #!Empty_LineInfo!
+	SITH_SHIP_almania: "Almania" #!Empty_LineInfo!
+	SITH_SHIP_almas: "Almas" #!Empty_LineInfo!
+	SITH_SHIP_alpheridies: "Alpheridies" #!Empty_LineInfo!
+	SITH_SHIP_altarrn: "Altarrn" #!Empty_LineInfo!
+	SITH_SHIP_alvorine: "Alvorine" #!Empty_LineInfo!
+	SITH_SHIP_alzar: "Alzar" #!Empty_LineInfo!
+	SITH_SHIP_amarin: "Amarin" #!Empty_LineInfo!
+	SITH_SHIP_ambria: "Ambria" #!Empty_LineInfo!
+	SITH_SHIP_anantapar: "Anantapar" #!Empty_LineInfo!
+	SITH_SHIP_anarak: "Anarak" #!Empty_LineInfo!
+	SITH_SHIP_anaxes: "Anaxes" #!Empty_LineInfo!
+	SITH_SHIP_ando: "Ando" #!Empty_LineInfo!
+	SITH_SHIP_byss: "Byss" #!Empty_LineInfo!
+	SITH_SHIP_daalang: "Daalang" #!Empty_LineInfo!
+	SITH_SHIP_darkknell: "Darkknell" #!Empty_LineInfo!
+	SITH_SHIP_dathomir: "Dathomir" #!Empty_LineInfo!
+	SITH_SHIP_empress_teta: "Empress Teta" #!Empty_LineInfo!
+	SITH_SHIP_gentes: "Gentes" #!Empty_LineInfo!
+	SITH_SHIP_herdessa: "Herdessa" #!Empty_LineInfo!
+	SITH_SHIP_kesh: "Kesh" #!Empty_LineInfo!
+	SITH_SHIP_kril_dor: "Kril'Dor" #!Empty_LineInfo!
+	SITH_SHIP_phaseera: "Phaseera" #!Empty_LineInfo!
+	SITH_SHIP_puloorn: "Puloorn" #!Empty_LineInfo!
+	SITH_SHIP_quermia: "Quermia" #!Empty_LineInfo!
+	SITH_SHIP_randon: "Randon" #!Empty_LineInfo!
+	SITH_SHIP_rekkiad: "Rekkiad" #!Empty_LineInfo!
+	SITH_SHIP_roon: "Roon" #!Empty_LineInfo!
+	SITH_SHIP_ruusan: "Ruusan" #!Empty_LineInfo!
+	SITH_SHIP_sanrafsix: "Sanrafsix" #!Empty_LineInfo!
+	SITH_SHIP_sarrassia: "Sarrassia" #!Empty_LineInfo!
+	SITH_SHIP_skarpos: "Skarpos" #!Empty_LineInfo!
+	SITH_SHIP_vjun: "Vjun" #!Empty_LineInfo!
+	SITH_SHIP_volik: "Volik" #!Empty_LineInfo!
+	SITH_SHIP_orreg: "Orreg" #!Empty_LineInfo!
+	SITH_SHIP_ryav: "Ryav" #!Empty_LineInfo!
+	SITH_SHIP_purple_dunes: "Purple Dunes" #!Empty_LineInfo!
+	SITH_SHIP_elvaarnos: "Elvaarnos" #!Empty_LineInfo!
+	SITH_SHIP_roston: "Roston" #!Empty_LineInfo!
+	SITH_SHIP_kithar: "Kithar" #!Empty_LineInfo!
+	SITH_SHIP_telmath: "Telmath" #!Empty_LineInfo!
+	SITH_SHIP_cham: "Cham" #!Empty_LineInfo!
+	SITH_SHIP_glorim: "Glorim" #!Empty_LineInfo!
+	SITH_SHIP_eorm: "Eorm" #!Empty_LineInfo!
+	SITH_SHIP_sessal_spire: "Sessal Spire" #!Empty_LineInfo!
+	SITH_SHIP_wyldar: "Wyldar" #!Empty_LineInfo!
+	SITH_SHIP_rees: "Rees" #!Empty_LineInfo!
+	SITH_SHIP_tahv: "Tahv" #!Empty_LineInfo!
+	SITH_SHIP_sharv: "Sharv" #!Empty_LineInfo!
+	SITH_SHIP_zandi: "Zandi" #!Empty_LineInfo!
+	SITH_SHIP_berav: "Berav" #!Empty_LineInfo!
+	SITH_SHIP_takara: "Takara" #!Empty_LineInfo!
+	SITH_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	SITH_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	SITH_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	SITH_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	SITH_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	SITH_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	SITH_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_imperial_escort: "Imperial Escort" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	SITH_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	SITH_FLEET_1st__tulak__battle_group: "1st 'Tulak' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_2nd__ajunta__battle_group: "2nd 'Ajunta' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_3rd__ragnos__battle_group: "3rd 'Ragnos' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_4th__sadow__battle_group: "4th 'Sadow' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_5th__exar__battle_group: "5th 'Exar' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_6th__malgus__battle_group: "6th 'Malgus' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_7th__marr__battle_group: "7th 'Marr' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_8th__bane__battle_group: "8th 'Bane' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_9th__traya__battle_group: "9th 'Traya' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_10th__tyranus__battle_group: "10th 'Tyranus' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_11th__kressh__battle_group: "11th 'Kressh' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_12th__sorzus__battle_group: "12th 'Sorzus' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_13th__karness__battle_group: "13th 'Karness' Battle Group" #!Empty_LineInfo!
+	SITH_FLEET_sith_expeditionary_force_ORD: "$ORD$ Sith Expeditionary Force" #!Empty_LineInfo!
+	SITH_ARMY_sithsworn_guard_ORD: "$ORD$ Sithsworn Guard" #!Empty_LineInfo!
+	SITH_ARMY_devastator_battalion_ORD: "$ORD$ Devastator Battalion" #!Empty_LineInfo!
+	SITH_ARMY_branded_rifles_ORD: "$ORD$ Branded Rifles" #!Empty_LineInfo!
+	SITH_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	SITH_ARMY_wardroid_group_ORD: "$ORD$ Wardroid Group" #!Empty_LineInfo!
+	SITH_ARMY_wardroid_matrix_ORD: "$ORD$ Wardroid Matrix" #!Empty_LineInfo!
+	SITH_ARMY_juggernauts_ORD: "$ORD$ Juggernauts" #!Empty_LineInfo!
+	SITH_ARMY_sithspawn_detachment_ORD: "$ORD$ Sithspawn Detachment" #!Empty_LineInfo!
+	SITH_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	SITH_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	SITH_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	SITH_ARMY_sith_garrison_force_ORD: "$ORD$ Sith Garrison Force" #!Empty_LineInfo!
+	SITH_ARMY_wardroid_garrison_ORD: "$ORD$ Wardroid Garrison" #!Empty_LineInfo!
+	SITH_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	SITH_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	SITH_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	SITH_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	SITH_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	SITH_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	SITH_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	SITH_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	SITH_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	SITH_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	SITH_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	SITH_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	SITH_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	SITH_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	SITH_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	SITH_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	SITH_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	SITH_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	SITH_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	SITH_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	SITH_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	SITH_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	SITH_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	SITH_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	SITH_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	SITH_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	SITH_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	SITH_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	SITH_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	SITH_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	SITH_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	SITH_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	SITH_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	SITH_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	SITH_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	SITH_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	SITH_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	SITH_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	SITH_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	SITH_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	SITH_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	SITH_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	SITH_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	SITH_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	SITH_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	SITH_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	SITH_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	SITH_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	SITH_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	SITH_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	SITH_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	SITH_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	SITH_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	SITH_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	SITH_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	SITH_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	SITH_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	SITH_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	SITH_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	SITH_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	SITH_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	SITH_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	SITH_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	SITH_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	SITH_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	SITH_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	SITH_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	SITH_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	SITH_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	SITH_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	SITH_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	SITH_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	SITH_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	SITH_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	SITH_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	SITH_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	SITH_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	SITH_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	SITH_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	SITH_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	SITH_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	SITH_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	SITH_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	SITH_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	SITH_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	SITH_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	SITH_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	SITH_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	SITH_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	SITH_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	SITH_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	SITH_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	SITH_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	SITH_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	SITH_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	SITH_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	SITH_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	SITH_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	SITH_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	SITH_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	SITH_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	SITH_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	SITH_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	SITH_CHR_lord: "Lord" #!Empty_LineInfo!
+	SITH_CHR_dread_lord: "Dread Lord" #!Empty_LineInfo!
+	SITH_CHR_inquisitor: "Inquisitor" #!Empty_LineInfo!
+	SITH_CHR_battlelord: "Battlelord" #!Empty_LineInfo!
+	SITH_CHR_master: "Master" #!Empty_LineInfo!
+	SITH_CHR_alchemist: "Alchemist" #!Empty_LineInfo!
+	SITH_CHR_dark_lord: "Dark Lord" #!Empty_LineInfo!
+	SITH_CHR_darth: "Darth" #!Empty_LineInfo!
+	SITH_CHR_grand_consort: "Grand Consort" #!Empty_LineInfo!
+	SITH_CHR_high_lord: "High Lord" #!Empty_LineInfo!
+	SITH_CHR_prophet: "Prophet" #!Empty_LineInfo!
+	SITH_CHR_seer: "Seer" #!Empty_LineInfo!
+	SITH_CHR_overlord: "Overlord" #!Empty_LineInfo!
+	SITH_CHR_overseer: "Overseer" #!Empty_LineInfo!
+	SITH_CHR_lady: "Lady" #!Empty_LineInfo!
+	SITH_CHR_dread_lady: "Dread Lady" #!Empty_LineInfo!
+	SITH_CHR_mistress: "Mistress" #!Empty_LineInfo!
+	SITH_CHR_dark_lady: "Dark Lady" #!Empty_LineInfo!
+	SITH_CHR_high_lady: "High Lady" #!Empty_LineInfo!
+	SITH_CHR_prophetess: "Prophetess" #!Empty_LineInfo!
+	SITH_CHR_abaron: "Abaron" #!Empty_LineInfo!
+	SITH_CHR_adas: "Adas" #!Empty_LineInfo!
+	SITH_CHR_alarii: "Alarii" #!Empty_LineInfo!
+	SITH_CHR_althe: "Althe" #!Empty_LineInfo!
+	SITH_CHR_arkous: "Arkous" #!Empty_LineInfo!
+	SITH_CHR_arosh: "Arosh" #!Empty_LineInfo!
+	SITH_CHR_avarok: "Avarok" #!Empty_LineInfo!
+	SITH_CHR_avorr: "Avorr" #!Empty_LineInfo!
+	SITH_CHR_bensyn: "Bensyn" #!Empty_LineInfo!
+	SITH_CHR_breesh: "Breesh" #!Empty_LineInfo!
+	SITH_CHR_carnus: "Carnus" #!Empty_LineInfo!
+	SITH_CHR_carnor: "Carnor" #!Empty_LineInfo!
+	SITH_CHR_chane: "Chane" #!Empty_LineInfo!
+	SITH_CHR_chaskar: "Chaskar" #!Empty_LineInfo!
+	SITH_CHR_cherkolotar: "Cherkolotar" #!Empty_LineInfo!
+	SITH_CHR_cyrsip: "Cyrsip" #!Empty_LineInfo!
+	SITH_CHR_cytharat: "Cytharat" #!Empty_LineInfo!
+	SITH_CHR_dakhan: "Dakhan" #!Empty_LineInfo!
+	SITH_CHR_shar: "Shar" #!Empty_LineInfo!
+	SITH_CHR_davorak: "Davorak" #!Empty_LineInfo!
+	SITH_CHR_desora: "Desora" #!Empty_LineInfo!
+	SITH_CHR_xynso: "Xynso" #!Empty_LineInfo!
+	SITH_CHR_doruk: "Doruk" #!Empty_LineInfo!
+	SITH_CHR_dramath: "Dramath" #!Empty_LineInfo!
+	SITH_CHR_taliav: "Taliav" #!Empty_LineInfo!
+	SITH_CHR_engdo: "Engdo" #!Empty_LineInfo!
+	SITH_CHR_fa_ann: "Fa'ann" #!Empty_LineInfo!
+	SITH_CHR_fentis: "Fentis" #!Empty_LineInfo!
+	SITH_CHR_brach: "Brach" #!Empty_LineInfo!
+	SITH_CHR_gal_ram: "Gal-ram" #!Empty_LineInfo!
+	SITH_CHR_galall: "Galall" #!Empty_LineInfo!
+	SITH_CHR_baous: "Baous" #!Empty_LineInfo!
+	SITH_CHR_gapuois: "Gapuois" #!Empty_LineInfo!
+	SITH_CHR_graush: "Graush" #!Empty_LineInfo!
+	SITH_CHR_dathka: "Dathka" #!Empty_LineInfo!
+	SITH_CHR_hakagram: "Hakagram" #!Empty_LineInfo!
+	SITH_CHR_hestus: "Hestus" #!Empty_LineInfo!
+	SITH_CHR_horak_muli: "Horak-muli" #!Empty_LineInfo!
+	SITH_CHR_igrol: "Igrol" #!Empty_LineInfo!
+	SITH_CHR_ikoral: "Ikoral" #!Empty_LineInfo!
+	SITH_CHR_ishla: "Ishla" #!Empty_LineInfo!
+	SITH_CHR_izar: "Izar" #!Empty_LineInfo!
+	SITH_CHR_jhael: "Jhael" #!Empty_LineInfo!
+	SITH_CHR_fahren: "Fahren" #!Empty_LineInfo!
+	SITH_CHR_jaj: "Jaj" #!Empty_LineInfo!
+	SITH_CHR_jekhop: "Jekhop" #!Empty_LineInfo!
+	SITH_CHR_jinatte: "Jinatte" #!Empty_LineInfo!
+	SITH_CHR_yshaar: "Yshaar" #!Empty_LineInfo!
+	SITH_CHR_kael: "Kael" #!Empty_LineInfo!
+	SITH_CHR_kaur: "Kaur" #!Empty_LineInfo!
+	SITH_CHR_za_heen: "Za'heen" #!Empty_LineInfo!
+	SITH_CHR_kahesh: "Kahesh" #!Empty_LineInfo!
+	SITH_CHR_kantale: "Kantale" #!Empty_LineInfo!
+	SITH_CHR_sylen: "Sylen" #!Empty_LineInfo!
+	SITH_CHR_kempar: "Kempar" #!Empty_LineInfo!
+	SITH_CHR_keryha: "Keryha" #!Empty_LineInfo!
+	SITH_CHR_valik: "Valik" #!Empty_LineInfo!
+	SITH_CHR_kodank: "Kodank" #!Empty_LineInfo!
+	SITH_CHR_komok: "Komok" #!Empty_LineInfo!
+	SITH_CHR_kressh: "Kressh" #!Empty_LineInfo!
+	SITH_CHR_exal: "Exal" #!Empty_LineInfo!
+	SITH_CHR_elcho: "Elcho" #!Empty_LineInfo!
+	SITH_CHR_ludo: "Ludo" #!Empty_LineInfo!
+	SITH_CHR_vodal: "Vodal" #!Empty_LineInfo!
+	SITH_CHR_domoru: "Domoru" #!Empty_LineInfo!
+	SITH_CHR_krev: "Krev" #!Empty_LineInfo!
+	SITH_CHR_krovos: "Krovos" #!Empty_LineInfo!
+	SITH_CHR_kurse: "Kurse" #!Empty_LineInfo!
+	SITH_CHR_kyyrah: "Kyyrah" #!Empty_LineInfo!
+	SITH_CHR_ladra: "Ladra" #!Empty_LineInfo!
+	SITH_CHR_garahe: "Garahe" #!Empty_LineInfo!
+	SITH_CHR_lesi: "Lesi" #!Empty_LineInfo!
+	SITH_CHR_lorus: "Lorus" #!Empty_LineInfo!
+	SITH_CHR_loun: "Loun" #!Empty_LineInfo!
+	SITH_CHR_luthro: "Luthro" #!Empty_LineInfo!
+	SITH_CHR_majzon: "Majzon" #!Empty_LineInfo!
+	SITH_CHR_maraad: "Maraad" #!Empty_LineInfo!
+	SITH_CHR_materrus: "Materrus" #!Empty_LineInfo!
+	SITH_CHR_mathieren: "Mathieren" #!Empty_LineInfo!
+	SITH_CHR_myrox: "Myrox" #!Empty_LineInfo!
+	SITH_CHR_minax: "Minax" #!Empty_LineInfo!
+	SITH_CHR_nyriss: "Nyriss" #!Empty_LineInfo!
+	SITH_CHR_ogun: "Ogun" #!Empty_LineInfo!
+	SITH_CHR_orazio: "Orazio" #!Empty_LineInfo!
+	SITH_CHR_auux: "Auux" #!Empty_LineInfo!
+	SITH_CHR_paladius: "Paladius" #!Empty_LineInfo!
+	SITH_CHR_paolen: "Paolen" #!Empty_LineInfo!
+	SITH_CHR_praven: "Praven" #!Empty_LineInfo!
+	SITH_CHR_r_hoteb: "R'hoteb" #!Empty_LineInfo!
+	SITH_CHR_marka: "Marka" #!Empty_LineInfo!
+	SITH_CHR_rasche: "Rasche" #!Empty_LineInfo!
+	SITH_CHR_raspir: "Raspir" #!Empty_LineInfo!
+	SITH_CHR_rath: "Rath" #!Empty_LineInfo!
+	SITH_CHR_sek_nos: "Sek'nos" #!Empty_LineInfo!
+	SITH_CHR_thok: "Thok" #!Empty_LineInfo!
+	SITH_CHR_rhexa: "Rhexa" #!Empty_LineInfo!
+	SITH_CHR_naga: "Naga" #!Empty_LineInfo!
+	SITH_CHR_sathel: "Sathel" #!Empty_LineInfo!
+	SITH_CHR_saviel: "Saviel" #!Empty_LineInfo!
+	SITH_CHR_scourge: "Scourge" #!Empty_LineInfo!
+	SITH_CHR_seake: "Seake" #!Empty_LineInfo!
+	SITH_CHR_miarta: "Miarta" #!Empty_LineInfo!
+	SITH_CHR_serevin: "Serevin" #!Empty_LineInfo!
+	SITH_CHR_serrod: "Serrod" #!Empty_LineInfo!
+	SITH_CHR_shaar: "Shaar" #!Empty_LineInfo!
+	SITH_CHR_simus: "Simus" #!Empty_LineInfo!
+	SITH_CHR_soverus: "Soverus" #!Empty_LineInfo!
+	SITH_CHR_synar: "Synar" #!Empty_LineInfo!
+	SITH_CHR_tanzu: "Tanzu" #!Empty_LineInfo!
+	SITH_CHR_tetsu: "Tetsu" #!Empty_LineInfo!
+	SITH_CHR_karnak: "Karnak" #!Empty_LineInfo!
+	SITH_CHR_andreaus: "Andreaus" #!Empty_LineInfo!
+	SITH_CHR_thos: "Thos" #!Empty_LineInfo!
+	SITH_CHR_torius: "Torius" #!Empty_LineInfo!
+	SITH_CHR_tormen: "Tormen" #!Empty_LineInfo!
+	SITH_CHR_trok: "Trok" #!Empty_LineInfo!
+	SITH_CHR_twintan: "Twintan" #!Empty_LineInfo!
+	SITH_CHR_vex: "Vex" #!Empty_LineInfo!
+	SITH_CHR_dantos: "Dantos" #!Empty_LineInfo!
+	SITH_CHR_vincine: "Vincine" #!Empty_LineInfo!
+	SITH_CHR_vindican: "Vindican" #!Empty_LineInfo!
+	SITH_CHR_vindis: "Vindis" #!Empty_LineInfo!
+	SITH_CHR_vodd: "Vodd" #!Empty_LineInfo!
+	SITH_CHR_vowrawn: "Vowrawn" #!Empty_LineInfo!
+	SITH_CHR_ravilan: "Ravilan" #!Empty_LineInfo!
+	SITH_CHR_wroth: "Wroth" #!Empty_LineInfo!
+	SITH_CHR_wroth_the_elder: "Wroth the Elder" #!Empty_LineInfo!
+	SITH_CHR_wroth_the_younger: "Wroth the Younger" #!Empty_LineInfo!
+	SITH_CHR_xiang: "Xiang" #!Empty_LineInfo!
+	SITH_CHR_saveel: "Saveel" #!Empty_LineInfo!
+	SITH_CHR_yacommsa: "Yacommsa" #!Empty_LineInfo!
+	SITH_CHR_yarri: "Yarri" #!Empty_LineInfo!
+	SITH_CHR_silas: "Silas" #!Empty_LineInfo!
+	SITH_CHR_yun_weah: "Yun'weah" #!Empty_LineInfo!
+	SITH_CHR_zavrasha: "Zavrasha" #!Empty_LineInfo!
+	SITH_CHR_apprentice: "Apprentice" #!Empty_LineInfo!
+	SITH_CHR_acolyte: "Acolyte" #!Empty_LineInfo!
+	SITH_CHR_neophyte: "Neophyte" #!Empty_LineInfo!

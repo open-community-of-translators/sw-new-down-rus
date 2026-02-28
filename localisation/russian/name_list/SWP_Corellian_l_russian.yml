@@ -1,1431 +1,1431 @@
 ﻿l_russian:
-	CORELLIAN_SHIP_peregrine: "Peregrine"
-	CORELLIAN_SHIP_spirit_of_coronet: "Spirit of Coronet"
-	CORELLIAN_SHIP_independence: "Independence"
-	CORELLIAN_SHIP_sovereign: "Sovereign"
-	CORELLIAN_SHIP_bel_ibis: "Bel Ibis"
-	CORELLIAN_SHIP_sal_solo: "Sal Solo"
-	CORELLIAN_SHIP_kolene: "Kolene"
-	CORELLIAN_SHIP_tyrena: "Tyrena"
-	CORELLIAN_SHIP_valorum: "Valorum"
-	CORELLIAN_SHIP_cutlass: "Cutlass"
-	CORELLIAN_SHIP_vigilant: "Vigilant"
-	CORELLIAN_SHIP_sentry: "Sentry"
-	CORELLIAN_SHIP_custode: "Custode"
-	CORELLIAN_SHIP_monitor: "Monitor"
-	CORELLIAN_SHIP_defender: "Defender"
-	CORELLIAN_SHIP_lillibanca: "Lillibanca"
-	CORELLIAN_SHIP_bloodstripe: "Bloodstripe"
-	CORELLIAN_SHIP_determination: "Determination"
-	CORELLIAN_SHIP_gus_talon: "Gus Talon"
-	CORELLIAN_SHIP_gus_treta: "Gus Treta"
-	CORELLIAN_SHIP_fire_of_drall: "Fire of Drall"
-	CORELLIAN_SHIP_bond_of_talus: "Bond of Talus"
-	CORELLIAN_SHIP_tralus_resplendent: "Tralus Resplendent"
-	CORELLIAN_SHIP_selonian_queen: "Selonian Queen"
-	CORELLIAN_SHIP_glory_of_corellia: "Glory of Corellia"
-	CORELLIAN_SHIP_crollia: "Crollia"
-	CORELLIAN_SHIP_soronia: "Soronia"
-	CORELLIAN_SHIP_rayless: "Rayless"
-	CORELLIAN_SHIP_lantern: "Lantern"
-	CORELLIAN_SHIP_razorcat: "Razorcat"
-	CORELLIAN_SHIP_trifecta: "Trifecta"
-	CORELLIAN_SHIP_corell: "Corell"
-	CORELLIAN_SHIP_brotherhood: "Brotherhood"
-	CORELLIAN_SHIP_kith: "Kith"
-	CORELLIAN_SHIP_kin: "Kin"
-	CORELLIAN_SHIP_elder_brother: "Elder Brother"
-	CORELLIAN_SHIP_middle_child: "Middle Child"
-	CORELLIAN_SHIP_grass_snake: "Grass Snake"
-	CORELLIAN_SHIP_sand_panther: "Sand Panther"
-	CORELLIAN_SHIP_kor_vella: "Kor Vella"
-	CORELLIAN_SHIP_doaba_guerfel: "Doaba Guerfel"
-	CORELLIAN_SHIP_bela_vistal: "Bela Vistal"
-	CORELLIAN_SHIP_founder: "Founder"
-	CORELLIAN_SHIP_rabaan: "Rabaan"
-	CORELLIAN_SHIP_socorro: "Socorro"
-	CORELLIAN_SHIP_trulalis: "Trulalis"
-	CORELLIAN_SHIP_trigalis: "Trigalis"
-	CORELLIAN_SHIP_meridian: "Meridian"
-	CORELLIAN_SHIP_contemplanys: "Contemplanys"
-	CORELLIAN_SHIP_hermi: "Hermi"
-	CORELLIAN_SHIP_nomad: "Nomad"
-	CORELLIAN_SHIP_king_berethron: "King Berethron"
-	CORELLIAN_SHIP_diktat: "Diktat"
-	CORELLIAN_SHIP_senator_fordox: "Senator Fordox"
-	CORELLIAN_SHIP_merricope: "Merricope"
-	CORELLIAN_SHIP_thomree: "Thomree"
-	CORELLIAN_SHIP_gallamby: "Gallamby"
-	CORELLIAN_SHIP_beruss: "Beruss"
-	CORELLIAN_SHIP_sanctuary: "Sanctuary"
-	CORELLIAN_SHIP_governor_marcha: "Governor Marcha"
-	CORELLIAN_SHIP_vreni: "Vreni"
-	CORELLIAN_SHIP_hunchuzuc: "Hunchuzuc"
-	CORELLIAN_SHIP_agrilat: "Agrilat"
-	CORELLIAN_SHIP_denendre: "Denendre"
-	CORELLIAN_SHIP_dregan: "Dregan"
-	CORELLIAN_SHIP_bindreg: "Bindreg"
-	CORELLIAN_SHIP_kenalpa: "Kenalpa"
-	CORELLIAN_SHIP_blackfish: "Blackfish"
-	CORELLIAN_SHIP_bageraset: "Bageraset"
-	CORELLIAN_SHIP_blethyline: "Blethyline"
-	CORELLIAN_SHIP_canoid: "Canoid"
-	CORELLIAN_SHIP_carrion_spat: "Carrion Spat"
-	CORELLIAN_SHIP_banshee: "Banshee"
-	CORELLIAN_SHIP_sea_ray: "Sea Ray"
-	CORELLIAN_SHIP_slice_hound: "Slice Hound"
-	CORELLIAN_SHIP_dire_cat: "Dire-cat"
-	CORELLIAN_SHIP_durni: "Durni"
-	CORELLIAN_SHIP_gronda: "Gronda"
-	CORELLIAN_SHIP_gubbur: "Gubbur"
-	CORELLIAN_SHIP_gulginaw: "Gulginaw"
-	CORELLIAN_SHIP_gurrcat: "Gurrcat"
-	CORELLIAN_SHIP_krevol: "Krevol"
-	CORELLIAN_SHIP_jaggalor: "Jaggalor"
-	CORELLIAN_SHIP_krahbu: "Krahbu"
-	CORELLIAN_SHIP_murra: "Murra"
-	CORELLIAN_SHIP_paledor: "Paledor"
-	CORELLIAN_SHIP_pulsar_skate: "Pulsar Skate"
-	CORELLIAN_SHIP_raptor: "Raptor"
-	CORELLIAN_SHIP_razor_cat: "Razor Cat"
-	CORELLIAN_SHIP_sharnaff: "Sharnaff"
-	CORELLIAN_SHIP_slopewing: "Slopewing"
-	CORELLIAN_SHIP_tabage: "Tabage"
-	CORELLIAN_SHIP_tarkaline: "Tarkaline"
-	CORELLIAN_SHIP_vrelt: "Vrelt"
-	CORELLIAN_SHIP_wonat: "Wonat"
-	CORELLIAN_SHIP_gallant: "Gallant"
-	CORELLIAN_SHIP_recluse: "Recluse"
-	CORELLIAN_SHIP_liberty: "Liberty"
-	CORELLIAN_SHIP_righteous: "Righteous"
-	CORELLIAN_SHIP_universal: "Universal"
-	CORELLIAN_SHIP_beneficence: "Beneficence"
-	CORELLIAN_SHIP_autark: "Autark"
-	CORELLIAN_SHIP_autonomy: "Autonomy"
-	CORELLIAN_SHIP_autonomous: "Autonomous"
-	CORELLIAN_SHIP_home_rule: "Home Rule"
-	CORELLIAN_SHIP_daring: "Daring"
-	CORELLIAN_SHIP_valorant: "Valorant"
-	CORELLIAN_SHIP_void_sister: "Void Sister"
-	CORELLIAN_SHIP_center_bound: "Center Bound"
-	CORELLIAN_SHIP_fire_of_the_free: "Fire of the Free"
-	CORELLIAN_SHIP_agency: "Agency"
-	CORELLIAN_SHIP_free_will: "Free Will"
-	CORELLIAN_SHIP_settler: "Settler"
-	CORELLIAN_SHIP_trekker: "Trekker"
-	CORELLIAN_SHIP_pioneer: "Pioneer"
-	CORELLIAN_SHIP_expedition: "Expedition"
-	CORELLIAN_SHIP_firebolt: "Firebolt"
-	CORELLIAN_SHIP_ardent: "Ardent"
-	CORELLIAN_SHIP_chief: "Chief"
-	CORELLIAN_SHIP_constitution: "Constitution"
-	CORELLIAN_SHIP_dextrous: "Dextrous"
-	CORELLIAN_SHIP_freedom: "Freedom"
-	CORELLIAN_SHIP_gladiator: "Gladiator"
-	CORELLIAN_SHIP_monsoon: "Monsoon"
-	CORELLIAN_SHIP_zimitz: "Zimitz"
-	CORELLIAN_SHIP_patriot: "Patriot"
-	CORELLIAN_SHIP_port_royal: "Port Royal"
-	CORELLIAN_SHIP_providence: "Providence"
-	CORELLIAN_SHIP_starwolf: "Starwolf"
-	CORELLIAN_SHIP_squall: "Squall"
-	CORELLIAN_SHIP_stockade: "Stockade"
-	CORELLIAN_SHIP_rampart: "Rampart"
-	CORELLIAN_SHIP_loyal: "Loyal"
-	CORELLIAN_SHIP_invincible: "Invincible"
-	CORELLIAN_SHIP_spearhead: "Spearhead"
-	CORELLIAN_SHIP_impeccable: "Impeccable"
-	CORELLIAN_SHIP_pathfinder: "Pathfinder"
-	CORELLIAN_SHIP_red_cloud: "Red Cloud"
-	CORELLIAN_SHIP_victorious: "Victorious"
-	CORELLIAN_SHIP_arko: "Arko"
-	CORELLIAN_SHIP_defiant: "Defiant"
-	CORELLIAN_SHIP_valiant: "Valiant"
-	CORELLIAN_SHIP_antares: "Antares"
-	CORELLIAN_SHIP_resolute: "Resolute"
-	CORELLIAN_SHIP_beckoner: "Beckoner"
-	CORELLIAN_SHIP_steadfast: "Steadfast"
-	CORELLIAN_SHIP_stardust: "Stardust"
-	CORELLIAN_SHIP_insurrection: "Insurrection"
-	CORELLIAN_SHIP_freedom_fighter: "Freedom Fighter"
-	CORELLIAN_SHIP_neebray: "Neebray"
-	CORELLIAN_SHIP_supernova: "Supernova"
-	CORELLIAN_SHIP_golden_age: "Golden Age"
-	CORELLIAN_SHIP_jonash: "Jonash"
-	CORELLIAN_SHIP_prince_admiral: "Prince Admiral"
-	CORELLIAN_SHIP_cape_alsaka: "Cape Alsaka"
-	CORELLIAN_SHIP_korol: "Korol"
-	CORELLIAN_SHIP_star_stallion: "Star Stallion"
-	CORELLIAN_SHIP_buccaneer: "Buccaneer"
-	CORELLIAN_SHIP_freehold: "Freehold"
-	CORELLIAN_SHIP_equality: "Equality"
-	CORELLIAN_SHIP_frontier: "Frontier"
-	CORELLIAN_SHIP_homestead: "Homestead"
-	CORELLIAN_SHIP_newcomer: "Newcomer"
-	CORELLIAN_SHIP_trailblazer: "Trailblazer"
-	CORELLIAN_SHIP_halcyon: "Halcyon"
-	CORELLIAN_SHIP_longspur: "Longspur"
-	CORELLIAN_SHIP_itinerant: "Itinerant"
-	CORELLIAN_SHIP_wayfarer: "Wayfarer"
-	CORELLIAN_SHIP_wanderer: "Wanderer"
-	CORELLIAN_SHIP_roamer: "Roamer"
-	CORELLIAN_SHIP_farstrike: "Farstrike"
-	CORELLIAN_SHIP_brawler: "Brawler"
-	CORELLIAN_SHIP_brazen: "Brazen"
-	CORELLIAN_SHIP_representative: "Representative"
-	CORELLIAN_SHIP_threkin: "Threkin"
-	CORELLIAN_SHIP_jaina_the_elder: "Jaina the Elder"
-	CORELLIAN_SHIP_jaina_the_younger: "Jaina the Younger"
-	CORELLIAN_SHIP_free_reign: "Free Reign"
-	CORELLIAN_SHIP_free_hand: "Free Hand"
-	CORELLIAN_SHIP_liberality: "Liberality"
-	CORELLIAN_SHIP_corell_first: "Corell First"
-	CORELLIAN_SHIP_lawbringer: "Lawbringer"
-	CORELLIAN_SHIP_demos: "Demos"
-	CORELLIAN_SHIP_tolerance: "Tolerance"
-	CORELLIAN_SHIP_prudence: "Prudence"
-	CORELLIAN_SHIP_prudential: "Prudential"
-	CORELLIAN_SHIP_forbearance: "Forbearance"
-	CORELLIAN_SHIP_magnanimity: "Magnanimity"
-	CORELLIAN_SHIP_permissive: "Permissive"
-	CORELLIAN_SHIP_fortitude: "Fortitude"
-	CORELLIAN_SHIP_perseverance: "Perseverance"
-	CORELLIAN_SHIP_torrent: "Torrent"
-	CORELLIAN_SHIP_freebird: "Freebird"
-	CORELLIAN_SHIP_novaflame: "Novaflame"
-	CORELLIAN_SHIP_starhawk: "Starhawk"
-	CORELLIAN_SHIP_starbird: "Starbird"
-	CORELLIAN_SHIP_ramos: "Ramos"
-	CORELLIAN_SHIP_bedoch: "Bedoch"
-	CORELLIAN_SHIP_redick: "Redick"
-	CORELLIAN_SHIP_green_council: "Green Council"
-	CORELLIAN_SHIP_berethon: "Berethon"
-	CORELLIAN_SHIP_cerulian: "Cerulian"
-	CORELLIAN_SHIP_korin: "Korin"
-	CORELLIAN_SHIP_redris: "Redris"
-	CORELLIAN_SHIP_krahnn: "Krahnn"
-	CORELLIAN_SHIP_qella_tak: "Qella'tak"
-	CORELLIAN_SHIP_thunder_dragon: "Thunder Dragon"
-	CORELLIAN_SHIP_seldin: "Seldin"
-	CORELLIAN_SHIP_taradon: "Taradon"
-	CORELLIAN_SHIP_saving_grace: "Saving Grace"
-	CORELLIAN_SHIP_diligent: "Diligent"
-	CORELLIAN_SHIP_emerald_lance: "Emerald Lance"
-	CORELLIAN_SHIP_nova_whisper: "Nova Whisper"
-	CORELLIAN_SHIP_saxan_s_pride: "Saxan's Pride"
-	CORELLIAN_SHIP_silaban: "Silaban"
-	CORELLIAN_SHIP_deliverance: "Deliverance"
-	CORELLIAN_SHIP_pride_of_the_rim: "Pride of the Rim"
-	CORELLIAN_SHIP_retribution: "Retribution"
-	CORELLIAN_SHIP_sundered_heart: "Sundered Heart"
-	CORELLIAN_SHIP_farstar: "FarStar"
-	CORELLIAN_SHIP_liberator: "Liberator"
-	CORELLIAN_SHIP_agara: "Agara"
-	CORELLIAN_SHIP_amber_star: "Amber Star"
-	CORELLIAN_SHIP_ast_ria: "Ast'ria"
-	CORELLIAN_SHIP_stin: "Stin"
-	CORELLIAN_SHIP_athega: "Athega"
-	CORELLIAN_SHIP_aurora: "Aurora"
-	CORELLIAN_SHIP_badlands: "Badlands"
-	CORELLIAN_SHIP_beacon: "Beacon"
-	CORELLIAN_SHIP_bilbringi: "Bilbringi"
-	CORELLIAN_SHIP_birkby: "Birkby"
-	CORELLIAN_SHIP_bixby: "Bixby"
-	CORELLIAN_SHIP_blackmist: "Blackmist"
-	CORELLIAN_SHIP_blazen: "Blazen"
-	CORELLIAN_SHIP_borealis: "Borealis"
-	CORELLIAN_SHIP_burke: "Burke"
-	CORELLIAN_SHIP_candor: "Candor"
-	CORELLIAN_SHIP_charger: "Charger"
-	CORELLIAN_SHIP_clavier: "Clavier"
-	CORELLIAN_SHIP_claw: "Claw"
-	CORELLIAN_SHIP_coen: "Coen"
-	CORELLIAN_SHIP_constrictor: "Constrictor"
-	CORELLIAN_SHIP_controller: "Controller"
-	CORELLIAN_SHIP_crescent: "Crescent"
-	CORELLIAN_SHIP_cularin: "Cularin"
-	CORELLIAN_SHIP_dar_es: "Dar Es"
-	CORELLIAN_SHIP_dinko: "Dinko"
-	CORELLIAN_SHIP_emancipator: "Emancipator"
-	CORELLIAN_SHIP_eridain: "Eridain"
-	CORELLIAN_SHIP_ession_strike: "Ession Strike"
-	CORELLIAN_SHIP_ethar: "Ethar"
-	CORELLIAN_SHIP_fa_loh_sui: "Fa-Loh-Sui"
-	CORELLIAN_SHIP_falcon: "Falcon"
-	CORELLIAN_SHIP_fang: "Fang"
-	CORELLIAN_SHIP_farrelly: "Farrelly"
-	CORELLIAN_SHIP_filve: "Filve"
-	CORELLIAN_SHIP_firestorm: "Firestorm"
-	CORELLIAN_SHIP_gaaltura_v: "Gaaltura V"
-	CORELLIAN_SHIP_galaxy_chance: "Galaxy Chance"
-	CORELLIAN_SHIP_geedon: "Geedon"
-	CORELLIAN_SHIP_glaser: "Glaser"
-	CORELLIAN_SHIP_glazer: "Glazer"
-	CORELLIAN_SHIP_godar: "Godar"
-	CORELLIAN_SHIP_grappler: "Grappler"
-	CORELLIAN_SHIP_habatok: "Habatok"
-	CORELLIAN_SHIP_halifax: "Halifax"
-	CORELLIAN_SHIP_howlrunner: "Howlrunner"
-	CORELLIAN_SHIP_hyko: "Hyko"
-	CORELLIAN_SHIP_intrepid: "Intrepid"
-	CORELLIAN_SHIP_indefatigable: "Indefatigable"
-	CORELLIAN_SHIP_jaina_s_light: "Jaina's Light"
-	CORELLIAN_SHIP_janson: "Janson"
-	CORELLIAN_SHIP_javelin: "Javelin"
-	CORELLIAN_SHIP_judicator: "Judicator"
-	CORELLIAN_SHIP_keeper: "Keeper"
-	CORELLIAN_SHIP_kern_s_pride: "Kern's Pride"
-	CORELLIAN_SHIP_korolev: "Korolev"
-	CORELLIAN_SHIP_lance: "Lance"
-	CORELLIAN_SHIP_last_hope: "Last Hope"
-	CORELLIAN_SHIP_lauhu: "Lauhu"
-	CORELLIAN_SHIP_lialic_ii: "Lialic II"
-	CORELLIAN_SHIP_libra: "Libra"
-	CORELLIAN_SHIP_magua: "Magua"
-	CORELLIAN_SHIP_mahan: "Mahan"
-	CORELLIAN_SHIP_manx: "Manx"
-	CORELLIAN_SHIP_mar_duun: "Mar Duun"
-	CORELLIAN_SHIP_masanya: "Masanya"
-	CORELLIAN_SHIP_neelian: "Neelian"
-	CORELLIAN_SHIP_novaflare: "NovaFlare"
-	CORELLIAN_SHIP_olrac_etnom: "Olrac Etnom"
-	CORELLIAN_SHIP_oramac: "Oramac"
-	CORELLIAN_SHIP_petor: "Petor"
-	CORELLIAN_SHIP_phazer_one: "Phazer One"
-	CORELLIAN_SHIP_phazer_two: "Phazer Two"
-	CORELLIAN_SHIP_pushti: "Pushti"
-	CORELLIAN_SHIP_qiluiy: "Qiluiy"
-	CORELLIAN_SHIP_ram_s_head: "Ram's Head"
-	CORELLIAN_SHIP_rancor_s_tooth: "Rancor's Tooth"
-	CORELLIAN_SHIP_ranger: "Ranger"
-	CORELLIAN_SHIP_ranolfo: "Ranolfo"
-	CORELLIAN_SHIP_razor: "Razor"
-	CORELLIAN_SHIP_old_red: "Old Red"
-	CORELLIAN_SHIP_red_tooth: "Red Tooth"
-	CORELLIAN_SHIP_renthal_s_fist: "Renthal's Fist"
-	CORELLIAN_SHIP_ritam: "Ritam"
-	CORELLIAN_SHIP_sable_three: "Sable Three"
-	CORELLIAN_SHIP_safonne_s_sword: "Safonne's Sword"
-	CORELLIAN_SHIP_saki: "Saki"
-	CORELLIAN_SHIP_scarlet_thranta: "Scarlet Thranta"
-	CORELLIAN_SHIP_shredder: "Shredder"
-	CORELLIAN_SHIP_shurik: "Shurik"
-	CORELLIAN_SHIP_smokeswimmer: "Smokeswimmer"
-	CORELLIAN_SHIP_sonnel: "Sonnel"
-	CORELLIAN_SHIP_spartzen: "Spartzen"
-	CORELLIAN_SHIP_stallion: "Stallion"
-	CORELLIAN_SHIP_starfall: "Starfall"
-	CORELLIAN_SHIP_starlight_wanderer: "Starlight Wanderer"
-	CORELLIAN_SHIP_stellar_damsel: "Stellar Damsel"
-	CORELLIAN_SHIP_storm: "Storm"
-	CORELLIAN_SHIP_stormstrike: "Stormstrike"
-	CORELLIAN_SHIP_striker: "Striker"
-	CORELLIAN_SHIP_sundog: "Sundog"
-	CORELLIAN_SHIP_talon: "Talon"
-	CORELLIAN_SHIP_tarnta_s_fang: "Tarnta's Fang"
-	CORELLIAN_SHIP_thaere_runner: "Thaere Runner"
-	CORELLIAN_SHIP_thrasher: "Thrasher"
-	CORELLIAN_SHIP_thunder: "Thunder"
-	CORELLIAN_SHIP_thunderstrike: "Thunderstrike"
-	CORELLIAN_SHIP_tiger_one: "Tiger One"
-	CORELLIAN_SHIP_triumph: "Triumph"
-	CORELLIAN_SHIP_typhoon: "Typhoon"
-	CORELLIAN_SHIP_ullet: "Ullet"
-	CORELLIAN_SHIP_viper: "Viper"
-	CORELLIAN_SHIP_vop_hui: "Vop Hui"
-	CORELLIAN_SHIP_vorknkx: "Vorknkx"
-	CORELLIAN_SHIP_warrior: "Warrior"
-	CORELLIAN_SHIP_windswept: "Windswept"
-	CORELLIAN_SHIP_wolf_pack: "Wolf-Pack"
-	CORELLIAN_SHIP_zahtjav: "Zahtjav"
-	CORELLIAN_SHIP_andronikos: "Andronikos"
-	CORELLIAN_SHIP_memory: "Memory"
-	CORELLIAN_SHIP_memento: "Memento"
-	CORELLIAN_SHIP_trade_wind: "Trade Wind"
-	CORELLIAN_SHIP_wanderlust: "Wanderlust"
-	CORELLIAN_SHIP_seeker: "Seeker"
-	CORELLIAN_SHIP_skyrunner: "Skyrunner"
-	CORELLIAN_SHIP_boundless: "Boundless"
-	CORELLIAN_SHIP_curiosity: "Curiosity"
-	CORELLIAN_SHIP_far_reach: "Far Reach"
-	CORELLIAN_SHIP_vagabond: "Vagabond"
-	CORELLIAN_SHIP_visitor: "Visitor"
-	CORELLIAN_SHIP_correl_torch: "Correl Torch"
-	CORELLIAN_SHIP_corsuca_light: "Corsuca Light"
-	CORELLIAN_SHIP_wagoneer: "Wagoneer"
-	CORELLIAN_SHIP_corellian_trail: "Corellian Trail"
-	CORELLIAN_SHIP_forder: "Forder"
-	CORELLIAN_SHIP_cortrekker: "CorTrekker"
-	CORELLIAN_SHIP_nova_coronet: "Nova Coronet"
-	CORELLIAN_SHIP_golden_roamer: "Golden Roamer"
-	CORELLIAN_SHIP_fresh_start: "Fresh Start"
-	CORELLIAN_SHIP_new_hope: "New Hope"
-	CORELLIAN_SHIP_prosperity: "Prosperity"
-	CORELLIAN_SHIP_settler_three: "Settler Three"
-	CORELLIAN_SHIP_bushwacker: "Bushwacker"
-	CORELLIAN_SHIP_industry: "Industry"
-	CORELLIAN_SHIP_assiduity: "Assiduity"
-	CORELLIAN_SHIP_effort: "Effort"
-	CORELLIAN_SHIP_laborer: "Laborer"
-	CORELLIAN_SHIP_builder: "Builder"
-	CORELLIAN_SHIP_craftsman: "Craftsman"
-	CORELLIAN_SHIP_corellian_grit: "Corellian Grit"
-	CORELLIAN_SHIP_progress: "Progress"
-	CORELLIAN_SHIP_sweat_and_tears: "Sweat and Tears"
-	CORELLIAN_SHIP_spirit_of_drall: "Spirit of Drall"
-	CORELLIAN_SHIP_selonian_temerity: "Selonian Temerity"
-	CORELLIAN_SHIP_creator: "Creator"
-	CORELLIAN_SHIP_developer: "Developer"
-	CORELLIAN_SHIP_forger: "Forger"
-	CORELLIAN_SHIP_foundry: "Foundry"
-	CORELLIAN_SHIP_star_seed: "Star Seed"
-	CORELLIAN_SHIP_attendant: "Attendant"
-	CORELLIAN_SHIP_groundshaker: "Groundshaker"
-	CORELLIAN_SHIP_utility_ship_four: "Utility Ship Four"
-	CORELLIAN_SHIP_ground_transport: "Транспортный корабль"
-	CORELLIAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	CORELLIAN_SHIP_spacegun_success: "SpaceGun Success"
-	CORELLIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	CORELLIAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	CORELLIAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	CORELLIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	CORELLIAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	CORELLIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	CORELLIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	CORELLIAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	CORELLIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	CORELLIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	CORELLIAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	CORELLIAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	CORELLIAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	CORELLIAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	CORELLIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	CORELLIAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	CORELLIAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	CORELLIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	CORELLIAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	CORELLIAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	CORELLIAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	CORELLIAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	CORELLIAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	CORELLIAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	CORELLIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	CORELLIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	CORELLIAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	CORELLIAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	CORELLIAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	CORELLIAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	CORELLIAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	CORELLIAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	CORELLIAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	CORELLIAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	CORELLIAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	CORELLIAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	CORELLIAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	CORELLIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	CORELLIAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	CORELLIAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	CORELLIAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	CORELLIAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	CORELLIAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	CORELLIAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	CORELLIAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	CORELLIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	CORELLIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	CORELLIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	CORELLIAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	CORELLIAN_SHIP_citadel: "Citadel"
-	CORELLIAN_SHIP_gateway: "Gateway"
-	CORELLIAN_SHIP_riverland: "Riverland"
-	CORELLIAN_SHIP_thaos: "Thaos"
-	CORELLIAN_SHIP_gold_beach: "Gold Beach"
-	CORELLIAN_SHIP_dregin_s_pike: "Dregin's Pike"
-	CORELLIAN_SHIP_suntir: "Suntir"
-	CORELLIAN_SHIP_coronet: "Coronet"
-	CORELLIAN_SHIP_rhaler_s_bastion: "Rhaler's Bastion"
-	CORELLIAN_SHIP_doaba: "Doaba"
-	CORELLIAN_SHIP_guerfel: "Guerfel"
-	CORELLIAN_SHIP_mount_malal: "Mount Malal"
-	CORELLIAN_SHIP_blastfield: "Blastfield"
-	CORELLIAN_SHIP_axial_park: "Axial Park"
-	CORELLIAN_SHIP_labor_valley: "Labor Valley"
-	CORELLIAN_SHIP_incorporation_islands: "Incorporation Islands"
-	CORELLIAN_SHIP_centerpoint: "Centerpoint"
-	CORELLIAN_SHIP_goldoa: "Goldoa"
-	CORELLIAN_SHIP_faramar: "Faramar"
-	CORELLIAN_SHIP_kankaura: "Kankaura"
-	CORELLIAN_SHIP_dreamland: "Dreamland"
-	CORELLIAN_SHIP_bombard: "Bombard"
-	CORELLIAN_SHIP_ballista: "Ballista"
-	CORELLIAN_SHIP_catapult: "Catapult"
-	CORELLIAN_SHIP_harpoon: "Harpoon"
-	CORELLIAN_SHIP_polybolos: "Polybolos"
-	CORELLIAN_SHIP_culverin: "Culverin"
-	CORELLIAN_SHIP_exemplary: "Exemplary"
-	CORELLIAN_SHIP_CLASS_cr_90: "CR-90"
-	CORELLIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	CORELLIAN_SHIP_CLASS_lupus: "Lupus"
-	CORELLIAN_SHIP_CLASS_asdroni: "Asdroni"
-	CORELLIAN_SHIP_CLASS_customs: "Customs"
-	CORELLIAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	CORELLIAN_SHIP_CLASS_scurge: "Scurge"
-	CORELLIAN_SHIP_CLASS_krayt: "Krayt"
-	CORELLIAN_SHIP_CLASS_diamond: "Diamond"
-	CORELLIAN_SHIP_CLASS_etti: "Etti"
-	CORELLIAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	CORELLIAN_SHIP_CLASS_vigil: "Vigil"
-	CORELLIAN_SHIP_CLASS_dp20: "DP20"
-	CORELLIAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	CORELLIAN_SHIP_CLASS_raider: "Raider"
-	CORELLIAN_SHIP_CLASS_dornean: "Dornean"
-	CORELLIAN_SHIP_CLASS_crusader: "Crusader"
-	CORELLIAN_SHIP_CLASS_marauder: "Marauder"
-	CORELLIAN_SHIP_CLASS_arquitens: "Arquitens"
-	CORELLIAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	CORELLIAN_SHIP_CLASS_pelta: "Pelta"
-	CORELLIAN_SHIP_CLASS_pinnace: "Pinnace"
-	CORELLIAN_SHIP_CLASS_nova: "Nova"
-	CORELLIAN_SHIP_CLASS_vigilance: "Vigilance"
-	CORELLIAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	CORELLIAN_SHIP_CLASS_cg_273: "CG-273"
-	CORELLIAN_SHIP_CLASS_kariek: "Kariek"
-	CORELLIAN_SHIP_CLASS_imperial_escort: "Imperial Escort"
-	CORELLIAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	CORELLIAN_SHIP_CLASS_lancer: "Lancer"
-	CORELLIAN_SHIP_CLASS_teroch: "Teroch"
-	CORELLIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	CORELLIAN_SHIP_CLASS_nova_ii: "Nova II"
-	CORELLIAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	CORELLIAN_SHIP_CLASS_velox: "Velox"
-	CORELLIAN_SHIP_CLASS_mc30c: "MC30c"
-	CORELLIAN_SHIP_CLASS_vengeance: "Vengeance"
-	CORELLIAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	CORELLIAN_SHIP_CLASS_cc_7700: "CC-7700"
-	CORELLIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	CORELLIAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	CORELLIAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	CORELLIAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	CORELLIAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	CORELLIAN_SHIP_CLASS_kontos: "Kontos"
-	CORELLIAN_SHIP_CLASS_mc40: "MC40"
-	CORELLIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	CORELLIAN_SHIP_CLASS_broadside: "Broadside"
-	CORELLIAN_SHIP_CLASS_protector: "Protector"
-	CORELLIAN_SHIP_CLASS_warlord: "Warlord"
-	CORELLIAN_SHIP_CLASS_gladiator: "Gladiator"
-	CORELLIAN_SHIP_CLASS_beviin: "Beviin"
-	CORELLIAN_SHIP_CLASS_liberator: "Liberator"
-	CORELLIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	CORELLIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	CORELLIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	CORELLIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	CORELLIAN_SHIP_CLASS_massias: "Massias"
-	CORELLIAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	CORELLIAN_SHIP_CLASS_kyramud: "Kyramud"
-	CORELLIAN_SHIP_CLASS_munificent: "Munificent"
-	CORELLIAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	CORELLIAN_SHIP_CLASS_acclamator: "Acclamator"
-	CORELLIAN_SHIP_CLASS_lictor: "Lictor"
-	CORELLIAN_SHIP_CLASS_bulwark: "Bulwark"
-	CORELLIAN_SHIP_CLASS_victory_i: "Victory I"
-	CORELLIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	CORELLIAN_SHIP_CLASS_bulk: "Bulk"
-	CORELLIAN_SHIP_CLASS_vindicator: "Vindicator"
-	CORELLIAN_SHIP_CLASS_dauntless: "Dauntless"
-	CORELLIAN_SHIP_CLASS_captor: "Captor"
-	CORELLIAN_SHIP_CLASS_au_riette: "Au'riette"
-	CORELLIAN_SHIP_CLASS_mc55: "MC55"
-	CORELLIAN_SHIP_CLASS_afthonia: "Afthonia"
-	CORELLIAN_SHIP_CLASS_victory_ii: "Victory II"
-	CORELLIAN_SHIP_CLASS_beroya: "Beroya"
-	CORELLIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	CORELLIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	CORELLIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	CORELLIAN_SHIP_CLASS_venator: "Venator"
-	CORELLIAN_SHIP_CLASS_centurion: "Centurion"
-	CORELLIAN_SHIP_CLASS_mc75: "MC75"
-	CORELLIAN_SHIP_CLASS_kandosii: "Kandosii"
-	CORELLIAN_SHIP_CLASS_corellian: "Corellian"
-	CORELLIAN_SHIP_CLASS_providence: "Providence"
-	CORELLIAN_SHIP_CLASS_syndic: "Syndic"
-	CORELLIAN_SHIP_CLASS_recusant: "Recusant"
-	CORELLIAN_SHIP_CLASS_invincible: "Invincible"
-	CORELLIAN_SHIP_CLASS_imperial_i: "Imperial I"
-	CORELLIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	CORELLIAN_SHIP_CLASS_procursator: "Procursator"
-	CORELLIAN_SHIP_CLASS_mc80a: "MC80a"
-	CORELLIAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	CORELLIAN_SHIP_CLASS_aggressor: "Aggressor"
-	CORELLIAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	CORELLIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	CORELLIAN_SHIP_CLASS_keldabe: "Keldabe"
-	CORELLIAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	CORELLIAN_SHIP_CLASS_chaf: "Chaf"
-	CORELLIAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	CORELLIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	CORELLIAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	CORELLIAN_SHIP_CLASS_dominator: "Dominator"
-	CORELLIAN_SHIP_CLASS_allegiance: "Allegiance"
-	CORELLIAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	CORELLIAN_SHIP_CLASS_phalanx: "Phalanx"
-	CORELLIAN_SHIP_CLASS_titan: "Titan"
-	CORELLIAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	CORELLIAN_SHIP_CLASS_star_home: "Star Home"
-	CORELLIAN_SHIP_CLASS_subjugator: "Subjugator"
-	CORELLIAN_SHIP_CLASS_bellator: "Bellator"
-	CORELLIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	CORELLIAN_SHIP_CLASS_executor: "Executor"
-	CORELLIAN_FLEET_battle_group_corellia: "Battle Group Corellia"
-	CORELLIAN_FLEET_battle_group_talus: "Battle Group Talus"
-	CORELLIAN_FLEET_battle_group_tralus: "Battle Group Tralus"
-	CORELLIAN_FLEET_battle_group_drall: "Battle Group Drall"
-	CORELLIAN_FLEET_battle_group_selonia: "Battle Group Selonia"
-	CORELLIAN_FLEET_corsec_squadron_ORD: "$ORD$ CorSec Squadron"
-	CORELLIAN_ARMY_corsec_detachment_ORD: "$ORD$ CorSec Detachment"
-	CORELLIAN_ARMY_volunteer_expeditionary_force_ORD: "$ORD$ Volunteer Expeditionary Force"
-	CORELLIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	CORELLIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	CORELLIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	CORELLIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	CORELLIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	CORELLIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	CORELLIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	CORELLIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	CORELLIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	CORELLIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	CORELLIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	CORELLIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	CORELLIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	CORELLIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	CORELLIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	CORELLIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	CORELLIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	CORELLIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	CORELLIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	CORELLIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	CORELLIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	CORELLIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	CORELLIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	CORELLIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	CORELLIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	CORELLIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	CORELLIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	CORELLIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	CORELLIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	CORELLIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	CORELLIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	CORELLIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	CORELLIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	CORELLIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	CORELLIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	CORELLIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	CORELLIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	CORELLIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	CORELLIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	CORELLIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	CORELLIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	CORELLIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	CORELLIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	CORELLIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	CORELLIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	CORELLIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	CORELLIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	CORELLIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	CORELLIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	CORELLIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	CORELLIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	CORELLIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	CORELLIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	CORELLIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	CORELLIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	CORELLIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	CORELLIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	CORELLIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	CORELLIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	CORELLIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	CORELLIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	CORELLIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	CORELLIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	CORELLIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	CORELLIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	CORELLIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	CORELLIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	CORELLIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	CORELLIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	CORELLIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	CORELLIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	CORELLIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	CORELLIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	CORELLIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	CORELLIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	CORELLIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	CORELLIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	CORELLIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	CORELLIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	CORELLIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	CORELLIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	CORELLIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	CORELLIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	CORELLIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	CORELLIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	CORELLIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	CORELLIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	CORELLIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	CORELLIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	CORELLIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	CORELLIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	CORELLIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	CORELLIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	CORELLIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	CORELLIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	CORELLIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	CORELLIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	CORELLIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	CORELLIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	CORELLIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	CORELLIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	CORELLIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	CORELLIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	CORELLIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	CORELLIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	CORELLIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	CORELLIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	CORELLIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	CORELLIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	CORELLIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	CORELLIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	CORELLIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	CORELLIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	CORELLIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	CORELLIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	CORELLIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	CORELLIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	CORELLIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	CORELLIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	CORELLIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	CORELLIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	CORELLIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	CORELLIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	CORELLIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	CORELLIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	CORELLIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	CORELLIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	CORELLIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	CORELLIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	CORELLIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	CORELLIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	CORELLIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	CORELLIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	CORELLIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	CORELLIAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	CORELLIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	CORELLIAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	CORELLIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	CORELLIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	CORELLIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	CORELLIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	CORELLIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	CORELLIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	CORELLIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	CORELLIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	CORELLIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	CORELLIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	CORELLIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	CORELLIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	CORELLIAN_CHR_thrackan: "Thrackan"
-	CORELLIAN_CHR_aiden: "Aiden"
-	CORELLIAN_CHR_wedge: "Wedge"
-	CORELLIAN_CHR_dur: "Dur"
-	CORELLIAN_CHR_keiran: "Keiran"
-	CORELLIAN_CHR_com: "Com"
-	CORELLIAN_CHR_shor: "Shor"
-	CORELLIAN_CHR_dupas: "Dupas"
-	CORELLIAN_CHR_zekka: "Zekka"
-	CORELLIAN_CHR_daclif: "Daclif"
-	CORELLIAN_CHR_crix: "Crix"
-	CORELLIAN_CHR_kirtan: "Kirtan"
-	CORELLIAN_CHR_corran: "Corran"
-	CORELLIAN_CHR_gil: "Gil"
-	CORELLIAN_CHR_diric: "Diric"
-	CORELLIAN_CHR_doman: "Doman"
-	CORELLIAN_CHR_aidel: "Aidel"
-	CORELLIAN_CHR_saz: "Saz"
-	CORELLIAN_CHR_jonash: "Jonash"
-	CORELLIAN_CHR_threkin: "Threkin"
-	CORELLIAN_CHR_randil: "Randil"
-	CORELLIAN_CHR_den: "Den"
-	CORELLIAN_CHR_han: "Han"
-	CORELLIAN_CHR_korol: "Korol"
-	CORELLIAN_CHR_jacen: "Jacen"
-	CORELLIAN_CHR_karl: "Karl"
-	CORELLIAN_CHR_mathieu: "Mathieu"
-	CORELLIAN_CHR_tettsel: "Tettsel"
-	CORELLIAN_CHR_jagged: "Jagged"
-	CORELLIAN_CHR_bayle: "Bayle"
-	CORELLIAN_CHR_tormax: "Tormax"
-	CORELLIAN_CHR_seb: "Seb"
-	CORELLIAN_CHR_jareck: "Jareck"
-	CORELLIAN_CHR_jurnel: "Jurnel"
-	CORELLIAN_CHR_vol: "Vol"
-	CORELLIAN_CHR_conil: "Conil"
-	CORELLIAN_CHR_tekil: "Tekil"
-	CORELLIAN_CHR_shi: "Shi"
-	CORELLIAN_CHR_myron: "Myron"
-	CORELLIAN_CHR_jab: "Jab"
-	CORELLIAN_CHR_garm: "Garm"
-	CORELLIAN_CHR_odair: "Odair"
-	CORELLIAN_CHR_draykken: "Draykken"
-	CORELLIAN_CHR_hraykken: "Hraykken"
-	CORELLIAN_CHR_hiram: "Hiram"
-	CORELLIAN_CHR_anson: "Anson"
-	CORELLIAN_CHR_crev: "Crev"
-	CORELLIAN_CHR_natt: "Natt"
-	CORELLIAN_CHR_sunny: "Sunny"
-	CORELLIAN_CHR_dev: "Dev"
-	CORELLIAN_CHR_grov: "Grov"
-	CORELLIAN_CHR_ezra: "Ezra"
-	CORELLIAN_CHR_ront: "Ront"
-	CORELLIAN_CHR_jerem: "Jerem"
-	CORELLIAN_CHR_monti: "Monti"
-	CORELLIAN_CHR_cole: "Cole"
-	CORELLIAN_CHR_jorj: "Jorj"
-	CORELLIAN_CHR_lanius: "Lanius"
-	CORELLIAN_CHR_jonah: "Jonah"
-	CORELLIAN_CHR_jesseb: "Jesseb"
-	CORELLIAN_CHR_lon: "Lon"
-	CORELLIAN_CHR_banyon: "Banyon"
-	CORELLIAN_CHR_abagga: "Abagga"
-	CORELLIAN_CHR_bobor: "Bobor"
-	CORELLIAN_CHR_macz: "Macz"
-	CORELLIAN_CHR_cubber: "Cubber"
-	CORELLIAN_CHR_waroon: "Waroon"
-	CORELLIAN_CHR_sal: "Sal"
-	CORELLIAN_CHR_darvis: "Darvis"
-	CORELLIAN_CHR_skerrick: "Skerrick"
-	CORELLIAN_CHR_davrin: "Davrin"
-	CORELLIAN_CHR_deegan: "Deegan"
-	CORELLIAN_CHR_deflaros: "Deflaros"
-	CORELLIAN_CHR_sann: "Sann"
-	CORELLIAN_CHR_rothgar: "Rothgar"
-	CORELLIAN_CHR_dex: "Dex"
-	CORELLIAN_CHR_didjoa: "Didjoa"
-	CORELLIAN_CHR_myn: "Myn"
-	CORELLIAN_CHR_valon: "Valon"
-	CORELLIAN_CHR_chelch: "Chelch"
-	CORELLIAN_CHR_yustavan: "Yustavan"
-	CORELLIAN_CHR_tev: "Tev"
-	CORELLIAN_CHR_ivr: "Ivr"
-	CORELLIAN_CHR_atlan: "Atlan"
-	CORELLIAN_CHR_rik: "Rik"
-	CORELLIAN_CHR_voba: "Voba"
-	CORELLIAN_CHR_shol: "Shol"
-	CORELLIAN_CHR_thale: "Thale"
-	CORELLIAN_CHR_darv: "Darv"
-	CORELLIAN_CHR_erno: "Erno"
-	CORELLIAN_CHR_falco: "Falco"
-	CORELLIAN_CHR_barr: "Barr"
-	CORELLIAN_CHR_harlon: "Harlon"
-	CORELLIAN_CHR_annor: "Annor"
-	CORELLIAN_CHR_dannl: "Dannl"
-	CORELLIAN_CHR_chak: "Chak"
-	CORELLIAN_CHR_davin: "Davin"
-	CORELLIAN_CHR_soontir: "Soontir"
-	CORELLIAN_CHR_todr: "Todr"
-	CORELLIAN_CHR_almark: "Almark"
-	CORELLIAN_CHR_ilim: "Ilim"
-	CORELLIAN_CHR_ecclessis: "Ecclessis"
-	CORELLIAN_CHR_salovan: "Salovan"
-	CORELLIAN_CHR_mich: "Mich"
-	CORELLIAN_CHR_jace: "Jace"
-	CORELLIAN_CHR_crale: "Crale"
-	CORELLIAN_CHR_zorajas: "Zorajas"
-	CORELLIAN_CHR_jaylon: "Jaylon"
-	CORELLIAN_CHR_nov: "Nov"
-	CORELLIAN_CHR_gerrol: "Gerrol"
-	CORELLIAN_CHR_markus: "Markus"
-	CORELLIAN_CHR_pharnis: "Pharnis"
-	CORELLIAN_CHR_ellias: "Ellias"
-	CORELLIAN_CHR_scolex: "Scolex"
-	CORELLIAN_CHR_de_hoff: "De'hoff"
-	CORELLIAN_CHR_mramo: "Mramo"
-	CORELLIAN_CHR_elias: "Elias"
-	CORELLIAN_CHR_neeja: "Neeja"
-	CORELLIAN_CHR_kenth: "Kenth"
-	CORELLIAN_CHR_pol: "Pol"
-	CORELLIAN_CHR_viktor: "Viktor"
-	CORELLIAN_CHR_janzel: "Janzel"
-	CORELLIAN_CHR_hendrick: "Hendrick"
-	CORELLIAN_CHR_rodin: "Rodin"
-	CORELLIAN_CHR_enneth: "Enneth"
-	CORELLIAN_CHR_braganti: "Braganti"
-	CORELLIAN_CHR_helfin: "Helfin"
-	CORELLIAN_CHR_jenos: "Jenos"
-	CORELLIAN_CHR_ilyamo: "Ilyamo"
-	CORELLIAN_CHR_gol: "Gol"
-	CORELLIAN_CHR_falan: "Falan"
-	CORELLIAN_CHR_dinnik: "Dinnik"
-	CORELLIAN_CHR_irek: "Irek"
-	CORELLIAN_CHR_bran: "Bran"
-	CORELLIAN_CHR_jabi: "Jabi"
-	CORELLIAN_CHR_jakir: "Jakir"
-	CORELLIAN_CHR_mack: "Mack"
-	CORELLIAN_CHR_wildis: "Wildis"
-	CORELLIAN_CHR_tomi: "Tomi"
-	CORELLIAN_CHR_talan: "Talan"
-	CORELLIAN_CHR_joz: "Joz"
-	CORELLIAN_CHR_heff: "Heff"
-	CORELLIAN_CHR_kal: "Kal"
-	CORELLIAN_CHR_jori: "Jori"
-	CORELLIAN_CHR_joth: "Joth"
-	CORELLIAN_CHR_cohden: "Cohden"
-	CORELLIAN_CHR_ben: "Ben"
-	CORELLIAN_CHR_dorvin: "Dorvin"
-	CORELLIAN_CHR_craddock: "Craddock"
-	CORELLIAN_CHR_saul: "Saul"
-	CORELLIAN_CHR_denell: "Denell"
-	CORELLIAN_CHR_van: "Van"
-	CORELLIAN_CHR_lex: "Lex"
-	CORELLIAN_CHR_erel: "Erel"
-	CORELLIAN_CHR_kett: "Kett"
-	CORELLIAN_CHR_shoan: "Shoan"
-	CORELLIAN_CHR_tan: "Tan"
-	CORELLIAN_CHR_nevis: "Nevis"
-	CORELLIAN_CHR_bidlo: "Bidlo"
-	CORELLIAN_CHR_pel: "Pel"
-	CORELLIAN_CHR_dael: "Dael"
-	CORELLIAN_CHR_aram: "Aram"
-	CORELLIAN_CHR_yade: "Yade"
-	CORELLIAN_CHR_zuld: "Zuld"
-	CORELLIAN_CHR_yanus: "Yanus"
-	CORELLIAN_CHR_barid: "Barid"
-	CORELLIAN_CHR_dayvid: "Dayvid"
-	CORELLIAN_CHR_tosk: "Tosk"
-	CORELLIAN_CHR_hurn: "Hurn"
-	CORELLIAN_CHR_derremd: "Derremd"
-	CORELLIAN_CHR_janqual: "Janqual"
-	CORELLIAN_CHR_stax: "Stax"
-	CORELLIAN_CHR_fenig: "Fenig"
-	CORELLIAN_CHR_bek: "Bek"
-	CORELLIAN_CHR_romas: "Romas"
-	CORELLIAN_CHR_nozzo: "Nozzo"
-	CORELLIAN_CHR_kaj: "Kaj"
-	CORELLIAN_CHR_jasper: "Jasper"
-	CORELLIAN_CHR_aalos: "Aalos"
-	CORELLIAN_CHR_galidon: "Galidon"
-	CORELLIAN_CHR_jav: "Jav"
-	CORELLIAN_CHR_lorn: "Lorn"
-	CORELLIAN_CHR_gilad: "Gilad"
-	CORELLIAN_CHR_kazic: "Kazic"
-	CORELLIAN_CHR_malik: "Malik"
-	CORELLIAN_CHR_petro: "Petro"
-	CORELLIAN_CHR_phaeris: "Phaeris"
-	CORELLIAN_CHR_keekrim: "Keekrim"
-	CORELLIAN_CHR_ilir: "Ilir"
-	CORELLIAN_CHR_dubrank: "Dubrank"
-	CORELLIAN_CHR_mat: "Mat"
-	CORELLIAN_CHR_rallo: "Rallo"
-	CORELLIAN_CHR_custo: "Custo"
-	CORELLIAN_CHR_tait: "Tait"
-	CORELLIAN_CHR_ubis: "Ubis"
-	CORELLIAN_CHR_dash: "Dash"
-	CORELLIAN_CHR_rosh: "Rosh"
-	CORELLIAN_CHR_palejo: "Palejo"
-	CORELLIAN_CHR_andronikos: "Andronikos"
-	CORELLIAN_CHR_jerris: "Jerris"
-	CORELLIAN_CHR_rion: "Rion"
-	CORELLIAN_CHR_thaddeus: "Thaddeus"
-	CORELLIAN_CHR_barit: "Barit"
-	CORELLIAN_CHR_cyru: "Cyru"
-	CORELLIAN_CHR_jornel: "Jornel"
-	CORELLIAN_CHR_newin: "Newin"
-	CORELLIAN_CHR_pech: "Pech"
-	CORELLIAN_CHR_sevik: "Sevik"
-	CORELLIAN_CHR_finn: "Finn"
-	CORELLIAN_CHR_hershel: "Hershel"
-	CORELLIAN_CHR_hasadar: "Hasadar"
-	CORELLIAN_CHR_sherro: "Sherro"
-	CORELLIAN_CHR_silas: "Silas"
-	CORELLIAN_CHR_tennet: "Tennet"
-	CORELLIAN_CHR_jarred: "Jarred"
-	CORELLIAN_CHR_chun: "Chun"
-	CORELLIAN_CHR_keevy: "Keevy"
-	CORELLIAN_CHR_raan: "Raan"
-	CORELLIAN_CHR_jord: "Jord"
-	CORELLIAN_CHR_sarvel: "Sarvel"
-	CORELLIAN_CHR_galvain: "Galvain"
-	CORELLIAN_CHR_denjax: "Denjax"
-	CORELLIAN_CHR_booster: "Booster"
-	CORELLIAN_CHR_probus: "Probus"
-	CORELLIAN_CHR_pavik: "Pavik"
-	CORELLIAN_CHR_renn: "Renn"
-	CORELLIAN_CHR_mill: "Mill"
-	CORELLIAN_CHR_garv: "Garv"
-	CORELLIAN_CHR_harval: "Harval"
-	CORELLIAN_CHR_fynn: "Fynn"
-	CORELLIAN_CHR_hugo: "Hugo"
-	CORELLIAN_CHR_tam: "Tam"
-	CORELLIAN_CHR_denetrius: "Denetrius"
-	CORELLIAN_CHR_vinro: "Vinro"
-	CORELLIAN_CHR_wex: "Wex"
-	CORELLIAN_CHR_jos: "Jos"
-	CORELLIAN_CHR_fliry: "Fliry"
-	CORELLIAN_CHR_halden: "Halden"
-	CORELLIAN_CHR_emmin: "Emmin"
-	CORELLIAN_CHR_attico: "Attico"
-	CORELLIAN_CHR_edbr: "Edbr"
-	CORELLIAN_CHR_brimon: "Brimon"
-	CORELLIAN_CHR_genna: "Genna"
-	CORELLIAN_CHR_fyric: "Fyric"
-	CORELLIAN_CHR_iella: "Iella"
-	CORELLIAN_CHR_sena: "Sena"
-	CORELLIAN_CHR_irenez: "Irenez"
-	CORELLIAN_CHR_dani: "Dani"
-	CORELLIAN_CHR_jaina: "Jaina"
-	CORELLIAN_CHR_danielle: "Danielle"
-	CORELLIAN_CHR_tiion: "Tiion"
-	CORELLIAN_CHR_allana: "Allana"
-	CORELLIAN_CHR_ania: "Ania"
-	CORELLIAN_CHR_dalla: "Dalla"
-	CORELLIAN_CHR_mirax: "Mirax"
-	CORELLIAN_CHR_wynssa: "Wynssa"
-	CORELLIAN_CHR_tira: "Tira"
-	CORELLIAN_CHR_corinna: "Corinna"
-	CORELLIAN_CHR_kandria: "Kandria"
-	CORELLIAN_CHR_tess: "Tess"
-	CORELLIAN_CHR_vora: "Vora"
-	CORELLIAN_CHR_annissya: "Annissya"
-	CORELLIAN_CHR_myri: "Myri"
-	CORELLIAN_CHR_syal: "Syal"
-	CORELLIAN_CHR_zena: "Zena"
-	CORELLIAN_CHR_elga: "Elga"
-	CORELLIAN_CHR_frei: "Frei"
-	CORELLIAN_CHR_camelle: "Camelle"
-	CORELLIAN_CHR_deli: "Deli"
-	CORELLIAN_CHR_roxi: "Roxi"
-	CORELLIAN_CHR_elsen: "Elsen"
-	CORELLIAN_CHR_deena: "Deena"
-	CORELLIAN_CHR_areta: "Areta"
-	CORELLIAN_CHR_sulen: "Sulen"
-	CORELLIAN_CHR_bey: "Bey"
-	CORELLIAN_CHR_annali: "Annali"
-	CORELLIAN_CHR_dova: "Dova"
-	CORELLIAN_CHR_brusela: "Brusela"
-	CORELLIAN_CHR_anni: "Anni"
-	CORELLIAN_CHR_chai: "Chai"
-	CORELLIAN_CHR_kimmi: "Kimmi"
-	CORELLIAN_CHR_cora: "Cora"
-	CORELLIAN_CHR_vella: "Vella"
-	CORELLIAN_CHR_josta: "Josta"
-	CORELLIAN_CHR_viera: "Viera"
-	CORELLIAN_CHR_zindra: "Zindra"
-	CORELLIAN_CHR_coril: "Coril"
-	CORELLIAN_CHR_dayana: "Dayana"
-	CORELLIAN_CHR_destha: "Destha"
-	CORELLIAN_CHR_yama: "Yama"
-	CORELLIAN_CHR_atlanna: "Atlanna"
-	CORELLIAN_CHR_coraline: "Coraline"
-	CORELLIAN_CHR_trins: "Trins"
-	CORELLIAN_CHR_shandy: "Shandy"
-	CORELLIAN_CHR_karin: "Karin"
-	CORELLIAN_CHR_ajai: "Ajai"
-	CORELLIAN_CHR_naz: "Naz"
-	CORELLIAN_CHR_maris: "Maris"
-	CORELLIAN_CHR_bant_ena: "Bant'ena"
-	CORELLIAN_CHR_fianna: "Fianna"
-	CORELLIAN_CHR_teraeza: "Teraeza"
-	CORELLIAN_CHR_cilyn: "Cilyn"
-	CORELLIAN_CHR_jes: "Jes"
-	CORELLIAN_CHR_gixsa: "Gixsa"
-	CORELLIAN_CHR_ta_mara: "Ta-mara"
-	CORELLIAN_CHR_mara: "Mara"
-	CORELLIAN_CHR_tag: "Tag"
-	CORELLIAN_CHR_gallura: "Gallura"
-	CORELLIAN_CHR_bleys: "Bleys"
-	CORELLIAN_CHR_kylaena: "Kylaena"
-	CORELLIAN_CHR_hethra: "Hethra"
-	CORELLIAN_CHR_hirka: "Hirka"
-	CORELLIAN_CHR_sola: "Sola"
-	CORELLIAN_CHR_nola: "Nola"
-	CORELLIAN_CHR_iris: "Iris"
-	CORELLIAN_CHR_brali: "Brali"
-	CORELLIAN_CHR_relva: "Relva"
-	CORELLIAN_CHR_jasha: "Jasha"
-	CORELLIAN_CHR_jenna: "Jenna"
-	CORELLIAN_CHR_renga: "Renga"
-	CORELLIAN_CHR_nyche: "Nyche"
-	CORELLIAN_CHR_waria: "Waria"
-	CORELLIAN_CHR_erin: "Erin"
-	CORELLIAN_CHR_kalifa: "Kalifa"
-	CORELLIAN_CHR_vara: "Vara"
-	CORELLIAN_CHR_karena: "Karena"
-	CORELLIAN_CHR_kess: "Kess"
-	CORELLIAN_CHR_ala: "Ala"
-	CORELLIAN_CHR_kiza: "Kiza"
-	CORELLIAN_CHR_adele: "Adele"
-	CORELLIAN_CHR_vani: "Vani"
-	CORELLIAN_CHR_kym: "Kym"
-	CORELLIAN_CHR_shandria: "Shandria"
-	CORELLIAN_CHR_laudica: "Laudica"
-	CORELLIAN_CHR_lilith: "Lilith"
-	CORELLIAN_CHR_brandy: "Brandy"
-	CORELLIAN_CHR_veega: "Veega"
-	CORELLIAN_CHR_lanah: "Lanah"
-	CORELLIAN_CHR_vinya: "Vinya"
-	CORELLIAN_CHR_meloria: "Meloria"
-	CORELLIAN_CHR_shyla: "Shyla"
-	CORELLIAN_CHR_navah: "Navah"
-	CORELLIAN_CHR_nevhra: "Nevhra"
-	CORELLIAN_CHR_ballia: "Ballia"
-	CORELLIAN_CHR_lilea: "Lilea"
-	CORELLIAN_CHR_sia: "Sia"
-	CORELLIAN_CHR_mindra: "Mindra"
-	CORELLIAN_CHR_kryss: "Kryss"
-	CORELLIAN_CHR_esa: "Esa"
-	CORELLIAN_CHR_faye: "Faye"
-	CORELLIAN_CHR_rhea: "Rhea"
-	CORELLIAN_CHR_rica: "Rica"
-	CORELLIAN_CHR_adea: "Adea"
-	CORELLIAN_CHR_chertyl: "Chertyl"
-	CORELLIAN_CHR_sapra: "Sapra"
-	CORELLIAN_CHR_vega: "Vega"
-	CORELLIAN_CHR_seyda: "Seyda"
-	CORELLIAN_CHR_falthina: "Falthina"
-	CORELLIAN_CHR_sheelya: "Sheelya"
-	CORELLIAN_CHR_nifera: "Nifera"
-	CORELLIAN_CHR_syrin: "Syrin"
-	CORELLIAN_CHR_bria: "Bria"
-	CORELLIAN_CHR_sera: "Sera"
-	CORELLIAN_CHR_siolle: "Siolle"
-	CORELLIAN_CHR_syla: "Syla"
-	CORELLIAN_CHR_zayna: "Zayna"
-	CORELLIAN_CHR_brindy: "Brindy"
-	CORELLIAN_CHR_arada: "Arada"
-	CORELLIAN_CHR_saza: "Saza"
-	CORELLIAN_CHR_milinae: "Milinae"
-	CORELLIAN_CHR_trilinae: "Trilinae"
-	CORELLIAN_CHR_shaedra: "Shaedra"
-	CORELLIAN_CHR_ecile: "Ecile"
-	CORELLIAN_CHR_orpa: "Orpa"
-	CORELLIAN_CHR_vralla: "Vralla"
-	CORELLIAN_CHR_vye: "Vye"
-	CORELLIAN_CHR_alana: "Alana"
-	CORELLIAN_CHR_teniel: "Teniel"
-	CORELLIAN_CHR_demmi: "Demmi"
-	CORELLIAN_CHR_erris: "Erris"
-	CORELLIAN_CHR_jannitha: "Jannitha"
-	CORELLIAN_CHR_hoclaw: "Hoclaw"
-	CORELLIAN_CHR_saxan: "Saxan"
-	CORELLIAN_CHR_antilles: "Antilles"
-	CORELLIAN_CHR_gejjen: "Gejjen"
-	CORELLIAN_CHR_delpin: "Delpin"
-	CORELLIAN_CHR_bedoch: "Bedoch"
-	CORELLIAN_CHR_halcyon: "Halcyon"
-	CORELLIAN_CHR_horn: "Horn"
-	CORELLIAN_CHR_fordox: "Fordox"
-	CORELLIAN_CHR_merricope: "Merricope"
-	CORELLIAN_CHR_thomree: "Thomree"
-	CORELLIAN_CHR_thyne: "Thyne"
-	CORELLIAN_CHR_gallamby: "Gallamby"
-	CORELLIAN_CHR_madine: "Madine"
-	CORELLIAN_CHR_fel: "Fel"
-	CORELLIAN_CHR_starflare: "Starflare"
-	CORELLIAN_CHR_loor: "Loor"
-	CORELLIAN_CHR_bastra: "Bastra"
-	CORELLIAN_CHR_wessiri: "Wessiri"
-	CORELLIAN_CHR_beruss: "Beruss"
-	CORELLIAN_CHR_micamberlecto: "Micamberlecto"
-	CORELLIAN_CHR_terrik: "Terrik"
-	CORELLIAN_CHR_leikvold: "Leikvold"
-	CORELLIAN_CHR_midanyl: "Midanyl"
-	CORELLIAN_CHR_tyrson: "Tyrson"
-	CORELLIAN_CHR_faytonni: "Faytonni"
-	CORELLIAN_CHR_horm: "Horm"
-	CORELLIAN_CHR_kieran: "Kieran"
-	CORELLIAN_CHR_sal_solo: "Sal-Solo"
-	CORELLIAN_CHR_solo: "Solo"
-	CORELLIAN_CHR_a_daasha: "A'Daasha"
-	CORELLIAN_CHR_alder: "Alder"
-	CORELLIAN_CHR_ancher: "Ancher"
-	CORELLIAN_CHR_anjek: "Anjek"
-	CORELLIAN_CHR_anker: "Anker"
-	CORELLIAN_CHR_anyell: "Anyell"
-	CORELLIAN_CHR_arbo: "Arbo"
-	CORELLIAN_CHR_archan: "Archan"
-	CORELLIAN_CHR_ardellian: "Ardellian"
-	CORELLIAN_CHR_arkos: "Arkos"
-	CORELLIAN_CHR_arned: "Arned"
-	CORELLIAN_CHR_arrant: "Arrant"
-	CORELLIAN_CHR_aycen: "Aycen"
-	CORELLIAN_CHR_bakarn: "Bakarn"
-	CORELLIAN_CHR_barad: "Barad"
-	CORELLIAN_CHR_barje: "Barje"
-	CORELLIAN_CHR_barl: "Barl"
-	CORELLIAN_CHR_barthis: "Barthis"
-	CORELLIAN_CHR_bata: "Bata"
-	CORELLIAN_CHR_beech: "Beech"
-	CORELLIAN_CHR_beetilles: "Beetilles"
-	CORELLIAN_CHR_behar: "Behar"
-	CORELLIAN_CHR_bel_iblis: "Bel Iblis"
-	CORELLIAN_CHR_bel_opis: "Bel-Opis"
-	CORELLIAN_CHR_bell: "Bell"
-	CORELLIAN_CHR_belos: "Belos"
-	CORELLIAN_CHR_bender: "Bender"
-	CORELLIAN_CHR_bilure: "Bilure"
-	CORELLIAN_CHR_bish: "Bish"
-	CORELLIAN_CHR_bissa: "Bissa"
-	CORELLIAN_CHR_blancken: "Blancken"
-	CORELLIAN_CHR_bombassa: "Bombassa"
-	CORELLIAN_CHR_bordo: "Bordo"
-	CORELLIAN_CHR_boshek: "BoShek"
-	CORELLIAN_CHR_bounder: "Bounder"
-	CORELLIAN_CHR_bratt: "Bratt"
-	CORELLIAN_CHR_breeger: "Breeger"
-	CORELLIAN_CHR_bricker: "Bricker"
-	CORELLIAN_CHR_brigger: "Brigger"
-	CORELLIAN_CHR_bruckman: "Bruckman"
-	CORELLIAN_CHR_buroy: "Buroy"
-	CORELLIAN_CHR_burr_naxis: "Burr Naxis"
-	CORELLIAN_CHR_byrnloo: "Byrnloo"
-	CORELLIAN_CHR_cadmir: "Cadmir"
-	CORELLIAN_CHR_calay: "Calay"
-	CORELLIAN_CHR_cantarus: "Cantarus"
-	CORELLIAN_CHR_capstan: "Capstan"
-	CORELLIAN_CHR_car_das: "Car'das"
-	CORELLIAN_CHR_carr: "Carr"
-	CORELLIAN_CHR_carter: "Carter"
-	CORELLIAN_CHR_chyler: "Chyler"
-	CORELLIAN_CHR_convorr: "Convorr"
-	CORELLIAN_CHR_cope: "Cope"
-	CORELLIAN_CHR_corse: "Corse"
-	CORELLIAN_CHR_cracken: "Cracken"
-	CORELLIAN_CHR_craddok: "Craddok"
-	CORELLIAN_CHR_creel: "Creel"
-	CORELLIAN_CHR_crisk: "Crisk"
-	CORELLIAN_CHR_cynthisa: "Cynthisa"
-	CORELLIAN_CHR_daine: "Daine"
-	CORELLIAN_CHR_dak: "Dak"
-	CORELLIAN_CHR_dakron: "Dakron"
-	CORELLIAN_CHR_darriovof_iii: "Darriovof III"
-	CORELLIAN_CHR_darriovof_ii: "Darriovof II"
-	CORELLIAN_CHR_darriovof_iv: "Darriovof IV"
-	CORELLIAN_CHR_das: "Das"
-	CORELLIAN_CHR_daskmin: "Daskmin"
-	CORELLIAN_CHR_dekker: "Dekker"
-	CORELLIAN_CHR_deng: "Deng"
-	CORELLIAN_CHR_devlin: "Devlin"
-	CORELLIAN_CHR_donos: "Donos"
-	CORELLIAN_CHR_dotyk: "Dotyk"
-	CORELLIAN_CHR_draav: "Draav"
-	CORELLIAN_CHR_drass: "Drass"
-	CORELLIAN_CHR_dravvad: "Dravvad"
-	CORELLIAN_CHR_dreezian: "Dreezian"
-	CORELLIAN_CHR_driscull: "Driscull"
-	CORELLIAN_CHR_dubreas: "Dubreas"
-	CORELLIAN_CHR_duey: "Duey"
-	CORELLIAN_CHR_durron: "Durron"
-	CORELLIAN_CHR_dustrunner: "Dustrunner"
-	CORELLIAN_CHR_dynes: "Dynes"
-	CORELLIAN_CHR_eldon: "Eldon"
-	CORELLIAN_CHR_evnar: "Evnar"
-	CORELLIAN_CHR_faldrin: "Faldrin"
-	CORELLIAN_CHR_fanaso: "Fanaso"
-	CORELLIAN_CHR_fane: "Fane"
-	CORELLIAN_CHR_fash: "Fash"
-	CORELLIAN_CHR_featherlight: "Featherlight"
-	CORELLIAN_CHR_feleema: "Feleema"
-	CORELLIAN_CHR_felyood: "Felyood"
-	CORELLIAN_CHR_ferasi: "Ferasi"
-	CORELLIAN_CHR_varangi: "Varangi"
-	CORELLIAN_CHR_ferd: "Ferd"
-	CORELLIAN_CHR_fhernan: "Fhernan"
-	CORELLIAN_CHR_fische: "Fische"
-	CORELLIAN_CHR_flenn: "Flenn"
-	CORELLIAN_CHR_forno: "Forno"
-	CORELLIAN_CHR_forte: "Forte"
-	CORELLIAN_CHR_furloti: "Furloti"
-	CORELLIAN_CHR_gadren: "Gadren"
-	CORELLIAN_CHR_gara: "Gara"
-	CORELLIAN_CHR_garamin: "Garamin"
-	CORELLIAN_CHR_geissler: "Geissler"
-	CORELLIAN_CHR_hun: "Hun"
-	CORELLIAN_CHR_glider: "Glider"
-	CORELLIAN_CHR_gistang: "Gistang"
-	CORELLIAN_CHR_gleasry: "Gleasry"
-	CORELLIAN_CHR_gorlin: "Gorlin"
-	CORELLIAN_CHR_grath: "Grath"
-	CORELLIAN_CHR_greenley: "Greenley"
-	CORELLIAN_CHR_fulfel: "Fulfel"
-	CORELLIAN_CHR_gurah: "Gurah"
-	CORELLIAN_CHR_halbert: "Halbert"
-	CORELLIAN_CHR_hamber: "Hamber"
-	CORELLIAN_CHR_hamner: "Hamner"
-	CORELLIAN_CHR_handerin: "Handerin"
-	CORELLIAN_CHR_harand: "Harand"
-	CORELLIAN_CHR_haley: "Haley"
-	CORELLIAN_CHR_hel: "Hel"
-	CORELLIAN_CHR_helot: "Helot"
-	CORELLIAN_CHR_hieks: "Hieks"
-	CORELLIAN_CHR_higron: "Higron"
-	CORELLIAN_CHR_holkin: "Holkin"
-	CORELLIAN_CHR_hooge: "Hooge"
-	CORELLIAN_CHR_hus: "Hus"
-	CORELLIAN_CHR_huutar: "Huutar"
-	CORELLIAN_CHR_idanian: "Idanian"
-	CORELLIAN_CHR_inacc: "Inacc"
-	CORELLIAN_CHR_indervin: "Indervin"
-	CORELLIAN_CHR_iniro: "Iniro"
-	CORELLIAN_CHR_innik: "Innik"
-	CORELLIAN_CHR_isken: "Isken"
-	CORELLIAN_CHR_jiklip: "Jiklip"
-	CORELLIAN_CHR_jinsin: "Jinsin"
-	CORELLIAN_CHR_jixton: "Jixton"
-	CORELLIAN_CHR_joben: "Joben"
-	CORELLIAN_CHR_jodhul: "Jodhul"
-	CORELLIAN_CHR_jofer: "Jofer"
-	CORELLIAN_CHR_johnair: "Johnair"
-	CORELLIAN_CHR_jorek: "Jorek"
-	CORELLIAN_CHR_junus: "Junus"
-	CORELLIAN_CHR_k_reye: "K'Reye"
-	CORELLIAN_CHR_kahob: "Kahob"
-	CORELLIAN_CHR_kantt: "Kantt"
-	CORELLIAN_CHR_kanu: "Kanu"
-	CORELLIAN_CHR_karath: "Karath"
-	CORELLIAN_CHR_karathas: "Karathas"
-	CORELLIAN_CHR_katrane: "Katrane"
-	CORELLIAN_CHR_keer: "Keer"
-	CORELLIAN_CHR_kel_vannon: "Kel'Vannon"
-	CORELLIAN_CHR_van_kellen: "Van Kellen"
-	CORELLIAN_CHR_kener: "Kener"
-	CORELLIAN_CHR_kersos: "Kersos"
-	CORELLIAN_CHR_kilian: "Kilian"
-	CORELLIAN_CHR_kimbo: "Kimbo"
-	CORELLIAN_CHR_kirin: "Kirin"
-	CORELLIAN_CHR_kitt: "Kitt"
-	CORELLIAN_CHR_konya: "Konya"
-	CORELLIAN_CHR_korr: "Korr"
-	CORELLIAN_CHR_krast: "Krast"
-	CORELLIAN_CHR_kwerve: "Kwerve"
-	CORELLIAN_CHR_kwinn: "Kwinn"
-	CORELLIAN_CHR_l_hnnar: "L'hnnar"
-	CORELLIAN_CHR_lerann: "Lerann"
-	CORELLIAN_CHR_levare: "Levare"
-	CORELLIAN_CHR_locke: "Locke"
-	CORELLIAN_CHR_loren: "Loren"
-	CORELLIAN_CHR_loroan: "Loroan"
-	CORELLIAN_CHR_m_rak: "M'rak"
-	CORELLIAN_CHR_madish: "Madish"
-	CORELLIAN_CHR_malo: "Malo"
-	CORELLIAN_CHR_mar_shayal: "Mar-Shayal"
-	CORELLIAN_CHR_maysor: "Maysor"
-	CORELLIAN_CHR_mccallok: "McCallok"
-	CORELLIAN_CHR_king: "King"
-	CORELLIAN_CHR_melikan: "Melikan"
-	CORELLIAN_CHR_millano: "Millano"
-	CORELLIAN_CHR_moeda: "Moeda"
-	CORELLIAN_CHR_montis: "Montis"
-	CORELLIAN_CHR_mor: "Mor"
-	CORELLIAN_CHR_mullawny: "Mullawny"
-	CORELLIAN_CHR_nabon: "Nabon"
-	CORELLIAN_CHR_nataal: "Nataal"
-	CORELLIAN_CHR_navander: "Navander"
-	CORELLIAN_CHR_naytaan: "Naytaan"
-	CORELLIAN_CHR_nedmak: "Nedmak"
-	CORELLIAN_CHR_nimbi: "Nimbi"
-	CORELLIAN_CHR_noaddo: "Noaddo"
-	CORELLIAN_CHR_noorg: "Noorg"
-	CORELLIAN_CHR_norrin: "Norrin"
-	CORELLIAN_CHR_okanor: "Okanor"
-	CORELLIAN_CHR_p_teska: "P'teska"
-	CORELLIAN_CHR_paol: "Paol"
-	CORELLIAN_CHR_parna: "Parna"
-	CORELLIAN_CHR_patrell: "Patrell"
-	CORELLIAN_CHR_pavan: "Pavan"
-	CORELLIAN_CHR_pax: "Pax"
-	CORELLIAN_CHR_pellaeon: "Pellaeon"
-	CORELLIAN_CHR_pendre: "Pendre"
-	CORELLIAN_CHR_pendron: "Pendron"
-	CORELLIAN_CHR_pon: "Pon"
-	CORELLIAN_CHR_post: "Post"
-	CORELLIAN_CHR_qennto: "Qennto"
-	CORELLIAN_CHR_rai: "Rai"
-	CORELLIAN_CHR_ramak: "Ramak"
-	CORELLIAN_CHR_reendorr: "Reendorr"
-	CORELLIAN_CHR_rendar: "Rendar"
-	CORELLIAN_CHR_reshad: "Reshad"
-	CORELLIAN_CHR_rez: "Rez"
-	CORELLIAN_CHR_rite: "Rite"
-	CORELLIAN_CHR_rojo: "Rojo"
-	CORELLIAN_CHR_ross: "Ross"
-	CORELLIAN_CHR_rydel: "Rydel"
-	CORELLIAN_CHR_saiy: "Saiy"
-	CORELLIAN_CHR_salpivo: "SalPivo"
-	CORELLIAN_CHR_sarkee: "Sarkee"
-	CORELLIAN_CHR_sassich: "Sassich"
-	CORELLIAN_CHR_sau: "Sau"
-	CORELLIAN_CHR_savas: "Savas"
-	CORELLIAN_CHR_seedel: "Seedel"
-	CORELLIAN_CHR_seki: "Seki"
-	CORELLIAN_CHR_seldin: "Seldin"
-	CORELLIAN_CHR_sepen: "Sepen"
-	CORELLIAN_CHR_shae: "Shae"
-	CORELLIAN_CHR_shallo: "Shallo"
-	CORELLIAN_CHR_sharest: "Sharest"
-	CORELLIAN_CHR_shelby: "Shelby"
-	CORELLIAN_CHR_shu: "Shu"
-	CORELLIAN_CHR_sionaro: "Sionaro"
-	CORELLIAN_CHR_sirrah: "Sirrah"
-	CORELLIAN_CHR_sistek: "Sistek"
-	CORELLIAN_CHR_spart: "Spart"
-	CORELLIAN_CHR_stasheff: "Stasheff"
-	CORELLIAN_CHR_stokk: "Stokk"
-	CORELLIAN_CHR_suul: "Suul"
-	CORELLIAN_CHR_swan: "Swan"
-	CORELLIAN_CHR_swift: "Swift"
-	CORELLIAN_CHR_tal_oldra: "Tal-Oldra"
-	CORELLIAN_CHR_tark: "Tark"
-	CORELLIAN_CHR_teppler: "Teppler"
-	CORELLIAN_CHR_tharen: "Tharen"
-	CORELLIAN_CHR_thrakus: "Thrakus"
-	CORELLIAN_CHR_timmer: "Timmer"
-	CORELLIAN_CHR_tinta: "Tinta"
-	CORELLIAN_CHR_tipper: "Tipper"
-	CORELLIAN_CHR_tomas: "Tomas"
-	CORELLIAN_CHR_tommick: "Tommick"
-	CORELLIAN_CHR_torbul: "Torbul"
-	CORELLIAN_CHR_tors: "Tors"
-	CORELLIAN_CHR_torve: "Torve"
-	CORELLIAN_CHR_tredahl: "Tredahl"
-	CORELLIAN_CHR_treece: "Treece"
-	CORELLIAN_CHR_truchong: "Truchong"
-	CORELLIAN_CHR_tumu: "Tumu"
-	CORELLIAN_CHR_turhaya: "Turhaya"
-	CORELLIAN_CHR_uliss: "Uliss"
-	CORELLIAN_CHR_ulbert: "Ulbert"
-	CORELLIAN_CHR_undea: "Undea"
-	CORELLIAN_CHR_untaire: "Untaire"
-	CORELLIAN_CHR_valouri: "Valouri"
-	CORELLIAN_CHR_verenar: "Verenar"
-	CORELLIAN_CHR_vergesso: "Vergesso"
-	CORELLIAN_CHR_vidian: "Vidian"
-	CORELLIAN_CHR_vinram: "Vinram"
-	CORELLIAN_CHR_vio: "Vio"
-	CORELLIAN_CHR_vitale: "Vitale"
-	CORELLIAN_CHR_vondar: "Vondar"
-	CORELLIAN_CHR_vorr: "Vorr"
-	CORELLIAN_CHR_vorru: "Vorru"
-	CORELLIAN_CHR_walden: "Walden"
-	CORELLIAN_CHR_waray: "Waray"
-	CORELLIAN_CHR_wes: "Wes"
-	CORELLIAN_CHR_wred: "Wred"
-	CORELLIAN_CHR_wyum: "Wyum"
-	CORELLIAN_CHR_xoczuko: "Xoczuko"
-	CORELLIAN_CHR_yamagh: "Yamagh"
-	CORELLIAN_CHR_yarar: "Yarar"
-	CORELLIAN_CHR_berethron: "Berethron"
-	CORELLIAN_CHR_threkim: "Threkim"
-	CORELLIAN_CHR_anakin: "Anakin"
-	CORELLIAN_CHR_hal: "Hal"
-	CORELLIAN_CHR_rostek: "Rostek"
-	CORELLIAN_CHR_hundi: "Hundi"
-	CORELLIAN_CHR_scerra: "Scerra"
-	CORELLIAN_CHR_jax: "Jax"
+	CORELLIAN_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spirit_of_coronet: "Spirit of Coronet" #!Empty_LineInfo!
+	CORELLIAN_SHIP_independence: "Independence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bel_ibis: "Bel Ibis" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sal_solo: "Sal Solo" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kolene: "Kolene" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tyrena: "Tyrena" #!Empty_LineInfo!
+	CORELLIAN_SHIP_valorum: "Valorum" #!Empty_LineInfo!
+	CORELLIAN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vigilant: "Vigilant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sentry: "Sentry" #!Empty_LineInfo!
+	CORELLIAN_SHIP_custode: "Custode" #!Empty_LineInfo!
+	CORELLIAN_SHIP_monitor: "Monitor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_defender: "Defender" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	CORELLIAN_SHIP_determination: "Determination" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gus_talon: "Gus Talon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gus_treta: "Gus Treta" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fire_of_drall: "Fire of Drall" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bond_of_talus: "Bond of Talus" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tralus_resplendent: "Tralus Resplendent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_selonian_queen: "Selonian Queen" #!Empty_LineInfo!
+	CORELLIAN_SHIP_glory_of_corellia: "Glory of Corellia" #!Empty_LineInfo!
+	CORELLIAN_SHIP_crollia: "Crollia" #!Empty_LineInfo!
+	CORELLIAN_SHIP_soronia: "Soronia" #!Empty_LineInfo!
+	CORELLIAN_SHIP_rayless: "Rayless" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lantern: "Lantern" #!Empty_LineInfo!
+	CORELLIAN_SHIP_razorcat: "Razorcat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trifecta: "Trifecta" #!Empty_LineInfo!
+	CORELLIAN_SHIP_corell: "Corell" #!Empty_LineInfo!
+	CORELLIAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kith: "Kith" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kin: "Kin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_elder_brother: "Elder Brother" #!Empty_LineInfo!
+	CORELLIAN_SHIP_middle_child: "Middle Child" #!Empty_LineInfo!
+	CORELLIAN_SHIP_grass_snake: "Grass Snake" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sand_panther: "Sand Panther" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kor_vella: "Kor Vella" #!Empty_LineInfo!
+	CORELLIAN_SHIP_doaba_guerfel: "Doaba Guerfel" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bela_vistal: "Bela Vistal" #!Empty_LineInfo!
+	CORELLIAN_SHIP_founder: "Founder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_rabaan: "Rabaan" #!Empty_LineInfo!
+	CORELLIAN_SHIP_socorro: "Socorro" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trulalis: "Trulalis" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trigalis: "Trigalis" #!Empty_LineInfo!
+	CORELLIAN_SHIP_meridian: "Meridian" #!Empty_LineInfo!
+	CORELLIAN_SHIP_contemplanys: "Contemplanys" #!Empty_LineInfo!
+	CORELLIAN_SHIP_hermi: "Hermi" #!Empty_LineInfo!
+	CORELLIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	CORELLIAN_SHIP_king_berethron: "King Berethron" #!Empty_LineInfo!
+	CORELLIAN_SHIP_diktat: "Diktat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_senator_fordox: "Senator Fordox" #!Empty_LineInfo!
+	CORELLIAN_SHIP_merricope: "Merricope" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thomree: "Thomree" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gallamby: "Gallamby" #!Empty_LineInfo!
+	CORELLIAN_SHIP_beruss: "Beruss" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sanctuary: "Sanctuary" #!Empty_LineInfo!
+	CORELLIAN_SHIP_governor_marcha: "Governor Marcha" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vreni: "Vreni" #!Empty_LineInfo!
+	CORELLIAN_SHIP_hunchuzuc: "Hunchuzuc" #!Empty_LineInfo!
+	CORELLIAN_SHIP_agrilat: "Agrilat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_denendre: "Denendre" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dregan: "Dregan" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bindreg: "Bindreg" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kenalpa: "Kenalpa" #!Empty_LineInfo!
+	CORELLIAN_SHIP_blackfish: "Blackfish" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bageraset: "Bageraset" #!Empty_LineInfo!
+	CORELLIAN_SHIP_blethyline: "Blethyline" #!Empty_LineInfo!
+	CORELLIAN_SHIP_canoid: "Canoid" #!Empty_LineInfo!
+	CORELLIAN_SHIP_carrion_spat: "Carrion Spat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sea_ray: "Sea Ray" #!Empty_LineInfo!
+	CORELLIAN_SHIP_slice_hound: "Slice Hound" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dire_cat: "Dire-cat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_durni: "Durni" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gronda: "Gronda" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gubbur: "Gubbur" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gulginaw: "Gulginaw" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gurrcat: "Gurrcat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_krevol: "Krevol" #!Empty_LineInfo!
+	CORELLIAN_SHIP_jaggalor: "Jaggalor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_krahbu: "Krahbu" #!Empty_LineInfo!
+	CORELLIAN_SHIP_murra: "Murra" #!Empty_LineInfo!
+	CORELLIAN_SHIP_paledor: "Paledor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_pulsar_skate: "Pulsar Skate" #!Empty_LineInfo!
+	CORELLIAN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_razor_cat: "Razor Cat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sharnaff: "Sharnaff" #!Empty_LineInfo!
+	CORELLIAN_SHIP_slopewing: "Slopewing" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tabage: "Tabage" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tarkaline: "Tarkaline" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vrelt: "Vrelt" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wonat: "Wonat" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_recluse: "Recluse" #!Empty_LineInfo!
+	CORELLIAN_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	CORELLIAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	CORELLIAN_SHIP_universal: "Universal" #!Empty_LineInfo!
+	CORELLIAN_SHIP_beneficence: "Beneficence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_autark: "Autark" #!Empty_LineInfo!
+	CORELLIAN_SHIP_autonomy: "Autonomy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_autonomous: "Autonomous" #!Empty_LineInfo!
+	CORELLIAN_SHIP_home_rule: "Home Rule" #!Empty_LineInfo!
+	CORELLIAN_SHIP_daring: "Daring" #!Empty_LineInfo!
+	CORELLIAN_SHIP_valorant: "Valorant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_void_sister: "Void Sister" #!Empty_LineInfo!
+	CORELLIAN_SHIP_center_bound: "Center Bound" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fire_of_the_free: "Fire of the Free" #!Empty_LineInfo!
+	CORELLIAN_SHIP_agency: "Agency" #!Empty_LineInfo!
+	CORELLIAN_SHIP_free_will: "Free Will" #!Empty_LineInfo!
+	CORELLIAN_SHIP_settler: "Settler" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trekker: "Trekker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_pioneer: "Pioneer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_expedition: "Expedition" #!Empty_LineInfo!
+	CORELLIAN_SHIP_firebolt: "Firebolt" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_chief: "Chief" #!Empty_LineInfo!
+	CORELLIAN_SHIP_constitution: "Constitution" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dextrous: "Dextrous" #!Empty_LineInfo!
+	CORELLIAN_SHIP_freedom: "Freedom" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_monsoon: "Monsoon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_zimitz: "Zimitz" #!Empty_LineInfo!
+	CORELLIAN_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	CORELLIAN_SHIP_port_royal: "Port Royal" #!Empty_LineInfo!
+	CORELLIAN_SHIP_providence: "Providence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	CORELLIAN_SHIP_squall: "Squall" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stockade: "Stockade" #!Empty_LineInfo!
+	CORELLIAN_SHIP_rampart: "Rampart" #!Empty_LineInfo!
+	CORELLIAN_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	CORELLIAN_SHIP_invincible: "Invincible" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	CORELLIAN_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	CORELLIAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_red_cloud: "Red Cloud" #!Empty_LineInfo!
+	CORELLIAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	CORELLIAN_SHIP_arko: "Arko" #!Empty_LineInfo!
+	CORELLIAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_antares: "Antares" #!Empty_LineInfo!
+	CORELLIAN_SHIP_resolute: "Resolute" #!Empty_LineInfo!
+	CORELLIAN_SHIP_beckoner: "Beckoner" #!Empty_LineInfo!
+	CORELLIAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stardust: "Stardust" #!Empty_LineInfo!
+	CORELLIAN_SHIP_insurrection: "Insurrection" #!Empty_LineInfo!
+	CORELLIAN_SHIP_freedom_fighter: "Freedom Fighter" #!Empty_LineInfo!
+	CORELLIAN_SHIP_neebray: "Neebray" #!Empty_LineInfo!
+	CORELLIAN_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	CORELLIAN_SHIP_golden_age: "Golden Age" #!Empty_LineInfo!
+	CORELLIAN_SHIP_jonash: "Jonash" #!Empty_LineInfo!
+	CORELLIAN_SHIP_prince_admiral: "Prince Admiral" #!Empty_LineInfo!
+	CORELLIAN_SHIP_cape_alsaka: "Cape Alsaka" #!Empty_LineInfo!
+	CORELLIAN_SHIP_korol: "Korol" #!Empty_LineInfo!
+	CORELLIAN_SHIP_star_stallion: "Star Stallion" #!Empty_LineInfo!
+	CORELLIAN_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_freehold: "Freehold" #!Empty_LineInfo!
+	CORELLIAN_SHIP_equality: "Equality" #!Empty_LineInfo!
+	CORELLIAN_SHIP_frontier: "Frontier" #!Empty_LineInfo!
+	CORELLIAN_SHIP_homestead: "Homestead" #!Empty_LineInfo!
+	CORELLIAN_SHIP_newcomer: "Newcomer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_longspur: "Longspur" #!Empty_LineInfo!
+	CORELLIAN_SHIP_itinerant: "Itinerant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_roamer: "Roamer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_farstrike: "Farstrike" #!Empty_LineInfo!
+	CORELLIAN_SHIP_brawler: "Brawler" #!Empty_LineInfo!
+	CORELLIAN_SHIP_brazen: "Brazen" #!Empty_LineInfo!
+	CORELLIAN_SHIP_representative: "Representative" #!Empty_LineInfo!
+	CORELLIAN_SHIP_threkin: "Threkin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_jaina_the_elder: "Jaina the Elder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_jaina_the_younger: "Jaina the Younger" #!Empty_LineInfo!
+	CORELLIAN_SHIP_free_reign: "Free Reign" #!Empty_LineInfo!
+	CORELLIAN_SHIP_free_hand: "Free Hand" #!Empty_LineInfo!
+	CORELLIAN_SHIP_liberality: "Liberality" #!Empty_LineInfo!
+	CORELLIAN_SHIP_corell_first: "Corell First" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lawbringer: "Lawbringer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_demos: "Demos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tolerance: "Tolerance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_prudence: "Prudence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_prudential: "Prudential" #!Empty_LineInfo!
+	CORELLIAN_SHIP_forbearance: "Forbearance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_magnanimity: "Magnanimity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_permissive: "Permissive" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fortitude: "Fortitude" #!Empty_LineInfo!
+	CORELLIAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_torrent: "Torrent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_freebird: "Freebird" #!Empty_LineInfo!
+	CORELLIAN_SHIP_novaflame: "Novaflame" #!Empty_LineInfo!
+	CORELLIAN_SHIP_starhawk: "Starhawk" #!Empty_LineInfo!
+	CORELLIAN_SHIP_starbird: "Starbird" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ramos: "Ramos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bedoch: "Bedoch" #!Empty_LineInfo!
+	CORELLIAN_SHIP_redick: "Redick" #!Empty_LineInfo!
+	CORELLIAN_SHIP_green_council: "Green Council" #!Empty_LineInfo!
+	CORELLIAN_SHIP_berethon: "Berethon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_cerulian: "Cerulian" #!Empty_LineInfo!
+	CORELLIAN_SHIP_korin: "Korin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_redris: "Redris" #!Empty_LineInfo!
+	CORELLIAN_SHIP_krahnn: "Krahnn" #!Empty_LineInfo!
+	CORELLIAN_SHIP_qella_tak: "Qella'tak" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thunder_dragon: "Thunder Dragon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_seldin: "Seldin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_taradon: "Taradon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_saving_grace: "Saving Grace" #!Empty_LineInfo!
+	CORELLIAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_emerald_lance: "Emerald Lance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_nova_whisper: "Nova Whisper" #!Empty_LineInfo!
+	CORELLIAN_SHIP_saxan_s_pride: "Saxan's Pride" #!Empty_LineInfo!
+	CORELLIAN_SHIP_silaban: "Silaban" #!Empty_LineInfo!
+	CORELLIAN_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_pride_of_the_rim: "Pride of the Rim" #!Empty_LineInfo!
+	CORELLIAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sundered_heart: "Sundered Heart" #!Empty_LineInfo!
+	CORELLIAN_SHIP_farstar: "FarStar" #!Empty_LineInfo!
+	CORELLIAN_SHIP_liberator: "Liberator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_agara: "Agara" #!Empty_LineInfo!
+	CORELLIAN_SHIP_amber_star: "Amber Star" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ast_ria: "Ast'ria" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stin: "Stin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_athega: "Athega" #!Empty_LineInfo!
+	CORELLIAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	CORELLIAN_SHIP_badlands: "Badlands" #!Empty_LineInfo!
+	CORELLIAN_SHIP_beacon: "Beacon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bilbringi: "Bilbringi" #!Empty_LineInfo!
+	CORELLIAN_SHIP_birkby: "Birkby" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bixby: "Bixby" #!Empty_LineInfo!
+	CORELLIAN_SHIP_blackmist: "Blackmist" #!Empty_LineInfo!
+	CORELLIAN_SHIP_blazen: "Blazen" #!Empty_LineInfo!
+	CORELLIAN_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	CORELLIAN_SHIP_burke: "Burke" #!Empty_LineInfo!
+	CORELLIAN_SHIP_candor: "Candor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_charger: "Charger" #!Empty_LineInfo!
+	CORELLIAN_SHIP_clavier: "Clavier" #!Empty_LineInfo!
+	CORELLIAN_SHIP_claw: "Claw" #!Empty_LineInfo!
+	CORELLIAN_SHIP_coen: "Coen" #!Empty_LineInfo!
+	CORELLIAN_SHIP_constrictor: "Constrictor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_controller: "Controller" #!Empty_LineInfo!
+	CORELLIAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_cularin: "Cularin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dar_es: "Dar Es" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dinko: "Dinko" #!Empty_LineInfo!
+	CORELLIAN_SHIP_emancipator: "Emancipator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_eridain: "Eridain" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ession_strike: "Ession Strike" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ethar: "Ethar" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fa_loh_sui: "Fa-Loh-Sui" #!Empty_LineInfo!
+	CORELLIAN_SHIP_falcon: "Falcon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fang: "Fang" #!Empty_LineInfo!
+	CORELLIAN_SHIP_farrelly: "Farrelly" #!Empty_LineInfo!
+	CORELLIAN_SHIP_filve: "Filve" #!Empty_LineInfo!
+	CORELLIAN_SHIP_firestorm: "Firestorm" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gaaltura_v: "Gaaltura V" #!Empty_LineInfo!
+	CORELLIAN_SHIP_galaxy_chance: "Galaxy Chance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_geedon: "Geedon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_glaser: "Glaser" #!Empty_LineInfo!
+	CORELLIAN_SHIP_glazer: "Glazer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_godar: "Godar" #!Empty_LineInfo!
+	CORELLIAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	CORELLIAN_SHIP_habatok: "Habatok" #!Empty_LineInfo!
+	CORELLIAN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	CORELLIAN_SHIP_howlrunner: "Howlrunner" #!Empty_LineInfo!
+	CORELLIAN_SHIP_hyko: "Hyko" #!Empty_LineInfo!
+	CORELLIAN_SHIP_intrepid: "Intrepid" #!Empty_LineInfo!
+	CORELLIAN_SHIP_indefatigable: "Indefatigable" #!Empty_LineInfo!
+	CORELLIAN_SHIP_jaina_s_light: "Jaina's Light" #!Empty_LineInfo!
+	CORELLIAN_SHIP_janson: "Janson" #!Empty_LineInfo!
+	CORELLIAN_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_keeper: "Keeper" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kern_s_pride: "Kern's Pride" #!Empty_LineInfo!
+	CORELLIAN_SHIP_korolev: "Korolev" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lance: "Lance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_last_hope: "Last Hope" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lauhu: "Lauhu" #!Empty_LineInfo!
+	CORELLIAN_SHIP_lialic_ii: "Lialic II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_libra: "Libra" #!Empty_LineInfo!
+	CORELLIAN_SHIP_magua: "Magua" #!Empty_LineInfo!
+	CORELLIAN_SHIP_mahan: "Mahan" #!Empty_LineInfo!
+	CORELLIAN_SHIP_manx: "Manx" #!Empty_LineInfo!
+	CORELLIAN_SHIP_mar_duun: "Mar Duun" #!Empty_LineInfo!
+	CORELLIAN_SHIP_masanya: "Masanya" #!Empty_LineInfo!
+	CORELLIAN_SHIP_neelian: "Neelian" #!Empty_LineInfo!
+	CORELLIAN_SHIP_novaflare: "NovaFlare" #!Empty_LineInfo!
+	CORELLIAN_SHIP_olrac_etnom: "Olrac Etnom" #!Empty_LineInfo!
+	CORELLIAN_SHIP_oramac: "Oramac" #!Empty_LineInfo!
+	CORELLIAN_SHIP_petor: "Petor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_phazer_one: "Phazer One" #!Empty_LineInfo!
+	CORELLIAN_SHIP_phazer_two: "Phazer Two" #!Empty_LineInfo!
+	CORELLIAN_SHIP_pushti: "Pushti" #!Empty_LineInfo!
+	CORELLIAN_SHIP_qiluiy: "Qiluiy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ram_s_head: "Ram's Head" #!Empty_LineInfo!
+	CORELLIAN_SHIP_rancor_s_tooth: "Rancor's Tooth" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ranger: "Ranger" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ranolfo: "Ranolfo" #!Empty_LineInfo!
+	CORELLIAN_SHIP_razor: "Razor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_old_red: "Old Red" #!Empty_LineInfo!
+	CORELLIAN_SHIP_red_tooth: "Red Tooth" #!Empty_LineInfo!
+	CORELLIAN_SHIP_renthal_s_fist: "Renthal's Fist" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ritam: "Ritam" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sable_three: "Sable Three" #!Empty_LineInfo!
+	CORELLIAN_SHIP_safonne_s_sword: "Safonne's Sword" #!Empty_LineInfo!
+	CORELLIAN_SHIP_saki: "Saki" #!Empty_LineInfo!
+	CORELLIAN_SHIP_scarlet_thranta: "Scarlet Thranta" #!Empty_LineInfo!
+	CORELLIAN_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_shurik: "Shurik" #!Empty_LineInfo!
+	CORELLIAN_SHIP_smokeswimmer: "Smokeswimmer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sonnel: "Sonnel" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spartzen: "Spartzen" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	CORELLIAN_SHIP_starfall: "Starfall" #!Empty_LineInfo!
+	CORELLIAN_SHIP_starlight_wanderer: "Starlight Wanderer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stellar_damsel: "Stellar Damsel" #!Empty_LineInfo!
+	CORELLIAN_SHIP_storm: "Storm" #!Empty_LineInfo!
+	CORELLIAN_SHIP_stormstrike: "Stormstrike" #!Empty_LineInfo!
+	CORELLIAN_SHIP_striker: "Striker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sundog: "Sundog" #!Empty_LineInfo!
+	CORELLIAN_SHIP_talon: "Talon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tarnta_s_fang: "Tarnta's Fang" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thaere_runner: "Thaere Runner" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thunder: "Thunder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thunderstrike: "Thunderstrike" #!Empty_LineInfo!
+	CORELLIAN_SHIP_tiger_one: "Tiger One" #!Empty_LineInfo!
+	CORELLIAN_SHIP_triumph: "Triumph" #!Empty_LineInfo!
+	CORELLIAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ullet: "Ullet" #!Empty_LineInfo!
+	CORELLIAN_SHIP_viper: "Viper" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vop_hui: "Vop Hui" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vorknkx: "Vorknkx" #!Empty_LineInfo!
+	CORELLIAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	CORELLIAN_SHIP_windswept: "Windswept" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wolf_pack: "Wolf-Pack" #!Empty_LineInfo!
+	CORELLIAN_SHIP_zahtjav: "Zahtjav" #!Empty_LineInfo!
+	CORELLIAN_SHIP_andronikos: "Andronikos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_memory: "Memory" #!Empty_LineInfo!
+	CORELLIAN_SHIP_memento: "Memento" #!Empty_LineInfo!
+	CORELLIAN_SHIP_trade_wind: "Trade Wind" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wanderlust: "Wanderlust" #!Empty_LineInfo!
+	CORELLIAN_SHIP_seeker: "Seeker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_skyrunner: "Skyrunner" #!Empty_LineInfo!
+	CORELLIAN_SHIP_boundless: "Boundless" #!Empty_LineInfo!
+	CORELLIAN_SHIP_curiosity: "Curiosity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_far_reach: "Far Reach" #!Empty_LineInfo!
+	CORELLIAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	CORELLIAN_SHIP_visitor: "Visitor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_correl_torch: "Correl Torch" #!Empty_LineInfo!
+	CORELLIAN_SHIP_corsuca_light: "Corsuca Light" #!Empty_LineInfo!
+	CORELLIAN_SHIP_wagoneer: "Wagoneer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_corellian_trail: "Corellian Trail" #!Empty_LineInfo!
+	CORELLIAN_SHIP_forder: "Forder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_cortrekker: "CorTrekker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_nova_coronet: "Nova Coronet" #!Empty_LineInfo!
+	CORELLIAN_SHIP_golden_roamer: "Golden Roamer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_fresh_start: "Fresh Start" #!Empty_LineInfo!
+	CORELLIAN_SHIP_new_hope: "New Hope" #!Empty_LineInfo!
+	CORELLIAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_settler_three: "Settler Three" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bushwacker: "Bushwacker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	CORELLIAN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_effort: "Effort" #!Empty_LineInfo!
+	CORELLIAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	CORELLIAN_SHIP_corellian_grit: "Corellian Grit" #!Empty_LineInfo!
+	CORELLIAN_SHIP_progress: "Progress" #!Empty_LineInfo!
+	CORELLIAN_SHIP_sweat_and_tears: "Sweat and Tears" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spirit_of_drall: "Spirit of Drall" #!Empty_LineInfo!
+	CORELLIAN_SHIP_selonian_temerity: "Selonian Temerity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	CORELLIAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	CORELLIAN_SHIP_star_seed: "Star Seed" #!Empty_LineInfo!
+	CORELLIAN_SHIP_attendant: "Attendant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_groundshaker: "Groundshaker" #!Empty_LineInfo!
+	CORELLIAN_SHIP_utility_ship_four: "Utility Ship Four" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	CORELLIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	CORELLIAN_SHIP_riverland: "Riverland" #!Empty_LineInfo!
+	CORELLIAN_SHIP_thaos: "Thaos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_gold_beach: "Gold Beach" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dregin_s_pike: "Dregin's Pike" #!Empty_LineInfo!
+	CORELLIAN_SHIP_suntir: "Suntir" #!Empty_LineInfo!
+	CORELLIAN_SHIP_coronet: "Coronet" #!Empty_LineInfo!
+	CORELLIAN_SHIP_rhaler_s_bastion: "Rhaler's Bastion" #!Empty_LineInfo!
+	CORELLIAN_SHIP_doaba: "Doaba" #!Empty_LineInfo!
+	CORELLIAN_SHIP_guerfel: "Guerfel" #!Empty_LineInfo!
+	CORELLIAN_SHIP_mount_malal: "Mount Malal" #!Empty_LineInfo!
+	CORELLIAN_SHIP_blastfield: "Blastfield" #!Empty_LineInfo!
+	CORELLIAN_SHIP_axial_park: "Axial Park" #!Empty_LineInfo!
+	CORELLIAN_SHIP_labor_valley: "Labor Valley" #!Empty_LineInfo!
+	CORELLIAN_SHIP_incorporation_islands: "Incorporation Islands" #!Empty_LineInfo!
+	CORELLIAN_SHIP_centerpoint: "Centerpoint" #!Empty_LineInfo!
+	CORELLIAN_SHIP_goldoa: "Goldoa" #!Empty_LineInfo!
+	CORELLIAN_SHIP_faramar: "Faramar" #!Empty_LineInfo!
+	CORELLIAN_SHIP_kankaura: "Kankaura" #!Empty_LineInfo!
+	CORELLIAN_SHIP_dreamland: "Dreamland" #!Empty_LineInfo!
+	CORELLIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	CORELLIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	CORELLIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	CORELLIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_imperial_escort: "Imperial Escort" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	CORELLIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	CORELLIAN_FLEET_battle_group_corellia: "Battle Group Corellia" #!Empty_LineInfo!
+	CORELLIAN_FLEET_battle_group_talus: "Battle Group Talus" #!Empty_LineInfo!
+	CORELLIAN_FLEET_battle_group_tralus: "Battle Group Tralus" #!Empty_LineInfo!
+	CORELLIAN_FLEET_battle_group_drall: "Battle Group Drall" #!Empty_LineInfo!
+	CORELLIAN_FLEET_battle_group_selonia: "Battle Group Selonia" #!Empty_LineInfo!
+	CORELLIAN_FLEET_corsec_squadron_ORD: "$ORD$ CorSec Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_corsec_detachment_ORD: "$ORD$ CorSec Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_volunteer_expeditionary_force_ORD: "$ORD$ Volunteer Expeditionary Force" #!Empty_LineInfo!
+	CORELLIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	CORELLIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	CORELLIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	CORELLIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	CORELLIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	CORELLIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	CORELLIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	CORELLIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	CORELLIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	CORELLIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	CORELLIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	CORELLIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	CORELLIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	CORELLIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	CORELLIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	CORELLIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	CORELLIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	CORELLIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	CORELLIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	CORELLIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	CORELLIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	CORELLIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	CORELLIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	CORELLIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	CORELLIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	CORELLIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	CORELLIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	CORELLIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	CORELLIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	CORELLIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	CORELLIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	CORELLIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	CORELLIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	CORELLIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	CORELLIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	CORELLIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	CORELLIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	CORELLIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	CORELLIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	CORELLIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	CORELLIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	CORELLIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	CORELLIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	CORELLIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	CORELLIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	CORELLIAN_CHR_thrackan: "Thrackan" #!Empty_LineInfo!
+	CORELLIAN_CHR_aiden: "Aiden" #!Empty_LineInfo!
+	CORELLIAN_CHR_wedge: "Wedge" #!Empty_LineInfo!
+	CORELLIAN_CHR_dur: "Dur" #!Empty_LineInfo!
+	CORELLIAN_CHR_keiran: "Keiran" #!Empty_LineInfo!
+	CORELLIAN_CHR_com: "Com" #!Empty_LineInfo!
+	CORELLIAN_CHR_shor: "Shor" #!Empty_LineInfo!
+	CORELLIAN_CHR_dupas: "Dupas" #!Empty_LineInfo!
+	CORELLIAN_CHR_zekka: "Zekka" #!Empty_LineInfo!
+	CORELLIAN_CHR_daclif: "Daclif" #!Empty_LineInfo!
+	CORELLIAN_CHR_crix: "Crix" #!Empty_LineInfo!
+	CORELLIAN_CHR_kirtan: "Kirtan" #!Empty_LineInfo!
+	CORELLIAN_CHR_corran: "Corran" #!Empty_LineInfo!
+	CORELLIAN_CHR_gil: "Gil" #!Empty_LineInfo!
+	CORELLIAN_CHR_diric: "Diric" #!Empty_LineInfo!
+	CORELLIAN_CHR_doman: "Doman" #!Empty_LineInfo!
+	CORELLIAN_CHR_aidel: "Aidel" #!Empty_LineInfo!
+	CORELLIAN_CHR_saz: "Saz" #!Empty_LineInfo!
+	CORELLIAN_CHR_jonash: "Jonash" #!Empty_LineInfo!
+	CORELLIAN_CHR_threkin: "Threkin" #!Empty_LineInfo!
+	CORELLIAN_CHR_randil: "Randil" #!Empty_LineInfo!
+	CORELLIAN_CHR_den: "Den" #!Empty_LineInfo!
+	CORELLIAN_CHR_han: "Han" #!Empty_LineInfo!
+	CORELLIAN_CHR_korol: "Korol" #!Empty_LineInfo!
+	CORELLIAN_CHR_jacen: "Jacen" #!Empty_LineInfo!
+	CORELLIAN_CHR_karl: "Karl" #!Empty_LineInfo!
+	CORELLIAN_CHR_mathieu: "Mathieu" #!Empty_LineInfo!
+	CORELLIAN_CHR_tettsel: "Tettsel" #!Empty_LineInfo!
+	CORELLIAN_CHR_jagged: "Jagged" #!Empty_LineInfo!
+	CORELLIAN_CHR_bayle: "Bayle" #!Empty_LineInfo!
+	CORELLIAN_CHR_tormax: "Tormax" #!Empty_LineInfo!
+	CORELLIAN_CHR_seb: "Seb" #!Empty_LineInfo!
+	CORELLIAN_CHR_jareck: "Jareck" #!Empty_LineInfo!
+	CORELLIAN_CHR_jurnel: "Jurnel" #!Empty_LineInfo!
+	CORELLIAN_CHR_vol: "Vol" #!Empty_LineInfo!
+	CORELLIAN_CHR_conil: "Conil" #!Empty_LineInfo!
+	CORELLIAN_CHR_tekil: "Tekil" #!Empty_LineInfo!
+	CORELLIAN_CHR_shi: "Shi" #!Empty_LineInfo!
+	CORELLIAN_CHR_myron: "Myron" #!Empty_LineInfo!
+	CORELLIAN_CHR_jab: "Jab" #!Empty_LineInfo!
+	CORELLIAN_CHR_garm: "Garm" #!Empty_LineInfo!
+	CORELLIAN_CHR_odair: "Odair" #!Empty_LineInfo!
+	CORELLIAN_CHR_draykken: "Draykken" #!Empty_LineInfo!
+	CORELLIAN_CHR_hraykken: "Hraykken" #!Empty_LineInfo!
+	CORELLIAN_CHR_hiram: "Hiram" #!Empty_LineInfo!
+	CORELLIAN_CHR_anson: "Anson" #!Empty_LineInfo!
+	CORELLIAN_CHR_crev: "Crev" #!Empty_LineInfo!
+	CORELLIAN_CHR_natt: "Natt" #!Empty_LineInfo!
+	CORELLIAN_CHR_sunny: "Sunny" #!Empty_LineInfo!
+	CORELLIAN_CHR_dev: "Dev" #!Empty_LineInfo!
+	CORELLIAN_CHR_grov: "Grov" #!Empty_LineInfo!
+	CORELLIAN_CHR_ezra: "Ezra" #!Empty_LineInfo!
+	CORELLIAN_CHR_ront: "Ront" #!Empty_LineInfo!
+	CORELLIAN_CHR_jerem: "Jerem" #!Empty_LineInfo!
+	CORELLIAN_CHR_monti: "Monti" #!Empty_LineInfo!
+	CORELLIAN_CHR_cole: "Cole" #!Empty_LineInfo!
+	CORELLIAN_CHR_jorj: "Jorj" #!Empty_LineInfo!
+	CORELLIAN_CHR_lanius: "Lanius" #!Empty_LineInfo!
+	CORELLIAN_CHR_jonah: "Jonah" #!Empty_LineInfo!
+	CORELLIAN_CHR_jesseb: "Jesseb" #!Empty_LineInfo!
+	CORELLIAN_CHR_lon: "Lon" #!Empty_LineInfo!
+	CORELLIAN_CHR_banyon: "Banyon" #!Empty_LineInfo!
+	CORELLIAN_CHR_abagga: "Abagga" #!Empty_LineInfo!
+	CORELLIAN_CHR_bobor: "Bobor" #!Empty_LineInfo!
+	CORELLIAN_CHR_macz: "Macz" #!Empty_LineInfo!
+	CORELLIAN_CHR_cubber: "Cubber" #!Empty_LineInfo!
+	CORELLIAN_CHR_waroon: "Waroon" #!Empty_LineInfo!
+	CORELLIAN_CHR_sal: "Sal" #!Empty_LineInfo!
+	CORELLIAN_CHR_darvis: "Darvis" #!Empty_LineInfo!
+	CORELLIAN_CHR_skerrick: "Skerrick" #!Empty_LineInfo!
+	CORELLIAN_CHR_davrin: "Davrin" #!Empty_LineInfo!
+	CORELLIAN_CHR_deegan: "Deegan" #!Empty_LineInfo!
+	CORELLIAN_CHR_deflaros: "Deflaros" #!Empty_LineInfo!
+	CORELLIAN_CHR_sann: "Sann" #!Empty_LineInfo!
+	CORELLIAN_CHR_rothgar: "Rothgar" #!Empty_LineInfo!
+	CORELLIAN_CHR_dex: "Dex" #!Empty_LineInfo!
+	CORELLIAN_CHR_didjoa: "Didjoa" #!Empty_LineInfo!
+	CORELLIAN_CHR_myn: "Myn" #!Empty_LineInfo!
+	CORELLIAN_CHR_valon: "Valon" #!Empty_LineInfo!
+	CORELLIAN_CHR_chelch: "Chelch" #!Empty_LineInfo!
+	CORELLIAN_CHR_yustavan: "Yustavan" #!Empty_LineInfo!
+	CORELLIAN_CHR_tev: "Tev" #!Empty_LineInfo!
+	CORELLIAN_CHR_ivr: "Ivr" #!Empty_LineInfo!
+	CORELLIAN_CHR_atlan: "Atlan" #!Empty_LineInfo!
+	CORELLIAN_CHR_rik: "Rik" #!Empty_LineInfo!
+	CORELLIAN_CHR_voba: "Voba" #!Empty_LineInfo!
+	CORELLIAN_CHR_shol: "Shol" #!Empty_LineInfo!
+	CORELLIAN_CHR_thale: "Thale" #!Empty_LineInfo!
+	CORELLIAN_CHR_darv: "Darv" #!Empty_LineInfo!
+	CORELLIAN_CHR_erno: "Erno" #!Empty_LineInfo!
+	CORELLIAN_CHR_falco: "Falco" #!Empty_LineInfo!
+	CORELLIAN_CHR_barr: "Barr" #!Empty_LineInfo!
+	CORELLIAN_CHR_harlon: "Harlon" #!Empty_LineInfo!
+	CORELLIAN_CHR_annor: "Annor" #!Empty_LineInfo!
+	CORELLIAN_CHR_dannl: "Dannl" #!Empty_LineInfo!
+	CORELLIAN_CHR_chak: "Chak" #!Empty_LineInfo!
+	CORELLIAN_CHR_davin: "Davin" #!Empty_LineInfo!
+	CORELLIAN_CHR_soontir: "Soontir" #!Empty_LineInfo!
+	CORELLIAN_CHR_todr: "Todr" #!Empty_LineInfo!
+	CORELLIAN_CHR_almark: "Almark" #!Empty_LineInfo!
+	CORELLIAN_CHR_ilim: "Ilim" #!Empty_LineInfo!
+	CORELLIAN_CHR_ecclessis: "Ecclessis" #!Empty_LineInfo!
+	CORELLIAN_CHR_salovan: "Salovan" #!Empty_LineInfo!
+	CORELLIAN_CHR_mich: "Mich" #!Empty_LineInfo!
+	CORELLIAN_CHR_jace: "Jace" #!Empty_LineInfo!
+	CORELLIAN_CHR_crale: "Crale" #!Empty_LineInfo!
+	CORELLIAN_CHR_zorajas: "Zorajas" #!Empty_LineInfo!
+	CORELLIAN_CHR_jaylon: "Jaylon" #!Empty_LineInfo!
+	CORELLIAN_CHR_nov: "Nov" #!Empty_LineInfo!
+	CORELLIAN_CHR_gerrol: "Gerrol" #!Empty_LineInfo!
+	CORELLIAN_CHR_markus: "Markus" #!Empty_LineInfo!
+	CORELLIAN_CHR_pharnis: "Pharnis" #!Empty_LineInfo!
+	CORELLIAN_CHR_ellias: "Ellias" #!Empty_LineInfo!
+	CORELLIAN_CHR_scolex: "Scolex" #!Empty_LineInfo!
+	CORELLIAN_CHR_de_hoff: "De'hoff" #!Empty_LineInfo!
+	CORELLIAN_CHR_mramo: "Mramo" #!Empty_LineInfo!
+	CORELLIAN_CHR_elias: "Elias" #!Empty_LineInfo!
+	CORELLIAN_CHR_neeja: "Neeja" #!Empty_LineInfo!
+	CORELLIAN_CHR_kenth: "Kenth" #!Empty_LineInfo!
+	CORELLIAN_CHR_pol: "Pol" #!Empty_LineInfo!
+	CORELLIAN_CHR_viktor: "Viktor" #!Empty_LineInfo!
+	CORELLIAN_CHR_janzel: "Janzel" #!Empty_LineInfo!
+	CORELLIAN_CHR_hendrick: "Hendrick" #!Empty_LineInfo!
+	CORELLIAN_CHR_rodin: "Rodin" #!Empty_LineInfo!
+	CORELLIAN_CHR_enneth: "Enneth" #!Empty_LineInfo!
+	CORELLIAN_CHR_braganti: "Braganti" #!Empty_LineInfo!
+	CORELLIAN_CHR_helfin: "Helfin" #!Empty_LineInfo!
+	CORELLIAN_CHR_jenos: "Jenos" #!Empty_LineInfo!
+	CORELLIAN_CHR_ilyamo: "Ilyamo" #!Empty_LineInfo!
+	CORELLIAN_CHR_gol: "Gol" #!Empty_LineInfo!
+	CORELLIAN_CHR_falan: "Falan" #!Empty_LineInfo!
+	CORELLIAN_CHR_dinnik: "Dinnik" #!Empty_LineInfo!
+	CORELLIAN_CHR_irek: "Irek" #!Empty_LineInfo!
+	CORELLIAN_CHR_bran: "Bran" #!Empty_LineInfo!
+	CORELLIAN_CHR_jabi: "Jabi" #!Empty_LineInfo!
+	CORELLIAN_CHR_jakir: "Jakir" #!Empty_LineInfo!
+	CORELLIAN_CHR_mack: "Mack" #!Empty_LineInfo!
+	CORELLIAN_CHR_wildis: "Wildis" #!Empty_LineInfo!
+	CORELLIAN_CHR_tomi: "Tomi" #!Empty_LineInfo!
+	CORELLIAN_CHR_talan: "Talan" #!Empty_LineInfo!
+	CORELLIAN_CHR_joz: "Joz" #!Empty_LineInfo!
+	CORELLIAN_CHR_heff: "Heff" #!Empty_LineInfo!
+	CORELLIAN_CHR_kal: "Kal" #!Empty_LineInfo!
+	CORELLIAN_CHR_jori: "Jori" #!Empty_LineInfo!
+	CORELLIAN_CHR_joth: "Joth" #!Empty_LineInfo!
+	CORELLIAN_CHR_cohden: "Cohden" #!Empty_LineInfo!
+	CORELLIAN_CHR_ben: "Ben" #!Empty_LineInfo!
+	CORELLIAN_CHR_dorvin: "Dorvin" #!Empty_LineInfo!
+	CORELLIAN_CHR_craddock: "Craddock" #!Empty_LineInfo!
+	CORELLIAN_CHR_saul: "Saul" #!Empty_LineInfo!
+	CORELLIAN_CHR_denell: "Denell" #!Empty_LineInfo!
+	CORELLIAN_CHR_van: "Van" #!Empty_LineInfo!
+	CORELLIAN_CHR_lex: "Lex" #!Empty_LineInfo!
+	CORELLIAN_CHR_erel: "Erel" #!Empty_LineInfo!
+	CORELLIAN_CHR_kett: "Kett" #!Empty_LineInfo!
+	CORELLIAN_CHR_shoan: "Shoan" #!Empty_LineInfo!
+	CORELLIAN_CHR_tan: "Tan" #!Empty_LineInfo!
+	CORELLIAN_CHR_nevis: "Nevis" #!Empty_LineInfo!
+	CORELLIAN_CHR_bidlo: "Bidlo" #!Empty_LineInfo!
+	CORELLIAN_CHR_pel: "Pel" #!Empty_LineInfo!
+	CORELLIAN_CHR_dael: "Dael" #!Empty_LineInfo!
+	CORELLIAN_CHR_aram: "Aram" #!Empty_LineInfo!
+	CORELLIAN_CHR_yade: "Yade" #!Empty_LineInfo!
+	CORELLIAN_CHR_zuld: "Zuld" #!Empty_LineInfo!
+	CORELLIAN_CHR_yanus: "Yanus" #!Empty_LineInfo!
+	CORELLIAN_CHR_barid: "Barid" #!Empty_LineInfo!
+	CORELLIAN_CHR_dayvid: "Dayvid" #!Empty_LineInfo!
+	CORELLIAN_CHR_tosk: "Tosk" #!Empty_LineInfo!
+	CORELLIAN_CHR_hurn: "Hurn" #!Empty_LineInfo!
+	CORELLIAN_CHR_derremd: "Derremd" #!Empty_LineInfo!
+	CORELLIAN_CHR_janqual: "Janqual" #!Empty_LineInfo!
+	CORELLIAN_CHR_stax: "Stax" #!Empty_LineInfo!
+	CORELLIAN_CHR_fenig: "Fenig" #!Empty_LineInfo!
+	CORELLIAN_CHR_bek: "Bek" #!Empty_LineInfo!
+	CORELLIAN_CHR_romas: "Romas" #!Empty_LineInfo!
+	CORELLIAN_CHR_nozzo: "Nozzo" #!Empty_LineInfo!
+	CORELLIAN_CHR_kaj: "Kaj" #!Empty_LineInfo!
+	CORELLIAN_CHR_jasper: "Jasper" #!Empty_LineInfo!
+	CORELLIAN_CHR_aalos: "Aalos" #!Empty_LineInfo!
+	CORELLIAN_CHR_galidon: "Galidon" #!Empty_LineInfo!
+	CORELLIAN_CHR_jav: "Jav" #!Empty_LineInfo!
+	CORELLIAN_CHR_lorn: "Lorn" #!Empty_LineInfo!
+	CORELLIAN_CHR_gilad: "Gilad" #!Empty_LineInfo!
+	CORELLIAN_CHR_kazic: "Kazic" #!Empty_LineInfo!
+	CORELLIAN_CHR_malik: "Malik" #!Empty_LineInfo!
+	CORELLIAN_CHR_petro: "Petro" #!Empty_LineInfo!
+	CORELLIAN_CHR_phaeris: "Phaeris" #!Empty_LineInfo!
+	CORELLIAN_CHR_keekrim: "Keekrim" #!Empty_LineInfo!
+	CORELLIAN_CHR_ilir: "Ilir" #!Empty_LineInfo!
+	CORELLIAN_CHR_dubrank: "Dubrank" #!Empty_LineInfo!
+	CORELLIAN_CHR_mat: "Mat" #!Empty_LineInfo!
+	CORELLIAN_CHR_rallo: "Rallo" #!Empty_LineInfo!
+	CORELLIAN_CHR_custo: "Custo" #!Empty_LineInfo!
+	CORELLIAN_CHR_tait: "Tait" #!Empty_LineInfo!
+	CORELLIAN_CHR_ubis: "Ubis" #!Empty_LineInfo!
+	CORELLIAN_CHR_dash: "Dash" #!Empty_LineInfo!
+	CORELLIAN_CHR_rosh: "Rosh" #!Empty_LineInfo!
+	CORELLIAN_CHR_palejo: "Palejo" #!Empty_LineInfo!
+	CORELLIAN_CHR_andronikos: "Andronikos" #!Empty_LineInfo!
+	CORELLIAN_CHR_jerris: "Jerris" #!Empty_LineInfo!
+	CORELLIAN_CHR_rion: "Rion" #!Empty_LineInfo!
+	CORELLIAN_CHR_thaddeus: "Thaddeus" #!Empty_LineInfo!
+	CORELLIAN_CHR_barit: "Barit" #!Empty_LineInfo!
+	CORELLIAN_CHR_cyru: "Cyru" #!Empty_LineInfo!
+	CORELLIAN_CHR_jornel: "Jornel" #!Empty_LineInfo!
+	CORELLIAN_CHR_newin: "Newin" #!Empty_LineInfo!
+	CORELLIAN_CHR_pech: "Pech" #!Empty_LineInfo!
+	CORELLIAN_CHR_sevik: "Sevik" #!Empty_LineInfo!
+	CORELLIAN_CHR_finn: "Finn" #!Empty_LineInfo!
+	CORELLIAN_CHR_hershel: "Hershel" #!Empty_LineInfo!
+	CORELLIAN_CHR_hasadar: "Hasadar" #!Empty_LineInfo!
+	CORELLIAN_CHR_sherro: "Sherro" #!Empty_LineInfo!
+	CORELLIAN_CHR_silas: "Silas" #!Empty_LineInfo!
+	CORELLIAN_CHR_tennet: "Tennet" #!Empty_LineInfo!
+	CORELLIAN_CHR_jarred: "Jarred" #!Empty_LineInfo!
+	CORELLIAN_CHR_chun: "Chun" #!Empty_LineInfo!
+	CORELLIAN_CHR_keevy: "Keevy" #!Empty_LineInfo!
+	CORELLIAN_CHR_raan: "Raan" #!Empty_LineInfo!
+	CORELLIAN_CHR_jord: "Jord" #!Empty_LineInfo!
+	CORELLIAN_CHR_sarvel: "Sarvel" #!Empty_LineInfo!
+	CORELLIAN_CHR_galvain: "Galvain" #!Empty_LineInfo!
+	CORELLIAN_CHR_denjax: "Denjax" #!Empty_LineInfo!
+	CORELLIAN_CHR_booster: "Booster" #!Empty_LineInfo!
+	CORELLIAN_CHR_probus: "Probus" #!Empty_LineInfo!
+	CORELLIAN_CHR_pavik: "Pavik" #!Empty_LineInfo!
+	CORELLIAN_CHR_renn: "Renn" #!Empty_LineInfo!
+	CORELLIAN_CHR_mill: "Mill" #!Empty_LineInfo!
+	CORELLIAN_CHR_garv: "Garv" #!Empty_LineInfo!
+	CORELLIAN_CHR_harval: "Harval" #!Empty_LineInfo!
+	CORELLIAN_CHR_fynn: "Fynn" #!Empty_LineInfo!
+	CORELLIAN_CHR_hugo: "Hugo" #!Empty_LineInfo!
+	CORELLIAN_CHR_tam: "Tam" #!Empty_LineInfo!
+	CORELLIAN_CHR_denetrius: "Denetrius" #!Empty_LineInfo!
+	CORELLIAN_CHR_vinro: "Vinro" #!Empty_LineInfo!
+	CORELLIAN_CHR_wex: "Wex" #!Empty_LineInfo!
+	CORELLIAN_CHR_jos: "Jos" #!Empty_LineInfo!
+	CORELLIAN_CHR_fliry: "Fliry" #!Empty_LineInfo!
+	CORELLIAN_CHR_halden: "Halden" #!Empty_LineInfo!
+	CORELLIAN_CHR_emmin: "Emmin" #!Empty_LineInfo!
+	CORELLIAN_CHR_attico: "Attico" #!Empty_LineInfo!
+	CORELLIAN_CHR_edbr: "Edbr" #!Empty_LineInfo!
+	CORELLIAN_CHR_brimon: "Brimon" #!Empty_LineInfo!
+	CORELLIAN_CHR_genna: "Genna" #!Empty_LineInfo!
+	CORELLIAN_CHR_fyric: "Fyric" #!Empty_LineInfo!
+	CORELLIAN_CHR_iella: "Iella" #!Empty_LineInfo!
+	CORELLIAN_CHR_sena: "Sena" #!Empty_LineInfo!
+	CORELLIAN_CHR_irenez: "Irenez" #!Empty_LineInfo!
+	CORELLIAN_CHR_dani: "Dani" #!Empty_LineInfo!
+	CORELLIAN_CHR_jaina: "Jaina" #!Empty_LineInfo!
+	CORELLIAN_CHR_danielle: "Danielle" #!Empty_LineInfo!
+	CORELLIAN_CHR_tiion: "Tiion" #!Empty_LineInfo!
+	CORELLIAN_CHR_allana: "Allana" #!Empty_LineInfo!
+	CORELLIAN_CHR_ania: "Ania" #!Empty_LineInfo!
+	CORELLIAN_CHR_dalla: "Dalla" #!Empty_LineInfo!
+	CORELLIAN_CHR_mirax: "Mirax" #!Empty_LineInfo!
+	CORELLIAN_CHR_wynssa: "Wynssa" #!Empty_LineInfo!
+	CORELLIAN_CHR_tira: "Tira" #!Empty_LineInfo!
+	CORELLIAN_CHR_corinna: "Corinna" #!Empty_LineInfo!
+	CORELLIAN_CHR_kandria: "Kandria" #!Empty_LineInfo!
+	CORELLIAN_CHR_tess: "Tess" #!Empty_LineInfo!
+	CORELLIAN_CHR_vora: "Vora" #!Empty_LineInfo!
+	CORELLIAN_CHR_annissya: "Annissya" #!Empty_LineInfo!
+	CORELLIAN_CHR_myri: "Myri" #!Empty_LineInfo!
+	CORELLIAN_CHR_syal: "Syal" #!Empty_LineInfo!
+	CORELLIAN_CHR_zena: "Zena" #!Empty_LineInfo!
+	CORELLIAN_CHR_elga: "Elga" #!Empty_LineInfo!
+	CORELLIAN_CHR_frei: "Frei" #!Empty_LineInfo!
+	CORELLIAN_CHR_camelle: "Camelle" #!Empty_LineInfo!
+	CORELLIAN_CHR_deli: "Deli" #!Empty_LineInfo!
+	CORELLIAN_CHR_roxi: "Roxi" #!Empty_LineInfo!
+	CORELLIAN_CHR_elsen: "Elsen" #!Empty_LineInfo!
+	CORELLIAN_CHR_deena: "Deena" #!Empty_LineInfo!
+	CORELLIAN_CHR_areta: "Areta" #!Empty_LineInfo!
+	CORELLIAN_CHR_sulen: "Sulen" #!Empty_LineInfo!
+	CORELLIAN_CHR_bey: "Bey" #!Empty_LineInfo!
+	CORELLIAN_CHR_annali: "Annali" #!Empty_LineInfo!
+	CORELLIAN_CHR_dova: "Dova" #!Empty_LineInfo!
+	CORELLIAN_CHR_brusela: "Brusela" #!Empty_LineInfo!
+	CORELLIAN_CHR_anni: "Anni" #!Empty_LineInfo!
+	CORELLIAN_CHR_chai: "Chai" #!Empty_LineInfo!
+	CORELLIAN_CHR_kimmi: "Kimmi" #!Empty_LineInfo!
+	CORELLIAN_CHR_cora: "Cora" #!Empty_LineInfo!
+	CORELLIAN_CHR_vella: "Vella" #!Empty_LineInfo!
+	CORELLIAN_CHR_josta: "Josta" #!Empty_LineInfo!
+	CORELLIAN_CHR_viera: "Viera" #!Empty_LineInfo!
+	CORELLIAN_CHR_zindra: "Zindra" #!Empty_LineInfo!
+	CORELLIAN_CHR_coril: "Coril" #!Empty_LineInfo!
+	CORELLIAN_CHR_dayana: "Dayana" #!Empty_LineInfo!
+	CORELLIAN_CHR_destha: "Destha" #!Empty_LineInfo!
+	CORELLIAN_CHR_yama: "Yama" #!Empty_LineInfo!
+	CORELLIAN_CHR_atlanna: "Atlanna" #!Empty_LineInfo!
+	CORELLIAN_CHR_coraline: "Coraline" #!Empty_LineInfo!
+	CORELLIAN_CHR_trins: "Trins" #!Empty_LineInfo!
+	CORELLIAN_CHR_shandy: "Shandy" #!Empty_LineInfo!
+	CORELLIAN_CHR_karin: "Karin" #!Empty_LineInfo!
+	CORELLIAN_CHR_ajai: "Ajai" #!Empty_LineInfo!
+	CORELLIAN_CHR_naz: "Naz" #!Empty_LineInfo!
+	CORELLIAN_CHR_maris: "Maris" #!Empty_LineInfo!
+	CORELLIAN_CHR_bant_ena: "Bant'ena" #!Empty_LineInfo!
+	CORELLIAN_CHR_fianna: "Fianna" #!Empty_LineInfo!
+	CORELLIAN_CHR_teraeza: "Teraeza" #!Empty_LineInfo!
+	CORELLIAN_CHR_cilyn: "Cilyn" #!Empty_LineInfo!
+	CORELLIAN_CHR_jes: "Jes" #!Empty_LineInfo!
+	CORELLIAN_CHR_gixsa: "Gixsa" #!Empty_LineInfo!
+	CORELLIAN_CHR_ta_mara: "Ta-mara" #!Empty_LineInfo!
+	CORELLIAN_CHR_mara: "Mara" #!Empty_LineInfo!
+	CORELLIAN_CHR_tag: "Tag" #!Empty_LineInfo!
+	CORELLIAN_CHR_gallura: "Gallura" #!Empty_LineInfo!
+	CORELLIAN_CHR_bleys: "Bleys" #!Empty_LineInfo!
+	CORELLIAN_CHR_kylaena: "Kylaena" #!Empty_LineInfo!
+	CORELLIAN_CHR_hethra: "Hethra" #!Empty_LineInfo!
+	CORELLIAN_CHR_hirka: "Hirka" #!Empty_LineInfo!
+	CORELLIAN_CHR_sola: "Sola" #!Empty_LineInfo!
+	CORELLIAN_CHR_nola: "Nola" #!Empty_LineInfo!
+	CORELLIAN_CHR_iris: "Iris" #!Empty_LineInfo!
+	CORELLIAN_CHR_brali: "Brali" #!Empty_LineInfo!
+	CORELLIAN_CHR_relva: "Relva" #!Empty_LineInfo!
+	CORELLIAN_CHR_jasha: "Jasha" #!Empty_LineInfo!
+	CORELLIAN_CHR_jenna: "Jenna" #!Empty_LineInfo!
+	CORELLIAN_CHR_renga: "Renga" #!Empty_LineInfo!
+	CORELLIAN_CHR_nyche: "Nyche" #!Empty_LineInfo!
+	CORELLIAN_CHR_waria: "Waria" #!Empty_LineInfo!
+	CORELLIAN_CHR_erin: "Erin" #!Empty_LineInfo!
+	CORELLIAN_CHR_kalifa: "Kalifa" #!Empty_LineInfo!
+	CORELLIAN_CHR_vara: "Vara" #!Empty_LineInfo!
+	CORELLIAN_CHR_karena: "Karena" #!Empty_LineInfo!
+	CORELLIAN_CHR_kess: "Kess" #!Empty_LineInfo!
+	CORELLIAN_CHR_ala: "Ala" #!Empty_LineInfo!
+	CORELLIAN_CHR_kiza: "Kiza" #!Empty_LineInfo!
+	CORELLIAN_CHR_adele: "Adele" #!Empty_LineInfo!
+	CORELLIAN_CHR_vani: "Vani" #!Empty_LineInfo!
+	CORELLIAN_CHR_kym: "Kym" #!Empty_LineInfo!
+	CORELLIAN_CHR_shandria: "Shandria" #!Empty_LineInfo!
+	CORELLIAN_CHR_laudica: "Laudica" #!Empty_LineInfo!
+	CORELLIAN_CHR_lilith: "Lilith" #!Empty_LineInfo!
+	CORELLIAN_CHR_brandy: "Brandy" #!Empty_LineInfo!
+	CORELLIAN_CHR_veega: "Veega" #!Empty_LineInfo!
+	CORELLIAN_CHR_lanah: "Lanah" #!Empty_LineInfo!
+	CORELLIAN_CHR_vinya: "Vinya" #!Empty_LineInfo!
+	CORELLIAN_CHR_meloria: "Meloria" #!Empty_LineInfo!
+	CORELLIAN_CHR_shyla: "Shyla" #!Empty_LineInfo!
+	CORELLIAN_CHR_navah: "Navah" #!Empty_LineInfo!
+	CORELLIAN_CHR_nevhra: "Nevhra" #!Empty_LineInfo!
+	CORELLIAN_CHR_ballia: "Ballia" #!Empty_LineInfo!
+	CORELLIAN_CHR_lilea: "Lilea" #!Empty_LineInfo!
+	CORELLIAN_CHR_sia: "Sia" #!Empty_LineInfo!
+	CORELLIAN_CHR_mindra: "Mindra" #!Empty_LineInfo!
+	CORELLIAN_CHR_kryss: "Kryss" #!Empty_LineInfo!
+	CORELLIAN_CHR_esa: "Esa" #!Empty_LineInfo!
+	CORELLIAN_CHR_faye: "Faye" #!Empty_LineInfo!
+	CORELLIAN_CHR_rhea: "Rhea" #!Empty_LineInfo!
+	CORELLIAN_CHR_rica: "Rica" #!Empty_LineInfo!
+	CORELLIAN_CHR_adea: "Adea" #!Empty_LineInfo!
+	CORELLIAN_CHR_chertyl: "Chertyl" #!Empty_LineInfo!
+	CORELLIAN_CHR_sapra: "Sapra" #!Empty_LineInfo!
+	CORELLIAN_CHR_vega: "Vega" #!Empty_LineInfo!
+	CORELLIAN_CHR_seyda: "Seyda" #!Empty_LineInfo!
+	CORELLIAN_CHR_falthina: "Falthina" #!Empty_LineInfo!
+	CORELLIAN_CHR_sheelya: "Sheelya" #!Empty_LineInfo!
+	CORELLIAN_CHR_nifera: "Nifera" #!Empty_LineInfo!
+	CORELLIAN_CHR_syrin: "Syrin" #!Empty_LineInfo!
+	CORELLIAN_CHR_bria: "Bria" #!Empty_LineInfo!
+	CORELLIAN_CHR_sera: "Sera" #!Empty_LineInfo!
+	CORELLIAN_CHR_siolle: "Siolle" #!Empty_LineInfo!
+	CORELLIAN_CHR_syla: "Syla" #!Empty_LineInfo!
+	CORELLIAN_CHR_zayna: "Zayna" #!Empty_LineInfo!
+	CORELLIAN_CHR_brindy: "Brindy" #!Empty_LineInfo!
+	CORELLIAN_CHR_arada: "Arada" #!Empty_LineInfo!
+	CORELLIAN_CHR_saza: "Saza" #!Empty_LineInfo!
+	CORELLIAN_CHR_milinae: "Milinae" #!Empty_LineInfo!
+	CORELLIAN_CHR_trilinae: "Trilinae" #!Empty_LineInfo!
+	CORELLIAN_CHR_shaedra: "Shaedra" #!Empty_LineInfo!
+	CORELLIAN_CHR_ecile: "Ecile" #!Empty_LineInfo!
+	CORELLIAN_CHR_orpa: "Orpa" #!Empty_LineInfo!
+	CORELLIAN_CHR_vralla: "Vralla" #!Empty_LineInfo!
+	CORELLIAN_CHR_vye: "Vye" #!Empty_LineInfo!
+	CORELLIAN_CHR_alana: "Alana" #!Empty_LineInfo!
+	CORELLIAN_CHR_teniel: "Teniel" #!Empty_LineInfo!
+	CORELLIAN_CHR_demmi: "Demmi" #!Empty_LineInfo!
+	CORELLIAN_CHR_erris: "Erris" #!Empty_LineInfo!
+	CORELLIAN_CHR_jannitha: "Jannitha" #!Empty_LineInfo!
+	CORELLIAN_CHR_hoclaw: "Hoclaw" #!Empty_LineInfo!
+	CORELLIAN_CHR_saxan: "Saxan" #!Empty_LineInfo!
+	CORELLIAN_CHR_antilles: "Antilles" #!Empty_LineInfo!
+	CORELLIAN_CHR_gejjen: "Gejjen" #!Empty_LineInfo!
+	CORELLIAN_CHR_delpin: "Delpin" #!Empty_LineInfo!
+	CORELLIAN_CHR_bedoch: "Bedoch" #!Empty_LineInfo!
+	CORELLIAN_CHR_halcyon: "Halcyon" #!Empty_LineInfo!
+	CORELLIAN_CHR_horn: "Horn" #!Empty_LineInfo!
+	CORELLIAN_CHR_fordox: "Fordox" #!Empty_LineInfo!
+	CORELLIAN_CHR_merricope: "Merricope" #!Empty_LineInfo!
+	CORELLIAN_CHR_thomree: "Thomree" #!Empty_LineInfo!
+	CORELLIAN_CHR_thyne: "Thyne" #!Empty_LineInfo!
+	CORELLIAN_CHR_gallamby: "Gallamby" #!Empty_LineInfo!
+	CORELLIAN_CHR_madine: "Madine" #!Empty_LineInfo!
+	CORELLIAN_CHR_fel: "Fel" #!Empty_LineInfo!
+	CORELLIAN_CHR_starflare: "Starflare" #!Empty_LineInfo!
+	CORELLIAN_CHR_loor: "Loor" #!Empty_LineInfo!
+	CORELLIAN_CHR_bastra: "Bastra" #!Empty_LineInfo!
+	CORELLIAN_CHR_wessiri: "Wessiri" #!Empty_LineInfo!
+	CORELLIAN_CHR_beruss: "Beruss" #!Empty_LineInfo!
+	CORELLIAN_CHR_micamberlecto: "Micamberlecto" #!Empty_LineInfo!
+	CORELLIAN_CHR_terrik: "Terrik" #!Empty_LineInfo!
+	CORELLIAN_CHR_leikvold: "Leikvold" #!Empty_LineInfo!
+	CORELLIAN_CHR_midanyl: "Midanyl" #!Empty_LineInfo!
+	CORELLIAN_CHR_tyrson: "Tyrson" #!Empty_LineInfo!
+	CORELLIAN_CHR_faytonni: "Faytonni" #!Empty_LineInfo!
+	CORELLIAN_CHR_horm: "Horm" #!Empty_LineInfo!
+	CORELLIAN_CHR_kieran: "Kieran" #!Empty_LineInfo!
+	CORELLIAN_CHR_sal_solo: "Sal-Solo" #!Empty_LineInfo!
+	CORELLIAN_CHR_solo: "Solo" #!Empty_LineInfo!
+	CORELLIAN_CHR_a_daasha: "A'Daasha" #!Empty_LineInfo!
+	CORELLIAN_CHR_alder: "Alder" #!Empty_LineInfo!
+	CORELLIAN_CHR_ancher: "Ancher" #!Empty_LineInfo!
+	CORELLIAN_CHR_anjek: "Anjek" #!Empty_LineInfo!
+	CORELLIAN_CHR_anker: "Anker" #!Empty_LineInfo!
+	CORELLIAN_CHR_anyell: "Anyell" #!Empty_LineInfo!
+	CORELLIAN_CHR_arbo: "Arbo" #!Empty_LineInfo!
+	CORELLIAN_CHR_archan: "Archan" #!Empty_LineInfo!
+	CORELLIAN_CHR_ardellian: "Ardellian" #!Empty_LineInfo!
+	CORELLIAN_CHR_arkos: "Arkos" #!Empty_LineInfo!
+	CORELLIAN_CHR_arned: "Arned" #!Empty_LineInfo!
+	CORELLIAN_CHR_arrant: "Arrant" #!Empty_LineInfo!
+	CORELLIAN_CHR_aycen: "Aycen" #!Empty_LineInfo!
+	CORELLIAN_CHR_bakarn: "Bakarn" #!Empty_LineInfo!
+	CORELLIAN_CHR_barad: "Barad" #!Empty_LineInfo!
+	CORELLIAN_CHR_barje: "Barje" #!Empty_LineInfo!
+	CORELLIAN_CHR_barl: "Barl" #!Empty_LineInfo!
+	CORELLIAN_CHR_barthis: "Barthis" #!Empty_LineInfo!
+	CORELLIAN_CHR_bata: "Bata" #!Empty_LineInfo!
+	CORELLIAN_CHR_beech: "Beech" #!Empty_LineInfo!
+	CORELLIAN_CHR_beetilles: "Beetilles" #!Empty_LineInfo!
+	CORELLIAN_CHR_behar: "Behar" #!Empty_LineInfo!
+	CORELLIAN_CHR_bel_iblis: "Bel Iblis" #!Empty_LineInfo!
+	CORELLIAN_CHR_bel_opis: "Bel-Opis" #!Empty_LineInfo!
+	CORELLIAN_CHR_bell: "Bell" #!Empty_LineInfo!
+	CORELLIAN_CHR_belos: "Belos" #!Empty_LineInfo!
+	CORELLIAN_CHR_bender: "Bender" #!Empty_LineInfo!
+	CORELLIAN_CHR_bilure: "Bilure" #!Empty_LineInfo!
+	CORELLIAN_CHR_bish: "Bish" #!Empty_LineInfo!
+	CORELLIAN_CHR_bissa: "Bissa" #!Empty_LineInfo!
+	CORELLIAN_CHR_blancken: "Blancken" #!Empty_LineInfo!
+	CORELLIAN_CHR_bombassa: "Bombassa" #!Empty_LineInfo!
+	CORELLIAN_CHR_bordo: "Bordo" #!Empty_LineInfo!
+	CORELLIAN_CHR_boshek: "BoShek" #!Empty_LineInfo!
+	CORELLIAN_CHR_bounder: "Bounder" #!Empty_LineInfo!
+	CORELLIAN_CHR_bratt: "Bratt" #!Empty_LineInfo!
+	CORELLIAN_CHR_breeger: "Breeger" #!Empty_LineInfo!
+	CORELLIAN_CHR_bricker: "Bricker" #!Empty_LineInfo!
+	CORELLIAN_CHR_brigger: "Brigger" #!Empty_LineInfo!
+	CORELLIAN_CHR_bruckman: "Bruckman" #!Empty_LineInfo!
+	CORELLIAN_CHR_buroy: "Buroy" #!Empty_LineInfo!
+	CORELLIAN_CHR_burr_naxis: "Burr Naxis" #!Empty_LineInfo!
+	CORELLIAN_CHR_byrnloo: "Byrnloo" #!Empty_LineInfo!
+	CORELLIAN_CHR_cadmir: "Cadmir" #!Empty_LineInfo!
+	CORELLIAN_CHR_calay: "Calay" #!Empty_LineInfo!
+	CORELLIAN_CHR_cantarus: "Cantarus" #!Empty_LineInfo!
+	CORELLIAN_CHR_capstan: "Capstan" #!Empty_LineInfo!
+	CORELLIAN_CHR_car_das: "Car'das" #!Empty_LineInfo!
+	CORELLIAN_CHR_carr: "Carr" #!Empty_LineInfo!
+	CORELLIAN_CHR_carter: "Carter" #!Empty_LineInfo!
+	CORELLIAN_CHR_chyler: "Chyler" #!Empty_LineInfo!
+	CORELLIAN_CHR_convorr: "Convorr" #!Empty_LineInfo!
+	CORELLIAN_CHR_cope: "Cope" #!Empty_LineInfo!
+	CORELLIAN_CHR_corse: "Corse" #!Empty_LineInfo!
+	CORELLIAN_CHR_cracken: "Cracken" #!Empty_LineInfo!
+	CORELLIAN_CHR_craddok: "Craddok" #!Empty_LineInfo!
+	CORELLIAN_CHR_creel: "Creel" #!Empty_LineInfo!
+	CORELLIAN_CHR_crisk: "Crisk" #!Empty_LineInfo!
+	CORELLIAN_CHR_cynthisa: "Cynthisa" #!Empty_LineInfo!
+	CORELLIAN_CHR_daine: "Daine" #!Empty_LineInfo!
+	CORELLIAN_CHR_dak: "Dak" #!Empty_LineInfo!
+	CORELLIAN_CHR_dakron: "Dakron" #!Empty_LineInfo!
+	CORELLIAN_CHR_darriovof_iii: "Darriovof III" #!Empty_LineInfo!
+	CORELLIAN_CHR_darriovof_ii: "Darriovof II" #!Empty_LineInfo!
+	CORELLIAN_CHR_darriovof_iv: "Darriovof IV" #!Empty_LineInfo!
+	CORELLIAN_CHR_das: "Das" #!Empty_LineInfo!
+	CORELLIAN_CHR_daskmin: "Daskmin" #!Empty_LineInfo!
+	CORELLIAN_CHR_dekker: "Dekker" #!Empty_LineInfo!
+	CORELLIAN_CHR_deng: "Deng" #!Empty_LineInfo!
+	CORELLIAN_CHR_devlin: "Devlin" #!Empty_LineInfo!
+	CORELLIAN_CHR_donos: "Donos" #!Empty_LineInfo!
+	CORELLIAN_CHR_dotyk: "Dotyk" #!Empty_LineInfo!
+	CORELLIAN_CHR_draav: "Draav" #!Empty_LineInfo!
+	CORELLIAN_CHR_drass: "Drass" #!Empty_LineInfo!
+	CORELLIAN_CHR_dravvad: "Dravvad" #!Empty_LineInfo!
+	CORELLIAN_CHR_dreezian: "Dreezian" #!Empty_LineInfo!
+	CORELLIAN_CHR_driscull: "Driscull" #!Empty_LineInfo!
+	CORELLIAN_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
+	CORELLIAN_CHR_duey: "Duey" #!Empty_LineInfo!
+	CORELLIAN_CHR_durron: "Durron" #!Empty_LineInfo!
+	CORELLIAN_CHR_dustrunner: "Dustrunner" #!Empty_LineInfo!
+	CORELLIAN_CHR_dynes: "Dynes" #!Empty_LineInfo!
+	CORELLIAN_CHR_eldon: "Eldon" #!Empty_LineInfo!
+	CORELLIAN_CHR_evnar: "Evnar" #!Empty_LineInfo!
+	CORELLIAN_CHR_faldrin: "Faldrin" #!Empty_LineInfo!
+	CORELLIAN_CHR_fanaso: "Fanaso" #!Empty_LineInfo!
+	CORELLIAN_CHR_fane: "Fane" #!Empty_LineInfo!
+	CORELLIAN_CHR_fash: "Fash" #!Empty_LineInfo!
+	CORELLIAN_CHR_featherlight: "Featherlight" #!Empty_LineInfo!
+	CORELLIAN_CHR_feleema: "Feleema" #!Empty_LineInfo!
+	CORELLIAN_CHR_felyood: "Felyood" #!Empty_LineInfo!
+	CORELLIAN_CHR_ferasi: "Ferasi" #!Empty_LineInfo!
+	CORELLIAN_CHR_varangi: "Varangi" #!Empty_LineInfo!
+	CORELLIAN_CHR_ferd: "Ferd" #!Empty_LineInfo!
+	CORELLIAN_CHR_fhernan: "Fhernan" #!Empty_LineInfo!
+	CORELLIAN_CHR_fische: "Fische" #!Empty_LineInfo!
+	CORELLIAN_CHR_flenn: "Flenn" #!Empty_LineInfo!
+	CORELLIAN_CHR_forno: "Forno" #!Empty_LineInfo!
+	CORELLIAN_CHR_forte: "Forte" #!Empty_LineInfo!
+	CORELLIAN_CHR_furloti: "Furloti" #!Empty_LineInfo!
+	CORELLIAN_CHR_gadren: "Gadren" #!Empty_LineInfo!
+	CORELLIAN_CHR_gara: "Gara" #!Empty_LineInfo!
+	CORELLIAN_CHR_garamin: "Garamin" #!Empty_LineInfo!
+	CORELLIAN_CHR_geissler: "Geissler" #!Empty_LineInfo!
+	CORELLIAN_CHR_hun: "Hun" #!Empty_LineInfo!
+	CORELLIAN_CHR_glider: "Glider" #!Empty_LineInfo!
+	CORELLIAN_CHR_gistang: "Gistang" #!Empty_LineInfo!
+	CORELLIAN_CHR_gleasry: "Gleasry" #!Empty_LineInfo!
+	CORELLIAN_CHR_gorlin: "Gorlin" #!Empty_LineInfo!
+	CORELLIAN_CHR_grath: "Grath" #!Empty_LineInfo!
+	CORELLIAN_CHR_greenley: "Greenley" #!Empty_LineInfo!
+	CORELLIAN_CHR_fulfel: "Fulfel" #!Empty_LineInfo!
+	CORELLIAN_CHR_gurah: "Gurah" #!Empty_LineInfo!
+	CORELLIAN_CHR_halbert: "Halbert" #!Empty_LineInfo!
+	CORELLIAN_CHR_hamber: "Hamber" #!Empty_LineInfo!
+	CORELLIAN_CHR_hamner: "Hamner" #!Empty_LineInfo!
+	CORELLIAN_CHR_handerin: "Handerin" #!Empty_LineInfo!
+	CORELLIAN_CHR_harand: "Harand" #!Empty_LineInfo!
+	CORELLIAN_CHR_haley: "Haley" #!Empty_LineInfo!
+	CORELLIAN_CHR_hel: "Hel" #!Empty_LineInfo!
+	CORELLIAN_CHR_helot: "Helot" #!Empty_LineInfo!
+	CORELLIAN_CHR_hieks: "Hieks" #!Empty_LineInfo!
+	CORELLIAN_CHR_higron: "Higron" #!Empty_LineInfo!
+	CORELLIAN_CHR_holkin: "Holkin" #!Empty_LineInfo!
+	CORELLIAN_CHR_hooge: "Hooge" #!Empty_LineInfo!
+	CORELLIAN_CHR_hus: "Hus" #!Empty_LineInfo!
+	CORELLIAN_CHR_huutar: "Huutar" #!Empty_LineInfo!
+	CORELLIAN_CHR_idanian: "Idanian" #!Empty_LineInfo!
+	CORELLIAN_CHR_inacc: "Inacc" #!Empty_LineInfo!
+	CORELLIAN_CHR_indervin: "Indervin" #!Empty_LineInfo!
+	CORELLIAN_CHR_iniro: "Iniro" #!Empty_LineInfo!
+	CORELLIAN_CHR_innik: "Innik" #!Empty_LineInfo!
+	CORELLIAN_CHR_isken: "Isken" #!Empty_LineInfo!
+	CORELLIAN_CHR_jiklip: "Jiklip" #!Empty_LineInfo!
+	CORELLIAN_CHR_jinsin: "Jinsin" #!Empty_LineInfo!
+	CORELLIAN_CHR_jixton: "Jixton" #!Empty_LineInfo!
+	CORELLIAN_CHR_joben: "Joben" #!Empty_LineInfo!
+	CORELLIAN_CHR_jodhul: "Jodhul" #!Empty_LineInfo!
+	CORELLIAN_CHR_jofer: "Jofer" #!Empty_LineInfo!
+	CORELLIAN_CHR_johnair: "Johnair" #!Empty_LineInfo!
+	CORELLIAN_CHR_jorek: "Jorek" #!Empty_LineInfo!
+	CORELLIAN_CHR_junus: "Junus" #!Empty_LineInfo!
+	CORELLIAN_CHR_k_reye: "K'Reye" #!Empty_LineInfo!
+	CORELLIAN_CHR_kahob: "Kahob" #!Empty_LineInfo!
+	CORELLIAN_CHR_kantt: "Kantt" #!Empty_LineInfo!
+	CORELLIAN_CHR_kanu: "Kanu" #!Empty_LineInfo!
+	CORELLIAN_CHR_karath: "Karath" #!Empty_LineInfo!
+	CORELLIAN_CHR_karathas: "Karathas" #!Empty_LineInfo!
+	CORELLIAN_CHR_katrane: "Katrane" #!Empty_LineInfo!
+	CORELLIAN_CHR_keer: "Keer" #!Empty_LineInfo!
+	CORELLIAN_CHR_kel_vannon: "Kel'Vannon" #!Empty_LineInfo!
+	CORELLIAN_CHR_van_kellen: "Van Kellen" #!Empty_LineInfo!
+	CORELLIAN_CHR_kener: "Kener" #!Empty_LineInfo!
+	CORELLIAN_CHR_kersos: "Kersos" #!Empty_LineInfo!
+	CORELLIAN_CHR_kilian: "Kilian" #!Empty_LineInfo!
+	CORELLIAN_CHR_kimbo: "Kimbo" #!Empty_LineInfo!
+	CORELLIAN_CHR_kirin: "Kirin" #!Empty_LineInfo!
+	CORELLIAN_CHR_kitt: "Kitt" #!Empty_LineInfo!
+	CORELLIAN_CHR_konya: "Konya" #!Empty_LineInfo!
+	CORELLIAN_CHR_korr: "Korr" #!Empty_LineInfo!
+	CORELLIAN_CHR_krast: "Krast" #!Empty_LineInfo!
+	CORELLIAN_CHR_kwerve: "Kwerve" #!Empty_LineInfo!
+	CORELLIAN_CHR_kwinn: "Kwinn" #!Empty_LineInfo!
+	CORELLIAN_CHR_l_hnnar: "L'hnnar" #!Empty_LineInfo!
+	CORELLIAN_CHR_lerann: "Lerann" #!Empty_LineInfo!
+	CORELLIAN_CHR_levare: "Levare" #!Empty_LineInfo!
+	CORELLIAN_CHR_locke: "Locke" #!Empty_LineInfo!
+	CORELLIAN_CHR_loren: "Loren" #!Empty_LineInfo!
+	CORELLIAN_CHR_loroan: "Loroan" #!Empty_LineInfo!
+	CORELLIAN_CHR_m_rak: "M'rak" #!Empty_LineInfo!
+	CORELLIAN_CHR_madish: "Madish" #!Empty_LineInfo!
+	CORELLIAN_CHR_malo: "Malo" #!Empty_LineInfo!
+	CORELLIAN_CHR_mar_shayal: "Mar-Shayal" #!Empty_LineInfo!
+	CORELLIAN_CHR_maysor: "Maysor" #!Empty_LineInfo!
+	CORELLIAN_CHR_mccallok: "McCallok" #!Empty_LineInfo!
+	CORELLIAN_CHR_king: "King" #!Empty_LineInfo!
+	CORELLIAN_CHR_melikan: "Melikan" #!Empty_LineInfo!
+	CORELLIAN_CHR_millano: "Millano" #!Empty_LineInfo!
+	CORELLIAN_CHR_moeda: "Moeda" #!Empty_LineInfo!
+	CORELLIAN_CHR_montis: "Montis" #!Empty_LineInfo!
+	CORELLIAN_CHR_mor: "Mor" #!Empty_LineInfo!
+	CORELLIAN_CHR_mullawny: "Mullawny" #!Empty_LineInfo!
+	CORELLIAN_CHR_nabon: "Nabon" #!Empty_LineInfo!
+	CORELLIAN_CHR_nataal: "Nataal" #!Empty_LineInfo!
+	CORELLIAN_CHR_navander: "Navander" #!Empty_LineInfo!
+	CORELLIAN_CHR_naytaan: "Naytaan" #!Empty_LineInfo!
+	CORELLIAN_CHR_nedmak: "Nedmak" #!Empty_LineInfo!
+	CORELLIAN_CHR_nimbi: "Nimbi" #!Empty_LineInfo!
+	CORELLIAN_CHR_noaddo: "Noaddo" #!Empty_LineInfo!
+	CORELLIAN_CHR_noorg: "Noorg" #!Empty_LineInfo!
+	CORELLIAN_CHR_norrin: "Norrin" #!Empty_LineInfo!
+	CORELLIAN_CHR_okanor: "Okanor" #!Empty_LineInfo!
+	CORELLIAN_CHR_p_teska: "P'teska" #!Empty_LineInfo!
+	CORELLIAN_CHR_paol: "Paol" #!Empty_LineInfo!
+	CORELLIAN_CHR_parna: "Parna" #!Empty_LineInfo!
+	CORELLIAN_CHR_patrell: "Patrell" #!Empty_LineInfo!
+	CORELLIAN_CHR_pavan: "Pavan" #!Empty_LineInfo!
+	CORELLIAN_CHR_pax: "Pax" #!Empty_LineInfo!
+	CORELLIAN_CHR_pellaeon: "Pellaeon" #!Empty_LineInfo!
+	CORELLIAN_CHR_pendre: "Pendre" #!Empty_LineInfo!
+	CORELLIAN_CHR_pendron: "Pendron" #!Empty_LineInfo!
+	CORELLIAN_CHR_pon: "Pon" #!Empty_LineInfo!
+	CORELLIAN_CHR_post: "Post" #!Empty_LineInfo!
+	CORELLIAN_CHR_qennto: "Qennto" #!Empty_LineInfo!
+	CORELLIAN_CHR_rai: "Rai" #!Empty_LineInfo!
+	CORELLIAN_CHR_ramak: "Ramak" #!Empty_LineInfo!
+	CORELLIAN_CHR_reendorr: "Reendorr" #!Empty_LineInfo!
+	CORELLIAN_CHR_rendar: "Rendar" #!Empty_LineInfo!
+	CORELLIAN_CHR_reshad: "Reshad" #!Empty_LineInfo!
+	CORELLIAN_CHR_rez: "Rez" #!Empty_LineInfo!
+	CORELLIAN_CHR_rite: "Rite" #!Empty_LineInfo!
+	CORELLIAN_CHR_rojo: "Rojo" #!Empty_LineInfo!
+	CORELLIAN_CHR_ross: "Ross" #!Empty_LineInfo!
+	CORELLIAN_CHR_rydel: "Rydel" #!Empty_LineInfo!
+	CORELLIAN_CHR_saiy: "Saiy" #!Empty_LineInfo!
+	CORELLIAN_CHR_salpivo: "SalPivo" #!Empty_LineInfo!
+	CORELLIAN_CHR_sarkee: "Sarkee" #!Empty_LineInfo!
+	CORELLIAN_CHR_sassich: "Sassich" #!Empty_LineInfo!
+	CORELLIAN_CHR_sau: "Sau" #!Empty_LineInfo!
+	CORELLIAN_CHR_savas: "Savas" #!Empty_LineInfo!
+	CORELLIAN_CHR_seedel: "Seedel" #!Empty_LineInfo!
+	CORELLIAN_CHR_seki: "Seki" #!Empty_LineInfo!
+	CORELLIAN_CHR_seldin: "Seldin" #!Empty_LineInfo!
+	CORELLIAN_CHR_sepen: "Sepen" #!Empty_LineInfo!
+	CORELLIAN_CHR_shae: "Shae" #!Empty_LineInfo!
+	CORELLIAN_CHR_shallo: "Shallo" #!Empty_LineInfo!
+	CORELLIAN_CHR_sharest: "Sharest" #!Empty_LineInfo!
+	CORELLIAN_CHR_shelby: "Shelby" #!Empty_LineInfo!
+	CORELLIAN_CHR_shu: "Shu" #!Empty_LineInfo!
+	CORELLIAN_CHR_sionaro: "Sionaro" #!Empty_LineInfo!
+	CORELLIAN_CHR_sirrah: "Sirrah" #!Empty_LineInfo!
+	CORELLIAN_CHR_sistek: "Sistek" #!Empty_LineInfo!
+	CORELLIAN_CHR_spart: "Spart" #!Empty_LineInfo!
+	CORELLIAN_CHR_stasheff: "Stasheff" #!Empty_LineInfo!
+	CORELLIAN_CHR_stokk: "Stokk" #!Empty_LineInfo!
+	CORELLIAN_CHR_suul: "Suul" #!Empty_LineInfo!
+	CORELLIAN_CHR_swan: "Swan" #!Empty_LineInfo!
+	CORELLIAN_CHR_swift: "Swift" #!Empty_LineInfo!
+	CORELLIAN_CHR_tal_oldra: "Tal-Oldra" #!Empty_LineInfo!
+	CORELLIAN_CHR_tark: "Tark" #!Empty_LineInfo!
+	CORELLIAN_CHR_teppler: "Teppler" #!Empty_LineInfo!
+	CORELLIAN_CHR_tharen: "Tharen" #!Empty_LineInfo!
+	CORELLIAN_CHR_thrakus: "Thrakus" #!Empty_LineInfo!
+	CORELLIAN_CHR_timmer: "Timmer" #!Empty_LineInfo!
+	CORELLIAN_CHR_tinta: "Tinta" #!Empty_LineInfo!
+	CORELLIAN_CHR_tipper: "Tipper" #!Empty_LineInfo!
+	CORELLIAN_CHR_tomas: "Tomas" #!Empty_LineInfo!
+	CORELLIAN_CHR_tommick: "Tommick" #!Empty_LineInfo!
+	CORELLIAN_CHR_torbul: "Torbul" #!Empty_LineInfo!
+	CORELLIAN_CHR_tors: "Tors" #!Empty_LineInfo!
+	CORELLIAN_CHR_torve: "Torve" #!Empty_LineInfo!
+	CORELLIAN_CHR_tredahl: "Tredahl" #!Empty_LineInfo!
+	CORELLIAN_CHR_treece: "Treece" #!Empty_LineInfo!
+	CORELLIAN_CHR_truchong: "Truchong" #!Empty_LineInfo!
+	CORELLIAN_CHR_tumu: "Tumu" #!Empty_LineInfo!
+	CORELLIAN_CHR_turhaya: "Turhaya" #!Empty_LineInfo!
+	CORELLIAN_CHR_uliss: "Uliss" #!Empty_LineInfo!
+	CORELLIAN_CHR_ulbert: "Ulbert" #!Empty_LineInfo!
+	CORELLIAN_CHR_undea: "Undea" #!Empty_LineInfo!
+	CORELLIAN_CHR_untaire: "Untaire" #!Empty_LineInfo!
+	CORELLIAN_CHR_valouri: "Valouri" #!Empty_LineInfo!
+	CORELLIAN_CHR_verenar: "Verenar" #!Empty_LineInfo!
+	CORELLIAN_CHR_vergesso: "Vergesso" #!Empty_LineInfo!
+	CORELLIAN_CHR_vidian: "Vidian" #!Empty_LineInfo!
+	CORELLIAN_CHR_vinram: "Vinram" #!Empty_LineInfo!
+	CORELLIAN_CHR_vio: "Vio" #!Empty_LineInfo!
+	CORELLIAN_CHR_vitale: "Vitale" #!Empty_LineInfo!
+	CORELLIAN_CHR_vondar: "Vondar" #!Empty_LineInfo!
+	CORELLIAN_CHR_vorr: "Vorr" #!Empty_LineInfo!
+	CORELLIAN_CHR_vorru: "Vorru" #!Empty_LineInfo!
+	CORELLIAN_CHR_walden: "Walden" #!Empty_LineInfo!
+	CORELLIAN_CHR_waray: "Waray" #!Empty_LineInfo!
+	CORELLIAN_CHR_wes: "Wes" #!Empty_LineInfo!
+	CORELLIAN_CHR_wred: "Wred" #!Empty_LineInfo!
+	CORELLIAN_CHR_wyum: "Wyum" #!Empty_LineInfo!
+	CORELLIAN_CHR_xoczuko: "Xoczuko" #!Empty_LineInfo!
+	CORELLIAN_CHR_yamagh: "Yamagh" #!Empty_LineInfo!
+	CORELLIAN_CHR_yarar: "Yarar" #!Empty_LineInfo!
+	CORELLIAN_CHR_berethron: "Berethron" #!Empty_LineInfo!
+	CORELLIAN_CHR_threkim: "Threkim" #!Empty_LineInfo!
+	CORELLIAN_CHR_anakin: "Anakin" #!Empty_LineInfo!
+	CORELLIAN_CHR_hal: "Hal" #!Empty_LineInfo!
+	CORELLIAN_CHR_rostek: "Rostek" #!Empty_LineInfo!
+	CORELLIAN_CHR_hundi: "Hundi" #!Empty_LineInfo!
+	CORELLIAN_CHR_scerra: "Scerra" #!Empty_LineInfo!
+	CORELLIAN_CHR_jax: "Jax" #!Empty_LineInfo!

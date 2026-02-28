@@ -1,0 +1,431 @@
+﻿l_russian:
+
+ ### July 11 District Stuff
+ # Polis Massa
+ planet_districts_polis_massa: "Астероидные районы"
+ district_polis_massa_housing: "Астероидный жилой район"
+ district_polis_massa_housing_plural: "Астероидные жилые районы"
+ district_polis_massa_housing_desc: "Компактные жилые помещения высечены в устойчивой скале, обеспечивая укрытие и жизнеобеспечение в непригодной для жизни среде."
+ district_polis_massa_generator: "Астероидный энергетический район"
+ district_polis_massa_generator_plural: "Астероидные энергетические районы"
+ district_polis_massa_generator_desc: "почти или полностью отсутствующая атмосфера позволяет напрямую собирать солнечную энергию, обеспечивая надежный источник энергии на астероидах."
+ district_polis_massa_mining: "Астероидный горнодобывающий район"
+ district_polis_massa_mining_plural: "Астероидные горнодобывающие районы"
+ district_polis_massa_mining_desc: "Низкая гравитация и обнаженные слои коры делают добычу полезных ископаемых на астероидах эффективным источником сырья."
+ district_polis_massa_hydroponic: "Астероидный аграрный район"
+ district_polis_massa_hydroponic_plural: "Астероидные аграрные районы"
+ district_polis_massa_hydroponic_desc: "Микробы и лишайники, дополненные гидропоникой, позволяют производить ограниченное количество пищи на астероидах."
+
+ ### July 12
+ # Deposit Stuff
+ d_hyperfuel_isotopes: "Изотопы гипертоплива" 
+ d_hyperfuel_isotopes_desc: "Наши исследовательские группы подтвердили, что на этой планете находятся редкие соединения, необходимые для переработки гипертоплива — важного летучего вещества для сверхсветовых путешествий. Хотя с ними опасно обращаться, и они нестабильны в сыром виде, при надлежащем хранении и переработке эти соединения могут быть преобразованы в высококачественное топливо для звездолетов. Кора испещрена следами гиперреактивных изотопов и летучими плазменными утечками, что делает этот мир ценным источником гипертоплива двигательного класса для наших флотов." 
+ d_hyperfuel_isotopes_2: "Обилие изотопов гипертоплива" 
+ d_hyperfuel_isotopes_2_desc: "$d_hyperfuel_isotopes_desc$"
+ d_hyperfuel_coaxium: "Изотопы, богатые коаксием" 
+ d_hyperfuel_coaxium_desc: "Глубоко под поверхностью летучие пласты коаксия пульсируют едва сдерживаемой энергией. Это редкое и нестабильное гипертопливное соединение требует точного удержания и немедленной очистки, но награда огромна — коаксий обеспечивает непревзойденную производительность для двигательных установок, работающих на сверхсветовых скоростях." 
+
+ mod_planet_farmers_bacta_produces_add: "£bacta£ $bacta$ от должностей [farmer.GetIcon] [GetFarmerPlural]" 
+ mod_planet_miners_spice_produces_add: "£spice£ $spice$ от должностей [miner.GetIcon] [GetMinerPlural]" 
+ mod_planet_miners_sr_kyber_produces_add: "£sr_kyber£ $kyber$ от должностей [miner.GetIcon] [GetMinerPlural]" 
+ mod_planet_technician_hyperfuel_produces_add: "£hyperfuel£ $hyperfuel$ от должностей [technician.GetIcon] [GetTechnicianPlural]" 
+ mod_planet_engineers_tibanna_gas_upkeep_add: "£tibanna_gas£ $tibanna_gas$ на содержание $pop_group_unit$ $job_engineer_plural_with_icon$" 
+
+ # Tech Stuff
+ tech_fuel_industry: "Гипертопливная индустрия"
+ tech_fuel_industry_desc: "Здесь начинается основа галактического транзита. Базовая инфраструктура переработки позволяет безопасно перерабатывать летучую гиперматерию в пригодное для использования топливо, превращая залежи сырья в источник жизненной силы межзвездной торговли."
+
+ # Building Stuff
+ requires_building_floating_capital: "§RТребуется §Y$building_floating_capital$§! на планете.§!"
+ requires_building_floating_major_capital: "§RТребуется §Y$building_floating_major_capital$§! на планете.§!"§Y$building_floating_major_capital$§! на планете.
+
+
+ ### July 14
+ # Building Stuff
+ building_electronics_factory_1: "Лаборатории электронных компонентов"
+ building_electronics_factory_1_desc: "Линия по производству электронных компонентов, от отдельных микросхем до проводки крупных кораблей."
+ building_electronics_factory_2: "Заводы электронных компонентов"
+ building_electronics_factory_2_desc: "Организовованные производственные линии, объединяющие свои запасы и навыки для улучшения производства электронных компонентов всех размеров."
+ building_electronics_factory_3: "Комплексы электронных компонентов"
+ building_electronics_factory_3_desc: "Крупномасштабные заводы, занимающиеся массовым производством высокотехнологичных электронных систем."
+
+ building_electronics_base: "Производственная база электроники" 
+ building_electronics_base_desc: "Производственные камеры и хранилища микросборок, выпускающие процессоры, сенсорные матрицы, системы наведения и компоненты целеуказания, которые обеспечивают работу военных технологий галактики." 
+ building_electronics_hq: "Штаб-квартира электроники" 
+ building_electronics_hq_desc: "Центральный командный пункт регионального производства электроники, координирующий высокоточное производство передовых систем, имеющих решающее значение для космических боев, планетарной обороны и командной инфраструктуры." 
+
+ building_central_tibanna_platform: "Центральная платформа Тибанна" 
+ building_central_tibanna_platform_desc: "Раскинувшийся в воздухе комплекс, объединяющий множество установок извлечения, компрессорных установок и башен атмосферной обработки для максимизации выхода Тибанны на окружающих небесных полях." 
+
+ building_synthetic_hyperfuel: "Завод синтетического гипертоплива" 
+ building_synthetic_hyperfuel_desc: "Высокотехнологичный объект, где инженеры-оружейники и системные техники преобразуют летучие соединения в синтетическую гиперматерию, перерабатывая ее в гипертопливо для передовых реакторов и двигательных установок." 
+ building_synthetic_hyperfuel_2: "Индустрия синтетического гипертоплива" 
+ building_synthetic_hyperfuel_2_desc: "Планетарные запасы могут обеспечить лишь малую часть потребностей флота. Передовые гиперперерабатывающие заводы используют наших квалифицированных специалистов для синтеза гипертоплива в больших объемах." 
+
+ # Tech Stuff
+ tech_electronics_base: "Производственные базы электроники" 
+ tech_electronics_base_desc: "Концентрация высокотехнологичной сборки и производства в специально отведенных технопарках повышает эффективность производства тактических датчиков, сигнальных процессоров и подсистем наведения, необходимых для современной войны." 
+ tech_electronics_hq: "Штаб-квартиры электроники" 
+ tech_electronics_hq_desc: "От технологических анклавов Хосниан Прайм до башен КОМПОНПа производство электроники часто определяется институциональной координацией, будь то через академическо-промышленные кластеры или жестко регулируемые центры оборонных контрактов." 
+ tech_central_tibanna_platform: "$building_central_tibanna_platform$"
+ tech_central_tibanna_platform_desc: "$building_central_tibanna_platform_desc$"
+
+ # District Stuff
+ planet_districts_cloud_city: "Плавучие городские районы" 
+ district_cloud_city_housing: "Плавучий городский район" 
+ district_cloud_city_housing_plural: "Плавучие городские районы" 
+ district_cloud_city_housing_desc: "Жилые ярусы, расположенные между складскими силосами и промышленными лифтами, обеспечивают плотное и эффективное жилье в пределах огромного плавучего мегаполиса." 
+ district_cloud_city_energy: "Плавучий энергетический район" 
+ district_cloud_city_energy_plural: "Плавучие энергетические районы" 
+ district_cloud_city_energy_desc: "На нижних палубах города расположены впускные катушки, которые получают стабильную энергию из неспокойного неба." 
+ district_cloud_city_resort: "Плавучий курортный район" 
+ district_cloud_city_resort_plural: "Плавучие курортные районы" 
+ district_cloud_city_resort_desc: "Верхние террасы плавучего города предназначены для роскоши и отдыха. Смотровые площадки, спа-салоны и купола прогулочных зон предлагают беспрепятственный вид на облака. Здесь воздух чище, а Кредиты текут свободно." 
+
+ # Zone Stuff
+ zone_strategic_systems: "Комплекс стратегических систем" 
+ zone_strategic_systems_desc: "Этот промышленный центр объединяет передовые электронные технологии и производство боеприпасов, обеспечивая надлежащее оснащение и техническое обслуживание наших флотов и оборонных систем." 
+ zone_ammunition: "Сектор боеприпасов" 
+ zone_ammunition_desc: "В этих укрепленных залах, где куются смертоносные боеприпасы, разжигаются взрывы, подпитывая огонь войны и обороны." 
+ zone_electronics: "Сектор электроники" 
+ zone_electronics_desc: "В этом секторе царит тихая сосредоточенность, где создаются схемы и датчики для использования как на кораблях, так и на станциях." 
+
+ zone_unavailable_tech_resort_colonies: "$society_research_icon_with_space$$tech_resort_colonies$"
+ zone_unavailable_tech_tibanna_gas: "$physics_research_icon_with_space$$tech_tibanna_gas$"
+ zone_cloud_city_resort: "Туристический район" 
+ zone_cloud_city_resort_desc: "Стеклянные террасы, сады, казино и музеи расположены на верхних ярусах плавучего города, обслуживая как путешественников, так и высокопоставленных лиц." 
+ zone_tibanna_gas_mining: "Добыча газа Тибанна" 
+ zone_tibanna_gas_mining_desc: "Притягивающие лучи гудят, по трубам течет газ Тибанна, поступающий из облаков в высокие резервуары для переработки в реакторное топливо или патроны для бластеров.." 
+ zone_tibanna_gas_research: "Поддержка исследований газа Тибанна" 
+ zone_tibanna_gas_research_desc: "Надежное снабжение газом Тибанна поддерживает экспериментальные прорывы в системах движения и высокоэнергетическом оружии" 
+
+ ### July 15 testing
+ # Modifier Locs
+ mod_planet_electronics_manufacturers_energy_upkeep_add: "$energy_with_icon$ на содержание $pop_group_unit$ £job_electronics_manufacturer£ $job_electronics_manufacturer_plural$" 
+ mod_planet_electronics_manufacturers_minerals_upkeep_add: "$minerals_with_icon$ на содержание $pop_group_unit$ £job_electronics_manufacturer£ $job_electronics_manufacturer_plural$" 
+ mod_planet_electronics_manufacturers_alloys_upkeep_add: "£alloys£ $alloys$ на содержание $pop_group_unit$ £job_electronics_manufacturer£ $job_electronics_manufacturer_plural$" 
+ mod_planet_electronics_manufacturers_hyperfuel_produces_add: "£hyperfuel£ $hyperfuel$ от £job_electronics_manufacturer£ $job_electronics_manufacturer_plural$" 
+ mod_planet_electronics_manufacturers_electronics_produces_add: "£electronics£ $electronics$ от £job_electronics_manufacturer£ $job_electronics_manufacturer_plural$" 
+ mod_planet_tibanna_miners_tibanna_gas_produces_add: "£tibanna_gas£ $tibanna_gas$ от £job_tibanna_miner£ $job_tibanna_miner_plural$" 
+ mod_planet_ammunition_manufacturers_energy_upkeep_add: "$energy_with_icon$ на содержание $pop_group_unit$ £job_ammunition_manufacturer£ $job_ammunition_manufacturer_plural$" 
+ mod_planet_ammunition_manufacturers_minerals_upkeep_add: "$minerals_with_icon$ на содержание $pop_group_unit$ £job_ammunition_manufacturer£ $job_ammunition_manufacturer_plural$" 
+ mod_planet_ammunition_manufacturers_hyperfuel_produces_add: "£hyperfuel£ $hyperfuel$ от £job_ammunition_manufacturer£ $job_ammunition_manufacturer_plural$" 
+ mod_planet_ammunition_manufacturers_tibanna_gas_upkeep_add: "£tibanna_gas£ $tibanna_gas$ на содержание $pop_group_unit$ £job_ammunition_manufacturer£ $job_ammunition_manufacturer_plural$" 
+ mod_planet_ammunition_manufacturers_ammunition_produces_add: "£ammunition£ $ammunition$ от £job_ammunition_manufacturer£ $job_ammunition_manufacturer_plural$" 
+
+ ### July 16
+ # Colony Types
+ col_strategic_systems: "Мир стратегических систем" 
+ col_strategic_systems_tt: "Планета с развитой сетью, производящая передовые системы для вооружения, наведения и координации действий на поле боя." 
+ col_strategic_systems_desc: "На этом мире доминирует оборонная промышленность со смешанным производством." 
+ col_electronics: "Мир электроники" 
+ col_electronics_tt: "Камеры микросборки и лаборатории по изготовлению оборудования расположены по всей планете, создавая процессоры и системы, которые управляют флотами и огневой мощью." 
+ col_electronics_desc: "Специализируется на производстве £electronics£ §Sэлектроники§!." 
+ col_ammunition: "Мир боеприпасов" 
+ col_ammunition_tt: "Дымовые трубы нефтеперерабатывающих заводов и герметичные литейные цеха извергают тепло и газ, превращая летучие соединения в орудия уничтожения." 
+ col_ammunition_desc: "Специализируется на производстве £ammunition£ §Sбоеприпасов§!." 
+
+ col_cloud_energy: "Плавучий энергетический город" 
+ col_cloud_energy_tt: "Ядра репульсорного лифта и генераторы лучей, ранее использовавшиеся на буровых установках Тибанны, теперь работают на перенаправленной энергии." 
+ col_cloud_energy_desc: "Специализируется на производстве £energy£ §Sэнергии§!." 
+ col_cloud_tibanna: "Плавучий город по добыче газа Тибанна" 
+ col_cloud_tibanna_tt: "Платформы обрабатывающих заводов перемещаются по течениям высокого давления, извлекая летучие газы и конденсируя их в топливо взрывного качества." 
+ col_cloud_tibanna_desc: "Специализируется на переработке £tibanna_gas£ §Sгаза Тибанна§!." 
+ col_cloud_resort: "Плавучий курортный город" 
+ col_cloud_resort_tt: "Роскошные шпили и безмятежные сады парят над облаками, обещая отдых, наслаждение и невероятные закаты." 
+ col_cloud_resort_desc: "Снижает затраты на содержание £job_resort_worker£ §Sкурортных должностей§!" 
+ col_cloud_industrial: "Плавучий промышленный город" 
+ col_cloud_industrial_tt: "Плавучие платформы гудят от промышленности — дымовые трубы, небесные доки и перерабатывающие установки парят в синхронном строю." 
+ col_cloud_industrial_desc: "Снижает затраты на содержание £job_artisan£ £job_foundry£!." 
+ col_cloud_foundry: "Плавучий город-кузница" 
+ col_cloud_foundry_tt: "Расплавленные печи, подвешенные на репульсорах, ярко горят в небе, заливая сплавы в основу боевых машин." 
+ col_cloud_foundry_desc: "Специализируется на производстве £alloys£ §Sсплавов§!." 
+ col_cloud_factory: "Плавучий промышленный город" 
+ col_cloud_factory_tt: "Сборочные ярусы свисают в тумане, где автоматизированные манипуляторы и парящие лифты подпитывают бесконечный цикл производства." 
+ col_cloud_factory_desc: "Специализируется на производстве £consumer_goods£ §Sтоваров массового спроса§!." 
+ col_cloud_strategic_systems: "Плавучий город стратегических систем" 
+ col_cloud_strategic_systems_tt: "Подвесные платформы собирают системы наведения, ядра управления огнем и энергетические ячейки высоко над облаками.." 
+ col_cloud_strategic_systems_desc: "Снижает затраты на содержание £job_electronics_manufacturer£ £job_ammunition_manufacturer£." 
+ col_cloud_electronics: "Плавучий город электроники" 
+ col_cloud_electronics_tt: "Хрупкие структуры схем и процессоров обретают форму в лабораториях, не подверженных воздействию гравитации, подвешенных между облаком и кодом." 
+ col_cloud_electronics_desc: "Специализируется на производстве £electronics£ §Sэлектонных компонентов§!." 
+ col_cloud_ammunition: "Плавучий город боеприпасов" 
+ col_cloud_ammunition_tt: "Заводы по переработке взрывчатого газа и установки боеприпасов висят в многослойном строю, вооружая флоты с неба." 
+ col_cloud_ammunition_desc: "Специализируется на производстве £ammunition£ §Sбоеприпасов§!." 
+ col_cloud_bureau: "Плавающий город объединения" 
+ col_cloud_bureau_tt: "Подвесные дата-центры и министерские башни управляют миллиардами с тихой эффективностью и захватывающими видами." 
+ col_cloud_bureau_desc: "Увеличивает производство £unity£ §Sединства§!." 
+ col_cloud_bureau_spiritualist: "Плавающий церковный город" 
+ col_cloud_bureau_spiritualist_tt: "$col_cloud_bureau_tt$"
+ col_cloud_bureau_spiritualist_desc: "$col_cloud_bureau_desc$"
+ col_cloud_bureau_hive: "$col_cloud_bureau$"
+ col_cloud_bureau_hive_tt: "$col_cloud_bureau_tt$"
+ col_cloud_bureau_hive_desc: "$col_cloud_bureau_desc$"
+ col_cloud_bureau_machine: "$col_cloud_bureau$"
+ col_cloud_bureau_machine_tt: "$col_cloud_bureau_tt$"
+ col_cloud_bureau_machine_desc: "$col_cloud_bureau_desc$"
+ col_cloud_research: "Плавучий исследовательский город" 
+ col_cloud_research_tt: ""Обсерватории и аналитические центры парят над небом, вдали от отвлекающих факторов, погруженные в чистые открытия." 
+ col_cloud_research_desc: "Увеличивает §Hскорость строительства лабораторий§! и уменьшает содержание £research£ §Hисследователей§!." 
+ col_cloud_fortress: "Плавучий город-крепость" 
+ col_cloud_fortress_tt: "Орудийные платформы и пилоны щитов стоят стражами среди облаков, крепость в небе, готовая обрушить на вас огненный дождь." 
+ col_cloud_fortress_desc: "Повышает £stability£ §Sстабильность§! и £defense_army£ §Sзащиту§!." 
+
+ col_ecu_strategic_systems: "Экуменополис стратегических систем" 
+ col_ecu_strategic_systems_tt: "Аркологии производят узлы наведения, чипы управления и высококачественные боеприпасы для галактической войны." 
+ col_ecu_strategic_systems_desc: "Снижает затраты на содержание £job_electronics_manufacturer£ £job_ammunition_manufacturer£." 
+ col_ecu_electronics: "Экуменополис электроники" 
+ col_ecu_electronics_tt: "Возвышающийся мир шпилей, заполненных схемами, и заводов по производству узлов управления." 
+ col_ecu_electronics_desc: "Специализируется на производстве £electronics£ §Sэлектонных компонентов§!."
+ col_ecu_ammunition: "Экуменополис боеприпасов" 
+ col_ecu_ammunition_tt: "Блоки со взрывозащитой круглосуточно очищают газ Тибанна и собирают турболазерные боеприпасы." 
+ col_ecu_ammunition_desc: "Специализируется на производстве £ammunition£ §Sбоеприпасов§!."
+
+ # Modifiers
+ mod_planet_district_cloud_city_energy_build_speed_mult: "скорость строительства энергетического района" 
+ mod_planet_district_cloud_city_gas_mining_build_speed_mult: "скорость строительства района по добыче газа Тибанна" 
+
+ mod_planet_district_arcology_electronics_build_speed_mult: "$district_arcology_electronics$ скорость строительства" 
+ mod_planet_district_arcology_ammunition_build_speed_mult: "$district_arcology_ammunition$ скорость строительства" 
+ mod_planet_building_electronics_factory_1_build_speed_mult: "$building_electronics_factory_1$ скорость строительства" 
+ mod_planet_building_ammunition_factory_1_build_speed_mult: "$building_ammunition_factory_1$ скорость строительства" 
+
+ # Districts
+ district_arcology_strategic_systems: "Аркология стратегических систем" 
+ district_arcology_strategic_systems_plural: "Аркологии стратегических систем" 
+ district_arcology_strategic_systems_desc: "Внутри этих возвышающихся аркологий гул схем и лязг прессов для боеприпасов сливаются воедино. Каждая надстройка служит вертикально интегрированной боевой машиной, производящей ядра управления огнем, узлы наведения и высокоэффективные баллоны с бластерным газом для флотов, разбросанных по звездам." 
+ district_arcology_electronics: "Аркология электроники" 
+ district_arcology_electronics_plural: "Аркологии электроники" 
+ district_arcology_electronics_desc: "Эти аркологии, усеянные сигнальными шпилями и диспетчерскими вышками, производят чипы наведения, мозги дроидов и регуляторы питания в чистых помещениях высотой в километр. От гиперпространственных трансиверов до зашифрованных каналов связи, каждый компонент, изготовленный здесь, содержит в себе элемент галактического управления." 
+ district_arcology_ammunition: "Аркология боеприпасов" 
+ district_arcology_ammunition_plural: "Аркологии боеприпасов" 
+ district_arcology_ammunition_desc: "Эти аркологии, оснащенные взрывоустойчивыми перерабатывающими заводами, перерабатывают газ Тибанна, отливают энергетические ячейки и собирают турболазерные ядра в режиме постоянной блокировки. Лифты боеприпасов работают днем ​​и ночью, без перерыва заправляя звездные разрушители, гарнизоны и орбитальные пушечные установки." 
+
+### July 18
+# Building
+ building_tibanna_vane: "Лопатка для обработки газа" 
+ building_tibanna_vane_desc: "Очистительная лопатка, подвешенная в центральном валу, протягивает сырой газ Тибанна через транспортные туннели и мгновенно замораживает его для сохранения." 
+ building_tibanna_vane_2: "Двойные лопатки для обработки газа" 
+ building_tibanna_vane_2_desc: "Тандемные технологические лопатки увеличивают производительность и стабильность, очищая большие объемы газ Тибанна и сохраняя его с помощью усовершенствованных систем заморозки." 
+
+### July 19
+# Colony Types
+ col_habitat_strategic_systems: "Станция стратегических систем" 
+ col_habitat_strategic_systems_tt: "Искусственная аркология в дальнем космосе, предназначенная для производства электроники и боеприпасов." 
+ col_habitat_strategic_systems_desc: "$col_strategic_systems_desc$"
+ col_habitat_electronics: "Станция электроники" 
+ col_habitat_electronics_tt: "Искусственная аркология в дальнем космосе, предназначенная для производства электроники." 
+ col_habitat_electronics_desc: "$col_electronics_desc$"
+ col_habitat_ammunition: "Станция боеприпасов" 
+ col_habitat_ammunition_tt: "Искусственная аркология в дальнем космосе, предназначенная для производства боеприпасов." 
+ col_habitat_ammunition_desc: "$col_ammunition_desc$"
+ col_deep_space_station_resort: "Туристическая станция" 
+ col_deep_space_station_resort_tt: "Орбитальный рай комфорта и роскоши, созданный для привлечения состоятельных путешественников и их кредитов." 
+ col_deep_space_station_resort_desc: "Снижает затраты на содержание £job_resort_worker£ §Sкурортных должностей§!" 
+
+# Zones
+ zone_deep_space_station_resort: "Туристический район" 
+ zone_deep_space_station_resort_desc: "Залы ожидания со стеклянными стенами, казино, магазины и экзотические рестораны привлекают путешественников и любителей острых ощущений со всего мира." 
+
+# Tech
+ TECH_UNLOCK_DEEP_SPACE_STATIONS: "§HРазблокирует станцию:§! Станция дальнего космоса" 
+ tech_deep_space_stations_2: "Расширение станции дальнего космоса" 
+ tech_deep_space_stations_2_desc: "Благодаря дополнительному пространству корпуса и усиленной инфраструктуре жизнеобеспечения станция теперь может поддерживать новую операционную зону, что еще больше расширяет ее долгосрочную полезность." 
+
+ zone_unavailable_tech_deep_space_stations_2: "$engineering_research_icon_with_space$$tech_deep_space_stations_2$"
+ zone_unavailable_tech_cloud_cities_2: "$engineering_research_icon_with_space$$tech_cloud_cities_2$"
+ zone_unavailable_tech_asteroid_bases_2: "$engineering_research_icon_with_space$$tech_asteroid_bases_2$"
+
+ zone_strategic_systems_arcology: "$zone_strategic_systems$"
+ zone_strategic_systems_arcology_desc: "$zone_strategic_systems_desc$"
+ zone_electronics_arcology: "$zone_electronics$"
+ zone_electronics_arcology_desc: "$zone_electronics_desc$"
+ zone_ammunition_arcology: "$zone_ammunition$"
+ zone_ammunition_arcology_desc: "$zone_ammunition_desc$"
+
+### July 24
+# Deposits
+ d_recycled_buildings: "Переработанные конструкции" 
+ d_recycled_buildings_desc: "Разрушенные башни и поврежденные транспортные развязки постепенно разбираются на пригодный для использования щебень, пермабетон и другие основные строительные материалы." 
+ d_runoff_gardens: "Сады из сточных вод" 
+ d_runoff_gardens_desc: "Построенные вдоль разрушенных насыпей и обрушившихся подземных переходов, эти импровизированные сады процветают за счет собранных сточных вод, питательного осадка и разлагающихся отходов. То, что здесь растет, не очень красиво, но сытно и в основном безопасно для употребления в пищу." 
+ d_reclaimed_farmland: "Восстановленные аграрные угодья" 
+ d_reclaimed_farmland_desc: "Очищенные от мусора и увлажненные с помощью импровизированной системы орошения, эти участки почвы теперь позволяют получать базовые урожаи сельскохозяйственных культур при искусственном освещении." 
+ d_overgrown_waterway: "Заросший водный путь" 
+ d_overgrown_waterway_desc: "Затопленные транспортные линии и забытые каналы заросли выносливой, самоподдерживающейся растительностью, которую теперь собирают в пищу." 
+
+# Districts
+
+ moisture_0: "Испарители влаги" 
+ moisture_1: "Испарительные конденсаторные фермы" 
+ moisture_2: "Пустынная агропоника" 
+ moisture_3: "Генетически настроенные культуры, поддерживающие влажность" 
+ moisture_4: "Сетки модуляции влажности" 
+ moisture_0_desc: "Сбор воды из воздуха. Грубый, медленный и абсолютно необходимый." 
+ moisture_1_desc: "Связанные испарители и конденсаторные поля превращают влагу в пригодные для использования запасы." 
+ moisture_2_desc: "Корневые системы свисают в питательном геле, а распылительные форсунки имитируют дождь." 
+ moisture_3_desc: "Культуры, специально выведенные для выращивания в условиях низкой влажности и пересушенной почвы." 
+ moisture_4_desc: "Точные сетки для настройки погоды превращают пустыню в плодородную почву." 
+
+
+# Blockers
+ d_derelict_district: "£blocker£ Заброшенный район" 
+ d_derelict_district_desc: "Израненный войной или заброшенный из-за запущенности, этот участок некогда процветающего города-мира теперь слишком опасен для проживания или работы.." 
+ d_icefall_cavern_wampa: "£blocker£ Гравак'к" 
+ d_icefall_cavern_wampa_desc: "В холодном климате Илума находится Ледяная пещера, огромная замкнутая пещера, известная своими неразработанными месторождениями кристаллов, которые могут представлять потенциальную ценность. Самым большим препятствием для добычи полезных ископаемых является гигантский Вампа, известный как Гравак'к. Этот ледяной хищник считает пещеру своим домом, и любой, кто ступит внутрь, обнаружит в нем свирепого противника." 
+
+# Deposits
+ d_teth_bomarr_monastery: "Монастырь Б'омарр" 
+ d_teth_bomarr_monastery_desc: "Расположенный на вершине плато в джунглях Тета, этот изолированный монастырь когда-то служил одновременно святилищем и крепостью. На его нижних уровнях содержались пленники, а над ямой с ранкорами возвышался величественный тронный зал." 
+ d_hyperfuel_1: "Небольшая залежь гипертоплива" 
+ d_hyperfuel_desc: "£hyperfuel£ +1"
+ d_hyperfuel_2: "Средняя залежь гипертоплива" 
+ d_hyperfuel_2_desc: "£hyperfuel£ +2"
+ d_hyperfuel_3: "Большая залежь гипертоплива" 
+ d_hyperfuel_3_desc: "£hyperfuel£ +3"
+
+# Mod
+ mod_planet_miners_electronics_produces_add: "£electronics£ $electronics$ от $pop_group_unit$ [miner.GetIcon] [GetMinerPlural]" 
+ mod_planet_biologists_unity_produces_add: "£unity£ $unity$ от $pop_group_unit$ [biologist.GetIcon] [biologist.GetNamePlural]" 
+ mod_planet_engineers_trade_produces_add: "£trade£ $trade$ от $pop_group_unit$ [engineer.GetIcon] [engineer.GetNamePlural]" 
+ mod_polis_massa_max_districts_add: "Астероидная база $MOD_PLANET_MAX_DISTRICTS_ADD$" 
+ mod_deep_space_station_max_districts_add: "Станция дальнего космоса $MOD_PLANET_MAX_DISTRICTS_ADD$" 
+ mod_cloud_city_max_districts_add: "Плавучий город $MOD_PLANET_MAX_DISTRICTS_ADD$" 
+
+# Tech
+ tech_asteroid_bases_2: "Расширение астероидных баз" 
+ tech_asteroid_bases_2_desc: "Новые методы раскопок и управления давлением позволяют нам расширять существующие астероидные сооружения." 
+ tech_cloud_cities_2: "Расширение плавучих городов" 
+ tech_cloud_cities_2_desc: "Улучшенные опорные конструкции и массивы отталкивателей позволяют увеличить численность населения в плавучих поселениях." 
+
+### July 29
+ electronics_jobs_bonus_workforce_mult: "$BONUS_WORKFORCE_FOR$ техников по сборке электроники"
+ electronics_jobs_bonus_workforce_mult_tt: "$t$- $BONUS_WORKFORCE_FOR$ Техник по сборке электроники: $VARIABLE|1%=+$"
+ ammunition_jobs_bonus_workforce_mult: "$BONUS_WORKFORCE_FOR$ техников по сборке боеприпасов"
+ ammunition_jobs_bonus_workforce_mult_tt: "$t$- $BONUS_WORKFORCE_FOR$ техников по сборке боеприпасов: $VARIABLE|1%=+$"
+
+ mod_pop_electronics_manufacturer_bonus_workforce_mult: "Эффективность работы техников по сборке электроники" 
+ mod_pop_electronics_manufacturer_drone_bonus_workforce_mult: "Эффективность работы техников по сборке электроники" 
+ mod_pop_ammunition_manufacturer_bonus_workforce_mult: "Эффективность работы техников по сборке боеприпасов" 
+ mod_pop_ammunition_manufacturer_drone_bonus_workforce_mult: "Эффективность работы техников по сборке боеприпасов" 
+
+ building_ammunition_upkeep_1: "Склад по утилизации боеприпасов" 
+ building_ammunition_upkeep_1_desc: "Здесь разбираются устаревшие и отработанные боеприпасы, что позволяет извлекать материалы, добывать порох и частично восстанавливать их." 
+ building_ammunition_efficiency_1: "Управление по производству боеприпасов" 
+ building_ammunition_efficiency_1_desc: "Цели производства достигаются с меньшими ресурсами благодаря стратегическому внедрению общих передовых методов и оптимизированных моделей производительности." 
+ building_electronics_upkeep_1: "Лаборатория по извлечению электронных компонентов" 
+ building_electronics_upkeep_1_desc: "Разобранные системы позволяют получать пригодные для повторного использования микрокомпоненты, экранирующие материалы и редкие подложки, снижая потребность в новых исходных материалах." 
+ building_electronics_efficiency_1: "Мозговой центр по интегрированным системам" 
+ building_electronics_efficiency_1_desc: "Междисциплинарные прорывы в проектировании схем, синхронизации сигналов и модульной архитектуре позволяют добиться большей производительности при меньших ресурсах." 
+
+### August 1
+# Branch Office Buildings
+ building_private_defense_industry: "Частная оборонная промышленность" 
+ building_private_defense_industry_desc: "£building£ §BНепреступный форпост§!\n\nОт высокоточных схем до мощных боеприпасов и гипертоплива, частные оборонные фирмы предоставляют все, что требуется для военных действий. Никаких вопросов, если кредиты зачислены." 
+
+ trade_value_from_strategic_systems: "\n$trade_value_from$: §G+0.5%§! от $pop_group_unit$ §YElectronics§! или §YAmmunition§! должностей на планете.\n$branch_office_building_trade_bonus$" 
+
+### August 23
+# District Swaps
+ district_cloud_city_gas_mining_engineering: "$district_cloud_city_gas_mining$"
+ district_cloud_city_gas_mining_engineering_plural: "$district_cloud_city_gas_mining_plural$"
+ district_cloud_city_gas_mining_engineering_desc: "$district_cloud_city_gas_mining_desc$"
+
+# District Decision
+ admin_colony_tt: "За каждый £district£ городской район:\n   - должности бюрократов: §G+100§!" 
+ commerce_colony_tt: "За каждый £district£ городской район:\n   - должности торговцев: §G+100§!" 
+ fortress_colony_tt: "За каждый £district£ городской район:\n   - должности солдат: §G+100§!" 
+ foundry_colony_tt: "За каждый £district£ городской район:\n   - должности металлургов: §G+30§!\n   - должности техников по производсту электроники: §G+30§!\n   - должности техников по производсту боеприпасов: §G+30§!" 
+ tech_colony_tt: "За каждый £district£ городской район:\n   - должности физических исследователей: §G+30§!\n   - должности социальных исследователей: §G+30§!\n   - должности инженерных исследователей: §G+30§!" 
+
+### Oct 10
+ decision_arcology_project_requirements_pop_amount: "£trigger_no£ Количество принадлежащих вам поселений превышает 8000" 
+
+### Nov 22
+ zone_hyperfuel: "Переработка гипертоплива" 
+ zone_hyperfuel_desc: "Перенаправление выходной мощности генератора в концентрированные высокоэнергетические поля смягчает летучие изотопы гипертоплива, фиксируя их в стабильном, безопасном для транспортировки состоянии." 
+ zone_spice: "Добыча Спайса" 
+ zone_spice_desc: "Специализированное оборудование значительно увеличивает добычу Спайса с минимальным количеством отходов материала." 
+ zone_kyber: "Добыча Кайбер кристаллов" 
+ zone_kyber_desc: "Специализированное оборудование значительно увеличивает добычу Кайбер кристаллов с минимальным количеством отходов материала." 
+ zone_bacta: "Обработка Бакты" 
+ zone_bacta_desc: "Регулируемые камеры для выращивания и системы очистки преобразуют сырой кавам и алажи в высокореактивный раствор бакты, ценимый во всей Галактике." 
+
+ district_generator_hyperfuel: "$district_generator$"
+ district_generator_hyperfuel_plural: "$district_generator_plural$"
+ district_generator_hyperfuel_desc: "$district_generator_desc$"
+ district_mining_spice: "$district_mining$"
+ district_mining_spice_plural: "$district_mining_plural$"
+ district_mining_spice_desc: "$district_mining_desc$"
+ district_mining_kyber: "$district_mining$"
+ district_mining_kyber_plural: "$district_mining_plural$"
+ district_mining_kyber_desc: "$district_mining_desc$"
+ district_farming_bacta: "$district_farming$"
+ district_farming_bacta_plural: "$district_farming_plural$"
+ district_farming_bacta_desc: "$district_farming_desc$"
+
+ fuel_tech: "$job_fuel_tech$"
+ spice_miner: "$job_spice_miner$"
+ kyber_miner: "$job_kyber_miner$"
+ bacta_refiner: "$job_bacta_refiner$"
+
+ technician_is_fuel_tech_tt: "£job_technician£ $job_technician_plural$ преобразуется в £job_fuel_tech£ $job_fuel_tech_plural$" 
+ technician_drone_is_fuel_tech_tt: "£job_technician_drone£ $job_technician_drone_plural$ преобразуется в £job_fuel_tech_drone£ $job_fuel_tech_drone_plural$" 
+ miner_is_spice_miner_tt: "£job_miner£ $job_miner_plural$ преобразуется в £job_spice_miner£ $job_spice_miner_plural$" 
+ mining_drone_is_spice_miner_tt: "£job_mining_drone£ $job_mining_drone_plural$ преобразуется в £job_spice_miner_drone£ $job_spice_miner_drone_plural$" 
+ miner_is_kyber_miner_tt: "£job_miner£ $job_miner_plural$ преобразуется в £job_kyber_miner£ $job_kyber_miner_plural$" 
+ mining_drone_is_kyber_miner_tt: "£job_mining_drone£ $job_mining_drone_plural$ преобразуется в £job_kyber_miner£ $job_kyber_miner_plural$" 
+ farmer_is_bacta_refiner_tt: "£job_farmer£ $job_farmer_plural$ преобразуется в £job_bacta_refiner£ $job_bacta_refiner_plural$" 
+ agri_drone_is_bacta_refiner_tt: "£job_agri_drone£ $job_agri_drone_plural$ преобразуется в £job_bacta_refiner_drone£ $job_bacta_refiner_drone_plural$" 
+
+ kyber: "Кайбер кристаллы"
+
+### Jan 8
+### Clan Subjects Monthly Loyalty Modifiers
+ small_clan_disloyalty: "Недавние решения"
+ small_clan_disloyalty_desc: "Недавние решения, принятые в ходе событий, привели к недовольству этого клана"
+ medium_clan_disloyalty: "Недавние решения"
+ medium_clan_disloyalty_desc: "Недавние решения, принятые в ходе событий, привели к большему недовольству этого клана"
+ large_clan_disloyalty: "Недавние решения"
+ large_clan_disloyalty_desc: "Недавние решения, принятые в ходе событий, привели к крайнему недовольству этого клана"
+ small_clan_loyalty: "Недавние решения"
+ small_clan_loyalty_desc: "Недавние решения, принятые в ходе событий, привели к повышению довольства этого клана"
+ medium_clan_loyalty: "Недавние решения"
+ medium_clan_loyalty_desc: "Недавние решения, принятые в ходе событий, привели к большему повышению довольства этого клана"
+ large_clan_loyalty: "Недавние решения"
+ large_clan_loyalty_desc: "Недавние решения, принятые в ходе событий, привели к чрезвычайному повышению довольства этого клана"
+ ruling_clan_loyalty: "Правящий клан"
+ ruling_clan_loyalty_desc: "Этот клан является правящей фракцией Мандалора"
+ clan_pops_very_unhappy: "Счастье населения клана"
+ clan_pops_very_unhappy_desc: "Население этого клана очень недовольно условиями на планетах, на которых они обитают"
+ clan_pops_unhappy: "Счастье населения клана"
+ clan_pops_unhappy_desc: "Население этого клана недовольно условиями на планетах, на которых они обитают"
+ clan_pops_neutral: "Счастье населения клана"
+ clan_pops_neutral_desc: "Население этого клана удовлетворено условиями на планетах, которые они населяют"
+ clan_pops_happy: "Счастье населения клана"
+ clan_pops_happy_desc: "Население этого клана довольно условиями на планетах, которые они населяют"
+ clan_pops_very_happy: "Счастье населения клана"
+ clan_pops_very_happy_desc: "Население этого клана очень довольно условиями на планетах, которые они населяют"
+
+
+### Jan 9
+### Golans becoming Deep Space Citadels
+ golan_platform_name: "Защитная платформа Голан" 
+ golan_platform_name_plural: "Защитные платформы Голан" 
+
+ requires_less_than_x_golan_platform: "$TRIGGER_FAIL$Система не может поддерживать больше [owner.GetGolanPlatformLimit] $golan_platform_name_plural$." 
+ mod_golan_platform_limit_add: "$golan_platform_name$ Вместимость системы" 
+
+ allow_golan_platform_1: "§HОткрывает мегасооружение:§! $military_station_golan1$"
+ allow_golan_platform_2: "§HОткрывает мегасооружение:§! $military_station_golan2$"
+ allow_golan_platform_3: "§HОткрывает мегасооружение:§! $military_station_golan3$"
+ concept_golan_platform: "$tech_golan1_platforms$"
+ concept_golan_platform_desc: "$military_station_golan0_MEGASTRUCTURE_DETAILS$"
+ concept_golan_platform_tech: "$tech_golan1_platforms$"
+ concept_golan_platform_tech_desc: "§IОткрывает мегасооружение:§! $golan_platform_name$\n$mod_golan_platform_limit_add$ §G+1§! $DOUBLE_NEW_LINE$§L$military_station_golan0_MEGASTRUCTURE_DETAILS$§!"
+ concept_golan1_platform: "$military_station_golan1$"
+ concept_golan1_platform_desc: "Первый из трех этапов ['concept_golan_platform']." 
+
+ military_station_golan0: "$golan_platform_name$"
+ military_station_golan0_DESC: "Этот логистический и ресурсный центр служит базой для строительства $golan_platform_name$." 
+ military_station_golan0_MEGASTRUCTURE_DETAILS: "§Y$military_station_golan0$§! — это бронированная звездная база, предназначенная для максимальной защиты внутри гравитационного колодца звезды." 

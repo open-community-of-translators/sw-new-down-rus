@@ -1,1447 +1,1447 @@
 ﻿l_russian:
-	KEL_DOR_SHIP_mystic: "Mystic"
-	KEL_DOR_SHIP_naiad: "Naiad"
-	KEL_DOR_SHIP_nautilus: "Nautilus"
-	KEL_DOR_SHIP_nebula: "Nebula"
-	KEL_DOR_SHIP_nimble: "Nimble"
-	KEL_DOR_SHIP_north_star: "North Star"
-	KEL_DOR_SHIP_nymph: "Nymph"
-	KEL_DOR_SHIP_obdurate: "Obdurate"
-	KEL_DOR_SHIP_ocean: "Ocean"
-	KEL_DOR_SHIP_onward: "Onward"
-	KEL_DOR_SHIP_oracle: "Oracle"
-	KEL_DOR_SHIP_paradox: "Paradox"
-	KEL_DOR_SHIP_paragon: "Paragon"
-	KEL_DOR_SHIP_pearl: "Pearl"
-	KEL_DOR_SHIP_peregrine: "Peregrine"
-	KEL_DOR_SHIP_perseverance: "Perseverance"
-	KEL_DOR_SHIP_marksman: "Marksman"
-	KEL_DOR_SHIP_rifleman: "Rifleman"
-	KEL_DOR_SHIP_sniper: "Sniper"
-	KEL_DOR_SHIP_trident: "Trident"
-	KEL_DOR_SHIP_trumpet: "Trumpet"
-	KEL_DOR_SHIP_truncheon: "Truncheon"
-	KEL_DOR_SHIP_typhoon: "Typhoon"
-	KEL_DOR_SHIP_undaunted: "Undaunted"
-	KEL_DOR_SHIP_venture: "Venture"
-	KEL_DOR_SHIP_versatile: "Versatile"
-	KEL_DOR_SHIP_vigorous: "Vigorous"
-	KEL_DOR_SHIP_viper: "Viper"
-	KEL_DOR_SHIP_vivacious: "Vivacious"
-	KEL_DOR_SHIP_winger: "Winger"
-	KEL_DOR_SHIP_wizard: "Wizard"
-	KEL_DOR_SHIP_wyvern: "Wyvern"
-	KEL_DOR_SHIP_wolfhound: "Wolfhound"
-	KEL_DOR_SHIP_devastator: "Devastator"
-	KEL_DOR_SHIP_warhammer: "Warhammer"
-	KEL_DOR_SHIP_retribution: "Retribution"
-	KEL_DOR_SHIP_senator: "Senator"
-	KEL_DOR_SHIP_tornado: "Tornado"
-	KEL_DOR_SHIP_infinity: "Infinity"
-	KEL_DOR_SHIP_usurper: "Usurper"
-	KEL_DOR_SHIP_utmost: "Utmost"
-	KEL_DOR_SHIP_valorous: "Valorous"
-	KEL_DOR_SHIP_whirlwind: "Whirlwind"
-	KEL_DOR_SHIP_athena: "Athena"
-	KEL_DOR_SHIP_artemis: "Artemis"
-	KEL_DOR_SHIP_vigilance: "Vigilance"
-	KEL_DOR_SHIP_decimator: "Decimator"
-	KEL_DOR_SHIP_indomitable: "Indomitable"
-	KEL_DOR_SHIP_goliath: "Goliath"
-	KEL_DOR_SHIP_sentinel: "Sentinel"
-	KEL_DOR_SHIP_brilliant: "Brilliant"
-	KEL_DOR_SHIP_blazer: "Blazer"
-	KEL_DOR_SHIP_audacity: "Audacity"
-	KEL_DOR_SHIP_gallant: "Gallant"
-	KEL_DOR_SHIP_nova: "Nova"
-	KEL_DOR_SHIP_shadow: "Shadow"
-	KEL_DOR_SHIP_allegiance: "Allegiance"
-	KEL_DOR_SHIP_challenger: "Challenger"
-	KEL_DOR_SHIP_fearless: "Fearless"
-	KEL_DOR_SHIP_protector: "Protector"
-	KEL_DOR_SHIP_guardian: "Guardian"
-	KEL_DOR_SHIP_victorious: "Victorious"
-	KEL_DOR_SHIP_courageous: "Courageous"
-	KEL_DOR_SHIP_defiance: "Defiance"
-	KEL_DOR_SHIP_azrael: "Azrael"
-	KEL_DOR_SHIP_adamantine: "Adamantine"
-	KEL_DOR_SHIP_aralanni: "Aralanni"
-	KEL_DOR_SHIP_ardent_iv: "Ardent IV"
-	KEL_DOR_SHIP_armistice: "Armistice"
-	KEL_DOR_SHIP_avengeance: "Avengeance"
-	KEL_DOR_SHIP_ballista: "Ballista"
-	KEL_DOR_SHIP_bloodstripe: "Bloodstripe"
-	KEL_DOR_SHIP_borealis: "Borealis"
-	KEL_DOR_SHIP_caelus: "Caelus"
-	KEL_DOR_SHIP_caravan: "Caravan"
-	KEL_DOR_SHIP_chaf_envoy: "Chaf Envoy"
-	KEL_DOR_SHIP_commenor: "Commenor"
-	KEL_DOR_SHIP_corbantis: "Corbantis"
-	KEL_DOR_SHIP_corellia: "Corellia"
-	KEL_DOR_SHIP_courteous: "Courteous"
-	KEL_DOR_SHIP_dauntless: "Dauntless"
-	KEL_DOR_SHIP_defiant: "Defiant"
-	KEL_DOR_SHIP_deliverance: "Deliverance"
-	KEL_DOR_SHIP_derapha: "Derapha"
-	KEL_DOR_SHIP_devout: "Devout"
-	KEL_DOR_SHIP_empirical: "Empirical"
-	KEL_DOR_SHIP_empyrean: "Empyrean"
-	KEL_DOR_SHIP_era_daimanos: "Era Daimanos"
-	KEL_DOR_SHIP_eye_of_the_storm: "Eye of the Storm"
-	KEL_DOR_SHIP_farstar: "Farstar"
-	KEL_DOR_SHIP_fastblast: "Fastblast"
-	KEL_DOR_SHIP_galaaron: "Galaaron"
-	KEL_DOR_SHIP_garrote: "Garrote"
-	KEL_DOR_SHIP_gilagimar: "Gilagimar"
-	KEL_DOR_SHIP_halleck: "Halleck"
-	KEL_DOR_SHIP_hunter: "Hunter"
-	KEL_DOR_SHIP_intractable: "Intractable"
-	KEL_DOR_SHIP_ithor_lady: "Ithor Lady"
-	KEL_DOR_SHIP_justice_crusader: "Justice Crusader"
-	KEL_DOR_SHIP_kana_s_steel: "Kana's Steel"
-	KEL_DOR_SHIP_lathir: "Lathir"
-	KEL_DOR_SHIP_liberty: "Liberty"
-	KEL_DOR_SHIP_lillibanca: "Lillibanca"
-	KEL_DOR_SHIP_maelstrom: "Maelstrom"
-	KEL_DOR_SHIP_malachite_scent: "Malachite Scent"
-	KEL_DOR_SHIP_mercy: "Mercy"
-	KEL_DOR_SHIP_myrkos: "Myrkos"
-	KEL_DOR_SHIP_nebula_chaser: "Nebula Chaser"
-	KEL_DOR_SHIP_nova_viper: "Nova Viper"
-	KEL_DOR_SHIP_obedience: "Obedience"
-	KEL_DOR_SHIP_olemp: "Olemp"
-	KEL_DOR_SHIP_pegasus: "Pegasus"
-	KEL_DOR_SHIP_perspicacity: "Perspicacity"
-	KEL_DOR_SHIP_phalanx: "Phalanx"
-	KEL_DOR_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	KEL_DOR_SHIP_predominance: "Predominance"
-	KEL_DOR_SHIP_prosperity: "Prosperity"
-	KEL_DOR_SHIP_purity: "Purity"
-	KEL_DOR_SHIP_recalcitrant: "Recalcitrant"
-	KEL_DOR_SHIP_red_nova: "Red Nova"
-	KEL_DOR_SHIP_redma: "Redma"
-	KEL_DOR_SHIP_reliable: "Reliable"
-	KEL_DOR_SHIP_reliant: "Reliant"
-	KEL_DOR_SHIP_reluctant: "Reluctant"
-	KEL_DOR_SHIP_republic: "Republic"
-	KEL_DOR_SHIP_republic_s_return: "Republic's Return"
-	KEL_DOR_SHIP_resolve: "Resolve"
-	KEL_DOR_SHIP_respectable: "Respectable"
-	KEL_DOR_SHIP_revenge: "Revenge"
-	KEL_DOR_SHIP_shadowblade: "Shadowblade"
-	KEL_DOR_SHIP_spritespray: "Spritespray"
-	KEL_DOR_SHIP_star_dream: "Star Dream"
-	KEL_DOR_SHIP_stark_wing: "Stark Wing"
-	KEL_DOR_SHIP_starveil: "Starveil"
-	KEL_DOR_SHIP_undying: "Undying"
-	KEL_DOR_SHIP_vaathkree: "Vaathkree"
-	KEL_DOR_SHIP_vainglorious: "Vainglorious"
-	KEL_DOR_SHIP_valiant: "Valiant"
-	KEL_DOR_SHIP_valor: "Valor"
-	KEL_DOR_SHIP_vanquisher: "Vanquisher"
-	KEL_DOR_SHIP_vinsor: "Vinsor"
-	KEL_DOR_SHIP_visseon: "Visseon"
-	KEL_DOR_SHIP_wennis: "Wennis"
-	KEL_DOR_SHIP_yavin_s_glory: "Yavin's Glory"
-	KEL_DOR_SHIP_moldy_crow: "Moldy Crow"
-	KEL_DOR_SHIP_raven_s_claw: "Raven's Claw"
-	KEL_DOR_SHIP_agile: "Agile"
-	KEL_DOR_SHIP_archer: "Archer"
-	KEL_DOR_SHIP_arrow: "Arrow"
-	KEL_DOR_SHIP_bruiser: "Bruiser"
-	KEL_DOR_SHIP_cherub: "Cherub"
-	KEL_DOR_SHIP_chimera: "Chimera"
-	KEL_DOR_SHIP_claymore: "Claymore"
-	KEL_DOR_SHIP_broadsword: "Broadsword"
-	KEL_DOR_SHIP_battleaxe: "Battleaxe"
-	KEL_DOR_SHIP_crossbow: "Crossbow"
-	KEL_DOR_SHIP_cutlass: "Cutlass"
-	KEL_DOR_SHIP_deterrent: "Deterrent"
-	KEL_DOR_SHIP_errant: "Errant"
-	KEL_DOR_SHIP_faithful: "Faithful"
-	KEL_DOR_SHIP_fierce: "Fierce"
-	KEL_DOR_SHIP_gladius: "Gladius"
-	KEL_DOR_SHIP_longbow: "Longbow"
-	KEL_DOR_SHIP_grappler: "Grappler"
-	KEL_DOR_SHIP_hammer: "Hammer"
-	KEL_DOR_SHIP_vampire: "Vampire"
-	KEL_DOR_SHIP_velox: "Velox"
-	KEL_DOR_SHIP_venator: "Venator"
-	KEL_DOR_SHIP_vendetta: "Vendetta"
-	KEL_DOR_SHIP_venerable: "Venerable"
-	KEL_DOR_SHIP_venomous: "Venomous"
-	KEL_DOR_SHIP_taciturn: "Taciturn"
-	KEL_DOR_SHIP_supreme: "Supreme"
-	KEL_DOR_SHIP_success: "Success"
-	KEL_DOR_SHIP_shredder: "Shredder"
-	KEL_DOR_SHIP_seraph: "Seraph"
-	KEL_DOR_SHIP_serpent: "Serpent"
-	KEL_DOR_SHIP_spitfire: "Spitfire"
-	KEL_DOR_SHIP_stalker: "Stalker"
-	KEL_DOR_SHIP_stratagem: "Stratagem"
-	KEL_DOR_SHIP_scimitar: "Scimitar"
-	KEL_DOR_SHIP_scorcher: "Scorcher"
-	KEL_DOR_SHIP_scourge: "Scourge"
-	KEL_DOR_SHIP_scythe: "Scythe"
-	KEL_DOR_SHIP_revenant: "Revenant"
-	KEL_DOR_SHIP_redoubtable: "Redoubtable"
-	KEL_DOR_SHIP_raptor: "Raptor"
-	KEL_DOR_SHIP_reaver: "Reaver"
-	KEL_DOR_SHIP_prodigal: "Prodigal"
-	KEL_DOR_SHIP_rapier: "Rapier"
-	KEL_DOR_SHIP_prudent: "Prudent"
-	KEL_DOR_SHIP_persistent: "Persistent"
-	KEL_DOR_SHIP_peerless: "Peerless"
-	KEL_DOR_SHIP_myrmidon: "Myrmidon"
-	KEL_DOR_SHIP_indignant: "Indignant"
-	KEL_DOR_SHIP_javelin: "Javelin"
-	KEL_DOR_SHIP_knight: "Knight"
-	KEL_DOR_SHIP_starwolf: "Starwolf"
-	KEL_DOR_SHIP_bonaventure: "Bonaventure"
-	KEL_DOR_SHIP_adventure: "Adventure"
-	KEL_DOR_SHIP_boxer: "Boxer"
-	KEL_DOR_SHIP_buccaneer: "Buccaneer"
-	KEL_DOR_SHIP_cavalier: "Cavalier"
-	KEL_DOR_SHIP_celestial: "Celestial"
-	KEL_DOR_SHIP_chariot: "Chariot"
-	KEL_DOR_SHIP_comet: "Comet"
-	KEL_DOR_SHIP_crucible: "Crucible"
-	KEL_DOR_SHIP_cyclone: "Cyclone"
-	KEL_DOR_SHIP_decisive: "Decisive"
-	KEL_DOR_SHIP_dexterous: "Dexterous"
-	KEL_DOR_SHIP_diadem: "Diadem"
-	KEL_DOR_SHIP_earnest: "Earnest"
-	KEL_DOR_SHIP_eclipse: "Eclipse"
-	KEL_DOR_SHIP_forger: "Forger"
-	KEL_DOR_SHIP_fortune: "Fortune"
-	KEL_DOR_SHIP_gauntlet: "Gauntlet"
-	KEL_DOR_SHIP_griffin: "Griffin"
-	KEL_DOR_SHIP_horizon: "Horizon"
-	KEL_DOR_SHIP_hotspur: "Hotspur"
-	KEL_DOR_SHIP_hurricane: "Hurricane"
-	KEL_DOR_SHIP_hussar: "Hussar"
-	KEL_DOR_SHIP_jubilant: "Jubilant"
-	KEL_DOR_SHIP_lancer: "Lancer"
-	KEL_DOR_SHIP_lightning: "Lightning"
-	KEL_DOR_SHIP_magic: "Magic"
-	KEL_DOR_SHIP_mediator: "Mediator"
-	KEL_DOR_SHIP_mermaid: "Mermaid"
-	KEL_DOR_SHIP_meteor: "Meteor"
-	KEL_DOR_SHIP_minstrel: "Minstrel"
-	KEL_DOR_SHIP_miranda: "Miranda"
-	KEL_DOR_SHIP_mustang: "Mustang"
-	KEL_DOR_SHIP_sharpshooter: "Sharpshooter"
-	KEL_DOR_SHIP_cyclops: "Cyclops"
-	KEL_DOR_SHIP_centaur: "Centaur"
-	KEL_DOR_SHIP_adversary: "Adversary"
-	KEL_DOR_SHIP_assassin: "Assassin"
-	KEL_DOR_SHIP_dagger: "Dagger"
-	KEL_DOR_SHIP_daring: "Daring"
-	KEL_DOR_SHIP_duty: "Duty"
-	KEL_DOR_SHIP_havoc: "Havoc"
-	KEL_DOR_SHIP_hero: "Hero"
-	KEL_DOR_SHIP_justice: "Justice"
-	KEL_DOR_SHIP_impeccable: "Impeccable"
-	KEL_DOR_SHIP_interceptor: "Interceptor"
-	KEL_DOR_SHIP_infernal: "Infernal"
-	KEL_DOR_SHIP_loyal: "Loyal"
-	KEL_DOR_SHIP_matchless: "Matchless"
-	KEL_DOR_SHIP_mauler: "Mauler"
-	KEL_DOR_SHIP_mayhem: "Mayhem"
-	KEL_DOR_SHIP_malice: "Malice"
-	KEL_DOR_SHIP_menace: "Menace"
-	KEL_DOR_SHIP_merciless: "Merciless"
-	KEL_DOR_SHIP_mischief: "Mischief"
-	KEL_DOR_SHIP_monarch: "Monarch"
-	KEL_DOR_SHIP_patriot: "Patriot"
-	KEL_DOR_SHIP_predator: "Predator"
-	KEL_DOR_SHIP_powerful: "Powerful"
-	KEL_DOR_SHIP_punisher: "Punisher"
-	KEL_DOR_SHIP_ravager: "Ravager"
-	KEL_DOR_SHIP_reaper: "Reaper"
-	KEL_DOR_SHIP_savage: "Savage"
-	KEL_DOR_SHIP_spiteful: "Spiteful"
-	KEL_DOR_SHIP_templar: "Templar"
-	KEL_DOR_SHIP_terminator: "Terminator"
-	KEL_DOR_SHIP_terror: "Terror"
-	KEL_DOR_SHIP_thrasher: "Thrasher"
-	KEL_DOR_SHIP_minotaur: "Minotaur"
-	KEL_DOR_SHIP_manticore: "Manticore"
-	KEL_DOR_SHIP_interdictor: "Interdictor"
-	KEL_DOR_SHIP_intruder: "Intruder"
-	KEL_DOR_SHIP_hydra: "Hydra"
-	KEL_DOR_SHIP_enfield: "Enfield"
-	KEL_DOR_SHIP_harasser: "Harasser"
-	KEL_DOR_SHIP_unbeaten: "Unbeaten"
-	KEL_DOR_SHIP_werewolf: "Werewolf"
-	KEL_DOR_SHIP_zealous: "Zealous"
-	KEL_DOR_SHIP_petulant: "Petulant"
-	KEL_DOR_SHIP_phantom: "Phantom"
-	KEL_DOR_SHIP_phoenix: "Phoenix"
-	KEL_DOR_SHIP_pike: "Pike"
-	KEL_DOR_SHIP_pursuer: "Pursuer"
-	KEL_DOR_SHIP_raider: "Raider"
-	KEL_DOR_SHIP_rainbow: "Rainbow"
-	KEL_DOR_SHIP_rapid: "Rapid"
-	KEL_DOR_SHIP_redemption: "Redemption"
-	KEL_DOR_SHIP_relentless: "Relentless"
-	KEL_DOR_SHIP_rigorous: "Rigorous"
-	KEL_DOR_SHIP_robust: "Robust"
-	KEL_DOR_SHIP_sabre: "Sabre"
-	KEL_DOR_SHIP_salvation: "Salvation"
-	KEL_DOR_SHIP_sanguine: "Sanguine"
-	KEL_DOR_SHIP_scarab: "Scarab"
-	KEL_DOR_SHIP_scepter: "Scepter"
-	KEL_DOR_SHIP_sea_witch: "Sea Witch"
-	KEL_DOR_SHIP_siren: "Siren"
-	KEL_DOR_SHIP_sorceress: "Sorceress"
-	KEL_DOR_SHIP_spearhead: "Spearhead"
-	KEL_DOR_SHIP_specter: "Specter"
-	KEL_DOR_SHIP_spirit: "Spirit"
-	KEL_DOR_SHIP_splendid: "Splendid"
-	KEL_DOR_SHIP_stallion: "Stallion"
-	KEL_DOR_SHIP_stalwart: "Stalwart"
-	KEL_DOR_SHIP_steadfast: "Steadfast"
-	KEL_DOR_SHIP_strenuous: "Strenuous"
-	KEL_DOR_SHIP_superb: "Superb"
-	KEL_DOR_SHIP_supernova: "Supernova"
-	KEL_DOR_SHIP_surprise: "Surprise"
-	KEL_DOR_SHIP_swiftsure: "Swiftsure"
-	KEL_DOR_SHIP_talent: "Talent"
-	KEL_DOR_SHIP_talisman: "Talisman"
-	KEL_DOR_SHIP_talon: "Talon"
-	KEL_DOR_SHIP_taurus: "Taurus"
-	KEL_DOR_SHIP_tenacious: "Tenacious"
-	KEL_DOR_SHIP_thunder_child: "Thunder Child"
-	KEL_DOR_SHIP_thunderous: "Thunderous"
-	KEL_DOR_SHIP_tireless: "Tireless"
-	KEL_DOR_SHIP_trenchant: "Trenchant"
-	KEL_DOR_SHIP_righteous: "Righteous"
-	KEL_DOR_SHIP_acheron: "Acheron"
-	KEL_DOR_SHIP_achilles: "Achilles"
-	KEL_DOR_SHIP_agamemnon: "Agamemnon"
-	KEL_DOR_SHIP_amphion: "Amphion"
-	KEL_DOR_SHIP_aquilon: "Aquilon"
-	KEL_DOR_SHIP_argonaut: "Argonaut"
-	KEL_DOR_SHIP_argus: "Argus"
-	KEL_DOR_SHIP_ariel: "Ariel"
-	KEL_DOR_SHIP_aurora: "Aurora"
-	KEL_DOR_SHIP_avernus: "Avernus"
-	KEL_DOR_SHIP_bacchus: "Bacchus"
-	KEL_DOR_SHIP_bucephalus: "Bucephalus"
-	KEL_DOR_SHIP_calliope: "Calliope"
-	KEL_DOR_SHIP_calypso: "Calypso"
-	KEL_DOR_SHIP_castor: "Castor"
-	KEL_DOR_SHIP_charybdis: "Charybdis"
-	KEL_DOR_SHIP_circe: "Circe"
-	KEL_DOR_SHIP_cleopatra: "Cleopatra"
-	KEL_DOR_SHIP_constantine: "Constantine"
-	KEL_DOR_SHIP_cordelia: "Cordelia"
-	KEL_DOR_SHIP_cyrus: "Cyrus"
-	KEL_DOR_SHIP_damocles: "Damocles"
-	KEL_DOR_SHIP_daedalus: "Daedalus"
-	KEL_DOR_SHIP_darius: "Darius"
-	KEL_DOR_SHIP_diomede: "Diomede"
-	KEL_DOR_SHIP_dryad: "Dryad"
-	KEL_DOR_SHIP_electra: "Electra"
-	KEL_DOR_SHIP_endymion: "Endymion"
-	KEL_DOR_SHIP_erebus: "Erebus"
-	KEL_DOR_SHIP_fenris: "Fenris"
-	KEL_DOR_SHIP_freya: "Freya"
-	KEL_DOR_SHIP_gilgamesh: "Gilgamesh"
-	KEL_DOR_SHIP_gorgon: "Gorgon"
-	KEL_DOR_SHIP_halcyon: "Halcyon"
-	KEL_DOR_SHIP_hecate: "Hecate"
-	KEL_DOR_SHIP_hector: "Hector"
-	KEL_DOR_SHIP_hesperus: "Hesperus"
-	KEL_DOR_SHIP_janus: "Janus"
-	KEL_DOR_SHIP_jason: "Jason"
-	KEL_DOR_SHIP_juno: "Juno"
-	KEL_DOR_SHIP_jupiter: "Jupiter"
-	KEL_DOR_SHIP_lancelot: "Lancelot"
-	KEL_DOR_SHIP_lazarus: "Lazarus"
-	KEL_DOR_SHIP_leander: "Leander"
-	KEL_DOR_SHIP_leonidas: "Leonidas"
-	KEL_DOR_SHIP_lysander: "Lysander"
-	KEL_DOR_SHIP_maenad: "Maenad"
-	KEL_DOR_SHIP_mars: "Mars"
-	KEL_DOR_SHIP_medea: "Medea"
-	KEL_DOR_SHIP_medusa: "Medusa"
-	KEL_DOR_SHIP_menestheus: "Menestheus"
-	KEL_DOR_SHIP_mercury: "Mercury"
-	KEL_DOR_SHIP_merlin: "Merlin"
-	KEL_DOR_SHIP_minerva: "Minerva"
-	KEL_DOR_SHIP_minos: "Minos"
-	KEL_DOR_SHIP_neptune: "Neptune"
-	KEL_DOR_SHIP_nessus: "Nessus"
-	KEL_DOR_SHIP_nestor: "Nestor"
-	KEL_DOR_SHIP_nimrod: "Nimrod"
-	KEL_DOR_SHIP_niobe: "Niobe"
-	KEL_DOR_SHIP_oberon: "Oberon"
-	KEL_DOR_SHIP_odin: "Odin"
-	KEL_DOR_SHIP_ophelia: "Ophelia"
-	KEL_DOR_SHIP_orestes: "Orestes"
-	KEL_DOR_SHIP_orpheus: "Orpheus"
-	KEL_DOR_SHIP_osiris: "Osiris"
-	KEL_DOR_SHIP_pandora: "Pandora"
-	KEL_DOR_SHIP_penelope: "Penelope"
-	KEL_DOR_SHIP_persephone: "Persephone"
-	KEL_DOR_SHIP_perseus: "Perseus"
-	KEL_DOR_SHIP_phoebe: "Phoebe"
-	KEL_DOR_SHIP_pluto: "Pluto"
-	KEL_DOR_SHIP_poseidon: "Poseidon"
-	KEL_DOR_SHIP_proteus: "Proteus"
-	KEL_DOR_SHIP_pylades: "Pylades"
-	KEL_DOR_SHIP_serapis: "Serapis"
-	KEL_DOR_SHIP_stygian: "Stygian"
-	KEL_DOR_SHIP_tantalus: "Tantalus"
-	KEL_DOR_SHIP_telemachus: "Telemachus"
-	KEL_DOR_SHIP_theseus: "Theseus"
-	KEL_DOR_SHIP_thor: "Thor"
-	KEL_DOR_SHIP_trajan: "Trajan"
-	KEL_DOR_SHIP_triton: "Triton"
-	KEL_DOR_SHIP_venus: "Venus"
-	KEL_DOR_SHIP_adamant: "Adamant"
-	KEL_DOR_SHIP_ardent: "Ardent"
-	KEL_DOR_SHIP_assail: "Assail"
-	KEL_DOR_SHIP_austere: "Austere"
-	KEL_DOR_SHIP_archon: "Archon"
-	KEL_DOR_SHIP_adroit: "Adroit"
-	KEL_DOR_SHIP_aegis: "Aegis"
-	KEL_DOR_SHIP_anchor: "Anchor"
-	KEL_DOR_SHIP_corsair: "Corsair"
-	KEL_DOR_SHIP_banshee: "Banshee"
-	KEL_DOR_SHIP_enchantress: "Enchantress"
-	KEL_DOR_SHIP_eradicator: "Eradicator"
-	KEL_DOR_SHIP_tormentor: "Tormentor"
-	KEL_DOR_SHIP_legion: "Legion"
-	KEL_DOR_SHIP_reprisal: "Reprisal"
-	KEL_DOR_SHIP_aggressor: "Aggressor"
-	KEL_DOR_SHIP_assault: "Assault"
-	KEL_DOR_SHIP_eviscerator: "Eviscerator"
-	KEL_DOR_SHIP_imperator: "Imperator"
-	KEL_DOR_SHIP_excellence: "Excellence"
-	KEL_DOR_SHIP_unrivalled: "Unrivalled"
-	KEL_DOR_SHIP_warlord: "Warlord"
-	KEL_DOR_SHIP_vengeance: "Vengeance"
-	KEL_DOR_SHIP_triumphant: "Triumphant"
-	KEL_DOR_SHIP_nemesis: "Nemesis"
-	KEL_DOR_SHIP_avenger: "Avenger"
-	KEL_DOR_SHIP_champion: "Champion"
-	KEL_DOR_SHIP_conqueror: "Conqueror"
-	KEL_DOR_SHIP_crusader: "Crusader"
-	KEL_DOR_SHIP_glory: "Glory"
-	KEL_DOR_SHIP_immortal: "Immortal"
-	KEL_DOR_SHIP_judicator: "Judicator"
-	KEL_DOR_SHIP_vanguard: "Vanguard"
-	KEL_DOR_SHIP_renown: "Renown"
-	KEL_DOR_SHIP_demolisher: "Demolisher"
-	KEL_DOR_SHIP_dragon: "Dragon"
-	KEL_DOR_SHIP_executor: "Executor"
-	KEL_DOR_SHIP_furious: "Furious"
-	KEL_DOR_SHIP_gladiator: "Gladiator"
-	KEL_DOR_SHIP_magnificent: "Magnificent"
-	KEL_DOR_SHIP_ogre: "Ogre"
-	KEL_DOR_SHIP_onslaught: "Onslaught"
-	KEL_DOR_SHIP_vehement: "Vehement"
-	KEL_DOR_SHIP_basilisk: "Basilisk"
-	KEL_DOR_SHIP_tempest: "Tempest"
-	KEL_DOR_SHIP_overlord: "Overlord"
-	KEL_DOR_SHIP_warrior: "Warrior"
-	KEL_DOR_SHIP_titan: "Titan"
-	KEL_DOR_SHIP_colossus: "Colossus"
-	KEL_DOR_SHIP_prometheus: "Prometheus"
-	KEL_DOR_SHIP_nike: "Nike"
-	KEL_DOR_SHIP_paladin: "Paladin"
-	KEL_DOR_SHIP_sovereign: "Sovereign"
-	KEL_DOR_SHIP_repulse: "Repulse"
-	KEL_DOR_SHIP_majestic: "Majestic"
-	KEL_DOR_SHIP_avatar: "Avatar"
-	KEL_DOR_SHIP_behemoth: "Behemoth"
-	KEL_DOR_SHIP_centurion: "Centurion"
-	KEL_DOR_SHIP_citadel: "Citadel"
-	KEL_DOR_SHIP_katana: "Katana"
-	KEL_DOR_SHIP_kraken: "Kraken"
-	KEL_DOR_SHIP_cerberus: "Cerberus"
-	KEL_DOR_SHIP_valkyrie: "Valkyrie"
-	KEL_DOR_SHIP_dreadnought: "Dreadnought"
-	KEL_DOR_SHIP_harbinger: "Harbinger"
-	KEL_DOR_SHIP_juggernaut: "Juggernaut"
-	KEL_DOR_SHIP_leviathan: "Leviathan"
-	KEL_DOR_SHIP_hyperion: "Hyperion"
-	KEL_DOR_SHIP_galatea: "Galatea"
-	KEL_DOR_SHIP_ambush: "Ambush"
-	KEL_DOR_SHIP_vindicator: "Vindicator"
-	KEL_DOR_SHIP_crescent: "Crescent"
-	KEL_DOR_SHIP_diligent: "Diligent"
-	KEL_DOR_SHIP_zephyr: "Zephyr"
-	KEL_DOR_SHIP_enigma: "Enigma"
-	KEL_DOR_SHIP_conquistador: "Conquistador"
-	KEL_DOR_SHIP_scylla: "Scylla"
-	KEL_DOR_SHIP_arbiter: "Arbiter"
-	KEL_DOR_SHIP_asperity: "Asperity"
-	KEL_DOR_SHIP_eminence: "Eminence"
-	KEL_DOR_SHIP_astute: "Astute"
-	KEL_DOR_SHIP_alacrity: "Alacrity"
-	KEL_DOR_SHIP_satyr: "Satyr"
-	KEL_DOR_SHIP_prospero: "Prospero"
-	KEL_DOR_SHIP_untiring: "Untiring"
-	KEL_DOR_SHIP_zenith: "Zenith"
-	KEL_DOR_SHIP_torch: "Torch"
-	KEL_DOR_SHIP_remembrance: "Remembrance"
-	KEL_DOR_SHIP_pilgrim: "Pilgrim"
-	KEL_DOR_SHIP_trailblazer: "Trailblazer"
-	KEL_DOR_SHIP_vagabond: "Vagabond"
-	KEL_DOR_SHIP_wayfarer: "Wayfarer"
-	KEL_DOR_SHIP_ambassador: "Ambassador"
-	KEL_DOR_SHIP_emissary: "Emissary"
-	KEL_DOR_SHIP_nomad: "Nomad"
-	KEL_DOR_SHIP_pathfinder: "Pathfinder"
-	KEL_DOR_SHIP_wanderer: "Wanderer"
-	KEL_DOR_SHIP_traveler: "Traveler"
-	KEL_DOR_SHIP_godspeed: "Godspeed"
-	KEL_DOR_SHIP_prophecy: "Prophecy"
-	KEL_DOR_SHIP_manifest_destiny: "Manifest Destiny"
-	KEL_DOR_SHIP_virtue: "Virtue"
-	KEL_DOR_SHIP_potential: "Potential"
-	KEL_DOR_SHIP_expansion: "Expansion"
-	KEL_DOR_SHIP_pioneer_spirit: "Pioneer Spirit"
-	KEL_DOR_SHIP_summit: "Summit"
-	KEL_DOR_SHIP_pinnacle: "Pinnacle"
-	KEL_DOR_SHIP_seeder: "Seeder"
-	KEL_DOR_SHIP_harvest: "Harvest"
-	KEL_DOR_SHIP_demeter: "Demeter"
-	KEL_DOR_SHIP_isis: "Isis"
-	KEL_DOR_SHIP_ceres: "Ceres"
-	KEL_DOR_SHIP_exodus: "Exodus"
-	KEL_DOR_SHIP_foundation: "Foundation"
-	KEL_DOR_SHIP_scion: "Scion"
-	KEL_DOR_SHIP_progeny: "Progeny"
-	KEL_DOR_SHIP_obligation: "Obligation"
-	KEL_DOR_SHIP_purpose: "Purpose"
-	KEL_DOR_SHIP_provider: "Provider"
-	KEL_DOR_SHIP_shining_city: "Shining City"
-	KEL_DOR_SHIP_acquirer: "Acquirer"
-	KEL_DOR_SHIP_cultivator: "Cultivator"
-	KEL_DOR_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	KEL_DOR_SHIP_community: "Community"
-	KEL_DOR_SHIP_brotherhood: "Brotherhood"
-	KEL_DOR_SHIP_industry: "Industry"
-	KEL_DOR_SHIP_assiduity: "Assiduity"
-	KEL_DOR_SHIP_effort: "Effort"
-	KEL_DOR_SHIP_laborer: "Laborer"
-	KEL_DOR_SHIP_builder: "Builder"
-	KEL_DOR_SHIP_craftsman: "Craftsman"
-	KEL_DOR_SHIP_hard_hat: "Hard Hat"
-	KEL_DOR_SHIP_progress: "Progress"
-	KEL_DOR_SHIP_engineer: "Engineer"
-	KEL_DOR_SHIP_promise: "Promise"
-	KEL_DOR_SHIP_service: "Service"
-	KEL_DOR_SHIP_shelter: "Shelter"
-	KEL_DOR_SHIP_beast: "Beast"
-	KEL_DOR_SHIP_creator: "Creator"
-	KEL_DOR_SHIP_developer: "Developer"
-	KEL_DOR_SHIP_foundry: "Foundry"
-	KEL_DOR_SHIP_factory: "Factory"
-	KEL_DOR_SHIP_anvil: "Anvil"
-	KEL_DOR_SHIP_pillar: "Pillar"
-	KEL_DOR_SHIP_architect: "Architect"
-	KEL_DOR_SHIP_accommodator: "Accommodator"
-	KEL_DOR_SHIP_ptah: "Ptah"
-	KEL_DOR_SHIP_ilmarinen: "Ilmarinen"
-	KEL_DOR_SHIP_creidhne: "Creidhne"
-	KEL_DOR_SHIP_gobannus: "Gobannus"
-	KEL_DOR_SHIP_luchtaine: "Luchtaine"
-	KEL_DOR_SHIP_goibniu: "Goibniu"
-	KEL_DOR_SHIP_vishvakarman: "Vishvakarman"
-	KEL_DOR_SHIP_tvastar: "Tvastar"
-	KEL_DOR_SHIP_ikenga: "Ikenga"
-	KEL_DOR_SHIP_qaynan: "Qaynan"
-	KEL_DOR_SHIP_ucuetis: "Ucuetis"
-	KEL_DOR_SHIP_ogoun: "Ogoun"
-	KEL_DOR_SHIP_ground_transport: "Транспортный корабль"
-	KEL_DOR_SHIP_spacegun_victory: "SpaceGun Victory"
-	KEL_DOR_SHIP_spacegun_success: "SpaceGun Success"
-	KEL_DOR_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	KEL_DOR_SHIP_spacegun_superior: "SpaceGun Superior"
-	KEL_DOR_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	KEL_DOR_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	KEL_DOR_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	KEL_DOR_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	KEL_DOR_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	KEL_DOR_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	KEL_DOR_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	KEL_DOR_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	KEL_DOR_SHIP_spacegun_honor: "SpaceGun Honor"
-	KEL_DOR_SHIP_spacegun_renown: "SpaceGun Renown"
-	KEL_DOR_SHIP_spacegun_glory: "SpaceGun Glory"
-	KEL_DOR_SHIP_spacegun_superb: "SpaceGun Superb"
-	KEL_DOR_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	KEL_DOR_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	KEL_DOR_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	KEL_DOR_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	KEL_DOR_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	KEL_DOR_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	KEL_DOR_SHIP_spacegun_merit: "SpaceGun Merit"
-	KEL_DOR_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	KEL_DOR_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	KEL_DOR_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	KEL_DOR_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	KEL_DOR_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	KEL_DOR_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	KEL_DOR_SHIP_spacegun_justice: "SpaceGun Justice"
-	KEL_DOR_SHIP_spacegun_probity: "SpaceGun Probity"
-	KEL_DOR_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	KEL_DOR_SHIP_spacegun_purity: "SpaceGun Purity"
-	KEL_DOR_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	KEL_DOR_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	KEL_DOR_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	KEL_DOR_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	KEL_DOR_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	KEL_DOR_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	KEL_DOR_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	KEL_DOR_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	KEL_DOR_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	KEL_DOR_SHIP_spacegun_courage: "SpaceGun Courage"
-	KEL_DOR_SHIP_spacegun_valor: "SpaceGun Valor"
-	KEL_DOR_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	KEL_DOR_SHIP_spacegun_daring: "SpaceGun Daring"
-	KEL_DOR_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	KEL_DOR_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	KEL_DOR_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	KEL_DOR_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	KEL_DOR_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	KEL_DOR_SHIP_albacore: "Albacore"
-	KEL_DOR_SHIP_gateway: "Gateway"
-	KEL_DOR_SHIP_vincent: "Vincent"
-	KEL_DOR_SHIP_babylon: "Babylon"
-	KEL_DOR_SHIP_caernavon: "Caernavon"
-	KEL_DOR_SHIP_acre: "Acre"
-	KEL_DOR_SHIP_pembroke: "Pembroke"
-	KEL_DOR_SHIP_spithead: "Spithead"
-	KEL_DOR_SHIP_halifax: "Halifax"
-	KEL_DOR_SHIP_victoria: "Victoria"
-	KEL_DOR_SHIP_chatham: "Chatham"
-	KEL_DOR_SHIP_anchorage: "Anchorage"
-	KEL_DOR_SHIP_scapa_flow: "Scapa Flow"
-	KEL_DOR_SHIP_hampton_roads: "Hampton Roads"
-	KEL_DOR_SHIP_brooklyn: "Brooklyn"
-	KEL_DOR_SHIP_norfolk: "Norfolk"
-	KEL_DOR_SHIP_newport: "Newport"
-	KEL_DOR_SHIP_guam: "Guam"
-	KEL_DOR_SHIP_pensacola: "Pensacola"
-	KEL_DOR_SHIP_vesuvius: "Vesuvius"
-	KEL_DOR_SHIP_mckinley: "McKinley"
-	KEL_DOR_SHIP_everest: "Everest"
-	KEL_DOR_SHIP_kilimanjaro: "Kilimanjaro"
-	KEL_DOR_SHIP_aconcagua: "Aconcagua"
-	KEL_DOR_SHIP_elbrus: "Elbrus"
-	KEL_DOR_SHIP_st__helens: "St. Helens"
-	KEL_DOR_SHIP_fuji: "Fuji"
-	KEL_DOR_SHIP_olympus: "Olympus"
-	KEL_DOR_SHIP_sinai: "Sinai"
-	KEL_DOR_SHIP_ambrose: "Ambrose"
-	KEL_DOR_SHIP_bermuda: "Bermuda"
-	KEL_DOR_SHIP_farpoint: "Farpoint"
-	KEL_DOR_SHIP_blue_star: "Blue Star"
-	KEL_DOR_SHIP_olympus_mons: "Olympus Mons"
-	KEL_DOR_SHIP_tharsis: "Tharsis"
-	KEL_DOR_SHIP_syrtis: "Syrtis"
-	KEL_DOR_SHIP_blackham: "Blackham"
-	KEL_DOR_SHIP_fletcher: "Fletcher"
-	KEL_DOR_SHIP_perry: "Perry"
-	KEL_DOR_SHIP_butakov: "Butakov"
-	KEL_DOR_SHIP_morris: "Morris"
-	KEL_DOR_SHIP_moorsom: "Moorsom"
-	KEL_DOR_SHIP_hart: "Hart"
-	KEL_DOR_SHIP_hargood: "Hargood"
-	KEL_DOR_SHIP_spruance: "Spruance"
-	KEL_DOR_SHIP_tanaka: "Tanaka"
-	KEL_DOR_SHIP_halsey: "Halsey"
-	KEL_DOR_SHIP_turner: "Turner"
-	KEL_DOR_SHIP_doria: "Doria"
-	KEL_DOR_SHIP_tirpitz: "Tirpitz"
-	KEL_DOR_SHIP_cunningham: "Cunningham"
-	KEL_DOR_SHIP_jellicoe: "Jellicoe"
-	KEL_DOR_SHIP_hipper: "Hipper"
-	KEL_DOR_SHIP_beatty: "Beatty"
-	KEL_DOR_SHIP_potemkin: "Potemkin"
-	KEL_DOR_SHIP_durham: "Durham"
-	KEL_DOR_SHIP_codrington: "Codrington"
-	KEL_DOR_SHIP_milne: "Milne"
-	KEL_DOR_SHIP_laforey: "Laforey"
-	KEL_DOR_SHIP_tyler: "Tyler"
-	KEL_DOR_SHIP_hawke: "Hawke"
-	KEL_DOR_SHIP_yonai: "Yonai"
-	KEL_DOR_SHIP_pound: "Pound"
-	KEL_DOR_SHIP_king: "King"
-	KEL_DOR_SHIP_crutchley: "Crutchley"
-	KEL_DOR_SHIP_mountbatten: "Mountbatten"
-	KEL_DOR_SHIP_kountouriotis: "Kountouriotis"
-	KEL_DOR_SHIP_kuznetsov: "Kuznetsov"
-	KEL_DOR_SHIP_essen: "Essen"
-	KEL_DOR_SHIP_kornilov: "Kornilov"
-	KEL_DOR_SHIP_suffren: "Suffren"
-	KEL_DOR_SHIP_treville: "Treville"
-	KEL_DOR_SHIP_villeneuve: "Villeneuve"
-	KEL_DOR_SHIP_grasse: "Grasse"
-	KEL_DOR_SHIP_byng: "Byng"
-	KEL_DOR_SHIP_lezo: "Lezo"
-	KEL_DOR_SHIP_bombard: "Bombard"
-	KEL_DOR_SHIP_catapult: "Catapult"
-	KEL_DOR_SHIP_harpoon: "Harpoon"
-	KEL_DOR_SHIP_polybolos: "Polybolos"
-	KEL_DOR_SHIP_culverin: "Culverin"
-	KEL_DOR_SHIP_exemplary: "Exemplary"
-	KEL_DOR_SHIP_CLASS_cr_90: "CR-90"
-	KEL_DOR_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	KEL_DOR_SHIP_CLASS_lupus: "Lupus"
-	KEL_DOR_SHIP_CLASS_asdroni: "Asdroni"
-	KEL_DOR_SHIP_CLASS_customs: "Customs"
-	KEL_DOR_SHIP_CLASS_hammerhead: "Hammerhead"
-	KEL_DOR_SHIP_CLASS_scurge: "Scurge"
-	KEL_DOR_SHIP_CLASS_krayt: "Krayt"
-	KEL_DOR_SHIP_CLASS_diamond: "Diamond"
-	KEL_DOR_SHIP_CLASS_etti: "Etti"
-	KEL_DOR_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	KEL_DOR_SHIP_CLASS_vigil: "Vigil"
-	KEL_DOR_SHIP_CLASS_dp20: "DP20"
-	KEL_DOR_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	KEL_DOR_SHIP_CLASS_raider: "Raider"
-	KEL_DOR_SHIP_CLASS_dornean: "Dornean"
-	KEL_DOR_SHIP_CLASS_crusader: "Crusader"
-	KEL_DOR_SHIP_CLASS_marauder: "Marauder"
-	KEL_DOR_SHIP_CLASS_arquitens: "Arquitens"
-	KEL_DOR_SHIP_CLASS_kiltirin: "Kiltirin"
-	KEL_DOR_SHIP_CLASS_pelta: "Pelta"
-	KEL_DOR_SHIP_CLASS_pinnace: "Pinnace"
-	KEL_DOR_SHIP_CLASS_nova: "Nova"
-	KEL_DOR_SHIP_CLASS_vigilance: "Vigilance"
-	KEL_DOR_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	KEL_DOR_SHIP_CLASS_cg_273: "CG-273"
-	KEL_DOR_SHIP_CLASS_kariek: "Kariek"
-	KEL_DOR_SHIP_CLASS_ton_falk: "Ton-Falk"
-	KEL_DOR_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	KEL_DOR_SHIP_CLASS_lancer: "Lancer"
-	KEL_DOR_SHIP_CLASS_teroch: "Teroch"
-	KEL_DOR_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	KEL_DOR_SHIP_CLASS_nova_ii: "Nova II"
-	KEL_DOR_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	KEL_DOR_SHIP_CLASS_velox: "Velox"
-	KEL_DOR_SHIP_CLASS_mc30c: "MC30c"
-	KEL_DOR_SHIP_CLASS_vengeance: "Vengeance"
-	KEL_DOR_SHIP_CLASS_kariek_ii: "Kariek II"
-	KEL_DOR_SHIP_CLASS_cc_7700: "CC-7700"
-	KEL_DOR_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	KEL_DOR_SHIP_CLASS_wavecrest: "Wavecrest"
-	KEL_DOR_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	KEL_DOR_SHIP_CLASS_nuruodo: "Nuruodo"
-	KEL_DOR_SHIP_CLASS_sabaoth: "Sabaoth"
-	KEL_DOR_SHIP_CLASS_kontos: "Kontos"
-	KEL_DOR_SHIP_CLASS_mc40: "MC40"
-	KEL_DOR_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	KEL_DOR_SHIP_CLASS_broadside: "Broadside"
-	KEL_DOR_SHIP_CLASS_protector: "Protector"
-	KEL_DOR_SHIP_CLASS_warlord: "Warlord"
-	KEL_DOR_SHIP_CLASS_gladiator: "Gladiator"
-	KEL_DOR_SHIP_CLASS_beviin: "Beviin"
-	KEL_DOR_SHIP_CLASS_liberator: "Liberator"
-	KEL_DOR_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	KEL_DOR_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	KEL_DOR_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	KEL_DOR_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	KEL_DOR_SHIP_CLASS_massias: "Massias"
-	KEL_DOR_SHIP_CLASS_dreadnought: "Dreadnought"
-	KEL_DOR_SHIP_CLASS_kyramud: "Kyramud"
-	KEL_DOR_SHIP_CLASS_munificent: "Munificent"
-	KEL_DOR_SHIP_CLASS_prosvoli: "Prosvoli"
-	KEL_DOR_SHIP_CLASS_acclamator: "Acclamator"
-	KEL_DOR_SHIP_CLASS_lictor: "Lictor"
-	KEL_DOR_SHIP_CLASS_bulwark: "Bulwark"
-	KEL_DOR_SHIP_CLASS_victory_i: "Victory I"
-	KEL_DOR_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	KEL_DOR_SHIP_CLASS_bulk: "Bulk"
-	KEL_DOR_SHIP_CLASS_vindicator: "Vindicator"
-	KEL_DOR_SHIP_CLASS_dauntless: "Dauntless"
-	KEL_DOR_SHIP_CLASS_captor: "Captor"
-	KEL_DOR_SHIP_CLASS_au_riette: "Au'riette"
-	KEL_DOR_SHIP_CLASS_mc55: "MC55"
-	KEL_DOR_SHIP_CLASS_afthonia: "Afthonia"
-	KEL_DOR_SHIP_CLASS_victory_ii: "Victory II"
-	KEL_DOR_SHIP_CLASS_beroya: "Beroya"
-	KEL_DOR_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	KEL_DOR_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	KEL_DOR_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	KEL_DOR_SHIP_CLASS_venator: "Venator"
-	KEL_DOR_SHIP_CLASS_centurion: "Centurion"
-	KEL_DOR_SHIP_CLASS_mc75: "MC75"
-	KEL_DOR_SHIP_CLASS_kandosii: "Kandosii"
-	KEL_DOR_SHIP_CLASS_corellian: "Corellian"
-	KEL_DOR_SHIP_CLASS_providence: "Providence"
-	KEL_DOR_SHIP_CLASS_syndic: "Syndic"
-	KEL_DOR_SHIP_CLASS_recusant: "Recusant"
-	KEL_DOR_SHIP_CLASS_invincible: "Invincible"
-	KEL_DOR_SHIP_CLASS_imperial_i: "Imperial I"
-	KEL_DOR_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	KEL_DOR_SHIP_CLASS_procursator: "Procursator"
-	KEL_DOR_SHIP_CLASS_mc80a: "MC80a"
-	KEL_DOR_SHIP_CLASS_dh_omni: "DH-Omni"
-	KEL_DOR_SHIP_CLASS_aggressor: "Aggressor"
-	KEL_DOR_SHIP_CLASS_syndic_ii: "Syndic II"
-	KEL_DOR_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	KEL_DOR_SHIP_CLASS_keldabe: "Keldabe"
-	KEL_DOR_SHIP_CLASS_corellian_ii: "Corellian II"
-	KEL_DOR_SHIP_CLASS_chaf: "Chaf"
-	KEL_DOR_SHIP_CLASS_imperial_ii: "Imperial II"
-	KEL_DOR_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	KEL_DOR_SHIP_CLASS_ascendancy: "Ascendancy"
-	KEL_DOR_SHIP_CLASS_dominator: "Dominator"
-	KEL_DOR_SHIP_CLASS_allegiance: "Allegiance"
-	KEL_DOR_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	KEL_DOR_SHIP_CLASS_phalanx: "Phalanx"
-	KEL_DOR_SHIP_CLASS_titan: "Titan"
-	KEL_DOR_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	KEL_DOR_SHIP_CLASS_star_home: "Star Home"
-	KEL_DOR_SHIP_CLASS_subjugator: "Subjugator"
-	KEL_DOR_SHIP_CLASS_bellator: "Bellator"
-	KEL_DOR_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	KEL_DOR_SHIP_CLASS_executor: "Executor"
-	KEL_DOR_FLEET_armada_ORD: "$ORD$ Armada"
-	KEL_DOR_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	KEL_DOR_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	KEL_DOR_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	KEL_DOR_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	KEL_DOR_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	KEL_DOR_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	KEL_DOR_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	KEL_DOR_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	KEL_DOR_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	KEL_DOR_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	KEL_DOR_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	KEL_DOR_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	KEL_DOR_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	KEL_DOR_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	KEL_DOR_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	KEL_DOR_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	KEL_DOR_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	KEL_DOR_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	KEL_DOR_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	KEL_DOR_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	KEL_DOR_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	KEL_DOR_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	KEL_DOR_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	KEL_DOR_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	KEL_DOR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	KEL_DOR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	KEL_DOR_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	KEL_DOR_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	KEL_DOR_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	KEL_DOR_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	KEL_DOR_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	KEL_DOR_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	KEL_DOR_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	KEL_DOR_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	KEL_DOR_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	KEL_DOR_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	KEL_DOR_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	KEL_DOR_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	KEL_DOR_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	KEL_DOR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	KEL_DOR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	KEL_DOR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	KEL_DOR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	KEL_DOR_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	KEL_DOR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	KEL_DOR_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	KEL_DOR_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	KEL_DOR_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	KEL_DOR_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	KEL_DOR_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	KEL_DOR_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	KEL_DOR_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	KEL_DOR_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	KEL_DOR_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	KEL_DOR_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	KEL_DOR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	KEL_DOR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	KEL_DOR_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	KEL_DOR_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	KEL_DOR_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	KEL_DOR_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	KEL_DOR_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	KEL_DOR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	KEL_DOR_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	KEL_DOR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	KEL_DOR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	KEL_DOR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	KEL_DOR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	KEL_DOR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	KEL_DOR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	KEL_DOR_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	KEL_DOR_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	KEL_DOR_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	KEL_DOR_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	KEL_DOR_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	KEL_DOR_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	KEL_DOR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	KEL_DOR_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	KEL_DOR_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	KEL_DOR_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	KEL_DOR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	KEL_DOR_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	KEL_DOR_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	KEL_DOR_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	KEL_DOR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	KEL_DOR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	KEL_DOR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	KEL_DOR_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	KEL_DOR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	KEL_DOR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	KEL_DOR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	KEL_DOR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	KEL_DOR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	KEL_DOR_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	KEL_DOR_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	KEL_DOR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	KEL_DOR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	KEL_DOR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	KEL_DOR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	KEL_DOR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	KEL_DOR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	KEL_DOR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	KEL_DOR_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	KEL_DOR_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	KEL_DOR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	KEL_DOR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	KEL_DOR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	KEL_DOR_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	KEL_DOR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	KEL_DOR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	KEL_DOR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	KEL_DOR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	KEL_DOR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	KEL_DOR_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	KEL_DOR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	KEL_DOR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	KEL_DOR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	KEL_DOR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	KEL_DOR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	KEL_DOR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	KEL_DOR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	KEL_DOR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	KEL_DOR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	KEL_DOR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	KEL_DOR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	KEL_DOR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	KEL_DOR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	KEL_DOR_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	KEL_DOR_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	KEL_DOR_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	KEL_DOR_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	KEL_DOR_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	KEL_DOR_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	KEL_DOR_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	KEL_DOR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	KEL_DOR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	KEL_DOR_ARMY_rancor_ORD: "$ORD$ Rancor"
-	KEL_DOR_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	KEL_DOR_ARMY_acklay_ORD: "$ORD$ Acklay "
-	KEL_DOR_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	KEL_DOR_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	KEL_DOR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	KEL_DOR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	KEL_DOR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	KEL_DOR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	KEL_DOR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	KEL_DOR_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	KEL_DOR_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	KEL_DOR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	KEL_DOR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	KEL_DOR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	KEL_DOR_CHR_bail: "Bail"
-	KEL_DOR_CHR_ylenic: "Ylenic"
-	KEL_DOR_CHR_kel: "Kel"
-	KEL_DOR_CHR_gunn: "Gunn"
-	KEL_DOR_CHR_gregory: "Gregory"
-	KEL_DOR_CHR_abraxis: "Abraxis"
-	KEL_DOR_CHR_jonas: "Jonas"
-	KEL_DOR_CHR_xerda: "Xerda"
-	KEL_DOR_CHR_carth: "Carth"
-	KEL_DOR_CHR_kir: "Kir"
-	KEL_DOR_CHR_mebba: "Mebba"
-	KEL_DOR_CHR_dagos: "Dagos"
-	KEL_DOR_CHR_adam: "Adam"
-	KEL_DOR_CHR_kyle: "Kyle"
-	KEL_DOR_CHR_forren: "Forren"
-	KEL_DOR_CHR_malcolm: "Malcolm"
-	KEL_DOR_CHR_jeho: "Jeho"
-	KEL_DOR_CHR_lee: "Lee"
-	KEL_DOR_CHR_griggs: "Griggs"
-	KEL_DOR_CHR_milo: "Milo"
-	KEL_DOR_CHR_aeron: "Aeron"
-	KEL_DOR_CHR_byrec: "Byrec"
-	KEL_DOR_CHR_strata: "Strata"
-	KEL_DOR_CHR_lancer: "Lancer"
-	KEL_DOR_CHR_zeak: "Zeak"
-	KEL_DOR_CHR_niuk: "Niuk"
-	KEL_DOR_CHR_lavidean: "Lavidean"
-	KEL_DOR_CHR_tanizandar: "Tanizandar"
-	KEL_DOR_CHR_japla: "Japla"
-	KEL_DOR_CHR_aran: "Aran"
-	KEL_DOR_CHR_rail: "Rail"
-	KEL_DOR_CHR_zeven: "Zeven"
-	KEL_DOR_CHR_yakown: "Yakown"
-	KEL_DOR_CHR_sibar: "Sibar"
-	KEL_DOR_CHR_sair: "Sair"
-	KEL_DOR_CHR_klai: "Klai"
-	KEL_DOR_CHR_imay: "Imay"
-	KEL_DOR_CHR_traest: "Traest"
-	KEL_DOR_CHR_simo: "Simo"
-	KEL_DOR_CHR_riyan: "Riyan"
-	KEL_DOR_CHR_magnus: "Magnus"
-	KEL_DOR_CHR_boceta: "Boceta"
-	KEL_DOR_CHR_agnook: "Agnook"
-	KEL_DOR_CHR_silus: "Silus"
-	KEL_DOR_CHR_rowan: "Rowan"
-	KEL_DOR_CHR_coren: "Coren"
-	KEL_DOR_CHR_jett: "Jett"
-	KEL_DOR_CHR_linth: "Linth"
-	KEL_DOR_CHR_annor: "Annor"
-	KEL_DOR_CHR_ulas: "Ulas"
-	KEL_DOR_CHR_fenn: "Fenn"
-	KEL_DOR_CHR_tal: "Tal"
-	KEL_DOR_CHR_plo: "Plo"
-	KEL_DOR_CHR_torin: "Torin"
-	KEL_DOR_CHR_boone: "Boone"
-	KEL_DOR_CHR_davith: "Davith"
-	KEL_DOR_CHR_jorgen: "Jorgen"
-	KEL_DOR_CHR_bertos: "Bertos"
-	KEL_DOR_CHR_ress: "Ress"
-	KEL_DOR_CHR_malius: "Malius"
-	KEL_DOR_CHR_kale: "Kale"
-	KEL_DOR_CHR_cregan: "Cregan"
-	KEL_DOR_CHR_galen: "Galen"
-	KEL_DOR_CHR_zekk: "Zekk"
-	KEL_DOR_CHR_jinn_tu: "Jinn-Tu"
-	KEL_DOR_CHR_jaryn: "Jaryn"
-	KEL_DOR_CHR_gentti: "Gentti"
-	KEL_DOR_CHR_yu_sien: "Yu-Sien"
-	KEL_DOR_CHR_akela: "Akela"
-	KEL_DOR_CHR_arslan: "Arslan"
-	KEL_DOR_CHR_sidias: "Sidias"
-	KEL_DOR_CHR_haken: "Haken"
-	KEL_DOR_CHR_biran: "Biran"
-	KEL_DOR_CHR_vidown: "Vidown"
-	KEL_DOR_CHR_ares: "Ares"
-	KEL_DOR_CHR_ithan: "Ithan"
-	KEL_DOR_CHR_cul_utaan: "Cul-utaan"
-	KEL_DOR_CHR_thoja: "Thoja"
-	KEL_DOR_CHR_cron: "Cron"
-	KEL_DOR_CHR_mossi: "Mossi"
-	KEL_DOR_CHR_abric: "Abric"
-	KEL_DOR_CHR_darg: "Darg"
-	KEL_DOR_CHR_gaman: "Gaman"
-	KEL_DOR_CHR_naiad: "Naiad"
-	KEL_DOR_CHR_herub: "Herub"
-	KEL_DOR_CHR_marius: "Marius"
-	KEL_DOR_CHR_torkin: "Torkin"
-	KEL_DOR_CHR_caton: "Caton"
-	KEL_DOR_CHR_kane: "Kane"
-	KEL_DOR_CHR_versita: "Versita"
-	KEL_DOR_CHR_cric: "Cric"
-	KEL_DOR_CHR_foxdi: "Foxdi"
-	KEL_DOR_CHR_montacca: "Montacca"
-	KEL_DOR_CHR_jospi: "Jospi"
-	KEL_DOR_CHR_baz: "Baz"
-	KEL_DOR_CHR_kam: "Kam"
-	KEL_DOR_CHR_erek: "Erek"
-	KEL_DOR_CHR_lerak: "Lerak"
-	KEL_DOR_CHR_morla: "Morla"
-	KEL_DOR_CHR_baxter: "Baxter"
-	KEL_DOR_CHR_talan: "Talan"
-	KEL_DOR_CHR_thion: "Thion"
-	KEL_DOR_CHR_kannon: "Kannon"
-	KEL_DOR_CHR_corsair: "Corsair"
-	KEL_DOR_CHR_caster: "Caster"
-	KEL_DOR_CHR_elden: "Elden"
-	KEL_DOR_CHR_faelgrom: "Faelgrom"
-	KEL_DOR_CHR_jack: "Jack"
-	KEL_DOR_CHR_raltharan: "Raltharan"
-	KEL_DOR_CHR_flash: "Flash"
-	KEL_DOR_CHR_waseem: "Waseem"
-	KEL_DOR_CHR_bendak: "Bendak"
-	KEL_DOR_CHR_kaz: "Kaz"
-	KEL_DOR_CHR_montileu: "Montileu"
-	KEL_DOR_CHR_gonoga: "Gonoga"
-	KEL_DOR_CHR_galven: "Galven"
-	KEL_DOR_CHR_vincenzo: "Vincenzo"
-	KEL_DOR_CHR_ric: "Ric"
-	KEL_DOR_CHR_rebar: "Rebar"
-	KEL_DOR_CHR_jebediah: "Jebediah"
-	KEL_DOR_CHR_aramil: "Aramil"
-	KEL_DOR_CHR_delmi: "Delmi"
-	KEL_DOR_CHR_caalin: "Caalin"
-	KEL_DOR_CHR_rassth: "Rassth"
-	KEL_DOR_CHR_adorn: "Adorn"
-	KEL_DOR_CHR_cyrus: "Cyrus"
-	KEL_DOR_CHR_zhar_khan: "Zhar-Khan"
-	KEL_DOR_CHR_predor: "Predor"
-	KEL_DOR_CHR_tarlson: "Tarlson"
-	KEL_DOR_CHR_boaz: "Boaz"
-	KEL_DOR_CHR_bradley: "Bradley"
-	KEL_DOR_CHR_zerrid: "Zerrid"
-	KEL_DOR_CHR_bobecc: "Bobecc"
-	KEL_DOR_CHR_jelantos: "Jelantos"
-	KEL_DOR_CHR_jephego: "Jephego"
-	KEL_DOR_CHR_svante: "Svante"
-	KEL_DOR_CHR_tesvalo: "Tesvalo"
-	KEL_DOR_CHR_aeon: "Aeon"
-	KEL_DOR_CHR_dekar: "Dekar"
-	KEL_DOR_CHR_jean_francois: "Jean-Francois"
-	KEL_DOR_CHR_elen: "Elen"
-	KEL_DOR_CHR_han: "Han"
-	KEL_DOR_CHR_owen: "Owen"
-	KEL_DOR_CHR_biggs: "Biggs"
-	KEL_DOR_CHR_charratha: "Charratha"
-	KEL_DOR_CHR_edaara: "Edaara"
-	KEL_DOR_CHR_bella: "Bella"
-	KEL_DOR_CHR_callista: "Callista"
-	KEL_DOR_CHR_mara: "Mara"
-	KEL_DOR_CHR_seena: "Seena"
-	KEL_DOR_CHR_areta: "Areta"
-	KEL_DOR_CHR_cord: "Cord"
-	KEL_DOR_CHR_cyrinity: "Cyrinity"
-	KEL_DOR_CHR_nile: "Nile"
-	KEL_DOR_CHR_kiyfi: "Kiyfi"
-	KEL_DOR_CHR_yasmyn: "Yasmyn"
-	KEL_DOR_CHR_satra: "Satra"
-	KEL_DOR_CHR_shehish: "Shehish"
-	KEL_DOR_CHR_sarna: "Sarna"
-	KEL_DOR_CHR_krava: "Krava"
-	KEL_DOR_CHR_roxis: "Roxis"
-	KEL_DOR_CHR_jessa: "Jessa"
-	KEL_DOR_CHR_aqua: "Aqua"
-	KEL_DOR_CHR_maryna: "Maryna"
-	KEL_DOR_CHR_essaj: "Essaj"
-	KEL_DOR_CHR_looriw: "Looriw"
-	KEL_DOR_CHR_teeana: "Teeana"
-	KEL_DOR_CHR_raena: "Raena"
-	KEL_DOR_CHR_yula: "Yula"
-	KEL_DOR_CHR_vifi: "Vifi"
-	KEL_DOR_CHR_vania: "Vania"
-	KEL_DOR_CHR_jeanida: "Jeanida"
-	KEL_DOR_CHR_aerena: "Aerena"
-	KEL_DOR_CHR_nataya: "Nataya"
-	KEL_DOR_CHR_bernarda: "Bernarda"
-	KEL_DOR_CHR_geela: "Geela"
-	KEL_DOR_CHR_lya: "Lya"
-	KEL_DOR_CHR_sirra: "Sirra"
-	KEL_DOR_CHR_teris: "Teris"
-	KEL_DOR_CHR_terral: "Terral"
-	KEL_DOR_CHR_riema: "Riema"
-	KEL_DOR_CHR_erri: "Erri"
-	KEL_DOR_CHR_shanna: "Shanna"
-	KEL_DOR_CHR_lyra: "Lyra"
-	KEL_DOR_CHR_pranda: "Pranda"
-	KEL_DOR_CHR_luna: "Luna"
-	KEL_DOR_CHR_cally: "Cally"
-	KEL_DOR_CHR_viqi: "Viqi"
-	KEL_DOR_CHR_hadriel: "Hadriel"
-	KEL_DOR_CHR_lora: "Lora"
-	KEL_DOR_CHR_selena: "Selena"
-	KEL_DOR_CHR_zana: "Zana"
-	KEL_DOR_CHR_tuija: "Tuija"
-	KEL_DOR_CHR_railin: "Railin"
-	KEL_DOR_CHR_odona: "Odona"
-	KEL_DOR_CHR_shyon: "Shyon"
-	KEL_DOR_CHR_walas: "Walas"
-	KEL_DOR_CHR_rylla: "Rylla"
-	KEL_DOR_CHR_gara: "Gara"
-	KEL_DOR_CHR_delos: "Delos"
-	KEL_DOR_CHR_loretta: "Loretta"
-	KEL_DOR_CHR_luhon: "Luhon"
-	KEL_DOR_CHR_delinia: "Delinia"
-	KEL_DOR_CHR_aama: "Aama"
-	KEL_DOR_CHR_shorya: "Shorya"
-	KEL_DOR_CHR_melfina: "Melfina"
-	KEL_DOR_CHR_davessi: "Davessi"
-	KEL_DOR_CHR_larana: "Larana"
-	KEL_DOR_CHR_galatea: "Galatea"
-	KEL_DOR_CHR_nola: "Nola"
-	KEL_DOR_CHR_syna: "Syna"
-	KEL_DOR_CHR_jauhzmynn: "Jauhzmynn"
-	KEL_DOR_CHR_anen: "Anen"
-	KEL_DOR_CHR_orona: "Orona"
-	KEL_DOR_CHR_yana: "Yana"
-	KEL_DOR_CHR_zoras: "Zoras"
-	KEL_DOR_CHR_ree: "Ree"
-	KEL_DOR_CHR_grace: "Grace"
-	KEL_DOR_CHR_tantema: "Tantema"
-	KEL_DOR_CHR_myn: "Myn"
-	KEL_DOR_CHR_una: "Una"
-	KEL_DOR_CHR_dalharil: "Dalharil"
-	KEL_DOR_CHR_losa: "Losa"
-	KEL_DOR_CHR_sovi: "Sovi"
-	KEL_DOR_CHR_elaiza: "Elaiza"
-	KEL_DOR_CHR_vucora: "Vucora"
-	KEL_DOR_CHR_ava: "Ava"
-	KEL_DOR_CHR_joi: "Joi"
-	KEL_DOR_CHR_stryka: "Stryka"
-	KEL_DOR_CHR_shandra: "Shandra"
-	KEL_DOR_CHR_kely: "Kely"
-	KEL_DOR_CHR_caileta: "Caileta"
-	KEL_DOR_CHR_taia: "Taia"
-	KEL_DOR_CHR_siala: "Siala"
-	KEL_DOR_CHR_reki: "Reki"
-	KEL_DOR_CHR_maydla: "Maydla"
-	KEL_DOR_CHR_bot: "Bot"
-	KEL_DOR_CHR_kiandra: "Kiandra"
-	KEL_DOR_CHR_xilaren: "Xilaren"
-	KEL_DOR_CHR_zulara: "Zulara"
-	KEL_DOR_CHR_ren: "Ren"
-	KEL_DOR_CHR_karissa: "Karissa"
-	KEL_DOR_CHR_haruko: "Haruko"
-	KEL_DOR_CHR_jenna: "Jenna"
-	KEL_DOR_CHR_liana: "Liana"
-	KEL_DOR_CHR_rale: "Rale"
-	KEL_DOR_CHR_megara: "Megara"
-	KEL_DOR_CHR_aria: "Aria"
-	KEL_DOR_CHR_akiva: "Akiva"
-	KEL_DOR_CHR_nalah: "Nalah"
-	KEL_DOR_CHR_erlem: "Erlem"
-	KEL_DOR_CHR_nali: "Nali"
-	KEL_DOR_CHR_fallah: "Fallah"
-	KEL_DOR_CHR_kotrana: "Kotrana"
-	KEL_DOR_CHR_aayla: "Aayla"
-	KEL_DOR_CHR_kalira: "Kalira"
-	KEL_DOR_CHR_arani: "Arani"
-	KEL_DOR_CHR_fama: "Fama"
-	KEL_DOR_CHR_lyyr: "Lyyr"
-	KEL_DOR_CHR_arcas: "Arcas"
-	KEL_DOR_CHR_rane: "Rane"
-	KEL_DOR_CHR_nayru: "Nayru"
-	KEL_DOR_CHR_zylas: "Zylas"
-	KEL_DOR_CHR_vexa: "Vexa"
-	KEL_DOR_CHR_kana: "Kana"
-	KEL_DOR_CHR_beru: "Beru"
-	KEL_DOR_CHR_elysar: "Elysar"
-	KEL_DOR_CHR_tisa: "Tisa"
-	KEL_DOR_CHR_wahia: "Wahia"
-	KEL_DOR_CHR_wezz: "Wezz"
-	KEL_DOR_CHR_unic: "Unic"
-	KEL_DOR_CHR_tiovata: "Tiovata"
-	KEL_DOR_CHR_nakcohh: "Nakcohh"
-	KEL_DOR_CHR_vitaan: "Vitaan"
-	KEL_DOR_CHR_mefrid: "Mefrid"
-	KEL_DOR_CHR_daklan: "Daklan"
-	KEL_DOR_CHR_kenzee: "Kenzee"
-	KEL_DOR_CHR_joben: "Joben"
-	KEL_DOR_CHR_thegas: "Thegas"
-	KEL_DOR_CHR_moryne: "Moryne"
-	KEL_DOR_CHR_holgor: "Holgor"
-	KEL_DOR_CHR_ijaaz: "Ijaaz"
-	KEL_DOR_CHR_tromans: "Tromans"
-	KEL_DOR_CHR_sprax: "Sprax"
-	KEL_DOR_CHR_knesos: "Knesos"
-	KEL_DOR_CHR_lasek: "Lasek"
-	KEL_DOR_CHR_artis: "Artis"
-	KEL_DOR_CHR_pax: "Pax"
-	KEL_DOR_CHR_corso: "Corso"
-	KEL_DOR_CHR_fallon: "Fallon"
-	KEL_DOR_CHR_gundo: "Gundo"
-	KEL_DOR_CHR_ruana: "Ruana"
-	KEL_DOR_CHR_fremlin: "Fremlin"
-	KEL_DOR_CHR_thont: "Thont"
-	KEL_DOR_CHR_creel: "Creel"
-	KEL_DOR_CHR_rar: "Rar"
-	KEL_DOR_CHR_dusat: "Dusat"
-	KEL_DOR_CHR_kessler: "Kessler"
-	KEL_DOR_CHR_shaia: "Shaia"
-	KEL_DOR_CHR_el_theriam: "El-Theriam"
-	KEL_DOR_CHR_vanmeer: "VanMeer"
-	KEL_DOR_CHR_vrieska: "Vrieska"
-	KEL_DOR_CHR_calway: "Calway"
-	KEL_DOR_CHR_yamaguchi: "Yamaguchi"
-	KEL_DOR_CHR_riggers: "Riggers"
-	KEL_DOR_CHR_brower: "Brower"
-	KEL_DOR_CHR_fash: "Fash"
-	KEL_DOR_CHR_nalto: "Nalto"
-	KEL_DOR_CHR_stryder: "Stryder"
-	KEL_DOR_CHR_dubreas: "Dubreas"
-	KEL_DOR_CHR_colsan: "Colsan"
-	KEL_DOR_CHR_terrek: "Terrek"
-	KEL_DOR_CHR_solon: "Solon"
-	KEL_DOR_CHR_merquise: "Merquise"
-	KEL_DOR_CHR_varn: "Varn"
-	KEL_DOR_CHR_basai: "Basai"
-	KEL_DOR_CHR_froud: "Froud"
-	KEL_DOR_CHR_addacess: "Addacess"
-	KEL_DOR_CHR_durgen: "Durgen"
-	KEL_DOR_CHR_slahlvo: "Slahlvo"
-	KEL_DOR_CHR_remex: "Remex"
-	KEL_DOR_CHR_madowki: "Madowki"
-	KEL_DOR_CHR_hayes: "Hayes"
-	KEL_DOR_CHR_ne: "Ne"
-	KEL_DOR_CHR_dago: "Dago"
-	KEL_DOR_CHR_greenback: "Greenback"
-	KEL_DOR_CHR_stithta: "Stithta"
-	KEL_DOR_CHR_ker: "Ker"
-	KEL_DOR_CHR_driet: "Driet"
-	KEL_DOR_CHR_klakk: "Klakk"
-	KEL_DOR_CHR_reed: "Reed"
-	KEL_DOR_CHR_lefex: "Lefex"
-	KEL_DOR_CHR_minn: "Minn"
-	KEL_DOR_CHR_irokini: "Irokini"
-	KEL_DOR_CHR_roye: "Roye"
-	KEL_DOR_CHR_danakar: "Danakar"
-	KEL_DOR_CHR_forin: "Forin"
-	KEL_DOR_CHR_glopio: "Glopio"
-	KEL_DOR_CHR_shenuri: "Shenuri"
-	KEL_DOR_CHR_corcer: "Corcer"
-	KEL_DOR_CHR_ordo: "Ordo"
-	KEL_DOR_CHR_wan: "Wan"
-	KEL_DOR_CHR_tagratt: "Tagratt"
-	KEL_DOR_CHR_golladio: "Golladio"
-	KEL_DOR_CHR_adramcsia: "Adramcsia"
-	KEL_DOR_CHR_jetberg: "Jetberg"
-	KEL_DOR_CHR_noth: "Noth"
-	KEL_DOR_CHR_taske: "Taske"
-	KEL_DOR_CHR_komo: "Komo"
-	KEL_DOR_CHR_styles: "Styles"
-	KEL_DOR_CHR_angavel: "Angavel"
-	KEL_DOR_CHR_tyrnith: "Tyrnith"
-	KEL_DOR_CHR_yavoog: "Yavoog"
-	KEL_DOR_CHR_kelbier: "Kelbier"
-	KEL_DOR_CHR_racto: "Racto"
-	KEL_DOR_CHR_degor: "Degor"
-	KEL_DOR_CHR_magre: "Magre"
-	KEL_DOR_CHR_soylon: "Soylon"
-	KEL_DOR_CHR_lerann: "Lerann"
-	KEL_DOR_CHR_chro: "Chro"
-	KEL_DOR_CHR_finn: "Finn"
-	KEL_DOR_CHR_blackmoor: "Blackmoor"
-	KEL_DOR_CHR_hwang: "Hwang"
-	KEL_DOR_CHR_vekarr: "Vekarr"
-	KEL_DOR_CHR_amon: "Amon"
-	KEL_DOR_CHR_thiddex: "Thiddex"
-	KEL_DOR_CHR_selkayim: "Selkayim"
-	KEL_DOR_CHR_gilder: "Gilder"
-	KEL_DOR_CHR_dhuramav: "Dhuramav"
-	KEL_DOR_CHR_kodd: "Kodd"
-	KEL_DOR_CHR_morin: "Morin"
-	KEL_DOR_CHR_kobylarz: "Kobylarz"
-	KEL_DOR_CHR_tade: "Tade"
-	KEL_DOR_CHR_solman: "Solman"
-	KEL_DOR_CHR_bintaghr: "Bintaghr"
-	KEL_DOR_CHR_marclonus: "Marclonus"
-	KEL_DOR_CHR_precore: "Precore"
-	KEL_DOR_CHR_solborne: "Solborne"
-	KEL_DOR_CHR_bailer: "Bailer"
-	KEL_DOR_CHR_katarn: "Katarn"
-	KEL_DOR_CHR_anjek: "Anjek"
-	KEL_DOR_CHR_dalgas: "Dalgas"
-	KEL_DOR_CHR_kast: "Kast"
-	KEL_DOR_CHR_airerith: "Airerith"
-	KEL_DOR_CHR_halo: "Halo"
-	KEL_DOR_CHR_clash: "Clash"
-	KEL_DOR_CHR_jalba: "Jalba"
-	KEL_DOR_CHR_benn: "Benn"
-	KEL_DOR_CHR_haruhana: "Haruhana"
-	KEL_DOR_CHR_roice: "Roice"
-	KEL_DOR_CHR_lokar: "Lokar"
-	KEL_DOR_CHR_korpil: "Korpil"
-	KEL_DOR_CHR_turon: "Turon"
-	KEL_DOR_CHR_cavi: "Cavi"
-	KEL_DOR_CHR_deece: "Deece"
-	KEL_DOR_CHR_braitano: "Braitano"
-	KEL_DOR_CHR_garnik: "Garnik"
-	KEL_DOR_CHR_tyandas: "Tyandas"
-	KEL_DOR_CHR_ka_taramas: "Ka'Taramas"
-	KEL_DOR_CHR_nuwest: "Nuwest"
-	KEL_DOR_CHR_forte: "Forte"
-	KEL_DOR_CHR_noshey: "Noshey"
-	KEL_DOR_CHR_gyyll: "Gyyll"
-	KEL_DOR_CHR_tallon: "Tallon"
-	KEL_DOR_CHR_lionne: "Lionne"
-	KEL_DOR_CHR_adras: "Adras"
-	KEL_DOR_CHR_peoly: "Peoly"
-	KEL_DOR_CHR_damiel: "Damiel"
-	KEL_DOR_CHR_chup_pau: "Chup-Pau"
-	KEL_DOR_CHR_drayven: "Drayven"
-	KEL_DOR_CHR_zaposug: "Zaposug"
-	KEL_DOR_CHR_bela_trepada: "Bela-Trepada"
-	KEL_DOR_CHR_defelice: "Defelice"
-	KEL_DOR_CHR_monsula: "Monsula"
-	KEL_DOR_CHR_baralein: "Baralein"
-	KEL_DOR_CHR_denive: "Denive"
-	KEL_DOR_CHR_hodrren: "Hodrren"
-	KEL_DOR_CHR_xergo: "Xergo"
-	KEL_DOR_CHR_sarat: "Sarat"
-	KEL_DOR_CHR_vercet: "Vercet"
-	KEL_DOR_CHR_ossaki: "Ossaki"
-	KEL_DOR_CHR_kappa: "Kappa"
-	KEL_DOR_CHR_zerga: "Zerga"
-	KEL_DOR_CHR_kopos: "Kopos"
-	KEL_DOR_CHR_aldrecht: "Aldrecht"
-	KEL_DOR_CHR_bohme: "Bohme"
-	KEL_DOR_CHR_tull: "Tull"
-	KEL_DOR_CHR_eldrel: "Eldrel"
-	KEL_DOR_CHR_marh: "Marh"
-	KEL_DOR_CHR_darksword: "Darksword"
-	KEL_DOR_CHR_krandor: "Krandor"
-	KEL_DOR_CHR_montag: "Montag"
-	KEL_DOR_CHR_dimodan: "Dimodan"
-	KEL_DOR_CHR_starfallen: "Starfallen"
-	KEL_DOR_CHR_fett: "Fett"
-	KEL_DOR_CHR_mohebbi: "Mohebbi"
-	KEL_DOR_CHR_runalian: "Runalian"
-	KEL_DOR_CHR_binette: "Binette"
-	KEL_DOR_CHR_laurent: "Laurent"
-	KEL_DOR_CHR_mavr: "Mavr"
-	KEL_DOR_CHR_ryra: "Ryra"
-	KEL_DOR_CHR_truden: "Truden"
-	KEL_DOR_CHR_solo: "Solo"
-	KEL_DOR_CHR_lars: "Lars"
-	KEL_DOR_CHR_amedda: "Amedda"
-	KEL_DOR_CHR_amidala: "Amidala"
-	KEL_DOR_CHR_andrell: "Andrell"
-	KEL_DOR_CHR_annon: "Annon"
-	KEL_DOR_CHR_antilles: "Antilles"
-	KEL_DOR_CHR_atanna: "Atanna"
-	KEL_DOR_CHR_baab: "Baab"
-	KEL_DOR_CHR_barc: "Barc"
-	KEL_DOR_CHR_bonteri: "Bonteri"
-	KEL_DOR_CHR_breemu: "Breemu"
-	KEL_DOR_CHR_bremack: "Bremack"
-	KEL_DOR_CHR_bronk: "Bronk"
-	KEL_DOR_CHR_burtoni: "Burtoni"
-	KEL_DOR_CHR_cadaman: "Cadaman"
-	KEL_DOR_CHR_callen: "Callen"
-	KEL_DOR_CHR_clovis: "Clovis"
-	KEL_DOR_CHR_ledwellow: "Ledwellow"
-	KEL_DOR_CHR_dio: "Dio"
-	KEL_DOR_CHR_organa: "Organa"
-	KEL_DOR_CHR_mas: "Mas"
-	KEL_DOR_CHR_wain: "Wain"
-	KEL_DOR_CHR_gabrial: "Gabrial"
-	KEL_DOR_CHR_dewell: "Dewell"
-	KEL_DOR_CHR_tanner: "Tanner"
-	KEL_DOR_CHR_vi: "Vi"
-	KEL_DOR_CHR_rush: "Rush"
-	KEL_DOR_CHR_danry: "Danry"
-	KEL_DOR_CHR_padm_: "Padmé"
-	KEL_DOR_CHR_fema: "Fema"
-	KEL_DOR_CHR_mina: "Mina"
-	KEL_DOR_CHR_bana: "Bana"
-	KEL_DOR_CHR_tyreca: "Tyreca"
-	KEL_DOR_CHR_halle: "Halle"
-	KEL_DOR_CHR_lexi: "Lexi"
-	KEL_DOR_CHR_leia: "Leia"
-	KEL_DOR_CHR_alyssa: "Alyssa"
-	KEL_DOR_CHR_leanna: "Leanna"
-	KEL_DOR_CHR_arya: "Arya"
-	KEL_DOR_CHR_panteer: "Panteer"
-	KEL_DOR_CHR_alde: "Alde"
-	KEL_DOR_CHR_frayus: "Frayus"
-	KEL_DOR_CHR_cortess: "Cortess"
-	KEL_DOR_CHR_killesa: "Killesa"
+	KEL_DOR_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	KEL_DOR_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	KEL_DOR_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	KEL_DOR_SHIP_onward: "Onward" #!Empty_LineInfo!
+	KEL_DOR_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	KEL_DOR_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	KEL_DOR_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	KEL_DOR_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	KEL_DOR_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	KEL_DOR_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_trident: "Trident" #!Empty_LineInfo!
+	KEL_DOR_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	KEL_DOR_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	KEL_DOR_SHIP_venture: "Venture" #!Empty_LineInfo!
+	KEL_DOR_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_viper: "Viper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_winger: "Winger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	KEL_DOR_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	KEL_DOR_SHIP_senator: "Senator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	KEL_DOR_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	KEL_DOR_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	KEL_DOR_SHIP_athena: "Athena" #!Empty_LineInfo!
+	KEL_DOR_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	KEL_DOR_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nova: "Nova" #!Empty_LineInfo!
+	KEL_DOR_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_protector: "Protector" #!Empty_LineInfo!
+	KEL_DOR_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	KEL_DOR_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	KEL_DOR_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	KEL_DOR_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	KEL_DOR_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	KEL_DOR_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	KEL_DOR_SHIP_devout: "Devout" #!Empty_LineInfo!
+	KEL_DOR_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	KEL_DOR_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	KEL_DOR_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	KEL_DOR_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	KEL_DOR_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	KEL_DOR_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	KEL_DOR_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	KEL_DOR_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	KEL_DOR_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	KEL_DOR_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	KEL_DOR_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	KEL_DOR_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	KEL_DOR_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_purity: "Purity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	KEL_DOR_SHIP_redma: "Redma" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_republic: "Republic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	KEL_DOR_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	KEL_DOR_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	KEL_DOR_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	KEL_DOR_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	KEL_DOR_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	KEL_DOR_SHIP_undying: "Undying" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_valor: "Valor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	KEL_DOR_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	KEL_DOR_SHIP_agile: "Agile" #!Empty_LineInfo!
+	KEL_DOR_SHIP_archer: "Archer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	KEL_DOR_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	KEL_DOR_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	KEL_DOR_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	KEL_DOR_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	KEL_DOR_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_errant: "Errant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	KEL_DOR_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	KEL_DOR_SHIP_velox: "Velox" #!Empty_LineInfo!
+	KEL_DOR_SHIP_venator: "Venator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	KEL_DOR_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	KEL_DOR_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	KEL_DOR_SHIP_success: "Success" #!Empty_LineInfo!
+	KEL_DOR_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	KEL_DOR_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	KEL_DOR_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_knight: "Knight" #!Empty_LineInfo!
+	KEL_DOR_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	KEL_DOR_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	KEL_DOR_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	KEL_DOR_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	KEL_DOR_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	KEL_DOR_SHIP_comet: "Comet" #!Empty_LineInfo!
+	KEL_DOR_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	KEL_DOR_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	KEL_DOR_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	KEL_DOR_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	KEL_DOR_SHIP_forger: "Forger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	KEL_DOR_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	KEL_DOR_SHIP_magic: "Magic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	KEL_DOR_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	KEL_DOR_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	KEL_DOR_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	KEL_DOR_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	KEL_DOR_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_daring: "Daring" #!Empty_LineInfo!
+	KEL_DOR_SHIP_duty: "Duty" #!Empty_LineInfo!
+	KEL_DOR_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hero: "Hero" #!Empty_LineInfo!
+	KEL_DOR_SHIP_justice: "Justice" #!Empty_LineInfo!
+	KEL_DOR_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	KEL_DOR_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	KEL_DOR_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	KEL_DOR_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	KEL_DOR_SHIP_malice: "Malice" #!Empty_LineInfo!
+	KEL_DOR_SHIP_menace: "Menace" #!Empty_LineInfo!
+	KEL_DOR_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	KEL_DOR_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	KEL_DOR_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	KEL_DOR_SHIP_predator: "Predator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	KEL_DOR_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_savage: "Savage" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	KEL_DOR_SHIP_templar: "Templar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_terror: "Terror" #!Empty_LineInfo!
+	KEL_DOR_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	KEL_DOR_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	KEL_DOR_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	KEL_DOR_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	KEL_DOR_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	KEL_DOR_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	KEL_DOR_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	KEL_DOR_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	KEL_DOR_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pike: "Pike" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_raider: "Raider" #!Empty_LineInfo!
+	KEL_DOR_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	KEL_DOR_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	KEL_DOR_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_robust: "Robust" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	KEL_DOR_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	KEL_DOR_SHIP_siren: "Siren" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	KEL_DOR_SHIP_specter: "Specter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	KEL_DOR_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	KEL_DOR_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	KEL_DOR_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_superb: "Superb" #!Empty_LineInfo!
+	KEL_DOR_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	KEL_DOR_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	KEL_DOR_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	KEL_DOR_SHIP_talent: "Talent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	KEL_DOR_SHIP_talon: "Talon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	KEL_DOR_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	KEL_DOR_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	KEL_DOR_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	KEL_DOR_SHIP_argus: "Argus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	KEL_DOR_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	KEL_DOR_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	KEL_DOR_SHIP_castor: "Castor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_circe: "Circe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	KEL_DOR_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	KEL_DOR_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_darius: "Darius" #!Empty_LineInfo!
+	KEL_DOR_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	KEL_DOR_SHIP_electra: "Electra" #!Empty_LineInfo!
+	KEL_DOR_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	KEL_DOR_SHIP_freya: "Freya" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hector: "Hector" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_janus: "Janus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_jason: "Jason" #!Empty_LineInfo!
+	KEL_DOR_SHIP_juno: "Juno" #!Empty_LineInfo!
+	KEL_DOR_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_leander: "Leander" #!Empty_LineInfo!
+	KEL_DOR_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	KEL_DOR_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mars: "Mars" #!Empty_LineInfo!
+	KEL_DOR_SHIP_medea: "Medea" #!Empty_LineInfo!
+	KEL_DOR_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	KEL_DOR_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	KEL_DOR_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	KEL_DOR_SHIP_minos: "Minos" #!Empty_LineInfo!
+	KEL_DOR_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	KEL_DOR_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_odin: "Odin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	KEL_DOR_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	KEL_DOR_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	KEL_DOR_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	KEL_DOR_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	KEL_DOR_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	KEL_DOR_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	KEL_DOR_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_thor: "Thor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_triton: "Triton" #!Empty_LineInfo!
+	KEL_DOR_SHIP_venus: "Venus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_assail: "Assail" #!Empty_LineInfo!
+	KEL_DOR_SHIP_austere: "Austere" #!Empty_LineInfo!
+	KEL_DOR_SHIP_archon: "Archon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	KEL_DOR_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	KEL_DOR_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	KEL_DOR_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_legion: "Legion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_assault: "Assault" #!Empty_LineInfo!
+	KEL_DOR_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	KEL_DOR_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_champion: "Champion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	KEL_DOR_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	KEL_DOR_SHIP_glory: "Glory" #!Empty_LineInfo!
+	KEL_DOR_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	KEL_DOR_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	KEL_DOR_SHIP_renown: "Renown" #!Empty_LineInfo!
+	KEL_DOR_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_executor: "Executor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_furious: "Furious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	KEL_DOR_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	KEL_DOR_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	KEL_DOR_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	KEL_DOR_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	KEL_DOR_SHIP_titan: "Titan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nike: "Nike" #!Empty_LineInfo!
+	KEL_DOR_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	KEL_DOR_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	KEL_DOR_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	KEL_DOR_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	KEL_DOR_SHIP_katana: "Katana" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	KEL_DOR_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	KEL_DOR_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	KEL_DOR_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	KEL_DOR_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	KEL_DOR_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	KEL_DOR_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_astute: "Astute" #!Empty_LineInfo!
+	KEL_DOR_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	KEL_DOR_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	KEL_DOR_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	KEL_DOR_SHIP_torch: "Torch" #!Empty_LineInfo!
+	KEL_DOR_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	KEL_DOR_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	KEL_DOR_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	KEL_DOR_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	KEL_DOR_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	KEL_DOR_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	KEL_DOR_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	KEL_DOR_SHIP_potential: "Potential" #!Empty_LineInfo!
+	KEL_DOR_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	KEL_DOR_SHIP_summit: "Summit" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	KEL_DOR_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	KEL_DOR_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_isis: "Isis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	KEL_DOR_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scion: "Scion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	KEL_DOR_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	KEL_DOR_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	KEL_DOR_SHIP_provider: "Provider" #!Empty_LineInfo!
+	KEL_DOR_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	KEL_DOR_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	KEL_DOR_SHIP_community: "Community" #!Empty_LineInfo!
+	KEL_DOR_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	KEL_DOR_SHIP_industry: "Industry" #!Empty_LineInfo!
+	KEL_DOR_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_effort: "Effort" #!Empty_LineInfo!
+	KEL_DOR_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_builder: "Builder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	KEL_DOR_SHIP_progress: "Progress" #!Empty_LineInfo!
+	KEL_DOR_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_promise: "Promise" #!Empty_LineInfo!
+	KEL_DOR_SHIP_service: "Service" #!Empty_LineInfo!
+	KEL_DOR_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	KEL_DOR_SHIP_beast: "Beast" #!Empty_LineInfo!
+	KEL_DOR_SHIP_creator: "Creator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_developer: "Developer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	KEL_DOR_SHIP_factory: "Factory" #!Empty_LineInfo!
+	KEL_DOR_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_architect: "Architect" #!Empty_LineInfo!
+	KEL_DOR_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	KEL_DOR_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	KEL_DOR_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	KEL_DOR_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	KEL_DOR_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_acre: "Acre" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	KEL_DOR_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	KEL_DOR_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	KEL_DOR_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	KEL_DOR_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	KEL_DOR_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	KEL_DOR_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	KEL_DOR_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	KEL_DOR_SHIP_newport: "Newport" #!Empty_LineInfo!
+	KEL_DOR_SHIP_guam: "Guam" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	KEL_DOR_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	KEL_DOR_SHIP_everest: "Everest" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	KEL_DOR_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	KEL_DOR_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	KEL_DOR_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	KEL_DOR_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	KEL_DOR_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	KEL_DOR_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	KEL_DOR_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	KEL_DOR_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	KEL_DOR_SHIP_perry: "Perry" #!Empty_LineInfo!
+	KEL_DOR_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	KEL_DOR_SHIP_morris: "Morris" #!Empty_LineInfo!
+	KEL_DOR_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hart: "Hart" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	KEL_DOR_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	KEL_DOR_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	KEL_DOR_SHIP_turner: "Turner" #!Empty_LineInfo!
+	KEL_DOR_SHIP_doria: "Doria" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	KEL_DOR_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	KEL_DOR_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	KEL_DOR_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	KEL_DOR_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_durham: "Durham" #!Empty_LineInfo!
+	KEL_DOR_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	KEL_DOR_SHIP_milne: "Milne" #!Empty_LineInfo!
+	KEL_DOR_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	KEL_DOR_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	KEL_DOR_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	KEL_DOR_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	KEL_DOR_SHIP_pound: "Pound" #!Empty_LineInfo!
+	KEL_DOR_SHIP_king: "King" #!Empty_LineInfo!
+	KEL_DOR_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	KEL_DOR_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	KEL_DOR_SHIP_essen: "Essen" #!Empty_LineInfo!
+	KEL_DOR_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	KEL_DOR_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	KEL_DOR_SHIP_treville: "Treville" #!Empty_LineInfo!
+	KEL_DOR_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	KEL_DOR_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	KEL_DOR_SHIP_byng: "Byng" #!Empty_LineInfo!
+	KEL_DOR_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	KEL_DOR_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	KEL_DOR_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	KEL_DOR_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	KEL_DOR_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	KEL_DOR_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	KEL_DOR_FLEET_armada_ORD: "$ORD$ Armada" #!Empty_LineInfo!
+	KEL_DOR_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	KEL_DOR_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	KEL_DOR_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	KEL_DOR_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	KEL_DOR_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	KEL_DOR_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	KEL_DOR_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	KEL_DOR_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	KEL_DOR_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	KEL_DOR_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	KEL_DOR_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	KEL_DOR_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	KEL_DOR_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	KEL_DOR_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	KEL_DOR_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	KEL_DOR_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	KEL_DOR_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	KEL_DOR_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	KEL_DOR_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	KEL_DOR_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	KEL_DOR_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	KEL_DOR_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	KEL_DOR_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	KEL_DOR_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	KEL_DOR_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	KEL_DOR_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	KEL_DOR_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	KEL_DOR_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	KEL_DOR_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	KEL_DOR_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	KEL_DOR_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	KEL_DOR_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	KEL_DOR_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	KEL_DOR_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	KEL_DOR_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	KEL_DOR_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	KEL_DOR_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	KEL_DOR_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	KEL_DOR_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	KEL_DOR_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	KEL_DOR_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	KEL_DOR_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	KEL_DOR_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	KEL_DOR_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	KEL_DOR_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	KEL_DOR_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	KEL_DOR_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	KEL_DOR_CHR_bail: "Bail" #!Empty_LineInfo!
+	KEL_DOR_CHR_ylenic: "Ylenic" #!Empty_LineInfo!
+	KEL_DOR_CHR_kel: "Kel" #!Empty_LineInfo!
+	KEL_DOR_CHR_gunn: "Gunn" #!Empty_LineInfo!
+	KEL_DOR_CHR_gregory: "Gregory" #!Empty_LineInfo!
+	KEL_DOR_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
+	KEL_DOR_CHR_jonas: "Jonas" #!Empty_LineInfo!
+	KEL_DOR_CHR_xerda: "Xerda" #!Empty_LineInfo!
+	KEL_DOR_CHR_carth: "Carth" #!Empty_LineInfo!
+	KEL_DOR_CHR_kir: "Kir" #!Empty_LineInfo!
+	KEL_DOR_CHR_mebba: "Mebba" #!Empty_LineInfo!
+	KEL_DOR_CHR_dagos: "Dagos" #!Empty_LineInfo!
+	KEL_DOR_CHR_adam: "Adam" #!Empty_LineInfo!
+	KEL_DOR_CHR_kyle: "Kyle" #!Empty_LineInfo!
+	KEL_DOR_CHR_forren: "Forren" #!Empty_LineInfo!
+	KEL_DOR_CHR_malcolm: "Malcolm" #!Empty_LineInfo!
+	KEL_DOR_CHR_jeho: "Jeho" #!Empty_LineInfo!
+	KEL_DOR_CHR_lee: "Lee" #!Empty_LineInfo!
+	KEL_DOR_CHR_griggs: "Griggs" #!Empty_LineInfo!
+	KEL_DOR_CHR_milo: "Milo" #!Empty_LineInfo!
+	KEL_DOR_CHR_aeron: "Aeron" #!Empty_LineInfo!
+	KEL_DOR_CHR_byrec: "Byrec" #!Empty_LineInfo!
+	KEL_DOR_CHR_strata: "Strata" #!Empty_LineInfo!
+	KEL_DOR_CHR_lancer: "Lancer" #!Empty_LineInfo!
+	KEL_DOR_CHR_zeak: "Zeak" #!Empty_LineInfo!
+	KEL_DOR_CHR_niuk: "Niuk" #!Empty_LineInfo!
+	KEL_DOR_CHR_lavidean: "Lavidean" #!Empty_LineInfo!
+	KEL_DOR_CHR_tanizandar: "Tanizandar" #!Empty_LineInfo!
+	KEL_DOR_CHR_japla: "Japla" #!Empty_LineInfo!
+	KEL_DOR_CHR_aran: "Aran" #!Empty_LineInfo!
+	KEL_DOR_CHR_rail: "Rail" #!Empty_LineInfo!
+	KEL_DOR_CHR_zeven: "Zeven" #!Empty_LineInfo!
+	KEL_DOR_CHR_yakown: "Yakown" #!Empty_LineInfo!
+	KEL_DOR_CHR_sibar: "Sibar" #!Empty_LineInfo!
+	KEL_DOR_CHR_sair: "Sair" #!Empty_LineInfo!
+	KEL_DOR_CHR_klai: "Klai" #!Empty_LineInfo!
+	KEL_DOR_CHR_imay: "Imay" #!Empty_LineInfo!
+	KEL_DOR_CHR_traest: "Traest" #!Empty_LineInfo!
+	KEL_DOR_CHR_simo: "Simo" #!Empty_LineInfo!
+	KEL_DOR_CHR_riyan: "Riyan" #!Empty_LineInfo!
+	KEL_DOR_CHR_magnus: "Magnus" #!Empty_LineInfo!
+	KEL_DOR_CHR_boceta: "Boceta" #!Empty_LineInfo!
+	KEL_DOR_CHR_agnook: "Agnook" #!Empty_LineInfo!
+	KEL_DOR_CHR_silus: "Silus" #!Empty_LineInfo!
+	KEL_DOR_CHR_rowan: "Rowan" #!Empty_LineInfo!
+	KEL_DOR_CHR_coren: "Coren" #!Empty_LineInfo!
+	KEL_DOR_CHR_jett: "Jett" #!Empty_LineInfo!
+	KEL_DOR_CHR_linth: "Linth" #!Empty_LineInfo!
+	KEL_DOR_CHR_annor: "Annor" #!Empty_LineInfo!
+	KEL_DOR_CHR_ulas: "Ulas" #!Empty_LineInfo!
+	KEL_DOR_CHR_fenn: "Fenn" #!Empty_LineInfo!
+	KEL_DOR_CHR_tal: "Tal" #!Empty_LineInfo!
+	KEL_DOR_CHR_plo: "Plo" #!Empty_LineInfo!
+	KEL_DOR_CHR_torin: "Torin" #!Empty_LineInfo!
+	KEL_DOR_CHR_boone: "Boone" #!Empty_LineInfo!
+	KEL_DOR_CHR_davith: "Davith" #!Empty_LineInfo!
+	KEL_DOR_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
+	KEL_DOR_CHR_bertos: "Bertos" #!Empty_LineInfo!
+	KEL_DOR_CHR_ress: "Ress" #!Empty_LineInfo!
+	KEL_DOR_CHR_malius: "Malius" #!Empty_LineInfo!
+	KEL_DOR_CHR_kale: "Kale" #!Empty_LineInfo!
+	KEL_DOR_CHR_cregan: "Cregan" #!Empty_LineInfo!
+	KEL_DOR_CHR_galen: "Galen" #!Empty_LineInfo!
+	KEL_DOR_CHR_zekk: "Zekk" #!Empty_LineInfo!
+	KEL_DOR_CHR_jinn_tu: "Jinn-Tu" #!Empty_LineInfo!
+	KEL_DOR_CHR_jaryn: "Jaryn" #!Empty_LineInfo!
+	KEL_DOR_CHR_gentti: "Gentti" #!Empty_LineInfo!
+	KEL_DOR_CHR_yu_sien: "Yu-Sien" #!Empty_LineInfo!
+	KEL_DOR_CHR_akela: "Akela" #!Empty_LineInfo!
+	KEL_DOR_CHR_arslan: "Arslan" #!Empty_LineInfo!
+	KEL_DOR_CHR_sidias: "Sidias" #!Empty_LineInfo!
+	KEL_DOR_CHR_haken: "Haken" #!Empty_LineInfo!
+	KEL_DOR_CHR_biran: "Biran" #!Empty_LineInfo!
+	KEL_DOR_CHR_vidown: "Vidown" #!Empty_LineInfo!
+	KEL_DOR_CHR_ares: "Ares" #!Empty_LineInfo!
+	KEL_DOR_CHR_ithan: "Ithan" #!Empty_LineInfo!
+	KEL_DOR_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
+	KEL_DOR_CHR_thoja: "Thoja" #!Empty_LineInfo!
+	KEL_DOR_CHR_cron: "Cron" #!Empty_LineInfo!
+	KEL_DOR_CHR_mossi: "Mossi" #!Empty_LineInfo!
+	KEL_DOR_CHR_abric: "Abric" #!Empty_LineInfo!
+	KEL_DOR_CHR_darg: "Darg" #!Empty_LineInfo!
+	KEL_DOR_CHR_gaman: "Gaman" #!Empty_LineInfo!
+	KEL_DOR_CHR_naiad: "Naiad" #!Empty_LineInfo!
+	KEL_DOR_CHR_herub: "Herub" #!Empty_LineInfo!
+	KEL_DOR_CHR_marius: "Marius" #!Empty_LineInfo!
+	KEL_DOR_CHR_torkin: "Torkin" #!Empty_LineInfo!
+	KEL_DOR_CHR_caton: "Caton" #!Empty_LineInfo!
+	KEL_DOR_CHR_kane: "Kane" #!Empty_LineInfo!
+	KEL_DOR_CHR_versita: "Versita" #!Empty_LineInfo!
+	KEL_DOR_CHR_cric: "Cric" #!Empty_LineInfo!
+	KEL_DOR_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
+	KEL_DOR_CHR_montacca: "Montacca" #!Empty_LineInfo!
+	KEL_DOR_CHR_jospi: "Jospi" #!Empty_LineInfo!
+	KEL_DOR_CHR_baz: "Baz" #!Empty_LineInfo!
+	KEL_DOR_CHR_kam: "Kam" #!Empty_LineInfo!
+	KEL_DOR_CHR_erek: "Erek" #!Empty_LineInfo!
+	KEL_DOR_CHR_lerak: "Lerak" #!Empty_LineInfo!
+	KEL_DOR_CHR_morla: "Morla" #!Empty_LineInfo!
+	KEL_DOR_CHR_baxter: "Baxter" #!Empty_LineInfo!
+	KEL_DOR_CHR_talan: "Talan" #!Empty_LineInfo!
+	KEL_DOR_CHR_thion: "Thion" #!Empty_LineInfo!
+	KEL_DOR_CHR_kannon: "Kannon" #!Empty_LineInfo!
+	KEL_DOR_CHR_corsair: "Corsair" #!Empty_LineInfo!
+	KEL_DOR_CHR_caster: "Caster" #!Empty_LineInfo!
+	KEL_DOR_CHR_elden: "Elden" #!Empty_LineInfo!
+	KEL_DOR_CHR_faelgrom: "Faelgrom" #!Empty_LineInfo!
+	KEL_DOR_CHR_jack: "Jack" #!Empty_LineInfo!
+	KEL_DOR_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
+	KEL_DOR_CHR_flash: "Flash" #!Empty_LineInfo!
+	KEL_DOR_CHR_waseem: "Waseem" #!Empty_LineInfo!
+	KEL_DOR_CHR_bendak: "Bendak" #!Empty_LineInfo!
+	KEL_DOR_CHR_kaz: "Kaz" #!Empty_LineInfo!
+	KEL_DOR_CHR_montileu: "Montileu" #!Empty_LineInfo!
+	KEL_DOR_CHR_gonoga: "Gonoga" #!Empty_LineInfo!
+	KEL_DOR_CHR_galven: "Galven" #!Empty_LineInfo!
+	KEL_DOR_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
+	KEL_DOR_CHR_ric: "Ric" #!Empty_LineInfo!
+	KEL_DOR_CHR_rebar: "Rebar" #!Empty_LineInfo!
+	KEL_DOR_CHR_jebediah: "Jebediah" #!Empty_LineInfo!
+	KEL_DOR_CHR_aramil: "Aramil" #!Empty_LineInfo!
+	KEL_DOR_CHR_delmi: "Delmi" #!Empty_LineInfo!
+	KEL_DOR_CHR_caalin: "Caalin" #!Empty_LineInfo!
+	KEL_DOR_CHR_rassth: "Rassth" #!Empty_LineInfo!
+	KEL_DOR_CHR_adorn: "Adorn" #!Empty_LineInfo!
+	KEL_DOR_CHR_cyrus: "Cyrus" #!Empty_LineInfo!
+	KEL_DOR_CHR_zhar_khan: "Zhar-Khan" #!Empty_LineInfo!
+	KEL_DOR_CHR_predor: "Predor" #!Empty_LineInfo!
+	KEL_DOR_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
+	KEL_DOR_CHR_boaz: "Boaz" #!Empty_LineInfo!
+	KEL_DOR_CHR_bradley: "Bradley" #!Empty_LineInfo!
+	KEL_DOR_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
+	KEL_DOR_CHR_bobecc: "Bobecc" #!Empty_LineInfo!
+	KEL_DOR_CHR_jelantos: "Jelantos" #!Empty_LineInfo!
+	KEL_DOR_CHR_jephego: "Jephego" #!Empty_LineInfo!
+	KEL_DOR_CHR_svante: "Svante" #!Empty_LineInfo!
+	KEL_DOR_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
+	KEL_DOR_CHR_aeon: "Aeon" #!Empty_LineInfo!
+	KEL_DOR_CHR_dekar: "Dekar" #!Empty_LineInfo!
+	KEL_DOR_CHR_jean_francois: "Jean-Francois" #!Empty_LineInfo!
+	KEL_DOR_CHR_elen: "Elen" #!Empty_LineInfo!
+	KEL_DOR_CHR_han: "Han" #!Empty_LineInfo!
+	KEL_DOR_CHR_owen: "Owen" #!Empty_LineInfo!
+	KEL_DOR_CHR_biggs: "Biggs" #!Empty_LineInfo!
+	KEL_DOR_CHR_charratha: "Charratha" #!Empty_LineInfo!
+	KEL_DOR_CHR_edaara: "Edaara" #!Empty_LineInfo!
+	KEL_DOR_CHR_bella: "Bella" #!Empty_LineInfo!
+	KEL_DOR_CHR_callista: "Callista" #!Empty_LineInfo!
+	KEL_DOR_CHR_mara: "Mara" #!Empty_LineInfo!
+	KEL_DOR_CHR_seena: "Seena" #!Empty_LineInfo!
+	KEL_DOR_CHR_areta: "Areta" #!Empty_LineInfo!
+	KEL_DOR_CHR_cord: "Cord" #!Empty_LineInfo!
+	KEL_DOR_CHR_cyrinity: "Cyrinity" #!Empty_LineInfo!
+	KEL_DOR_CHR_nile: "Nile" #!Empty_LineInfo!
+	KEL_DOR_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
+	KEL_DOR_CHR_yasmyn: "Yasmyn" #!Empty_LineInfo!
+	KEL_DOR_CHR_satra: "Satra" #!Empty_LineInfo!
+	KEL_DOR_CHR_shehish: "Shehish" #!Empty_LineInfo!
+	KEL_DOR_CHR_sarna: "Sarna" #!Empty_LineInfo!
+	KEL_DOR_CHR_krava: "Krava" #!Empty_LineInfo!
+	KEL_DOR_CHR_roxis: "Roxis" #!Empty_LineInfo!
+	KEL_DOR_CHR_jessa: "Jessa" #!Empty_LineInfo!
+	KEL_DOR_CHR_aqua: "Aqua" #!Empty_LineInfo!
+	KEL_DOR_CHR_maryna: "Maryna" #!Empty_LineInfo!
+	KEL_DOR_CHR_essaj: "Essaj" #!Empty_LineInfo!
+	KEL_DOR_CHR_looriw: "Looriw" #!Empty_LineInfo!
+	KEL_DOR_CHR_teeana: "Teeana" #!Empty_LineInfo!
+	KEL_DOR_CHR_raena: "Raena" #!Empty_LineInfo!
+	KEL_DOR_CHR_yula: "Yula" #!Empty_LineInfo!
+	KEL_DOR_CHR_vifi: "Vifi" #!Empty_LineInfo!
+	KEL_DOR_CHR_vania: "Vania" #!Empty_LineInfo!
+	KEL_DOR_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
+	KEL_DOR_CHR_aerena: "Aerena" #!Empty_LineInfo!
+	KEL_DOR_CHR_nataya: "Nataya" #!Empty_LineInfo!
+	KEL_DOR_CHR_bernarda: "Bernarda" #!Empty_LineInfo!
+	KEL_DOR_CHR_geela: "Geela" #!Empty_LineInfo!
+	KEL_DOR_CHR_lya: "Lya" #!Empty_LineInfo!
+	KEL_DOR_CHR_sirra: "Sirra" #!Empty_LineInfo!
+	KEL_DOR_CHR_teris: "Teris" #!Empty_LineInfo!
+	KEL_DOR_CHR_terral: "Terral" #!Empty_LineInfo!
+	KEL_DOR_CHR_riema: "Riema" #!Empty_LineInfo!
+	KEL_DOR_CHR_erri: "Erri" #!Empty_LineInfo!
+	KEL_DOR_CHR_shanna: "Shanna" #!Empty_LineInfo!
+	KEL_DOR_CHR_lyra: "Lyra" #!Empty_LineInfo!
+	KEL_DOR_CHR_pranda: "Pranda" #!Empty_LineInfo!
+	KEL_DOR_CHR_luna: "Luna" #!Empty_LineInfo!
+	KEL_DOR_CHR_cally: "Cally" #!Empty_LineInfo!
+	KEL_DOR_CHR_viqi: "Viqi" #!Empty_LineInfo!
+	KEL_DOR_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
+	KEL_DOR_CHR_lora: "Lora" #!Empty_LineInfo!
+	KEL_DOR_CHR_selena: "Selena" #!Empty_LineInfo!
+	KEL_DOR_CHR_zana: "Zana" #!Empty_LineInfo!
+	KEL_DOR_CHR_tuija: "Tuija" #!Empty_LineInfo!
+	KEL_DOR_CHR_railin: "Railin" #!Empty_LineInfo!
+	KEL_DOR_CHR_odona: "Odona" #!Empty_LineInfo!
+	KEL_DOR_CHR_shyon: "Shyon" #!Empty_LineInfo!
+	KEL_DOR_CHR_walas: "Walas" #!Empty_LineInfo!
+	KEL_DOR_CHR_rylla: "Rylla" #!Empty_LineInfo!
+	KEL_DOR_CHR_gara: "Gara" #!Empty_LineInfo!
+	KEL_DOR_CHR_delos: "Delos" #!Empty_LineInfo!
+	KEL_DOR_CHR_loretta: "Loretta" #!Empty_LineInfo!
+	KEL_DOR_CHR_luhon: "Luhon" #!Empty_LineInfo!
+	KEL_DOR_CHR_delinia: "Delinia" #!Empty_LineInfo!
+	KEL_DOR_CHR_aama: "Aama" #!Empty_LineInfo!
+	KEL_DOR_CHR_shorya: "Shorya" #!Empty_LineInfo!
+	KEL_DOR_CHR_melfina: "Melfina" #!Empty_LineInfo!
+	KEL_DOR_CHR_davessi: "Davessi" #!Empty_LineInfo!
+	KEL_DOR_CHR_larana: "Larana" #!Empty_LineInfo!
+	KEL_DOR_CHR_galatea: "Galatea" #!Empty_LineInfo!
+	KEL_DOR_CHR_nola: "Nola" #!Empty_LineInfo!
+	KEL_DOR_CHR_syna: "Syna" #!Empty_LineInfo!
+	KEL_DOR_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
+	KEL_DOR_CHR_anen: "Anen" #!Empty_LineInfo!
+	KEL_DOR_CHR_orona: "Orona" #!Empty_LineInfo!
+	KEL_DOR_CHR_yana: "Yana" #!Empty_LineInfo!
+	KEL_DOR_CHR_zoras: "Zoras" #!Empty_LineInfo!
+	KEL_DOR_CHR_ree: "Ree" #!Empty_LineInfo!
+	KEL_DOR_CHR_grace: "Grace" #!Empty_LineInfo!
+	KEL_DOR_CHR_tantema: "Tantema" #!Empty_LineInfo!
+	KEL_DOR_CHR_myn: "Myn" #!Empty_LineInfo!
+	KEL_DOR_CHR_una: "Una" #!Empty_LineInfo!
+	KEL_DOR_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
+	KEL_DOR_CHR_losa: "Losa" #!Empty_LineInfo!
+	KEL_DOR_CHR_sovi: "Sovi" #!Empty_LineInfo!
+	KEL_DOR_CHR_elaiza: "Elaiza" #!Empty_LineInfo!
+	KEL_DOR_CHR_vucora: "Vucora" #!Empty_LineInfo!
+	KEL_DOR_CHR_ava: "Ava" #!Empty_LineInfo!
+	KEL_DOR_CHR_joi: "Joi" #!Empty_LineInfo!
+	KEL_DOR_CHR_stryka: "Stryka" #!Empty_LineInfo!
+	KEL_DOR_CHR_shandra: "Shandra" #!Empty_LineInfo!
+	KEL_DOR_CHR_kely: "Kely" #!Empty_LineInfo!
+	KEL_DOR_CHR_caileta: "Caileta" #!Empty_LineInfo!
+	KEL_DOR_CHR_taia: "Taia" #!Empty_LineInfo!
+	KEL_DOR_CHR_siala: "Siala" #!Empty_LineInfo!
+	KEL_DOR_CHR_reki: "Reki" #!Empty_LineInfo!
+	KEL_DOR_CHR_maydla: "Maydla" #!Empty_LineInfo!
+	KEL_DOR_CHR_bot: "Bot" #!Empty_LineInfo!
+	KEL_DOR_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
+	KEL_DOR_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
+	KEL_DOR_CHR_zulara: "Zulara" #!Empty_LineInfo!
+	KEL_DOR_CHR_ren: "Ren" #!Empty_LineInfo!
+	KEL_DOR_CHR_karissa: "Karissa" #!Empty_LineInfo!
+	KEL_DOR_CHR_haruko: "Haruko" #!Empty_LineInfo!
+	KEL_DOR_CHR_jenna: "Jenna" #!Empty_LineInfo!
+	KEL_DOR_CHR_liana: "Liana" #!Empty_LineInfo!
+	KEL_DOR_CHR_rale: "Rale" #!Empty_LineInfo!
+	KEL_DOR_CHR_megara: "Megara" #!Empty_LineInfo!
+	KEL_DOR_CHR_aria: "Aria" #!Empty_LineInfo!
+	KEL_DOR_CHR_akiva: "Akiva" #!Empty_LineInfo!
+	KEL_DOR_CHR_nalah: "Nalah" #!Empty_LineInfo!
+	KEL_DOR_CHR_erlem: "Erlem" #!Empty_LineInfo!
+	KEL_DOR_CHR_nali: "Nali" #!Empty_LineInfo!
+	KEL_DOR_CHR_fallah: "Fallah" #!Empty_LineInfo!
+	KEL_DOR_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
+	KEL_DOR_CHR_aayla: "Aayla" #!Empty_LineInfo!
+	KEL_DOR_CHR_kalira: "Kalira" #!Empty_LineInfo!
+	KEL_DOR_CHR_arani: "Arani" #!Empty_LineInfo!
+	KEL_DOR_CHR_fama: "Fama" #!Empty_LineInfo!
+	KEL_DOR_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
+	KEL_DOR_CHR_arcas: "Arcas" #!Empty_LineInfo!
+	KEL_DOR_CHR_rane: "Rane" #!Empty_LineInfo!
+	KEL_DOR_CHR_nayru: "Nayru" #!Empty_LineInfo!
+	KEL_DOR_CHR_zylas: "Zylas" #!Empty_LineInfo!
+	KEL_DOR_CHR_vexa: "Vexa" #!Empty_LineInfo!
+	KEL_DOR_CHR_kana: "Kana" #!Empty_LineInfo!
+	KEL_DOR_CHR_beru: "Beru" #!Empty_LineInfo!
+	KEL_DOR_CHR_elysar: "Elysar" #!Empty_LineInfo!
+	KEL_DOR_CHR_tisa: "Tisa" #!Empty_LineInfo!
+	KEL_DOR_CHR_wahia: "Wahia" #!Empty_LineInfo!
+	KEL_DOR_CHR_wezz: "Wezz" #!Empty_LineInfo!
+	KEL_DOR_CHR_unic: "Unic" #!Empty_LineInfo!
+	KEL_DOR_CHR_tiovata: "Tiovata" #!Empty_LineInfo!
+	KEL_DOR_CHR_nakcohh: "Nakcohh" #!Empty_LineInfo!
+	KEL_DOR_CHR_vitaan: "Vitaan" #!Empty_LineInfo!
+	KEL_DOR_CHR_mefrid: "Mefrid" #!Empty_LineInfo!
+	KEL_DOR_CHR_daklan: "Daklan" #!Empty_LineInfo!
+	KEL_DOR_CHR_kenzee: "Kenzee" #!Empty_LineInfo!
+	KEL_DOR_CHR_joben: "Joben" #!Empty_LineInfo!
+	KEL_DOR_CHR_thegas: "Thegas" #!Empty_LineInfo!
+	KEL_DOR_CHR_moryne: "Moryne" #!Empty_LineInfo!
+	KEL_DOR_CHR_holgor: "Holgor" #!Empty_LineInfo!
+	KEL_DOR_CHR_ijaaz: "Ijaaz" #!Empty_LineInfo!
+	KEL_DOR_CHR_tromans: "Tromans" #!Empty_LineInfo!
+	KEL_DOR_CHR_sprax: "Sprax" #!Empty_LineInfo!
+	KEL_DOR_CHR_knesos: "Knesos" #!Empty_LineInfo!
+	KEL_DOR_CHR_lasek: "Lasek" #!Empty_LineInfo!
+	KEL_DOR_CHR_artis: "Artis" #!Empty_LineInfo!
+	KEL_DOR_CHR_pax: "Pax" #!Empty_LineInfo!
+	KEL_DOR_CHR_corso: "Corso" #!Empty_LineInfo!
+	KEL_DOR_CHR_fallon: "Fallon" #!Empty_LineInfo!
+	KEL_DOR_CHR_gundo: "Gundo" #!Empty_LineInfo!
+	KEL_DOR_CHR_ruana: "Ruana" #!Empty_LineInfo!
+	KEL_DOR_CHR_fremlin: "Fremlin" #!Empty_LineInfo!
+	KEL_DOR_CHR_thont: "Thont" #!Empty_LineInfo!
+	KEL_DOR_CHR_creel: "Creel" #!Empty_LineInfo!
+	KEL_DOR_CHR_rar: "Rar" #!Empty_LineInfo!
+	KEL_DOR_CHR_dusat: "Dusat" #!Empty_LineInfo!
+	KEL_DOR_CHR_kessler: "Kessler" #!Empty_LineInfo!
+	KEL_DOR_CHR_shaia: "Shaia" #!Empty_LineInfo!
+	KEL_DOR_CHR_el_theriam: "El-Theriam" #!Empty_LineInfo!
+	KEL_DOR_CHR_vanmeer: "VanMeer" #!Empty_LineInfo!
+	KEL_DOR_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
+	KEL_DOR_CHR_calway: "Calway" #!Empty_LineInfo!
+	KEL_DOR_CHR_yamaguchi: "Yamaguchi" #!Empty_LineInfo!
+	KEL_DOR_CHR_riggers: "Riggers" #!Empty_LineInfo!
+	KEL_DOR_CHR_brower: "Brower" #!Empty_LineInfo!
+	KEL_DOR_CHR_fash: "Fash" #!Empty_LineInfo!
+	KEL_DOR_CHR_nalto: "Nalto" #!Empty_LineInfo!
+	KEL_DOR_CHR_stryder: "Stryder" #!Empty_LineInfo!
+	KEL_DOR_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
+	KEL_DOR_CHR_colsan: "Colsan" #!Empty_LineInfo!
+	KEL_DOR_CHR_terrek: "Terrek" #!Empty_LineInfo!
+	KEL_DOR_CHR_solon: "Solon" #!Empty_LineInfo!
+	KEL_DOR_CHR_merquise: "Merquise" #!Empty_LineInfo!
+	KEL_DOR_CHR_varn: "Varn" #!Empty_LineInfo!
+	KEL_DOR_CHR_basai: "Basai" #!Empty_LineInfo!
+	KEL_DOR_CHR_froud: "Froud" #!Empty_LineInfo!
+	KEL_DOR_CHR_addacess: "Addacess" #!Empty_LineInfo!
+	KEL_DOR_CHR_durgen: "Durgen" #!Empty_LineInfo!
+	KEL_DOR_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
+	KEL_DOR_CHR_remex: "Remex" #!Empty_LineInfo!
+	KEL_DOR_CHR_madowki: "Madowki" #!Empty_LineInfo!
+	KEL_DOR_CHR_hayes: "Hayes" #!Empty_LineInfo!
+	KEL_DOR_CHR_ne: "Ne" #!Empty_LineInfo!
+	KEL_DOR_CHR_dago: "Dago" #!Empty_LineInfo!
+	KEL_DOR_CHR_greenback: "Greenback" #!Empty_LineInfo!
+	KEL_DOR_CHR_stithta: "Stithta" #!Empty_LineInfo!
+	KEL_DOR_CHR_ker: "Ker" #!Empty_LineInfo!
+	KEL_DOR_CHR_driet: "Driet" #!Empty_LineInfo!
+	KEL_DOR_CHR_klakk: "Klakk" #!Empty_LineInfo!
+	KEL_DOR_CHR_reed: "Reed" #!Empty_LineInfo!
+	KEL_DOR_CHR_lefex: "Lefex" #!Empty_LineInfo!
+	KEL_DOR_CHR_minn: "Minn" #!Empty_LineInfo!
+	KEL_DOR_CHR_irokini: "Irokini" #!Empty_LineInfo!
+	KEL_DOR_CHR_roye: "Roye" #!Empty_LineInfo!
+	KEL_DOR_CHR_danakar: "Danakar" #!Empty_LineInfo!
+	KEL_DOR_CHR_forin: "Forin" #!Empty_LineInfo!
+	KEL_DOR_CHR_glopio: "Glopio" #!Empty_LineInfo!
+	KEL_DOR_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
+	KEL_DOR_CHR_corcer: "Corcer" #!Empty_LineInfo!
+	KEL_DOR_CHR_ordo: "Ordo" #!Empty_LineInfo!
+	KEL_DOR_CHR_wan: "Wan" #!Empty_LineInfo!
+	KEL_DOR_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
+	KEL_DOR_CHR_golladio: "Golladio" #!Empty_LineInfo!
+	KEL_DOR_CHR_adramcsia: "Adramcsia" #!Empty_LineInfo!
+	KEL_DOR_CHR_jetberg: "Jetberg" #!Empty_LineInfo!
+	KEL_DOR_CHR_noth: "Noth" #!Empty_LineInfo!
+	KEL_DOR_CHR_taske: "Taske" #!Empty_LineInfo!
+	KEL_DOR_CHR_komo: "Komo" #!Empty_LineInfo!
+	KEL_DOR_CHR_styles: "Styles" #!Empty_LineInfo!
+	KEL_DOR_CHR_angavel: "Angavel" #!Empty_LineInfo!
+	KEL_DOR_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
+	KEL_DOR_CHR_yavoog: "Yavoog" #!Empty_LineInfo!
+	KEL_DOR_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
+	KEL_DOR_CHR_racto: "Racto" #!Empty_LineInfo!
+	KEL_DOR_CHR_degor: "Degor" #!Empty_LineInfo!
+	KEL_DOR_CHR_magre: "Magre" #!Empty_LineInfo!
+	KEL_DOR_CHR_soylon: "Soylon" #!Empty_LineInfo!
+	KEL_DOR_CHR_lerann: "Lerann" #!Empty_LineInfo!
+	KEL_DOR_CHR_chro: "Chro" #!Empty_LineInfo!
+	KEL_DOR_CHR_finn: "Finn" #!Empty_LineInfo!
+	KEL_DOR_CHR_blackmoor: "Blackmoor" #!Empty_LineInfo!
+	KEL_DOR_CHR_hwang: "Hwang" #!Empty_LineInfo!
+	KEL_DOR_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
+	KEL_DOR_CHR_amon: "Amon" #!Empty_LineInfo!
+	KEL_DOR_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
+	KEL_DOR_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
+	KEL_DOR_CHR_gilder: "Gilder" #!Empty_LineInfo!
+	KEL_DOR_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
+	KEL_DOR_CHR_kodd: "Kodd" #!Empty_LineInfo!
+	KEL_DOR_CHR_morin: "Morin" #!Empty_LineInfo!
+	KEL_DOR_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
+	KEL_DOR_CHR_tade: "Tade" #!Empty_LineInfo!
+	KEL_DOR_CHR_solman: "Solman" #!Empty_LineInfo!
+	KEL_DOR_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
+	KEL_DOR_CHR_marclonus: "Marclonus" #!Empty_LineInfo!
+	KEL_DOR_CHR_precore: "Precore" #!Empty_LineInfo!
+	KEL_DOR_CHR_solborne: "Solborne" #!Empty_LineInfo!
+	KEL_DOR_CHR_bailer: "Bailer" #!Empty_LineInfo!
+	KEL_DOR_CHR_katarn: "Katarn" #!Empty_LineInfo!
+	KEL_DOR_CHR_anjek: "Anjek" #!Empty_LineInfo!
+	KEL_DOR_CHR_dalgas: "Dalgas" #!Empty_LineInfo!
+	KEL_DOR_CHR_kast: "Kast" #!Empty_LineInfo!
+	KEL_DOR_CHR_airerith: "Airerith" #!Empty_LineInfo!
+	KEL_DOR_CHR_halo: "Halo" #!Empty_LineInfo!
+	KEL_DOR_CHR_clash: "Clash" #!Empty_LineInfo!
+	KEL_DOR_CHR_jalba: "Jalba" #!Empty_LineInfo!
+	KEL_DOR_CHR_benn: "Benn" #!Empty_LineInfo!
+	KEL_DOR_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
+	KEL_DOR_CHR_roice: "Roice" #!Empty_LineInfo!
+	KEL_DOR_CHR_lokar: "Lokar" #!Empty_LineInfo!
+	KEL_DOR_CHR_korpil: "Korpil" #!Empty_LineInfo!
+	KEL_DOR_CHR_turon: "Turon" #!Empty_LineInfo!
+	KEL_DOR_CHR_cavi: "Cavi" #!Empty_LineInfo!
+	KEL_DOR_CHR_deece: "Deece" #!Empty_LineInfo!
+	KEL_DOR_CHR_braitano: "Braitano" #!Empty_LineInfo!
+	KEL_DOR_CHR_garnik: "Garnik" #!Empty_LineInfo!
+	KEL_DOR_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
+	KEL_DOR_CHR_ka_taramas: "Ka'Taramas" #!Empty_LineInfo!
+	KEL_DOR_CHR_nuwest: "Nuwest" #!Empty_LineInfo!
+	KEL_DOR_CHR_forte: "Forte" #!Empty_LineInfo!
+	KEL_DOR_CHR_noshey: "Noshey" #!Empty_LineInfo!
+	KEL_DOR_CHR_gyyll: "Gyyll" #!Empty_LineInfo!
+	KEL_DOR_CHR_tallon: "Tallon" #!Empty_LineInfo!
+	KEL_DOR_CHR_lionne: "Lionne" #!Empty_LineInfo!
+	KEL_DOR_CHR_adras: "Adras" #!Empty_LineInfo!
+	KEL_DOR_CHR_peoly: "Peoly" #!Empty_LineInfo!
+	KEL_DOR_CHR_damiel: "Damiel" #!Empty_LineInfo!
+	KEL_DOR_CHR_chup_pau: "Chup-Pau" #!Empty_LineInfo!
+	KEL_DOR_CHR_drayven: "Drayven" #!Empty_LineInfo!
+	KEL_DOR_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
+	KEL_DOR_CHR_bela_trepada: "Bela-Trepada" #!Empty_LineInfo!
+	KEL_DOR_CHR_defelice: "Defelice" #!Empty_LineInfo!
+	KEL_DOR_CHR_monsula: "Monsula" #!Empty_LineInfo!
+	KEL_DOR_CHR_baralein: "Baralein" #!Empty_LineInfo!
+	KEL_DOR_CHR_denive: "Denive" #!Empty_LineInfo!
+	KEL_DOR_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
+	KEL_DOR_CHR_xergo: "Xergo" #!Empty_LineInfo!
+	KEL_DOR_CHR_sarat: "Sarat" #!Empty_LineInfo!
+	KEL_DOR_CHR_vercet: "Vercet" #!Empty_LineInfo!
+	KEL_DOR_CHR_ossaki: "Ossaki" #!Empty_LineInfo!
+	KEL_DOR_CHR_kappa: "Kappa" #!Empty_LineInfo!
+	KEL_DOR_CHR_zerga: "Zerga" #!Empty_LineInfo!
+	KEL_DOR_CHR_kopos: "Kopos" #!Empty_LineInfo!
+	KEL_DOR_CHR_aldrecht: "Aldrecht" #!Empty_LineInfo!
+	KEL_DOR_CHR_bohme: "Bohme" #!Empty_LineInfo!
+	KEL_DOR_CHR_tull: "Tull" #!Empty_LineInfo!
+	KEL_DOR_CHR_eldrel: "Eldrel" #!Empty_LineInfo!
+	KEL_DOR_CHR_marh: "Marh" #!Empty_LineInfo!
+	KEL_DOR_CHR_darksword: "Darksword" #!Empty_LineInfo!
+	KEL_DOR_CHR_krandor: "Krandor" #!Empty_LineInfo!
+	KEL_DOR_CHR_montag: "Montag" #!Empty_LineInfo!
+	KEL_DOR_CHR_dimodan: "Dimodan" #!Empty_LineInfo!
+	KEL_DOR_CHR_starfallen: "Starfallen" #!Empty_LineInfo!
+	KEL_DOR_CHR_fett: "Fett" #!Empty_LineInfo!
+	KEL_DOR_CHR_mohebbi: "Mohebbi" #!Empty_LineInfo!
+	KEL_DOR_CHR_runalian: "Runalian" #!Empty_LineInfo!
+	KEL_DOR_CHR_binette: "Binette" #!Empty_LineInfo!
+	KEL_DOR_CHR_laurent: "Laurent" #!Empty_LineInfo!
+	KEL_DOR_CHR_mavr: "Mavr" #!Empty_LineInfo!
+	KEL_DOR_CHR_ryra: "Ryra" #!Empty_LineInfo!
+	KEL_DOR_CHR_truden: "Truden" #!Empty_LineInfo!
+	KEL_DOR_CHR_solo: "Solo" #!Empty_LineInfo!
+	KEL_DOR_CHR_lars: "Lars" #!Empty_LineInfo!
+	KEL_DOR_CHR_amedda: "Amedda" #!Empty_LineInfo!
+	KEL_DOR_CHR_amidala: "Amidala" #!Empty_LineInfo!
+	KEL_DOR_CHR_andrell: "Andrell" #!Empty_LineInfo!
+	KEL_DOR_CHR_annon: "Annon" #!Empty_LineInfo!
+	KEL_DOR_CHR_antilles: "Antilles" #!Empty_LineInfo!
+	KEL_DOR_CHR_atanna: "Atanna" #!Empty_LineInfo!
+	KEL_DOR_CHR_baab: "Baab" #!Empty_LineInfo!
+	KEL_DOR_CHR_barc: "Barc" #!Empty_LineInfo!
+	KEL_DOR_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
+	KEL_DOR_CHR_breemu: "Breemu" #!Empty_LineInfo!
+	KEL_DOR_CHR_bremack: "Bremack" #!Empty_LineInfo!
+	KEL_DOR_CHR_bronk: "Bronk" #!Empty_LineInfo!
+	KEL_DOR_CHR_burtoni: "Burtoni" #!Empty_LineInfo!
+	KEL_DOR_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
+	KEL_DOR_CHR_callen: "Callen" #!Empty_LineInfo!
+	KEL_DOR_CHR_clovis: "Clovis" #!Empty_LineInfo!
+	KEL_DOR_CHR_ledwellow: "Ledwellow" #!Empty_LineInfo!
+	KEL_DOR_CHR_dio: "Dio" #!Empty_LineInfo!
+	KEL_DOR_CHR_organa: "Organa" #!Empty_LineInfo!
+	KEL_DOR_CHR_mas: "Mas" #!Empty_LineInfo!
+	KEL_DOR_CHR_wain: "Wain" #!Empty_LineInfo!
+	KEL_DOR_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
+	KEL_DOR_CHR_dewell: "Dewell" #!Empty_LineInfo!
+	KEL_DOR_CHR_tanner: "Tanner" #!Empty_LineInfo!
+	KEL_DOR_CHR_vi: "Vi" #!Empty_LineInfo!
+	KEL_DOR_CHR_rush: "Rush" #!Empty_LineInfo!
+	KEL_DOR_CHR_danry: "Danry" #!Empty_LineInfo!
+	KEL_DOR_CHR_padm_: "Padmé" #!Empty_LineInfo!
+	KEL_DOR_CHR_fema: "Fema" #!Empty_LineInfo!
+	KEL_DOR_CHR_mina: "Mina" #!Empty_LineInfo!
+	KEL_DOR_CHR_bana: "Bana" #!Empty_LineInfo!
+	KEL_DOR_CHR_tyreca: "Tyreca" #!Empty_LineInfo!
+	KEL_DOR_CHR_halle: "Halle" #!Empty_LineInfo!
+	KEL_DOR_CHR_lexi: "Lexi" #!Empty_LineInfo!
+	KEL_DOR_CHR_leia: "Leia" #!Empty_LineInfo!
+	KEL_DOR_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
+	KEL_DOR_CHR_leanna: "Leanna" #!Empty_LineInfo!
+	KEL_DOR_CHR_arya: "Arya" #!Empty_LineInfo!
+	KEL_DOR_CHR_panteer: "Panteer" #!Empty_LineInfo!
+	KEL_DOR_CHR_alde: "Alde" #!Empty_LineInfo!
+	KEL_DOR_CHR_frayus: "Frayus" #!Empty_LineInfo!
+	KEL_DOR_CHR_cortess: "Cortess" #!Empty_LineInfo!
+	KEL_DOR_CHR_killesa: "Killesa" #!Empty_LineInfo!

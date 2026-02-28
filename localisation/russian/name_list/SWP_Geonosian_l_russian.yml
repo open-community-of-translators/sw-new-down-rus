@@ -1,1019 +1,1019 @@
 ﻿l_russian:
-	GEONOSIAN_SHIP_mystic: "Mystic"
-	GEONOSIAN_SHIP_naiad: "Naiad"
-	GEONOSIAN_SHIP_nautilus: "Nautilus"
-	GEONOSIAN_SHIP_nebula: "Nebula"
-	GEONOSIAN_SHIP_nimble: "Nimble"
-	GEONOSIAN_SHIP_north_star: "North Star"
-	GEONOSIAN_SHIP_nymph: "Nymph"
-	GEONOSIAN_SHIP_obdurate: "Obdurate"
-	GEONOSIAN_SHIP_ocean: "Ocean"
-	GEONOSIAN_SHIP_onward: "Onward"
-	GEONOSIAN_SHIP_oracle: "Oracle"
-	GEONOSIAN_SHIP_paradox: "Paradox"
-	GEONOSIAN_SHIP_paragon: "Paragon"
-	GEONOSIAN_SHIP_pearl: "Pearl"
-	GEONOSIAN_SHIP_peregrine: "Peregrine"
-	GEONOSIAN_SHIP_perseverance: "Perseverance"
-	GEONOSIAN_SHIP_marksman: "Marksman"
-	GEONOSIAN_SHIP_rifleman: "Rifleman"
-	GEONOSIAN_SHIP_sniper: "Sniper"
-	GEONOSIAN_SHIP_trident: "Trident"
-	GEONOSIAN_SHIP_trumpet: "Trumpet"
-	GEONOSIAN_SHIP_truncheon: "Truncheon"
-	GEONOSIAN_SHIP_typhoon: "Typhoon"
-	GEONOSIAN_SHIP_undaunted: "Undaunted"
-	GEONOSIAN_SHIP_venture: "Venture"
-	GEONOSIAN_SHIP_versatile: "Versatile"
-	GEONOSIAN_SHIP_vigorous: "Vigorous"
-	GEONOSIAN_SHIP_viper: "Viper"
-	GEONOSIAN_SHIP_vivacious: "Vivacious"
-	GEONOSIAN_SHIP_winger: "Winger"
-	GEONOSIAN_SHIP_wizard: "Wizard"
-	GEONOSIAN_SHIP_wyvern: "Wyvern"
-	GEONOSIAN_SHIP_wolfhound: "Wolfhound"
-	GEONOSIAN_SHIP_devastator: "Devastator"
-	GEONOSIAN_SHIP_warhammer: "Warhammer"
-	GEONOSIAN_SHIP_retribution: "Retribution"
-	GEONOSIAN_SHIP_senator: "Senator"
-	GEONOSIAN_SHIP_tornado: "Tornado"
-	GEONOSIAN_SHIP_infinity: "Infinity"
-	GEONOSIAN_SHIP_usurper: "Usurper"
-	GEONOSIAN_SHIP_utmost: "Utmost"
-	GEONOSIAN_SHIP_valorous: "Valorous"
-	GEONOSIAN_SHIP_whirlwind: "Whirlwind"
-	GEONOSIAN_SHIP_athena: "Athena"
-	GEONOSIAN_SHIP_artemis: "Artemis"
-	GEONOSIAN_SHIP_vigilance: "Vigilance"
-	GEONOSIAN_SHIP_decimator: "Decimator"
-	GEONOSIAN_SHIP_indomitable: "Indomitable"
-	GEONOSIAN_SHIP_goliath: "Goliath"
-	GEONOSIAN_SHIP_sentinel: "Sentinel"
-	GEONOSIAN_SHIP_brilliant: "Brilliant"
-	GEONOSIAN_SHIP_blazer: "Blazer"
-	GEONOSIAN_SHIP_audacity: "Audacity"
-	GEONOSIAN_SHIP_gallant: "Gallant"
-	GEONOSIAN_SHIP_nova: "Nova"
-	GEONOSIAN_SHIP_shadow: "Shadow"
-	GEONOSIAN_SHIP_allegiance: "Allegiance"
-	GEONOSIAN_SHIP_challenger: "Challenger"
-	GEONOSIAN_SHIP_fearless: "Fearless"
-	GEONOSIAN_SHIP_protector: "Protector"
-	GEONOSIAN_SHIP_guardian: "Guardian"
-	GEONOSIAN_SHIP_victorious: "Victorious"
-	GEONOSIAN_SHIP_courageous: "Courageous"
-	GEONOSIAN_SHIP_defiance: "Defiance"
-	GEONOSIAN_SHIP_azrael: "Azrael"
-	GEONOSIAN_SHIP_adamantine: "Adamantine"
-	GEONOSIAN_SHIP_aralanni: "Aralanni"
-	GEONOSIAN_SHIP_ardent_iv: "Ardent IV"
-	GEONOSIAN_SHIP_armistice: "Armistice"
-	GEONOSIAN_SHIP_avengeance: "Avengeance"
-	GEONOSIAN_SHIP_ballista: "Ballista"
-	GEONOSIAN_SHIP_bloodstripe: "Bloodstripe"
-	GEONOSIAN_SHIP_borealis: "Borealis"
-	GEONOSIAN_SHIP_caelus: "Caelus"
-	GEONOSIAN_SHIP_caravan: "Caravan"
-	GEONOSIAN_SHIP_chaf_envoy: "Chaf Envoy"
-	GEONOSIAN_SHIP_commenor: "Commenor"
-	GEONOSIAN_SHIP_corbantis: "Corbantis"
-	GEONOSIAN_SHIP_corellia: "Corellia"
-	GEONOSIAN_SHIP_courteous: "Courteous"
-	GEONOSIAN_SHIP_dauntless: "Dauntless"
-	GEONOSIAN_SHIP_defiant: "Defiant"
-	GEONOSIAN_SHIP_deliverance: "Deliverance"
-	GEONOSIAN_SHIP_derapha: "Derapha"
-	GEONOSIAN_SHIP_devout: "Devout"
-	GEONOSIAN_SHIP_empirical: "Empirical"
-	GEONOSIAN_SHIP_empyrean: "Empyrean"
-	GEONOSIAN_SHIP_era_daimanos: "Era Daimanos"
-	GEONOSIAN_SHIP_eye_of_the_storm: "Eye of the Storm"
-	GEONOSIAN_SHIP_farstar: "Farstar"
-	GEONOSIAN_SHIP_fastblast: "Fastblast"
-	GEONOSIAN_SHIP_galaaron: "Galaaron"
-	GEONOSIAN_SHIP_garrote: "Garrote"
-	GEONOSIAN_SHIP_gilagimar: "Gilagimar"
-	GEONOSIAN_SHIP_halleck: "Halleck"
-	GEONOSIAN_SHIP_hunter: "Hunter"
-	GEONOSIAN_SHIP_intractable: "Intractable"
-	GEONOSIAN_SHIP_ithor_lady: "Ithor Lady"
-	GEONOSIAN_SHIP_justice_crusader: "Justice Crusader"
-	GEONOSIAN_SHIP_kana_s_steel: "Kana's Steel"
-	GEONOSIAN_SHIP_lathir: "Lathir"
-	GEONOSIAN_SHIP_liberty: "Liberty"
-	GEONOSIAN_SHIP_lillibanca: "Lillibanca"
-	GEONOSIAN_SHIP_maelstrom: "Maelstrom"
-	GEONOSIAN_SHIP_malachite_scent: "Malachite Scent"
-	GEONOSIAN_SHIP_mercy: "Mercy"
-	GEONOSIAN_SHIP_myrkos: "Myrkos"
-	GEONOSIAN_SHIP_nebula_chaser: "Nebula Chaser"
-	GEONOSIAN_SHIP_nova_viper: "Nova Viper"
-	GEONOSIAN_SHIP_obedience: "Obedience"
-	GEONOSIAN_SHIP_olemp: "Olemp"
-	GEONOSIAN_SHIP_pegasus: "Pegasus"
-	GEONOSIAN_SHIP_perspicacity: "Perspicacity"
-	GEONOSIAN_SHIP_phalanx: "Phalanx"
-	GEONOSIAN_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	GEONOSIAN_SHIP_predominance: "Predominance"
-	GEONOSIAN_SHIP_prosperity: "Prosperity"
-	GEONOSIAN_SHIP_purity: "Purity"
-	GEONOSIAN_SHIP_recalcitrant: "Recalcitrant"
-	GEONOSIAN_SHIP_red_nova: "Red Nova"
-	GEONOSIAN_SHIP_redma: "Redma"
-	GEONOSIAN_SHIP_reliable: "Reliable"
-	GEONOSIAN_SHIP_reliant: "Reliant"
-	GEONOSIAN_SHIP_reluctant: "Reluctant"
-	GEONOSIAN_SHIP_republic: "Republic"
-	GEONOSIAN_SHIP_republic_s_return: "Republic's Return"
-	GEONOSIAN_SHIP_resolve: "Resolve"
-	GEONOSIAN_SHIP_respectable: "Respectable"
-	GEONOSIAN_SHIP_revenge: "Revenge"
-	GEONOSIAN_SHIP_shadowblade: "Shadowblade"
-	GEONOSIAN_SHIP_spritespray: "Spritespray"
-	GEONOSIAN_SHIP_star_dream: "Star Dream"
-	GEONOSIAN_SHIP_stark_wing: "Stark Wing"
-	GEONOSIAN_SHIP_starveil: "Starveil"
-	GEONOSIAN_SHIP_undying: "Undying"
-	GEONOSIAN_SHIP_vaathkree: "Vaathkree"
-	GEONOSIAN_SHIP_vainglorious: "Vainglorious"
-	GEONOSIAN_SHIP_valiant: "Valiant"
-	GEONOSIAN_SHIP_valor: "Valor"
-	GEONOSIAN_SHIP_vanquisher: "Vanquisher"
-	GEONOSIAN_SHIP_vinsor: "Vinsor"
-	GEONOSIAN_SHIP_visseon: "Visseon"
-	GEONOSIAN_SHIP_wennis: "Wennis"
-	GEONOSIAN_SHIP_yavin_s_glory: "Yavin's Glory"
-	GEONOSIAN_SHIP_moldy_crow: "Moldy Crow"
-	GEONOSIAN_SHIP_raven_s_claw: "Raven's Claw"
-	GEONOSIAN_SHIP_agile: "Agile"
-	GEONOSIAN_SHIP_archer: "Archer"
-	GEONOSIAN_SHIP_arrow: "Arrow"
-	GEONOSIAN_SHIP_bruiser: "Bruiser"
-	GEONOSIAN_SHIP_cherub: "Cherub"
-	GEONOSIAN_SHIP_chimera: "Chimera"
-	GEONOSIAN_SHIP_claymore: "Claymore"
-	GEONOSIAN_SHIP_broadsword: "Broadsword"
-	GEONOSIAN_SHIP_battleaxe: "Battleaxe"
-	GEONOSIAN_SHIP_crossbow: "Crossbow"
-	GEONOSIAN_SHIP_cutlass: "Cutlass"
-	GEONOSIAN_SHIP_deterrent: "Deterrent"
-	GEONOSIAN_SHIP_errant: "Errant"
-	GEONOSIAN_SHIP_faithful: "Faithful"
-	GEONOSIAN_SHIP_fierce: "Fierce"
-	GEONOSIAN_SHIP_gladius: "Gladius"
-	GEONOSIAN_SHIP_longbow: "Longbow"
-	GEONOSIAN_SHIP_grappler: "Grappler"
-	GEONOSIAN_SHIP_hammer: "Hammer"
-	GEONOSIAN_SHIP_vampire: "Vampire"
-	GEONOSIAN_SHIP_velox: "Velox"
-	GEONOSIAN_SHIP_venator: "Venator"
-	GEONOSIAN_SHIP_vendetta: "Vendetta"
-	GEONOSIAN_SHIP_venerable: "Venerable"
-	GEONOSIAN_SHIP_venomous: "Venomous"
-	GEONOSIAN_SHIP_taciturn: "Taciturn"
-	GEONOSIAN_SHIP_supreme: "Supreme"
-	GEONOSIAN_SHIP_success: "Success"
-	GEONOSIAN_SHIP_shredder: "Shredder"
-	GEONOSIAN_SHIP_seraph: "Seraph"
-	GEONOSIAN_SHIP_serpent: "Serpent"
-	GEONOSIAN_SHIP_spitfire: "Spitfire"
-	GEONOSIAN_SHIP_stalker: "Stalker"
-	GEONOSIAN_SHIP_stratagem: "Stratagem"
-	GEONOSIAN_SHIP_scimitar: "Scimitar"
-	GEONOSIAN_SHIP_scorcher: "Scorcher"
-	GEONOSIAN_SHIP_scourge: "Scourge"
-	GEONOSIAN_SHIP_scythe: "Scythe"
-	GEONOSIAN_SHIP_revenant: "Revenant"
-	GEONOSIAN_SHIP_redoubtable: "Redoubtable"
-	GEONOSIAN_SHIP_raptor: "Raptor"
-	GEONOSIAN_SHIP_reaver: "Reaver"
-	GEONOSIAN_SHIP_prodigal: "Prodigal"
-	GEONOSIAN_SHIP_rapier: "Rapier"
-	GEONOSIAN_SHIP_prudent: "Prudent"
-	GEONOSIAN_SHIP_persistent: "Persistent"
-	GEONOSIAN_SHIP_peerless: "Peerless"
-	GEONOSIAN_SHIP_myrmidon: "Myrmidon"
-	GEONOSIAN_SHIP_indignant: "Indignant"
-	GEONOSIAN_SHIP_javelin: "Javelin"
-	GEONOSIAN_SHIP_knight: "Knight"
-	GEONOSIAN_SHIP_starwolf: "Starwolf"
-	GEONOSIAN_SHIP_bonaventure: "Bonaventure"
-	GEONOSIAN_SHIP_adventure: "Adventure"
-	GEONOSIAN_SHIP_boxer: "Boxer"
-	GEONOSIAN_SHIP_buccaneer: "Buccaneer"
-	GEONOSIAN_SHIP_cavalier: "Cavalier"
-	GEONOSIAN_SHIP_celestial: "Celestial"
-	GEONOSIAN_SHIP_chariot: "Chariot"
-	GEONOSIAN_SHIP_comet: "Comet"
-	GEONOSIAN_SHIP_crucible: "Crucible"
-	GEONOSIAN_SHIP_cyclone: "Cyclone"
-	GEONOSIAN_SHIP_decisive: "Decisive"
-	GEONOSIAN_SHIP_dexterous: "Dexterous"
-	GEONOSIAN_SHIP_diadem: "Diadem"
-	GEONOSIAN_SHIP_earnest: "Earnest"
-	GEONOSIAN_SHIP_eclipse: "Eclipse"
-	GEONOSIAN_SHIP_forger: "Forger"
-	GEONOSIAN_SHIP_fortune: "Fortune"
-	GEONOSIAN_SHIP_gauntlet: "Gauntlet"
-	GEONOSIAN_SHIP_griffin: "Griffin"
-	GEONOSIAN_SHIP_horizon: "Horizon"
-	GEONOSIAN_SHIP_hotspur: "Hotspur"
-	GEONOSIAN_SHIP_hurricane: "Hurricane"
-	GEONOSIAN_SHIP_hussar: "Hussar"
-	GEONOSIAN_SHIP_jubilant: "Jubilant"
-	GEONOSIAN_SHIP_lancer: "Lancer"
-	GEONOSIAN_SHIP_lightning: "Lightning"
-	GEONOSIAN_SHIP_magic: "Magic"
-	GEONOSIAN_SHIP_mediator: "Mediator"
-	GEONOSIAN_SHIP_mermaid: "Mermaid"
-	GEONOSIAN_SHIP_meteor: "Meteor"
-	GEONOSIAN_SHIP_minstrel: "Minstrel"
-	GEONOSIAN_SHIP_miranda: "Miranda"
-	GEONOSIAN_SHIP_mustang: "Mustang"
-	GEONOSIAN_SHIP_sharpshooter: "Sharpshooter"
-	GEONOSIAN_SHIP_cyclops: "Cyclops"
-	GEONOSIAN_SHIP_centaur: "Centaur"
-	GEONOSIAN_SHIP_adversary: "Adversary"
-	GEONOSIAN_SHIP_assassin: "Assassin"
-	GEONOSIAN_SHIP_dagger: "Dagger"
-	GEONOSIAN_SHIP_daring: "Daring"
-	GEONOSIAN_SHIP_duty: "Duty"
-	GEONOSIAN_SHIP_havoc: "Havoc"
-	GEONOSIAN_SHIP_hero: "Hero"
-	GEONOSIAN_SHIP_justice: "Justice"
-	GEONOSIAN_SHIP_impeccable: "Impeccable"
-	GEONOSIAN_SHIP_interceptor: "Interceptor"
-	GEONOSIAN_SHIP_infernal: "Infernal"
-	GEONOSIAN_SHIP_loyal: "Loyal"
-	GEONOSIAN_SHIP_matchless: "Matchless"
-	GEONOSIAN_SHIP_mauler: "Mauler"
-	GEONOSIAN_SHIP_mayhem: "Mayhem"
-	GEONOSIAN_SHIP_malice: "Malice"
-	GEONOSIAN_SHIP_menace: "Menace"
-	GEONOSIAN_SHIP_merciless: "Merciless"
-	GEONOSIAN_SHIP_mischief: "Mischief"
-	GEONOSIAN_SHIP_monarch: "Monarch"
-	GEONOSIAN_SHIP_patriot: "Patriot"
-	GEONOSIAN_SHIP_predator: "Predator"
-	GEONOSIAN_SHIP_powerful: "Powerful"
-	GEONOSIAN_SHIP_punisher: "Punisher"
-	GEONOSIAN_SHIP_ravager: "Ravager"
-	GEONOSIAN_SHIP_reaper: "Reaper"
-	GEONOSIAN_SHIP_savage: "Savage"
-	GEONOSIAN_SHIP_spiteful: "Spiteful"
-	GEONOSIAN_SHIP_templar: "Templar"
-	GEONOSIAN_SHIP_terminator: "Terminator"
-	GEONOSIAN_SHIP_terror: "Terror"
-	GEONOSIAN_SHIP_thrasher: "Thrasher"
-	GEONOSIAN_SHIP_minotaur: "Minotaur"
-	GEONOSIAN_SHIP_manticore: "Manticore"
-	GEONOSIAN_SHIP_interdictor: "Interdictor"
-	GEONOSIAN_SHIP_intruder: "Intruder"
-	GEONOSIAN_SHIP_hydra: "Hydra"
-	GEONOSIAN_SHIP_enfield: "Enfield"
-	GEONOSIAN_SHIP_harasser: "Harasser"
-	GEONOSIAN_SHIP_unbeaten: "Unbeaten"
-	GEONOSIAN_SHIP_werewolf: "Werewolf"
-	GEONOSIAN_SHIP_zealous: "Zealous"
-	GEONOSIAN_SHIP_petulant: "Petulant"
-	GEONOSIAN_SHIP_phantom: "Phantom"
-	GEONOSIAN_SHIP_phoenix: "Phoenix"
-	GEONOSIAN_SHIP_pike: "Pike"
-	GEONOSIAN_SHIP_pursuer: "Pursuer"
-	GEONOSIAN_SHIP_raider: "Raider"
-	GEONOSIAN_SHIP_rainbow: "Rainbow"
-	GEONOSIAN_SHIP_rapid: "Rapid"
-	GEONOSIAN_SHIP_redemption: "Redemption"
-	GEONOSIAN_SHIP_relentless: "Relentless"
-	GEONOSIAN_SHIP_rigorous: "Rigorous"
-	GEONOSIAN_SHIP_robust: "Robust"
-	GEONOSIAN_SHIP_sabre: "Sabre"
-	GEONOSIAN_SHIP_salvation: "Salvation"
-	GEONOSIAN_SHIP_sanguine: "Sanguine"
-	GEONOSIAN_SHIP_scarab: "Scarab"
-	GEONOSIAN_SHIP_scepter: "Scepter"
-	GEONOSIAN_SHIP_sea_witch: "Sea Witch"
-	GEONOSIAN_SHIP_siren: "Siren"
-	GEONOSIAN_SHIP_sorceress: "Sorceress"
-	GEONOSIAN_SHIP_spearhead: "Spearhead"
-	GEONOSIAN_SHIP_specter: "Specter"
-	GEONOSIAN_SHIP_spirit: "Spirit"
-	GEONOSIAN_SHIP_splendid: "Splendid"
-	GEONOSIAN_SHIP_stallion: "Stallion"
-	GEONOSIAN_SHIP_stalwart: "Stalwart"
-	GEONOSIAN_SHIP_steadfast: "Steadfast"
-	GEONOSIAN_SHIP_strenuous: "Strenuous"
-	GEONOSIAN_SHIP_superb: "Superb"
-	GEONOSIAN_SHIP_supernova: "Supernova"
-	GEONOSIAN_SHIP_surprise: "Surprise"
-	GEONOSIAN_SHIP_swiftsure: "Swiftsure"
-	GEONOSIAN_SHIP_talent: "Talent"
-	GEONOSIAN_SHIP_talisman: "Talisman"
-	GEONOSIAN_SHIP_talon: "Talon"
-	GEONOSIAN_SHIP_taurus: "Taurus"
-	GEONOSIAN_SHIP_tenacious: "Tenacious"
-	GEONOSIAN_SHIP_thunder_child: "Thunder Child"
-	GEONOSIAN_SHIP_thunderous: "Thunderous"
-	GEONOSIAN_SHIP_tireless: "Tireless"
-	GEONOSIAN_SHIP_trenchant: "Trenchant"
-	GEONOSIAN_SHIP_righteous: "Righteous"
-	GEONOSIAN_SHIP_acheron: "Acheron"
-	GEONOSIAN_SHIP_achilles: "Achilles"
-	GEONOSIAN_SHIP_agamemnon: "Agamemnon"
-	GEONOSIAN_SHIP_amphion: "Amphion"
-	GEONOSIAN_SHIP_aquilon: "Aquilon"
-	GEONOSIAN_SHIP_argonaut: "Argonaut"
-	GEONOSIAN_SHIP_argus: "Argus"
-	GEONOSIAN_SHIP_ariel: "Ariel"
-	GEONOSIAN_SHIP_aurora: "Aurora"
-	GEONOSIAN_SHIP_avernus: "Avernus"
-	GEONOSIAN_SHIP_bacchus: "Bacchus"
-	GEONOSIAN_SHIP_bucephalus: "Bucephalus"
-	GEONOSIAN_SHIP_calliope: "Calliope"
-	GEONOSIAN_SHIP_calypso: "Calypso"
-	GEONOSIAN_SHIP_castor: "Castor"
-	GEONOSIAN_SHIP_charybdis: "Charybdis"
-	GEONOSIAN_SHIP_circe: "Circe"
-	GEONOSIAN_SHIP_cleopatra: "Cleopatra"
-	GEONOSIAN_SHIP_constantine: "Constantine"
-	GEONOSIAN_SHIP_cordelia: "Cordelia"
-	GEONOSIAN_SHIP_cyrus: "Cyrus"
-	GEONOSIAN_SHIP_damocles: "Damocles"
-	GEONOSIAN_SHIP_daedalus: "Daedalus"
-	GEONOSIAN_SHIP_darius: "Darius"
-	GEONOSIAN_SHIP_diomede: "Diomede"
-	GEONOSIAN_SHIP_dryad: "Dryad"
-	GEONOSIAN_SHIP_electra: "Electra"
-	GEONOSIAN_SHIP_endymion: "Endymion"
-	GEONOSIAN_SHIP_erebus: "Erebus"
-	GEONOSIAN_SHIP_fenris: "Fenris"
-	GEONOSIAN_SHIP_freya: "Freya"
-	GEONOSIAN_SHIP_gilgamesh: "Gilgamesh"
-	GEONOSIAN_SHIP_gorgon: "Gorgon"
-	GEONOSIAN_SHIP_halcyon: "Halcyon"
-	GEONOSIAN_SHIP_hecate: "Hecate"
-	GEONOSIAN_SHIP_hector: "Hector"
-	GEONOSIAN_SHIP_hesperus: "Hesperus"
-	GEONOSIAN_SHIP_janus: "Janus"
-	GEONOSIAN_SHIP_jason: "Jason"
-	GEONOSIAN_SHIP_juno: "Juno"
-	GEONOSIAN_SHIP_jupiter: "Jupiter"
-	GEONOSIAN_SHIP_lancelot: "Lancelot"
-	GEONOSIAN_SHIP_lazarus: "Lazarus"
-	GEONOSIAN_SHIP_leander: "Leander"
-	GEONOSIAN_SHIP_leonidas: "Leonidas"
-	GEONOSIAN_SHIP_lysander: "Lysander"
-	GEONOSIAN_SHIP_maenad: "Maenad"
-	GEONOSIAN_SHIP_mars: "Mars"
-	GEONOSIAN_SHIP_medea: "Medea"
-	GEONOSIAN_SHIP_medusa: "Medusa"
-	GEONOSIAN_SHIP_menestheus: "Menestheus"
-	GEONOSIAN_SHIP_mercury: "Mercury"
-	GEONOSIAN_SHIP_merlin: "Merlin"
-	GEONOSIAN_SHIP_minerva: "Minerva"
-	GEONOSIAN_SHIP_minos: "Minos"
-	GEONOSIAN_SHIP_neptune: "Neptune"
-	GEONOSIAN_SHIP_nessus: "Nessus"
-	GEONOSIAN_SHIP_nestor: "Nestor"
-	GEONOSIAN_SHIP_nimrod: "Nimrod"
-	GEONOSIAN_SHIP_niobe: "Niobe"
-	GEONOSIAN_SHIP_oberon: "Oberon"
-	GEONOSIAN_SHIP_odin: "Odin"
-	GEONOSIAN_SHIP_ophelia: "Ophelia"
-	GEONOSIAN_SHIP_orestes: "Orestes"
-	GEONOSIAN_SHIP_orpheus: "Orpheus"
-	GEONOSIAN_SHIP_osiris: "Osiris"
-	GEONOSIAN_SHIP_pandora: "Pandora"
-	GEONOSIAN_SHIP_penelope: "Penelope"
-	GEONOSIAN_SHIP_persephone: "Persephone"
-	GEONOSIAN_SHIP_perseus: "Perseus"
-	GEONOSIAN_SHIP_phoebe: "Phoebe"
-	GEONOSIAN_SHIP_pluto: "Pluto"
-	GEONOSIAN_SHIP_poseidon: "Poseidon"
-	GEONOSIAN_SHIP_proteus: "Proteus"
-	GEONOSIAN_SHIP_pylades: "Pylades"
-	GEONOSIAN_SHIP_serapis: "Serapis"
-	GEONOSIAN_SHIP_stygian: "Stygian"
-	GEONOSIAN_SHIP_tantalus: "Tantalus"
-	GEONOSIAN_SHIP_telemachus: "Telemachus"
-	GEONOSIAN_SHIP_theseus: "Theseus"
-	GEONOSIAN_SHIP_thor: "Thor"
-	GEONOSIAN_SHIP_trajan: "Trajan"
-	GEONOSIAN_SHIP_triton: "Triton"
-	GEONOSIAN_SHIP_venus: "Venus"
-	GEONOSIAN_SHIP_adamant: "Adamant"
-	GEONOSIAN_SHIP_ardent: "Ardent"
-	GEONOSIAN_SHIP_assail: "Assail"
-	GEONOSIAN_SHIP_austere: "Austere"
-	GEONOSIAN_SHIP_archon: "Archon"
-	GEONOSIAN_SHIP_adroit: "Adroit"
-	GEONOSIAN_SHIP_aegis: "Aegis"
-	GEONOSIAN_SHIP_anchor: "Anchor"
-	GEONOSIAN_SHIP_corsair: "Corsair"
-	GEONOSIAN_SHIP_banshee: "Banshee"
-	GEONOSIAN_SHIP_enchantress: "Enchantress"
-	GEONOSIAN_SHIP_eradicator: "Eradicator"
-	GEONOSIAN_SHIP_tormentor: "Tormentor"
-	GEONOSIAN_SHIP_legion: "Legion"
-	GEONOSIAN_SHIP_reprisal: "Reprisal"
-	GEONOSIAN_SHIP_aggressor: "Aggressor"
-	GEONOSIAN_SHIP_assault: "Assault"
-	GEONOSIAN_SHIP_eviscerator: "Eviscerator"
-	GEONOSIAN_SHIP_imperator: "Imperator"
-	GEONOSIAN_SHIP_excellence: "Excellence"
-	GEONOSIAN_SHIP_unrivalled: "Unrivalled"
-	GEONOSIAN_SHIP_warlord: "Warlord"
-	GEONOSIAN_SHIP_vengeance: "Vengeance"
-	GEONOSIAN_SHIP_triumphant: "Triumphant"
-	GEONOSIAN_SHIP_nemesis: "Nemesis"
-	GEONOSIAN_SHIP_avenger: "Avenger"
-	GEONOSIAN_SHIP_champion: "Champion"
-	GEONOSIAN_SHIP_conqueror: "Conqueror"
-	GEONOSIAN_SHIP_crusader: "Crusader"
-	GEONOSIAN_SHIP_glory: "Glory"
-	GEONOSIAN_SHIP_immortal: "Immortal"
-	GEONOSIAN_SHIP_judicator: "Judicator"
-	GEONOSIAN_SHIP_vanguard: "Vanguard"
-	GEONOSIAN_SHIP_renown: "Renown"
-	GEONOSIAN_SHIP_demolisher: "Demolisher"
-	GEONOSIAN_SHIP_dragon: "Dragon"
-	GEONOSIAN_SHIP_executor: "Executor"
-	GEONOSIAN_SHIP_furious: "Furious"
-	GEONOSIAN_SHIP_gladiator: "Gladiator"
-	GEONOSIAN_SHIP_magnificent: "Magnificent"
-	GEONOSIAN_SHIP_ogre: "Ogre"
-	GEONOSIAN_SHIP_onslaught: "Onslaught"
-	GEONOSIAN_SHIP_vehement: "Vehement"
-	GEONOSIAN_SHIP_basilisk: "Basilisk"
-	GEONOSIAN_SHIP_tempest: "Tempest"
-	GEONOSIAN_SHIP_overlord: "Overlord"
-	GEONOSIAN_SHIP_warrior: "Warrior"
-	GEONOSIAN_SHIP_titan: "Titan"
-	GEONOSIAN_SHIP_colossus: "Colossus"
-	GEONOSIAN_SHIP_prometheus: "Prometheus"
-	GEONOSIAN_SHIP_nike: "Nike"
-	GEONOSIAN_SHIP_paladin: "Paladin"
-	GEONOSIAN_SHIP_sovereign: "Sovereign"
-	GEONOSIAN_SHIP_repulse: "Repulse"
-	GEONOSIAN_SHIP_majestic: "Majestic"
-	GEONOSIAN_SHIP_avatar: "Avatar"
-	GEONOSIAN_SHIP_behemoth: "Behemoth"
-	GEONOSIAN_SHIP_centurion: "Centurion"
-	GEONOSIAN_SHIP_citadel: "Citadel"
-	GEONOSIAN_SHIP_katana: "Katana"
-	GEONOSIAN_SHIP_kraken: "Kraken"
-	GEONOSIAN_SHIP_cerberus: "Cerberus"
-	GEONOSIAN_SHIP_valkyrie: "Valkyrie"
-	GEONOSIAN_SHIP_dreadnought: "Dreadnought"
-	GEONOSIAN_SHIP_harbinger: "Harbinger"
-	GEONOSIAN_SHIP_juggernaut: "Juggernaut"
-	GEONOSIAN_SHIP_leviathan: "Leviathan"
-	GEONOSIAN_SHIP_hyperion: "Hyperion"
-	GEONOSIAN_SHIP_galatea: "Galatea"
-	GEONOSIAN_SHIP_ambush: "Ambush"
-	GEONOSIAN_SHIP_vindicator: "Vindicator"
-	GEONOSIAN_SHIP_crescent: "Crescent"
-	GEONOSIAN_SHIP_diligent: "Diligent"
-	GEONOSIAN_SHIP_zephyr: "Zephyr"
-	GEONOSIAN_SHIP_enigma: "Enigma"
-	GEONOSIAN_SHIP_conquistador: "Conquistador"
-	GEONOSIAN_SHIP_scylla: "Scylla"
-	GEONOSIAN_SHIP_arbiter: "Arbiter"
-	GEONOSIAN_SHIP_asperity: "Asperity"
-	GEONOSIAN_SHIP_eminence: "Eminence"
-	GEONOSIAN_SHIP_astute: "Astute"
-	GEONOSIAN_SHIP_alacrity: "Alacrity"
-	GEONOSIAN_SHIP_satyr: "Satyr"
-	GEONOSIAN_SHIP_prospero: "Prospero"
-	GEONOSIAN_SHIP_untiring: "Untiring"
-	GEONOSIAN_SHIP_zenith: "Zenith"
-	GEONOSIAN_SHIP_torch: "Torch"
-	GEONOSIAN_SHIP_remembrance: "Remembrance"
-	GEONOSIAN_SHIP_pilgrim: "Pilgrim"
-	GEONOSIAN_SHIP_trailblazer: "Trailblazer"
-	GEONOSIAN_SHIP_vagabond: "Vagabond"
-	GEONOSIAN_SHIP_wayfarer: "Wayfarer"
-	GEONOSIAN_SHIP_ambassador: "Ambassador"
-	GEONOSIAN_SHIP_emissary: "Emissary"
-	GEONOSIAN_SHIP_nomad: "Nomad"
-	GEONOSIAN_SHIP_pathfinder: "Pathfinder"
-	GEONOSIAN_SHIP_wanderer: "Wanderer"
-	GEONOSIAN_SHIP_traveler: "Traveler"
-	GEONOSIAN_SHIP_godspeed: "Godspeed"
-	GEONOSIAN_SHIP_prophecy: "Prophecy"
-	GEONOSIAN_SHIP_manifest_destiny: "Manifest Destiny"
-	GEONOSIAN_SHIP_virtue: "Virtue"
-	GEONOSIAN_SHIP_potential: "Potential"
-	GEONOSIAN_SHIP_expansion: "Expansion"
-	GEONOSIAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	GEONOSIAN_SHIP_summit: "Summit"
-	GEONOSIAN_SHIP_pinnacle: "Pinnacle"
-	GEONOSIAN_SHIP_seeder: "Seeder"
-	GEONOSIAN_SHIP_harvest: "Harvest"
-	GEONOSIAN_SHIP_demeter: "Demeter"
-	GEONOSIAN_SHIP_isis: "Isis"
-	GEONOSIAN_SHIP_ceres: "Ceres"
-	GEONOSIAN_SHIP_exodus: "Exodus"
-	GEONOSIAN_SHIP_foundation: "Foundation"
-	GEONOSIAN_SHIP_scion: "Scion"
-	GEONOSIAN_SHIP_progeny: "Progeny"
-	GEONOSIAN_SHIP_obligation: "Obligation"
-	GEONOSIAN_SHIP_purpose: "Purpose"
-	GEONOSIAN_SHIP_provider: "Provider"
-	GEONOSIAN_SHIP_shining_city: "Shining City"
-	GEONOSIAN_SHIP_acquirer: "Acquirer"
-	GEONOSIAN_SHIP_cultivator: "Cultivator"
-	GEONOSIAN_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	GEONOSIAN_SHIP_community: "Community"
-	GEONOSIAN_SHIP_brotherhood: "Brotherhood"
-	GEONOSIAN_SHIP_industry: "Industry"
-	GEONOSIAN_SHIP_assiduity: "Assiduity"
-	GEONOSIAN_SHIP_effort: "Effort"
-	GEONOSIAN_SHIP_laborer: "Laborer"
-	GEONOSIAN_SHIP_builder: "Builder"
-	GEONOSIAN_SHIP_craftsman: "Craftsman"
-	GEONOSIAN_SHIP_hard_hat: "Hard Hat"
-	GEONOSIAN_SHIP_progress: "Progress"
-	GEONOSIAN_SHIP_engineer: "Engineer"
-	GEONOSIAN_SHIP_promise: "Promise"
-	GEONOSIAN_SHIP_service: "Service"
-	GEONOSIAN_SHIP_shelter: "Shelter"
-	GEONOSIAN_SHIP_beast: "Beast"
-	GEONOSIAN_SHIP_creator: "Creator"
-	GEONOSIAN_SHIP_developer: "Developer"
-	GEONOSIAN_SHIP_foundry: "Foundry"
-	GEONOSIAN_SHIP_factory: "Factory"
-	GEONOSIAN_SHIP_anvil: "Anvil"
-	GEONOSIAN_SHIP_pillar: "Pillar"
-	GEONOSIAN_SHIP_architect: "Architect"
-	GEONOSIAN_SHIP_accommodator: "Accommodator"
-	GEONOSIAN_SHIP_ptah: "Ptah"
-	GEONOSIAN_SHIP_ilmarinen: "Ilmarinen"
-	GEONOSIAN_SHIP_creidhne: "Creidhne"
-	GEONOSIAN_SHIP_gobannus: "Gobannus"
-	GEONOSIAN_SHIP_luchtaine: "Luchtaine"
-	GEONOSIAN_SHIP_goibniu: "Goibniu"
-	GEONOSIAN_SHIP_vishvakarman: "Vishvakarman"
-	GEONOSIAN_SHIP_tvastar: "Tvastar"
-	GEONOSIAN_SHIP_ikenga: "Ikenga"
-	GEONOSIAN_SHIP_qaynan: "Qaynan"
-	GEONOSIAN_SHIP_ucuetis: "Ucuetis"
-	GEONOSIAN_SHIP_ogoun: "Ogoun"
-	GEONOSIAN_SHIP_ground_transport: "Транспортный корабль"
-	GEONOSIAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	GEONOSIAN_SHIP_spacegun_success: "SpaceGun Success"
-	GEONOSIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	GEONOSIAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	GEONOSIAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	GEONOSIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	GEONOSIAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	GEONOSIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	GEONOSIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	GEONOSIAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	GEONOSIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	GEONOSIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	GEONOSIAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	GEONOSIAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	GEONOSIAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	GEONOSIAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	GEONOSIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	GEONOSIAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	GEONOSIAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	GEONOSIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	GEONOSIAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	GEONOSIAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	GEONOSIAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	GEONOSIAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	GEONOSIAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	GEONOSIAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	GEONOSIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	GEONOSIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	GEONOSIAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	GEONOSIAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	GEONOSIAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	GEONOSIAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	GEONOSIAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	GEONOSIAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	GEONOSIAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	GEONOSIAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	GEONOSIAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	GEONOSIAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	GEONOSIAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	GEONOSIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	GEONOSIAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	GEONOSIAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	GEONOSIAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	GEONOSIAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	GEONOSIAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	GEONOSIAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	GEONOSIAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	GEONOSIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	GEONOSIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	GEONOSIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	GEONOSIAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	GEONOSIAN_SHIP_albacore: "Albacore"
-	GEONOSIAN_SHIP_gateway: "Gateway"
-	GEONOSIAN_SHIP_vincent: "Vincent"
-	GEONOSIAN_SHIP_babylon: "Babylon"
-	GEONOSIAN_SHIP_caernavon: "Caernavon"
-	GEONOSIAN_SHIP_acre: "Acre"
-	GEONOSIAN_SHIP_pembroke: "Pembroke"
-	GEONOSIAN_SHIP_spithead: "Spithead"
-	GEONOSIAN_SHIP_halifax: "Halifax"
-	GEONOSIAN_SHIP_victoria: "Victoria"
-	GEONOSIAN_SHIP_chatham: "Chatham"
-	GEONOSIAN_SHIP_anchorage: "Anchorage"
-	GEONOSIAN_SHIP_scapa_flow: "Scapa Flow"
-	GEONOSIAN_SHIP_hampton_roads: "Hampton Roads"
-	GEONOSIAN_SHIP_brooklyn: "Brooklyn"
-	GEONOSIAN_SHIP_norfolk: "Norfolk"
-	GEONOSIAN_SHIP_newport: "Newport"
-	GEONOSIAN_SHIP_guam: "Guam"
-	GEONOSIAN_SHIP_pensacola: "Pensacola"
-	GEONOSIAN_SHIP_vesuvius: "Vesuvius"
-	GEONOSIAN_SHIP_mckinley: "McKinley"
-	GEONOSIAN_SHIP_everest: "Everest"
-	GEONOSIAN_SHIP_kilimanjaro: "Kilimanjaro"
-	GEONOSIAN_SHIP_aconcagua: "Aconcagua"
-	GEONOSIAN_SHIP_elbrus: "Elbrus"
-	GEONOSIAN_SHIP_st__helens: "St. Helens"
-	GEONOSIAN_SHIP_fuji: "Fuji"
-	GEONOSIAN_SHIP_olympus: "Olympus"
-	GEONOSIAN_SHIP_sinai: "Sinai"
-	GEONOSIAN_SHIP_ambrose: "Ambrose"
-	GEONOSIAN_SHIP_bermuda: "Bermuda"
-	GEONOSIAN_SHIP_farpoint: "Farpoint"
-	GEONOSIAN_SHIP_blue_star: "Blue Star"
-	GEONOSIAN_SHIP_olympus_mons: "Olympus Mons"
-	GEONOSIAN_SHIP_tharsis: "Tharsis"
-	GEONOSIAN_SHIP_syrtis: "Syrtis"
-	GEONOSIAN_SHIP_blackham: "Blackham"
-	GEONOSIAN_SHIP_fletcher: "Fletcher"
-	GEONOSIAN_SHIP_perry: "Perry"
-	GEONOSIAN_SHIP_butakov: "Butakov"
-	GEONOSIAN_SHIP_morris: "Morris"
-	GEONOSIAN_SHIP_moorsom: "Moorsom"
-	GEONOSIAN_SHIP_hart: "Hart"
-	GEONOSIAN_SHIP_hargood: "Hargood"
-	GEONOSIAN_SHIP_spruance: "Spruance"
-	GEONOSIAN_SHIP_tanaka: "Tanaka"
-	GEONOSIAN_SHIP_halsey: "Halsey"
-	GEONOSIAN_SHIP_turner: "Turner"
-	GEONOSIAN_SHIP_doria: "Doria"
-	GEONOSIAN_SHIP_tirpitz: "Tirpitz"
-	GEONOSIAN_SHIP_cunningham: "Cunningham"
-	GEONOSIAN_SHIP_jellicoe: "Jellicoe"
-	GEONOSIAN_SHIP_hipper: "Hipper"
-	GEONOSIAN_SHIP_beatty: "Beatty"
-	GEONOSIAN_SHIP_potemkin: "Potemkin"
-	GEONOSIAN_SHIP_durham: "Durham"
-	GEONOSIAN_SHIP_codrington: "Codrington"
-	GEONOSIAN_SHIP_milne: "Milne"
-	GEONOSIAN_SHIP_laforey: "Laforey"
-	GEONOSIAN_SHIP_tyler: "Tyler"
-	GEONOSIAN_SHIP_hawke: "Hawke"
-	GEONOSIAN_SHIP_yonai: "Yonai"
-	GEONOSIAN_SHIP_pound: "Pound"
-	GEONOSIAN_SHIP_king: "King"
-	GEONOSIAN_SHIP_crutchley: "Crutchley"
-	GEONOSIAN_SHIP_mountbatten: "Mountbatten"
-	GEONOSIAN_SHIP_kountouriotis: "Kountouriotis"
-	GEONOSIAN_SHIP_kuznetsov: "Kuznetsov"
-	GEONOSIAN_SHIP_essen: "Essen"
-	GEONOSIAN_SHIP_kornilov: "Kornilov"
-	GEONOSIAN_SHIP_suffren: "Suffren"
-	GEONOSIAN_SHIP_treville: "Treville"
-	GEONOSIAN_SHIP_villeneuve: "Villeneuve"
-	GEONOSIAN_SHIP_grasse: "Grasse"
-	GEONOSIAN_SHIP_byng: "Byng"
-	GEONOSIAN_SHIP_lezo: "Lezo"
-	GEONOSIAN_SHIP_bombard: "Bombard"
-	GEONOSIAN_SHIP_catapult: "Catapult"
-	GEONOSIAN_SHIP_harpoon: "Harpoon"
-	GEONOSIAN_SHIP_polybolos: "Polybolos"
-	GEONOSIAN_SHIP_culverin: "Culverin"
-	GEONOSIAN_SHIP_exemplary: "Exemplary"
-	GEONOSIAN_SHIP_CLASS_cr_90: "CR-90"
-	GEONOSIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	GEONOSIAN_SHIP_CLASS_lupus: "Lupus"
-	GEONOSIAN_SHIP_CLASS_asdroni: "Asdroni"
-	GEONOSIAN_SHIP_CLASS_customs: "Customs"
-	GEONOSIAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	GEONOSIAN_SHIP_CLASS_scurge: "Scurge"
-	GEONOSIAN_SHIP_CLASS_krayt: "Krayt"
-	GEONOSIAN_SHIP_CLASS_diamond: "Diamond"
-	GEONOSIAN_SHIP_CLASS_etti: "Etti"
-	GEONOSIAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	GEONOSIAN_SHIP_CLASS_vigil: "Vigil"
-	GEONOSIAN_SHIP_CLASS_dp20: "DP20"
-	GEONOSIAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	GEONOSIAN_SHIP_CLASS_raider: "Raider"
-	GEONOSIAN_SHIP_CLASS_dornean: "Dornean"
-	GEONOSIAN_SHIP_CLASS_crusader: "Crusader"
-	GEONOSIAN_SHIP_CLASS_marauder: "Marauder"
-	GEONOSIAN_SHIP_CLASS_arquitens: "Arquitens"
-	GEONOSIAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	GEONOSIAN_SHIP_CLASS_pelta: "Pelta"
-	GEONOSIAN_SHIP_CLASS_pinnace: "Pinnace"
-	GEONOSIAN_SHIP_CLASS_nova: "Nova"
-	GEONOSIAN_SHIP_CLASS_vigilance: "Vigilance"
-	GEONOSIAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	GEONOSIAN_SHIP_CLASS_cg_273: "CG-273"
-	GEONOSIAN_SHIP_CLASS_kariek: "Kariek"
-	GEONOSIAN_SHIP_CLASS_ton_falk: "Ton-Falk"
-	GEONOSIAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	GEONOSIAN_SHIP_CLASS_lancer: "Lancer"
-	GEONOSIAN_SHIP_CLASS_teroch: "Teroch"
-	GEONOSIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	GEONOSIAN_SHIP_CLASS_nova_ii: "Nova II"
-	GEONOSIAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	GEONOSIAN_SHIP_CLASS_velox: "Velox"
-	GEONOSIAN_SHIP_CLASS_mc30c: "MC30c"
-	GEONOSIAN_SHIP_CLASS_vengeance: "Vengeance"
-	GEONOSIAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	GEONOSIAN_SHIP_CLASS_cc_7700: "CC-7700"
-	GEONOSIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	GEONOSIAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	GEONOSIAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	GEONOSIAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	GEONOSIAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	GEONOSIAN_SHIP_CLASS_kontos: "Kontos"
-	GEONOSIAN_SHIP_CLASS_mc40: "MC40"
-	GEONOSIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	GEONOSIAN_SHIP_CLASS_broadside: "Broadside"
-	GEONOSIAN_SHIP_CLASS_protector: "Protector"
-	GEONOSIAN_SHIP_CLASS_warlord: "Warlord"
-	GEONOSIAN_SHIP_CLASS_gladiator: "Gladiator"
-	GEONOSIAN_SHIP_CLASS_beviin: "Beviin"
-	GEONOSIAN_SHIP_CLASS_liberator: "Liberator"
-	GEONOSIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	GEONOSIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	GEONOSIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	GEONOSIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	GEONOSIAN_SHIP_CLASS_massias: "Massias"
-	GEONOSIAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	GEONOSIAN_SHIP_CLASS_kyramud: "Kyramud"
-	GEONOSIAN_SHIP_CLASS_munificent: "Munificent"
-	GEONOSIAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	GEONOSIAN_SHIP_CLASS_acclamator: "Acclamator"
-	GEONOSIAN_SHIP_CLASS_lictor: "Lictor"
-	GEONOSIAN_SHIP_CLASS_bulwark: "Bulwark"
-	GEONOSIAN_SHIP_CLASS_victory_i: "Victory I"
-	GEONOSIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	GEONOSIAN_SHIP_CLASS_bulk: "Bulk"
-	GEONOSIAN_SHIP_CLASS_vindicator: "Vindicator"
-	GEONOSIAN_SHIP_CLASS_dauntless: "Dauntless"
-	GEONOSIAN_SHIP_CLASS_captor: "Captor"
-	GEONOSIAN_SHIP_CLASS_au_riette: "Au'riette"
-	GEONOSIAN_SHIP_CLASS_mc55: "MC55"
-	GEONOSIAN_SHIP_CLASS_afthonia: "Afthonia"
-	GEONOSIAN_SHIP_CLASS_victory_ii: "Victory II"
-	GEONOSIAN_SHIP_CLASS_beroya: "Beroya"
-	GEONOSIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	GEONOSIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	GEONOSIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	GEONOSIAN_SHIP_CLASS_venator: "Venator"
-	GEONOSIAN_SHIP_CLASS_centurion: "Centurion"
-	GEONOSIAN_SHIP_CLASS_mc75: "MC75"
-	GEONOSIAN_SHIP_CLASS_kandosii: "Kandosii"
-	GEONOSIAN_SHIP_CLASS_corellian: "Corellian"
-	GEONOSIAN_SHIP_CLASS_providence: "Providence"
-	GEONOSIAN_SHIP_CLASS_syndic: "Syndic"
-	GEONOSIAN_SHIP_CLASS_recusant: "Recusant"
-	GEONOSIAN_SHIP_CLASS_invincible: "Invincible"
-	GEONOSIAN_SHIP_CLASS_imperial_i: "Imperial I"
-	GEONOSIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	GEONOSIAN_SHIP_CLASS_procursator: "Procursator"
-	GEONOSIAN_SHIP_CLASS_mc80a: "MC80a"
-	GEONOSIAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	GEONOSIAN_SHIP_CLASS_aggressor: "Aggressor"
-	GEONOSIAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	GEONOSIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	GEONOSIAN_SHIP_CLASS_keldabe: "Keldabe"
-	GEONOSIAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	GEONOSIAN_SHIP_CLASS_chaf: "Chaf"
-	GEONOSIAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	GEONOSIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	GEONOSIAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	GEONOSIAN_SHIP_CLASS_dominator: "Dominator"
-	GEONOSIAN_SHIP_CLASS_allegiance: "Allegiance"
-	GEONOSIAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	GEONOSIAN_SHIP_CLASS_phalanx: "Phalanx"
-	GEONOSIAN_SHIP_CLASS_titan: "Titan"
-	GEONOSIAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	GEONOSIAN_SHIP_CLASS_star_home: "Star Home"
-	GEONOSIAN_SHIP_CLASS_subjugator: "Subjugator"
-	GEONOSIAN_SHIP_CLASS_bellator: "Bellator"
-	GEONOSIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	GEONOSIAN_SHIP_CLASS_executor: "Executor"
-	GEONOSIAN_FLEET_armada_ORD: "$ORD$ Armada"
-	GEONOSIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	GEONOSIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	GEONOSIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	GEONOSIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	GEONOSIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	GEONOSIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	GEONOSIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	GEONOSIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	GEONOSIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	GEONOSIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	GEONOSIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	GEONOSIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	GEONOSIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	GEONOSIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	GEONOSIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	GEONOSIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	GEONOSIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	GEONOSIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	GEONOSIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	GEONOSIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	GEONOSIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	GEONOSIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	GEONOSIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	GEONOSIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	GEONOSIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	GEONOSIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	GEONOSIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	GEONOSIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	GEONOSIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	GEONOSIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	GEONOSIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	GEONOSIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	GEONOSIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	GEONOSIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	GEONOSIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	GEONOSIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	GEONOSIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	GEONOSIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	GEONOSIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	GEONOSIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	GEONOSIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	GEONOSIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	GEONOSIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	GEONOSIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	GEONOSIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	GEONOSIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	GEONOSIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	GEONOSIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	GEONOSIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	GEONOSIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	GEONOSIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	GEONOSIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	GEONOSIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	GEONOSIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	GEONOSIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	GEONOSIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	GEONOSIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	GEONOSIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	GEONOSIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	GEONOSIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	GEONOSIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	GEONOSIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	GEONOSIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	GEONOSIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	GEONOSIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	GEONOSIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	GEONOSIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	GEONOSIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	GEONOSIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	GEONOSIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	GEONOSIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	GEONOSIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	GEONOSIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	GEONOSIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	GEONOSIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	GEONOSIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	GEONOSIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	GEONOSIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	GEONOSIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	GEONOSIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	GEONOSIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	GEONOSIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	GEONOSIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	GEONOSIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	GEONOSIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	GEONOSIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	GEONOSIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	GEONOSIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	GEONOSIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	GEONOSIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	GEONOSIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	GEONOSIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	GEONOSIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	GEONOSIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	GEONOSIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	GEONOSIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	GEONOSIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	GEONOSIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	GEONOSIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	GEONOSIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	GEONOSIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	GEONOSIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	GEONOSIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	GEONOSIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	GEONOSIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	GEONOSIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	GEONOSIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	GEONOSIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	GEONOSIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	GEONOSIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	GEONOSIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	GEONOSIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	GEONOSIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	GEONOSIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	GEONOSIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	GEONOSIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	GEONOSIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	GEONOSIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	GEONOSIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	GEONOSIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	GEONOSIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	GEONOSIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	GEONOSIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	GEONOSIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	GEONOSIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	GEONOSIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	GEONOSIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	GEONOSIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	GEONOSIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	GEONOSIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	GEONOSIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	GEONOSIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	GEONOSIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	GEONOSIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	GEONOSIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	GEONOSIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	GEONOSIAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	GEONOSIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	GEONOSIAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	GEONOSIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	GEONOSIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	GEONOSIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	GEONOSIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	GEONOSIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	GEONOSIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	GEONOSIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	GEONOSIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	GEONOSIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	GEONOSIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	GEONOSIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	GEONOSIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	GEONOSIAN_CHR_bogg: "Bogg"
-	GEONOSIAN_CHR_brachtor: "Brachtor"
-	GEONOSIAN_CHR_brenak: "Brenak"
-	GEONOSIAN_CHR_buzz: "Buzz"
-	GEONOSIAN_CHR_chopper: "Chopper"
-	GEONOSIAN_CHR_deshor: "Deshor"
-	GEONOSIAN_CHR_dimmock: "Dimmock"
-	GEONOSIAN_CHR_gizor: "Gizor"
-	GEONOSIAN_CHR_gorgol: "Gorgol"
-	GEONOSIAN_CHR_hadiss: "Hadiss"
-	GEONOSIAN_CHR_ikvizi: "Ikvizi"
-	GEONOSIAN_CHR_kyvax: "Kyvax"
-	GEONOSIAN_CHR_nekra: "Nekra"
-	GEONOSIAN_CHR_picador: "Picador"
-	GEONOSIAN_CHR_piddock: "Piddock"
-	GEONOSIAN_CHR_poggle: "Poggle"
-	GEONOSIAN_CHR_polarin: "Polarin"
-	GEONOSIAN_CHR_sivor: "Sivor"
-	GEONOSIAN_CHR_sun: "Sun"
-	GEONOSIAN_CHR_tookra: "Tookra"
-	GEONOSIAN_CHR_typtus: "Typtus"
-	GEONOSIAN_CHR_boggtus: "Boggtus"
-	GEONOSIAN_CHR_bungax: "Bungax"
-	GEONOSIAN_CHR_dellsi: "Dellsi"
-	GEONOSIAN_CHR_gol: "Gol"
-	GEONOSIAN_CHR_go: "Go"
-	GEONOSIAN_CHR_holgac: "Holgac"
-	GEONOSIAN_CHR_kekzo: "Kekzo"
-	GEONOSIAN_CHR_korlag: "Korlag"
-	GEONOSIAN_CHR_lorko: "Lorko"
-	GEONOSIAN_CHR_muzz: "Muzz"
-	GEONOSIAN_CHR_oggfas: "Oggfas"
-	GEONOSIAN_CHR_pellsor: "Pellsor"
-	GEONOSIAN_CHR_porrock: "Porrock"
-	GEONOSIAN_CHR_sazac: "Sazac"
-	GEONOSIAN_CHR_sazrivax: "Sazrivax"
-	GEONOSIAN_CHR_seegor: "Seegor"
-	GEONOSIAN_CHR_siklator: "Siklator"
-	GEONOSIAN_CHR_siridus: "Siridus"
-	GEONOSIAN_CHR_siviral: "Siviral"
-	GEONOSIAN_CHR_syss: "Syss"
-	GEONOSIAN_CHR_tunzas: "Tunzas"
-	GEONOSIAN_CHR_tysstle: "Tysstle"
-	GEONOSIAN_CHR_veorlafor: "Veorlafor"
-	GEONOSIAN_CHR_karina: "Karina"
-	GEONOSIAN_CHR_dali: "Dali"
-	GEONOSIAN_CHR_kryssdol: "Kryssdol"
-	GEONOSIAN_CHR_leen: "Leen"
-	GEONOSIAN_CHR_lyplal: "Lyplal"
-	GEONOSIAN_CHR_tunka: "Tunka"
-	GEONOSIAN_CHR_dellso: "Dellso"
-	GEONOSIAN_CHR_fac: "Fac"
-	GEONOSIAN_CHR_galard: "Galard"
-	GEONOSIAN_CHR_gehenbar: "Gehenbar"
-	GEONOSIAN_CHR_gogum: "Gogum"
-	GEONOSIAN_CHR_golbah: "Golbah"
-	GEONOSIAN_CHR_stalgasin: "Stalgasin"
-	GEONOSIAN_CHR_trellik: "Trellik"
-	GEONOSIAN_CHR_the_lesser: "The Lesser"
+	GEONOSIAN_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_onward: "Onward" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_trident: "Trident" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_venture: "Venture" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_viper: "Viper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_winger: "Winger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_senator: "Senator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_athena: "Athena" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nova: "Nova" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_protector: "Protector" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_devout: "Devout" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_purity: "Purity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_redma: "Redma" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_republic: "Republic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_undying: "Undying" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_valor: "Valor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_agile: "Agile" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_archer: "Archer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_errant: "Errant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_velox: "Velox" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_venator: "Venator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_success: "Success" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_knight: "Knight" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_comet: "Comet" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_magic: "Magic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_daring: "Daring" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_duty: "Duty" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hero: "Hero" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_justice: "Justice" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_malice: "Malice" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_menace: "Menace" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_predator: "Predator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_savage: "Savage" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_templar: "Templar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_terror: "Terror" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pike: "Pike" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_raider: "Raider" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_robust: "Robust" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_siren: "Siren" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_specter: "Specter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_superb: "Superb" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_talent: "Talent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_talon: "Talon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_argus: "Argus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_castor: "Castor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_circe: "Circe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_darius: "Darius" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_electra: "Electra" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_freya: "Freya" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hector: "Hector" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_janus: "Janus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_jason: "Jason" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_juno: "Juno" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_leander: "Leander" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mars: "Mars" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_medea: "Medea" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_minos: "Minos" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_odin: "Odin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_thor: "Thor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_triton: "Triton" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_venus: "Venus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_assail: "Assail" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_austere: "Austere" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_archon: "Archon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_legion: "Legion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_assault: "Assault" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_champion: "Champion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_glory: "Glory" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_renown: "Renown" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_executor: "Executor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_furious: "Furious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_titan: "Titan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nike: "Nike" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_katana: "Katana" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_torch: "Torch" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_potential: "Potential" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_isis: "Isis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_community: "Community" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_effort: "Effort" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_progress: "Progress" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_service: "Service" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_factory: "Factory" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_acre: "Acre" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_newport: "Newport" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_guam: "Guam" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_everest: "Everest" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_perry: "Perry" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_morris: "Morris" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hart: "Hart" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_turner: "Turner" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_doria: "Doria" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_durham: "Durham" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_milne: "Milne" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_pound: "Pound" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_king: "King" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_essen: "Essen" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_treville: "Treville" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_byng: "Byng" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	GEONOSIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	GEONOSIAN_FLEET_armada_ORD: "$ORD$ Armada" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	GEONOSIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	GEONOSIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	GEONOSIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	GEONOSIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	GEONOSIAN_CHR_bogg: "Bogg" #!Empty_LineInfo!
+	GEONOSIAN_CHR_brachtor: "Brachtor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_brenak: "Brenak" #!Empty_LineInfo!
+	GEONOSIAN_CHR_buzz: "Buzz" #!Empty_LineInfo!
+	GEONOSIAN_CHR_chopper: "Chopper" #!Empty_LineInfo!
+	GEONOSIAN_CHR_deshor: "Deshor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_dimmock: "Dimmock" #!Empty_LineInfo!
+	GEONOSIAN_CHR_gizor: "Gizor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_gorgol: "Gorgol" #!Empty_LineInfo!
+	GEONOSIAN_CHR_hadiss: "Hadiss" #!Empty_LineInfo!
+	GEONOSIAN_CHR_ikvizi: "Ikvizi" #!Empty_LineInfo!
+	GEONOSIAN_CHR_kyvax: "Kyvax" #!Empty_LineInfo!
+	GEONOSIAN_CHR_nekra: "Nekra" #!Empty_LineInfo!
+	GEONOSIAN_CHR_picador: "Picador" #!Empty_LineInfo!
+	GEONOSIAN_CHR_piddock: "Piddock" #!Empty_LineInfo!
+	GEONOSIAN_CHR_poggle: "Poggle" #!Empty_LineInfo!
+	GEONOSIAN_CHR_polarin: "Polarin" #!Empty_LineInfo!
+	GEONOSIAN_CHR_sivor: "Sivor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_sun: "Sun" #!Empty_LineInfo!
+	GEONOSIAN_CHR_tookra: "Tookra" #!Empty_LineInfo!
+	GEONOSIAN_CHR_typtus: "Typtus" #!Empty_LineInfo!
+	GEONOSIAN_CHR_boggtus: "Boggtus" #!Empty_LineInfo!
+	GEONOSIAN_CHR_bungax: "Bungax" #!Empty_LineInfo!
+	GEONOSIAN_CHR_dellsi: "Dellsi" #!Empty_LineInfo!
+	GEONOSIAN_CHR_gol: "Gol" #!Empty_LineInfo!
+	GEONOSIAN_CHR_go: "Go" #!Empty_LineInfo!
+	GEONOSIAN_CHR_holgac: "Holgac" #!Empty_LineInfo!
+	GEONOSIAN_CHR_kekzo: "Kekzo" #!Empty_LineInfo!
+	GEONOSIAN_CHR_korlag: "Korlag" #!Empty_LineInfo!
+	GEONOSIAN_CHR_lorko: "Lorko" #!Empty_LineInfo!
+	GEONOSIAN_CHR_muzz: "Muzz" #!Empty_LineInfo!
+	GEONOSIAN_CHR_oggfas: "Oggfas" #!Empty_LineInfo!
+	GEONOSIAN_CHR_pellsor: "Pellsor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_porrock: "Porrock" #!Empty_LineInfo!
+	GEONOSIAN_CHR_sazac: "Sazac" #!Empty_LineInfo!
+	GEONOSIAN_CHR_sazrivax: "Sazrivax" #!Empty_LineInfo!
+	GEONOSIAN_CHR_seegor: "Seegor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_siklator: "Siklator" #!Empty_LineInfo!
+	GEONOSIAN_CHR_siridus: "Siridus" #!Empty_LineInfo!
+	GEONOSIAN_CHR_siviral: "Siviral" #!Empty_LineInfo!
+	GEONOSIAN_CHR_syss: "Syss" #!Empty_LineInfo!
+	GEONOSIAN_CHR_tunzas: "Tunzas" #!Empty_LineInfo!
+	GEONOSIAN_CHR_tysstle: "Tysstle" #!Empty_LineInfo!
+	GEONOSIAN_CHR_veorlafor: "Veorlafor" #!Empty_LineInfo!
+	GEONOSIAN_CHR_karina: "Karina" #!Empty_LineInfo!
+	GEONOSIAN_CHR_dali: "Dali" #!Empty_LineInfo!
+	GEONOSIAN_CHR_kryssdol: "Kryssdol" #!Empty_LineInfo!
+	GEONOSIAN_CHR_leen: "Leen" #!Empty_LineInfo!
+	GEONOSIAN_CHR_lyplal: "Lyplal" #!Empty_LineInfo!
+	GEONOSIAN_CHR_tunka: "Tunka" #!Empty_LineInfo!
+	GEONOSIAN_CHR_dellso: "Dellso" #!Empty_LineInfo!
+	GEONOSIAN_CHR_fac: "Fac" #!Empty_LineInfo!
+	GEONOSIAN_CHR_galard: "Galard" #!Empty_LineInfo!
+	GEONOSIAN_CHR_gehenbar: "Gehenbar" #!Empty_LineInfo!
+	GEONOSIAN_CHR_gogum: "Gogum" #!Empty_LineInfo!
+	GEONOSIAN_CHR_golbah: "Golbah" #!Empty_LineInfo!
+	GEONOSIAN_CHR_stalgasin: "Stalgasin" #!Empty_LineInfo!
+	GEONOSIAN_CHR_trellik: "Trellik" #!Empty_LineInfo!
+	GEONOSIAN_CHR_the_lesser: "The Lesser" #!Empty_LineInfo!

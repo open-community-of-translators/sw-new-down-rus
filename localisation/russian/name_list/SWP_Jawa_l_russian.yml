@@ -1,1208 +1,1208 @@
 ﻿l_russian:
-	JAWA_SHIP_mystic: "Mystic"
-	JAWA_SHIP_naiad: "Naiad"
-	JAWA_SHIP_nautilus: "Nautilus"
-	JAWA_SHIP_nebula: "Nebula"
-	JAWA_SHIP_nimble: "Nimble"
-	JAWA_SHIP_north_star: "North Star"
-	JAWA_SHIP_nymph: "Nymph"
-	JAWA_SHIP_obdurate: "Obdurate"
-	JAWA_SHIP_ocean: "Ocean"
-	JAWA_SHIP_onward: "Onward"
-	JAWA_SHIP_oracle: "Oracle"
-	JAWA_SHIP_paradox: "Paradox"
-	JAWA_SHIP_paragon: "Paragon"
-	JAWA_SHIP_pearl: "Pearl"
-	JAWA_SHIP_peregrine: "Peregrine"
-	JAWA_SHIP_perseverance: "Perseverance"
-	JAWA_SHIP_marksman: "Marksman"
-	JAWA_SHIP_rifleman: "Rifleman"
-	JAWA_SHIP_sniper: "Sniper"
-	JAWA_SHIP_trident: "Trident"
-	JAWA_SHIP_trumpet: "Trumpet"
-	JAWA_SHIP_truncheon: "Truncheon"
-	JAWA_SHIP_typhoon: "Typhoon"
-	JAWA_SHIP_undaunted: "Undaunted"
-	JAWA_SHIP_venture: "Venture"
-	JAWA_SHIP_versatile: "Versatile"
-	JAWA_SHIP_vigorous: "Vigorous"
-	JAWA_SHIP_viper: "Viper"
-	JAWA_SHIP_vivacious: "Vivacious"
-	JAWA_SHIP_winger: "Winger"
-	JAWA_SHIP_wizard: "Wizard"
-	JAWA_SHIP_wyvern: "Wyvern"
-	JAWA_SHIP_wolfhound: "Wolfhound"
-	JAWA_SHIP_devastator: "Devastator"
-	JAWA_SHIP_warhammer: "Warhammer"
-	JAWA_SHIP_retribution: "Retribution"
-	JAWA_SHIP_senator: "Senator"
-	JAWA_SHIP_tornado: "Tornado"
-	JAWA_SHIP_infinity: "Infinity"
-	JAWA_SHIP_usurper: "Usurper"
-	JAWA_SHIP_utmost: "Utmost"
-	JAWA_SHIP_valorous: "Valorous"
-	JAWA_SHIP_whirlwind: "Whirlwind"
-	JAWA_SHIP_athena: "Athena"
-	JAWA_SHIP_artemis: "Artemis"
-	JAWA_SHIP_vigilance: "Vigilance"
-	JAWA_SHIP_decimator: "Decimator"
-	JAWA_SHIP_indomitable: "Indomitable"
-	JAWA_SHIP_goliath: "Goliath"
-	JAWA_SHIP_sentinel: "Sentinel"
-	JAWA_SHIP_brilliant: "Brilliant"
-	JAWA_SHIP_blazer: "Blazer"
-	JAWA_SHIP_audacity: "Audacity"
-	JAWA_SHIP_gallant: "Gallant"
-	JAWA_SHIP_nova: "Nova"
-	JAWA_SHIP_shadow: "Shadow"
-	JAWA_SHIP_allegiance: "Allegiance"
-	JAWA_SHIP_challenger: "Challenger"
-	JAWA_SHIP_fearless: "Fearless"
-	JAWA_SHIP_protector: "Protector"
-	JAWA_SHIP_guardian: "Guardian"
-	JAWA_SHIP_victorious: "Victorious"
-	JAWA_SHIP_courageous: "Courageous"
-	JAWA_SHIP_defiance: "Defiance"
-	JAWA_SHIP_azrael: "Azrael"
-	JAWA_SHIP_adamantine: "Adamantine"
-	JAWA_SHIP_aralanni: "Aralanni"
-	JAWA_SHIP_ardent_iv: "Ardent IV"
-	JAWA_SHIP_armistice: "Armistice"
-	JAWA_SHIP_avengeance: "Avengeance"
-	JAWA_SHIP_ballista: "Ballista"
-	JAWA_SHIP_bloodstripe: "Bloodstripe"
-	JAWA_SHIP_borealis: "Borealis"
-	JAWA_SHIP_caelus: "Caelus"
-	JAWA_SHIP_caravan: "Caravan"
-	JAWA_SHIP_chaf_envoy: "Chaf Envoy"
-	JAWA_SHIP_commenor: "Commenor"
-	JAWA_SHIP_corbantis: "Corbantis"
-	JAWA_SHIP_corellia: "Corellia"
-	JAWA_SHIP_courteous: "Courteous"
-	JAWA_SHIP_dauntless: "Dauntless"
-	JAWA_SHIP_defiant: "Defiant"
-	JAWA_SHIP_deliverance: "Deliverance"
-	JAWA_SHIP_derapha: "Derapha"
-	JAWA_SHIP_devout: "Devout"
-	JAWA_SHIP_empirical: "Empirical"
-	JAWA_SHIP_empyrean: "Empyrean"
-	JAWA_SHIP_era_daimanos: "Era Daimanos"
-	JAWA_SHIP_eye_of_the_storm: "Eye of the Storm"
-	JAWA_SHIP_farstar: "Farstar"
-	JAWA_SHIP_fastblast: "Fastblast"
-	JAWA_SHIP_galaaron: "Galaaron"
-	JAWA_SHIP_garrote: "Garrote"
-	JAWA_SHIP_gilagimar: "Gilagimar"
-	JAWA_SHIP_halleck: "Halleck"
-	JAWA_SHIP_hunter: "Hunter"
-	JAWA_SHIP_intractable: "Intractable"
-	JAWA_SHIP_ithor_lady: "Ithor Lady"
-	JAWA_SHIP_justice_crusader: "Justice Crusader"
-	JAWA_SHIP_kana_s_steel: "Kana's Steel"
-	JAWA_SHIP_lathir: "Lathir"
-	JAWA_SHIP_liberty: "Liberty"
-	JAWA_SHIP_lillibanca: "Lillibanca"
-	JAWA_SHIP_maelstrom: "Maelstrom"
-	JAWA_SHIP_malachite_scent: "Malachite Scent"
-	JAWA_SHIP_mercy: "Mercy"
-	JAWA_SHIP_myrkos: "Myrkos"
-	JAWA_SHIP_nebula_chaser: "Nebula Chaser"
-	JAWA_SHIP_nova_viper: "Nova Viper"
-	JAWA_SHIP_obedience: "Obedience"
-	JAWA_SHIP_olemp: "Olemp"
-	JAWA_SHIP_pegasus: "Pegasus"
-	JAWA_SHIP_perspicacity: "Perspicacity"
-	JAWA_SHIP_phalanx: "Phalanx"
-	JAWA_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	JAWA_SHIP_predominance: "Predominance"
-	JAWA_SHIP_prosperity: "Prosperity"
-	JAWA_SHIP_purity: "Purity"
-	JAWA_SHIP_recalcitrant: "Recalcitrant"
-	JAWA_SHIP_red_nova: "Red Nova"
-	JAWA_SHIP_redma: "Redma"
-	JAWA_SHIP_reliable: "Reliable"
-	JAWA_SHIP_reliant: "Reliant"
-	JAWA_SHIP_reluctant: "Reluctant"
-	JAWA_SHIP_republic: "Republic"
-	JAWA_SHIP_republic_s_return: "Republic's Return"
-	JAWA_SHIP_resolve: "Resolve"
-	JAWA_SHIP_respectable: "Respectable"
-	JAWA_SHIP_revenge: "Revenge"
-	JAWA_SHIP_shadowblade: "Shadowblade"
-	JAWA_SHIP_spritespray: "Spritespray"
-	JAWA_SHIP_star_dream: "Star Dream"
-	JAWA_SHIP_stark_wing: "Stark Wing"
-	JAWA_SHIP_starveil: "Starveil"
-	JAWA_SHIP_undying: "Undying"
-	JAWA_SHIP_vaathkree: "Vaathkree"
-	JAWA_SHIP_vainglorious: "Vainglorious"
-	JAWA_SHIP_valiant: "Valiant"
-	JAWA_SHIP_valor: "Valor"
-	JAWA_SHIP_vanquisher: "Vanquisher"
-	JAWA_SHIP_vinsor: "Vinsor"
-	JAWA_SHIP_visseon: "Visseon"
-	JAWA_SHIP_wennis: "Wennis"
-	JAWA_SHIP_yavin_s_glory: "Yavin's Glory"
-	JAWA_SHIP_moldy_crow: "Moldy Crow"
-	JAWA_SHIP_raven_s_claw: "Raven's Claw"
-	JAWA_SHIP_agile: "Agile"
-	JAWA_SHIP_archer: "Archer"
-	JAWA_SHIP_arrow: "Arrow"
-	JAWA_SHIP_bruiser: "Bruiser"
-	JAWA_SHIP_cherub: "Cherub"
-	JAWA_SHIP_chimera: "Chimera"
-	JAWA_SHIP_claymore: "Claymore"
-	JAWA_SHIP_broadsword: "Broadsword"
-	JAWA_SHIP_battleaxe: "Battleaxe"
-	JAWA_SHIP_crossbow: "Crossbow"
-	JAWA_SHIP_cutlass: "Cutlass"
-	JAWA_SHIP_deterrent: "Deterrent"
-	JAWA_SHIP_errant: "Errant"
-	JAWA_SHIP_faithful: "Faithful"
-	JAWA_SHIP_fierce: "Fierce"
-	JAWA_SHIP_gladius: "Gladius"
-	JAWA_SHIP_longbow: "Longbow"
-	JAWA_SHIP_grappler: "Grappler"
-	JAWA_SHIP_hammer: "Hammer"
-	JAWA_SHIP_vampire: "Vampire"
-	JAWA_SHIP_velox: "Velox"
-	JAWA_SHIP_venator: "Venator"
-	JAWA_SHIP_vendetta: "Vendetta"
-	JAWA_SHIP_venerable: "Venerable"
-	JAWA_SHIP_venomous: "Venomous"
-	JAWA_SHIP_taciturn: "Taciturn"
-	JAWA_SHIP_supreme: "Supreme"
-	JAWA_SHIP_success: "Success"
-	JAWA_SHIP_shredder: "Shredder"
-	JAWA_SHIP_seraph: "Seraph"
-	JAWA_SHIP_serpent: "Serpent"
-	JAWA_SHIP_spitfire: "Spitfire"
-	JAWA_SHIP_stalker: "Stalker"
-	JAWA_SHIP_stratagem: "Stratagem"
-	JAWA_SHIP_scimitar: "Scimitar"
-	JAWA_SHIP_scorcher: "Scorcher"
-	JAWA_SHIP_scourge: "Scourge"
-	JAWA_SHIP_scythe: "Scythe"
-	JAWA_SHIP_revenant: "Revenant"
-	JAWA_SHIP_redoubtable: "Redoubtable"
-	JAWA_SHIP_raptor: "Raptor"
-	JAWA_SHIP_reaver: "Reaver"
-	JAWA_SHIP_prodigal: "Prodigal"
-	JAWA_SHIP_rapier: "Rapier"
-	JAWA_SHIP_prudent: "Prudent"
-	JAWA_SHIP_persistent: "Persistent"
-	JAWA_SHIP_peerless: "Peerless"
-	JAWA_SHIP_myrmidon: "Myrmidon"
-	JAWA_SHIP_indignant: "Indignant"
-	JAWA_SHIP_javelin: "Javelin"
-	JAWA_SHIP_knight: "Knight"
-	JAWA_SHIP_starwolf: "Starwolf"
-	JAWA_SHIP_bonaventure: "Bonaventure"
-	JAWA_SHIP_adventure: "Adventure"
-	JAWA_SHIP_boxer: "Boxer"
-	JAWA_SHIP_buccaneer: "Buccaneer"
-	JAWA_SHIP_cavalier: "Cavalier"
-	JAWA_SHIP_celestial: "Celestial"
-	JAWA_SHIP_chariot: "Chariot"
-	JAWA_SHIP_comet: "Comet"
-	JAWA_SHIP_crucible: "Crucible"
-	JAWA_SHIP_cyclone: "Cyclone"
-	JAWA_SHIP_decisive: "Decisive"
-	JAWA_SHIP_dexterous: "Dexterous"
-	JAWA_SHIP_diadem: "Diadem"
-	JAWA_SHIP_earnest: "Earnest"
-	JAWA_SHIP_eclipse: "Eclipse"
-	JAWA_SHIP_forger: "Forger"
-	JAWA_SHIP_fortune: "Fortune"
-	JAWA_SHIP_gauntlet: "Gauntlet"
-	JAWA_SHIP_griffin: "Griffin"
-	JAWA_SHIP_horizon: "Horizon"
-	JAWA_SHIP_hotspur: "Hotspur"
-	JAWA_SHIP_hurricane: "Hurricane"
-	JAWA_SHIP_hussar: "Hussar"
-	JAWA_SHIP_jubilant: "Jubilant"
-	JAWA_SHIP_lancer: "Lancer"
-	JAWA_SHIP_lightning: "Lightning"
-	JAWA_SHIP_magic: "Magic"
-	JAWA_SHIP_mediator: "Mediator"
-	JAWA_SHIP_mermaid: "Mermaid"
-	JAWA_SHIP_meteor: "Meteor"
-	JAWA_SHIP_minstrel: "Minstrel"
-	JAWA_SHIP_miranda: "Miranda"
-	JAWA_SHIP_mustang: "Mustang"
-	JAWA_SHIP_sharpshooter: "Sharpshooter"
-	JAWA_SHIP_cyclops: "Cyclops"
-	JAWA_SHIP_centaur: "Centaur"
-	JAWA_SHIP_adversary: "Adversary"
-	JAWA_SHIP_assassin: "Assassin"
-	JAWA_SHIP_dagger: "Dagger"
-	JAWA_SHIP_daring: "Daring"
-	JAWA_SHIP_duty: "Duty"
-	JAWA_SHIP_havoc: "Havoc"
-	JAWA_SHIP_hero: "Hero"
-	JAWA_SHIP_justice: "Justice"
-	JAWA_SHIP_impeccable: "Impeccable"
-	JAWA_SHIP_interceptor: "Interceptor"
-	JAWA_SHIP_infernal: "Infernal"
-	JAWA_SHIP_loyal: "Loyal"
-	JAWA_SHIP_matchless: "Matchless"
-	JAWA_SHIP_mauler: "Mauler"
-	JAWA_SHIP_mayhem: "Mayhem"
-	JAWA_SHIP_malice: "Malice"
-	JAWA_SHIP_menace: "Menace"
-	JAWA_SHIP_merciless: "Merciless"
-	JAWA_SHIP_mischief: "Mischief"
-	JAWA_SHIP_monarch: "Monarch"
-	JAWA_SHIP_patriot: "Patriot"
-	JAWA_SHIP_predator: "Predator"
-	JAWA_SHIP_powerful: "Powerful"
-	JAWA_SHIP_punisher: "Punisher"
-	JAWA_SHIP_ravager: "Ravager"
-	JAWA_SHIP_reaper: "Reaper"
-	JAWA_SHIP_savage: "Savage"
-	JAWA_SHIP_spiteful: "Spiteful"
-	JAWA_SHIP_templar: "Templar"
-	JAWA_SHIP_terminator: "Terminator"
-	JAWA_SHIP_terror: "Terror"
-	JAWA_SHIP_thrasher: "Thrasher"
-	JAWA_SHIP_minotaur: "Minotaur"
-	JAWA_SHIP_manticore: "Manticore"
-	JAWA_SHIP_interdictor: "Interdictor"
-	JAWA_SHIP_intruder: "Intruder"
-	JAWA_SHIP_hydra: "Hydra"
-	JAWA_SHIP_enfield: "Enfield"
-	JAWA_SHIP_harasser: "Harasser"
-	JAWA_SHIP_unbeaten: "Unbeaten"
-	JAWA_SHIP_werewolf: "Werewolf"
-	JAWA_SHIP_zealous: "Zealous"
-	JAWA_SHIP_petulant: "Petulant"
-	JAWA_SHIP_phantom: "Phantom"
-	JAWA_SHIP_phoenix: "Phoenix"
-	JAWA_SHIP_pike: "Pike"
-	JAWA_SHIP_pursuer: "Pursuer"
-	JAWA_SHIP_raider: "Raider"
-	JAWA_SHIP_rainbow: "Rainbow"
-	JAWA_SHIP_rapid: "Rapid"
-	JAWA_SHIP_redemption: "Redemption"
-	JAWA_SHIP_relentless: "Relentless"
-	JAWA_SHIP_rigorous: "Rigorous"
-	JAWA_SHIP_robust: "Robust"
-	JAWA_SHIP_sabre: "Sabre"
-	JAWA_SHIP_salvation: "Salvation"
-	JAWA_SHIP_sanguine: "Sanguine"
-	JAWA_SHIP_scarab: "Scarab"
-	JAWA_SHIP_scepter: "Scepter"
-	JAWA_SHIP_sea_witch: "Sea Witch"
-	JAWA_SHIP_siren: "Siren"
-	JAWA_SHIP_sorceress: "Sorceress"
-	JAWA_SHIP_spearhead: "Spearhead"
-	JAWA_SHIP_specter: "Specter"
-	JAWA_SHIP_spirit: "Spirit"
-	JAWA_SHIP_splendid: "Splendid"
-	JAWA_SHIP_stallion: "Stallion"
-	JAWA_SHIP_stalwart: "Stalwart"
-	JAWA_SHIP_steadfast: "Steadfast"
-	JAWA_SHIP_strenuous: "Strenuous"
-	JAWA_SHIP_superb: "Superb"
-	JAWA_SHIP_supernova: "Supernova"
-	JAWA_SHIP_surprise: "Surprise"
-	JAWA_SHIP_swiftsure: "Swiftsure"
-	JAWA_SHIP_talent: "Talent"
-	JAWA_SHIP_talisman: "Talisman"
-	JAWA_SHIP_talon: "Talon"
-	JAWA_SHIP_taurus: "Taurus"
-	JAWA_SHIP_tenacious: "Tenacious"
-	JAWA_SHIP_thunder_child: "Thunder Child"
-	JAWA_SHIP_thunderous: "Thunderous"
-	JAWA_SHIP_tireless: "Tireless"
-	JAWA_SHIP_trenchant: "Trenchant"
-	JAWA_SHIP_righteous: "Righteous"
-	JAWA_SHIP_acheron: "Acheron"
-	JAWA_SHIP_achilles: "Achilles"
-	JAWA_SHIP_agamemnon: "Agamemnon"
-	JAWA_SHIP_amphion: "Amphion"
-	JAWA_SHIP_aquilon: "Aquilon"
-	JAWA_SHIP_argonaut: "Argonaut"
-	JAWA_SHIP_argus: "Argus"
-	JAWA_SHIP_ariel: "Ariel"
-	JAWA_SHIP_aurora: "Aurora"
-	JAWA_SHIP_avernus: "Avernus"
-	JAWA_SHIP_bacchus: "Bacchus"
-	JAWA_SHIP_bucephalus: "Bucephalus"
-	JAWA_SHIP_calliope: "Calliope"
-	JAWA_SHIP_calypso: "Calypso"
-	JAWA_SHIP_castor: "Castor"
-	JAWA_SHIP_charybdis: "Charybdis"
-	JAWA_SHIP_circe: "Circe"
-	JAWA_SHIP_cleopatra: "Cleopatra"
-	JAWA_SHIP_constantine: "Constantine"
-	JAWA_SHIP_cordelia: "Cordelia"
-	JAWA_SHIP_cyrus: "Cyrus"
-	JAWA_SHIP_damocles: "Damocles"
-	JAWA_SHIP_daedalus: "Daedalus"
-	JAWA_SHIP_darius: "Darius"
-	JAWA_SHIP_diomede: "Diomede"
-	JAWA_SHIP_dryad: "Dryad"
-	JAWA_SHIP_electra: "Electra"
-	JAWA_SHIP_endymion: "Endymion"
-	JAWA_SHIP_erebus: "Erebus"
-	JAWA_SHIP_fenris: "Fenris"
-	JAWA_SHIP_freya: "Freya"
-	JAWA_SHIP_gilgamesh: "Gilgamesh"
-	JAWA_SHIP_gorgon: "Gorgon"
-	JAWA_SHIP_halcyon: "Halcyon"
-	JAWA_SHIP_hecate: "Hecate"
-	JAWA_SHIP_hector: "Hector"
-	JAWA_SHIP_hesperus: "Hesperus"
-	JAWA_SHIP_janus: "Janus"
-	JAWA_SHIP_jason: "Jason"
-	JAWA_SHIP_juno: "Juno"
-	JAWA_SHIP_jupiter: "Jupiter"
-	JAWA_SHIP_lancelot: "Lancelot"
-	JAWA_SHIP_lazarus: "Lazarus"
-	JAWA_SHIP_leander: "Leander"
-	JAWA_SHIP_leonidas: "Leonidas"
-	JAWA_SHIP_lysander: "Lysander"
-	JAWA_SHIP_maenad: "Maenad"
-	JAWA_SHIP_mars: "Mars"
-	JAWA_SHIP_medea: "Medea"
-	JAWA_SHIP_medusa: "Medusa"
-	JAWA_SHIP_menestheus: "Menestheus"
-	JAWA_SHIP_mercury: "Mercury"
-	JAWA_SHIP_merlin: "Merlin"
-	JAWA_SHIP_minerva: "Minerva"
-	JAWA_SHIP_minos: "Minos"
-	JAWA_SHIP_neptune: "Neptune"
-	JAWA_SHIP_nessus: "Nessus"
-	JAWA_SHIP_nestor: "Nestor"
-	JAWA_SHIP_nimrod: "Nimrod"
-	JAWA_SHIP_niobe: "Niobe"
-	JAWA_SHIP_oberon: "Oberon"
-	JAWA_SHIP_odin: "Odin"
-	JAWA_SHIP_ophelia: "Ophelia"
-	JAWA_SHIP_orestes: "Orestes"
-	JAWA_SHIP_orpheus: "Orpheus"
-	JAWA_SHIP_osiris: "Osiris"
-	JAWA_SHIP_pandora: "Pandora"
-	JAWA_SHIP_penelope: "Penelope"
-	JAWA_SHIP_persephone: "Persephone"
-	JAWA_SHIP_perseus: "Perseus"
-	JAWA_SHIP_phoebe: "Phoebe"
-	JAWA_SHIP_pluto: "Pluto"
-	JAWA_SHIP_poseidon: "Poseidon"
-	JAWA_SHIP_proteus: "Proteus"
-	JAWA_SHIP_pylades: "Pylades"
-	JAWA_SHIP_serapis: "Serapis"
-	JAWA_SHIP_stygian: "Stygian"
-	JAWA_SHIP_tantalus: "Tantalus"
-	JAWA_SHIP_telemachus: "Telemachus"
-	JAWA_SHIP_theseus: "Theseus"
-	JAWA_SHIP_thor: "Thor"
-	JAWA_SHIP_trajan: "Trajan"
-	JAWA_SHIP_triton: "Triton"
-	JAWA_SHIP_venus: "Venus"
-	JAWA_SHIP_adamant: "Adamant"
-	JAWA_SHIP_ardent: "Ardent"
-	JAWA_SHIP_assail: "Assail"
-	JAWA_SHIP_austere: "Austere"
-	JAWA_SHIP_archon: "Archon"
-	JAWA_SHIP_adroit: "Adroit"
-	JAWA_SHIP_aegis: "Aegis"
-	JAWA_SHIP_anchor: "Anchor"
-	JAWA_SHIP_corsair: "Corsair"
-	JAWA_SHIP_banshee: "Banshee"
-	JAWA_SHIP_enchantress: "Enchantress"
-	JAWA_SHIP_eradicator: "Eradicator"
-	JAWA_SHIP_tormentor: "Tormentor"
-	JAWA_SHIP_legion: "Legion"
-	JAWA_SHIP_reprisal: "Reprisal"
-	JAWA_SHIP_aggressor: "Aggressor"
-	JAWA_SHIP_assault: "Assault"
-	JAWA_SHIP_eviscerator: "Eviscerator"
-	JAWA_SHIP_imperator: "Imperator"
-	JAWA_SHIP_excellence: "Excellence"
-	JAWA_SHIP_unrivalled: "Unrivalled"
-	JAWA_SHIP_warlord: "Warlord"
-	JAWA_SHIP_vengeance: "Vengeance"
-	JAWA_SHIP_triumphant: "Triumphant"
-	JAWA_SHIP_nemesis: "Nemesis"
-	JAWA_SHIP_avenger: "Avenger"
-	JAWA_SHIP_champion: "Champion"
-	JAWA_SHIP_conqueror: "Conqueror"
-	JAWA_SHIP_crusader: "Crusader"
-	JAWA_SHIP_glory: "Glory"
-	JAWA_SHIP_immortal: "Immortal"
-	JAWA_SHIP_judicator: "Judicator"
-	JAWA_SHIP_vanguard: "Vanguard"
-	JAWA_SHIP_renown: "Renown"
-	JAWA_SHIP_demolisher: "Demolisher"
-	JAWA_SHIP_dragon: "Dragon"
-	JAWA_SHIP_executor: "Executor"
-	JAWA_SHIP_furious: "Furious"
-	JAWA_SHIP_gladiator: "Gladiator"
-	JAWA_SHIP_magnificent: "Magnificent"
-	JAWA_SHIP_ogre: "Ogre"
-	JAWA_SHIP_onslaught: "Onslaught"
-	JAWA_SHIP_vehement: "Vehement"
-	JAWA_SHIP_basilisk: "Basilisk"
-	JAWA_SHIP_tempest: "Tempest"
-	JAWA_SHIP_overlord: "Overlord"
-	JAWA_SHIP_warrior: "Warrior"
-	JAWA_SHIP_titan: "Titan"
-	JAWA_SHIP_colossus: "Colossus"
-	JAWA_SHIP_prometheus: "Prometheus"
-	JAWA_SHIP_nike: "Nike"
-	JAWA_SHIP_paladin: "Paladin"
-	JAWA_SHIP_sovereign: "Sovereign"
-	JAWA_SHIP_repulse: "Repulse"
-	JAWA_SHIP_majestic: "Majestic"
-	JAWA_SHIP_avatar: "Avatar"
-	JAWA_SHIP_behemoth: "Behemoth"
-	JAWA_SHIP_centurion: "Centurion"
-	JAWA_SHIP_citadel: "Citadel"
-	JAWA_SHIP_katana: "Katana"
-	JAWA_SHIP_kraken: "Kraken"
-	JAWA_SHIP_cerberus: "Cerberus"
-	JAWA_SHIP_valkyrie: "Valkyrie"
-	JAWA_SHIP_dreadnought: "Dreadnought"
-	JAWA_SHIP_harbinger: "Harbinger"
-	JAWA_SHIP_juggernaut: "Juggernaut"
-	JAWA_SHIP_leviathan: "Leviathan"
-	JAWA_SHIP_hyperion: "Hyperion"
-	JAWA_SHIP_galatea: "Galatea"
-	JAWA_SHIP_ambush: "Ambush"
-	JAWA_SHIP_vindicator: "Vindicator"
-	JAWA_SHIP_crescent: "Crescent"
-	JAWA_SHIP_diligent: "Diligent"
-	JAWA_SHIP_zephyr: "Zephyr"
-	JAWA_SHIP_enigma: "Enigma"
-	JAWA_SHIP_conquistador: "Conquistador"
-	JAWA_SHIP_scylla: "Scylla"
-	JAWA_SHIP_arbiter: "Arbiter"
-	JAWA_SHIP_asperity: "Asperity"
-	JAWA_SHIP_eminence: "Eminence"
-	JAWA_SHIP_astute: "Astute"
-	JAWA_SHIP_alacrity: "Alacrity"
-	JAWA_SHIP_satyr: "Satyr"
-	JAWA_SHIP_prospero: "Prospero"
-	JAWA_SHIP_untiring: "Untiring"
-	JAWA_SHIP_zenith: "Zenith"
-	JAWA_SHIP_torch: "Torch"
-	JAWA_SHIP_remembrance: "Remembrance"
-	JAWA_SHIP_pilgrim: "Pilgrim"
-	JAWA_SHIP_trailblazer: "Trailblazer"
-	JAWA_SHIP_vagabond: "Vagabond"
-	JAWA_SHIP_wayfarer: "Wayfarer"
-	JAWA_SHIP_ambassador: "Ambassador"
-	JAWA_SHIP_emissary: "Emissary"
-	JAWA_SHIP_nomad: "Nomad"
-	JAWA_SHIP_pathfinder: "Pathfinder"
-	JAWA_SHIP_wanderer: "Wanderer"
-	JAWA_SHIP_traveler: "Traveler"
-	JAWA_SHIP_godspeed: "Godspeed"
-	JAWA_SHIP_prophecy: "Prophecy"
-	JAWA_SHIP_manifest_destiny: "Manifest Destiny"
-	JAWA_SHIP_virtue: "Virtue"
-	JAWA_SHIP_potential: "Potential"
-	JAWA_SHIP_expansion: "Expansion"
-	JAWA_SHIP_pioneer_spirit: "Pioneer Spirit"
-	JAWA_SHIP_summit: "Summit"
-	JAWA_SHIP_pinnacle: "Pinnacle"
-	JAWA_SHIP_seeder: "Seeder"
-	JAWA_SHIP_harvest: "Harvest"
-	JAWA_SHIP_demeter: "Demeter"
-	JAWA_SHIP_isis: "Isis"
-	JAWA_SHIP_ceres: "Ceres"
-	JAWA_SHIP_exodus: "Exodus"
-	JAWA_SHIP_foundation: "Foundation"
-	JAWA_SHIP_scion: "Scion"
-	JAWA_SHIP_progeny: "Progeny"
-	JAWA_SHIP_obligation: "Obligation"
-	JAWA_SHIP_purpose: "Purpose"
-	JAWA_SHIP_provider: "Provider"
-	JAWA_SHIP_shining_city: "Shining City"
-	JAWA_SHIP_acquirer: "Acquirer"
-	JAWA_SHIP_cultivator: "Cultivator"
-	JAWA_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	JAWA_SHIP_community: "Community"
-	JAWA_SHIP_brotherhood: "Brotherhood"
-	JAWA_SHIP_industry: "Industry"
-	JAWA_SHIP_assiduity: "Assiduity"
-	JAWA_SHIP_effort: "Effort"
-	JAWA_SHIP_laborer: "Laborer"
-	JAWA_SHIP_builder: "Builder"
-	JAWA_SHIP_craftsman: "Craftsman"
-	JAWA_SHIP_hard_hat: "Hard Hat"
-	JAWA_SHIP_progress: "Progress"
-	JAWA_SHIP_engineer: "Engineer"
-	JAWA_SHIP_promise: "Promise"
-	JAWA_SHIP_service: "Service"
-	JAWA_SHIP_shelter: "Shelter"
-	JAWA_SHIP_beast: "Beast"
-	JAWA_SHIP_creator: "Creator"
-	JAWA_SHIP_developer: "Developer"
-	JAWA_SHIP_foundry: "Foundry"
-	JAWA_SHIP_factory: "Factory"
-	JAWA_SHIP_anvil: "Anvil"
-	JAWA_SHIP_pillar: "Pillar"
-	JAWA_SHIP_architect: "Architect"
-	JAWA_SHIP_accommodator: "Accommodator"
-	JAWA_SHIP_ptah: "Ptah"
-	JAWA_SHIP_ilmarinen: "Ilmarinen"
-	JAWA_SHIP_creidhne: "Creidhne"
-	JAWA_SHIP_gobannus: "Gobannus"
-	JAWA_SHIP_luchtaine: "Luchtaine"
-	JAWA_SHIP_goibniu: "Goibniu"
-	JAWA_SHIP_vishvakarman: "Vishvakarman"
-	JAWA_SHIP_tvastar: "Tvastar"
-	JAWA_SHIP_ikenga: "Ikenga"
-	JAWA_SHIP_qaynan: "Qaynan"
-	JAWA_SHIP_ucuetis: "Ucuetis"
-	JAWA_SHIP_ogoun: "Ogoun"
-	JAWA_SHIP_ground_transport: "Транспортный корабль"
-	JAWA_SHIP_spacegun_victory: "SpaceGun Victory"
-	JAWA_SHIP_spacegun_success: "SpaceGun Success"
-	JAWA_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	JAWA_SHIP_spacegun_superior: "SpaceGun Superior"
-	JAWA_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	JAWA_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	JAWA_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	JAWA_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	JAWA_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	JAWA_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	JAWA_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	JAWA_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	JAWA_SHIP_spacegun_honor: "SpaceGun Honor"
-	JAWA_SHIP_spacegun_renown: "SpaceGun Renown"
-	JAWA_SHIP_spacegun_glory: "SpaceGun Glory"
-	JAWA_SHIP_spacegun_superb: "SpaceGun Superb"
-	JAWA_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	JAWA_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	JAWA_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	JAWA_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	JAWA_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	JAWA_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	JAWA_SHIP_spacegun_merit: "SpaceGun Merit"
-	JAWA_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	JAWA_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	JAWA_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	JAWA_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	JAWA_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	JAWA_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	JAWA_SHIP_spacegun_justice: "SpaceGun Justice"
-	JAWA_SHIP_spacegun_probity: "SpaceGun Probity"
-	JAWA_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	JAWA_SHIP_spacegun_purity: "SpaceGun Purity"
-	JAWA_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	JAWA_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	JAWA_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	JAWA_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	JAWA_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	JAWA_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	JAWA_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	JAWA_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	JAWA_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	JAWA_SHIP_spacegun_courage: "SpaceGun Courage"
-	JAWA_SHIP_spacegun_valor: "SpaceGun Valor"
-	JAWA_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	JAWA_SHIP_spacegun_daring: "SpaceGun Daring"
-	JAWA_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	JAWA_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	JAWA_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	JAWA_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	JAWA_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	JAWA_SHIP_albacore: "Albacore"
-	JAWA_SHIP_gateway: "Gateway"
-	JAWA_SHIP_vincent: "Vincent"
-	JAWA_SHIP_babylon: "Babylon"
-	JAWA_SHIP_caernavon: "Caernavon"
-	JAWA_SHIP_acre: "Acre"
-	JAWA_SHIP_pembroke: "Pembroke"
-	JAWA_SHIP_spithead: "Spithead"
-	JAWA_SHIP_halifax: "Halifax"
-	JAWA_SHIP_victoria: "Victoria"
-	JAWA_SHIP_chatham: "Chatham"
-	JAWA_SHIP_anchorage: "Anchorage"
-	JAWA_SHIP_scapa_flow: "Scapa Flow"
-	JAWA_SHIP_hampton_roads: "Hampton Roads"
-	JAWA_SHIP_brooklyn: "Brooklyn"
-	JAWA_SHIP_norfolk: "Norfolk"
-	JAWA_SHIP_newport: "Newport"
-	JAWA_SHIP_guam: "Guam"
-	JAWA_SHIP_pensacola: "Pensacola"
-	JAWA_SHIP_vesuvius: "Vesuvius"
-	JAWA_SHIP_mckinley: "McKinley"
-	JAWA_SHIP_everest: "Everest"
-	JAWA_SHIP_kilimanjaro: "Kilimanjaro"
-	JAWA_SHIP_aconcagua: "Aconcagua"
-	JAWA_SHIP_elbrus: "Elbrus"
-	JAWA_SHIP_st__helens: "St. Helens"
-	JAWA_SHIP_fuji: "Fuji"
-	JAWA_SHIP_olympus: "Olympus"
-	JAWA_SHIP_sinai: "Sinai"
-	JAWA_SHIP_ambrose: "Ambrose"
-	JAWA_SHIP_bermuda: "Bermuda"
-	JAWA_SHIP_farpoint: "Farpoint"
-	JAWA_SHIP_blue_star: "Blue Star"
-	JAWA_SHIP_olympus_mons: "Olympus Mons"
-	JAWA_SHIP_tharsis: "Tharsis"
-	JAWA_SHIP_syrtis: "Syrtis"
-	JAWA_SHIP_blackham: "Blackham"
-	JAWA_SHIP_fletcher: "Fletcher"
-	JAWA_SHIP_perry: "Perry"
-	JAWA_SHIP_butakov: "Butakov"
-	JAWA_SHIP_morris: "Morris"
-	JAWA_SHIP_moorsom: "Moorsom"
-	JAWA_SHIP_hart: "Hart"
-	JAWA_SHIP_hargood: "Hargood"
-	JAWA_SHIP_spruance: "Spruance"
-	JAWA_SHIP_tanaka: "Tanaka"
-	JAWA_SHIP_halsey: "Halsey"
-	JAWA_SHIP_turner: "Turner"
-	JAWA_SHIP_doria: "Doria"
-	JAWA_SHIP_tirpitz: "Tirpitz"
-	JAWA_SHIP_cunningham: "Cunningham"
-	JAWA_SHIP_jellicoe: "Jellicoe"
-	JAWA_SHIP_hipper: "Hipper"
-	JAWA_SHIP_beatty: "Beatty"
-	JAWA_SHIP_potemkin: "Potemkin"
-	JAWA_SHIP_durham: "Durham"
-	JAWA_SHIP_codrington: "Codrington"
-	JAWA_SHIP_milne: "Milne"
-	JAWA_SHIP_laforey: "Laforey"
-	JAWA_SHIP_tyler: "Tyler"
-	JAWA_SHIP_hawke: "Hawke"
-	JAWA_SHIP_yonai: "Yonai"
-	JAWA_SHIP_pound: "Pound"
-	JAWA_SHIP_king: "King"
-	JAWA_SHIP_crutchley: "Crutchley"
-	JAWA_SHIP_mountbatten: "Mountbatten"
-	JAWA_SHIP_kountouriotis: "Kountouriotis"
-	JAWA_SHIP_kuznetsov: "Kuznetsov"
-	JAWA_SHIP_essen: "Essen"
-	JAWA_SHIP_kornilov: "Kornilov"
-	JAWA_SHIP_suffren: "Suffren"
-	JAWA_SHIP_treville: "Treville"
-	JAWA_SHIP_villeneuve: "Villeneuve"
-	JAWA_SHIP_grasse: "Grasse"
-	JAWA_SHIP_byng: "Byng"
-	JAWA_SHIP_lezo: "Lezo"
-	JAWA_SHIP_bombard: "Bombard"
-	JAWA_SHIP_catapult: "Catapult"
-	JAWA_SHIP_harpoon: "Harpoon"
-	JAWA_SHIP_polybolos: "Polybolos"
-	JAWA_SHIP_culverin: "Culverin"
-	JAWA_SHIP_exemplary: "Exemplary"
-	JAWA_SHIP_CLASS_cr_90: "CR-90"
-	JAWA_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	JAWA_SHIP_CLASS_lupus: "Lupus"
-	JAWA_SHIP_CLASS_asdroni: "Asdroni"
-	JAWA_SHIP_CLASS_customs: "Customs"
-	JAWA_SHIP_CLASS_hammerhead: "Hammerhead"
-	JAWA_SHIP_CLASS_scurge: "Scurge"
-	JAWA_SHIP_CLASS_krayt: "Krayt"
-	JAWA_SHIP_CLASS_diamond: "Diamond"
-	JAWA_SHIP_CLASS_etti: "Etti"
-	JAWA_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	JAWA_SHIP_CLASS_vigil: "Vigil"
-	JAWA_SHIP_CLASS_dp20: "DP20"
-	JAWA_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	JAWA_SHIP_CLASS_raider: "Raider"
-	JAWA_SHIP_CLASS_dornean: "Dornean"
-	JAWA_SHIP_CLASS_crusader: "Crusader"
-	JAWA_SHIP_CLASS_marauder: "Marauder"
-	JAWA_SHIP_CLASS_arquitens: "Arquitens"
-	JAWA_SHIP_CLASS_kiltirin: "Kiltirin"
-	JAWA_SHIP_CLASS_pelta: "Pelta"
-	JAWA_SHIP_CLASS_pinnace: "Pinnace"
-	JAWA_SHIP_CLASS_nova: "Nova"
-	JAWA_SHIP_CLASS_vigilance: "Vigilance"
-	JAWA_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	JAWA_SHIP_CLASS_cg_273: "CG-273"
-	JAWA_SHIP_CLASS_kariek: "Kariek"
-	JAWA_SHIP_CLASS_ton_falk: "Ton-Falk"
-	JAWA_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	JAWA_SHIP_CLASS_lancer: "Lancer"
-	JAWA_SHIP_CLASS_teroch: "Teroch"
-	JAWA_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	JAWA_SHIP_CLASS_nova_ii: "Nova II"
-	JAWA_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	JAWA_SHIP_CLASS_velox: "Velox"
-	JAWA_SHIP_CLASS_mc30c: "MC30c"
-	JAWA_SHIP_CLASS_vengeance: "Vengeance"
-	JAWA_SHIP_CLASS_kariek_ii: "Kariek II"
-	JAWA_SHIP_CLASS_cc_7700: "CC-7700"
-	JAWA_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	JAWA_SHIP_CLASS_wavecrest: "Wavecrest"
-	JAWA_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	JAWA_SHIP_CLASS_nuruodo: "Nuruodo"
-	JAWA_SHIP_CLASS_sabaoth: "Sabaoth"
-	JAWA_SHIP_CLASS_kontos: "Kontos"
-	JAWA_SHIP_CLASS_mc40: "MC40"
-	JAWA_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	JAWA_SHIP_CLASS_broadside: "Broadside"
-	JAWA_SHIP_CLASS_protector: "Protector"
-	JAWA_SHIP_CLASS_warlord: "Warlord"
-	JAWA_SHIP_CLASS_gladiator: "Gladiator"
-	JAWA_SHIP_CLASS_beviin: "Beviin"
-	JAWA_SHIP_CLASS_liberator: "Liberator"
-	JAWA_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	JAWA_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	JAWA_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	JAWA_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	JAWA_SHIP_CLASS_massias: "Massias"
-	JAWA_SHIP_CLASS_dreadnought: "Dreadnought"
-	JAWA_SHIP_CLASS_kyramud: "Kyramud"
-	JAWA_SHIP_CLASS_munificent: "Munificent"
-	JAWA_SHIP_CLASS_prosvoli: "Prosvoli"
-	JAWA_SHIP_CLASS_acclamator: "Acclamator"
-	JAWA_SHIP_CLASS_lictor: "Lictor"
-	JAWA_SHIP_CLASS_bulwark: "Bulwark"
-	JAWA_SHIP_CLASS_victory_i: "Victory I"
-	JAWA_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	JAWA_SHIP_CLASS_bulk: "Bulk"
-	JAWA_SHIP_CLASS_vindicator: "Vindicator"
-	JAWA_SHIP_CLASS_dauntless: "Dauntless"
-	JAWA_SHIP_CLASS_captor: "Captor"
-	JAWA_SHIP_CLASS_au_riette: "Au'riette"
-	JAWA_SHIP_CLASS_mc55: "MC55"
-	JAWA_SHIP_CLASS_afthonia: "Afthonia"
-	JAWA_SHIP_CLASS_victory_ii: "Victory II"
-	JAWA_SHIP_CLASS_beroya: "Beroya"
-	JAWA_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	JAWA_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	JAWA_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	JAWA_SHIP_CLASS_venator: "Venator"
-	JAWA_SHIP_CLASS_centurion: "Centurion"
-	JAWA_SHIP_CLASS_mc75: "MC75"
-	JAWA_SHIP_CLASS_kandosii: "Kandosii"
-	JAWA_SHIP_CLASS_corellian: "Corellian"
-	JAWA_SHIP_CLASS_providence: "Providence"
-	JAWA_SHIP_CLASS_syndic: "Syndic"
-	JAWA_SHIP_CLASS_recusant: "Recusant"
-	JAWA_SHIP_CLASS_invincible: "Invincible"
-	JAWA_SHIP_CLASS_imperial_i: "Imperial I"
-	JAWA_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	JAWA_SHIP_CLASS_procursator: "Procursator"
-	JAWA_SHIP_CLASS_mc80a: "MC80a"
-	JAWA_SHIP_CLASS_dh_omni: "DH-Omni"
-	JAWA_SHIP_CLASS_aggressor: "Aggressor"
-	JAWA_SHIP_CLASS_syndic_ii: "Syndic II"
-	JAWA_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	JAWA_SHIP_CLASS_keldabe: "Keldabe"
-	JAWA_SHIP_CLASS_corellian_ii: "Corellian II"
-	JAWA_SHIP_CLASS_chaf: "Chaf"
-	JAWA_SHIP_CLASS_imperial_ii: "Imperial II"
-	JAWA_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	JAWA_SHIP_CLASS_ascendancy: "Ascendancy"
-	JAWA_SHIP_CLASS_dominator: "Dominator"
-	JAWA_SHIP_CLASS_allegiance: "Allegiance"
-	JAWA_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	JAWA_SHIP_CLASS_phalanx: "Phalanx"
-	JAWA_SHIP_CLASS_titan: "Titan"
-	JAWA_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	JAWA_SHIP_CLASS_star_home: "Star Home"
-	JAWA_SHIP_CLASS_subjugator: "Subjugator"
-	JAWA_SHIP_CLASS_bellator: "Bellator"
-	JAWA_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	JAWA_SHIP_CLASS_executor: "Executor"
-	JAWA_FLEET_armada_ORD: "$ORD$ Armada"
-	JAWA_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	JAWA_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	JAWA_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	JAWA_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	JAWA_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	JAWA_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	JAWA_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	JAWA_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	JAWA_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	JAWA_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	JAWA_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	JAWA_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	JAWA_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	JAWA_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	JAWA_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	JAWA_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	JAWA_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	JAWA_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	JAWA_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	JAWA_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	JAWA_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	JAWA_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	JAWA_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	JAWA_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	JAWA_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	JAWA_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	JAWA_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	JAWA_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	JAWA_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	JAWA_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	JAWA_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	JAWA_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	JAWA_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	JAWA_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	JAWA_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	JAWA_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	JAWA_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	JAWA_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	JAWA_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	JAWA_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	JAWA_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	JAWA_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	JAWA_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	JAWA_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	JAWA_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	JAWA_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	JAWA_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	JAWA_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	JAWA_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	JAWA_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	JAWA_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	JAWA_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	JAWA_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	JAWA_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	JAWA_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	JAWA_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	JAWA_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	JAWA_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	JAWA_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	JAWA_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	JAWA_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	JAWA_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	JAWA_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	JAWA_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	JAWA_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	JAWA_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	JAWA_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	JAWA_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	JAWA_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	JAWA_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	JAWA_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	JAWA_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	JAWA_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	JAWA_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	JAWA_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	JAWA_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	JAWA_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	JAWA_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	JAWA_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	JAWA_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	JAWA_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	JAWA_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	JAWA_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	JAWA_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	JAWA_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	JAWA_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	JAWA_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	JAWA_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	JAWA_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	JAWA_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	JAWA_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	JAWA_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	JAWA_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	JAWA_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	JAWA_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	JAWA_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	JAWA_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	JAWA_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	JAWA_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	JAWA_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	JAWA_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	JAWA_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	JAWA_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	JAWA_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	JAWA_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	JAWA_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	JAWA_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	JAWA_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	JAWA_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	JAWA_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	JAWA_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	JAWA_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	JAWA_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	JAWA_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	JAWA_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	JAWA_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	JAWA_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	JAWA_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	JAWA_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	JAWA_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	JAWA_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	JAWA_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	JAWA_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	JAWA_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	JAWA_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	JAWA_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	JAWA_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	JAWA_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	JAWA_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	JAWA_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	JAWA_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	JAWA_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	JAWA_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	JAWA_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	JAWA_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	JAWA_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	JAWA_ARMY_rancor_ORD: "$ORD$ Rancor"
-	JAWA_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	JAWA_ARMY_acklay_ORD: "$ORD$ Acklay "
-	JAWA_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	JAWA_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	JAWA_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	JAWA_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	JAWA_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	JAWA_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	JAWA_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	JAWA_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	JAWA_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	JAWA_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	JAWA_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	JAWA_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	JAWA_CHR_akial: "Akial"
-	JAWA_CHR_akkik: "Akkik"
-	JAWA_CHR_aktik: "Aktik"
-	JAWA_CHR_atetu: "Atetu"
-	JAWA_CHR_biguh: "Biguh"
-	JAWA_CHR_biktha: "Biktha"
-	JAWA_CHR_bleb_blek: "Bleb-Blek"
-	JAWA_CHR_blizz: "Blizz"
-	JAWA_CHR_brrik: "Brrik"
-	JAWA_CHR_charl: "Charl"
-	JAWA_CHR_ch_hedt: "Ch'hedt"
-	JAWA_CHR_daroe: "Daroe"
-	JAWA_CHR_dathcha: "Dathcha"
-	JAWA_CHR_deja: "Deja"
-	JAWA_CHR_eet: "Eet"
-	JAWA_CHR_efa: "Efa"
-	JAWA_CHR_empideera: "Empideera"
-	JAWA_CHR_enjikket: "Enjikket"
-	JAWA_CHR_ezjenk: "Ezjenk"
-	JAWA_CHR_hadiir: "Hadiir"
-	JAWA_CHR_het: "Het"
-	JAWA_CHR_hibli: "Hibli"
-	JAWA_CHR_hrar: "Hrar"
-	JAWA_CHR_iasa: "Iasa"
-	JAWA_CHR_izink: "Izink"
-	JAWA_CHR_iziz: "Iziz"
-	JAWA_CHR_izzar: "Izzar"
-	JAWA_CHR_jeelvic: "Jeelvic"
-	JAWA_CHR_jek: "Jek"
-	JAWA_CHR_jengus: "Jengus"
-	JAWA_CHR_jik_tal: "Jik'Tal"
-	JAWA_CHR_jiktha: "Jiktha"
-	JAWA_CHR_ji_ni: "Ji'Ni"
-	JAWA_CHR_jreely: "Jreely"
-	JAWA_CHR_kalit: "Kalit"
-	JAWA_CHR_kekit: "Kekit"
-	JAWA_CHR_keth_keth: "Keth-Keth"
-	JAWA_CHR_kezzit: "Kezzit"
-	JAWA_CHR_kiatha: "Kiatha"
-	JAWA_CHR_kikkit: "Kikkit"
-	JAWA_CHR_kiottja: "Kiottja"
-	JAWA_CHR_kitit: "Kitit"
-	JAWA_CHR_kitpth: "Kitpth"
-	JAWA_CHR_klepti: "Klepti"
-	JAWA_CHR_klikk: "Klikk"
-	JAWA_CHR_krikit: "Krikit"
-	JAWA_CHR_lonai: "Lonai"
-	JAWA_CHR_maliiki: "Maliiki"
-	JAWA_CHR_meerko: "Meerko"
-	JAWA_CHR_meso: "Meso"
-	JAWA_CHR_miktha: "Miktha"
-	JAWA_CHR_mnek: "Mnek"
-	JAWA_CHR_nbat: "Nbat"
-	JAWA_CHR_nebit: "Nebit"
-	JAWA_CHR_niktha: "Niktha"
-	JAWA_CHR_nolar: "Nolar"
-	JAWA_CHR_pachwenko: "Pachwenko"
-	JAWA_CHR_panaw: "Panaw"
-	JAWA_CHR_pitkth: "Pitkth"
-	JAWA_CHR_pliktu: "Pliktu"
-	JAWA_CHR_prnthik: "Prnthik"
-	JAWA_CHR_renishi: "Renishi"
-	JAWA_CHR_ribbo: "Ribbo"
-	JAWA_CHR_r_kik: "R'kik"
-	JAWA_CHR_rkok: "Rkok"
-	JAWA_CHR_snipp: "Snipp"
-	JAWA_CHR_squig: "Squig"
-	JAWA_CHR_tatakoz: "Tatakoz"
-	JAWA_CHR_tteek: "Tteek"
-	JAWA_CHR_tek: "Tek"
-	JAWA_CHR_teokuk: "Teokuk"
-	JAWA_CHR_thedit: "Thedit"
-	JAWA_CHR_thint: "Thint"
-	JAWA_CHR_tiatha: "Tiatha"
-	JAWA_CHR_tikkit: "Tikkit"
-	JAWA_CHR_tili_tili: "Tili Tili"
-	JAWA_CHR_tteel: "Tteel"
-	JAWA_CHR_ttekket: "Ttekket"
-	JAWA_CHR_tweetu: "Tweetu"
-	JAWA_CHR_ukchet: "Ukchet"
-	JAWA_CHR_uutkik: "Uutkik"
-	JAWA_CHR_veek: "Veek"
-	JAWA_CHR_wassak: "Wassak"
-	JAWA_CHR_wimateeka: "Wimateeka"
-	JAWA_CHR_wittin: "Wittin"
-	JAWA_CHR_wrex: "Wrex"
-	JAWA_CHR_yeelhoy: "Yeelhoy"
-	JAWA_CHR_zubwen: "Zubwen"
-	JAWA_CHR_abluikth: "Abluikth"
-	JAWA_CHR_blazz: "Blazz"
-	JAWA_CHR_chith: "Chith"
-	JAWA_CHR_dekkemiw: "Dekkemiw"
-	JAWA_CHR_hekk: "Hekk"
-	JAWA_CHR_ikchak: "Ikchak"
-	JAWA_CHR_krak_chih: "Krak'chih"
-	JAWA_CHR_krek_koek_kix: "Krek'koek'kix"
-	JAWA_CHR_obloniit: "Obloniit"
-	JAWA_CHR_ok_katki: "Ok'katki"
-	JAWA_CHR_okkent: "Okkent"
-	JAWA_CHR_snik: "Snik"
-	JAWA_CHR_snikk: "Snikk"
-	JAWA_CHR_sqer: "Sqer"
-	JAWA_CHR_squt: "Squt"
-	JAWA_CHR_tebuisseot: "Tebuisseot"
-	JAWA_CHR_thut: "Thut"
-	JAWA_CHR_tsakchapta: "Tsakchapta"
-	JAWA_CHR_tseezz: "Tseezz"
-	JAWA_CHR_tseh: "Tseh"
-	JAWA_CHR_ttent: "Ttent"
-	JAWA_CHR_valadt: "Valadt"
-	JAWA_CHR_vax: "Vax"
-	JAWA_CHR_vikinzatk: "Vikinzatk"
-	JAWA_CHR_vukchit: "Vukchit"
-	JAWA_CHR_wepp: "Wepp"
-	JAWA_CHR_zittjil: "Zittjil"
-	JAWA_CHR_aguilae: "Aguilae"
-	JAWA_CHR_aved: "Aved"
-	JAWA_CHR_herat: "Herat"
-	JAWA_CHR_khea: "Khea"
-	JAWA_CHR_lelek: "Lelek"
-	JAWA_CHR_maz: "Maz"
-	JAWA_CHR_abut: "Abut"
-	JAWA_CHR_agiy: "Agiy"
-	JAWA_CHR_ales: "Ales"
-	JAWA_CHR_anigeed: "Anigeed"
-	JAWA_CHR_apifeh: "Apifeh"
-	JAWA_CHR_apoevee: "Apoevee"
-	JAWA_CHR_aree: "Aree"
-	JAWA_CHR_atipi: "Atipi"
-	JAWA_CHR_beremam: "Beremam"
-	JAWA_CHR_bhagad: "Bhagad"
-	JAWA_CHR_bhohudee: "Bhohudee"
-	JAWA_CHR_bitipuc: "Bitipuc"
-	JAWA_CHR_blafatad: "Blafatad"
-	JAWA_CHR_blamibas: "Blamibas"
-	JAWA_CHR_bliisim: "Bliisim"
-	JAWA_CHR_blivota: "Blivota"
-	JAWA_CHR_dafum: "Dafum"
-	JAWA_CHR_dhali: "Dhali"
-	JAWA_CHR_dheke: "Dheke"
-	JAWA_CHR_dhihel: "Dhihel"
-	JAWA_CHR_dhikac: "Dhikac"
-	JAWA_CHR_d_ner: "D'ner"
-	JAWA_CHR_d_nidul: "D'nidul"
-	JAWA_CHR_ebelek: "Ebelek"
-	JAWA_CHR_efali: "Efali"
-	JAWA_CHR_ejemakth: "Ejemakth"
-	JAWA_CHR_evi: "Evi"
-	JAWA_CHR_fiiy: "Fiiy"
-	JAWA_CHR_hurewi: "Hurewi"
-	JAWA_CHR_imik: "Imik"
-	JAWA_CHR_kabeos: "Kabeos"
-	JAWA_CHR_kakeget: "Kakeget"
-	JAWA_CHR_k_edi: "K'edi"
-	JAWA_CHR_khuran: "Khuran"
-	JAWA_CHR_k_iduvu: "K'iduvu"
-	JAWA_CHR_kkeqia: "Kkeqia"
-	JAWA_CHR_kkequ: "Kkequ"
-	JAWA_CHR_klenuheekth: "Klenuheekth"
-	JAWA_CHR_knawe: "Knawe"
-	JAWA_CHR_k_ura: "K'ura"
-	JAWA_CHR_liikin: "Liikin"
-	JAWA_CHR_lirum: "Lirum"
-	JAWA_CHR_loese: "Loese"
-	JAWA_CHR_mazaza: "Mazaza"
-	JAWA_CHR_mehilah: "Mehilah"
-	JAWA_CHR_m_erira: "M'erira"
-	JAWA_CHR_mibel: "Mibel"
-	JAWA_CHR_najin: "Najin"
-	JAWA_CHR_negumin: "Negumin"
-	JAWA_CHR_ney: "Ney"
-	JAWA_CHR_nipufuc: "Nipufuc"
-	JAWA_CHR_nkun: "Nkun"
-	JAWA_CHR_nuqi: "Nuqi"
-	JAWA_CHR_oheegi: "Oheegi"
-	JAWA_CHR_pabal: "Pabal"
-	JAWA_CHR_pada: "Pada"
-	JAWA_CHR_paka: "Paka"
-	JAWA_CHR_plekem: "Plekem"
-	JAWA_CHR_q_ikey: "Q'ikey"
-	JAWA_CHR_q_ivu: "Q'ivu"
-	JAWA_CHR_qoejiid: "Qoejiid"
-	JAWA_CHR_rhaden: "Rhaden"
-	JAWA_CHR_rhilelad: "Rhilelad"
-	JAWA_CHR_rine: "Rine"
-	JAWA_CHR_ripem: "Ripem"
-	JAWA_CHR_rwalis: "Rwalis"
-	JAWA_CHR_rwiladat: "Rwiladat"
-	JAWA_CHR_safee: "Safee"
-	JAWA_CHR_sebeni: "Sebeni"
-	JAWA_CHR_setek: "Setek"
-	JAWA_CHR_shadasis: "Shadasis"
-	JAWA_CHR_siahak: "Siahak"
-	JAWA_CHR_sife: "Sife"
-	JAWA_CHR_sniveh: "Sniveh"
-	JAWA_CHR_thabiih: "Thabiih"
-	JAWA_CHR_thay: "Thay"
-	JAWA_CHR_thurac: "Thurac"
-	JAWA_CHR_ugezil: "Ugezil"
-	JAWA_CHR_usa: "Usa"
-	JAWA_CHR_usoqahs: "Usoqahs"
-	JAWA_CHR_vamo: "Vamo"
-	JAWA_CHR_vewevoe: "Vewevoe"
-	JAWA_CHR_wapuk: "Wapuk"
-	JAWA_CHR_whebeoh: "Whebeoh"
-	JAWA_CHR_whelut: "Whelut"
-	JAWA_CHR_whifatas: "Whifatas"
-	JAWA_CHR_wutunam: "Wutunam"
-	JAWA_CHR_b_ay: "B'ay"
-	JAWA_CHR_bet_ario: "Bet'ario"
-	JAWA_CHR_d_nec: "D'nec"
-	JAWA_CHR_fe_li: "Fe'li"
-	JAWA_CHR_johs: "Johs"
-	JAWA_CHR_kkak: "Kkak"
-	JAWA_CHR_kkek: "Kkek"
-	JAWA_CHR_laloo: "Laloo"
-	JAWA_CHR_luun: "Luun"
-	JAWA_CHR_nkik: "Nkik"
-	JAWA_CHR_nkul: "Nkul"
-	JAWA_CHR_ptaa: "Ptaa"
-	JAWA_CHR_qua_lu: "Qua'lu"
-	JAWA_CHR_sil: "Sil"
-	JAWA_CHR_sstena: "Sstena"
-	JAWA_CHR_tlek: "Tlek"
-	JAWA_CHR_toomb: "Toomb"
-	JAWA_CHR_ajudakth: "Ajudakth"
-	JAWA_CHR_b_ahu: "B'ahu"
-	JAWA_CHR_b_azirol: "B'azirol"
-	JAWA_CHR_behas: "Behas"
-	JAWA_CHR_b_in: "B'in"
-	JAWA_CHR_d_nivii: "D'nivii"
-	JAWA_CHR_evekt: "Evekt"
-	JAWA_CHR_k_eoz: "K'eoz"
-	JAWA_CHR_k_igok: "K'igok"
-	JAWA_CHR_kkariakth: "Kkariakth"
-	JAWA_CHR_kruisik: "Kruisik"
-	JAWA_CHR_m_az: "M'az"
-	JAWA_CHR_m_ikth: "M'ikth"
-	JAWA_CHR_m_imodam: "M'imodam"
-	JAWA_CHR_ptikth: "Ptikth"
-	JAWA_CHR_q_adaren: "Q'adaren"
-	JAWA_CHR_q_arul: "Q'arul"
-	JAWA_CHR_q_ecoju: "Q'ecoju"
-	JAWA_CHR_soz: "Soz"
-	JAWA_CHR_thetay: "Thetay"
-	JAWA_CHR_tluiqagim: "Tluiqagim"
-	JAWA_CHR_tlunaki: "Tlunaki"
-	JAWA_CHR_tuked: "Tuked"
+	JAWA_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	JAWA_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	JAWA_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	JAWA_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	JAWA_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	JAWA_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	JAWA_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	JAWA_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	JAWA_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	JAWA_SHIP_onward: "Onward" #!Empty_LineInfo!
+	JAWA_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	JAWA_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	JAWA_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	JAWA_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	JAWA_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	JAWA_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	JAWA_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	JAWA_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	JAWA_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	JAWA_SHIP_trident: "Trident" #!Empty_LineInfo!
+	JAWA_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	JAWA_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	JAWA_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	JAWA_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	JAWA_SHIP_venture: "Venture" #!Empty_LineInfo!
+	JAWA_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	JAWA_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	JAWA_SHIP_viper: "Viper" #!Empty_LineInfo!
+	JAWA_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	JAWA_SHIP_winger: "Winger" #!Empty_LineInfo!
+	JAWA_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	JAWA_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	JAWA_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	JAWA_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	JAWA_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	JAWA_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	JAWA_SHIP_senator: "Senator" #!Empty_LineInfo!
+	JAWA_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	JAWA_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	JAWA_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	JAWA_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	JAWA_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	JAWA_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	JAWA_SHIP_athena: "Athena" #!Empty_LineInfo!
+	JAWA_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	JAWA_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	JAWA_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	JAWA_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	JAWA_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	JAWA_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	JAWA_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	JAWA_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	JAWA_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	JAWA_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	JAWA_SHIP_nova: "Nova" #!Empty_LineInfo!
+	JAWA_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	JAWA_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	JAWA_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	JAWA_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	JAWA_SHIP_protector: "Protector" #!Empty_LineInfo!
+	JAWA_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	JAWA_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	JAWA_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	JAWA_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	JAWA_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	JAWA_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	JAWA_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	JAWA_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	JAWA_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	JAWA_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	JAWA_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	JAWA_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	JAWA_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	JAWA_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	JAWA_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	JAWA_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	JAWA_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	JAWA_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	JAWA_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	JAWA_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	JAWA_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	JAWA_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	JAWA_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	JAWA_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	JAWA_SHIP_devout: "Devout" #!Empty_LineInfo!
+	JAWA_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	JAWA_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	JAWA_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	JAWA_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	JAWA_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	JAWA_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	JAWA_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	JAWA_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	JAWA_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	JAWA_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	JAWA_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	JAWA_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	JAWA_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	JAWA_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	JAWA_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	JAWA_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	JAWA_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	JAWA_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	JAWA_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	JAWA_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	JAWA_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	JAWA_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	JAWA_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	JAWA_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	JAWA_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	JAWA_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	JAWA_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	JAWA_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	JAWA_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	JAWA_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	JAWA_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	JAWA_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	JAWA_SHIP_purity: "Purity" #!Empty_LineInfo!
+	JAWA_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	JAWA_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	JAWA_SHIP_redma: "Redma" #!Empty_LineInfo!
+	JAWA_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	JAWA_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	JAWA_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	JAWA_SHIP_republic: "Republic" #!Empty_LineInfo!
+	JAWA_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	JAWA_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	JAWA_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	JAWA_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	JAWA_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	JAWA_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	JAWA_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	JAWA_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	JAWA_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	JAWA_SHIP_undying: "Undying" #!Empty_LineInfo!
+	JAWA_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	JAWA_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	JAWA_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	JAWA_SHIP_valor: "Valor" #!Empty_LineInfo!
+	JAWA_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	JAWA_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	JAWA_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	JAWA_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	JAWA_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	JAWA_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	JAWA_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	JAWA_SHIP_agile: "Agile" #!Empty_LineInfo!
+	JAWA_SHIP_archer: "Archer" #!Empty_LineInfo!
+	JAWA_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	JAWA_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	JAWA_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	JAWA_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	JAWA_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	JAWA_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	JAWA_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	JAWA_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	JAWA_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	JAWA_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	JAWA_SHIP_errant: "Errant" #!Empty_LineInfo!
+	JAWA_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	JAWA_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	JAWA_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	JAWA_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	JAWA_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	JAWA_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	JAWA_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	JAWA_SHIP_velox: "Velox" #!Empty_LineInfo!
+	JAWA_SHIP_venator: "Venator" #!Empty_LineInfo!
+	JAWA_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	JAWA_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	JAWA_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	JAWA_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	JAWA_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	JAWA_SHIP_success: "Success" #!Empty_LineInfo!
+	JAWA_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	JAWA_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	JAWA_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	JAWA_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	JAWA_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	JAWA_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	JAWA_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	JAWA_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	JAWA_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	JAWA_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	JAWA_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	JAWA_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	JAWA_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	JAWA_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	JAWA_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	JAWA_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	JAWA_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	JAWA_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	JAWA_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	JAWA_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	JAWA_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	JAWA_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	JAWA_SHIP_knight: "Knight" #!Empty_LineInfo!
+	JAWA_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	JAWA_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	JAWA_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	JAWA_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	JAWA_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	JAWA_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	JAWA_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	JAWA_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	JAWA_SHIP_comet: "Comet" #!Empty_LineInfo!
+	JAWA_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	JAWA_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	JAWA_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	JAWA_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	JAWA_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	JAWA_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	JAWA_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	JAWA_SHIP_forger: "Forger" #!Empty_LineInfo!
+	JAWA_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	JAWA_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	JAWA_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	JAWA_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	JAWA_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	JAWA_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	JAWA_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	JAWA_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	JAWA_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	JAWA_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	JAWA_SHIP_magic: "Magic" #!Empty_LineInfo!
+	JAWA_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	JAWA_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	JAWA_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	JAWA_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	JAWA_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	JAWA_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	JAWA_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	JAWA_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	JAWA_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	JAWA_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	JAWA_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	JAWA_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	JAWA_SHIP_daring: "Daring" #!Empty_LineInfo!
+	JAWA_SHIP_duty: "Duty" #!Empty_LineInfo!
+	JAWA_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	JAWA_SHIP_hero: "Hero" #!Empty_LineInfo!
+	JAWA_SHIP_justice: "Justice" #!Empty_LineInfo!
+	JAWA_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	JAWA_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	JAWA_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	JAWA_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	JAWA_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	JAWA_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	JAWA_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	JAWA_SHIP_malice: "Malice" #!Empty_LineInfo!
+	JAWA_SHIP_menace: "Menace" #!Empty_LineInfo!
+	JAWA_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	JAWA_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	JAWA_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	JAWA_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	JAWA_SHIP_predator: "Predator" #!Empty_LineInfo!
+	JAWA_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	JAWA_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	JAWA_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	JAWA_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	JAWA_SHIP_savage: "Savage" #!Empty_LineInfo!
+	JAWA_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	JAWA_SHIP_templar: "Templar" #!Empty_LineInfo!
+	JAWA_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	JAWA_SHIP_terror: "Terror" #!Empty_LineInfo!
+	JAWA_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	JAWA_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	JAWA_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	JAWA_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	JAWA_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	JAWA_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	JAWA_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	JAWA_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	JAWA_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	JAWA_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	JAWA_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	JAWA_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	JAWA_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	JAWA_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	JAWA_SHIP_pike: "Pike" #!Empty_LineInfo!
+	JAWA_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	JAWA_SHIP_raider: "Raider" #!Empty_LineInfo!
+	JAWA_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	JAWA_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	JAWA_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	JAWA_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	JAWA_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	JAWA_SHIP_robust: "Robust" #!Empty_LineInfo!
+	JAWA_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	JAWA_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	JAWA_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	JAWA_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	JAWA_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	JAWA_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	JAWA_SHIP_siren: "Siren" #!Empty_LineInfo!
+	JAWA_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	JAWA_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	JAWA_SHIP_specter: "Specter" #!Empty_LineInfo!
+	JAWA_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	JAWA_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	JAWA_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	JAWA_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	JAWA_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	JAWA_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	JAWA_SHIP_superb: "Superb" #!Empty_LineInfo!
+	JAWA_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	JAWA_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	JAWA_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	JAWA_SHIP_talent: "Talent" #!Empty_LineInfo!
+	JAWA_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	JAWA_SHIP_talon: "Talon" #!Empty_LineInfo!
+	JAWA_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	JAWA_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	JAWA_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	JAWA_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	JAWA_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	JAWA_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	JAWA_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	JAWA_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	JAWA_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	JAWA_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	JAWA_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	JAWA_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	JAWA_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	JAWA_SHIP_argus: "Argus" #!Empty_LineInfo!
+	JAWA_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	JAWA_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	JAWA_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	JAWA_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	JAWA_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	JAWA_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	JAWA_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	JAWA_SHIP_castor: "Castor" #!Empty_LineInfo!
+	JAWA_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	JAWA_SHIP_circe: "Circe" #!Empty_LineInfo!
+	JAWA_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	JAWA_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	JAWA_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	JAWA_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	JAWA_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	JAWA_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	JAWA_SHIP_darius: "Darius" #!Empty_LineInfo!
+	JAWA_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	JAWA_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	JAWA_SHIP_electra: "Electra" #!Empty_LineInfo!
+	JAWA_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	JAWA_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	JAWA_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	JAWA_SHIP_freya: "Freya" #!Empty_LineInfo!
+	JAWA_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	JAWA_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	JAWA_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	JAWA_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	JAWA_SHIP_hector: "Hector" #!Empty_LineInfo!
+	JAWA_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	JAWA_SHIP_janus: "Janus" #!Empty_LineInfo!
+	JAWA_SHIP_jason: "Jason" #!Empty_LineInfo!
+	JAWA_SHIP_juno: "Juno" #!Empty_LineInfo!
+	JAWA_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	JAWA_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	JAWA_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	JAWA_SHIP_leander: "Leander" #!Empty_LineInfo!
+	JAWA_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	JAWA_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	JAWA_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	JAWA_SHIP_mars: "Mars" #!Empty_LineInfo!
+	JAWA_SHIP_medea: "Medea" #!Empty_LineInfo!
+	JAWA_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	JAWA_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	JAWA_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	JAWA_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	JAWA_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	JAWA_SHIP_minos: "Minos" #!Empty_LineInfo!
+	JAWA_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	JAWA_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	JAWA_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	JAWA_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	JAWA_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	JAWA_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	JAWA_SHIP_odin: "Odin" #!Empty_LineInfo!
+	JAWA_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	JAWA_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	JAWA_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	JAWA_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	JAWA_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	JAWA_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	JAWA_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	JAWA_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	JAWA_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	JAWA_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	JAWA_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	JAWA_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	JAWA_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	JAWA_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	JAWA_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	JAWA_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	JAWA_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	JAWA_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	JAWA_SHIP_thor: "Thor" #!Empty_LineInfo!
+	JAWA_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	JAWA_SHIP_triton: "Triton" #!Empty_LineInfo!
+	JAWA_SHIP_venus: "Venus" #!Empty_LineInfo!
+	JAWA_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	JAWA_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	JAWA_SHIP_assail: "Assail" #!Empty_LineInfo!
+	JAWA_SHIP_austere: "Austere" #!Empty_LineInfo!
+	JAWA_SHIP_archon: "Archon" #!Empty_LineInfo!
+	JAWA_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	JAWA_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	JAWA_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	JAWA_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	JAWA_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	JAWA_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	JAWA_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	JAWA_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	JAWA_SHIP_legion: "Legion" #!Empty_LineInfo!
+	JAWA_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	JAWA_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	JAWA_SHIP_assault: "Assault" #!Empty_LineInfo!
+	JAWA_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	JAWA_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	JAWA_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	JAWA_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	JAWA_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	JAWA_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	JAWA_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	JAWA_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	JAWA_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	JAWA_SHIP_champion: "Champion" #!Empty_LineInfo!
+	JAWA_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	JAWA_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	JAWA_SHIP_glory: "Glory" #!Empty_LineInfo!
+	JAWA_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	JAWA_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	JAWA_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	JAWA_SHIP_renown: "Renown" #!Empty_LineInfo!
+	JAWA_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	JAWA_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	JAWA_SHIP_executor: "Executor" #!Empty_LineInfo!
+	JAWA_SHIP_furious: "Furious" #!Empty_LineInfo!
+	JAWA_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	JAWA_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	JAWA_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	JAWA_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	JAWA_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	JAWA_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	JAWA_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	JAWA_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	JAWA_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	JAWA_SHIP_titan: "Titan" #!Empty_LineInfo!
+	JAWA_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	JAWA_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	JAWA_SHIP_nike: "Nike" #!Empty_LineInfo!
+	JAWA_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	JAWA_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	JAWA_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	JAWA_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	JAWA_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	JAWA_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	JAWA_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	JAWA_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	JAWA_SHIP_katana: "Katana" #!Empty_LineInfo!
+	JAWA_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	JAWA_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	JAWA_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	JAWA_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	JAWA_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	JAWA_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	JAWA_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	JAWA_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	JAWA_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	JAWA_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	JAWA_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	JAWA_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	JAWA_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	JAWA_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	JAWA_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	JAWA_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	JAWA_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	JAWA_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	JAWA_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	JAWA_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	JAWA_SHIP_astute: "Astute" #!Empty_LineInfo!
+	JAWA_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	JAWA_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	JAWA_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	JAWA_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	JAWA_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	JAWA_SHIP_torch: "Torch" #!Empty_LineInfo!
+	JAWA_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	JAWA_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	JAWA_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	JAWA_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	JAWA_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	JAWA_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	JAWA_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	JAWA_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	JAWA_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	JAWA_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	JAWA_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	JAWA_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	JAWA_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	JAWA_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	JAWA_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	JAWA_SHIP_potential: "Potential" #!Empty_LineInfo!
+	JAWA_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	JAWA_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	JAWA_SHIP_summit: "Summit" #!Empty_LineInfo!
+	JAWA_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	JAWA_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	JAWA_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	JAWA_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	JAWA_SHIP_isis: "Isis" #!Empty_LineInfo!
+	JAWA_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	JAWA_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	JAWA_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	JAWA_SHIP_scion: "Scion" #!Empty_LineInfo!
+	JAWA_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	JAWA_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	JAWA_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	JAWA_SHIP_provider: "Provider" #!Empty_LineInfo!
+	JAWA_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	JAWA_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	JAWA_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	JAWA_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	JAWA_SHIP_community: "Community" #!Empty_LineInfo!
+	JAWA_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	JAWA_SHIP_industry: "Industry" #!Empty_LineInfo!
+	JAWA_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	JAWA_SHIP_effort: "Effort" #!Empty_LineInfo!
+	JAWA_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	JAWA_SHIP_builder: "Builder" #!Empty_LineInfo!
+	JAWA_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	JAWA_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	JAWA_SHIP_progress: "Progress" #!Empty_LineInfo!
+	JAWA_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	JAWA_SHIP_promise: "Promise" #!Empty_LineInfo!
+	JAWA_SHIP_service: "Service" #!Empty_LineInfo!
+	JAWA_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	JAWA_SHIP_beast: "Beast" #!Empty_LineInfo!
+	JAWA_SHIP_creator: "Creator" #!Empty_LineInfo!
+	JAWA_SHIP_developer: "Developer" #!Empty_LineInfo!
+	JAWA_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	JAWA_SHIP_factory: "Factory" #!Empty_LineInfo!
+	JAWA_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	JAWA_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	JAWA_SHIP_architect: "Architect" #!Empty_LineInfo!
+	JAWA_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	JAWA_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	JAWA_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	JAWA_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	JAWA_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	JAWA_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	JAWA_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	JAWA_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	JAWA_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	JAWA_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	JAWA_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	JAWA_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	JAWA_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	JAWA_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	JAWA_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	JAWA_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	JAWA_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	JAWA_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	JAWA_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	JAWA_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	JAWA_SHIP_acre: "Acre" #!Empty_LineInfo!
+	JAWA_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	JAWA_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	JAWA_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	JAWA_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	JAWA_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	JAWA_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	JAWA_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	JAWA_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	JAWA_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	JAWA_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	JAWA_SHIP_newport: "Newport" #!Empty_LineInfo!
+	JAWA_SHIP_guam: "Guam" #!Empty_LineInfo!
+	JAWA_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	JAWA_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	JAWA_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	JAWA_SHIP_everest: "Everest" #!Empty_LineInfo!
+	JAWA_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	JAWA_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	JAWA_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	JAWA_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	JAWA_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	JAWA_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	JAWA_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	JAWA_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	JAWA_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	JAWA_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	JAWA_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	JAWA_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	JAWA_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	JAWA_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	JAWA_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	JAWA_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	JAWA_SHIP_perry: "Perry" #!Empty_LineInfo!
+	JAWA_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	JAWA_SHIP_morris: "Morris" #!Empty_LineInfo!
+	JAWA_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	JAWA_SHIP_hart: "Hart" #!Empty_LineInfo!
+	JAWA_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	JAWA_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	JAWA_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	JAWA_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	JAWA_SHIP_turner: "Turner" #!Empty_LineInfo!
+	JAWA_SHIP_doria: "Doria" #!Empty_LineInfo!
+	JAWA_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	JAWA_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	JAWA_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	JAWA_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	JAWA_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	JAWA_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	JAWA_SHIP_durham: "Durham" #!Empty_LineInfo!
+	JAWA_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	JAWA_SHIP_milne: "Milne" #!Empty_LineInfo!
+	JAWA_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	JAWA_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	JAWA_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	JAWA_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	JAWA_SHIP_pound: "Pound" #!Empty_LineInfo!
+	JAWA_SHIP_king: "King" #!Empty_LineInfo!
+	JAWA_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	JAWA_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	JAWA_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	JAWA_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	JAWA_SHIP_essen: "Essen" #!Empty_LineInfo!
+	JAWA_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	JAWA_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	JAWA_SHIP_treville: "Treville" #!Empty_LineInfo!
+	JAWA_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	JAWA_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	JAWA_SHIP_byng: "Byng" #!Empty_LineInfo!
+	JAWA_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	JAWA_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	JAWA_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	JAWA_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	JAWA_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	JAWA_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	JAWA_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	JAWA_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	JAWA_FLEET_armada_ORD: "$ORD$ Armada" #!Empty_LineInfo!
+	JAWA_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	JAWA_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	JAWA_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	JAWA_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	JAWA_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	JAWA_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	JAWA_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	JAWA_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	JAWA_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	JAWA_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	JAWA_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	JAWA_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	JAWA_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	JAWA_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	JAWA_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	JAWA_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	JAWA_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	JAWA_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	JAWA_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	JAWA_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	JAWA_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	JAWA_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	JAWA_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	JAWA_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	JAWA_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	JAWA_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	JAWA_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	JAWA_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	JAWA_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	JAWA_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	JAWA_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	JAWA_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	JAWA_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	JAWA_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	JAWA_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	JAWA_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	JAWA_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	JAWA_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	JAWA_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	JAWA_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	JAWA_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	JAWA_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	JAWA_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	JAWA_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	JAWA_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	JAWA_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	JAWA_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	JAWA_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	JAWA_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	JAWA_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	JAWA_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	JAWA_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	JAWA_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	JAWA_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	JAWA_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	JAWA_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	JAWA_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	JAWA_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	JAWA_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	JAWA_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	JAWA_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	JAWA_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	JAWA_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	JAWA_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	JAWA_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	JAWA_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	JAWA_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	JAWA_CHR_akial: "Akial" #!Empty_LineInfo!
+	JAWA_CHR_akkik: "Akkik" #!Empty_LineInfo!
+	JAWA_CHR_aktik: "Aktik" #!Empty_LineInfo!
+	JAWA_CHR_atetu: "Atetu" #!Empty_LineInfo!
+	JAWA_CHR_biguh: "Biguh" #!Empty_LineInfo!
+	JAWA_CHR_biktha: "Biktha" #!Empty_LineInfo!
+	JAWA_CHR_bleb_blek: "Bleb-Blek" #!Empty_LineInfo!
+	JAWA_CHR_blizz: "Blizz" #!Empty_LineInfo!
+	JAWA_CHR_brrik: "Brrik" #!Empty_LineInfo!
+	JAWA_CHR_charl: "Charl" #!Empty_LineInfo!
+	JAWA_CHR_ch_hedt: "Ch'hedt" #!Empty_LineInfo!
+	JAWA_CHR_daroe: "Daroe" #!Empty_LineInfo!
+	JAWA_CHR_dathcha: "Dathcha" #!Empty_LineInfo!
+	JAWA_CHR_deja: "Deja" #!Empty_LineInfo!
+	JAWA_CHR_eet: "Eet" #!Empty_LineInfo!
+	JAWA_CHR_efa: "Efa" #!Empty_LineInfo!
+	JAWA_CHR_empideera: "Empideera" #!Empty_LineInfo!
+	JAWA_CHR_enjikket: "Enjikket" #!Empty_LineInfo!
+	JAWA_CHR_ezjenk: "Ezjenk" #!Empty_LineInfo!
+	JAWA_CHR_hadiir: "Hadiir" #!Empty_LineInfo!
+	JAWA_CHR_het: "Het" #!Empty_LineInfo!
+	JAWA_CHR_hibli: "Hibli" #!Empty_LineInfo!
+	JAWA_CHR_hrar: "Hrar" #!Empty_LineInfo!
+	JAWA_CHR_iasa: "Iasa" #!Empty_LineInfo!
+	JAWA_CHR_izink: "Izink" #!Empty_LineInfo!
+	JAWA_CHR_iziz: "Iziz" #!Empty_LineInfo!
+	JAWA_CHR_izzar: "Izzar" #!Empty_LineInfo!
+	JAWA_CHR_jeelvic: "Jeelvic" #!Empty_LineInfo!
+	JAWA_CHR_jek: "Jek" #!Empty_LineInfo!
+	JAWA_CHR_jengus: "Jengus" #!Empty_LineInfo!
+	JAWA_CHR_jik_tal: "Jik'Tal" #!Empty_LineInfo!
+	JAWA_CHR_jiktha: "Jiktha" #!Empty_LineInfo!
+	JAWA_CHR_ji_ni: "Ji'Ni" #!Empty_LineInfo!
+	JAWA_CHR_jreely: "Jreely" #!Empty_LineInfo!
+	JAWA_CHR_kalit: "Kalit" #!Empty_LineInfo!
+	JAWA_CHR_kekit: "Kekit" #!Empty_LineInfo!
+	JAWA_CHR_keth_keth: "Keth-Keth" #!Empty_LineInfo!
+	JAWA_CHR_kezzit: "Kezzit" #!Empty_LineInfo!
+	JAWA_CHR_kiatha: "Kiatha" #!Empty_LineInfo!
+	JAWA_CHR_kikkit: "Kikkit" #!Empty_LineInfo!
+	JAWA_CHR_kiottja: "Kiottja" #!Empty_LineInfo!
+	JAWA_CHR_kitit: "Kitit" #!Empty_LineInfo!
+	JAWA_CHR_kitpth: "Kitpth" #!Empty_LineInfo!
+	JAWA_CHR_klepti: "Klepti" #!Empty_LineInfo!
+	JAWA_CHR_klikk: "Klikk" #!Empty_LineInfo!
+	JAWA_CHR_krikit: "Krikit" #!Empty_LineInfo!
+	JAWA_CHR_lonai: "Lonai" #!Empty_LineInfo!
+	JAWA_CHR_maliiki: "Maliiki" #!Empty_LineInfo!
+	JAWA_CHR_meerko: "Meerko" #!Empty_LineInfo!
+	JAWA_CHR_meso: "Meso" #!Empty_LineInfo!
+	JAWA_CHR_miktha: "Miktha" #!Empty_LineInfo!
+	JAWA_CHR_mnek: "Mnek" #!Empty_LineInfo!
+	JAWA_CHR_nbat: "Nbat" #!Empty_LineInfo!
+	JAWA_CHR_nebit: "Nebit" #!Empty_LineInfo!
+	JAWA_CHR_niktha: "Niktha" #!Empty_LineInfo!
+	JAWA_CHR_nolar: "Nolar" #!Empty_LineInfo!
+	JAWA_CHR_pachwenko: "Pachwenko" #!Empty_LineInfo!
+	JAWA_CHR_panaw: "Panaw" #!Empty_LineInfo!
+	JAWA_CHR_pitkth: "Pitkth" #!Empty_LineInfo!
+	JAWA_CHR_pliktu: "Pliktu" #!Empty_LineInfo!
+	JAWA_CHR_prnthik: "Prnthik" #!Empty_LineInfo!
+	JAWA_CHR_renishi: "Renishi" #!Empty_LineInfo!
+	JAWA_CHR_ribbo: "Ribbo" #!Empty_LineInfo!
+	JAWA_CHR_r_kik: "R'kik" #!Empty_LineInfo!
+	JAWA_CHR_rkok: "Rkok" #!Empty_LineInfo!
+	JAWA_CHR_snipp: "Snipp" #!Empty_LineInfo!
+	JAWA_CHR_squig: "Squig" #!Empty_LineInfo!
+	JAWA_CHR_tatakoz: "Tatakoz" #!Empty_LineInfo!
+	JAWA_CHR_tteek: "Tteek" #!Empty_LineInfo!
+	JAWA_CHR_tek: "Tek" #!Empty_LineInfo!
+	JAWA_CHR_teokuk: "Teokuk" #!Empty_LineInfo!
+	JAWA_CHR_thedit: "Thedit" #!Empty_LineInfo!
+	JAWA_CHR_thint: "Thint" #!Empty_LineInfo!
+	JAWA_CHR_tiatha: "Tiatha" #!Empty_LineInfo!
+	JAWA_CHR_tikkit: "Tikkit" #!Empty_LineInfo!
+	JAWA_CHR_tili_tili: "Tili Tili" #!Empty_LineInfo!
+	JAWA_CHR_tteel: "Tteel" #!Empty_LineInfo!
+	JAWA_CHR_ttekket: "Ttekket" #!Empty_LineInfo!
+	JAWA_CHR_tweetu: "Tweetu" #!Empty_LineInfo!
+	JAWA_CHR_ukchet: "Ukchet" #!Empty_LineInfo!
+	JAWA_CHR_uutkik: "Uutkik" #!Empty_LineInfo!
+	JAWA_CHR_veek: "Veek" #!Empty_LineInfo!
+	JAWA_CHR_wassak: "Wassak" #!Empty_LineInfo!
+	JAWA_CHR_wimateeka: "Wimateeka" #!Empty_LineInfo!
+	JAWA_CHR_wittin: "Wittin" #!Empty_LineInfo!
+	JAWA_CHR_wrex: "Wrex" #!Empty_LineInfo!
+	JAWA_CHR_yeelhoy: "Yeelhoy" #!Empty_LineInfo!
+	JAWA_CHR_zubwen: "Zubwen" #!Empty_LineInfo!
+	JAWA_CHR_abluikth: "Abluikth" #!Empty_LineInfo!
+	JAWA_CHR_blazz: "Blazz" #!Empty_LineInfo!
+	JAWA_CHR_chith: "Chith" #!Empty_LineInfo!
+	JAWA_CHR_dekkemiw: "Dekkemiw" #!Empty_LineInfo!
+	JAWA_CHR_hekk: "Hekk" #!Empty_LineInfo!
+	JAWA_CHR_ikchak: "Ikchak" #!Empty_LineInfo!
+	JAWA_CHR_krak_chih: "Krak'chih" #!Empty_LineInfo!
+	JAWA_CHR_krek_koek_kix: "Krek'koek'kix" #!Empty_LineInfo!
+	JAWA_CHR_obloniit: "Obloniit" #!Empty_LineInfo!
+	JAWA_CHR_ok_katki: "Ok'katki" #!Empty_LineInfo!
+	JAWA_CHR_okkent: "Okkent" #!Empty_LineInfo!
+	JAWA_CHR_snik: "Snik" #!Empty_LineInfo!
+	JAWA_CHR_snikk: "Snikk" #!Empty_LineInfo!
+	JAWA_CHR_sqer: "Sqer" #!Empty_LineInfo!
+	JAWA_CHR_squt: "Squt" #!Empty_LineInfo!
+	JAWA_CHR_tebuisseot: "Tebuisseot" #!Empty_LineInfo!
+	JAWA_CHR_thut: "Thut" #!Empty_LineInfo!
+	JAWA_CHR_tsakchapta: "Tsakchapta" #!Empty_LineInfo!
+	JAWA_CHR_tseezz: "Tseezz" #!Empty_LineInfo!
+	JAWA_CHR_tseh: "Tseh" #!Empty_LineInfo!
+	JAWA_CHR_ttent: "Ttent" #!Empty_LineInfo!
+	JAWA_CHR_valadt: "Valadt" #!Empty_LineInfo!
+	JAWA_CHR_vax: "Vax" #!Empty_LineInfo!
+	JAWA_CHR_vikinzatk: "Vikinzatk" #!Empty_LineInfo!
+	JAWA_CHR_vukchit: "Vukchit" #!Empty_LineInfo!
+	JAWA_CHR_wepp: "Wepp" #!Empty_LineInfo!
+	JAWA_CHR_zittjil: "Zittjil" #!Empty_LineInfo!
+	JAWA_CHR_aguilae: "Aguilae" #!Empty_LineInfo!
+	JAWA_CHR_aved: "Aved" #!Empty_LineInfo!
+	JAWA_CHR_herat: "Herat" #!Empty_LineInfo!
+	JAWA_CHR_khea: "Khea" #!Empty_LineInfo!
+	JAWA_CHR_lelek: "Lelek" #!Empty_LineInfo!
+	JAWA_CHR_maz: "Maz" #!Empty_LineInfo!
+	JAWA_CHR_abut: "Abut" #!Empty_LineInfo!
+	JAWA_CHR_agiy: "Agiy" #!Empty_LineInfo!
+	JAWA_CHR_ales: "Ales" #!Empty_LineInfo!
+	JAWA_CHR_anigeed: "Anigeed" #!Empty_LineInfo!
+	JAWA_CHR_apifeh: "Apifeh" #!Empty_LineInfo!
+	JAWA_CHR_apoevee: "Apoevee" #!Empty_LineInfo!
+	JAWA_CHR_aree: "Aree" #!Empty_LineInfo!
+	JAWA_CHR_atipi: "Atipi" #!Empty_LineInfo!
+	JAWA_CHR_beremam: "Beremam" #!Empty_LineInfo!
+	JAWA_CHR_bhagad: "Bhagad" #!Empty_LineInfo!
+	JAWA_CHR_bhohudee: "Bhohudee" #!Empty_LineInfo!
+	JAWA_CHR_bitipuc: "Bitipuc" #!Empty_LineInfo!
+	JAWA_CHR_blafatad: "Blafatad" #!Empty_LineInfo!
+	JAWA_CHR_blamibas: "Blamibas" #!Empty_LineInfo!
+	JAWA_CHR_bliisim: "Bliisim" #!Empty_LineInfo!
+	JAWA_CHR_blivota: "Blivota" #!Empty_LineInfo!
+	JAWA_CHR_dafum: "Dafum" #!Empty_LineInfo!
+	JAWA_CHR_dhali: "Dhali" #!Empty_LineInfo!
+	JAWA_CHR_dheke: "Dheke" #!Empty_LineInfo!
+	JAWA_CHR_dhihel: "Dhihel" #!Empty_LineInfo!
+	JAWA_CHR_dhikac: "Dhikac" #!Empty_LineInfo!
+	JAWA_CHR_d_ner: "D'ner" #!Empty_LineInfo!
+	JAWA_CHR_d_nidul: "D'nidul" #!Empty_LineInfo!
+	JAWA_CHR_ebelek: "Ebelek" #!Empty_LineInfo!
+	JAWA_CHR_efali: "Efali" #!Empty_LineInfo!
+	JAWA_CHR_ejemakth: "Ejemakth" #!Empty_LineInfo!
+	JAWA_CHR_evi: "Evi" #!Empty_LineInfo!
+	JAWA_CHR_fiiy: "Fiiy" #!Empty_LineInfo!
+	JAWA_CHR_hurewi: "Hurewi" #!Empty_LineInfo!
+	JAWA_CHR_imik: "Imik" #!Empty_LineInfo!
+	JAWA_CHR_kabeos: "Kabeos" #!Empty_LineInfo!
+	JAWA_CHR_kakeget: "Kakeget" #!Empty_LineInfo!
+	JAWA_CHR_k_edi: "K'edi" #!Empty_LineInfo!
+	JAWA_CHR_khuran: "Khuran" #!Empty_LineInfo!
+	JAWA_CHR_k_iduvu: "K'iduvu" #!Empty_LineInfo!
+	JAWA_CHR_kkeqia: "Kkeqia" #!Empty_LineInfo!
+	JAWA_CHR_kkequ: "Kkequ" #!Empty_LineInfo!
+	JAWA_CHR_klenuheekth: "Klenuheekth" #!Empty_LineInfo!
+	JAWA_CHR_knawe: "Knawe" #!Empty_LineInfo!
+	JAWA_CHR_k_ura: "K'ura" #!Empty_LineInfo!
+	JAWA_CHR_liikin: "Liikin" #!Empty_LineInfo!
+	JAWA_CHR_lirum: "Lirum" #!Empty_LineInfo!
+	JAWA_CHR_loese: "Loese" #!Empty_LineInfo!
+	JAWA_CHR_mazaza: "Mazaza" #!Empty_LineInfo!
+	JAWA_CHR_mehilah: "Mehilah" #!Empty_LineInfo!
+	JAWA_CHR_m_erira: "M'erira" #!Empty_LineInfo!
+	JAWA_CHR_mibel: "Mibel" #!Empty_LineInfo!
+	JAWA_CHR_najin: "Najin" #!Empty_LineInfo!
+	JAWA_CHR_negumin: "Negumin" #!Empty_LineInfo!
+	JAWA_CHR_ney: "Ney" #!Empty_LineInfo!
+	JAWA_CHR_nipufuc: "Nipufuc" #!Empty_LineInfo!
+	JAWA_CHR_nkun: "Nkun" #!Empty_LineInfo!
+	JAWA_CHR_nuqi: "Nuqi" #!Empty_LineInfo!
+	JAWA_CHR_oheegi: "Oheegi" #!Empty_LineInfo!
+	JAWA_CHR_pabal: "Pabal" #!Empty_LineInfo!
+	JAWA_CHR_pada: "Pada" #!Empty_LineInfo!
+	JAWA_CHR_paka: "Paka" #!Empty_LineInfo!
+	JAWA_CHR_plekem: "Plekem" #!Empty_LineInfo!
+	JAWA_CHR_q_ikey: "Q'ikey" #!Empty_LineInfo!
+	JAWA_CHR_q_ivu: "Q'ivu" #!Empty_LineInfo!
+	JAWA_CHR_qoejiid: "Qoejiid" #!Empty_LineInfo!
+	JAWA_CHR_rhaden: "Rhaden" #!Empty_LineInfo!
+	JAWA_CHR_rhilelad: "Rhilelad" #!Empty_LineInfo!
+	JAWA_CHR_rine: "Rine" #!Empty_LineInfo!
+	JAWA_CHR_ripem: "Ripem" #!Empty_LineInfo!
+	JAWA_CHR_rwalis: "Rwalis" #!Empty_LineInfo!
+	JAWA_CHR_rwiladat: "Rwiladat" #!Empty_LineInfo!
+	JAWA_CHR_safee: "Safee" #!Empty_LineInfo!
+	JAWA_CHR_sebeni: "Sebeni" #!Empty_LineInfo!
+	JAWA_CHR_setek: "Setek" #!Empty_LineInfo!
+	JAWA_CHR_shadasis: "Shadasis" #!Empty_LineInfo!
+	JAWA_CHR_siahak: "Siahak" #!Empty_LineInfo!
+	JAWA_CHR_sife: "Sife" #!Empty_LineInfo!
+	JAWA_CHR_sniveh: "Sniveh" #!Empty_LineInfo!
+	JAWA_CHR_thabiih: "Thabiih" #!Empty_LineInfo!
+	JAWA_CHR_thay: "Thay" #!Empty_LineInfo!
+	JAWA_CHR_thurac: "Thurac" #!Empty_LineInfo!
+	JAWA_CHR_ugezil: "Ugezil" #!Empty_LineInfo!
+	JAWA_CHR_usa: "Usa" #!Empty_LineInfo!
+	JAWA_CHR_usoqahs: "Usoqahs" #!Empty_LineInfo!
+	JAWA_CHR_vamo: "Vamo" #!Empty_LineInfo!
+	JAWA_CHR_vewevoe: "Vewevoe" #!Empty_LineInfo!
+	JAWA_CHR_wapuk: "Wapuk" #!Empty_LineInfo!
+	JAWA_CHR_whebeoh: "Whebeoh" #!Empty_LineInfo!
+	JAWA_CHR_whelut: "Whelut" #!Empty_LineInfo!
+	JAWA_CHR_whifatas: "Whifatas" #!Empty_LineInfo!
+	JAWA_CHR_wutunam: "Wutunam" #!Empty_LineInfo!
+	JAWA_CHR_b_ay: "B'ay" #!Empty_LineInfo!
+	JAWA_CHR_bet_ario: "Bet'ario" #!Empty_LineInfo!
+	JAWA_CHR_d_nec: "D'nec" #!Empty_LineInfo!
+	JAWA_CHR_fe_li: "Fe'li" #!Empty_LineInfo!
+	JAWA_CHR_johs: "Johs" #!Empty_LineInfo!
+	JAWA_CHR_kkak: "Kkak" #!Empty_LineInfo!
+	JAWA_CHR_kkek: "Kkek" #!Empty_LineInfo!
+	JAWA_CHR_laloo: "Laloo" #!Empty_LineInfo!
+	JAWA_CHR_luun: "Luun" #!Empty_LineInfo!
+	JAWA_CHR_nkik: "Nkik" #!Empty_LineInfo!
+	JAWA_CHR_nkul: "Nkul" #!Empty_LineInfo!
+	JAWA_CHR_ptaa: "Ptaa" #!Empty_LineInfo!
+	JAWA_CHR_qua_lu: "Qua'lu" #!Empty_LineInfo!
+	JAWA_CHR_sil: "Sil" #!Empty_LineInfo!
+	JAWA_CHR_sstena: "Sstena" #!Empty_LineInfo!
+	JAWA_CHR_tlek: "Tlek" #!Empty_LineInfo!
+	JAWA_CHR_toomb: "Toomb" #!Empty_LineInfo!
+	JAWA_CHR_ajudakth: "Ajudakth" #!Empty_LineInfo!
+	JAWA_CHR_b_ahu: "B'ahu" #!Empty_LineInfo!
+	JAWA_CHR_b_azirol: "B'azirol" #!Empty_LineInfo!
+	JAWA_CHR_behas: "Behas" #!Empty_LineInfo!
+	JAWA_CHR_b_in: "B'in" #!Empty_LineInfo!
+	JAWA_CHR_d_nivii: "D'nivii" #!Empty_LineInfo!
+	JAWA_CHR_evekt: "Evekt" #!Empty_LineInfo!
+	JAWA_CHR_k_eoz: "K'eoz" #!Empty_LineInfo!
+	JAWA_CHR_k_igok: "K'igok" #!Empty_LineInfo!
+	JAWA_CHR_kkariakth: "Kkariakth" #!Empty_LineInfo!
+	JAWA_CHR_kruisik: "Kruisik" #!Empty_LineInfo!
+	JAWA_CHR_m_az: "M'az" #!Empty_LineInfo!
+	JAWA_CHR_m_ikth: "M'ikth" #!Empty_LineInfo!
+	JAWA_CHR_m_imodam: "M'imodam" #!Empty_LineInfo!
+	JAWA_CHR_ptikth: "Ptikth" #!Empty_LineInfo!
+	JAWA_CHR_q_adaren: "Q'adaren" #!Empty_LineInfo!
+	JAWA_CHR_q_arul: "Q'arul" #!Empty_LineInfo!
+	JAWA_CHR_q_ecoju: "Q'ecoju" #!Empty_LineInfo!
+	JAWA_CHR_soz: "Soz" #!Empty_LineInfo!
+	JAWA_CHR_thetay: "Thetay" #!Empty_LineInfo!
+	JAWA_CHR_tluiqagim: "Tluiqagim" #!Empty_LineInfo!
+	JAWA_CHR_tlunaki: "Tlunaki" #!Empty_LineInfo!
+	JAWA_CHR_tuked: "Tuked" #!Empty_LineInfo!

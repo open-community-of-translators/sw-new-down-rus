@@ -1,2100 +1,2100 @@
 ﻿l_russian:
-	IMPERIAL_SHIP_unilateral: "Unilateral"
-	IMPERIAL_SHIP_objective: "Objective"
-	IMPERIAL_SHIP_transactor: "Transactor"
-	IMPERIAL_SHIP_loyalist: "Loyalist"
-	IMPERIAL_SHIP_attendant: "Attendant"
-	IMPERIAL_SHIP_intendant: "Intendant"
-	IMPERIAL_SHIP_ultra_vires: "Ultra Vires"
-	IMPERIAL_SHIP_contractor: "Contractor"
-	IMPERIAL_SHIP_warrant: "Warrant"
-	IMPERIAL_SHIP_due_cause: "Due Cause"
-	IMPERIAL_SHIP_just_cause: "Just Cause"
-	IMPERIAL_SHIP_privy: "Privy"
-	IMPERIAL_SHIP_privilege: "Privilege"
-	IMPERIAL_SHIP_prerogative: "Prerogative"
-	IMPERIAL_SHIP_birthright: "Birthright"
-	IMPERIAL_SHIP_entitlement: "Entitlement"
-	IMPERIAL_SHIP_duress: "Duress"
-	IMPERIAL_SHIP_forum: "Forum"
-	IMPERIAL_SHIP_mandate: "Mandate"
-	IMPERIAL_SHIP_remedial: "Remedial"
-	IMPERIAL_SHIP_broadside: "Broadside"
-	IMPERIAL_SHIP_resilient: "Resilient"
-	IMPERIAL_SHIP_resolute: "Resolute"
-	IMPERIAL_SHIP_inspector: "Inspector"
-	IMPERIAL_SHIP_vulnerator: "Vulnerator"
-	IMPERIAL_SHIP_vulture: "Vulture"
-	IMPERIAL_SHIP_carrion: "Carrion"
-	IMPERIAL_SHIP_carrion_spike: "Carrion Spike"
-	IMPERIAL_SHIP_dagger: "Dagger"
-	IMPERIAL_SHIP_dark_revenge: "Dark Revenge"
-	IMPERIAL_SHIP_lightning: "Lightning"
-	IMPERIAL_SHIP_thunderclap: "Thunderclap"
-	IMPERIAL_SHIP_tempest: "Tempest"
-	IMPERIAL_SHIP_vortex: "Vortex"
-	IMPERIAL_SHIP_master: "Master"
-	IMPERIAL_SHIP_maximus: "Maximus"
-	IMPERIAL_SHIP_meteor: "Meteor"
-	IMPERIAL_SHIP_nautilian: "Nautilian"
-	IMPERIAL_SHIP_comet: "Comet"
-	IMPERIAL_SHIP_starfall: "Starfall"
-	IMPERIAL_SHIP_stardust: "Stardust"
-	IMPERIAL_SHIP_prodigal: "Prodigal"
-	IMPERIAL_SHIP_promise: "Promise"
-	IMPERIAL_SHIP_prowler: "Prowler"
-	IMPERIAL_SHIP_pulsar: "Pulsar"
-	IMPERIAL_SHIP_python: "Python"
-	IMPERIAL_SHIP_quantum: "Quantum"
-	IMPERIAL_SHIP_rampart: "Rampart"
-	IMPERIAL_SHIP_bastion: "Bastion"
-	IMPERIAL_SHIP_shooting_star: "Shooting Star"
-	IMPERIAL_SHIP_maelstrom: "Maelstrom"
-	IMPERIAL_SHIP_solar_flare: "Solar Flare"
-	IMPERIAL_SHIP_spitfire: "Spitfire"
-	IMPERIAL_SHIP_splinter: "Splinter"
-	IMPERIAL_SHIP_staraker: "Staraker"
-	IMPERIAL_SHIP_starduster: "Starduster"
-	IMPERIAL_SHIP_starhound: "Starhound"
-	IMPERIAL_SHIP_storm: "Storm"
-	IMPERIAL_SHIP_storm_wind: "Storm Wind"
-	IMPERIAL_SHIP_striker: "Striker"
-	IMPERIAL_SHIP_swift: "Swift"
-	IMPERIAL_SHIP_swiftsure: "Swiftsure"
-	IMPERIAL_SHIP_thrasher: "Thrasher"
-	IMPERIAL_SHIP_thunder: "Thunder"
-	IMPERIAL_SHIP_tribune: "Tribune"
-	IMPERIAL_SHIP_triumph: "Triumph"
-	IMPERIAL_SHIP_typhoon: "Typhoon"
-	IMPERIAL_SHIP_twilight: "Twilight"
-	IMPERIAL_SHIP_tydirium: "Tydirium"
-	IMPERIAL_SHIP_viper: "Viper"
-	IMPERIAL_SHIP_adder: "Adder"
-	IMPERIAL_SHIP_warhawk: "Warhawk"
-	IMPERIAL_SHIP_warrior: "Warrior"
-	IMPERIAL_SHIP_wasp: "Wasp"
-	IMPERIAL_SHIP_watchful: "Watchful"
-	IMPERIAL_SHIP_watchman: "Watchman"
-	IMPERIAL_SHIP_warden: "Warden"
-	IMPERIAL_SHIP_chevalier: "Chevalier"
-	IMPERIAL_SHIP_concord: "Concord"
-	IMPERIAL_SHIP_accordance: "Accordance"
-	IMPERIAL_SHIP_corvus: "Corvus"
-	IMPERIAL_SHIP_decisive: "Decisive"
-	IMPERIAL_SHIP_empyrean: "Empyrean"
-	IMPERIAL_SHIP_huntsman: "Huntsman"
-	IMPERIAL_SHIP_illustrious: "Illustrious"
-	IMPERIAL_SHIP_monitor: "Monitor"
-	IMPERIAL_SHIP_neutralizer: "Neutralizer"
-	IMPERIAL_SHIP_phalanx: "Phalanx"
-	IMPERIAL_SHIP_skyhook: "Skyhook"
-	IMPERIAL_SHIP_startide: "Startide"
-	IMPERIAL_SHIP_thunderbolt: "Thunderbolt"
-	IMPERIAL_SHIP_thunderchild: "Thunderchild"
-	IMPERIAL_SHIP_thunderhead: "Thunderhead"
-	IMPERIAL_SHIP_whip_hand: "Whip Hand"
-	IMPERIAL_SHIP_warder: "Warder"
-	IMPERIAL_SHIP_edict: "Edict"
-	IMPERIAL_SHIP_chariot: "Chariot"
-	IMPERIAL_SHIP_mas_amedda: "Mas Amedda"
-	IMPERIAL_SHIP_vizier: "Vizier"
-	IMPERIAL_SHIP_motive: "Motive"
-	IMPERIAL_SHIP_panther: "Panther"
-	IMPERIAL_SHIP_cyclone: "Cyclone"
-	IMPERIAL_SHIP_tornado: "Tornado"
-	IMPERIAL_SHIP_monsoon: "Monsoon"
-	IMPERIAL_SHIP_avalanche: "Avalanche"
-	IMPERIAL_SHIP_proctor: "Proctor"
-	IMPERIAL_SHIP_solar_hound: "Solar Hound"
-	IMPERIAL_SHIP_bodkin: "Bodkin"
-	IMPERIAL_SHIP_brimstone: "Brimstone"
-	IMPERIAL_SHIP_compeer: "Compeer"
-	IMPERIAL_SHIP_esurient: "Esurient"
-	IMPERIAL_SHIP_palfrey: "Palfrey"
-	IMPERIAL_SHIP_mustang: "Mustang"
-	IMPERIAL_SHIP_tantivy: "Tantivy"
-	IMPERIAL_SHIP_trespasser: "Trespasser"
-	IMPERIAL_SHIP_turnkey: "Turnkey"
-	IMPERIAL_SHIP_gaoler: "Gaoler"
-	IMPERIAL_SHIP_veracity: "Veracity"
-	IMPERIAL_SHIP_triad: "Triad"
-	IMPERIAL_SHIP_pentad: "Pentad"
-	IMPERIAL_SHIP_petard: "Petard"
-	IMPERIAL_SHIP_sapper: "Sapper"
-	IMPERIAL_SHIP_ladara_vex: "Ladara Vex"
-	IMPERIAL_SHIP_night_buzzard: "Night Buzzard"
-	IMPERIAL_SHIP_avadora: "Avadora"
-	IMPERIAL_SHIP_enshado: "Enshado"
-	IMPERIAL_SHIP_fortitude: "Fortitude"
-	IMPERIAL_SHIP_hevurion_grace: "Hevurion Grace"
-	IMPERIAL_SHIP_impetuous: "Impetuous"
-	IMPERIAL_SHIP_gladius: "Gladius"
-	IMPERIAL_SHIP_wrath: "Wrath"
-	IMPERIAL_SHIP_simoom: "Simoom"
-	IMPERIAL_SHIP_divine_wind: "Divine Wind"
-	IMPERIAL_SHIP_hellcat: "Hellcat"
-	IMPERIAL_SHIP_jitte: "Jitte"
-	IMPERIAL_SHIP_kimik: "Kimik"
-	IMPERIAL_SHIP_kuma: "Kuma"
-	IMPERIAL_SHIP_rahmat: "Rahmat"
-	IMPERIAL_SHIP_rok: "Rok"
-	IMPERIAL_SHIP_sakin: "Sakin"
-	IMPERIAL_SHIP_serpent: "Serpent"
-	IMPERIAL_SHIP_strident: "Strident"
-	IMPERIAL_SHIP_tallinn: "Tallinn"
-	IMPERIAL_SHIP_thinin: "Thinin"
-	IMPERIAL_SHIP_vorknkx: "Vorknkx"
-	IMPERIAL_SHIP_yaai: "Yaai"
-	IMPERIAL_SHIP_galaxy_dragon: "Galaxy Dragon"
-	IMPERIAL_SHIP_krieger: "Krieger"
-	IMPERIAL_SHIP_lancet: "Lancet"
-	IMPERIAL_SHIP_wolf_s_claw: "Wolf's Claw"
-	IMPERIAL_SHIP_prentioch: "Prentioch"
-	IMPERIAL_SHIP_backbreaker: "Backbreaker"
-	IMPERIAL_SHIP_blood_gutter: "Blood Gutter"
-	IMPERIAL_SHIP_chains_of_justice: "Chains of Justice"
-	IMPERIAL_SHIP_contruum_s_pride: "Contruum's Pride"
-	IMPERIAL_SHIP_counterpunch: "Counterpunch"
-	IMPERIAL_SHIP_ession_strike: "Ession Strike"
-	IMPERIAL_SHIP_flash_fire: "Flash Fire"
-	IMPERIAL_SHIP_hawkbat: "Hawkbat"
-	IMPERIAL_SHIP_hawkbat_s_perch: "Hawkbat's Perch"
-	IMPERIAL_SHIP_hawbat_s_vigil: "Hawbat's Vigil"
-	IMPERIAL_SHIP_nashtah_bite: "Nashtah Bite"
-	IMPERIAL_SHIP_provocateur: "Provocateur"
-	IMPERIAL_SHIP_razor_s_kiss: "Razor's Kiss"
-	IMPERIAL_SHIP_red_gauntlet: "Red Gauntlet"
-	IMPERIAL_SHIP_reprisal: "Reprisal"
-	IMPERIAL_SHIP_second_death: "Second Death"
-	IMPERIAL_SHIP_serpent_s_smile: "Serpent's Smile"
-	IMPERIAL_SHIP_termagant: "Termagant"
-	IMPERIAL_SHIP_vengeance_derra_iv: "Vengeance Derra IV"
-	IMPERIAL_SHIP_venom: "Venom"
-	IMPERIAL_SHIP_ilthmar_s_fist: "Ilthmar's Fist"
-	IMPERIAL_SHIP_meniscus: "Meniscus"
-	IMPERIAL_SHIP_shockwave: "Shockwave"
-	IMPERIAL_SHIP_scardia_voyager: "Scardia Voyager"
-	IMPERIAL_SHIP_shadow_chaser: "Shadow Chaser"
-	IMPERIAL_SHIP_oriflamme: "Oriflamme"
-	IMPERIAL_SHIP_thalassa: "Thalassa"
-	IMPERIAL_SHIP_helmsman: "Helmsman"
-	IMPERIAL_SHIP_doomgiver: "Doomgiver"
-	IMPERIAL_SHIP_rebirth: "Rebirth"
-	IMPERIAL_SHIP_destiny: "Destiny"
-	IMPERIAL_SHIP_steadfast: "Steadfast"
-	IMPERIAL_SHIP_bloodprice: "Bloodprice"
-	IMPERIAL_SHIP_gorath: "Gorath"
-	IMPERIAL_SHIP_tobay: "Tobay"
-	IMPERIAL_SHIP_aspiration: "Aspiration"
-	IMPERIAL_SHIP_direption: "Direption"
-	IMPERIAL_SHIP_emperor_s_wisdom: "Emperor's Wisdom"
-	IMPERIAL_SHIP_turbulent: "Turbulent"
-	IMPERIAL_SHIP_concussor: "Concussor"
-	IMPERIAL_SHIP_consolidator: "Consolidator"
-	IMPERIAL_SHIP_erinnic: "Erinnic"
-	IMPERIAL_SHIP_harramin: "Harramin"
-	IMPERIAL_SHIP_kagcatcher: "Kagcatcher"
-	IMPERIAL_SHIP_master_stroke: "Master Stroke"
-	IMPERIAL_SHIP_peerless: "Peerless"
-	IMPERIAL_SHIP_protector: "Protector"
-	IMPERIAL_SHIP_parting_gift: "Parting Gift"
-	IMPERIAL_SHIP_rakehell: "Rakehell"
-	IMPERIAL_SHIP_redoubtable: "Redoubtable"
-	IMPERIAL_SHIP_right_to_rule: "Right to Rule"
-	IMPERIAL_SHIP_scylla: "Scylla"
-	IMPERIAL_SHIP_stalwart: "Stalwart"
-	IMPERIAL_SHIP_superior: "Superior"
-	IMPERIAL_SHIP_valorous: "Valorous"
-	IMPERIAL_SHIP_widowmaker: "Widowmaker"
-	IMPERIAL_SHIP_wrack: "Wrack"
-	IMPERIAL_SHIP_wyvard: "Wyvard"
-	IMPERIAL_SHIP_wyvern: "Wyvern"
-	IMPERIAL_SHIP_animus: "Animus"
-	IMPERIAL_SHIP_neuer: "Neuer"
-	IMPERIAL_SHIP_interpid: "Interpid"
-	IMPERIAL_SHIP_darklight: "Darklight"
-	IMPERIAL_SHIP_intruder: "Intruder"
-	IMPERIAL_SHIP_marauder: "Marauder"
-	IMPERIAL_SHIP_raider: "Raider"
-	IMPERIAL_SHIP_abrogator: "Abrogator"
-	IMPERIAL_SHIP_atrisian_iron: "Atrisian Iron"
-	IMPERIAL_SHIP_dargon: "Dargon"
-	IMPERIAL_SHIP_disorver: "Disorver"
-	IMPERIAL_SHIP_famulus: "Famulus"
-	IMPERIAL_SHIP_harrier: "Harrier"
-	IMPERIAL_SHIP_imperial_destiny: "Imperial Destiny"
-	IMPERIAL_SHIP_karei: "Karei"
-	IMPERIAL_SHIP_leviathan: "Leviathan"
-	IMPERIAL_SHIP_longshot: "Longshot"
-	IMPERIAL_SHIP_mercury: "Mercury"
-	IMPERIAL_SHIP_neva: "Neva"
-	IMPERIAL_SHIP_prominence: "Prominence"
-	IMPERIAL_SHIP_sarissa: "Sarissa"
-	IMPERIAL_SHIP_starsider: "Starsider"
-	IMPERIAL_SHIP_vendetta: "Vendetta"
-	IMPERIAL_SHIP_vigilance: "Vigilance"
-	IMPERIAL_SHIP_courageous: "Courageous"
-	IMPERIAL_SHIP_rampant: "Rampant"
-	IMPERIAL_SHIP_black_hawk: "Black Hawk"
-	IMPERIAL_SHIP_blue_hawk: "Blue Hawk"
-	IMPERIAL_SHIP_cascade: "Cascade"
-	IMPERIAL_SHIP_fowler: "Fowler"
-	IMPERIAL_SHIP_furious: "Furious"
-	IMPERIAL_SHIP_assailer: "Assailer"
-	IMPERIAL_SHIP_assailant: "Assailant"
-	IMPERIAL_SHIP_instigator: "Instigator"
-	IMPERIAL_SHIP_sargantuan: "Sargantuan"
-	IMPERIAL_SHIP_ambition: "Ambition"
-	IMPERIAL_SHIP_counterforce: "Counterforce"
-	IMPERIAL_SHIP_deterrence: "Deterrence"
-	IMPERIAL_SHIP_eminence: "Eminence"
-	IMPERIAL_SHIP_expeditious: "Expeditious"
-	IMPERIAL_SHIP_integirty: "Integirty"
-	IMPERIAL_SHIP_kingdom: "Kingdom"
-	IMPERIAL_SHIP_nexus: "Nexus"
-	IMPERIAL_SHIP_oculus: "Oculus"
-	IMPERIAL_SHIP_outrider: "Outrider"
-	IMPERIAL_SHIP_perseverance: "Perseverance"
-	IMPERIAL_SHIP_windsinger: "Windsinger"
-	IMPERIAL_SHIP_pursuit: "Pursuit"
-	IMPERIAL_SHIP_purgatory: "Purgatory"
-	IMPERIAL_SHIP_skywatcher: "Skywatcher"
-	IMPERIAL_SHIP_centicore: "Centicore"
-	IMPERIAL_SHIP_hand_of_justice: "Hand of Justice"
-	IMPERIAL_SHIP_tellstar: "Tellstar"
-	IMPERIAL_SHIP_blood_crow: "Blood Crow"
-	IMPERIAL_SHIP_vector: "Vector"
-	IMPERIAL_SHIP_requiem: "Requiem"
-	IMPERIAL_SHIP_riesa: "Riesa"
-	IMPERIAL_SHIP_dallust: "Dallust"
-	IMPERIAL_SHIP_halberd: "Halberd"
-	IMPERIAL_SHIP_gauntlet: "Gauntlet"
-	IMPERIAL_SHIP_polearm: "Polearm"
-	IMPERIAL_SHIP_poleaxe: "Poleaxe"
-	IMPERIAL_SHIP_hininbirg: "Hininbirg"
-	IMPERIAL_SHIP_hyperion: "Hyperion"
-	IMPERIAL_SHIP_tropsobor: "Tropsobor"
-	IMPERIAL_SHIP_terrup: "Terrup"
-	IMPERIAL_SHIP_straasa: "Straasa"
-	IMPERIAL_SHIP_mist: "Mist"
-	IMPERIAL_SHIP_imperial_protector: "Imperial Protector"
-	IMPERIAL_SHIP_kathol_protector: "Kathol Protector"
-	IMPERIAL_SHIP_asp: "Asp"
-	IMPERIAL_SHIP_daring: "Daring"
-	IMPERIAL_SHIP_eel: "Eel"
-	IMPERIAL_SHIP_eidolon: "Eidolon"
-	IMPERIAL_SHIP_formidable: "Formidable"
-	IMPERIAL_SHIP_horizon: "Horizon"
-	IMPERIAL_SHIP_iron_duke: "Iron Duke"
-	IMPERIAL_SHIP_intombe: "Intombe"
-	IMPERIAL_SHIP_talon: "Talon"
-	IMPERIAL_SHIP_shrike: "Shrike"
-	IMPERIAL_SHIP_lonsigar: "Lonsigar"
-	IMPERIAL_SHIP_lament: "Lament"
-	IMPERIAL_SHIP_longbow: "Longbow"
-	IMPERIAL_SHIP_pylos: "Pylos"
-	IMPERIAL_SHIP_trident: "Trident"
-	IMPERIAL_SHIP_warpick: "Warpick"
-	IMPERIAL_SHIP_morning_star: "Morning Star"
-	IMPERIAL_SHIP_pernach: "Pernach"
-	IMPERIAL_SHIP_estoc: "Estoc"
-	IMPERIAL_SHIP_falchion: "Falchion"
-	IMPERIAL_SHIP_longsword: "Longsword"
-	IMPERIAL_SHIP_blastsword: "Blastsword"
-	IMPERIAL_SHIP_rapier: "Rapier"
-	IMPERIAL_SHIP_bardiche: "Bardiche"
-	IMPERIAL_SHIP_glaive: "Glaive"
-	IMPERIAL_SHIP_culverin: "Culverin"
-	IMPERIAL_SHIP_batterer: "Batterer"
-	IMPERIAL_SHIP_ballista: "Ballista"
-	IMPERIAL_SHIP_pertrar: "Pertrar"
-	IMPERIAL_SHIP_mangonel: "Mangonel"
-	IMPERIAL_SHIP_onager: "Onager"
-	IMPERIAL_SHIP_hellburner: "Hellburner"
-	IMPERIAL_SHIP_courser: "Courser"
-	IMPERIAL_SHIP_destrier: "Destrier"
-	IMPERIAL_SHIP_rouncey: "Rouncey"
-	IMPERIAL_SHIP_gambeson: "Gambeson"
-	IMPERIAL_SHIP_barbican: "Barbican"
-	IMPERIAL_SHIP_battlement: "Battlement"
-	IMPERIAL_SHIP_palisade: "Palisade"
-	IMPERIAL_SHIP_portcullis: "Portcullis"
-	IMPERIAL_SHIP_general_mohc: "General Mohc"
-	IMPERIAL_SHIP_azgoghk: "Azgoghk"
-	IMPERIAL_SHIP_angrix: "Angrix"
-	IMPERIAL_SHIP_apocahk: "Apocahk"
-	IMPERIAL_SHIP_odium: "Odium"
-	IMPERIAL_SHIP_opprobrium: "Opprobrium"
-	IMPERIAL_SHIP_imperator: "Imperator"
-	IMPERIAL_SHIP_halacious: "Halacious"
-	IMPERIAL_SHIP_carnivore: "Carnivore"
-	IMPERIAL_SHIP_predator: "Predator"
-	IMPERIAL_SHIP_chimera: "Chimera"
-	IMPERIAL_SHIP_monstrous: "Monstrous"
-	IMPERIAL_SHIP_repudiator: "Repudiator"
-	IMPERIAL_SHIP_irresistible: "Irresistible"
-	IMPERIAL_SHIP_accuser: "Accuser"
-	IMPERIAL_SHIP_adamant: "Adamant"
-	IMPERIAL_SHIP_admonitor: "Admonitor"
-	IMPERIAL_SHIP_adjudicator: "Adjudicator"
-	IMPERIAL_SHIP_agonizer: "Agonizer"
-	IMPERIAL_SHIP_assassin: "Assassin"
-	IMPERIAL_SHIP_avarice: "Avarice"
-	IMPERIAL_SHIP_avenger: "Avenger"
-	IMPERIAL_SHIP_basilisk: "Basilisk"
-	IMPERIAL_SHIP_bellicose: "Bellicose"
-	IMPERIAL_SHIP_conqueror: "Conqueror"
-	IMPERIAL_SHIP_conquest: "Conquest"
-	IMPERIAL_SHIP_death_s_head: "Death's Head"
-	IMPERIAL_SHIP_devastator: "Devastator"
-	IMPERIAL_SHIP_emperor_s_will: "Emperor's Will"
-	IMPERIAL_SHIP_engager: "Engager"
-	IMPERIAL_SHIP_eviscerator: "Eviscerator"
-	IMPERIAL_SHIP_firestorm: "Firestorm"
-	IMPERIAL_SHIP_glory: "Glory"
-	IMPERIAL_SHIP_gorgon: "Gorgon"
-	IMPERIAL_SHIP_grey_wolf: "Grey Wolf"
-	IMPERIAL_SHIP_hammer: "Hammer"
-	IMPERIAL_SHIP_hydra: "Hydra"
-	IMPERIAL_SHIP_immortal: "Immortal"
-	IMPERIAL_SHIP_inexorable: "Inexorable"
-	IMPERIAL_SHIP_interrogator: "Interrogator"
-	IMPERIAL_SHIP_invincible: "Invincible"
-	IMPERIAL_SHIP_judicator: "Judicator"
-	IMPERIAL_SHIP_majestic: "Majestic"
-	IMPERIAL_SHIP_malice: "Malice"
-	IMPERIAL_SHIP_manticore: "Manticore"
-	IMPERIAL_SHIP_monarch: "Monarch"
-	IMPERIAL_SHIP_nemesis: "Nemesis"
-	IMPERIAL_SHIP_nihil: "Nihil"
-	IMPERIAL_SHIP_peremptory: "Peremptory"
-	IMPERIAL_SHIP_punisher: "Punisher"
-	IMPERIAL_SHIP_rage: "Rage"
-	IMPERIAL_SHIP_reckoning: "Reckoning"
-	IMPERIAL_SHIP_relentless: "Relentless"
-	IMPERIAL_SHIP_reliance: "Reliance"
-	IMPERIAL_SHIP_render: "Render"
-	IMPERIAL_SHIP_resolution: "Resolution"
-	IMPERIAL_SHIP_retribution: "Retribution"
-	IMPERIAL_SHIP_stalker: "Stalker"
-	IMPERIAL_SHIP_stormhawk: "Stormhawk"
-	IMPERIAL_SHIP_thunderflare: "Thunderflare"
-	IMPERIAL_SHIP_thunderer: "Thunderer"
-	IMPERIAL_SHIP_tormentor: "Tormentor"
-	IMPERIAL_SHIP_tyrant: "Tyrant"
-	IMPERIAL_SHIP_ultima: "Ultima"
-	IMPERIAL_SHIP_vanguard: "Vanguard"
-	IMPERIAL_SHIP_vengeance: "Vengeance"
-	IMPERIAL_SHIP_virulence: "Virulence"
-	IMPERIAL_SHIP_whirlwind: "Whirlwind"
-	IMPERIAL_SHIP_night_terror: "Night Terror"
-	IMPERIAL_SHIP_obliterator: "Obliterator"
-	IMPERIAL_SHIP_annihilator: "Annihilator"
-	IMPERIAL_SHIP_colossus: "Colossus"
-	IMPERIAL_SHIP_dauntless: "Dauntless"
-	IMPERIAL_SHIP_exactor: "Exactor"
-	IMPERIAL_SHIP_executrix: "Executrix"
-	IMPERIAL_SHIP_harbinger: "Harbinger"
-	IMPERIAL_SHIP_havoc: "Havoc"
-	IMPERIAL_SHIP_inferno: "Inferno"
-	IMPERIAL_SHIP_inquisitor: "Inquisitor"
-	IMPERIAL_SHIP_intimidator: "Intimidator"
-	IMPERIAL_SHIP_juggernaut: "Juggernaut"
-	IMPERIAL_SHIP_lawbringer: "Lawbringer"
-	IMPERIAL_SHIP_nullifier: "Nullifier"
-	IMPERIAL_SHIP_persecutor: "Persecutor"
-	IMPERIAL_SHIP_pursuer: "Pursuer"
-	IMPERIAL_SHIP_revenge: "Revenge"
-	IMPERIAL_SHIP_singularity: "Singularity"
-	IMPERIAL_SHIP_sovereign: "Sovereign"
-	IMPERIAL_SHIP_titania: "Titania"
-	IMPERIAL_SHIP_battle_lance: "Battle Lance"
-	IMPERIAL_SHIP_brazen: "Brazen"
-	IMPERIAL_SHIP_celerity: "Celerity"
-	IMPERIAL_SHIP_certainty: "Certainty"
-	IMPERIAL_SHIP_corrupter: "Corrupter"
-	IMPERIAL_SHIP_denunciator: "Denunciator"
-	IMPERIAL_SHIP_dread_omen: "Dread Omen"
-	IMPERIAL_SHIP_goliath: "Goliath"
-	IMPERIAL_SHIP_herald: "Herald"
-	IMPERIAL_SHIP_ill_wind: "Ill Wind"
-	IMPERIAL_SHIP_indictor: "Indictor"
-	IMPERIAL_SHIP_inflictor: "Inflictor"
-	IMPERIAL_SHIP_invidious: "Invidious"
-	IMPERIAL_SHIP_liquidator: "Liquidator"
-	IMPERIAL_SHIP_overseer: "Overseer"
-	IMPERIAL_SHIP_ravager: "Ravager"
-	IMPERIAL_SHIP_retaliator: "Retaliator"
-	IMPERIAL_SHIP_stormbringer: "Stormbringer"
-	IMPERIAL_SHIP_subjugator: "Subjugator"
-	IMPERIAL_SHIP_tarkin_s_will: "Tarkin's Will"
-	IMPERIAL_SHIP_torment: "Torment"
-	IMPERIAL_SHIP_tributum: "Tributum"
-	IMPERIAL_SHIP_despot: "Despot"
-	IMPERIAL_SHIP_ultimatum: "Ultimatum"
-	IMPERIAL_SHIP_vehement: "Vehement"
-	IMPERIAL_SHIP_victorum: "Victorum"
-	IMPERIAL_SHIP_visage: "Visage"
-	IMPERIAL_SHIP_bombard: "Bombard"
-	IMPERIAL_SHIP_crusader: "Crusader"
-	IMPERIAL_SHIP_exsanguinator: "Exsanguinator"
-	IMPERIAL_SHIP_harrow: "Harrow"
-	IMPERIAL_SHIP_iron_fist: "Iron Fist"
-	IMPERIAL_SHIP_malicious: "Malicious"
-	IMPERIAL_SHIP_pestage: "Pestage"
-	IMPERIAL_SHIP_red_harvest: "Red Harvest"
-	IMPERIAL_SHIP_strikefast: "Strikefast"
-	IMPERIAL_SHIP_titan: "Titan"
-	IMPERIAL_SHIP_aggressor: "Aggressor"
-	IMPERIAL_SHIP_condemnation: "Condemnation"
-	IMPERIAL_SHIP_decimator: "Decimator"
-	IMPERIAL_SHIP_dominator: "Dominator"
-	IMPERIAL_SHIP_gallant: "Gallant"
-	IMPERIAL_SHIP_scourge: "Scourge"
-	IMPERIAL_SHIP_arkanian_dragon: "Arkanian Dragon"
-	IMPERIAL_SHIP_warlord: "Warlord"
-	IMPERIAL_SHIP_demolisher: "Demolisher"
-	IMPERIAL_SHIP_endurance: "Endurance"
-	IMPERIAL_SHIP_indomitable: "Indomitable"
-	IMPERIAL_SHIP_intervention: "Intervention"
-	IMPERIAL_SHIP_renown: "Renown"
-	IMPERIAL_SHIP_triumphant: "Triumphant"
-	IMPERIAL_SHIP_unity: "Unity"
-	IMPERIAL_SHIP_electrum: "Electrum"
-	IMPERIAL_SHIP_hound: "Hound"
-	IMPERIAL_SHIP_retaliation: "Retaliation"
-	IMPERIAL_SHIP_tenacious: "Tenacious"
-	IMPERIAL_SHIP_vensenor: "Vensenor"
-	IMPERIAL_SHIP_foehammer: "Foehammer"
-	IMPERIAL_SHIP_erradicator: "Erradicator"
-	IMPERIAL_SHIP_purgation: "Purgation"
-	IMPERIAL_SHIP_mandator: "Mandator"
-	IMPERIAL_SHIP_expulsor: "Expulsor"
-	IMPERIAL_SHIP_extractor: "Extractor"
-	IMPERIAL_SHIP_opressor: "Opressor"
-	IMPERIAL_SHIP_praetor: "Praetor"
-	IMPERIAL_SHIP_executioner: "Executioner"
-	IMPERIAL_SHIP_despoiler: "Despoiler"
-	IMPERIAL_SHIP_black_slaughter: "Black Slaughter"
-	IMPERIAL_SHIP_compulsor: "Compulsor"
-	IMPERIAL_SHIP_compellor: "Compellor"
-	IMPERIAL_SHIP_flayer: "Flayer"
-	IMPERIAL_SHIP_war_hammer: "War Hammer"
-	IMPERIAL_SHIP_iron_sun: "Iron Sun"
-	IMPERIAL_SHIP_ironstar: "Ironstar"
-	IMPERIAL_SHIP_purifier: "Purifier"
-	IMPERIAL_SHIP_defiler: "Defiler"
-	IMPERIAL_SHIP_ascendant_spear: "Ascendant Spear"
-	IMPERIAL_SHIP_black_talon: "Black Talon"
-	IMPERIAL_SHIP_exemplar: "Exemplar"
-	IMPERIAL_SHIP_overlord: "Overlord"
-	IMPERIAL_SHIP_nightfall: "Nightfall"
-	IMPERIAL_SHIP_antagonizer: "Antagonizer"
-	IMPERIAL_SHIP_oppressor: "Oppressor"
-	IMPERIAL_SHIP_dominance: "Dominance"
-	IMPERIAL_SHIP_brutality: "Brutality"
-	IMPERIAL_SHIP_incapacitator: "Incapacitator"
-	IMPERIAL_SHIP_siren: "Siren"
-	IMPERIAL_SHIP_cerberus: "Cerberus"
-	IMPERIAL_SHIP_charybdis: "Charybdis"
-	IMPERIAL_SHIP_medusa: "Medusa"
-	IMPERIAL_SHIP_minotaur: "Minotaur"
-	IMPERIAL_SHIP_harpy: "Harpy"
-	IMPERIAL_SHIP_satyr: "Satyr"
-	IMPERIAL_SHIP_typhon: "Typhon"
-	IMPERIAL_SHIP_drakon: "Drakon"
-	IMPERIAL_SHIP_dracaenae: "Dracaenae"
-	IMPERIAL_SHIP_griffin_fang: "Griffin Fang"
-	IMPERIAL_SHIP_tarasque: "Tarasque"
-	IMPERIAL_SHIP_subjector: "Subjector"
-	IMPERIAL_SHIP_knightmare: "Knightmare"
-	IMPERIAL_SHIP_kingmaker: "Kingmaker"
-	IMPERIAL_SHIP_leveler: "Leveler"
-	IMPERIAL_SHIP_overwhelming: "Overwhelming"
-	IMPERIAL_SHIP_hurricane: "Hurricane"
-	IMPERIAL_SHIP_repressor: "Repressor"
-	IMPERIAL_SHIP_vanquisher: "Vanquisher"
-	IMPERIAL_SHIP_torrential: "Torrential"
-	IMPERIAL_SHIP_rapacious: "Rapacious"
-	IMPERIAL_SHIP_violence: "Violence"
-	IMPERIAL_SHIP_ironfall: "Ironfall"
-	IMPERIAL_SHIP_expropriator: "Expropriator"
-	IMPERIAL_SHIP_obdurate: "Obdurate"
-	IMPERIAL_SHIP_immovable: "Immovable"
-	IMPERIAL_SHIP_unrelenting: "Unrelenting"
-	IMPERIAL_SHIP_desecrator: "Desecrator"
-	IMPERIAL_SHIP_ruination: "Ruination"
-	IMPERIAL_SHIP_devourer: "Devourer"
-	IMPERIAL_SHIP_predacious: "Predacious"
-	IMPERIAL_SHIP_depredation: "Depredation"
-	IMPERIAL_SHIP_depriver: "Depriver"
-	IMPERIAL_SHIP_reaver: "Reaver"
-	IMPERIAL_SHIP_apex: "Apex"
-	IMPERIAL_SHIP_desolator: "Desolator"
-	IMPERIAL_SHIP_extinguisher: "Extinguisher"
-	IMPERIAL_SHIP_overmatch: "Overmatch"
-	IMPERIAL_SHIP_dissolver: "Dissolver"
-	IMPERIAL_SHIP_effacer: "Effacer"
-	IMPERIAL_SHIP_dispatcher: "Dispatcher"
-	IMPERIAL_SHIP_dismemberance: "Dismemberance"
-	IMPERIAL_SHIP_lambaster: "Lambaster"
-	IMPERIAL_SHIP_lash_of_fire: "Lash of Fire"
-	IMPERIAL_SHIP_steel_reign: "Steel Reign"
-	IMPERIAL_SHIP_legion: "Legion"
-	IMPERIAL_SHIP_centurion: "Centurion"
-	IMPERIAL_SHIP_legionnaire: "Legionnaire"
-	IMPERIAL_SHIP_legionary: "Legionary"
-	IMPERIAL_SHIP_invader: "Invader"
-	IMPERIAL_SHIP_warmonger: "Warmonger"
-	IMPERIAL_SHIP_ironmonger: "Ironmonger"
-	IMPERIAL_SHIP_shackler: "Shackler"
-	IMPERIAL_SHIP_imposer: "Imposer"
-	IMPERIAL_SHIP_obtruder: "Obtruder"
-	IMPERIAL_SHIP_obtrusive: "Obtrusive"
-	IMPERIAL_SHIP_legend: "Legend"
-	IMPERIAL_SHIP_new_order: "New Order"
-	IMPERIAL_SHIP_pronouncement: "Pronouncement"
-	IMPERIAL_SHIP_lex_nova: "Lex Nova"
-	IMPERIAL_SHIP_crimson_strife: "Crimson Strife"
-	IMPERIAL_SHIP_gargoyle: "Gargoyle"
-	IMPERIAL_SHIP_suppressor: "Suppressor"
-	IMPERIAL_SHIP_enforcer: "Enforcer"
-	IMPERIAL_SHIP_kraken: "Kraken"
-	IMPERIAL_SHIP_abyssal: "Abyssal"
-	IMPERIAL_SHIP_onslaught: "Onslaught"
-	IMPERIAL_SHIP_obliteration: "Obliteration"
-	IMPERIAL_SHIP_oblivion: "Oblivion"
-	IMPERIAL_SHIP_revenant: "Revenant"
-	IMPERIAL_SHIP_hierophant: "Hierophant"
-	IMPERIAL_SHIP_merciless: "Merciless"
-	IMPERIAL_SHIP_terminator: "Terminator"
-	IMPERIAL_SHIP_steelwind: "Steelwind"
-	IMPERIAL_SHIP_final_judgement: "Final Judgement"
-	IMPERIAL_SHIP_incinerator: "Incinerator"
-	IMPERIAL_SHIP_negator: "Negator"
-	IMPERIAL_SHIP_corrosive: "Corrosive"
-	IMPERIAL_SHIP_severance: "Severance"
-	IMPERIAL_SHIP_warchief: "Warchief"
-	IMPERIAL_SHIP_inevitable: "Inevitable"
-	IMPERIAL_SHIP_silencer: "Silencer"
-	IMPERIAL_SHIP_contemptor: "Contemptor"
-	IMPERIAL_SHIP_reprover: "Reprover"
-	IMPERIAL_SHIP_reproval: "Reproval"
-	IMPERIAL_SHIP_dessicator: "Dessicator"
-	IMPERIAL_SHIP_cleansing_blaze: "Cleansing Blaze"
-	IMPERIAL_SHIP_demoralizer: "Demoralizer"
-	IMPERIAL_SHIP_offender: "Offender"
-	IMPERIAL_SHIP_gladiator: "Gladiator"
-	IMPERIAL_SHIP_extoler: "Extoler"
-	IMPERIAL_SHIP_fatality: "Fatality"
-	IMPERIAL_SHIP_banshee: "Banshee"
-	IMPERIAL_SHIP_resurgent: "Resurgent"
-	IMPERIAL_SHIP_revanchist: "Revanchist"
-	IMPERIAL_SHIP_brilliance: "Brilliance"
-	IMPERIAL_SHIP_adversary: "Adversary"
-	IMPERIAL_SHIP_avatar: "Avatar"
-	IMPERIAL_SHIP_carnifex: "Carnifex"
-	IMPERIAL_SHIP_cataclysm: "Cataclysm"
-	IMPERIAL_SHIP_discord: "Discord"
-	IMPERIAL_SHIP_dominion: "Dominion"
-	IMPERIAL_SHIP_eliminator: "Eliminator"
-	IMPERIAL_SHIP_scythe: "Scythe"
-	IMPERIAL_SHIP_stel_talon: "Stel Talon"
-	IMPERIAL_SHIP_stormclaw: "Stormclaw"
-	IMPERIAL_SHIP_vitiator: "Vitiator"
-	IMPERIAL_SHIP_perilous: "Perilous"
-	IMPERIAL_SHIP_fulminatrix: "Fulminatrix"
-	IMPERIAL_SHIP_finalizer: "Finalizer"
-	IMPERIAL_SHIP_fellfire: "Fellfire"
-	IMPERIAL_SHIP_penumbra: "Penumbra"
-	IMPERIAL_SHIP_ravenous: "Ravenous"
-	IMPERIAL_SHIP_bloodfin: "Bloodfin"
-	IMPERIAL_SHIP_ironhand: "Ironhand"
-	IMPERIAL_SHIP_tyrannic: "Tyrannic"
-	IMPERIAL_SHIP_procusator: "Procusator"
-	IMPERIAL_SHIP_eternal_wrath: "Eternal Wrath"
-	IMPERIAL_SHIP_spectral: "Spectral"
-	IMPERIAL_SHIP_blackguard: "Blackguard"
-	IMPERIAL_SHIP_grappler: "Grappler"
-	IMPERIAL_SHIP_harpago: "Harpago"
-	IMPERIAL_SHIP_detainer: "Detainer"
-	IMPERIAL_SHIP_suffocant: "Suffocant"
-	IMPERIAL_SHIP_constrictor: "Constrictor"
-	IMPERIAL_SHIP_emperor_s_net: "Emperor's Net"
-	IMPERIAL_SHIP_aggregator: "Aggregator"
-	IMPERIAL_SHIP_binder: "Binder"
-	IMPERIAL_SHIP_assessor: "Assessor"
-	IMPERIAL_SHIP_chokehold: "Chokehold"
-	IMPERIAL_SHIP_claw: "Claw"
-	IMPERIAL_SHIP_black_asp: "Black Asp"
-	IMPERIAL_SHIP_fireclaw: "Fireclaw"
-	IMPERIAL_SHIP_glaciate: "Glaciate"
-	IMPERIAL_SHIP_tory_s_catcher: "Tory's Catcher"
-	IMPERIAL_SHIP_sentinel: "Sentinel"
-	IMPERIAL_SHIP_stellar_web: "Stellar Web"
-	IMPERIAL_SHIP_suelu: "Suelu"
-	IMPERIAL_SHIP_restrainer: "Restrainer"
-	IMPERIAL_SHIP_requital: "Requital"
-	IMPERIAL_SHIP_red_claw: "Red Claw"
-	IMPERIAL_SHIP_immobilizer: "Immobilizer"
-	IMPERIAL_SHIP_harpax: "Harpax"
-	IMPERIAL_SHIP_impasse: "Impasse"
-	IMPERIAL_SHIP_dying_sun: "Dying Sun"
-	IMPERIAL_SHIP_incarcerator: "Incarcerator"
-	IMPERIAL_SHIP_inescapable: "Inescapable"
-	IMPERIAL_SHIP_unavoidable: "Unavoidable"
-	IMPERIAL_SHIP_ineliminable: "Ineliminable"
-	IMPERIAL_SHIP_unpreventable: "Unpreventable"
-	IMPERIAL_SHIP_crippler: "Crippler"
-	IMPERIAL_SHIP_hamperer: "Hamperer"
-	IMPERIAL_SHIP_restrictor: "Restrictor"
-	IMPERIAL_SHIP_imprisoner: "Imprisoner"
-	IMPERIAL_SHIP_frustrator: "Frustrator"
-	IMPERIAL_SHIP_inhibitor: "Inhibitor"
-	IMPERIAL_SHIP_obstructor: "Obstructor"
-	IMPERIAL_SHIP_hinderer: "Hinderer"
-	IMPERIAL_SHIP_stymier: "Stymier"
-	IMPERIAL_SHIP_trammeler: "Trammeler"
-	IMPERIAL_SHIP_fetterer: "Fetterer"
-	IMPERIAL_SHIP_encumbrance: "Encumbrance"
-	IMPERIAL_SHIP_compressor: "Compressor"
-	IMPERIAL_SHIP_strangler: "Strangler"
-	IMPERIAL_SHIP_strangulation: "Strangulation"
-	IMPERIAL_SHIP_imposition: "Imposition"
-	IMPERIAL_SHIP_circumscribor: "Circumscribor"
-	IMPERIAL_SHIP_confiner: "Confiner"
-	IMPERIAL_SHIP_asphyxiator: "Asphyxiator"
-	IMPERIAL_SHIP_garroter: "Garroter"
-	IMPERIAL_SHIP_last_gasp: "Last Gasp"
-	IMPERIAL_SHIP_throttler: "Throttler"
-	IMPERIAL_SHIP_aramadia: "Aramadia"
-	IMPERIAL_SHIP_knight_hammer: "Knight Hammer"
-	IMPERIAL_SHIP_executor: "Executor"
-	IMPERIAL_SHIP_megador: "Megador"
-	IMPERIAL_SHIP_reaper: "Reaper"
-	IMPERIAL_SHIP_lusankya: "Lusankya"
-	IMPERIAL_SHIP_eclipse: "Eclipse"
-	IMPERIAL_SHIP_terror: "Terror"
-	IMPERIAL_SHIP_ds_1: "DS-1"
-	IMPERIAL_SHIP_ashgad: "Ashgad"
-	IMPERIAL_SHIP_rocheinante: "Rocheinante"
-	IMPERIAL_SHIP_herbane: "Herbane"
-	IMPERIAL_SHIP_cylo: "Cylo"
-	IMPERIAL_SHIP_thlu_ry: "Thlu-Ry"
-	IMPERIAL_SHIP_yewl: "Yewl"
-	IMPERIAL_SHIP_sirro_argonne: "Sirro Argonne"
-	IMPERIAL_SHIP_ames_uravan: "Ames Uravan"
-	IMPERIAL_SHIP_feyn_vann: "Feyn Vann"
-	IMPERIAL_SHIP_rasett_milio: "Rasett Milio"
-	IMPERIAL_SHIP_vlex_onopin: "Vlex Onopin"
-	IMPERIAL_SHIP_paldis_doxion: "Paldis Doxion"
-	IMPERIAL_SHIP_bevel_lemelisk: "Bevel Lemelisk"
-	IMPERIAL_SHIP_golanda: "Golanda"
-	IMPERIAL_SHIP_umak_leth: "Umak Leth"
-	IMPERIAL_SHIP_anamor: "Anamor"
-	IMPERIAL_SHIP_arakkus: "Arakkus"
-	IMPERIAL_SHIP_evazan: "Evazan"
-	IMPERIAL_SHIP_thull_vandron: "Thull Vandron"
-	IMPERIAL_SHIP_zan_arbor: "Zan Arbor"
-	IMPERIAL_SHIP_imperial_light: "Imperial Light"
-	IMPERIAL_SHIP_civilizing_mission: "Civilizing Mission"
-	IMPERIAL_SHIP_noble_savage: "Noble Savage"
-	IMPERIAL_SHIP_bright_future: "Bright Future"
-	IMPERIAL_SHIP_soron_hegerty: "Soron Hegerty"
-	IMPERIAL_SHIP_glenna_kip: "Glenna Kip"
-	IMPERIAL_SHIP_dowager_queen: "Dowager Queen"
-	IMPERIAL_SHIP_beneficient_tasia: "Beneficient Tasia"
-	IMPERIAL_SHIP_beneficient_tagge: "Beneficient Tagge"
-	IMPERIAL_SHIP_mother_vima: "Mother Vima"
-	IMPERIAL_SHIP_constant: "Constant"
-	IMPERIAL_SHIP_dowager_king: "Dowager King"
-	IMPERIAL_SHIP_endeavor: "Endeavor"
-	IMPERIAL_SHIP_exocros: "Exocros"
-	IMPERIAL_SHIP_free_enterprise: "Free Enterprise"
-	IMPERIAL_SHIP_glayyd: "Glayyd"
-	IMPERIAL_SHIP_kuat_explorer: "Kuat Explorer"
-	IMPERIAL_SHIP_industry: "Industry"
-	IMPERIAL_SHIP_assiduity: "Assiduity"
-	IMPERIAL_SHIP_effort: "Effort"
-	IMPERIAL_SHIP_laborer: "Laborer"
-	IMPERIAL_SHIP_builder: "Builder"
-	IMPERIAL_SHIP_craftsman: "Craftsman"
-	IMPERIAL_SHIP_progress: "Progress"
-	IMPERIAL_SHIP_engineer: "Engineer"
-	IMPERIAL_SHIP_service: "Service"
-	IMPERIAL_SHIP_shelter: "Shelter"
-	IMPERIAL_SHIP_beast: "Beast"
-	IMPERIAL_SHIP_creator: "Creator"
-	IMPERIAL_SHIP_developer: "Developer"
-	IMPERIAL_SHIP_forger: "Forger"
-	IMPERIAL_SHIP_foundry: "Foundry"
-	IMPERIAL_SHIP_factory: "Factory"
-	IMPERIAL_SHIP_anvil: "Anvil"
-	IMPERIAL_SHIP_pillar: "Pillar"
-	IMPERIAL_SHIP_architect: "Architect"
-	IMPERIAL_SHIP_accommodator: "Accommodator"
-	IMPERIAL_SHIP_ground_transport: "Транспортный корабль"
-	IMPERIAL_SHIP_spacegun_victory: "SpaceGun Victory"
-	IMPERIAL_SHIP_spacegun_success: "SpaceGun Success"
-	IMPERIAL_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	IMPERIAL_SHIP_spacegun_superior: "SpaceGun Superior"
-	IMPERIAL_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	IMPERIAL_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	IMPERIAL_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	IMPERIAL_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	IMPERIAL_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	IMPERIAL_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	IMPERIAL_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	IMPERIAL_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	IMPERIAL_SHIP_spacegun_honor: "SpaceGun Honor"
-	IMPERIAL_SHIP_spacegun_renown: "SpaceGun Renown"
-	IMPERIAL_SHIP_spacegun_glory: "SpaceGun Glory"
-	IMPERIAL_SHIP_spacegun_superb: "SpaceGun Superb"
-	IMPERIAL_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	IMPERIAL_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	IMPERIAL_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	IMPERIAL_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	IMPERIAL_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	IMPERIAL_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	IMPERIAL_SHIP_spacegun_merit: "SpaceGun Merit"
-	IMPERIAL_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	IMPERIAL_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	IMPERIAL_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	IMPERIAL_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	IMPERIAL_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	IMPERIAL_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	IMPERIAL_SHIP_spacegun_justice: "SpaceGun Justice"
-	IMPERIAL_SHIP_spacegun_probity: "SpaceGun Probity"
-	IMPERIAL_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	IMPERIAL_SHIP_spacegun_purity: "SpaceGun Purity"
-	IMPERIAL_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	IMPERIAL_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	IMPERIAL_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	IMPERIAL_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	IMPERIAL_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	IMPERIAL_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	IMPERIAL_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	IMPERIAL_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	IMPERIAL_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	IMPERIAL_SHIP_spacegun_courage: "SpaceGun Courage"
-	IMPERIAL_SHIP_spacegun_valor: "SpaceGun Valor"
-	IMPERIAL_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	IMPERIAL_SHIP_spacegun_daring: "SpaceGun Daring"
-	IMPERIAL_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	IMPERIAL_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	IMPERIAL_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	IMPERIAL_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	IMPERIAL_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	IMPERIAL_SHIP_citadel: "Citadel"
-	IMPERIAL_SHIP_albacore: "Albacore"
-	IMPERIAL_SHIP_gateway: "Gateway"
-	IMPERIAL_SHIP_vincent: "Vincent"
-	IMPERIAL_SHIP_babylon: "Babylon"
-	IMPERIAL_SHIP_caernavon: "Caernavon"
-	IMPERIAL_SHIP_acre: "Acre"
-	IMPERIAL_SHIP_pembroke: "Pembroke"
-	IMPERIAL_SHIP_acheron: "Acheron"
-	IMPERIAL_SHIP_spithead: "Spithead"
-	IMPERIAL_SHIP_halifax: "Halifax"
-	IMPERIAL_SHIP_victoria: "Victoria"
-	IMPERIAL_SHIP_chatham: "Chatham"
-	IMPERIAL_SHIP_anchorage: "Anchorage"
-	IMPERIAL_SHIP_scapa_flow: "Scapa Flow"
-	IMPERIAL_SHIP_hampton_roads: "Hampton Roads"
-	IMPERIAL_SHIP_brooklyn: "Brooklyn"
-	IMPERIAL_SHIP_norfolk: "Norfolk"
-	IMPERIAL_SHIP_newport: "Newport"
-	IMPERIAL_SHIP_guam: "Guam"
-	IMPERIAL_SHIP_pensacola: "Pensacola"
-	IMPERIAL_SHIP_vesuvius: "Vesuvius"
-	IMPERIAL_SHIP_mckinley: "McKinley"
-	IMPERIAL_SHIP_everest: "Everest"
-	IMPERIAL_SHIP_kilimanjaro: "Kilimanjaro"
-	IMPERIAL_SHIP_aconcagua: "Aconcagua"
-	IMPERIAL_SHIP_elbrus: "Elbrus"
-	IMPERIAL_SHIP_st__helens: "St. Helens"
-	IMPERIAL_SHIP_fuji: "Fuji"
-	IMPERIAL_SHIP_olympus: "Olympus"
-	IMPERIAL_SHIP_sinai: "Sinai"
-	IMPERIAL_SHIP_ambrose: "Ambrose"
-	IMPERIAL_SHIP_bermuda: "Bermuda"
-	IMPERIAL_SHIP_farpoint: "Farpoint"
-	IMPERIAL_SHIP_blue_star: "Blue Star"
-	IMPERIAL_SHIP_olympus_mons: "Olympus Mons"
-	IMPERIAL_SHIP_tharsis: "Tharsis"
-	IMPERIAL_SHIP_syrtis: "Syrtis"
-	IMPERIAL_SHIP_blackham: "Blackham"
-	IMPERIAL_SHIP_fletcher: "Fletcher"
-	IMPERIAL_SHIP_perry: "Perry"
-	IMPERIAL_SHIP_butakov: "Butakov"
-	IMPERIAL_SHIP_morris: "Morris"
-	IMPERIAL_SHIP_moorsom: "Moorsom"
-	IMPERIAL_SHIP_hart: "Hart"
-	IMPERIAL_SHIP_hargood: "Hargood"
-	IMPERIAL_SHIP_spruance: "Spruance"
-	IMPERIAL_SHIP_tanaka: "Tanaka"
-	IMPERIAL_SHIP_halsey: "Halsey"
-	IMPERIAL_SHIP_turner: "Turner"
-	IMPERIAL_SHIP_doria: "Doria"
-	IMPERIAL_SHIP_tirpitz: "Tirpitz"
-	IMPERIAL_SHIP_cunningham: "Cunningham"
-	IMPERIAL_SHIP_jellicoe: "Jellicoe"
-	IMPERIAL_SHIP_hipper: "Hipper"
-	IMPERIAL_SHIP_beatty: "Beatty"
-	IMPERIAL_SHIP_potemkin: "Potemkin"
-	IMPERIAL_SHIP_durham: "Durham"
-	IMPERIAL_SHIP_codrington: "Codrington"
-	IMPERIAL_SHIP_milne: "Milne"
-	IMPERIAL_SHIP_laforey: "Laforey"
-	IMPERIAL_SHIP_tyler: "Tyler"
-	IMPERIAL_SHIP_hawke: "Hawke"
-	IMPERIAL_SHIP_yonai: "Yonai"
-	IMPERIAL_SHIP_pound: "Pound"
-	IMPERIAL_SHIP_king: "King"
-	IMPERIAL_SHIP_crutchley: "Crutchley"
-	IMPERIAL_SHIP_mountbatten: "Mountbatten"
-	IMPERIAL_SHIP_kountouriotis: "Kountouriotis"
-	IMPERIAL_SHIP_kuznetsov: "Kuznetsov"
-	IMPERIAL_SHIP_essen: "Essen"
-	IMPERIAL_SHIP_kornilov: "Kornilov"
-	IMPERIAL_SHIP_suffren: "Suffren"
-	IMPERIAL_SHIP_treville: "Treville"
-	IMPERIAL_SHIP_villeneuve: "Villeneuve"
-	IMPERIAL_SHIP_grasse: "Grasse"
-	IMPERIAL_SHIP_byng: "Byng"
-	IMPERIAL_SHIP_lezo: "Lezo"
-	IMPERIAL_SHIP_catapult: "Catapult"
-	IMPERIAL_SHIP_harpoon: "Harpoon"
-	IMPERIAL_SHIP_polybolos: "Polybolos"
-	IMPERIAL_SHIP_exemplary: "Exemplary"
-	IMPERIAL_SHIP_CLASS_cr_90: "CR-90"
-	IMPERIAL_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	IMPERIAL_SHIP_CLASS_lupus: "Lupus"
-	IMPERIAL_SHIP_CLASS_asdroni: "Asdroni"
-	IMPERIAL_SHIP_CLASS_customs: "Customs"
-	IMPERIAL_SHIP_CLASS_hammerhead: "Hammerhead"
-	IMPERIAL_SHIP_CLASS_scurge: "Scurge"
-	IMPERIAL_SHIP_CLASS_krayt: "Krayt"
-	IMPERIAL_SHIP_CLASS_diamond: "Diamond"
-	IMPERIAL_SHIP_CLASS_etti: "Etti"
-	IMPERIAL_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	IMPERIAL_SHIP_CLASS_vigil: "Vigil"
-	IMPERIAL_SHIP_CLASS_dp20: "DP20"
-	IMPERIAL_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	IMPERIAL_SHIP_CLASS_raider: "Raider"
-	IMPERIAL_SHIP_CLASS_dornean: "Dornean"
-	IMPERIAL_SHIP_CLASS_crusader: "Crusader"
-	IMPERIAL_SHIP_CLASS_marauder: "Marauder"
-	IMPERIAL_SHIP_CLASS_arquitens: "Arquitens"
-	IMPERIAL_SHIP_CLASS_kiltirin: "Kiltirin"
-	IMPERIAL_SHIP_CLASS_pelta: "Pelta"
-	IMPERIAL_SHIP_CLASS_pinnace: "Pinnace"
-	IMPERIAL_SHIP_CLASS_nova: "Nova"
-	IMPERIAL_SHIP_CLASS_vigilance: "Vigilance"
-	IMPERIAL_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	IMPERIAL_SHIP_CLASS_cg_273: "CG-273"
-	IMPERIAL_SHIP_CLASS_kariek: "Kariek"
-	IMPERIAL_SHIP_CLASS_ton_falk: "Ton-Falk"
-	IMPERIAL_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	IMPERIAL_SHIP_CLASS_lancer: "Lancer"
-	IMPERIAL_SHIP_CLASS_teroch: "Teroch"
-	IMPERIAL_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	IMPERIAL_SHIP_CLASS_nova_ii: "Nova II"
-	IMPERIAL_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	IMPERIAL_SHIP_CLASS_velox: "Velox"
-	IMPERIAL_SHIP_CLASS_mc30c: "MC30c"
-	IMPERIAL_SHIP_CLASS_vengeance: "Vengeance"
-	IMPERIAL_SHIP_CLASS_kariek_ii: "Kariek II"
-	IMPERIAL_SHIP_CLASS_cc_7700: "CC-7700"
-	IMPERIAL_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	IMPERIAL_SHIP_CLASS_wavecrest: "Wavecrest"
-	IMPERIAL_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	IMPERIAL_SHIP_CLASS_nuruodo: "Nuruodo"
-	IMPERIAL_SHIP_CLASS_sabaoth: "Sabaoth"
-	IMPERIAL_SHIP_CLASS_kontos: "Kontos"
-	IMPERIAL_SHIP_CLASS_mc40: "MC40"
-	IMPERIAL_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	IMPERIAL_SHIP_CLASS_broadside: "Broadside"
-	IMPERIAL_SHIP_CLASS_protector: "Protector"
-	IMPERIAL_SHIP_CLASS_warlord: "Warlord"
-	IMPERIAL_SHIP_CLASS_gladiator: "Gladiator"
-	IMPERIAL_SHIP_CLASS_beviin: "Beviin"
-	IMPERIAL_SHIP_CLASS_liberator: "Liberator"
-	IMPERIAL_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	IMPERIAL_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	IMPERIAL_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	IMPERIAL_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	IMPERIAL_SHIP_CLASS_massias: "Massias"
-	IMPERIAL_SHIP_CLASS_dreadnought: "Dreadnought"
-	IMPERIAL_SHIP_CLASS_kyramud: "Kyramud"
-	IMPERIAL_SHIP_CLASS_munificent: "Munificent"
-	IMPERIAL_SHIP_CLASS_prosvoli: "Prosvoli"
-	IMPERIAL_SHIP_CLASS_acclamator: "Acclamator"
-	IMPERIAL_SHIP_CLASS_lictor: "Lictor"
-	IMPERIAL_SHIP_CLASS_bulwark: "Bulwark"
-	IMPERIAL_SHIP_CLASS_victory_i: "Victory I"
-	IMPERIAL_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	IMPERIAL_SHIP_CLASS_bulk: "Bulk"
-	IMPERIAL_SHIP_CLASS_vindicator: "Vindicator"
-	IMPERIAL_SHIP_CLASS_dauntless: "Dauntless"
-	IMPERIAL_SHIP_CLASS_captor: "Captor"
-	IMPERIAL_SHIP_CLASS_au_riette: "Au'riette"
-	IMPERIAL_SHIP_CLASS_mc55: "MC55"
-	IMPERIAL_SHIP_CLASS_afthonia: "Afthonia"
-	IMPERIAL_SHIP_CLASS_victory_ii: "Victory II"
-	IMPERIAL_SHIP_CLASS_beroya: "Beroya"
-	IMPERIAL_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	IMPERIAL_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	IMPERIAL_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	IMPERIAL_SHIP_CLASS_venator: "Venator"
-	IMPERIAL_SHIP_CLASS_centurion: "Centurion"
-	IMPERIAL_SHIP_CLASS_mc75: "MC75"
-	IMPERIAL_SHIP_CLASS_kandosii: "Kandosii"
-	IMPERIAL_SHIP_CLASS_corellian: "Corellian"
-	IMPERIAL_SHIP_CLASS_providence: "Providence"
-	IMPERIAL_SHIP_CLASS_syndic: "Syndic"
-	IMPERIAL_SHIP_CLASS_recusant: "Recusant"
-	IMPERIAL_SHIP_CLASS_invincible: "Invincible"
-	IMPERIAL_SHIP_CLASS_imperial_i: "Imperial I"
-	IMPERIAL_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	IMPERIAL_SHIP_CLASS_procursator: "Procursator"
-	IMPERIAL_SHIP_CLASS_mc80a: "MC80a"
-	IMPERIAL_SHIP_CLASS_dh_omni: "DH-Omni"
-	IMPERIAL_SHIP_CLASS_aggressor: "Aggressor"
-	IMPERIAL_SHIP_CLASS_syndic_ii: "Syndic II"
-	IMPERIAL_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	IMPERIAL_SHIP_CLASS_keldabe: "Keldabe"
-	IMPERIAL_SHIP_CLASS_corellian_ii: "Corellian II"
-	IMPERIAL_SHIP_CLASS_chaf: "Chaf"
-	IMPERIAL_SHIP_CLASS_imperial_ii: "Imperial II"
-	IMPERIAL_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	IMPERIAL_SHIP_CLASS_ascendancy: "Ascendancy"
-	IMPERIAL_SHIP_CLASS_dominator: "Dominator"
-	IMPERIAL_SHIP_CLASS_allegiance: "Allegiance"
-	IMPERIAL_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	IMPERIAL_SHIP_CLASS_phalanx: "Phalanx"
-	IMPERIAL_SHIP_CLASS_titan: "Titan"
-	IMPERIAL_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	IMPERIAL_SHIP_CLASS_star_home: "Star Home"
-	IMPERIAL_SHIP_CLASS_subjugator: "Subjugator"
-	IMPERIAL_SHIP_CLASS_bellator: "Bellator"
-	IMPERIAL_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	IMPERIAL_SHIP_CLASS_executor: "Executor"
-	IMPERIAL_xxFLEET_SEQUENTIAL_sector_fleet_ORD: "$ORD$ Sector Fleet"
-	IMPERIAL_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	IMPERIAL_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	IMPERIAL_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	IMPERIAL_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	IMPERIAL_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	IMPERIAL_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	IMPERIAL_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	IMPERIAL_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	IMPERIAL_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	IMPERIAL_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	IMPERIAL_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	IMPERIAL_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	IMPERIAL_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	IMPERIAL_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	IMPERIAL_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	IMPERIAL_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	IMPERIAL_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	IMPERIAL_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	IMPERIAL_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	IMPERIAL_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	IMPERIAL_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	IMPERIAL_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	IMPERIAL_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	IMPERIAL_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	IMPERIAL_ARMY_SEQUENTIAL_stormtrooper_garrison_SEQ: "$C$ Stormtrooper Garrison"
-	IMPERIAL_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	IMPERIAL_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	IMPERIAL_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	IMPERIAL_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	IMPERIAL_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	IMPERIAL_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	IMPERIAL_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	IMPERIAL_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	IMPERIAL_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	IMPERIAL_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	IMPERIAL_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	IMPERIAL_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	IMPERIAL_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	IMPERIAL_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	IMPERIAL_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	IMPERIAL_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	IMPERIAL_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	IMPERIAL_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	IMPERIAL_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	IMPERIAL_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	IMPERIAL_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	IMPERIAL_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	IMPERIAL_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	IMPERIAL_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	IMPERIAL_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	IMPERIAL_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	IMPERIAL_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	IMPERIAL_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	IMPERIAL_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	IMPERIAL_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	IMPERIAL_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	IMPERIAL_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	IMPERIAL_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	IMPERIAL_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	IMPERIAL_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	IMPERIAL_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	IMPERIAL_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	IMPERIAL_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	IMPERIAL_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	IMPERIAL_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	IMPERIAL_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	IMPERIAL_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	IMPERIAL_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	IMPERIAL_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	IMPERIAL_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	IMPERIAL_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	IMPERIAL_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	IMPERIAL_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	IMPERIAL_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	IMPERIAL_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	IMPERIAL_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	IMPERIAL_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	IMPERIAL_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	IMPERIAL_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	IMPERIAL_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	IMPERIAL_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	IMPERIAL_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	IMPERIAL_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	IMPERIAL_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	IMPERIAL_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	IMPERIAL_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	IMPERIAL_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	IMPERIAL_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	IMPERIAL_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	IMPERIAL_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	IMPERIAL_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	IMPERIAL_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	IMPERIAL_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	IMPERIAL_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	IMPERIAL_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	IMPERIAL_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	IMPERIAL_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	IMPERIAL_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	IMPERIAL_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	IMPERIAL_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	IMPERIAL_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	IMPERIAL_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	IMPERIAL_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	IMPERIAL_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	IMPERIAL_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	IMPERIAL_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	IMPERIAL_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	IMPERIAL_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	IMPERIAL_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	IMPERIAL_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	IMPERIAL_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	IMPERIAL_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	IMPERIAL_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	IMPERIAL_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	IMPERIAL_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	IMPERIAL_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	IMPERIAL_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	IMPERIAL_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	IMPERIAL_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	IMPERIAL_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	IMPERIAL_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	IMPERIAL_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	IMPERIAL_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	IMPERIAL_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	IMPERIAL_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	IMPERIAL_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	IMPERIAL_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	IMPERIAL_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	IMPERIAL_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	IMPERIAL_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	IMPERIAL_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	IMPERIAL_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	IMPERIAL_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	IMPERIAL_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	IMPERIAL_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	IMPERIAL_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	IMPERIAL_ARMY_rancor_ORD: "$ORD$ Rancor"
-	IMPERIAL_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	IMPERIAL_ARMY_acklay_ORD: "$ORD$ Acklay "
-	IMPERIAL_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	IMPERIAL_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	IMPERIAL_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	IMPERIAL_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	IMPERIAL_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	IMPERIAL_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	IMPERIAL_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	IMPERIAL_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	IMPERIAL_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	IMPERIAL_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	IMPERIAL_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	IMPERIAL_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	IMPERIAL_CHR_elrik: "Elrik"
-	IMPERIAL_CHR_cassio: "Cassio"
-	IMPERIAL_CHR_ronen: "Ronen"
-	IMPERIAL_CHR_denetrius: "Denetrius"
-	IMPERIAL_CHR_ubrik: "Ubrik"
-	IMPERIAL_CHR_ryder: "Ryder"
-	IMPERIAL_CHR_abran: "Abran"
-	IMPERIAL_CHR_tragg: "Tragg"
-	IMPERIAL_CHR_jamson: "Jamson"
-	IMPERIAL_CHR_hindane: "Hindane"
-	IMPERIAL_CHR_vilim: "Vilim"
-	IMPERIAL_CHR_diedrich: "Diedrich"
-	IMPERIAL_CHR_tiaan: "Tiaan"
-	IMPERIAL_CHR_wilhuff: "Wilhuff"
-	IMPERIAL_CHR_bertroff: "Bertroff"
-	IMPERIAL_CHR_ardus: "Ardus"
-	IMPERIAL_CHR_ambris: "Ambris"
-	IMPERIAL_CHR_tharil: "Tharil"
-	IMPERIAL_CHR_rufaan: "Rufaan"
-	IMPERIAL_CHR_teren: "Teren"
-	IMPERIAL_CHR_chassellon: "Chassellon"
-	IMPERIAL_CHR_moradmin: "Moradmin"
-	IMPERIAL_CHR_wullf: "Wullf"
-	IMPERIAL_CHR_siward: "Siward"
-	IMPERIAL_CHR_trech: "Trech"
-	IMPERIAL_CHR_hurst: "Hurst"
-	IMPERIAL_CHR_tajis: "Tajis"
-	IMPERIAL_CHR_cruyea: "Cruyea"
-	IMPERIAL_CHR_janus: "Janus"
-	IMPERIAL_CHR_kren: "Kren"
-	IMPERIAL_CHR_ragez: "Ragez"
-	IMPERIAL_CHR_alec: "Alec"
-	IMPERIAL_CHR_sate: "Sate"
-	IMPERIAL_CHR_paltr: "Paltr"
-	IMPERIAL_CHR_xandel: "Xandel"
-	IMPERIAL_CHR_redd: "Redd"
-	IMPERIAL_CHR_tann: "Tann"
-	IMPERIAL_CHR_kir: "Kir"
-	IMPERIAL_CHR_carnor: "Carnor"
-	IMPERIAL_CHR_tav: "Tav"
-	IMPERIAL_CHR_delak: "Delak"
-	IMPERIAL_CHR_evir: "Evir"
-	IMPERIAL_CHR_sair: "Sair"
-	IMPERIAL_CHR_jagged: "Jagged"
-	IMPERIAL_CHR_soontir: "Soontir"
-	IMPERIAL_CHR_sander: "Sander"
-	IMPERIAL_CHR_gaen: "Gaen"
-	IMPERIAL_CHR_josef: "Josef"
-	IMPERIAL_CHR_blitzer: "Blitzer"
-	IMPERIAL_CHR_danetta: "Danetta"
-	IMPERIAL_CHR_martio: "Martio"
-	IMPERIAL_CHR_nial: "Nial"
-	IMPERIAL_CHR_octavian: "Octavian"
-	IMPERIAL_CHR_peccati: "Peccati"
-	IMPERIAL_CHR_miltin: "Miltin"
-	IMPERIAL_CHR_osvald: "Osvald"
-	IMPERIAL_CHR_demetrius: "Demetrius"
-	IMPERIAL_CHR_tarsus: "Tarsus"
-	IMPERIAL_CHR_finis: "Finis"
-	IMPERIAL_CHR_tullius: "Tullius"
-	IMPERIAL_CHR_terrinald: "Terrinald"
-	IMPERIAL_CHR_firmus: "Firmus"
-	IMPERIAL_CHR_kendal: "Kendal"
-	IMPERIAL_CHR_gallius: "Gallius"
-	IMPERIAL_CHR_lucien: "Lucien"
-	IMPERIAL_CHR_sev: "Sev"
-	IMPERIAL_CHR_vin: "Vin"
-	IMPERIAL_CHR_janek: "Janek"
-	IMPERIAL_CHR_grodin: "Grodin"
-	IMPERIAL_CHR_armitage: "Armitage"
-	IMPERIAL_CHR_brendol: "Brendol"
-	IMPERIAL_CHR_enric: "Enric"
-	IMPERIAL_CHR_archex: "Archex"
-	IMPERIAL_CHR_gideon: "Gideon"
-	IMPERIAL_CHR_dopheld: "Dopheld"
-	IMPERIAL_CHR_maarek: "Maarek"
-	IMPERIAL_CHR_galen: "Galen"
-	IMPERIAL_CHR_orson: "Orson"
-	IMPERIAL_CHR_roman: "Roman"
-	IMPERIAL_CHR_raith: "Raith"
-	IMPERIAL_CHR_galak: "Galak"
-	IMPERIAL_CHR_essio: "Essio"
-	IMPERIAL_CHR_alexsandr: "Alexsandr"
-	IMPERIAL_CHR_chak: "Chak"
-	IMPERIAL_CHR_davin: "Davin"
-	IMPERIAL_CHR_kassius: "Kassius"
-	IMPERIAL_CHR_del: "Del"
-	IMPERIAL_CHR_jax: "Jax"
-	IMPERIAL_CHR_gilad: "Gilad"
-	IMPERIAL_CHR_klaus: "Klaus"
-	IMPERIAL_CHR_daro: "Daro"
-	IMPERIAL_CHR_korval: "Korval"
-	IMPERIAL_CHR_saul: "Saul"
-	IMPERIAL_CHR_aurelia: "Aurelia"
-	IMPERIAL_CHR_domina: "Domina"
-	IMPERIAL_CHR_sarn: "Sarn"
-	IMPERIAL_CHR_leonia: "Leonia"
-	IMPERIAL_CHR_naomi: "Naomi"
-	IMPERIAL_CHR_natasi: "Natasi"
-	IMPERIAL_CHR_marissa: "Marissa"
-	IMPERIAL_CHR_ysanne: "Ysanne"
-	IMPERIAL_CHR_gara: "Gara"
-	IMPERIAL_CHR_erisi: "Erisi"
-	IMPERIAL_CHR_nova: "Nova"
-	IMPERIAL_CHR_feena: "Feena"
-	IMPERIAL_CHR_mirith: "Mirith"
-	IMPERIAL_CHR_mahd: "Mahd"
-	IMPERIAL_CHR_aellyn: "Aellyn"
-	IMPERIAL_CHR_shira: "Shira"
-	IMPERIAL_CHR_morrigan: "Morrigan"
-	IMPERIAL_CHR_tavion: "Tavion"
-	IMPERIAL_CHR_octavia: "Octavia"
-	IMPERIAL_CHR_laeca: "Laeca"
-	IMPERIAL_CHR_thalassa: "Thalassa"
-	IMPERIAL_CHR_shella: "Shella"
-	IMPERIAL_CHR_emppu: "Emppu"
-	IMPERIAL_CHR_maree: "Maree"
-	IMPERIAL_CHR_tyla: "Tyla"
-	IMPERIAL_CHR_onnelly: "Onnelly"
-	IMPERIAL_CHR_krynda: "Krynda"
-	IMPERIAL_CHR_rae: "Rae"
-	IMPERIAL_CHR_ciena: "Ciena"
-	IMPERIAL_CHR_maketh: "Maketh"
-	IMPERIAL_CHR_arhinda: "Arhinda"
-	IMPERIAL_CHR_tanda: "Tanda"
-	IMPERIAL_CHR_roganda: "Roganda"
-	IMPERIAL_CHR_juno: "Juno"
-	IMPERIAL_CHR_athenya: "Athenya"
-	IMPERIAL_CHR_mara: "Mara"
-	IMPERIAL_CHR_dashe: "Dashe"
-	IMPERIAL_CHR_salial: "Salial"
-	IMPERIAL_CHR_arissa: "Arissa"
-	IMPERIAL_CHR_amara: "Amara"
-	IMPERIAL_CHR_deena: "Deena"
-	IMPERIAL_CHR_luana: "Luana"
-	IMPERIAL_CHR_shonn: "Shonn"
-	IMPERIAL_CHR_maratelle: "Maratelle"
-	IMPERIAL_CHR_lanzora: "Lanzora"
-	IMPERIAL_CHR_tishra: "Tishra"
-	IMPERIAL_CHR_malarus: "Malarus"
-	IMPERIAL_CHR_peera: "Peera"
-	IMPERIAL_CHR_lira: "Lira"
-	IMPERIAL_CHR_lyra: "Lyra"
-	IMPERIAL_CHR_jyn: "Jyn"
-	IMPERIAL_CHR_aiolin: "Aiolin"
-	IMPERIAL_CHR_tulon: "Tulon"
-	IMPERIAL_CHR_golanda: "Golanda"
-	IMPERIAL_CHR_facet: "Facet"
-	IMPERIAL_CHR_lucinta: "Lucinta"
-	IMPERIAL_CHR_soron: "Soron"
-	IMPERIAL_CHR_glenna: "Glenna"
-	IMPERIAL_CHR_dusque: "Dusque"
-	IMPERIAL_CHR_leonna: "Leonna"
-	IMPERIAL_CHR_gyla: "Gyla"
-	IMPERIAL_CHR_nomi: "Nomi"
-	IMPERIAL_CHR_nyrat: "Nyrat"
-	IMPERIAL_CHR_rosha: "Rosha"
-	IMPERIAL_CHR_khaleen: "Khaleen"
-	IMPERIAL_CHR_adnama: "Adnama"
-	IMPERIAL_CHR_terr: "Terr"
-	IMPERIAL_CHR_lomina: "Lomina"
-	IMPERIAL_CHR_onie: "Onie"
-	IMPERIAL_CHR_lissa: "Lissa"
-	IMPERIAL_CHR_sula: "Sula"
-	IMPERIAL_CHR_zalin: "Zalin"
-	IMPERIAL_CHR_kell: "Kell"
-	IMPERIAL_CHR_jynne: "Jynne"
-	IMPERIAL_CHR_lowle: "Lowle"
-	IMPERIAL_CHR_jeela: "Jeela"
-	IMPERIAL_CHR_immi: "Immi"
-	IMPERIAL_CHR_aliza: "Aliza"
-	IMPERIAL_CHR_hira: "Hira"
-	IMPERIAL_CHR_lara: "Lara"
-	IMPERIAL_CHR_kirney: "Kirney"
-	IMPERIAL_CHR_seha: "Seha"
-	IMPERIAL_CHR_myleena: "Myleena"
-	IMPERIAL_CHR_eelysa: "Eelysa"
-	IMPERIAL_CHR_syal: "Syal"
-	IMPERIAL_CHR_aleema: "Aleema"
-	IMPERIAL_CHR_elin: "Elin"
-	IMPERIAL_CHR_faime: "Faime"
-	IMPERIAL_CHR_lorana: "Lorana"
-	IMPERIAL_CHR_vinna: "Vinna"
-	IMPERIAL_CHR_belindi: "Belindi"
-	IMPERIAL_CHR_vanara: "Vanara"
-	IMPERIAL_CHR_terisa: "Terisa"
-	IMPERIAL_CHR_aurin: "Aurin"
-	IMPERIAL_CHR_reha: "Reha"
-	IMPERIAL_CHR_malia: "Malia"
-	IMPERIAL_CHR_reina: "Reina"
-	IMPERIAL_CHR_iden: "Iden"
-	IMPERIAL_CHR_anadra: "Anadra"
-	IMPERIAL_CHR_eos: "Eos"
-	IMPERIAL_CHR_mya: "Mya"
-	IMPERIAL_CHR_lela: "Lela"
-	IMPERIAL_CHR_jocasta: "Jocasta"
-	IMPERIAL_CHR_astrid: "Astrid"
-	IMPERIAL_CHR_telti: "Telti"
-	IMPERIAL_CHR_lestra: "Lestra"
-	IMPERIAL_CHR_perla: "Perla"
-	IMPERIAL_CHR_kara: "Kara"
-	IMPERIAL_CHR_delva: "Delva"
-	IMPERIAL_CHR_anya: "Anya"
-	IMPERIAL_CHR_dyemma: "Dyemma"
-	IMPERIAL_CHR_palee: "Palee"
-	IMPERIAL_CHR_cyl: "Cyl"
-	IMPERIAL_CHR_rystall: "Rystall"
-	IMPERIAL_CHR_cian: "Cian"
-	IMPERIAL_CHR_atril: "Atril"
-	IMPERIAL_CHR_tannis: "Tannis"
-	IMPERIAL_CHR_tika: "Tika"
-	IMPERIAL_CHR_letta: "Letta"
-	IMPERIAL_CHR_kirma: "Kirma"
-	IMPERIAL_CHR_carmilla: "Carmilla"
-	IMPERIAL_CHR_vess: "Vess"
-	IMPERIAL_CHR_mayli: "Mayli"
-	IMPERIAL_CHR_becca: "Becca"
-	IMPERIAL_CHR_albina: "Albina"
-	IMPERIAL_CHR_cassia: "Cassia"
-	IMPERIAL_CHR_domitia: "Domitia"
-	IMPERIAL_CHR_hadriana: "Hadriana"
-	IMPERIAL_CHR_mariana: "Mariana"
-	IMPERIAL_CHR_valeria: "Valeria"
-	IMPERIAL_CHR_valentia: "Valentia"
-	IMPERIAL_CHR_antonia: "Antonia"
-	IMPERIAL_CHR_iovita: "Iovita"
-	IMPERIAL_CHR_solida: "Solida"
-	IMPERIAL_CHR_denaria: "Denaria"
-	IMPERIAL_CHR_achaea: "Achaea"
-	IMPERIAL_CHR_aurora: "Aurora"
-	IMPERIAL_CHR_bellona: "Bellona"
-	IMPERIAL_CHR_cardea: "Cardea"
-	IMPERIAL_CHR_felicity: "Felicity"
-	IMPERIAL_CHR_flora: "Flora"
-	IMPERIAL_CHR_juturna: "Juturna"
-	IMPERIAL_CHR_lucina: "Lucina"
-	IMPERIAL_CHR_mineva: "Mineva"
-	IMPERIAL_CHR_nona: "Nona"
-	IMPERIAL_CHR_rhea: "Rhea"
-	IMPERIAL_CHR_vesta: "Vesta"
-	IMPERIAL_CHR_aeliana: "Aeliana"
-	IMPERIAL_CHR_kaelia: "Kaelia"
-	IMPERIAL_CHR_faerica: "Faerica"
-	IMPERIAL_CHR_faustina: "Faustina"
-	IMPERIAL_CHR_gratiana: "Gratiana"
-	IMPERIAL_CHR_laelia: "Laelia"
-	IMPERIAL_CHR_liviana: "Liviana"
-	IMPERIAL_CHR_lucia: "Lucia"
-	IMPERIAL_CHR_maxima: "Maxima"
-	IMPERIAL_CHR_prisca: "Prisca"
-	IMPERIAL_CHR_sabina: "Sabina"
-	IMPERIAL_CHR_vita: "Vita"
-	IMPERIAL_CHR_luna: "Luna"
-	IMPERIAL_CHR_vitoria: "Vitoria"
-	IMPERIAL_CHR_aurelianna: "Aurelianna"
-	IMPERIAL_CHR_corenleia: "Corenleia"
-	IMPERIAL_CHR_lucilla: "Lucilla"
-	IMPERIAL_CHR_theodosa: "Theodosa"
-	IMPERIAL_CHR_drya: "Drya"
-	IMPERIAL_CHR_eo: "Eo"
-	IMPERIAL_CHR_isadora: "Isadora"
-	IMPERIAL_CHR_jyrilla: "Jyrilla"
-	IMPERIAL_CHR_lyosha: "Lyosha"
-	IMPERIAL_CHR_agata: "Agata"
-	IMPERIAL_CHR_agda: "Agda"
-	IMPERIAL_CHR_aileen: "Aileen"
-	IMPERIAL_CHR_alecta: "Alecta"
-	IMPERIAL_CHR_alena: "Alena"
-	IMPERIAL_CHR_alessa: "Alessa"
-	IMPERIAL_CHR_alexa: "Alexa"
-	IMPERIAL_CHR_alyx: "Alyx"
-	IMPERIAL_CHR_androxa: "Androxa"
-	IMPERIAL_CHR_angyalka: "Angyalka"
-	IMPERIAL_CHR_arina: "Arina"
-	IMPERIAL_CHR_astra: "Astra"
-	IMPERIAL_CHR_auna: "Auna"
-	IMPERIAL_CHR_bara: "Bara"
-	IMPERIAL_CHR_basia: "Basia"
-	IMPERIAL_CHR_brisa: "Brisa"
-	IMPERIAL_CHR_bria: "Bria"
-	IMPERIAL_CHR_calista: "Calista"
-	IMPERIAL_CHR_calla: "Calla"
-	IMPERIAL_CHR_karin: "Karin"
-	IMPERIAL_CHR_karissa: "Karissa"
-	IMPERIAL_CHR_katrina: "Katrina"
-	IMPERIAL_CHR_cintia: "Cintia"
-	IMPERIAL_CHR_cynthia: "Cynthia"
-	IMPERIAL_CHR_delphina: "Delphina"
-	IMPERIAL_CHR_demetria: "Demetria"
-	IMPERIAL_CHR_demi: "Demi"
-	IMPERIAL_CHR_desma: "Desma"
-	IMPERIAL_CHR_despixa: "Despixa"
-	IMPERIAL_CHR_vionisa: "Vionisa"
-	IMPERIAL_CHR_taya: "Taya"
-	IMPERIAL_CHR_eira: "Eira"
-	IMPERIAL_CHR_elanna: "Elanna"
-	IMPERIAL_CHR_elektra: "Elektra"
-	IMPERIAL_CHR_aylina: "Aylina"
-	IMPERIAL_CHR_eudora: "Eudora"
-	IMPERIAL_CHR_vedora: "Vedora"
-	IMPERIAL_CHR_galina: "Galina"
-	IMPERIAL_CHR_harmony: "Harmony"
-	IMPERIAL_CHR_hypazia: "Hypazia"
-	IMPERIAL_CHR_heraa: "Heraa"
-	IMPERIAL_CHR_iole: "Iole"
-	IMPERIAL_CHR_indigo: "Indigo"
-	IMPERIAL_CHR_iria: "Iria"
-	IMPERIAL_CHR_irina: "Irina"
-	IMPERIAL_CHR_iris: "Iris"
-	IMPERIAL_CHR_izadora: "Izadora"
-	IMPERIAL_CHR_jacintha: "Jacintha"
-	IMPERIAL_CHR_jaguisa: "Jaguisa"
-	IMPERIAL_CHR_jakayla: "Jakayla"
-	IMPERIAL_CHR_kaarina: "Kaarina"
-	IMPERIAL_CHR_kaia: "Kaia"
-	IMPERIAL_CHR_kakalina: "Kakalina"
-	IMPERIAL_CHR_kalena: "Kalena"
-	IMPERIAL_CHR_karina: "Karina"
-	IMPERIAL_CHR_kasandra: "Kasandra"
-	IMPERIAL_CHR_kazia: "Kazia"
-	IMPERIAL_CHR_kaxia: "Kaxia"
-	IMPERIAL_CHR_katalyn: "Katalyn"
-	IMPERIAL_CHR_katarina: "Katarina"
-	IMPERIAL_CHR_katriena: "Katriena"
-	IMPERIAL_CHR_katya: "Katya"
-	IMPERIAL_CHR_zalpania: "Zalpania"
-	IMPERIAL_CHR_kseniya: "Kseniya"
-	IMPERIAL_CHR_kynthia: "Kynthia"
-	IMPERIAL_CHR_larissa: "Larissa"
-	IMPERIAL_CHR_leandra: "Leandra"
-	IMPERIAL_CHR_lenka: "Lenka"
-	IMPERIAL_CHR_lesya: "Lesya"
-	IMPERIAL_CHR_lyydia: "Lyydia"
-	IMPERIAL_CHR_maxie: "Maxie"
-	IMPERIAL_CHR_melania: "Melania"
-	IMPERIAL_CHR_eyoma: "Eyoma"
-	IMPERIAL_CHR_melitta: "Melitta"
-	IMPERIAL_CHR_melodia: "Melodia"
-	IMPERIAL_CHR_naida: "Naida"
-	IMPERIAL_CHR_narcissa: "Narcissa"
-	IMPERIAL_CHR_nastasya: "Nastasya"
-	IMPERIAL_CHR_nephele: "Nephele"
-	IMPERIAL_CHR_nerissa: "Nerissa"
-	IMPERIAL_CHR_nika: "Nika"
-	IMPERIAL_CHR_nikita: "Nikita"
-	IMPERIAL_CHR_niobe: "Niobe"
-	IMPERIAL_CHR_nyssa: "Nyssa"
-	IMPERIAL_CHR_nyxa: "Nyxa"
-	IMPERIAL_CHR_odessa: "Odessa"
-	IMPERIAL_CHR_olena: "Olena"
-	IMPERIAL_CHR_ophelia: "Ophelia"
-	IMPERIAL_CHR_oxelia: "Oxelia"
-	IMPERIAL_CHR_parthena: "Parthena"
-	IMPERIAL_CHR_penelope: "Penelope"
-	IMPERIAL_CHR_peta: "Peta"
-	IMPERIAL_CHR_petra: "Petra"
-	IMPERIAL_CHR_petrina: "Petrina"
-	IMPERIAL_CHR_phaedra: "Phaedra"
-	IMPERIAL_CHR_fadera: "Fadera"
-	IMPERIAL_CHR_raiza: "Raiza"
-	IMPERIAL_CHR_rhoda: "Rhoda"
-	IMPERIAL_CHR_zelena: "Zelena"
-	IMPERIAL_CHR_xenja: "Xenja"
-	IMPERIAL_CHR_senga: "Senga"
-	IMPERIAL_CHR_senja: "Senja"
-	IMPERIAL_CHR_sibyl: "Sibyl"
-	IMPERIAL_CHR_sonia: "Sonia"
-	IMPERIAL_CHR_sophronia: "Sophronia"
-	IMPERIAL_CHR_stazya: "Stazya"
-	IMPERIAL_CHR_zandra: "Zandra"
-	IMPERIAL_CHR_tazia: "Tazia"
-	IMPERIAL_CHR_titania: "Titania"
-	IMPERIAL_CHR_tryphena: "Tryphena"
-	IMPERIAL_CHR_trina: "Trina"
-	IMPERIAL_CHR_ulyssa: "Ulyssa"
-	IMPERIAL_CHR_varvara: "Varvara"
-	IMPERIAL_CHR_varya: "Varya"
-	IMPERIAL_CHR_vitaliya: "Vitaliya"
-	IMPERIAL_CHR_xylia: "Xylia"
-	IMPERIAL_CHR_yelena: "Yelena"
-	IMPERIAL_CHR_zinovia: "Zinovia"
-	IMPERIAL_CHR_zosia: "Zosia"
-	IMPERIAL_CHR_zoya: "Zoya"
-	IMPERIAL_CHR_zsofia: "Zsofia"
-	IMPERIAL_CHR_vonreg: "Vonreg"
-	IMPERIAL_CHR_sienar: "Sienar"
-	IMPERIAL_CHR_dlarit: "Dlarit"
-	IMPERIAL_CHR_fel: "Fel"
-	IMPERIAL_CHR_kuat: "Kuat"
-	IMPERIAL_CHR_tagge: "Tagge"
-	IMPERIAL_CHR_brentioch: "Brentioch"
-	IMPERIAL_CHR_veers: "Veers"
-	IMPERIAL_CHR_disra: "Disra"
-	IMPERIAL_CHR_vandron: "Vandron"
-	IMPERIAL_CHR_elegin: "Elegin"
-	IMPERIAL_CHR_pelagia: "Pelagia"
-	IMPERIAL_CHR_azadi: "Azadi"
-	IMPERIAL_CHR_balfour: "Balfour"
-	IMPERIAL_CHR_essada: "Essada"
-	IMPERIAL_CHR_ghadi: "Ghadi"
-	IMPERIAL_CHR_jerjerrod: "Jerjerrod"
-	IMPERIAL_CHR_panaka: "Panaka"
-	IMPERIAL_CHR_tavira: "Tavira"
-	IMPERIAL_CHR_vanko: "Vanko"
-	IMPERIAL_CHR_wessex: "Wessex"
-	IMPERIAL_CHR_tarkin: "Tarkin"
-	IMPERIAL_CHR_hissa: "Hissa"
-	IMPERIAL_CHR_kaine: "Kaine"
-	IMPERIAL_CHR_randd: "Randd"
-	IMPERIAL_CHR_krennic: "Krennic"
-	IMPERIAL_CHR_ravik: "Ravik"
-	IMPERIAL_CHR_tigellinus: "Tigellinus"
-	IMPERIAL_CHR_daala: "Daala"
-	IMPERIAL_CHR_zsinj: "Zsinj"
-	IMPERIAL_CHR_screed: "Screed"
-	IMPERIAL_CHR_isard: "Isard"
-	IMPERIAL_CHR_rogriss: "Rogriss"
-	IMPERIAL_CHR_petothel: "Petothel"
-	IMPERIAL_CHR_harsk: "Harsk"
-	IMPERIAL_CHR_hux: "Hux"
-	IMPERIAL_CHR_stevis: "Stevis"
-	IMPERIAL_CHR_bast: "Bast"
-	IMPERIAL_CHR_yularen: "Yularen"
-	IMPERIAL_CHR_cass: "Cass"
-	IMPERIAL_CHR_molock: "Molock"
-	IMPERIAL_CHR_romodi: "Romodi"
-	IMPERIAL_CHR_durmin: "Durmin"
-	IMPERIAL_CHR_stihl: "Stihl"
-	IMPERIAL_CHR_greejatus: "Greejatus"
-	IMPERIAL_CHR_blista_vanee: "Blista-Vanee"
-	IMPERIAL_CHR_d_asta: "D'Asta"
-	IMPERIAL_CHR_pradeux: "Pradeux"
-	IMPERIAL_CHR_pestage: "Pestage"
-	IMPERIAL_CHR_carvin: "Carvin"
-	IMPERIAL_CHR_sinn: "Sinn"
-	IMPERIAL_CHR_baanjeer: "Baanjeer"
-	IMPERIAL_CHR_wessel: "Wessel"
-	IMPERIAL_CHR_starypyre: "Starypyre"
-	IMPERIAL_CHR_windcaller: "Windcaller"
-	IMPERIAL_CHR_krennel: "Krennel"
-	IMPERIAL_CHR_derricote: "Derricote"
-	IMPERIAL_CHR_yonka: "Yonka"
-	IMPERIAL_CHR_brie: "Brie"
-	IMPERIAL_CHR_axmis: "Axmis"
-	IMPERIAL_CHR_tremayne: "Tremayne"
-	IMPERIAL_CHR_delvardus: "Delvardus"
-	IMPERIAL_CHR_devian: "Devian"
-	IMPERIAL_CHR_grunger: "Grunger"
-	IMPERIAL_CHR_harrsk: "Harrsk"
-	IMPERIAL_CHR_pitta: "Pitta"
-	IMPERIAL_CHR_batch: "Batch"
-	IMPERIAL_CHR_declann: "Declann"
-	IMPERIAL_CHR_grant: "Grant"
-	IMPERIAL_CHR_makati: "Makati"
-	IMPERIAL_CHR_syn: "Syn"
-	IMPERIAL_CHR_takel: "Takel"
-	IMPERIAL_CHR_teshik: "Teshik"
-	IMPERIAL_CHR_zaarin: "Zaarin"
-	IMPERIAL_CHR_valorum: "Valorum"
-	IMPERIAL_CHR_piett: "Piett"
-	IMPERIAL_CHR_ozzel: "Ozzel"
-	IMPERIAL_CHR_rax: "Rax"
-	IMPERIAL_CHR_montferrat: "Montferrat"
-	IMPERIAL_CHR_praji: "Praji"
-	IMPERIAL_CHR_draay: "Draay"
-	IMPERIAL_CHR_vahali: "Vahali"
-	IMPERIAL_CHR_sloane: "Sloane"
-	IMPERIAL_CHR_ree: "Ree"
-	IMPERIAL_CHR_tua: "Tua"
-	IMPERIAL_CHR_pryce: "Pryce"
-	IMPERIAL_CHR_brunson: "Brunson"
-	IMPERIAL_CHR_ismaren: "Ismaren"
-	IMPERIAL_CHR_naberrie: "Naberrie"
-	IMPERIAL_CHR_parnelli: "Parnelli"
-	IMPERIAL_CHR_tapalo: "Tapalo"
-	IMPERIAL_CHR_veruna: "Veruna"
-	IMPERIAL_CHR_priam: "Priam"
-	IMPERIAL_CHR_gage: "Gage"
-	IMPERIAL_CHR_gralm: "Gralm"
-	IMPERIAL_CHR_starck: "Starck"
-	IMPERIAL_CHR_page: "Page"
-	IMPERIAL_CHR_tierce: "Tierce"
-	IMPERIAL_CHR_pryde: "Pryde"
-	IMPERIAL_CHR_hask: "Hask"
-	IMPERIAL_CHR_steele: "Steele"
-	IMPERIAL_CHR_phennir: "Phennir"
-	IMPERIAL_CHR_erso: "Erso"
-	IMPERIAL_CHR_pershing: "Pershing"
-	IMPERIAL_CHR_fyyar: "Fyyar"
-	IMPERIAL_CHR_kallus: "Kallus"
-	IMPERIAL_CHR_autem: "Autem"
-	IMPERIAL_CHR_janarus: "Janarus"
-	IMPERIAL_CHR_konstantine: "Konstantine"
-	IMPERIAL_CHR_versio: "Versio"
-	IMPERIAL_CHR_morne: "Morne"
-	IMPERIAL_CHR_needa: "Needa"
-	IMPERIAL_CHR_pavan: "Pavan"
-	IMPERIAL_CHR_sah_c: "Sah'c"
-	IMPERIAL_CHR_umber: "Umber"
-	IMPERIAL_CHR_hirken: "Hirken"
-	IMPERIAL_CHR_holt: "Holt"
-	IMPERIAL_CHR_onasi: "Onasi"
-	IMPERIAL_CHR_karath: "Karath"
-	IMPERIAL_CHR_adalric: "Adalric"
-	IMPERIAL_CHR_cessius: "Cessius"
-	IMPERIAL_CHR_ennix: "Ennix"
-	IMPERIAL_CHR_lon: "Lon"
-	IMPERIAL_CHR_inos: "Inos"
-	IMPERIAL_CHR_cinzero: "Cinzero"
-	IMPERIAL_CHR_iolan: "Iolan"
-	IMPERIAL_CHR_tol: "Tol"
-	IMPERIAL_CHR_par: "Par"
-	IMPERIAL_CHR_arndall: "Arndall"
-	IMPERIAL_CHR_afsheen: "Afsheen"
-	IMPERIAL_CHR_griff: "Griff"
-	IMPERIAL_CHR_eixes: "Eixes"
-	IMPERIAL_CHR_liegeus: "Liegeus"
-	IMPERIAL_CHR_lithio: "Lithio"
-	IMPERIAL_CHR_tyler: "Tyler"
-	IMPERIAL_CHR_derrica: "Derrica"
-	IMPERIAL_CHR_jideon: "Jideon"
-	IMPERIAL_CHR_tannon: "Tannon"
-	IMPERIAL_CHR_nahdonnis: "Nahdonnis"
-	IMPERIAL_CHR_barrison: "Barrison"
-	IMPERIAL_CHR_vidar: "Vidar"
-	IMPERIAL_CHR_ars: "Ars"
-	IMPERIAL_CHR_gaevril: "Gaevril"
-	IMPERIAL_CHR_belkor: "Belkor"
-	IMPERIAL_CHR_kentor: "Kentor"
-	IMPERIAL_CHR_davod: "Davod"
-	IMPERIAL_CHR_anton: "Anton"
-	IMPERIAL_CHR_abal: "Abal"
-	IMPERIAL_CHR_reynol: "Reynol"
-	IMPERIAL_CHR_adion: "Adion"
-	IMPERIAL_CHR_treyz: "Treyz"
-	IMPERIAL_CHR_vam: "Vam"
-	IMPERIAL_CHR_mosh: "Mosh"
-	IMPERIAL_CHR_barson: "Barson"
-	IMPERIAL_CHR_radaf: "Radaf"
-	IMPERIAL_CHR_irlyn: "Irlyn"
-	IMPERIAL_CHR_kale: "Kale"
-	IMPERIAL_CHR_xexus: "Xexus"
-	IMPERIAL_CHR_jenn: "Jenn"
-	IMPERIAL_CHR_taver: "Taver"
-	IMPERIAL_CHR_dellis: "Dellis"
-	IMPERIAL_CHR_icus: "Icus"
-	IMPERIAL_CHR_yupe: "Yupe"
-	IMPERIAL_CHR_moden: "Moden"
-	IMPERIAL_CHR_masir: "Masir"
-	IMPERIAL_CHR_lodent: "Lodent"
-	IMPERIAL_CHR_erich: "Erich"
-	IMPERIAL_CHR_ansiv: "Ansiv"
-	IMPERIAL_CHR_janson: "Janson"
-	IMPERIAL_CHR_tur: "Tur"
-	IMPERIAL_CHR_joak: "Joak"
-	IMPERIAL_CHR_morit: "Morit"
-	IMPERIAL_CHR_sirro: "Sirro"
-	IMPERIAL_CHR_druth: "Druth"
-	IMPERIAL_CHR_rom: "Rom"
-	IMPERIAL_CHR_jeres: "Jeres"
-	IMPERIAL_CHR_leonis: "Leonis"
-	IMPERIAL_CHR_thull: "Thull"
-	IMPERIAL_CHR_fane: "Fane"
-	IMPERIAL_CHR_royd: "Royd"
-	IMPERIAL_CHR_sigit: "Sigit"
-	IMPERIAL_CHR_dron: "Dron"
-	IMPERIAL_CHR_venco: "Venco"
-	IMPERIAL_CHR_sagoro: "Sagoro"
-	IMPERIAL_CHR_reymet: "Reymet"
-	IMPERIAL_CHR_ulfor: "Ulfor"
-	IMPERIAL_CHR_lillea: "Lillea"
-	IMPERIAL_CHR_calder: "Calder"
-	IMPERIAL_CHR_led: "Led"
-	IMPERIAL_CHR_tan: "Tan"
-	IMPERIAL_CHR_arrisan: "Arrisan"
-	IMPERIAL_CHR_castin: "Castin"
-	IMPERIAL_CHR_drako: "Drako"
-	IMPERIAL_CHR_noa: "Noa"
-	IMPERIAL_CHR_finn: "Finn"
-	IMPERIAL_CHR_jervis: "Jervis"
-	IMPERIAL_CHR_davu: "Davu"
-	IMPERIAL_CHR_ottegru: "Ottegru"
-	IMPERIAL_CHR_dorian: "Dorian"
-	IMPERIAL_CHR_kanan: "Kanan"
-	IMPERIAL_CHR_joshua: "Joshua"
-	IMPERIAL_CHR_gaawynn: "Gaawynn"
-	IMPERIAL_CHR_rikael: "Rikael"
-	IMPERIAL_CHR_lysandros: "Lysandros"
-	IMPERIAL_CHR_lorth: "Lorth"
-	IMPERIAL_CHR_kessin: "Kessin"
-	IMPERIAL_CHR_nerro: "Nerro"
-	IMPERIAL_CHR_vax: "Vax"
-	IMPERIAL_CHR_artuo: "Artuo"
-	IMPERIAL_CHR_tero: "Tero"
-	IMPERIAL_CHR_terren: "Terren"
-	IMPERIAL_CHR_rorak: "Rorak"
-	IMPERIAL_CHR_coruum: "Coruum"
-	IMPERIAL_CHR_archa: "Archa"
-	IMPERIAL_CHR_barit: "Barit"
-	IMPERIAL_CHR_ephin: "Ephin"
-	IMPERIAL_CHR_elan: "Elan"
-	IMPERIAL_CHR_civ: "Civ"
-	IMPERIAL_CHR_hasray: "Hasray"
-	IMPERIAL_CHR_adray: "Adray"
-	IMPERIAL_CHR_vlacan: "Vlacan"
-	IMPERIAL_CHR_horatio: "Horatio"
-	IMPERIAL_CHR_horus: "Horus"
-	IMPERIAL_CHR_elon: "Elon"
-	IMPERIAL_CHR_domitus: "Domitus"
-	IMPERIAL_CHR_felix: "Felix"
-	IMPERIAL_CHR_hadrianus: "Hadrianus"
-	IMPERIAL_CHR_hadrian: "Hadrian"
-	IMPERIAL_CHR_marcellus: "Marcellus"
-	IMPERIAL_CHR_markus: "Markus"
-	IMPERIAL_CHR_marianus: "Marianus"
-	IMPERIAL_CHR_maximus: "Maximus"
-	IMPERIAL_CHR_titus: "Titus"
-	IMPERIAL_CHR_vitus: "Vitus"
-	IMPERIAL_CHR_albus: "Albus"
-	IMPERIAL_CHR_aloysius: "Aloysius"
-	IMPERIAL_CHR_amadeus: "Amadeus"
-	IMPERIAL_CHR_ambrosius: "Ambrosius"
-	IMPERIAL_CHR_aridius: "Aridius"
-	IMPERIAL_CHR_attikos: "Attikos"
-	IMPERIAL_CHR_konsus: "Konsus"
-	IMPERIAL_CHR_evander: "Evander"
-	IMPERIAL_CHR_mar: "Mar"
-	IMPERIAL_CHR_numitor: "Numitor"
-	IMPERIAL_CHR_remus: "Remus"
-	IMPERIAL_CHR_sarut: "Sarut"
-	IMPERIAL_CHR_silvan: "Silvan"
-	IMPERIAL_CHR_vulx: "Vulx"
-	IMPERIAL_CHR_aelius: "Aelius"
-	IMPERIAL_CHR_aetius: "Aetius"
-	IMPERIAL_CHR_appius: "Appius"
-	IMPERIAL_CHR_brutus: "Brutus"
-	IMPERIAL_CHR_cato: "Cato"
-	IMPERIAL_CHR_kaelius: "Kaelius"
-	IMPERIAL_CHR_kelsus: "Kelsus"
-	IMPERIAL_CHR_koelius: "Koelius"
-	IMPERIAL_CHR_decimus: "Decimus"
-	IMPERIAL_CHR_zabius: "Zabius"
-	IMPERIAL_CHR_xaustus: "Xaustus"
-	IMPERIAL_CHR_xavier: "Xavier"
-	IMPERIAL_CHR_xabius: "Xabius"
-	IMPERIAL_CHR_xermanus: "Xermanus"
-	IMPERIAL_CHR_regulus: "Regulus"
-	IMPERIAL_CHR_allectus: "Allectus"
-	IMPERIAL_CHR_avitus: "Avitus"
-	IMPERIAL_CHR_karus: "Karus"
-	IMPERIAL_CHR_klautius: "Klautius"
-	IMPERIAL_CHR_klodius: "Klodius"
-	IMPERIAL_CHR_domitax: "Domitax"
-	IMPERIAL_CHR_pertinax: "Pertinax"
-	IMPERIAL_CHR_vaxerian: "Vaxerian"
-	IMPERIAL_CHR_vexpasian: "Vexpasian"
-	IMPERIAL_CHR_alek: "Alek"
-	IMPERIAL_CHR_alaxtair: "Alaxtair"
-	IMPERIAL_CHR_aleksander: "Aleksander"
-	IMPERIAL_CHR_alexsy: "Alexsy"
-	IMPERIAL_CHR_ander: "Ander"
-	IMPERIAL_CHR_androniko: "Androniko"
-	IMPERIAL_CHR_andrzej: "Andrzej"
-	IMPERIAL_CHR_antero: "Antero"
-	IMPERIAL_CHR_antreas: "Antreas"
-	IMPERIAL_CHR_arastox: "Arastox"
-	IMPERIAL_CHR_atkar: "Atkar"
-	IMPERIAL_CHR_atrei: "Atrei"
-	IMPERIAL_CHR_tyro: "Tyro"
-	IMPERIAL_CHR_atreo: "Atreo"
-	IMPERIAL_CHR_cyrik: "Cyrik"
-	IMPERIAL_CHR_damin: "Damin"
-	IMPERIAL_CHR_dimitrin: "Dimitrin"
-	IMPERIAL_CHR_dyso: "Dyso"
-	IMPERIAL_CHR_elek: "Elek"
-	IMPERIAL_CHR_ferrik: "Ferrik"
-	IMPERIAL_CHR_gavriil: "Gavriil"
-	IMPERIAL_CHR_gregor: "Gregor"
-	IMPERIAL_CHR_koraan: "Koraan"
-	IMPERIAL_CHR_hectox: "Hectox"
-	IMPERIAL_CHR_heitor: "Heitor"
-	IMPERIAL_CHR_helio: "Helio"
-	IMPERIAL_CHR_icar: "Icar"
-	IMPERIAL_CHR_iosif: "Iosif"
-	IMPERIAL_CHR_iskander: "Iskander"
-	IMPERIAL_CHR_jorgen: "Jorgen"
-	IMPERIAL_CHR_jory: "Jory"
-	IMPERIAL_CHR_jurek: "Jurek"
-	IMPERIAL_CHR_khronos: "Khronos"
-	IMPERIAL_CHR_lukacs: "Lukacs"
-	IMPERIAL_CHR_lysander: "Lysander"
-	IMPERIAL_CHR_lysanderoth: "Lysanderoth"
-	IMPERIAL_CHR_haddius: "Haddius"
-	IMPERIAL_CHR_tavin: "Tavin"
-	IMPERIAL_CHR_jayshon: "Jayshon"
-	IMPERIAL_CHR_vidian: "Vidian"
-	IMPERIAL_CHR_redrish: "Redrish"
-	IMPERIAL_CHR_purkis: "Purkis"
-	IMPERIAL_CHR_kuhlvult: "Kuhlvult"
-	IMPERIAL_CHR_knylenn: "Knylenn"
-	IMPERIAL_CHR_kadnessia: "Kadnessia"
-	IMPERIAL_CHR_depon: "Depon"
-	IMPERIAL_CHR_andrim: "Andrim"
-	IMPERIAL_CHR_keto: "Keto"
-	IMPERIAL_CHR_curovao: "Curovao"
-	IMPERIAL_CHR_dajaal: "Dajaal"
-	IMPERIAL_CHR_hall_jo_uda: "Hall Jo'uda"
-	IMPERIAL_CHR_kallea: "Kallea"
-	IMPERIAL_CHR_okeefe: "Okeefe"
-	IMPERIAL_CHR_araba: "Araba"
-	IMPERIAL_CHR_carbinol: "Carbinol"
-	IMPERIAL_CHR_garonnin: "Garonnin"
-	IMPERIAL_CHR_kassido: "Kassido"
-	IMPERIAL_CHR_kellermin: "Kellermin"
-	IMPERIAL_CHR_mekuun: "Mekuun"
-	IMPERIAL_CHR_petro: "Petro"
-	IMPERIAL_CHR_picutorion: "Picutorion"
-	IMPERIAL_CHR_pilor: "Pilor"
-	IMPERIAL_CHR_sisemon: "Sisemon"
-	IMPERIAL_CHR_sreethyn: "Sreethyn"
-	IMPERIAL_CHR_taneel: "Taneel"
-	IMPERIAL_CHR_viholn: "Viholn"
-	IMPERIAL_CHR_isobe: "Isobe"
-	IMPERIAL_CHR_kaon: "Kaon"
-	IMPERIAL_CHR_karyvin: "Karyvin"
-	IMPERIAL_CHR_barnaba: "Barnaba"
-	IMPERIAL_CHR_baron: "Baron"
-	IMPERIAL_CHR_cadriaan: "Cadriaan"
-	IMPERIAL_CHR_calipsa: "Calipsa"
-	IMPERIAL_CHR_reena: "Reena"
-	IMPERIAL_CHR_mecetti: "Mecetti"
-	IMPERIAL_CHR_melantha: "Melantha"
-	IMPERIAL_CHR_melissus: "Melissus"
-	IMPERIAL_CHR_nidantha: "Nidantha"
-	IMPERIAL_CHR_adelhard: "Adelhard"
-	IMPERIAL_CHR_callron: "Callron"
-	IMPERIAL_CHR_comark: "Comark"
-	IMPERIAL_CHR_darcc: "Darcc"
-	IMPERIAL_CHR_greyshade: "Greyshade"
-	IMPERIAL_CHR_haveland: "Haveland"
-	IMPERIAL_CHR_harson: "Harson"
-	IMPERIAL_CHR_kadir: "Kadir"
-	IMPERIAL_CHR_kerioth: "Kerioth"
-	IMPERIAL_CHR_mors: "Mors"
-	IMPERIAL_CHR_bartam: "Bartam"
-	IMPERIAL_CHR_dargon: "Dargon"
-	IMPERIAL_CHR_immodet: "Immodet"
-	IMPERIAL_CHR_jeratai: "Jeratai"
-	IMPERIAL_CHR_carivus: "Carivus"
-	IMPERIAL_CHR_kennede: "Kennede"
-	IMPERIAL_CHR_kanos: "Kanos"
-	IMPERIAL_CHR_jandi: "Jandi"
-	IMPERIAL_CHR_brandll: "Brandll"
-	IMPERIAL_CHR_delurin: "Delurin"
-	IMPERIAL_CHR_donell: "Donell"
-	IMPERIAL_CHR_drommel: "Drommel"
-	IMPERIAL_CHR_fonada: "Fonada"
-	IMPERIAL_CHR_gann: "Gann"
-	IMPERIAL_CHR_gendarr: "Gendarr"
-	IMPERIAL_CHR_getelles: "Getelles"
-	IMPERIAL_CHR_laankin: "Laankin"
-	IMPERIAL_CHR_lott: "Lott"
-	IMPERIAL_CHR_vorn: "Vorn"
-	IMPERIAL_CHR_barck: "Barck"
-	IMPERIAL_CHR_hulis: "Hulis"
-	IMPERIAL_CHR_pryl: "Pryl"
-	IMPERIAL_CHR_eclipse: "Eclipse"
-	IMPERIAL_CHR_jade: "Jade"
-	IMPERIAL_CHR_nanda: "Nanda"
-	IMPERIAL_CHR_borreno: "Borreno"
-	IMPERIAL_CHR_insevade: "Insevade"
-	IMPERIAL_CHR_kim: "Kim"
-	IMPERIAL_CHR_staz: "Staz"
-	IMPERIAL_CHR_adrick: "Adrick"
-	IMPERIAL_CHR_akobi: "Akobi"
-	IMPERIAL_CHR_ardax: "Ardax"
-	IMPERIAL_CHR_arnet: "Arnet"
-	IMPERIAL_CHR_axfow: "Axfow"
-	IMPERIAL_CHR_barris: "Barris"
-	IMPERIAL_CHR_bolandin: "Bolandin"
-	IMPERIAL_CHR_brenna: "Brenna"
-	IMPERIAL_CHR_bryce: "Bryce"
-	IMPERIAL_CHR_carsan: "Carsan"
-	IMPERIAL_CHR_cordo: "Cordo"
-	IMPERIAL_CHR_daraada: "Daraada"
-	IMPERIAL_CHR_devrays: "Devrays"
-	IMPERIAL_CHR_dray: "Dray"
-	IMPERIAL_CHR_earll: "Earll"
-	IMPERIAL_CHR_fawn: "Fawn"
-	IMPERIAL_CHR_ganig: "Ganig"
-	IMPERIAL_CHR_ganner: "Ganner"
-	IMPERIAL_CHR_garn: "Garn"
-	IMPERIAL_CHR_grammel: "Grammel"
-	IMPERIAL_CHR_hayvlin: "Hayvlin"
-	IMPERIAL_CHR_heget: "Heget"
-	IMPERIAL_CHR_sarne: "Sarne"
-	IMPERIAL_CHR_horst: "Horst"
-	IMPERIAL_CHR_hovlinn: "Hovlinn"
-	IMPERIAL_CHR_igar: "Igar"
-	IMPERIAL_CHR_jedselk: "Jedselk"
-	IMPERIAL_CHR_jion: "Jion"
-	IMPERIAL_CHR_karda: "Karda"
-	IMPERIAL_CHR_kosh: "Kosh"
-	IMPERIAL_CHR_kosk: "Kosk"
-	IMPERIAL_CHR_kryll: "Kryll"
-	IMPERIAL_CHR_lang: "Lang"
-	IMPERIAL_CHR_xodell: "Xodell"
-	IMPERIAL_CHR_lekauf: "Lekauf"
-	IMPERIAL_CHR_maldrod: "Maldrod"
-	IMPERIAL_CHR_manech: "Manech"
-	IMPERIAL_CHR_margan: "Margan"
-	IMPERIAL_CHR_marquand: "Marquand"
-	IMPERIAL_CHR_melusar: "Melusar"
-	IMPERIAL_CHR_moore: "Moore"
-	IMPERIAL_CHR_nestroph: "Nestroph"
-	IMPERIAL_CHR_nilo: "Nilo"
-	IMPERIAL_CHR_noda: "Noda"
-	IMPERIAL_CHR_okto: "Okto"
-	IMPERIAL_CHR_raibat: "Raibat"
-	IMPERIAL_CHR_resk: "Resk"
-	IMPERIAL_CHR_shahn: "Shahn"
-	IMPERIAL_CHR_selid: "Selid"
-	IMPERIAL_CHR_shev: "Shev"
-	IMPERIAL_CHR_smeel: "Smeel"
-	IMPERIAL_CHR_soren: "Soren"
-	IMPERIAL_CHR_sunber: "Sunber"
-	IMPERIAL_CHR_sulaamar: "Sulaamar"
-	IMPERIAL_CHR_symes: "Symes"
-	IMPERIAL_CHR_talnin: "Talnin"
-	IMPERIAL_CHR_tantor: "Tantor"
-	IMPERIAL_CHR_tash: "Tash"
-	IMPERIAL_CHR_telik: "Telik"
-	IMPERIAL_CHR_tensiger: "Tensiger"
-	IMPERIAL_CHR_traft: "Traft"
-	IMPERIAL_CHR_treftite: "Treftite"
-	IMPERIAL_CHR_tregor: "Tregor"
-	IMPERIAL_CHR_turrant: "Turrant"
-	IMPERIAL_CHR_tyrix: "Tyrix"
-	IMPERIAL_CHR_vedder: "Vedder"
-	IMPERIAL_CHR_veesle: "Veesle"
-	IMPERIAL_CHR_vintollo: "Vintollo"
-	IMPERIAL_CHR_visalis: "Visalis"
-	IMPERIAL_CHR_volks: "Volks"
-	IMPERIAL_CHR_volta: "Volta"
-	IMPERIAL_CHR_watts: "Watts"
-	IMPERIAL_CHR_tashu: "Tashu"
-	IMPERIAL_CHR_canady: "Canady"
-	IMPERIAL_CHR_trach: "Trach"
-	IMPERIAL_CHR_anjay: "Anjay"
-	IMPERIAL_CHR_barok: "Barok"
-	IMPERIAL_CHR_bascus: "Bascus"
-	IMPERIAL_CHR_cowell: "Cowell"
-	IMPERIAL_CHR_datoo: "Datoo"
-	IMPERIAL_CHR_dormitz: "Dormitz"
-	IMPERIAL_CHR_garan: "Garan"
-	IMPERIAL_CHR_garmuth: "Garmuth"
-	IMPERIAL_CHR_hidreck: "Hidreck"
-	IMPERIAL_CHR_kandia: "Kandia"
-	IMPERIAL_CHR_maso: "Maso"
-	IMPERIAL_CHR_mitaka: "Mitaka"
-	IMPERIAL_CHR_ucce: "Ucce"
-	IMPERIAL_CHR_drysso: "Drysso"
-	IMPERIAL_CHR_herbane: "Herbane"
-	IMPERIAL_CHR_astarte: "Astarte"
-	IMPERIAL_CHR_argonne: "Argonne"
-	IMPERIAL_CHR_anamor: "Anamor"
-	IMPERIAL_CHR_cal_meg: "Cal-Meg"
-	IMPERIAL_CHR_euritarina: "Euritarina"
-	IMPERIAL_CHR_galassian: "Galassian"
-	IMPERIAL_CHR_hegerty: "Hegerty"
-	IMPERIAL_CHR_kip: "Kip"
-	IMPERIAL_CHR_mohc: "Mohc"
-	IMPERIAL_CHR_moridon: "Moridon"
-	IMPERIAL_CHR_olum: "Olum"
-	IMPERIAL_CHR_peturri: "Peturri"
-	IMPERIAL_CHR_pew: "Pew"
-	IMPERIAL_CHR_ranth: "Ranth"
-	IMPERIAL_CHR_rebus: "Rebus"
-	IMPERIAL_CHR_ryall: "Ryall"
-	IMPERIAL_CHR_zan_arbor: "Zan Arbor"
-	IMPERIAL_CHR_agira: "Agira"
-	IMPERIAL_CHR_alima: "Alima"
-	IMPERIAL_CHR_arkmen: "Arkmen"
-	IMPERIAL_CHR_borean: "Borean"
-	IMPERIAL_CHR_brya: "Brya"
-	IMPERIAL_CHR_caglio: "Caglio"
-	IMPERIAL_CHR_celwik: "Celwik"
-	IMPERIAL_CHR_ch_red: "Ch'red"
-	IMPERIAL_CHR_cthon: "Cthon"
-	IMPERIAL_CHR_danoo: "Danoo"
-	IMPERIAL_CHR_daragon: "Daragon"
-	IMPERIAL_CHR_darsk: "Darsk"
-	IMPERIAL_CHR_divo: "Divo"
-	IMPERIAL_CHR_donn: "Donn"
-	IMPERIAL_CHR_notsil: "Notsil"
-	IMPERIAL_CHR_slane: "Slane"
-	IMPERIAL_CHR_dorvald: "Dorvald"
-	IMPERIAL_CHR_dystra: "Dystra"
-	IMPERIAL_CHR_elna: "Elna"
-	IMPERIAL_CHR_endac: "Endac"
-	IMPERIAL_CHR_garza: "Garza"
-	IMPERIAL_CHR_gatharard: "Gatharard"
-	IMPERIAL_CHR_gosan: "Gosan"
-	IMPERIAL_CHR_hessler: "Hessler"
-	IMPERIAL_CHR_jarrus: "Jarrus"
-	IMPERIAL_CHR_kaarastee: "Kaarastee"
-	IMPERIAL_CHR_kayl: "Kayl"
-	IMPERIAL_CHR_kerrill: "Kerrill"
-	IMPERIAL_CHR_leith: "Leith"
-	IMPERIAL_CHR_lysannis: "Lysannis"
-	IMPERIAL_CHR_med_beq: "Med-Beq"
-	IMPERIAL_CHR_meeko: "Meeko"
-	IMPERIAL_CHR_mercador: "Mercador"
-	IMPERIAL_CHR_oxic: "Oxic"
-	IMPERIAL_CHR_racine: "Racine"
-	IMPERIAL_CHR_reskan: "Reskan"
-	IMPERIAL_CHR_sa_dia: "Sa'dia"
-	IMPERIAL_CHR_sabis: "Sabis"
-	IMPERIAL_CHR_sant: "Sant"
-	IMPERIAL_CHR_sarreti: "Sarreti"
-	IMPERIAL_CHR_sel_sabagno: "Sel'Sabagno"
-	IMPERIAL_CHR_sigus: "Sigus"
-	IMPERIAL_CHR_sila: "Sila"
-	IMPERIAL_CHR_sing: "Sing"
-	IMPERIAL_CHR_tabanne: "Tabanne"
-	IMPERIAL_CHR_taire: "Taire"
-	IMPERIAL_CHR_taria: "Taria"
-	IMPERIAL_CHR_terson: "Terson"
-	IMPERIAL_CHR_trag: "Trag"
-	IMPERIAL_CHR_treblanc: "Treblanc"
-	IMPERIAL_CHR_turmond: "Turmond"
-	IMPERIAL_CHR_vandangante: "Vandangante"
-	IMPERIAL_CHR_vedij: "Vedij"
-	IMPERIAL_CHR_venka: "Venka"
-	IMPERIAL_CHR_verannis: "Verannis"
-	IMPERIAL_CHR_volette: "Volette"
-	IMPERIAL_CHR_vidkun: "Vidkun"
-	IMPERIAL_CHR_westone: "Westone"
-	IMPERIAL_CHR_hortensius: "Hortensius"
-	IMPERIAL_CHR_cormond: "Cormond"
-    IMPERIAL_CHR_royce: "Royce"
-    IMPERIAL_CHR_hemlock: "Hemlock"
-    IMPERIAL_CHR_edmon: "Edmon"
-	IMPERIAL_CHR_rampart: "Rampart"
-	IMPERIAL_CHR_rella: "Rella"
-	IMPERIAL_CHR_sol: "Sol"
-	IMPERIAL_CHR_havina: "Havina"
-	IMPERIAL_CHR_grey: "Grey"
-	IMPERIAL_CHR_varko: "Varko"
-	IMPERIAL_CHR_ferric: "Ferric"
-	IMPERIAL_CHR_obdur: "Obdur"
-	IMPERIAL_CHR_hodnar: "Hodnar"
-	IMPERIAL_CHR_borrum: "Borrum"
-	IMPERIAL_CHR_partagaz: "Partagaz"
-	IMPERIAL_CHR_lio: "Lio"
-	IMPERIAL_CHR_sturn: "Sturn"
-	IMPERIAL_CHR_ozzic: "Ozzic"
-	IMPERIAL_CHR_karn: "Karn"
-	IMPERIAL_CHR_syril: "Syril"
-	IMPERIAL_CHR_blevin: "Blevin"
-	IMPERIAL_CHR_meero: "Meero"
-	IMPERIAL_CHR_dedra: "Dedra"
-	IMPERIAL_CHR_penn: "Penn"
-	IMPERIAL_CHR_pershing: "Pershing"
-	IMPERIAL_CHR_elia: "Elia"
-	IMPERIAL_CHR_kane: "Kane"
+	IMPERIAL_SHIP_unilateral: "Unilateral" #!Empty_LineInfo!
+	IMPERIAL_SHIP_objective: "Objective" #!Empty_LineInfo!
+	IMPERIAL_SHIP_transactor: "Transactor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_loyalist: "Loyalist" #!Empty_LineInfo!
+	IMPERIAL_SHIP_attendant: "Attendant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_intendant: "Intendant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ultra_vires: "Ultra Vires" #!Empty_LineInfo!
+	IMPERIAL_SHIP_contractor: "Contractor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warrant: "Warrant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_due_cause: "Due Cause" #!Empty_LineInfo!
+	IMPERIAL_SHIP_just_cause: "Just Cause" #!Empty_LineInfo!
+	IMPERIAL_SHIP_privy: "Privy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_privilege: "Privilege" #!Empty_LineInfo!
+	IMPERIAL_SHIP_prerogative: "Prerogative" #!Empty_LineInfo!
+	IMPERIAL_SHIP_birthright: "Birthright" #!Empty_LineInfo!
+	IMPERIAL_SHIP_entitlement: "Entitlement" #!Empty_LineInfo!
+	IMPERIAL_SHIP_duress: "Duress" #!Empty_LineInfo!
+	IMPERIAL_SHIP_forum: "Forum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mandate: "Mandate" #!Empty_LineInfo!
+	IMPERIAL_SHIP_remedial: "Remedial" #!Empty_LineInfo!
+	IMPERIAL_SHIP_broadside: "Broadside" #!Empty_LineInfo!
+	IMPERIAL_SHIP_resilient: "Resilient" #!Empty_LineInfo!
+	IMPERIAL_SHIP_resolute: "Resolute" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inspector: "Inspector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vulnerator: "Vulnerator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vulture: "Vulture" #!Empty_LineInfo!
+	IMPERIAL_SHIP_carrion: "Carrion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_carrion_spike: "Carrion Spike" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dark_revenge: "Dark Revenge" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderclap: "Thunderclap" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vortex: "Vortex" #!Empty_LineInfo!
+	IMPERIAL_SHIP_master: "Master" #!Empty_LineInfo!
+	IMPERIAL_SHIP_maximus: "Maximus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nautilian: "Nautilian" #!Empty_LineInfo!
+	IMPERIAL_SHIP_comet: "Comet" #!Empty_LineInfo!
+	IMPERIAL_SHIP_starfall: "Starfall" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stardust: "Stardust" #!Empty_LineInfo!
+	IMPERIAL_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	IMPERIAL_SHIP_promise: "Promise" #!Empty_LineInfo!
+	IMPERIAL_SHIP_prowler: "Prowler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pulsar: "Pulsar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_python: "Python" #!Empty_LineInfo!
+	IMPERIAL_SHIP_quantum: "Quantum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rampart: "Rampart" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bastion: "Bastion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shooting_star: "Shooting Star" #!Empty_LineInfo!
+	IMPERIAL_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_solar_flare: "Solar Flare" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_splinter: "Splinter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_staraker: "Staraker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_starduster: "Starduster" #!Empty_LineInfo!
+	IMPERIAL_SHIP_starhound: "Starhound" #!Empty_LineInfo!
+	IMPERIAL_SHIP_storm: "Storm" #!Empty_LineInfo!
+	IMPERIAL_SHIP_storm_wind: "Storm Wind" #!Empty_LineInfo!
+	IMPERIAL_SHIP_striker: "Striker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_swift: "Swift" #!Empty_LineInfo!
+	IMPERIAL_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunder: "Thunder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tribune: "Tribune" #!Empty_LineInfo!
+	IMPERIAL_SHIP_triumph: "Triumph" #!Empty_LineInfo!
+	IMPERIAL_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_twilight: "Twilight" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tydirium: "Tydirium" #!Empty_LineInfo!
+	IMPERIAL_SHIP_viper: "Viper" #!Empty_LineInfo!
+	IMPERIAL_SHIP_adder: "Adder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warhawk: "Warhawk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wasp: "Wasp" #!Empty_LineInfo!
+	IMPERIAL_SHIP_watchful: "Watchful" #!Empty_LineInfo!
+	IMPERIAL_SHIP_watchman: "Watchman" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warden: "Warden" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chevalier: "Chevalier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_concord: "Concord" #!Empty_LineInfo!
+	IMPERIAL_SHIP_accordance: "Accordance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_corvus: "Corvus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	IMPERIAL_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	IMPERIAL_SHIP_huntsman: "Huntsman" #!Empty_LineInfo!
+	IMPERIAL_SHIP_illustrious: "Illustrious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_monitor: "Monitor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_neutralizer: "Neutralizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	IMPERIAL_SHIP_skyhook: "Skyhook" #!Empty_LineInfo!
+	IMPERIAL_SHIP_startide: "Startide" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderbolt: "Thunderbolt" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderchild: "Thunderchild" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderhead: "Thunderhead" #!Empty_LineInfo!
+	IMPERIAL_SHIP_whip_hand: "Whip Hand" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warder: "Warder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_edict: "Edict" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mas_amedda: "Mas Amedda" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vizier: "Vizier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_motive: "Motive" #!Empty_LineInfo!
+	IMPERIAL_SHIP_panther: "Panther" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	IMPERIAL_SHIP_monsoon: "Monsoon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_avalanche: "Avalanche" #!Empty_LineInfo!
+	IMPERIAL_SHIP_proctor: "Proctor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_solar_hound: "Solar Hound" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bodkin: "Bodkin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_brimstone: "Brimstone" #!Empty_LineInfo!
+	IMPERIAL_SHIP_compeer: "Compeer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_esurient: "Esurient" #!Empty_LineInfo!
+	IMPERIAL_SHIP_palfrey: "Palfrey" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tantivy: "Tantivy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_trespasser: "Trespasser" #!Empty_LineInfo!
+	IMPERIAL_SHIP_turnkey: "Turnkey" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gaoler: "Gaoler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_veracity: "Veracity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_triad: "Triad" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pentad: "Pentad" #!Empty_LineInfo!
+	IMPERIAL_SHIP_petard: "Petard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sapper: "Sapper" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ladara_vex: "Ladara Vex" #!Empty_LineInfo!
+	IMPERIAL_SHIP_night_buzzard: "Night Buzzard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_avadora: "Avadora" #!Empty_LineInfo!
+	IMPERIAL_SHIP_enshado: "Enshado" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fortitude: "Fortitude" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hevurion_grace: "Hevurion Grace" #!Empty_LineInfo!
+	IMPERIAL_SHIP_impetuous: "Impetuous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wrath: "Wrath" #!Empty_LineInfo!
+	IMPERIAL_SHIP_simoom: "Simoom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_divine_wind: "Divine Wind" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hellcat: "Hellcat" #!Empty_LineInfo!
+	IMPERIAL_SHIP_jitte: "Jitte" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kimik: "Kimik" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kuma: "Kuma" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rahmat: "Rahmat" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rok: "Rok" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sakin: "Sakin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	IMPERIAL_SHIP_strident: "Strident" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tallinn: "Tallinn" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thinin: "Thinin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vorknkx: "Vorknkx" #!Empty_LineInfo!
+	IMPERIAL_SHIP_yaai: "Yaai" #!Empty_LineInfo!
+	IMPERIAL_SHIP_galaxy_dragon: "Galaxy Dragon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_krieger: "Krieger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lancet: "Lancet" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wolf_s_claw: "Wolf's Claw" #!Empty_LineInfo!
+	IMPERIAL_SHIP_prentioch: "Prentioch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_backbreaker: "Backbreaker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blood_gutter: "Blood Gutter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chains_of_justice: "Chains of Justice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_contruum_s_pride: "Contruum's Pride" #!Empty_LineInfo!
+	IMPERIAL_SHIP_counterpunch: "Counterpunch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ession_strike: "Ession Strike" #!Empty_LineInfo!
+	IMPERIAL_SHIP_flash_fire: "Flash Fire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hawkbat: "Hawkbat" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hawkbat_s_perch: "Hawkbat's Perch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hawbat_s_vigil: "Hawbat's Vigil" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nashtah_bite: "Nashtah Bite" #!Empty_LineInfo!
+	IMPERIAL_SHIP_provocateur: "Provocateur" #!Empty_LineInfo!
+	IMPERIAL_SHIP_razor_s_kiss: "Razor's Kiss" #!Empty_LineInfo!
+	IMPERIAL_SHIP_red_gauntlet: "Red Gauntlet" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	IMPERIAL_SHIP_second_death: "Second Death" #!Empty_LineInfo!
+	IMPERIAL_SHIP_serpent_s_smile: "Serpent's Smile" #!Empty_LineInfo!
+	IMPERIAL_SHIP_termagant: "Termagant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vengeance_derra_iv: "Vengeance Derra IV" #!Empty_LineInfo!
+	IMPERIAL_SHIP_venom: "Venom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ilthmar_s_fist: "Ilthmar's Fist" #!Empty_LineInfo!
+	IMPERIAL_SHIP_meniscus: "Meniscus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shockwave: "Shockwave" #!Empty_LineInfo!
+	IMPERIAL_SHIP_scardia_voyager: "Scardia Voyager" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shadow_chaser: "Shadow Chaser" #!Empty_LineInfo!
+	IMPERIAL_SHIP_oriflamme: "Oriflamme" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thalassa: "Thalassa" #!Empty_LineInfo!
+	IMPERIAL_SHIP_helmsman: "Helmsman" #!Empty_LineInfo!
+	IMPERIAL_SHIP_doomgiver: "Doomgiver" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rebirth: "Rebirth" #!Empty_LineInfo!
+	IMPERIAL_SHIP_destiny: "Destiny" #!Empty_LineInfo!
+	IMPERIAL_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bloodprice: "Bloodprice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gorath: "Gorath" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tobay: "Tobay" #!Empty_LineInfo!
+	IMPERIAL_SHIP_aspiration: "Aspiration" #!Empty_LineInfo!
+	IMPERIAL_SHIP_direption: "Direption" #!Empty_LineInfo!
+	IMPERIAL_SHIP_emperor_s_wisdom: "Emperor's Wisdom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_turbulent: "Turbulent" #!Empty_LineInfo!
+	IMPERIAL_SHIP_concussor: "Concussor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_consolidator: "Consolidator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_erinnic: "Erinnic" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harramin: "Harramin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kagcatcher: "Kagcatcher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_master_stroke: "Master Stroke" #!Empty_LineInfo!
+	IMPERIAL_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_protector: "Protector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_parting_gift: "Parting Gift" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rakehell: "Rakehell" #!Empty_LineInfo!
+	IMPERIAL_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_right_to_rule: "Right to Rule" #!Empty_LineInfo!
+	IMPERIAL_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	IMPERIAL_SHIP_superior: "Superior" #!Empty_LineInfo!
+	IMPERIAL_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_widowmaker: "Widowmaker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wrack: "Wrack" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wyvard: "Wyvard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	IMPERIAL_SHIP_animus: "Animus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_neuer: "Neuer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_interpid: "Interpid" #!Empty_LineInfo!
+	IMPERIAL_SHIP_darklight: "Darklight" #!Empty_LineInfo!
+	IMPERIAL_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_marauder: "Marauder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_raider: "Raider" #!Empty_LineInfo!
+	IMPERIAL_SHIP_abrogator: "Abrogator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_atrisian_iron: "Atrisian Iron" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dargon: "Dargon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_disorver: "Disorver" #!Empty_LineInfo!
+	IMPERIAL_SHIP_famulus: "Famulus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harrier: "Harrier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imperial_destiny: "Imperial Destiny" #!Empty_LineInfo!
+	IMPERIAL_SHIP_karei: "Karei" #!Empty_LineInfo!
+	IMPERIAL_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_longshot: "Longshot" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	IMPERIAL_SHIP_neva: "Neva" #!Empty_LineInfo!
+	IMPERIAL_SHIP_prominence: "Prominence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sarissa: "Sarissa" #!Empty_LineInfo!
+	IMPERIAL_SHIP_starsider: "Starsider" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rampant: "Rampant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_black_hawk: "Black Hawk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blue_hawk: "Blue Hawk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cascade: "Cascade" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fowler: "Fowler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_furious: "Furious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_assailer: "Assailer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_assailant: "Assailant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_instigator: "Instigator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sargantuan: "Sargantuan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ambition: "Ambition" #!Empty_LineInfo!
+	IMPERIAL_SHIP_counterforce: "Counterforce" #!Empty_LineInfo!
+	IMPERIAL_SHIP_deterrence: "Deterrence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_expeditious: "Expeditious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_integirty: "Integirty" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kingdom: "Kingdom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nexus: "Nexus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_oculus: "Oculus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_outrider: "Outrider" #!Empty_LineInfo!
+	IMPERIAL_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_windsinger: "Windsinger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pursuit: "Pursuit" #!Empty_LineInfo!
+	IMPERIAL_SHIP_purgatory: "Purgatory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_skywatcher: "Skywatcher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_centicore: "Centicore" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hand_of_justice: "Hand of Justice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tellstar: "Tellstar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blood_crow: "Blood Crow" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vector: "Vector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_requiem: "Requiem" #!Empty_LineInfo!
+	IMPERIAL_SHIP_riesa: "Riesa" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dallust: "Dallust" #!Empty_LineInfo!
+	IMPERIAL_SHIP_halberd: "Halberd" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	IMPERIAL_SHIP_polearm: "Polearm" #!Empty_LineInfo!
+	IMPERIAL_SHIP_poleaxe: "Poleaxe" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hininbirg: "Hininbirg" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tropsobor: "Tropsobor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_terrup: "Terrup" #!Empty_LineInfo!
+	IMPERIAL_SHIP_straasa: "Straasa" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mist: "Mist" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imperial_protector: "Imperial Protector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kathol_protector: "Kathol Protector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_asp: "Asp" #!Empty_LineInfo!
+	IMPERIAL_SHIP_daring: "Daring" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eel: "Eel" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eidolon: "Eidolon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_formidable: "Formidable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_iron_duke: "Iron Duke" #!Empty_LineInfo!
+	IMPERIAL_SHIP_intombe: "Intombe" #!Empty_LineInfo!
+	IMPERIAL_SHIP_talon: "Talon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shrike: "Shrike" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lonsigar: "Lonsigar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lament: "Lament" #!Empty_LineInfo!
+	IMPERIAL_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pylos: "Pylos" #!Empty_LineInfo!
+	IMPERIAL_SHIP_trident: "Trident" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warpick: "Warpick" #!Empty_LineInfo!
+	IMPERIAL_SHIP_morning_star: "Morning Star" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pernach: "Pernach" #!Empty_LineInfo!
+	IMPERIAL_SHIP_estoc: "Estoc" #!Empty_LineInfo!
+	IMPERIAL_SHIP_falchion: "Falchion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_longsword: "Longsword" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blastsword: "Blastsword" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bardiche: "Bardiche" #!Empty_LineInfo!
+	IMPERIAL_SHIP_glaive: "Glaive" #!Empty_LineInfo!
+	IMPERIAL_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_batterer: "Batterer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pertrar: "Pertrar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mangonel: "Mangonel" #!Empty_LineInfo!
+	IMPERIAL_SHIP_onager: "Onager" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hellburner: "Hellburner" #!Empty_LineInfo!
+	IMPERIAL_SHIP_courser: "Courser" #!Empty_LineInfo!
+	IMPERIAL_SHIP_destrier: "Destrier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rouncey: "Rouncey" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gambeson: "Gambeson" #!Empty_LineInfo!
+	IMPERIAL_SHIP_barbican: "Barbican" #!Empty_LineInfo!
+	IMPERIAL_SHIP_battlement: "Battlement" #!Empty_LineInfo!
+	IMPERIAL_SHIP_palisade: "Palisade" #!Empty_LineInfo!
+	IMPERIAL_SHIP_portcullis: "Portcullis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_general_mohc: "General Mohc" #!Empty_LineInfo!
+	IMPERIAL_SHIP_azgoghk: "Azgoghk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_angrix: "Angrix" #!Empty_LineInfo!
+	IMPERIAL_SHIP_apocahk: "Apocahk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_odium: "Odium" #!Empty_LineInfo!
+	IMPERIAL_SHIP_opprobrium: "Opprobrium" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_halacious: "Halacious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_carnivore: "Carnivore" #!Empty_LineInfo!
+	IMPERIAL_SHIP_predator: "Predator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	IMPERIAL_SHIP_monstrous: "Monstrous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_repudiator: "Repudiator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_irresistible: "Irresistible" #!Empty_LineInfo!
+	IMPERIAL_SHIP_accuser: "Accuser" #!Empty_LineInfo!
+	IMPERIAL_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_admonitor: "Admonitor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_adjudicator: "Adjudicator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_agonizer: "Agonizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_avarice: "Avarice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bellicose: "Bellicose" #!Empty_LineInfo!
+	IMPERIAL_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	IMPERIAL_SHIP_conquest: "Conquest" #!Empty_LineInfo!
+	IMPERIAL_SHIP_death_s_head: "Death's Head" #!Empty_LineInfo!
+	IMPERIAL_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_emperor_s_will: "Emperor's Will" #!Empty_LineInfo!
+	IMPERIAL_SHIP_engager: "Engager" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_firestorm: "Firestorm" #!Empty_LineInfo!
+	IMPERIAL_SHIP_glory: "Glory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_grey_wolf: "Grey Wolf" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	IMPERIAL_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inexorable: "Inexorable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_interrogator: "Interrogator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_invincible: "Invincible" #!Empty_LineInfo!
+	IMPERIAL_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	IMPERIAL_SHIP_malice: "Malice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	IMPERIAL_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nihil: "Nihil" #!Empty_LineInfo!
+	IMPERIAL_SHIP_peremptory: "Peremptory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rage: "Rage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reckoning: "Reckoning" #!Empty_LineInfo!
+	IMPERIAL_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reliance: "Reliance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_render: "Render" #!Empty_LineInfo!
+	IMPERIAL_SHIP_resolution: "Resolution" #!Empty_LineInfo!
+	IMPERIAL_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stormhawk: "Stormhawk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderflare: "Thunderflare" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thunderer: "Thunderer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tyrant: "Tyrant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ultima: "Ultima" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_virulence: "Virulence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	IMPERIAL_SHIP_night_terror: "Night Terror" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obliterator: "Obliterator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_annihilator: "Annihilator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_exactor: "Exactor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_executrix: "Executrix" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inferno: "Inferno" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inquisitor: "Inquisitor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_intimidator: "Intimidator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lawbringer: "Lawbringer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nullifier: "Nullifier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_persecutor: "Persecutor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	IMPERIAL_SHIP_singularity: "Singularity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	IMPERIAL_SHIP_titania: "Titania" #!Empty_LineInfo!
+	IMPERIAL_SHIP_battle_lance: "Battle Lance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_brazen: "Brazen" #!Empty_LineInfo!
+	IMPERIAL_SHIP_celerity: "Celerity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_certainty: "Certainty" #!Empty_LineInfo!
+	IMPERIAL_SHIP_corrupter: "Corrupter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_denunciator: "Denunciator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dread_omen: "Dread Omen" #!Empty_LineInfo!
+	IMPERIAL_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	IMPERIAL_SHIP_herald: "Herald" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ill_wind: "Ill Wind" #!Empty_LineInfo!
+	IMPERIAL_SHIP_indictor: "Indictor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inflictor: "Inflictor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_invidious: "Invidious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_liquidator: "Liquidator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_overseer: "Overseer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	IMPERIAL_SHIP_retaliator: "Retaliator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stormbringer: "Stormbringer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_subjugator: "Subjugator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tarkin_s_will: "Tarkin's Will" #!Empty_LineInfo!
+	IMPERIAL_SHIP_torment: "Torment" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tributum: "Tributum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_despot: "Despot" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ultimatum: "Ultimatum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	IMPERIAL_SHIP_victorum: "Victorum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_visage: "Visage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	IMPERIAL_SHIP_exsanguinator: "Exsanguinator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harrow: "Harrow" #!Empty_LineInfo!
+	IMPERIAL_SHIP_iron_fist: "Iron Fist" #!Empty_LineInfo!
+	IMPERIAL_SHIP_malicious: "Malicious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pestage: "Pestage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_red_harvest: "Red Harvest" #!Empty_LineInfo!
+	IMPERIAL_SHIP_strikefast: "Strikefast" #!Empty_LineInfo!
+	IMPERIAL_SHIP_titan: "Titan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_condemnation: "Condemnation" #!Empty_LineInfo!
+	IMPERIAL_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dominator: "Dominator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	IMPERIAL_SHIP_arkanian_dragon: "Arkanian Dragon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	IMPERIAL_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_endurance: "Endurance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_intervention: "Intervention" #!Empty_LineInfo!
+	IMPERIAL_SHIP_renown: "Renown" #!Empty_LineInfo!
+	IMPERIAL_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_unity: "Unity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_electrum: "Electrum" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hound: "Hound" #!Empty_LineInfo!
+	IMPERIAL_SHIP_retaliation: "Retaliation" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vensenor: "Vensenor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_foehammer: "Foehammer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_erradicator: "Erradicator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_purgation: "Purgation" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mandator: "Mandator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_expulsor: "Expulsor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_extractor: "Extractor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_opressor: "Opressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_praetor: "Praetor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_executioner: "Executioner" #!Empty_LineInfo!
+	IMPERIAL_SHIP_despoiler: "Despoiler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_black_slaughter: "Black Slaughter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_compulsor: "Compulsor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_compellor: "Compellor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_flayer: "Flayer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_war_hammer: "War Hammer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_iron_sun: "Iron Sun" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ironstar: "Ironstar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_purifier: "Purifier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_defiler: "Defiler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ascendant_spear: "Ascendant Spear" #!Empty_LineInfo!
+	IMPERIAL_SHIP_black_talon: "Black Talon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_exemplar: "Exemplar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	IMPERIAL_SHIP_nightfall: "Nightfall" #!Empty_LineInfo!
+	IMPERIAL_SHIP_antagonizer: "Antagonizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_oppressor: "Oppressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dominance: "Dominance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_brutality: "Brutality" #!Empty_LineInfo!
+	IMPERIAL_SHIP_incapacitator: "Incapacitator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_siren: "Siren" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	IMPERIAL_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harpy: "Harpy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	IMPERIAL_SHIP_typhon: "Typhon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_drakon: "Drakon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dracaenae: "Dracaenae" #!Empty_LineInfo!
+	IMPERIAL_SHIP_griffin_fang: "Griffin Fang" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tarasque: "Tarasque" #!Empty_LineInfo!
+	IMPERIAL_SHIP_subjector: "Subjector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_knightmare: "Knightmare" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kingmaker: "Kingmaker" #!Empty_LineInfo!
+	IMPERIAL_SHIP_leveler: "Leveler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_overwhelming: "Overwhelming" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	IMPERIAL_SHIP_repressor: "Repressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_torrential: "Torrential" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rapacious: "Rapacious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_violence: "Violence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ironfall: "Ironfall" #!Empty_LineInfo!
+	IMPERIAL_SHIP_expropriator: "Expropriator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	IMPERIAL_SHIP_immovable: "Immovable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_unrelenting: "Unrelenting" #!Empty_LineInfo!
+	IMPERIAL_SHIP_desecrator: "Desecrator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ruination: "Ruination" #!Empty_LineInfo!
+	IMPERIAL_SHIP_devourer: "Devourer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_predacious: "Predacious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_depredation: "Depredation" #!Empty_LineInfo!
+	IMPERIAL_SHIP_depriver: "Depriver" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	IMPERIAL_SHIP_apex: "Apex" #!Empty_LineInfo!
+	IMPERIAL_SHIP_desolator: "Desolator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_extinguisher: "Extinguisher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_overmatch: "Overmatch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dissolver: "Dissolver" #!Empty_LineInfo!
+	IMPERIAL_SHIP_effacer: "Effacer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dispatcher: "Dispatcher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dismemberance: "Dismemberance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lambaster: "Lambaster" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lash_of_fire: "Lash of Fire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_steel_reign: "Steel Reign" #!Empty_LineInfo!
+	IMPERIAL_SHIP_legion: "Legion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_legionnaire: "Legionnaire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_legionary: "Legionary" #!Empty_LineInfo!
+	IMPERIAL_SHIP_invader: "Invader" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warmonger: "Warmonger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ironmonger: "Ironmonger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shackler: "Shackler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imposer: "Imposer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obtruder: "Obtruder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obtrusive: "Obtrusive" #!Empty_LineInfo!
+	IMPERIAL_SHIP_legend: "Legend" #!Empty_LineInfo!
+	IMPERIAL_SHIP_new_order: "New Order" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pronouncement: "Pronouncement" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lex_nova: "Lex Nova" #!Empty_LineInfo!
+	IMPERIAL_SHIP_crimson_strife: "Crimson Strife" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gargoyle: "Gargoyle" #!Empty_LineInfo!
+	IMPERIAL_SHIP_suppressor: "Suppressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_enforcer: "Enforcer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	IMPERIAL_SHIP_abyssal: "Abyssal" #!Empty_LineInfo!
+	IMPERIAL_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obliteration: "Obliteration" #!Empty_LineInfo!
+	IMPERIAL_SHIP_oblivion: "Oblivion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hierophant: "Hierophant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_steelwind: "Steelwind" #!Empty_LineInfo!
+	IMPERIAL_SHIP_final_judgement: "Final Judgement" #!Empty_LineInfo!
+	IMPERIAL_SHIP_incinerator: "Incinerator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_negator: "Negator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_corrosive: "Corrosive" #!Empty_LineInfo!
+	IMPERIAL_SHIP_severance: "Severance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_warchief: "Warchief" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inevitable: "Inevitable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_silencer: "Silencer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_contemptor: "Contemptor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reprover: "Reprover" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reproval: "Reproval" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dessicator: "Dessicator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cleansing_blaze: "Cleansing Blaze" #!Empty_LineInfo!
+	IMPERIAL_SHIP_demoralizer: "Demoralizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_offender: "Offender" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_extoler: "Extoler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fatality: "Fatality" #!Empty_LineInfo!
+	IMPERIAL_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	IMPERIAL_SHIP_resurgent: "Resurgent" #!Empty_LineInfo!
+	IMPERIAL_SHIP_revanchist: "Revanchist" #!Empty_LineInfo!
+	IMPERIAL_SHIP_brilliance: "Brilliance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	IMPERIAL_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_carnifex: "Carnifex" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cataclysm: "Cataclysm" #!Empty_LineInfo!
+	IMPERIAL_SHIP_discord: "Discord" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dominion: "Dominion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eliminator: "Eliminator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stel_talon: "Stel Talon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stormclaw: "Stormclaw" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vitiator: "Vitiator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_perilous: "Perilous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fulminatrix: "Fulminatrix" #!Empty_LineInfo!
+	IMPERIAL_SHIP_finalizer: "Finalizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fellfire: "Fellfire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_penumbra: "Penumbra" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ravenous: "Ravenous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bloodfin: "Bloodfin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ironhand: "Ironhand" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tyrannic: "Tyrannic" #!Empty_LineInfo!
+	IMPERIAL_SHIP_procusator: "Procusator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eternal_wrath: "Eternal Wrath" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spectral: "Spectral" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blackguard: "Blackguard" #!Empty_LineInfo!
+	IMPERIAL_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harpago: "Harpago" #!Empty_LineInfo!
+	IMPERIAL_SHIP_detainer: "Detainer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_suffocant: "Suffocant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_constrictor: "Constrictor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_emperor_s_net: "Emperor's Net" #!Empty_LineInfo!
+	IMPERIAL_SHIP_aggregator: "Aggregator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_binder: "Binder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_assessor: "Assessor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chokehold: "Chokehold" #!Empty_LineInfo!
+	IMPERIAL_SHIP_claw: "Claw" #!Empty_LineInfo!
+	IMPERIAL_SHIP_black_asp: "Black Asp" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fireclaw: "Fireclaw" #!Empty_LineInfo!
+	IMPERIAL_SHIP_glaciate: "Glaciate" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tory_s_catcher: "Tory's Catcher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stellar_web: "Stellar Web" #!Empty_LineInfo!
+	IMPERIAL_SHIP_suelu: "Suelu" #!Empty_LineInfo!
+	IMPERIAL_SHIP_restrainer: "Restrainer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_requital: "Requital" #!Empty_LineInfo!
+	IMPERIAL_SHIP_red_claw: "Red Claw" #!Empty_LineInfo!
+	IMPERIAL_SHIP_immobilizer: "Immobilizer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harpax: "Harpax" #!Empty_LineInfo!
+	IMPERIAL_SHIP_impasse: "Impasse" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dying_sun: "Dying Sun" #!Empty_LineInfo!
+	IMPERIAL_SHIP_incarcerator: "Incarcerator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inescapable: "Inescapable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_unavoidable: "Unavoidable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ineliminable: "Ineliminable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_unpreventable: "Unpreventable" #!Empty_LineInfo!
+	IMPERIAL_SHIP_crippler: "Crippler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hamperer: "Hamperer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_restrictor: "Restrictor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imprisoner: "Imprisoner" #!Empty_LineInfo!
+	IMPERIAL_SHIP_frustrator: "Frustrator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_inhibitor: "Inhibitor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_obstructor: "Obstructor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hinderer: "Hinderer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_stymier: "Stymier" #!Empty_LineInfo!
+	IMPERIAL_SHIP_trammeler: "Trammeler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fetterer: "Fetterer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_encumbrance: "Encumbrance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_compressor: "Compressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_strangler: "Strangler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_strangulation: "Strangulation" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imposition: "Imposition" #!Empty_LineInfo!
+	IMPERIAL_SHIP_circumscribor: "Circumscribor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_confiner: "Confiner" #!Empty_LineInfo!
+	IMPERIAL_SHIP_asphyxiator: "Asphyxiator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_garroter: "Garroter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_last_gasp: "Last Gasp" #!Empty_LineInfo!
+	IMPERIAL_SHIP_throttler: "Throttler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_aramadia: "Aramadia" #!Empty_LineInfo!
+	IMPERIAL_SHIP_knight_hammer: "Knight Hammer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_executor: "Executor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_megador: "Megador" #!Empty_LineInfo!
+	IMPERIAL_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lusankya: "Lusankya" #!Empty_LineInfo!
+	IMPERIAL_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	IMPERIAL_SHIP_terror: "Terror" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ds_1: "DS-1" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ashgad: "Ashgad" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rocheinante: "Rocheinante" #!Empty_LineInfo!
+	IMPERIAL_SHIP_herbane: "Herbane" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cylo: "Cylo" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thlu_ry: "Thlu-Ry" #!Empty_LineInfo!
+	IMPERIAL_SHIP_yewl: "Yewl" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sirro_argonne: "Sirro Argonne" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ames_uravan: "Ames Uravan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_feyn_vann: "Feyn Vann" #!Empty_LineInfo!
+	IMPERIAL_SHIP_rasett_milio: "Rasett Milio" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vlex_onopin: "Vlex Onopin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_paldis_doxion: "Paldis Doxion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bevel_lemelisk: "Bevel Lemelisk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_golanda: "Golanda" #!Empty_LineInfo!
+	IMPERIAL_SHIP_umak_leth: "Umak Leth" #!Empty_LineInfo!
+	IMPERIAL_SHIP_anamor: "Anamor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_arakkus: "Arakkus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_evazan: "Evazan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_thull_vandron: "Thull Vandron" #!Empty_LineInfo!
+	IMPERIAL_SHIP_zan_arbor: "Zan Arbor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_imperial_light: "Imperial Light" #!Empty_LineInfo!
+	IMPERIAL_SHIP_civilizing_mission: "Civilizing Mission" #!Empty_LineInfo!
+	IMPERIAL_SHIP_noble_savage: "Noble Savage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bright_future: "Bright Future" #!Empty_LineInfo!
+	IMPERIAL_SHIP_soron_hegerty: "Soron Hegerty" #!Empty_LineInfo!
+	IMPERIAL_SHIP_glenna_kip: "Glenna Kip" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dowager_queen: "Dowager Queen" #!Empty_LineInfo!
+	IMPERIAL_SHIP_beneficient_tasia: "Beneficient Tasia" #!Empty_LineInfo!
+	IMPERIAL_SHIP_beneficient_tagge: "Beneficient Tagge" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mother_vima: "Mother Vima" #!Empty_LineInfo!
+	IMPERIAL_SHIP_constant: "Constant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_dowager_king: "Dowager King" #!Empty_LineInfo!
+	IMPERIAL_SHIP_endeavor: "Endeavor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_exocros: "Exocros" #!Empty_LineInfo!
+	IMPERIAL_SHIP_free_enterprise: "Free Enterprise" #!Empty_LineInfo!
+	IMPERIAL_SHIP_glayyd: "Glayyd" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kuat_explorer: "Kuat Explorer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_industry: "Industry" #!Empty_LineInfo!
+	IMPERIAL_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_effort: "Effort" #!Empty_LineInfo!
+	IMPERIAL_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_builder: "Builder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	IMPERIAL_SHIP_progress: "Progress" #!Empty_LineInfo!
+	IMPERIAL_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_service: "Service" #!Empty_LineInfo!
+	IMPERIAL_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	IMPERIAL_SHIP_beast: "Beast" #!Empty_LineInfo!
+	IMPERIAL_SHIP_creator: "Creator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_developer: "Developer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_forger: "Forger" #!Empty_LineInfo!
+	IMPERIAL_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	IMPERIAL_SHIP_factory: "Factory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	IMPERIAL_SHIP_architect: "Architect" #!Empty_LineInfo!
+	IMPERIAL_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ground_transport: "Ground Transport" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	IMPERIAL_SHIP_albacore: "Albacore" #!Empty_LineInfo!
+	IMPERIAL_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vincent: "Vincent" #!Empty_LineInfo!
+	IMPERIAL_SHIP_babylon: "Babylon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_caernavon: "Caernavon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_acre: "Acre" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pembroke: "Pembroke" #!Empty_LineInfo!
+	IMPERIAL_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	IMPERIAL_SHIP_halifax: "Halifax" #!Empty_LineInfo!
+	IMPERIAL_SHIP_victoria: "Victoria" #!Empty_LineInfo!
+	IMPERIAL_SHIP_chatham: "Chatham" #!Empty_LineInfo!
+	IMPERIAL_SHIP_anchorage: "Anchorage" #!Empty_LineInfo!
+	IMPERIAL_SHIP_scapa_flow: "Scapa Flow" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hampton_roads: "Hampton Roads" #!Empty_LineInfo!
+	IMPERIAL_SHIP_brooklyn: "Brooklyn" #!Empty_LineInfo!
+	IMPERIAL_SHIP_norfolk: "Norfolk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_newport: "Newport" #!Empty_LineInfo!
+	IMPERIAL_SHIP_guam: "Guam" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pensacola: "Pensacola" #!Empty_LineInfo!
+	IMPERIAL_SHIP_vesuvius: "Vesuvius" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mckinley: "McKinley" #!Empty_LineInfo!
+	IMPERIAL_SHIP_everest: "Everest" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kilimanjaro: "Kilimanjaro" #!Empty_LineInfo!
+	IMPERIAL_SHIP_aconcagua: "Aconcagua" #!Empty_LineInfo!
+	IMPERIAL_SHIP_elbrus: "Elbrus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_st__helens: "St. Helens" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fuji: "Fuji" #!Empty_LineInfo!
+	IMPERIAL_SHIP_olympus: "Olympus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_sinai: "Sinai" #!Empty_LineInfo!
+	IMPERIAL_SHIP_ambrose: "Ambrose" #!Empty_LineInfo!
+	IMPERIAL_SHIP_bermuda: "Bermuda" #!Empty_LineInfo!
+	IMPERIAL_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blue_star: "Blue Star" #!Empty_LineInfo!
+	IMPERIAL_SHIP_olympus_mons: "Olympus Mons" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_syrtis: "Syrtis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_blackham: "Blackham" #!Empty_LineInfo!
+	IMPERIAL_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	IMPERIAL_SHIP_perry: "Perry" #!Empty_LineInfo!
+	IMPERIAL_SHIP_butakov: "Butakov" #!Empty_LineInfo!
+	IMPERIAL_SHIP_morris: "Morris" #!Empty_LineInfo!
+	IMPERIAL_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hart: "Hart" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hargood: "Hargood" #!Empty_LineInfo!
+	IMPERIAL_SHIP_spruance: "Spruance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	IMPERIAL_SHIP_halsey: "Halsey" #!Empty_LineInfo!
+	IMPERIAL_SHIP_turner: "Turner" #!Empty_LineInfo!
+	IMPERIAL_SHIP_doria: "Doria" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tirpitz: "Tirpitz" #!Empty_LineInfo!
+	IMPERIAL_SHIP_cunningham: "Cunningham" #!Empty_LineInfo!
+	IMPERIAL_SHIP_jellicoe: "Jellicoe" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hipper: "Hipper" #!Empty_LineInfo!
+	IMPERIAL_SHIP_beatty: "Beatty" #!Empty_LineInfo!
+	IMPERIAL_SHIP_potemkin: "Potemkin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_durham: "Durham" #!Empty_LineInfo!
+	IMPERIAL_SHIP_codrington: "Codrington" #!Empty_LineInfo!
+	IMPERIAL_SHIP_milne: "Milne" #!Empty_LineInfo!
+	IMPERIAL_SHIP_laforey: "Laforey" #!Empty_LineInfo!
+	IMPERIAL_SHIP_tyler: "Tyler" #!Empty_LineInfo!
+	IMPERIAL_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	IMPERIAL_SHIP_yonai: "Yonai" #!Empty_LineInfo!
+	IMPERIAL_SHIP_pound: "Pound" #!Empty_LineInfo!
+	IMPERIAL_SHIP_king: "King" #!Empty_LineInfo!
+	IMPERIAL_SHIP_crutchley: "Crutchley" #!Empty_LineInfo!
+	IMPERIAL_SHIP_mountbatten: "Mountbatten" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kountouriotis: "Kountouriotis" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kuznetsov: "Kuznetsov" #!Empty_LineInfo!
+	IMPERIAL_SHIP_essen: "Essen" #!Empty_LineInfo!
+	IMPERIAL_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	IMPERIAL_SHIP_suffren: "Suffren" #!Empty_LineInfo!
+	IMPERIAL_SHIP_treville: "Treville" #!Empty_LineInfo!
+	IMPERIAL_SHIP_villeneuve: "Villeneuve" #!Empty_LineInfo!
+	IMPERIAL_SHIP_grasse: "Grasse" #!Empty_LineInfo!
+	IMPERIAL_SHIP_byng: "Byng" #!Empty_LineInfo!
+	IMPERIAL_SHIP_lezo: "Lezo" #!Empty_LineInfo!
+	IMPERIAL_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	IMPERIAL_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	IMPERIAL_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	IMPERIAL_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	IMPERIAL_xxFLEET_SEQUENTIAL_sector_fleet_ORD: "$ORD$ Sector Fleet" #!Empty_LineInfo!
+	IMPERIAL_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	IMPERIAL_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	IMPERIAL_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	IMPERIAL_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	IMPERIAL_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	IMPERIAL_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	IMPERIAL_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	IMPERIAL_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	IMPERIAL_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	IMPERIAL_ARMY_SEQUENTIAL_stormtrooper_garrison_SEQ: "$C$ Stormtrooper Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	IMPERIAL_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	IMPERIAL_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	IMPERIAL_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	IMPERIAL_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	IMPERIAL_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	IMPERIAL_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	IMPERIAL_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	IMPERIAL_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	IMPERIAL_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	IMPERIAL_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	IMPERIAL_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	IMPERIAL_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	IMPERIAL_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	IMPERIAL_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	IMPERIAL_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	IMPERIAL_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	IMPERIAL_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	IMPERIAL_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	IMPERIAL_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	IMPERIAL_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	IMPERIAL_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	IMPERIAL_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	IMPERIAL_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	IMPERIAL_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	IMPERIAL_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	IMPERIAL_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	IMPERIAL_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	IMPERIAL_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	IMPERIAL_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	IMPERIAL_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	IMPERIAL_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	IMPERIAL_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	IMPERIAL_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	IMPERIAL_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	IMPERIAL_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	IMPERIAL_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	IMPERIAL_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	IMPERIAL_CHR_elrik: "Elrik" #!Empty_LineInfo!
+	IMPERIAL_CHR_cassio: "Cassio" #!Empty_LineInfo!
+	IMPERIAL_CHR_ronen: "Ronen" #!Empty_LineInfo!
+	IMPERIAL_CHR_denetrius: "Denetrius" #!Empty_LineInfo!
+	IMPERIAL_CHR_ubrik: "Ubrik" #!Empty_LineInfo!
+	IMPERIAL_CHR_ryder: "Ryder" #!Empty_LineInfo!
+	IMPERIAL_CHR_abran: "Abran" #!Empty_LineInfo!
+	IMPERIAL_CHR_tragg: "Tragg" #!Empty_LineInfo!
+	IMPERIAL_CHR_jamson: "Jamson" #!Empty_LineInfo!
+	IMPERIAL_CHR_hindane: "Hindane" #!Empty_LineInfo!
+	IMPERIAL_CHR_vilim: "Vilim" #!Empty_LineInfo!
+	IMPERIAL_CHR_diedrich: "Diedrich" #!Empty_LineInfo!
+	IMPERIAL_CHR_tiaan: "Tiaan" #!Empty_LineInfo!
+	IMPERIAL_CHR_wilhuff: "Wilhuff" #!Empty_LineInfo!
+	IMPERIAL_CHR_bertroff: "Bertroff" #!Empty_LineInfo!
+	IMPERIAL_CHR_ardus: "Ardus" #!Empty_LineInfo!
+	IMPERIAL_CHR_ambris: "Ambris" #!Empty_LineInfo!
+	IMPERIAL_CHR_tharil: "Tharil" #!Empty_LineInfo!
+	IMPERIAL_CHR_rufaan: "Rufaan" #!Empty_LineInfo!
+	IMPERIAL_CHR_teren: "Teren" #!Empty_LineInfo!
+	IMPERIAL_CHR_chassellon: "Chassellon" #!Empty_LineInfo!
+	IMPERIAL_CHR_moradmin: "Moradmin" #!Empty_LineInfo!
+	IMPERIAL_CHR_wullf: "Wullf" #!Empty_LineInfo!
+	IMPERIAL_CHR_siward: "Siward" #!Empty_LineInfo!
+	IMPERIAL_CHR_trech: "Trech" #!Empty_LineInfo!
+	IMPERIAL_CHR_hurst: "Hurst" #!Empty_LineInfo!
+	IMPERIAL_CHR_tajis: "Tajis" #!Empty_LineInfo!
+	IMPERIAL_CHR_cruyea: "Cruyea" #!Empty_LineInfo!
+	IMPERIAL_CHR_janus: "Janus" #!Empty_LineInfo!
+	IMPERIAL_CHR_kren: "Kren" #!Empty_LineInfo!
+	IMPERIAL_CHR_ragez: "Ragez" #!Empty_LineInfo!
+	IMPERIAL_CHR_alec: "Alec" #!Empty_LineInfo!
+	IMPERIAL_CHR_sate: "Sate" #!Empty_LineInfo!
+	IMPERIAL_CHR_paltr: "Paltr" #!Empty_LineInfo!
+	IMPERIAL_CHR_xandel: "Xandel" #!Empty_LineInfo!
+	IMPERIAL_CHR_redd: "Redd" #!Empty_LineInfo!
+	IMPERIAL_CHR_tann: "Tann" #!Empty_LineInfo!
+	IMPERIAL_CHR_kir: "Kir" #!Empty_LineInfo!
+	IMPERIAL_CHR_carnor: "Carnor" #!Empty_LineInfo!
+	IMPERIAL_CHR_tav: "Tav" #!Empty_LineInfo!
+	IMPERIAL_CHR_delak: "Delak" #!Empty_LineInfo!
+	IMPERIAL_CHR_evir: "Evir" #!Empty_LineInfo!
+	IMPERIAL_CHR_sair: "Sair" #!Empty_LineInfo!
+	IMPERIAL_CHR_jagged: "Jagged" #!Empty_LineInfo!
+	IMPERIAL_CHR_soontir: "Soontir" #!Empty_LineInfo!
+	IMPERIAL_CHR_sander: "Sander" #!Empty_LineInfo!
+	IMPERIAL_CHR_gaen: "Gaen" #!Empty_LineInfo!
+	IMPERIAL_CHR_josef: "Josef" #!Empty_LineInfo!
+	IMPERIAL_CHR_blitzer: "Blitzer" #!Empty_LineInfo!
+	IMPERIAL_CHR_danetta: "Danetta" #!Empty_LineInfo!
+	IMPERIAL_CHR_martio: "Martio" #!Empty_LineInfo!
+	IMPERIAL_CHR_nial: "Nial" #!Empty_LineInfo!
+	IMPERIAL_CHR_octavian: "Octavian" #!Empty_LineInfo!
+	IMPERIAL_CHR_peccati: "Peccati" #!Empty_LineInfo!
+	IMPERIAL_CHR_miltin: "Miltin" #!Empty_LineInfo!
+	IMPERIAL_CHR_osvald: "Osvald" #!Empty_LineInfo!
+	IMPERIAL_CHR_demetrius: "Demetrius" #!Empty_LineInfo!
+	IMPERIAL_CHR_tarsus: "Tarsus" #!Empty_LineInfo!
+	IMPERIAL_CHR_finis: "Finis" #!Empty_LineInfo!
+	IMPERIAL_CHR_tullius: "Tullius" #!Empty_LineInfo!
+	IMPERIAL_CHR_terrinald: "Terrinald" #!Empty_LineInfo!
+	IMPERIAL_CHR_firmus: "Firmus" #!Empty_LineInfo!
+	IMPERIAL_CHR_kendal: "Kendal" #!Empty_LineInfo!
+	IMPERIAL_CHR_gallius: "Gallius" #!Empty_LineInfo!
+	IMPERIAL_CHR_lucien: "Lucien" #!Empty_LineInfo!
+	IMPERIAL_CHR_sev: "Sev" #!Empty_LineInfo!
+	IMPERIAL_CHR_vin: "Vin" #!Empty_LineInfo!
+	IMPERIAL_CHR_janek: "Janek" #!Empty_LineInfo!
+	IMPERIAL_CHR_grodin: "Grodin" #!Empty_LineInfo!
+	IMPERIAL_CHR_armitage: "Armitage" #!Empty_LineInfo!
+	IMPERIAL_CHR_brendol: "Brendol" #!Empty_LineInfo!
+	IMPERIAL_CHR_enric: "Enric" #!Empty_LineInfo!
+	IMPERIAL_CHR_archex: "Archex" #!Empty_LineInfo!
+	IMPERIAL_CHR_gideon: "Gideon" #!Empty_LineInfo!
+	IMPERIAL_CHR_dopheld: "Dopheld" #!Empty_LineInfo!
+	IMPERIAL_CHR_maarek: "Maarek" #!Empty_LineInfo!
+	IMPERIAL_CHR_galen: "Galen" #!Empty_LineInfo!
+	IMPERIAL_CHR_orson: "Orson" #!Empty_LineInfo!
+	IMPERIAL_CHR_roman: "Roman" #!Empty_LineInfo!
+	IMPERIAL_CHR_raith: "Raith" #!Empty_LineInfo!
+	IMPERIAL_CHR_galak: "Galak" #!Empty_LineInfo!
+	IMPERIAL_CHR_essio: "Essio" #!Empty_LineInfo!
+	IMPERIAL_CHR_alexsandr: "Alexsandr" #!Empty_LineInfo!
+	IMPERIAL_CHR_chak: "Chak" #!Empty_LineInfo!
+	IMPERIAL_CHR_davin: "Davin" #!Empty_LineInfo!
+	IMPERIAL_CHR_kassius: "Kassius" #!Empty_LineInfo!
+	IMPERIAL_CHR_del: "Del" #!Empty_LineInfo!
+	IMPERIAL_CHR_jax: "Jax" #!Empty_LineInfo!
+	IMPERIAL_CHR_gilad: "Gilad" #!Empty_LineInfo!
+	IMPERIAL_CHR_klaus: "Klaus" #!Empty_LineInfo!
+	IMPERIAL_CHR_daro: "Daro" #!Empty_LineInfo!
+	IMPERIAL_CHR_korval: "Korval" #!Empty_LineInfo!
+	IMPERIAL_CHR_saul: "Saul" #!Empty_LineInfo!
+	IMPERIAL_CHR_aurelia: "Aurelia" #!Empty_LineInfo!
+	IMPERIAL_CHR_domina: "Domina" #!Empty_LineInfo!
+	IMPERIAL_CHR_sarn: "Sarn" #!Empty_LineInfo!
+	IMPERIAL_CHR_leonia: "Leonia" #!Empty_LineInfo!
+	IMPERIAL_CHR_naomi: "Naomi" #!Empty_LineInfo!
+	IMPERIAL_CHR_natasi: "Natasi" #!Empty_LineInfo!
+	IMPERIAL_CHR_marissa: "Marissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_ysanne: "Ysanne" #!Empty_LineInfo!
+	IMPERIAL_CHR_gara: "Gara" #!Empty_LineInfo!
+	IMPERIAL_CHR_erisi: "Erisi" #!Empty_LineInfo!
+	IMPERIAL_CHR_nova: "Nova" #!Empty_LineInfo!
+	IMPERIAL_CHR_feena: "Feena" #!Empty_LineInfo!
+	IMPERIAL_CHR_mirith: "Mirith" #!Empty_LineInfo!
+	IMPERIAL_CHR_mahd: "Mahd" #!Empty_LineInfo!
+	IMPERIAL_CHR_aellyn: "Aellyn" #!Empty_LineInfo!
+	IMPERIAL_CHR_shira: "Shira" #!Empty_LineInfo!
+	IMPERIAL_CHR_morrigan: "Morrigan" #!Empty_LineInfo!
+	IMPERIAL_CHR_tavion: "Tavion" #!Empty_LineInfo!
+	IMPERIAL_CHR_octavia: "Octavia" #!Empty_LineInfo!
+	IMPERIAL_CHR_laeca: "Laeca" #!Empty_LineInfo!
+	IMPERIAL_CHR_thalassa: "Thalassa" #!Empty_LineInfo!
+	IMPERIAL_CHR_shella: "Shella" #!Empty_LineInfo!
+	IMPERIAL_CHR_emppu: "Emppu" #!Empty_LineInfo!
+	IMPERIAL_CHR_maree: "Maree" #!Empty_LineInfo!
+	IMPERIAL_CHR_tyla: "Tyla" #!Empty_LineInfo!
+	IMPERIAL_CHR_onnelly: "Onnelly" #!Empty_LineInfo!
+	IMPERIAL_CHR_krynda: "Krynda" #!Empty_LineInfo!
+	IMPERIAL_CHR_rae: "Rae" #!Empty_LineInfo!
+	IMPERIAL_CHR_ciena: "Ciena" #!Empty_LineInfo!
+	IMPERIAL_CHR_maketh: "Maketh" #!Empty_LineInfo!
+	IMPERIAL_CHR_arhinda: "Arhinda" #!Empty_LineInfo!
+	IMPERIAL_CHR_tanda: "Tanda" #!Empty_LineInfo!
+	IMPERIAL_CHR_roganda: "Roganda" #!Empty_LineInfo!
+	IMPERIAL_CHR_juno: "Juno" #!Empty_LineInfo!
+	IMPERIAL_CHR_athenya: "Athenya" #!Empty_LineInfo!
+	IMPERIAL_CHR_mara: "Mara" #!Empty_LineInfo!
+	IMPERIAL_CHR_dashe: "Dashe" #!Empty_LineInfo!
+	IMPERIAL_CHR_salial: "Salial" #!Empty_LineInfo!
+	IMPERIAL_CHR_arissa: "Arissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_amara: "Amara" #!Empty_LineInfo!
+	IMPERIAL_CHR_deena: "Deena" #!Empty_LineInfo!
+	IMPERIAL_CHR_luana: "Luana" #!Empty_LineInfo!
+	IMPERIAL_CHR_shonn: "Shonn" #!Empty_LineInfo!
+	IMPERIAL_CHR_maratelle: "Maratelle" #!Empty_LineInfo!
+	IMPERIAL_CHR_lanzora: "Lanzora" #!Empty_LineInfo!
+	IMPERIAL_CHR_tishra: "Tishra" #!Empty_LineInfo!
+	IMPERIAL_CHR_malarus: "Malarus" #!Empty_LineInfo!
+	IMPERIAL_CHR_peera: "Peera" #!Empty_LineInfo!
+	IMPERIAL_CHR_lira: "Lira" #!Empty_LineInfo!
+	IMPERIAL_CHR_lyra: "Lyra" #!Empty_LineInfo!
+	IMPERIAL_CHR_jyn: "Jyn" #!Empty_LineInfo!
+	IMPERIAL_CHR_aiolin: "Aiolin" #!Empty_LineInfo!
+	IMPERIAL_CHR_tulon: "Tulon" #!Empty_LineInfo!
+	IMPERIAL_CHR_golanda: "Golanda" #!Empty_LineInfo!
+	IMPERIAL_CHR_facet: "Facet" #!Empty_LineInfo!
+	IMPERIAL_CHR_lucinta: "Lucinta" #!Empty_LineInfo!
+	IMPERIAL_CHR_soron: "Soron" #!Empty_LineInfo!
+	IMPERIAL_CHR_glenna: "Glenna" #!Empty_LineInfo!
+	IMPERIAL_CHR_dusque: "Dusque" #!Empty_LineInfo!
+	IMPERIAL_CHR_leonna: "Leonna" #!Empty_LineInfo!
+	IMPERIAL_CHR_gyla: "Gyla" #!Empty_LineInfo!
+	IMPERIAL_CHR_nomi: "Nomi" #!Empty_LineInfo!
+	IMPERIAL_CHR_nyrat: "Nyrat" #!Empty_LineInfo!
+	IMPERIAL_CHR_rosha: "Rosha" #!Empty_LineInfo!
+	IMPERIAL_CHR_khaleen: "Khaleen" #!Empty_LineInfo!
+	IMPERIAL_CHR_adnama: "Adnama" #!Empty_LineInfo!
+	IMPERIAL_CHR_terr: "Terr" #!Empty_LineInfo!
+	IMPERIAL_CHR_lomina: "Lomina" #!Empty_LineInfo!
+	IMPERIAL_CHR_onie: "Onie" #!Empty_LineInfo!
+	IMPERIAL_CHR_lissa: "Lissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_sula: "Sula" #!Empty_LineInfo!
+	IMPERIAL_CHR_zalin: "Zalin" #!Empty_LineInfo!
+	IMPERIAL_CHR_kell: "Kell" #!Empty_LineInfo!
+	IMPERIAL_CHR_jynne: "Jynne" #!Empty_LineInfo!
+	IMPERIAL_CHR_lowle: "Lowle" #!Empty_LineInfo!
+	IMPERIAL_CHR_jeela: "Jeela" #!Empty_LineInfo!
+	IMPERIAL_CHR_immi: "Immi" #!Empty_LineInfo!
+	IMPERIAL_CHR_aliza: "Aliza" #!Empty_LineInfo!
+	IMPERIAL_CHR_hira: "Hira" #!Empty_LineInfo!
+	IMPERIAL_CHR_lara: "Lara" #!Empty_LineInfo!
+	IMPERIAL_CHR_kirney: "Kirney" #!Empty_LineInfo!
+	IMPERIAL_CHR_seha: "Seha" #!Empty_LineInfo!
+	IMPERIAL_CHR_myleena: "Myleena" #!Empty_LineInfo!
+	IMPERIAL_CHR_eelysa: "Eelysa" #!Empty_LineInfo!
+	IMPERIAL_CHR_syal: "Syal" #!Empty_LineInfo!
+	IMPERIAL_CHR_aleema: "Aleema" #!Empty_LineInfo!
+	IMPERIAL_CHR_elin: "Elin" #!Empty_LineInfo!
+	IMPERIAL_CHR_faime: "Faime" #!Empty_LineInfo!
+	IMPERIAL_CHR_lorana: "Lorana" #!Empty_LineInfo!
+	IMPERIAL_CHR_vinna: "Vinna" #!Empty_LineInfo!
+	IMPERIAL_CHR_belindi: "Belindi" #!Empty_LineInfo!
+	IMPERIAL_CHR_vanara: "Vanara" #!Empty_LineInfo!
+	IMPERIAL_CHR_terisa: "Terisa" #!Empty_LineInfo!
+	IMPERIAL_CHR_aurin: "Aurin" #!Empty_LineInfo!
+	IMPERIAL_CHR_reha: "Reha" #!Empty_LineInfo!
+	IMPERIAL_CHR_malia: "Malia" #!Empty_LineInfo!
+	IMPERIAL_CHR_reina: "Reina" #!Empty_LineInfo!
+	IMPERIAL_CHR_iden: "Iden" #!Empty_LineInfo!
+	IMPERIAL_CHR_anadra: "Anadra" #!Empty_LineInfo!
+	IMPERIAL_CHR_eos: "Eos" #!Empty_LineInfo!
+	IMPERIAL_CHR_mya: "Mya" #!Empty_LineInfo!
+	IMPERIAL_CHR_lela: "Lela" #!Empty_LineInfo!
+	IMPERIAL_CHR_jocasta: "Jocasta" #!Empty_LineInfo!
+	IMPERIAL_CHR_astrid: "Astrid" #!Empty_LineInfo!
+	IMPERIAL_CHR_telti: "Telti" #!Empty_LineInfo!
+	IMPERIAL_CHR_lestra: "Lestra" #!Empty_LineInfo!
+	IMPERIAL_CHR_perla: "Perla" #!Empty_LineInfo!
+	IMPERIAL_CHR_kara: "Kara" #!Empty_LineInfo!
+	IMPERIAL_CHR_delva: "Delva" #!Empty_LineInfo!
+	IMPERIAL_CHR_anya: "Anya" #!Empty_LineInfo!
+	IMPERIAL_CHR_dyemma: "Dyemma" #!Empty_LineInfo!
+	IMPERIAL_CHR_palee: "Palee" #!Empty_LineInfo!
+	IMPERIAL_CHR_cyl: "Cyl" #!Empty_LineInfo!
+	IMPERIAL_CHR_rystall: "Rystall" #!Empty_LineInfo!
+	IMPERIAL_CHR_cian: "Cian" #!Empty_LineInfo!
+	IMPERIAL_CHR_atril: "Atril" #!Empty_LineInfo!
+	IMPERIAL_CHR_tannis: "Tannis" #!Empty_LineInfo!
+	IMPERIAL_CHR_tika: "Tika" #!Empty_LineInfo!
+	IMPERIAL_CHR_letta: "Letta" #!Empty_LineInfo!
+	IMPERIAL_CHR_kirma: "Kirma" #!Empty_LineInfo!
+	IMPERIAL_CHR_carmilla: "Carmilla" #!Empty_LineInfo!
+	IMPERIAL_CHR_vess: "Vess" #!Empty_LineInfo!
+	IMPERIAL_CHR_mayli: "Mayli" #!Empty_LineInfo!
+	IMPERIAL_CHR_becca: "Becca" #!Empty_LineInfo!
+	IMPERIAL_CHR_albina: "Albina" #!Empty_LineInfo!
+	IMPERIAL_CHR_cassia: "Cassia" #!Empty_LineInfo!
+	IMPERIAL_CHR_domitia: "Domitia" #!Empty_LineInfo!
+	IMPERIAL_CHR_hadriana: "Hadriana" #!Empty_LineInfo!
+	IMPERIAL_CHR_mariana: "Mariana" #!Empty_LineInfo!
+	IMPERIAL_CHR_valeria: "Valeria" #!Empty_LineInfo!
+	IMPERIAL_CHR_valentia: "Valentia" #!Empty_LineInfo!
+	IMPERIAL_CHR_antonia: "Antonia" #!Empty_LineInfo!
+	IMPERIAL_CHR_iovita: "Iovita" #!Empty_LineInfo!
+	IMPERIAL_CHR_solida: "Solida" #!Empty_LineInfo!
+	IMPERIAL_CHR_denaria: "Denaria" #!Empty_LineInfo!
+	IMPERIAL_CHR_achaea: "Achaea" #!Empty_LineInfo!
+	IMPERIAL_CHR_aurora: "Aurora" #!Empty_LineInfo!
+	IMPERIAL_CHR_bellona: "Bellona" #!Empty_LineInfo!
+	IMPERIAL_CHR_cardea: "Cardea" #!Empty_LineInfo!
+	IMPERIAL_CHR_felicity: "Felicity" #!Empty_LineInfo!
+	IMPERIAL_CHR_flora: "Flora" #!Empty_LineInfo!
+	IMPERIAL_CHR_juturna: "Juturna" #!Empty_LineInfo!
+	IMPERIAL_CHR_lucina: "Lucina" #!Empty_LineInfo!
+	IMPERIAL_CHR_mineva: "Mineva" #!Empty_LineInfo!
+	IMPERIAL_CHR_nona: "Nona" #!Empty_LineInfo!
+	IMPERIAL_CHR_rhea: "Rhea" #!Empty_LineInfo!
+	IMPERIAL_CHR_vesta: "Vesta" #!Empty_LineInfo!
+	IMPERIAL_CHR_aeliana: "Aeliana" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaelia: "Kaelia" #!Empty_LineInfo!
+	IMPERIAL_CHR_faerica: "Faerica" #!Empty_LineInfo!
+	IMPERIAL_CHR_faustina: "Faustina" #!Empty_LineInfo!
+	IMPERIAL_CHR_gratiana: "Gratiana" #!Empty_LineInfo!
+	IMPERIAL_CHR_laelia: "Laelia" #!Empty_LineInfo!
+	IMPERIAL_CHR_liviana: "Liviana" #!Empty_LineInfo!
+	IMPERIAL_CHR_lucia: "Lucia" #!Empty_LineInfo!
+	IMPERIAL_CHR_maxima: "Maxima" #!Empty_LineInfo!
+	IMPERIAL_CHR_prisca: "Prisca" #!Empty_LineInfo!
+	IMPERIAL_CHR_sabina: "Sabina" #!Empty_LineInfo!
+	IMPERIAL_CHR_vita: "Vita" #!Empty_LineInfo!
+	IMPERIAL_CHR_luna: "Luna" #!Empty_LineInfo!
+	IMPERIAL_CHR_vitoria: "Vitoria" #!Empty_LineInfo!
+	IMPERIAL_CHR_aurelianna: "Aurelianna" #!Empty_LineInfo!
+	IMPERIAL_CHR_corenleia: "Corenleia" #!Empty_LineInfo!
+	IMPERIAL_CHR_lucilla: "Lucilla" #!Empty_LineInfo!
+	IMPERIAL_CHR_theodosa: "Theodosa" #!Empty_LineInfo!
+	IMPERIAL_CHR_drya: "Drya" #!Empty_LineInfo!
+	IMPERIAL_CHR_eo: "Eo" #!Empty_LineInfo!
+	IMPERIAL_CHR_isadora: "Isadora" #!Empty_LineInfo!
+	IMPERIAL_CHR_jyrilla: "Jyrilla" #!Empty_LineInfo!
+	IMPERIAL_CHR_lyosha: "Lyosha" #!Empty_LineInfo!
+	IMPERIAL_CHR_agata: "Agata" #!Empty_LineInfo!
+	IMPERIAL_CHR_agda: "Agda" #!Empty_LineInfo!
+	IMPERIAL_CHR_aileen: "Aileen" #!Empty_LineInfo!
+	IMPERIAL_CHR_alecta: "Alecta" #!Empty_LineInfo!
+	IMPERIAL_CHR_alena: "Alena" #!Empty_LineInfo!
+	IMPERIAL_CHR_alessa: "Alessa" #!Empty_LineInfo!
+	IMPERIAL_CHR_alexa: "Alexa" #!Empty_LineInfo!
+	IMPERIAL_CHR_alyx: "Alyx" #!Empty_LineInfo!
+	IMPERIAL_CHR_androxa: "Androxa" #!Empty_LineInfo!
+	IMPERIAL_CHR_angyalka: "Angyalka" #!Empty_LineInfo!
+	IMPERIAL_CHR_arina: "Arina" #!Empty_LineInfo!
+	IMPERIAL_CHR_astra: "Astra" #!Empty_LineInfo!
+	IMPERIAL_CHR_auna: "Auna" #!Empty_LineInfo!
+	IMPERIAL_CHR_bara: "Bara" #!Empty_LineInfo!
+	IMPERIAL_CHR_basia: "Basia" #!Empty_LineInfo!
+	IMPERIAL_CHR_brisa: "Brisa" #!Empty_LineInfo!
+	IMPERIAL_CHR_bria: "Bria" #!Empty_LineInfo!
+	IMPERIAL_CHR_calista: "Calista" #!Empty_LineInfo!
+	IMPERIAL_CHR_calla: "Calla" #!Empty_LineInfo!
+	IMPERIAL_CHR_karin: "Karin" #!Empty_LineInfo!
+	IMPERIAL_CHR_karissa: "Karissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_katrina: "Katrina" #!Empty_LineInfo!
+	IMPERIAL_CHR_cintia: "Cintia" #!Empty_LineInfo!
+	IMPERIAL_CHR_cynthia: "Cynthia" #!Empty_LineInfo!
+	IMPERIAL_CHR_delphina: "Delphina" #!Empty_LineInfo!
+	IMPERIAL_CHR_demetria: "Demetria" #!Empty_LineInfo!
+	IMPERIAL_CHR_demi: "Demi" #!Empty_LineInfo!
+	IMPERIAL_CHR_desma: "Desma" #!Empty_LineInfo!
+	IMPERIAL_CHR_despixa: "Despixa" #!Empty_LineInfo!
+	IMPERIAL_CHR_vionisa: "Vionisa" #!Empty_LineInfo!
+	IMPERIAL_CHR_taya: "Taya" #!Empty_LineInfo!
+	IMPERIAL_CHR_eira: "Eira" #!Empty_LineInfo!
+	IMPERIAL_CHR_elanna: "Elanna" #!Empty_LineInfo!
+	IMPERIAL_CHR_elektra: "Elektra" #!Empty_LineInfo!
+	IMPERIAL_CHR_aylina: "Aylina" #!Empty_LineInfo!
+	IMPERIAL_CHR_eudora: "Eudora" #!Empty_LineInfo!
+	IMPERIAL_CHR_vedora: "Vedora" #!Empty_LineInfo!
+	IMPERIAL_CHR_galina: "Galina" #!Empty_LineInfo!
+	IMPERIAL_CHR_harmony: "Harmony" #!Empty_LineInfo!
+	IMPERIAL_CHR_hypazia: "Hypazia" #!Empty_LineInfo!
+	IMPERIAL_CHR_heraa: "Heraa" #!Empty_LineInfo!
+	IMPERIAL_CHR_iole: "Iole" #!Empty_LineInfo!
+	IMPERIAL_CHR_indigo: "Indigo" #!Empty_LineInfo!
+	IMPERIAL_CHR_iria: "Iria" #!Empty_LineInfo!
+	IMPERIAL_CHR_irina: "Irina" #!Empty_LineInfo!
+	IMPERIAL_CHR_iris: "Iris" #!Empty_LineInfo!
+	IMPERIAL_CHR_izadora: "Izadora" #!Empty_LineInfo!
+	IMPERIAL_CHR_jacintha: "Jacintha" #!Empty_LineInfo!
+	IMPERIAL_CHR_jaguisa: "Jaguisa" #!Empty_LineInfo!
+	IMPERIAL_CHR_jakayla: "Jakayla" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaarina: "Kaarina" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaia: "Kaia" #!Empty_LineInfo!
+	IMPERIAL_CHR_kakalina: "Kakalina" #!Empty_LineInfo!
+	IMPERIAL_CHR_kalena: "Kalena" #!Empty_LineInfo!
+	IMPERIAL_CHR_karina: "Karina" #!Empty_LineInfo!
+	IMPERIAL_CHR_kasandra: "Kasandra" #!Empty_LineInfo!
+	IMPERIAL_CHR_kazia: "Kazia" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaxia: "Kaxia" #!Empty_LineInfo!
+	IMPERIAL_CHR_katalyn: "Katalyn" #!Empty_LineInfo!
+	IMPERIAL_CHR_katarina: "Katarina" #!Empty_LineInfo!
+	IMPERIAL_CHR_katriena: "Katriena" #!Empty_LineInfo!
+	IMPERIAL_CHR_katya: "Katya" #!Empty_LineInfo!
+	IMPERIAL_CHR_zalpania: "Zalpania" #!Empty_LineInfo!
+	IMPERIAL_CHR_kseniya: "Kseniya" #!Empty_LineInfo!
+	IMPERIAL_CHR_kynthia: "Kynthia" #!Empty_LineInfo!
+	IMPERIAL_CHR_larissa: "Larissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_leandra: "Leandra" #!Empty_LineInfo!
+	IMPERIAL_CHR_lenka: "Lenka" #!Empty_LineInfo!
+	IMPERIAL_CHR_lesya: "Lesya" #!Empty_LineInfo!
+	IMPERIAL_CHR_lyydia: "Lyydia" #!Empty_LineInfo!
+	IMPERIAL_CHR_maxie: "Maxie" #!Empty_LineInfo!
+	IMPERIAL_CHR_melania: "Melania" #!Empty_LineInfo!
+	IMPERIAL_CHR_eyoma: "Eyoma" #!Empty_LineInfo!
+	IMPERIAL_CHR_melitta: "Melitta" #!Empty_LineInfo!
+	IMPERIAL_CHR_melodia: "Melodia" #!Empty_LineInfo!
+	IMPERIAL_CHR_naida: "Naida" #!Empty_LineInfo!
+	IMPERIAL_CHR_narcissa: "Narcissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_nastasya: "Nastasya" #!Empty_LineInfo!
+	IMPERIAL_CHR_nephele: "Nephele" #!Empty_LineInfo!
+	IMPERIAL_CHR_nerissa: "Nerissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_nika: "Nika" #!Empty_LineInfo!
+	IMPERIAL_CHR_nikita: "Nikita" #!Empty_LineInfo!
+	IMPERIAL_CHR_niobe: "Niobe" #!Empty_LineInfo!
+	IMPERIAL_CHR_nyssa: "Nyssa" #!Empty_LineInfo!
+	IMPERIAL_CHR_nyxa: "Nyxa" #!Empty_LineInfo!
+	IMPERIAL_CHR_odessa: "Odessa" #!Empty_LineInfo!
+	IMPERIAL_CHR_olena: "Olena" #!Empty_LineInfo!
+	IMPERIAL_CHR_ophelia: "Ophelia" #!Empty_LineInfo!
+	IMPERIAL_CHR_oxelia: "Oxelia" #!Empty_LineInfo!
+	IMPERIAL_CHR_parthena: "Parthena" #!Empty_LineInfo!
+	IMPERIAL_CHR_penelope: "Penelope" #!Empty_LineInfo!
+	IMPERIAL_CHR_peta: "Peta" #!Empty_LineInfo!
+	IMPERIAL_CHR_petra: "Petra" #!Empty_LineInfo!
+	IMPERIAL_CHR_petrina: "Petrina" #!Empty_LineInfo!
+	IMPERIAL_CHR_phaedra: "Phaedra" #!Empty_LineInfo!
+	IMPERIAL_CHR_fadera: "Fadera" #!Empty_LineInfo!
+	IMPERIAL_CHR_raiza: "Raiza" #!Empty_LineInfo!
+	IMPERIAL_CHR_rhoda: "Rhoda" #!Empty_LineInfo!
+	IMPERIAL_CHR_zelena: "Zelena" #!Empty_LineInfo!
+	IMPERIAL_CHR_xenja: "Xenja" #!Empty_LineInfo!
+	IMPERIAL_CHR_senga: "Senga" #!Empty_LineInfo!
+	IMPERIAL_CHR_senja: "Senja" #!Empty_LineInfo!
+	IMPERIAL_CHR_sibyl: "Sibyl" #!Empty_LineInfo!
+	IMPERIAL_CHR_sonia: "Sonia" #!Empty_LineInfo!
+	IMPERIAL_CHR_sophronia: "Sophronia" #!Empty_LineInfo!
+	IMPERIAL_CHR_stazya: "Stazya" #!Empty_LineInfo!
+	IMPERIAL_CHR_zandra: "Zandra" #!Empty_LineInfo!
+	IMPERIAL_CHR_tazia: "Tazia" #!Empty_LineInfo!
+	IMPERIAL_CHR_titania: "Titania" #!Empty_LineInfo!
+	IMPERIAL_CHR_tryphena: "Tryphena" #!Empty_LineInfo!
+	IMPERIAL_CHR_trina: "Trina" #!Empty_LineInfo!
+	IMPERIAL_CHR_ulyssa: "Ulyssa" #!Empty_LineInfo!
+	IMPERIAL_CHR_varvara: "Varvara" #!Empty_LineInfo!
+	IMPERIAL_CHR_varya: "Varya" #!Empty_LineInfo!
+	IMPERIAL_CHR_vitaliya: "Vitaliya" #!Empty_LineInfo!
+	IMPERIAL_CHR_xylia: "Xylia" #!Empty_LineInfo!
+	IMPERIAL_CHR_yelena: "Yelena" #!Empty_LineInfo!
+	IMPERIAL_CHR_zinovia: "Zinovia" #!Empty_LineInfo!
+	IMPERIAL_CHR_zosia: "Zosia" #!Empty_LineInfo!
+	IMPERIAL_CHR_zoya: "Zoya" #!Empty_LineInfo!
+	IMPERIAL_CHR_zsofia: "Zsofia" #!Empty_LineInfo!
+	IMPERIAL_CHR_vonreg: "Vonreg" #!Empty_LineInfo!
+	IMPERIAL_CHR_sienar: "Sienar" #!Empty_LineInfo!
+	IMPERIAL_CHR_dlarit: "Dlarit" #!Empty_LineInfo!
+	IMPERIAL_CHR_fel: "Fel" #!Empty_LineInfo!
+	IMPERIAL_CHR_kuat: "Kuat" #!Empty_LineInfo!
+	IMPERIAL_CHR_tagge: "Tagge" #!Empty_LineInfo!
+	IMPERIAL_CHR_brentioch: "Brentioch" #!Empty_LineInfo!
+	IMPERIAL_CHR_veers: "Veers" #!Empty_LineInfo!
+	IMPERIAL_CHR_disra: "Disra" #!Empty_LineInfo!
+	IMPERIAL_CHR_vandron: "Vandron" #!Empty_LineInfo!
+	IMPERIAL_CHR_elegin: "Elegin" #!Empty_LineInfo!
+	IMPERIAL_CHR_pelagia: "Pelagia" #!Empty_LineInfo!
+	IMPERIAL_CHR_azadi: "Azadi" #!Empty_LineInfo!
+	IMPERIAL_CHR_balfour: "Balfour" #!Empty_LineInfo!
+	IMPERIAL_CHR_essada: "Essada" #!Empty_LineInfo!
+	IMPERIAL_CHR_ghadi: "Ghadi" #!Empty_LineInfo!
+	IMPERIAL_CHR_jerjerrod: "Jerjerrod" #!Empty_LineInfo!
+	IMPERIAL_CHR_panaka: "Panaka" #!Empty_LineInfo!
+	IMPERIAL_CHR_tavira: "Tavira" #!Empty_LineInfo!
+	IMPERIAL_CHR_vanko: "Vanko" #!Empty_LineInfo!
+	IMPERIAL_CHR_wessex: "Wessex" #!Empty_LineInfo!
+	IMPERIAL_CHR_tarkin: "Tarkin" #!Empty_LineInfo!
+	IMPERIAL_CHR_hissa: "Hissa" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaine: "Kaine" #!Empty_LineInfo!
+	IMPERIAL_CHR_randd: "Randd" #!Empty_LineInfo!
+	IMPERIAL_CHR_krennic: "Krennic" #!Empty_LineInfo!
+	IMPERIAL_CHR_ravik: "Ravik" #!Empty_LineInfo!
+	IMPERIAL_CHR_tigellinus: "Tigellinus" #!Empty_LineInfo!
+	IMPERIAL_CHR_daala: "Daala" #!Empty_LineInfo!
+	IMPERIAL_CHR_zsinj: "Zsinj" #!Empty_LineInfo!
+	IMPERIAL_CHR_screed: "Screed" #!Empty_LineInfo!
+	IMPERIAL_CHR_isard: "Isard" #!Empty_LineInfo!
+	IMPERIAL_CHR_rogriss: "Rogriss" #!Empty_LineInfo!
+	IMPERIAL_CHR_petothel: "Petothel" #!Empty_LineInfo!
+	IMPERIAL_CHR_harsk: "Harsk" #!Empty_LineInfo!
+	IMPERIAL_CHR_hux: "Hux" #!Empty_LineInfo!
+	IMPERIAL_CHR_stevis: "Stevis" #!Empty_LineInfo!
+	IMPERIAL_CHR_bast: "Bast" #!Empty_LineInfo!
+	IMPERIAL_CHR_yularen: "Yularen" #!Empty_LineInfo!
+	IMPERIAL_CHR_cass: "Cass" #!Empty_LineInfo!
+	IMPERIAL_CHR_molock: "Molock" #!Empty_LineInfo!
+	IMPERIAL_CHR_romodi: "Romodi" #!Empty_LineInfo!
+	IMPERIAL_CHR_durmin: "Durmin" #!Empty_LineInfo!
+	IMPERIAL_CHR_stihl: "Stihl" #!Empty_LineInfo!
+	IMPERIAL_CHR_greejatus: "Greejatus" #!Empty_LineInfo!
+	IMPERIAL_CHR_blista_vanee: "Blista-Vanee" #!Empty_LineInfo!
+	IMPERIAL_CHR_d_asta: "D'Asta" #!Empty_LineInfo!
+	IMPERIAL_CHR_pradeux: "Pradeux" #!Empty_LineInfo!
+	IMPERIAL_CHR_pestage: "Pestage" #!Empty_LineInfo!
+	IMPERIAL_CHR_carvin: "Carvin" #!Empty_LineInfo!
+	IMPERIAL_CHR_sinn: "Sinn" #!Empty_LineInfo!
+	IMPERIAL_CHR_baanjeer: "Baanjeer" #!Empty_LineInfo!
+	IMPERIAL_CHR_wessel: "Wessel" #!Empty_LineInfo!
+	IMPERIAL_CHR_starypyre: "Starypyre" #!Empty_LineInfo!
+	IMPERIAL_CHR_windcaller: "Windcaller" #!Empty_LineInfo!
+	IMPERIAL_CHR_krennel: "Krennel" #!Empty_LineInfo!
+	IMPERIAL_CHR_derricote: "Derricote" #!Empty_LineInfo!
+	IMPERIAL_CHR_yonka: "Yonka" #!Empty_LineInfo!
+	IMPERIAL_CHR_brie: "Brie" #!Empty_LineInfo!
+	IMPERIAL_CHR_axmis: "Axmis" #!Empty_LineInfo!
+	IMPERIAL_CHR_tremayne: "Tremayne" #!Empty_LineInfo!
+	IMPERIAL_CHR_delvardus: "Delvardus" #!Empty_LineInfo!
+	IMPERIAL_CHR_devian: "Devian" #!Empty_LineInfo!
+	IMPERIAL_CHR_grunger: "Grunger" #!Empty_LineInfo!
+	IMPERIAL_CHR_harrsk: "Harrsk" #!Empty_LineInfo!
+	IMPERIAL_CHR_pitta: "Pitta" #!Empty_LineInfo!
+	IMPERIAL_CHR_batch: "Batch" #!Empty_LineInfo!
+	IMPERIAL_CHR_declann: "Declann" #!Empty_LineInfo!
+	IMPERIAL_CHR_grant: "Grant" #!Empty_LineInfo!
+	IMPERIAL_CHR_makati: "Makati" #!Empty_LineInfo!
+	IMPERIAL_CHR_syn: "Syn" #!Empty_LineInfo!
+	IMPERIAL_CHR_takel: "Takel" #!Empty_LineInfo!
+	IMPERIAL_CHR_teshik: "Teshik" #!Empty_LineInfo!
+	IMPERIAL_CHR_zaarin: "Zaarin" #!Empty_LineInfo!
+	IMPERIAL_CHR_valorum: "Valorum" #!Empty_LineInfo!
+	IMPERIAL_CHR_piett: "Piett" #!Empty_LineInfo!
+	IMPERIAL_CHR_ozzel: "Ozzel" #!Empty_LineInfo!
+	IMPERIAL_CHR_rax: "Rax" #!Empty_LineInfo!
+	IMPERIAL_CHR_montferrat: "Montferrat" #!Empty_LineInfo!
+	IMPERIAL_CHR_praji: "Praji" #!Empty_LineInfo!
+	IMPERIAL_CHR_draay: "Draay" #!Empty_LineInfo!
+	IMPERIAL_CHR_vahali: "Vahali" #!Empty_LineInfo!
+	IMPERIAL_CHR_sloane: "Sloane" #!Empty_LineInfo!
+	IMPERIAL_CHR_ree: "Ree" #!Empty_LineInfo!
+	IMPERIAL_CHR_tua: "Tua" #!Empty_LineInfo!
+	IMPERIAL_CHR_pryce: "Pryce" #!Empty_LineInfo!
+	IMPERIAL_CHR_brunson: "Brunson" #!Empty_LineInfo!
+	IMPERIAL_CHR_ismaren: "Ismaren" #!Empty_LineInfo!
+	IMPERIAL_CHR_naberrie: "Naberrie" #!Empty_LineInfo!
+	IMPERIAL_CHR_parnelli: "Parnelli" #!Empty_LineInfo!
+	IMPERIAL_CHR_tapalo: "Tapalo" #!Empty_LineInfo!
+	IMPERIAL_CHR_veruna: "Veruna" #!Empty_LineInfo!
+	IMPERIAL_CHR_priam: "Priam" #!Empty_LineInfo!
+	IMPERIAL_CHR_gage: "Gage" #!Empty_LineInfo!
+	IMPERIAL_CHR_gralm: "Gralm" #!Empty_LineInfo!
+	IMPERIAL_CHR_starck: "Starck" #!Empty_LineInfo!
+	IMPERIAL_CHR_page: "Page" #!Empty_LineInfo!
+	IMPERIAL_CHR_tierce: "Tierce" #!Empty_LineInfo!
+	IMPERIAL_CHR_pryde: "Pryde" #!Empty_LineInfo!
+	IMPERIAL_CHR_hask: "Hask" #!Empty_LineInfo!
+	IMPERIAL_CHR_steele: "Steele" #!Empty_LineInfo!
+	IMPERIAL_CHR_phennir: "Phennir" #!Empty_LineInfo!
+	IMPERIAL_CHR_erso: "Erso" #!Empty_LineInfo!
+	IMPERIAL_CHR_pershing: "Pershing" #!Empty_LineInfo!
+	IMPERIAL_CHR_fyyar: "Fyyar" #!Empty_LineInfo!
+	IMPERIAL_CHR_kallus: "Kallus" #!Empty_LineInfo!
+	IMPERIAL_CHR_autem: "Autem" #!Empty_LineInfo!
+	IMPERIAL_CHR_janarus: "Janarus" #!Empty_LineInfo!
+	IMPERIAL_CHR_konstantine: "Konstantine" #!Empty_LineInfo!
+	IMPERIAL_CHR_versio: "Versio" #!Empty_LineInfo!
+	IMPERIAL_CHR_morne: "Morne" #!Empty_LineInfo!
+	IMPERIAL_CHR_needa: "Needa" #!Empty_LineInfo!
+	IMPERIAL_CHR_pavan: "Pavan" #!Empty_LineInfo!
+	IMPERIAL_CHR_sah_c: "Sah'c" #!Empty_LineInfo!
+	IMPERIAL_CHR_umber: "Umber" #!Empty_LineInfo!
+	IMPERIAL_CHR_hirken: "Hirken" #!Empty_LineInfo!
+	IMPERIAL_CHR_holt: "Holt" #!Empty_LineInfo!
+	IMPERIAL_CHR_onasi: "Onasi" #!Empty_LineInfo!
+	IMPERIAL_CHR_karath: "Karath" #!Empty_LineInfo!
+	IMPERIAL_CHR_adalric: "Adalric" #!Empty_LineInfo!
+	IMPERIAL_CHR_cessius: "Cessius" #!Empty_LineInfo!
+	IMPERIAL_CHR_ennix: "Ennix" #!Empty_LineInfo!
+	IMPERIAL_CHR_lon: "Lon" #!Empty_LineInfo!
+	IMPERIAL_CHR_inos: "Inos" #!Empty_LineInfo!
+	IMPERIAL_CHR_cinzero: "Cinzero" #!Empty_LineInfo!
+	IMPERIAL_CHR_iolan: "Iolan" #!Empty_LineInfo!
+	IMPERIAL_CHR_tol: "Tol" #!Empty_LineInfo!
+	IMPERIAL_CHR_par: "Par" #!Empty_LineInfo!
+	IMPERIAL_CHR_arndall: "Arndall" #!Empty_LineInfo!
+	IMPERIAL_CHR_afsheen: "Afsheen" #!Empty_LineInfo!
+	IMPERIAL_CHR_griff: "Griff" #!Empty_LineInfo!
+	IMPERIAL_CHR_eixes: "Eixes" #!Empty_LineInfo!
+	IMPERIAL_CHR_liegeus: "Liegeus" #!Empty_LineInfo!
+	IMPERIAL_CHR_lithio: "Lithio" #!Empty_LineInfo!
+	IMPERIAL_CHR_tyler: "Tyler" #!Empty_LineInfo!
+	IMPERIAL_CHR_derrica: "Derrica" #!Empty_LineInfo!
+	IMPERIAL_CHR_jideon: "Jideon" #!Empty_LineInfo!
+	IMPERIAL_CHR_tannon: "Tannon" #!Empty_LineInfo!
+	IMPERIAL_CHR_nahdonnis: "Nahdonnis" #!Empty_LineInfo!
+	IMPERIAL_CHR_barrison: "Barrison" #!Empty_LineInfo!
+	IMPERIAL_CHR_vidar: "Vidar" #!Empty_LineInfo!
+	IMPERIAL_CHR_ars: "Ars" #!Empty_LineInfo!
+	IMPERIAL_CHR_gaevril: "Gaevril" #!Empty_LineInfo!
+	IMPERIAL_CHR_belkor: "Belkor" #!Empty_LineInfo!
+	IMPERIAL_CHR_kentor: "Kentor" #!Empty_LineInfo!
+	IMPERIAL_CHR_davod: "Davod" #!Empty_LineInfo!
+	IMPERIAL_CHR_anton: "Anton" #!Empty_LineInfo!
+	IMPERIAL_CHR_abal: "Abal" #!Empty_LineInfo!
+	IMPERIAL_CHR_reynol: "Reynol" #!Empty_LineInfo!
+	IMPERIAL_CHR_adion: "Adion" #!Empty_LineInfo!
+	IMPERIAL_CHR_treyz: "Treyz" #!Empty_LineInfo!
+	IMPERIAL_CHR_vam: "Vam" #!Empty_LineInfo!
+	IMPERIAL_CHR_mosh: "Mosh" #!Empty_LineInfo!
+	IMPERIAL_CHR_barson: "Barson" #!Empty_LineInfo!
+	IMPERIAL_CHR_radaf: "Radaf" #!Empty_LineInfo!
+	IMPERIAL_CHR_irlyn: "Irlyn" #!Empty_LineInfo!
+	IMPERIAL_CHR_kale: "Kale" #!Empty_LineInfo!
+	IMPERIAL_CHR_xexus: "Xexus" #!Empty_LineInfo!
+	IMPERIAL_CHR_jenn: "Jenn" #!Empty_LineInfo!
+	IMPERIAL_CHR_taver: "Taver" #!Empty_LineInfo!
+	IMPERIAL_CHR_dellis: "Dellis" #!Empty_LineInfo!
+	IMPERIAL_CHR_icus: "Icus" #!Empty_LineInfo!
+	IMPERIAL_CHR_yupe: "Yupe" #!Empty_LineInfo!
+	IMPERIAL_CHR_moden: "Moden" #!Empty_LineInfo!
+	IMPERIAL_CHR_masir: "Masir" #!Empty_LineInfo!
+	IMPERIAL_CHR_lodent: "Lodent" #!Empty_LineInfo!
+	IMPERIAL_CHR_erich: "Erich" #!Empty_LineInfo!
+	IMPERIAL_CHR_ansiv: "Ansiv" #!Empty_LineInfo!
+	IMPERIAL_CHR_janson: "Janson" #!Empty_LineInfo!
+	IMPERIAL_CHR_tur: "Tur" #!Empty_LineInfo!
+	IMPERIAL_CHR_joak: "Joak" #!Empty_LineInfo!
+	IMPERIAL_CHR_morit: "Morit" #!Empty_LineInfo!
+	IMPERIAL_CHR_sirro: "Sirro" #!Empty_LineInfo!
+	IMPERIAL_CHR_druth: "Druth" #!Empty_LineInfo!
+	IMPERIAL_CHR_rom: "Rom" #!Empty_LineInfo!
+	IMPERIAL_CHR_jeres: "Jeres" #!Empty_LineInfo!
+	IMPERIAL_CHR_leonis: "Leonis" #!Empty_LineInfo!
+	IMPERIAL_CHR_thull: "Thull" #!Empty_LineInfo!
+	IMPERIAL_CHR_fane: "Fane" #!Empty_LineInfo!
+	IMPERIAL_CHR_royd: "Royd" #!Empty_LineInfo!
+	IMPERIAL_CHR_sigit: "Sigit" #!Empty_LineInfo!
+	IMPERIAL_CHR_dron: "Dron" #!Empty_LineInfo!
+	IMPERIAL_CHR_venco: "Venco" #!Empty_LineInfo!
+	IMPERIAL_CHR_sagoro: "Sagoro" #!Empty_LineInfo!
+	IMPERIAL_CHR_reymet: "Reymet" #!Empty_LineInfo!
+	IMPERIAL_CHR_ulfor: "Ulfor" #!Empty_LineInfo!
+	IMPERIAL_CHR_lillea: "Lillea" #!Empty_LineInfo!
+	IMPERIAL_CHR_calder: "Calder" #!Empty_LineInfo!
+	IMPERIAL_CHR_led: "Led" #!Empty_LineInfo!
+	IMPERIAL_CHR_tan: "Tan" #!Empty_LineInfo!
+	IMPERIAL_CHR_arrisan: "Arrisan" #!Empty_LineInfo!
+	IMPERIAL_CHR_castin: "Castin" #!Empty_LineInfo!
+	IMPERIAL_CHR_drako: "Drako" #!Empty_LineInfo!
+	IMPERIAL_CHR_noa: "Noa" #!Empty_LineInfo!
+	IMPERIAL_CHR_finn: "Finn" #!Empty_LineInfo!
+	IMPERIAL_CHR_jervis: "Jervis" #!Empty_LineInfo!
+	IMPERIAL_CHR_davu: "Davu" #!Empty_LineInfo!
+	IMPERIAL_CHR_ottegru: "Ottegru" #!Empty_LineInfo!
+	IMPERIAL_CHR_dorian: "Dorian" #!Empty_LineInfo!
+	IMPERIAL_CHR_kanan: "Kanan" #!Empty_LineInfo!
+	IMPERIAL_CHR_joshua: "Joshua" #!Empty_LineInfo!
+	IMPERIAL_CHR_gaawynn: "Gaawynn" #!Empty_LineInfo!
+	IMPERIAL_CHR_rikael: "Rikael" #!Empty_LineInfo!
+	IMPERIAL_CHR_lysandros: "Lysandros" #!Empty_LineInfo!
+	IMPERIAL_CHR_lorth: "Lorth" #!Empty_LineInfo!
+	IMPERIAL_CHR_kessin: "Kessin" #!Empty_LineInfo!
+	IMPERIAL_CHR_nerro: "Nerro" #!Empty_LineInfo!
+	IMPERIAL_CHR_vax: "Vax" #!Empty_LineInfo!
+	IMPERIAL_CHR_artuo: "Artuo" #!Empty_LineInfo!
+	IMPERIAL_CHR_tero: "Tero" #!Empty_LineInfo!
+	IMPERIAL_CHR_terren: "Terren" #!Empty_LineInfo!
+	IMPERIAL_CHR_rorak: "Rorak" #!Empty_LineInfo!
+	IMPERIAL_CHR_coruum: "Coruum" #!Empty_LineInfo!
+	IMPERIAL_CHR_archa: "Archa" #!Empty_LineInfo!
+	IMPERIAL_CHR_barit: "Barit" #!Empty_LineInfo!
+	IMPERIAL_CHR_ephin: "Ephin" #!Empty_LineInfo!
+	IMPERIAL_CHR_elan: "Elan" #!Empty_LineInfo!
+	IMPERIAL_CHR_civ: "Civ" #!Empty_LineInfo!
+	IMPERIAL_CHR_hasray: "Hasray" #!Empty_LineInfo!
+	IMPERIAL_CHR_adray: "Adray" #!Empty_LineInfo!
+	IMPERIAL_CHR_vlacan: "Vlacan" #!Empty_LineInfo!
+	IMPERIAL_CHR_horatio: "Horatio" #!Empty_LineInfo!
+	IMPERIAL_CHR_horus: "Horus" #!Empty_LineInfo!
+	IMPERIAL_CHR_elon: "Elon" #!Empty_LineInfo!
+	IMPERIAL_CHR_domitus: "Domitus" #!Empty_LineInfo!
+	IMPERIAL_CHR_felix: "Felix" #!Empty_LineInfo!
+	IMPERIAL_CHR_hadrianus: "Hadrianus" #!Empty_LineInfo!
+	IMPERIAL_CHR_hadrian: "Hadrian" #!Empty_LineInfo!
+	IMPERIAL_CHR_marcellus: "Marcellus" #!Empty_LineInfo!
+	IMPERIAL_CHR_markus: "Markus" #!Empty_LineInfo!
+	IMPERIAL_CHR_marianus: "Marianus" #!Empty_LineInfo!
+	IMPERIAL_CHR_maximus: "Maximus" #!Empty_LineInfo!
+	IMPERIAL_CHR_titus: "Titus" #!Empty_LineInfo!
+	IMPERIAL_CHR_vitus: "Vitus" #!Empty_LineInfo!
+	IMPERIAL_CHR_albus: "Albus" #!Empty_LineInfo!
+	IMPERIAL_CHR_aloysius: "Aloysius" #!Empty_LineInfo!
+	IMPERIAL_CHR_amadeus: "Amadeus" #!Empty_LineInfo!
+	IMPERIAL_CHR_ambrosius: "Ambrosius" #!Empty_LineInfo!
+	IMPERIAL_CHR_aridius: "Aridius" #!Empty_LineInfo!
+	IMPERIAL_CHR_attikos: "Attikos" #!Empty_LineInfo!
+	IMPERIAL_CHR_konsus: "Konsus" #!Empty_LineInfo!
+	IMPERIAL_CHR_evander: "Evander" #!Empty_LineInfo!
+	IMPERIAL_CHR_mar: "Mar" #!Empty_LineInfo!
+	IMPERIAL_CHR_numitor: "Numitor" #!Empty_LineInfo!
+	IMPERIAL_CHR_remus: "Remus" #!Empty_LineInfo!
+	IMPERIAL_CHR_sarut: "Sarut" #!Empty_LineInfo!
+	IMPERIAL_CHR_silvan: "Silvan" #!Empty_LineInfo!
+	IMPERIAL_CHR_vulx: "Vulx" #!Empty_LineInfo!
+	IMPERIAL_CHR_aelius: "Aelius" #!Empty_LineInfo!
+	IMPERIAL_CHR_aetius: "Aetius" #!Empty_LineInfo!
+	IMPERIAL_CHR_appius: "Appius" #!Empty_LineInfo!
+	IMPERIAL_CHR_brutus: "Brutus" #!Empty_LineInfo!
+	IMPERIAL_CHR_cato: "Cato" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaelius: "Kaelius" #!Empty_LineInfo!
+	IMPERIAL_CHR_kelsus: "Kelsus" #!Empty_LineInfo!
+	IMPERIAL_CHR_koelius: "Koelius" #!Empty_LineInfo!
+	IMPERIAL_CHR_decimus: "Decimus" #!Empty_LineInfo!
+	IMPERIAL_CHR_zabius: "Zabius" #!Empty_LineInfo!
+	IMPERIAL_CHR_xaustus: "Xaustus" #!Empty_LineInfo!
+	IMPERIAL_CHR_xavier: "Xavier" #!Empty_LineInfo!
+	IMPERIAL_CHR_xabius: "Xabius" #!Empty_LineInfo!
+	IMPERIAL_CHR_xermanus: "Xermanus" #!Empty_LineInfo!
+	IMPERIAL_CHR_regulus: "Regulus" #!Empty_LineInfo!
+	IMPERIAL_CHR_allectus: "Allectus" #!Empty_LineInfo!
+	IMPERIAL_CHR_avitus: "Avitus" #!Empty_LineInfo!
+	IMPERIAL_CHR_karus: "Karus" #!Empty_LineInfo!
+	IMPERIAL_CHR_klautius: "Klautius" #!Empty_LineInfo!
+	IMPERIAL_CHR_klodius: "Klodius" #!Empty_LineInfo!
+	IMPERIAL_CHR_domitax: "Domitax" #!Empty_LineInfo!
+	IMPERIAL_CHR_pertinax: "Pertinax" #!Empty_LineInfo!
+	IMPERIAL_CHR_vaxerian: "Vaxerian" #!Empty_LineInfo!
+	IMPERIAL_CHR_vexpasian: "Vexpasian" #!Empty_LineInfo!
+	IMPERIAL_CHR_alek: "Alek" #!Empty_LineInfo!
+	IMPERIAL_CHR_alaxtair: "Alaxtair" #!Empty_LineInfo!
+	IMPERIAL_CHR_aleksander: "Aleksander" #!Empty_LineInfo!
+	IMPERIAL_CHR_alexsy: "Alexsy" #!Empty_LineInfo!
+	IMPERIAL_CHR_ander: "Ander" #!Empty_LineInfo!
+	IMPERIAL_CHR_androniko: "Androniko" #!Empty_LineInfo!
+	IMPERIAL_CHR_andrzej: "Andrzej" #!Empty_LineInfo!
+	IMPERIAL_CHR_antero: "Antero" #!Empty_LineInfo!
+	IMPERIAL_CHR_antreas: "Antreas" #!Empty_LineInfo!
+	IMPERIAL_CHR_arastox: "Arastox" #!Empty_LineInfo!
+	IMPERIAL_CHR_atkar: "Atkar" #!Empty_LineInfo!
+	IMPERIAL_CHR_atrei: "Atrei" #!Empty_LineInfo!
+	IMPERIAL_CHR_tyro: "Tyro" #!Empty_LineInfo!
+	IMPERIAL_CHR_atreo: "Atreo" #!Empty_LineInfo!
+	IMPERIAL_CHR_cyrik: "Cyrik" #!Empty_LineInfo!
+	IMPERIAL_CHR_damin: "Damin" #!Empty_LineInfo!
+	IMPERIAL_CHR_dimitrin: "Dimitrin" #!Empty_LineInfo!
+	IMPERIAL_CHR_dyso: "Dyso" #!Empty_LineInfo!
+	IMPERIAL_CHR_elek: "Elek" #!Empty_LineInfo!
+	IMPERIAL_CHR_ferrik: "Ferrik" #!Empty_LineInfo!
+	IMPERIAL_CHR_gavriil: "Gavriil" #!Empty_LineInfo!
+	IMPERIAL_CHR_gregor: "Gregor" #!Empty_LineInfo!
+	IMPERIAL_CHR_koraan: "Koraan" #!Empty_LineInfo!
+	IMPERIAL_CHR_hectox: "Hectox" #!Empty_LineInfo!
+	IMPERIAL_CHR_heitor: "Heitor" #!Empty_LineInfo!
+	IMPERIAL_CHR_helio: "Helio" #!Empty_LineInfo!
+	IMPERIAL_CHR_icar: "Icar" #!Empty_LineInfo!
+	IMPERIAL_CHR_iosif: "Iosif" #!Empty_LineInfo!
+	IMPERIAL_CHR_iskander: "Iskander" #!Empty_LineInfo!
+	IMPERIAL_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
+	IMPERIAL_CHR_jory: "Jory" #!Empty_LineInfo!
+	IMPERIAL_CHR_jurek: "Jurek" #!Empty_LineInfo!
+	IMPERIAL_CHR_khronos: "Khronos" #!Empty_LineInfo!
+	IMPERIAL_CHR_lukacs: "Lukacs" #!Empty_LineInfo!
+	IMPERIAL_CHR_lysander: "Lysander" #!Empty_LineInfo!
+	IMPERIAL_CHR_lysanderoth: "Lysanderoth" #!Empty_LineInfo!
+	IMPERIAL_CHR_haddius: "Haddius" #!Empty_LineInfo!
+	IMPERIAL_CHR_tavin: "Tavin" #!Empty_LineInfo!
+	IMPERIAL_CHR_jayshon: "Jayshon" #!Empty_LineInfo!
+	IMPERIAL_CHR_vidian: "Vidian" #!Empty_LineInfo!
+	IMPERIAL_CHR_redrish: "Redrish" #!Empty_LineInfo!
+	IMPERIAL_CHR_purkis: "Purkis" #!Empty_LineInfo!
+	IMPERIAL_CHR_kuhlvult: "Kuhlvult" #!Empty_LineInfo!
+	IMPERIAL_CHR_knylenn: "Knylenn" #!Empty_LineInfo!
+	IMPERIAL_CHR_kadnessia: "Kadnessia" #!Empty_LineInfo!
+	IMPERIAL_CHR_depon: "Depon" #!Empty_LineInfo!
+	IMPERIAL_CHR_andrim: "Andrim" #!Empty_LineInfo!
+	IMPERIAL_CHR_keto: "Keto" #!Empty_LineInfo!
+	IMPERIAL_CHR_curovao: "Curovao" #!Empty_LineInfo!
+	IMPERIAL_CHR_dajaal: "Dajaal" #!Empty_LineInfo!
+	IMPERIAL_CHR_hall_jo_uda: "Hall Jo'uda" #!Empty_LineInfo!
+	IMPERIAL_CHR_kallea: "Kallea" #!Empty_LineInfo!
+	IMPERIAL_CHR_okeefe: "Okeefe" #!Empty_LineInfo!
+	IMPERIAL_CHR_araba: "Araba" #!Empty_LineInfo!
+	IMPERIAL_CHR_carbinol: "Carbinol" #!Empty_LineInfo!
+	IMPERIAL_CHR_garonnin: "Garonnin" #!Empty_LineInfo!
+	IMPERIAL_CHR_kassido: "Kassido" #!Empty_LineInfo!
+	IMPERIAL_CHR_kellermin: "Kellermin" #!Empty_LineInfo!
+	IMPERIAL_CHR_mekuun: "Mekuun" #!Empty_LineInfo!
+	IMPERIAL_CHR_petro: "Petro" #!Empty_LineInfo!
+	IMPERIAL_CHR_picutorion: "Picutorion" #!Empty_LineInfo!
+	IMPERIAL_CHR_pilor: "Pilor" #!Empty_LineInfo!
+	IMPERIAL_CHR_sisemon: "Sisemon" #!Empty_LineInfo!
+	IMPERIAL_CHR_sreethyn: "Sreethyn" #!Empty_LineInfo!
+	IMPERIAL_CHR_taneel: "Taneel" #!Empty_LineInfo!
+	IMPERIAL_CHR_viholn: "Viholn" #!Empty_LineInfo!
+	IMPERIAL_CHR_isobe: "Isobe" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaon: "Kaon" #!Empty_LineInfo!
+	IMPERIAL_CHR_karyvin: "Karyvin" #!Empty_LineInfo!
+	IMPERIAL_CHR_barnaba: "Barnaba" #!Empty_LineInfo!
+	IMPERIAL_CHR_baron: "Baron" #!Empty_LineInfo!
+	IMPERIAL_CHR_cadriaan: "Cadriaan" #!Empty_LineInfo!
+	IMPERIAL_CHR_calipsa: "Calipsa" #!Empty_LineInfo!
+	IMPERIAL_CHR_reena: "Reena" #!Empty_LineInfo!
+	IMPERIAL_CHR_mecetti: "Mecetti" #!Empty_LineInfo!
+	IMPERIAL_CHR_melantha: "Melantha" #!Empty_LineInfo!
+	IMPERIAL_CHR_melissus: "Melissus" #!Empty_LineInfo!
+	IMPERIAL_CHR_nidantha: "Nidantha" #!Empty_LineInfo!
+	IMPERIAL_CHR_adelhard: "Adelhard" #!Empty_LineInfo!
+	IMPERIAL_CHR_callron: "Callron" #!Empty_LineInfo!
+	IMPERIAL_CHR_comark: "Comark" #!Empty_LineInfo!
+	IMPERIAL_CHR_darcc: "Darcc" #!Empty_LineInfo!
+	IMPERIAL_CHR_greyshade: "Greyshade" #!Empty_LineInfo!
+	IMPERIAL_CHR_haveland: "Haveland" #!Empty_LineInfo!
+	IMPERIAL_CHR_harson: "Harson" #!Empty_LineInfo!
+	IMPERIAL_CHR_kadir: "Kadir" #!Empty_LineInfo!
+	IMPERIAL_CHR_kerioth: "Kerioth" #!Empty_LineInfo!
+	IMPERIAL_CHR_mors: "Mors" #!Empty_LineInfo!
+	IMPERIAL_CHR_bartam: "Bartam" #!Empty_LineInfo!
+	IMPERIAL_CHR_dargon: "Dargon" #!Empty_LineInfo!
+	IMPERIAL_CHR_immodet: "Immodet" #!Empty_LineInfo!
+	IMPERIAL_CHR_jeratai: "Jeratai" #!Empty_LineInfo!
+	IMPERIAL_CHR_carivus: "Carivus" #!Empty_LineInfo!
+	IMPERIAL_CHR_kennede: "Kennede" #!Empty_LineInfo!
+	IMPERIAL_CHR_kanos: "Kanos" #!Empty_LineInfo!
+	IMPERIAL_CHR_jandi: "Jandi" #!Empty_LineInfo!
+	IMPERIAL_CHR_brandll: "Brandll" #!Empty_LineInfo!
+	IMPERIAL_CHR_delurin: "Delurin" #!Empty_LineInfo!
+	IMPERIAL_CHR_donell: "Donell" #!Empty_LineInfo!
+	IMPERIAL_CHR_drommel: "Drommel" #!Empty_LineInfo!
+	IMPERIAL_CHR_fonada: "Fonada" #!Empty_LineInfo!
+	IMPERIAL_CHR_gann: "Gann" #!Empty_LineInfo!
+	IMPERIAL_CHR_gendarr: "Gendarr" #!Empty_LineInfo!
+	IMPERIAL_CHR_getelles: "Getelles" #!Empty_LineInfo!
+	IMPERIAL_CHR_laankin: "Laankin" #!Empty_LineInfo!
+	IMPERIAL_CHR_lott: "Lott" #!Empty_LineInfo!
+	IMPERIAL_CHR_vorn: "Vorn" #!Empty_LineInfo!
+	IMPERIAL_CHR_barck: "Barck" #!Empty_LineInfo!
+	IMPERIAL_CHR_hulis: "Hulis" #!Empty_LineInfo!
+	IMPERIAL_CHR_pryl: "Pryl" #!Empty_LineInfo!
+	IMPERIAL_CHR_eclipse: "Eclipse" #!Empty_LineInfo!
+	IMPERIAL_CHR_jade: "Jade" #!Empty_LineInfo!
+	IMPERIAL_CHR_nanda: "Nanda" #!Empty_LineInfo!
+	IMPERIAL_CHR_borreno: "Borreno" #!Empty_LineInfo!
+	IMPERIAL_CHR_insevade: "Insevade" #!Empty_LineInfo!
+	IMPERIAL_CHR_kim: "Kim" #!Empty_LineInfo!
+	IMPERIAL_CHR_staz: "Staz" #!Empty_LineInfo!
+	IMPERIAL_CHR_adrick: "Adrick" #!Empty_LineInfo!
+	IMPERIAL_CHR_akobi: "Akobi" #!Empty_LineInfo!
+	IMPERIAL_CHR_ardax: "Ardax" #!Empty_LineInfo!
+	IMPERIAL_CHR_arnet: "Arnet" #!Empty_LineInfo!
+	IMPERIAL_CHR_axfow: "Axfow" #!Empty_LineInfo!
+	IMPERIAL_CHR_barris: "Barris" #!Empty_LineInfo!
+	IMPERIAL_CHR_bolandin: "Bolandin" #!Empty_LineInfo!
+	IMPERIAL_CHR_brenna: "Brenna" #!Empty_LineInfo!
+	IMPERIAL_CHR_bryce: "Bryce" #!Empty_LineInfo!
+	IMPERIAL_CHR_carsan: "Carsan" #!Empty_LineInfo!
+	IMPERIAL_CHR_cordo: "Cordo" #!Empty_LineInfo!
+	IMPERIAL_CHR_daraada: "Daraada" #!Empty_LineInfo!
+	IMPERIAL_CHR_devrays: "Devrays" #!Empty_LineInfo!
+	IMPERIAL_CHR_dray: "Dray" #!Empty_LineInfo!
+	IMPERIAL_CHR_earll: "Earll" #!Empty_LineInfo!
+	IMPERIAL_CHR_fawn: "Fawn" #!Empty_LineInfo!
+	IMPERIAL_CHR_ganig: "Ganig" #!Empty_LineInfo!
+	IMPERIAL_CHR_ganner: "Ganner" #!Empty_LineInfo!
+	IMPERIAL_CHR_garn: "Garn" #!Empty_LineInfo!
+	IMPERIAL_CHR_grammel: "Grammel" #!Empty_LineInfo!
+	IMPERIAL_CHR_hayvlin: "Hayvlin" #!Empty_LineInfo!
+	IMPERIAL_CHR_heget: "Heget" #!Empty_LineInfo!
+	IMPERIAL_CHR_sarne: "Sarne" #!Empty_LineInfo!
+	IMPERIAL_CHR_horst: "Horst" #!Empty_LineInfo!
+	IMPERIAL_CHR_hovlinn: "Hovlinn" #!Empty_LineInfo!
+	IMPERIAL_CHR_igar: "Igar" #!Empty_LineInfo!
+	IMPERIAL_CHR_jedselk: "Jedselk" #!Empty_LineInfo!
+	IMPERIAL_CHR_jion: "Jion" #!Empty_LineInfo!
+	IMPERIAL_CHR_karda: "Karda" #!Empty_LineInfo!
+	IMPERIAL_CHR_kosh: "Kosh" #!Empty_LineInfo!
+	IMPERIAL_CHR_kosk: "Kosk" #!Empty_LineInfo!
+	IMPERIAL_CHR_kryll: "Kryll" #!Empty_LineInfo!
+	IMPERIAL_CHR_lang: "Lang" #!Empty_LineInfo!
+	IMPERIAL_CHR_xodell: "Xodell" #!Empty_LineInfo!
+	IMPERIAL_CHR_lekauf: "Lekauf" #!Empty_LineInfo!
+	IMPERIAL_CHR_maldrod: "Maldrod" #!Empty_LineInfo!
+	IMPERIAL_CHR_manech: "Manech" #!Empty_LineInfo!
+	IMPERIAL_CHR_margan: "Margan" #!Empty_LineInfo!
+	IMPERIAL_CHR_marquand: "Marquand" #!Empty_LineInfo!
+	IMPERIAL_CHR_melusar: "Melusar" #!Empty_LineInfo!
+	IMPERIAL_CHR_moore: "Moore" #!Empty_LineInfo!
+	IMPERIAL_CHR_nestroph: "Nestroph" #!Empty_LineInfo!
+	IMPERIAL_CHR_nilo: "Nilo" #!Empty_LineInfo!
+	IMPERIAL_CHR_noda: "Noda" #!Empty_LineInfo!
+	IMPERIAL_CHR_okto: "Okto" #!Empty_LineInfo!
+	IMPERIAL_CHR_raibat: "Raibat" #!Empty_LineInfo!
+	IMPERIAL_CHR_resk: "Resk" #!Empty_LineInfo!
+	IMPERIAL_CHR_shahn: "Shahn" #!Empty_LineInfo!
+	IMPERIAL_CHR_selid: "Selid" #!Empty_LineInfo!
+	IMPERIAL_CHR_shev: "Shev" #!Empty_LineInfo!
+	IMPERIAL_CHR_smeel: "Smeel" #!Empty_LineInfo!
+	IMPERIAL_CHR_soren: "Soren" #!Empty_LineInfo!
+	IMPERIAL_CHR_sunber: "Sunber" #!Empty_LineInfo!
+	IMPERIAL_CHR_sulaamar: "Sulaamar" #!Empty_LineInfo!
+	IMPERIAL_CHR_symes: "Symes" #!Empty_LineInfo!
+	IMPERIAL_CHR_talnin: "Talnin" #!Empty_LineInfo!
+	IMPERIAL_CHR_tantor: "Tantor" #!Empty_LineInfo!
+	IMPERIAL_CHR_tash: "Tash" #!Empty_LineInfo!
+	IMPERIAL_CHR_telik: "Telik" #!Empty_LineInfo!
+	IMPERIAL_CHR_tensiger: "Tensiger" #!Empty_LineInfo!
+	IMPERIAL_CHR_traft: "Traft" #!Empty_LineInfo!
+	IMPERIAL_CHR_treftite: "Treftite" #!Empty_LineInfo!
+	IMPERIAL_CHR_tregor: "Tregor" #!Empty_LineInfo!
+	IMPERIAL_CHR_turrant: "Turrant" #!Empty_LineInfo!
+	IMPERIAL_CHR_tyrix: "Tyrix" #!Empty_LineInfo!
+	IMPERIAL_CHR_vedder: "Vedder" #!Empty_LineInfo!
+	IMPERIAL_CHR_veesle: "Veesle" #!Empty_LineInfo!
+	IMPERIAL_CHR_vintollo: "Vintollo" #!Empty_LineInfo!
+	IMPERIAL_CHR_visalis: "Visalis" #!Empty_LineInfo!
+	IMPERIAL_CHR_volks: "Volks" #!Empty_LineInfo!
+	IMPERIAL_CHR_volta: "Volta" #!Empty_LineInfo!
+	IMPERIAL_CHR_watts: "Watts" #!Empty_LineInfo!
+	IMPERIAL_CHR_tashu: "Tashu" #!Empty_LineInfo!
+	IMPERIAL_CHR_canady: "Canady" #!Empty_LineInfo!
+	IMPERIAL_CHR_trach: "Trach" #!Empty_LineInfo!
+	IMPERIAL_CHR_anjay: "Anjay" #!Empty_LineInfo!
+	IMPERIAL_CHR_barok: "Barok" #!Empty_LineInfo!
+	IMPERIAL_CHR_bascus: "Bascus" #!Empty_LineInfo!
+	IMPERIAL_CHR_cowell: "Cowell" #!Empty_LineInfo!
+	IMPERIAL_CHR_datoo: "Datoo" #!Empty_LineInfo!
+	IMPERIAL_CHR_dormitz: "Dormitz" #!Empty_LineInfo!
+	IMPERIAL_CHR_garan: "Garan" #!Empty_LineInfo!
+	IMPERIAL_CHR_garmuth: "Garmuth" #!Empty_LineInfo!
+	IMPERIAL_CHR_hidreck: "Hidreck" #!Empty_LineInfo!
+	IMPERIAL_CHR_kandia: "Kandia" #!Empty_LineInfo!
+	IMPERIAL_CHR_maso: "Maso" #!Empty_LineInfo!
+	IMPERIAL_CHR_mitaka: "Mitaka" #!Empty_LineInfo!
+	IMPERIAL_CHR_ucce: "Ucce" #!Empty_LineInfo!
+	IMPERIAL_CHR_drysso: "Drysso" #!Empty_LineInfo!
+	IMPERIAL_CHR_herbane: "Herbane" #!Empty_LineInfo!
+	IMPERIAL_CHR_astarte: "Astarte" #!Empty_LineInfo!
+	IMPERIAL_CHR_argonne: "Argonne" #!Empty_LineInfo!
+	IMPERIAL_CHR_anamor: "Anamor" #!Empty_LineInfo!
+	IMPERIAL_CHR_cal_meg: "Cal-Meg" #!Empty_LineInfo!
+	IMPERIAL_CHR_euritarina: "Euritarina" #!Empty_LineInfo!
+	IMPERIAL_CHR_galassian: "Galassian" #!Empty_LineInfo!
+	IMPERIAL_CHR_hegerty: "Hegerty" #!Empty_LineInfo!
+	IMPERIAL_CHR_kip: "Kip" #!Empty_LineInfo!
+	IMPERIAL_CHR_mohc: "Mohc" #!Empty_LineInfo!
+	IMPERIAL_CHR_moridon: "Moridon" #!Empty_LineInfo!
+	IMPERIAL_CHR_olum: "Olum" #!Empty_LineInfo!
+	IMPERIAL_CHR_peturri: "Peturri" #!Empty_LineInfo!
+	IMPERIAL_CHR_pew: "Pew" #!Empty_LineInfo!
+	IMPERIAL_CHR_ranth: "Ranth" #!Empty_LineInfo!
+	IMPERIAL_CHR_rebus: "Rebus" #!Empty_LineInfo!
+	IMPERIAL_CHR_ryall: "Ryall" #!Empty_LineInfo!
+	IMPERIAL_CHR_zan_arbor: "Zan Arbor" #!Empty_LineInfo!
+	IMPERIAL_CHR_agira: "Agira" #!Empty_LineInfo!
+	IMPERIAL_CHR_alima: "Alima" #!Empty_LineInfo!
+	IMPERIAL_CHR_arkmen: "Arkmen" #!Empty_LineInfo!
+	IMPERIAL_CHR_borean: "Borean" #!Empty_LineInfo!
+	IMPERIAL_CHR_brya: "Brya" #!Empty_LineInfo!
+	IMPERIAL_CHR_caglio: "Caglio" #!Empty_LineInfo!
+	IMPERIAL_CHR_celwik: "Celwik" #!Empty_LineInfo!
+	IMPERIAL_CHR_ch_red: "Ch'red" #!Empty_LineInfo!
+	IMPERIAL_CHR_cthon: "Cthon" #!Empty_LineInfo!
+	IMPERIAL_CHR_danoo: "Danoo" #!Empty_LineInfo!
+	IMPERIAL_CHR_daragon: "Daragon" #!Empty_LineInfo!
+	IMPERIAL_CHR_darsk: "Darsk" #!Empty_LineInfo!
+	IMPERIAL_CHR_divo: "Divo" #!Empty_LineInfo!
+	IMPERIAL_CHR_donn: "Donn" #!Empty_LineInfo!
+	IMPERIAL_CHR_notsil: "Notsil" #!Empty_LineInfo!
+	IMPERIAL_CHR_slane: "Slane" #!Empty_LineInfo!
+	IMPERIAL_CHR_dorvald: "Dorvald" #!Empty_LineInfo!
+	IMPERIAL_CHR_dystra: "Dystra" #!Empty_LineInfo!
+	IMPERIAL_CHR_elna: "Elna" #!Empty_LineInfo!
+	IMPERIAL_CHR_endac: "Endac" #!Empty_LineInfo!
+	IMPERIAL_CHR_garza: "Garza" #!Empty_LineInfo!
+	IMPERIAL_CHR_gatharard: "Gatharard" #!Empty_LineInfo!
+	IMPERIAL_CHR_gosan: "Gosan" #!Empty_LineInfo!
+	IMPERIAL_CHR_hessler: "Hessler" #!Empty_LineInfo!
+	IMPERIAL_CHR_jarrus: "Jarrus" #!Empty_LineInfo!
+	IMPERIAL_CHR_kaarastee: "Kaarastee" #!Empty_LineInfo!
+	IMPERIAL_CHR_kayl: "Kayl" #!Empty_LineInfo!
+	IMPERIAL_CHR_kerrill: "Kerrill" #!Empty_LineInfo!
+	IMPERIAL_CHR_leith: "Leith" #!Empty_LineInfo!
+	IMPERIAL_CHR_lysannis: "Lysannis" #!Empty_LineInfo!
+	IMPERIAL_CHR_med_beq: "Med-Beq" #!Empty_LineInfo!
+	IMPERIAL_CHR_meeko: "Meeko" #!Empty_LineInfo!
+	IMPERIAL_CHR_mercador: "Mercador" #!Empty_LineInfo!
+	IMPERIAL_CHR_oxic: "Oxic" #!Empty_LineInfo!
+	IMPERIAL_CHR_racine: "Racine" #!Empty_LineInfo!
+	IMPERIAL_CHR_reskan: "Reskan" #!Empty_LineInfo!
+	IMPERIAL_CHR_sa_dia: "Sa'dia" #!Empty_LineInfo!
+	IMPERIAL_CHR_sabis: "Sabis" #!Empty_LineInfo!
+	IMPERIAL_CHR_sant: "Sant" #!Empty_LineInfo!
+	IMPERIAL_CHR_sarreti: "Sarreti" #!Empty_LineInfo!
+	IMPERIAL_CHR_sel_sabagno: "Sel'Sabagno" #!Empty_LineInfo!
+	IMPERIAL_CHR_sigus: "Sigus" #!Empty_LineInfo!
+	IMPERIAL_CHR_sila: "Sila" #!Empty_LineInfo!
+	IMPERIAL_CHR_sing: "Sing" #!Empty_LineInfo!
+	IMPERIAL_CHR_tabanne: "Tabanne" #!Empty_LineInfo!
+	IMPERIAL_CHR_taire: "Taire" #!Empty_LineInfo!
+	IMPERIAL_CHR_taria: "Taria" #!Empty_LineInfo!
+	IMPERIAL_CHR_terson: "Terson" #!Empty_LineInfo!
+	IMPERIAL_CHR_trag: "Trag" #!Empty_LineInfo!
+	IMPERIAL_CHR_treblanc: "Treblanc" #!Empty_LineInfo!
+	IMPERIAL_CHR_turmond: "Turmond" #!Empty_LineInfo!
+	IMPERIAL_CHR_vandangante: "Vandangante" #!Empty_LineInfo!
+	IMPERIAL_CHR_vedij: "Vedij" #!Empty_LineInfo!
+	IMPERIAL_CHR_venka: "Venka" #!Empty_LineInfo!
+	IMPERIAL_CHR_verannis: "Verannis" #!Empty_LineInfo!
+	IMPERIAL_CHR_volette: "Volette" #!Empty_LineInfo!
+	IMPERIAL_CHR_vidkun: "Vidkun" #!Empty_LineInfo!
+	IMPERIAL_CHR_westone: "Westone" #!Empty_LineInfo!
+	IMPERIAL_CHR_hortensius: "Hortensius" #!Empty_LineInfo!
+	IMPERIAL_CHR_cormond: "Cormond" #!Empty_LineInfo!
+  IMPERIAL_CHR_royce: "Royce" #!Empty_LineInfo!
+  IMPERIAL_CHR_hemlock: "Hemlock" #!Empty_LineInfo!
+  IMPERIAL_CHR_edmon: "Edmon" #!Empty_LineInfo!
+	IMPERIAL_CHR_rampart: "Rampart" #!Empty_LineInfo!
+	IMPERIAL_CHR_rella: "Rella" #!Empty_LineInfo!
+	IMPERIAL_CHR_sol: "Sol" #!Empty_LineInfo!
+	IMPERIAL_CHR_havina: "Havina" #!Empty_LineInfo!
+	IMPERIAL_CHR_grey: "Grey" #!Empty_LineInfo!
+	IMPERIAL_CHR_varko: "Varko" #!Empty_LineInfo!
+	IMPERIAL_CHR_ferric: "Ferric" #!Empty_LineInfo!
+	IMPERIAL_CHR_obdur: "Obdur" #!Empty_LineInfo!
+	IMPERIAL_CHR_hodnar: "Hodnar" #!Empty_LineInfo!
+	IMPERIAL_CHR_borrum: "Borrum" #!Empty_LineInfo!
+	IMPERIAL_CHR_partagaz: "Partagaz" #!Empty_LineInfo!
+	IMPERIAL_CHR_lio: "Lio" #!Empty_LineInfo!
+	IMPERIAL_CHR_sturn: "Sturn" #!Empty_LineInfo!
+	IMPERIAL_CHR_ozzic: "Ozzic" #!Empty_LineInfo!
+	IMPERIAL_CHR_karn: "Karn" #!Empty_LineInfo!
+	IMPERIAL_CHR_syril: "Syril" #!Empty_LineInfo!
+	IMPERIAL_CHR_blevin: "Blevin" #!Empty_LineInfo!
+	IMPERIAL_CHR_meero: "Meero" #!Empty_LineInfo!
+	IMPERIAL_CHR_dedra: "Dedra" #!Empty_LineInfo!
+	IMPERIAL_CHR_penn: "Penn" #!Empty_LineInfo!
+	IMPERIAL_CHR_pershing: "Pershing" #!Empty_LineInfo!
+	IMPERIAL_CHR_elia: "Elia" #!Empty_LineInfo!
+	IMPERIAL_CHR_kane: "Kane" #!Empty_LineInfo!

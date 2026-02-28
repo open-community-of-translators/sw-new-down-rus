@@ -1,1087 +1,1087 @@
 ﻿l_russian:
-	SWGD_NEAR_HUMAN_SHIP_mystic: "Mystic"
-	SWGD_NEAR_HUMAN_SHIP_naiad: "Naiad"
-	SWGD_NEAR_HUMAN_SHIP_nautilus: "Nautilus"
-	SWGD_NEAR_HUMAN_SHIP_nebula: "Nebula"
-	SWGD_NEAR_HUMAN_SHIP_nimble: "Nimble"
-	SWGD_NEAR_HUMAN_SHIP_north_star: "North Star"
-	SWGD_NEAR_HUMAN_SHIP_nymph: "Nymph"
-	SWGD_NEAR_HUMAN_SHIP_obdurate: "Obdurate"
-	SWGD_NEAR_HUMAN_SHIP_ocean: "Ocean"
-	SWGD_NEAR_HUMAN_SHIP_onward: "Onward"
-	SWGD_NEAR_HUMAN_SHIP_oracle: "Oracle"
-	SWGD_NEAR_HUMAN_SHIP_paradox: "Paradox"
-	SWGD_NEAR_HUMAN_SHIP_paragon: "Paragon"
-	SWGD_NEAR_HUMAN_SHIP_pearl: "Pearl"
-	SWGD_NEAR_HUMAN_SHIP_peregrine: "Peregrine"
-	SWGD_NEAR_HUMAN_SHIP_perseverance: "Perseverance"
-	SWGD_NEAR_HUMAN_SHIP_marksman: "Marksman"
-	SWGD_NEAR_HUMAN_SHIP_rifleman: "Rifleman"
-	SWGD_NEAR_HUMAN_SHIP_sniper: "Sniper"
-	SWGD_NEAR_HUMAN_SHIP_trident: "Trident"
-	SWGD_NEAR_HUMAN_SHIP_trumpet: "Trumpet"
-	SWGD_NEAR_HUMAN_SHIP_truncheon: "Truncheon"
-	SWGD_NEAR_HUMAN_SHIP_typhoon: "Typhoon"
-	SWGD_NEAR_HUMAN_SHIP_undaunted: "Undaunted"
-	SWGD_NEAR_HUMAN_SHIP_venture: "Venture"
-	SWGD_NEAR_HUMAN_SHIP_versatile: "Versatile"
-	SWGD_NEAR_HUMAN_SHIP_vigorous: "Vigorous"
-	SWGD_NEAR_HUMAN_SHIP_viper: "Viper"
-	SWGD_NEAR_HUMAN_SHIP_vivacious: "Vivacious"
-	SWGD_NEAR_HUMAN_SHIP_winger: "Winger"
-	SWGD_NEAR_HUMAN_SHIP_wizard: "Wizard"
-	SWGD_NEAR_HUMAN_SHIP_wyvern: "Wyvern"
-	SWGD_NEAR_HUMAN_SHIP_wolfhound: "Wolfhound"
-	SWGD_NEAR_HUMAN_SHIP_devastator: "Devastator"
-	SWGD_NEAR_HUMAN_SHIP_warhammer: "Warhammer"
-	SWGD_NEAR_HUMAN_SHIP_retribution: "Retribution"
-	SWGD_NEAR_HUMAN_SHIP_senator: "Senator"
-	SWGD_NEAR_HUMAN_SHIP_tornado: "Tornado"
-	SWGD_NEAR_HUMAN_SHIP_infinity: "Infinity"
-	SWGD_NEAR_HUMAN_SHIP_usurper: "Usurper"
-	SWGD_NEAR_HUMAN_SHIP_utmost: "Utmost"
-	SWGD_NEAR_HUMAN_SHIP_valorous: "Valorous"
-	SWGD_NEAR_HUMAN_SHIP_whirlwind: "Whirlwind"
-	SWGD_NEAR_HUMAN_SHIP_athena: "Athena"
-	SWGD_NEAR_HUMAN_SHIP_artemis: "Artemis"
-	SWGD_NEAR_HUMAN_SHIP_vigilance: "Vigilance"
-	SWGD_NEAR_HUMAN_SHIP_decimator: "Decimator"
-	SWGD_NEAR_HUMAN_SHIP_indomitable: "Indomitable"
-	SWGD_NEAR_HUMAN_SHIP_goliath: "Goliath"
-	SWGD_NEAR_HUMAN_SHIP_sentinel: "Sentinel"
-	SWGD_NEAR_HUMAN_SHIP_brilliant: "Brilliant"
-	SWGD_NEAR_HUMAN_SHIP_blazer: "Blazer"
-	SWGD_NEAR_HUMAN_SHIP_audacity: "Audacity"
-	SWGD_NEAR_HUMAN_SHIP_gallant: "Gallant"
-	SWGD_NEAR_HUMAN_SHIP_nova: "Nova"
-	SWGD_NEAR_HUMAN_SHIP_shadow: "Shadow"
-	SWGD_NEAR_HUMAN_SHIP_allegiance: "Allegiance"
-	SWGD_NEAR_HUMAN_SHIP_challenger: "Challenger"
-	SWGD_NEAR_HUMAN_SHIP_fearless: "Fearless"
-	SWGD_NEAR_HUMAN_SHIP_protector: "Protector"
-	SWGD_NEAR_HUMAN_SHIP_guardian: "Guardian"
-	SWGD_NEAR_HUMAN_SHIP_victorious: "Victorious"
-	SWGD_NEAR_HUMAN_SHIP_courageous: "Courageous"
-	SWGD_NEAR_HUMAN_SHIP_defiance: "Defiance"
-	SWGD_NEAR_HUMAN_SHIP_azrael: "Azrael"
-	SWGD_NEAR_HUMAN_SHIP_adamantine: "Adamantine"
-	SWGD_NEAR_HUMAN_SHIP_aralanni: "Aralanni"
-	SWGD_NEAR_HUMAN_SHIP_ardent_iv: "Ardent IV"
-	SWGD_NEAR_HUMAN_SHIP_armistice: "Armistice"
-	SWGD_NEAR_HUMAN_SHIP_avengeance: "Avengeance"
-	SWGD_NEAR_HUMAN_SHIP_ballista: "Ballista"
-	SWGD_NEAR_HUMAN_SHIP_bloodstripe: "Bloodstripe"
-	SWGD_NEAR_HUMAN_SHIP_borealis: "Borealis"
-	SWGD_NEAR_HUMAN_SHIP_caelus: "Caelus"
-	SWGD_NEAR_HUMAN_SHIP_caravan: "Caravan"
-	SWGD_NEAR_HUMAN_SHIP_chaf_envoy: "Chaf Envoy"
-	SWGD_NEAR_HUMAN_SHIP_commenor: "Commenor"
-	SWGD_NEAR_HUMAN_SHIP_corbantis: "Corbantis"
-	SWGD_NEAR_HUMAN_SHIP_corellia: "Corellia"
-	SWGD_NEAR_HUMAN_SHIP_courteous: "Courteous"
-	SWGD_NEAR_HUMAN_SHIP_dauntless: "Dauntless"
-	SWGD_NEAR_HUMAN_SHIP_defiant: "Defiant"
-	SWGD_NEAR_HUMAN_SHIP_deliverance: "Deliverance"
-	SWGD_NEAR_HUMAN_SHIP_derapha: "Derapha"
-	SWGD_NEAR_HUMAN_SHIP_devout: "Devout"
-	SWGD_NEAR_HUMAN_SHIP_empirical: "Empirical"
-	SWGD_NEAR_HUMAN_SHIP_empyrean: "Empyrean"
-	SWGD_NEAR_HUMAN_SHIP_era_daimanos: "Era Daimanos"
-	SWGD_NEAR_HUMAN_SHIP_eye_of_the_storm: "Eye of the Storm"
-	SWGD_NEAR_HUMAN_SHIP_farstar: "Farstar"
-	SWGD_NEAR_HUMAN_SHIP_fastblast: "Fastblast"
-	SWGD_NEAR_HUMAN_SHIP_galaaron: "Galaaron"
-	SWGD_NEAR_HUMAN_SHIP_garrote: "Garrote"
-	SWGD_NEAR_HUMAN_SHIP_gilagimar: "Gilagimar"
-	SWGD_NEAR_HUMAN_SHIP_halleck: "Halleck"
-	SWGD_NEAR_HUMAN_SHIP_hunter: "Hunter"
-	SWGD_NEAR_HUMAN_SHIP_intractable: "Intractable"
-	SWGD_NEAR_HUMAN_SHIP_ithor_lady: "Ithor Lady"
-	SWGD_NEAR_HUMAN_SHIP_justice_crusader: "Justice Crusader"
-	SWGD_NEAR_HUMAN_SHIP_kana_s_steel: "Kana's Steel"
-	SWGD_NEAR_HUMAN_SHIP_lathir: "Lathir"
-	SWGD_NEAR_HUMAN_SHIP_liberty: "Liberty"
-	SWGD_NEAR_HUMAN_SHIP_lillibanca: "Lillibanca"
-	SWGD_NEAR_HUMAN_SHIP_maelstrom: "Maelstrom"
-	SWGD_NEAR_HUMAN_SHIP_malachite_scent: "Malachite Scent"
-	SWGD_NEAR_HUMAN_SHIP_mercy: "Mercy"
-	SWGD_NEAR_HUMAN_SHIP_myrkos: "Myrkos"
-	SWGD_NEAR_HUMAN_SHIP_nebula_chaser: "Nebula Chaser"
-	SWGD_NEAR_HUMAN_SHIP_nova_viper: "Nova Viper"
-	SWGD_NEAR_HUMAN_SHIP_obedience: "Obedience"
-	SWGD_NEAR_HUMAN_SHIP_olemp: "Olemp"
-	SWGD_NEAR_HUMAN_SHIP_pegasus: "Pegasus"
-	SWGD_NEAR_HUMAN_SHIP_perspicacity: "Perspicacity"
-	SWGD_NEAR_HUMAN_SHIP_phalanx: "Phalanx"
-	SWGD_NEAR_HUMAN_SHIP_plooriod_bodkin: "Plooriod Bodkin"
-	SWGD_NEAR_HUMAN_SHIP_predominance: "Predominance"
-	SWGD_NEAR_HUMAN_SHIP_prosperity: "Prosperity"
-	SWGD_NEAR_HUMAN_SHIP_purity: "Purity"
-	SWGD_NEAR_HUMAN_SHIP_recalcitrant: "Recalcitrant"
-	SWGD_NEAR_HUMAN_SHIP_red_nova: "Red Nova"
-	SWGD_NEAR_HUMAN_SHIP_redma: "Redma"
-	SWGD_NEAR_HUMAN_SHIP_reliable: "Reliable"
-	SWGD_NEAR_HUMAN_SHIP_reliant: "Reliant"
-	SWGD_NEAR_HUMAN_SHIP_reluctant: "Reluctant"
-	SWGD_NEAR_HUMAN_SHIP_republic: "Republic"
-	SWGD_NEAR_HUMAN_SHIP_republic_s_return: "Republic's Return"
-	SWGD_NEAR_HUMAN_SHIP_resolve: "Resolve"
-	SWGD_NEAR_HUMAN_SHIP_respectable: "Respectable"
-	SWGD_NEAR_HUMAN_SHIP_revenge: "Revenge"
-	SWGD_NEAR_HUMAN_SHIP_shadowblade: "Shadowblade"
-	SWGD_NEAR_HUMAN_SHIP_spritespray: "Spritespray"
-	SWGD_NEAR_HUMAN_SHIP_star_dream: "Star Dream"
-	SWGD_NEAR_HUMAN_SHIP_stark_wing: "Stark Wing"
-	SWGD_NEAR_HUMAN_SHIP_starveil: "Starveil"
-	SWGD_NEAR_HUMAN_SHIP_undying: "Undying"
-	SWGD_NEAR_HUMAN_SHIP_vaathkree: "Vaathkree"
-	SWGD_NEAR_HUMAN_SHIP_vainglorious: "Vainglorious"
-	SWGD_NEAR_HUMAN_SHIP_valiant: "Valiant"
-	SWGD_NEAR_HUMAN_SHIP_valor: "Valor"
-	SWGD_NEAR_HUMAN_SHIP_vanquisher: "Vanquisher"
-	SWGD_NEAR_HUMAN_SHIP_vinsor: "Vinsor"
-	SWGD_NEAR_HUMAN_SHIP_visseon: "Visseon"
-	SWGD_NEAR_HUMAN_SHIP_wennis: "Wennis"
-	SWGD_NEAR_HUMAN_SHIP_yavin_s_glory: "Yavin's Glory"
-	SWGD_NEAR_HUMAN_SHIP_moldy_crow: "Moldy Crow"
-	SWGD_NEAR_HUMAN_SHIP_raven_s_claw: "Raven's Claw"
-	SWGD_NEAR_HUMAN_SHIP_agile: "Agile"
-	SWGD_NEAR_HUMAN_SHIP_archer: "Archer"
-	SWGD_NEAR_HUMAN_SHIP_arrow: "Arrow"
-	SWGD_NEAR_HUMAN_SHIP_bruiser: "Bruiser"
-	SWGD_NEAR_HUMAN_SHIP_cherub: "Cherub"
-	SWGD_NEAR_HUMAN_SHIP_chimera: "Chimera"
-	SWGD_NEAR_HUMAN_SHIP_claymore: "Claymore"
-	SWGD_NEAR_HUMAN_SHIP_broadsword: "Broadsword"
-	SWGD_NEAR_HUMAN_SHIP_battleaxe: "Battleaxe"
-	SWGD_NEAR_HUMAN_SHIP_crossbow: "Crossbow"
-	SWGD_NEAR_HUMAN_SHIP_cutlass: "Cutlass"
-	SWGD_NEAR_HUMAN_SHIP_deterrent: "Deterrent"
-	SWGD_NEAR_HUMAN_SHIP_errant: "Errant"
-	SWGD_NEAR_HUMAN_SHIP_faithful: "Faithful"
-	SWGD_NEAR_HUMAN_SHIP_fierce: "Fierce"
-	SWGD_NEAR_HUMAN_SHIP_gladius: "Gladius"
-	SWGD_NEAR_HUMAN_SHIP_longbow: "Longbow"
-	SWGD_NEAR_HUMAN_SHIP_grappler: "Grappler"
-	SWGD_NEAR_HUMAN_SHIP_hammer: "Hammer"
-	SWGD_NEAR_HUMAN_SHIP_vampire: "Vampire"
-	SWGD_NEAR_HUMAN_SHIP_velox: "Velox"
-	SWGD_NEAR_HUMAN_SHIP_venator: "Venator"
-	SWGD_NEAR_HUMAN_SHIP_vendetta: "Vendetta"
-	SWGD_NEAR_HUMAN_SHIP_venerable: "Venerable"
-	SWGD_NEAR_HUMAN_SHIP_venomous: "Venomous"
-	SWGD_NEAR_HUMAN_SHIP_taciturn: "Taciturn"
-	SWGD_NEAR_HUMAN_SHIP_supreme: "Supreme"
-	SWGD_NEAR_HUMAN_SHIP_success: "Success"
-	SWGD_NEAR_HUMAN_SHIP_shredder: "Shredder"
-	SWGD_NEAR_HUMAN_SHIP_seraph: "Seraph"
-	SWGD_NEAR_HUMAN_SHIP_serpent: "Serpent"
-	SWGD_NEAR_HUMAN_SHIP_spitfire: "Spitfire"
-	SWGD_NEAR_HUMAN_SHIP_stalker: "Stalker"
-	SWGD_NEAR_HUMAN_SHIP_stratagem: "Stratagem"
-	SWGD_NEAR_HUMAN_SHIP_scimitar: "Scimitar"
-	SWGD_NEAR_HUMAN_SHIP_scorcher: "Scorcher"
-	SWGD_NEAR_HUMAN_SHIP_scourge: "Scourge"
-	SWGD_NEAR_HUMAN_SHIP_scythe: "Scythe"
-	SWGD_NEAR_HUMAN_SHIP_revenant: "Revenant"
-	SWGD_NEAR_HUMAN_SHIP_redoubtable: "Redoubtable"
-	SWGD_NEAR_HUMAN_SHIP_raptor: "Raptor"
-	SWGD_NEAR_HUMAN_SHIP_reaver: "Reaver"
-	SWGD_NEAR_HUMAN_SHIP_prodigal: "Prodigal"
-	SWGD_NEAR_HUMAN_SHIP_rapier: "Rapier"
-	SWGD_NEAR_HUMAN_SHIP_prudent: "Prudent"
-	SWGD_NEAR_HUMAN_SHIP_persistent: "Persistent"
-	SWGD_NEAR_HUMAN_SHIP_peerless: "Peerless"
-	SWGD_NEAR_HUMAN_SHIP_myrmidon: "Myrmidon"
-	SWGD_NEAR_HUMAN_SHIP_indignant: "Indignant"
-	SWGD_NEAR_HUMAN_SHIP_javelin: "Javelin"
-	SWGD_NEAR_HUMAN_SHIP_knight: "Knight"
-	SWGD_NEAR_HUMAN_SHIP_starwolf: "Starwolf"
-	SWGD_NEAR_HUMAN_SHIP_bonaventure: "Bonaventure"
-	SWGD_NEAR_HUMAN_SHIP_adventure: "Adventure"
-	SWGD_NEAR_HUMAN_SHIP_boxer: "Boxer"
-	SWGD_NEAR_HUMAN_SHIP_buccaneer: "Buccaneer"
-	SWGD_NEAR_HUMAN_SHIP_cavalier: "Cavalier"
-	SWGD_NEAR_HUMAN_SHIP_celestial: "Celestial"
-	SWGD_NEAR_HUMAN_SHIP_chariot: "Chariot"
-	SWGD_NEAR_HUMAN_SHIP_comet: "Comet"
-	SWGD_NEAR_HUMAN_SHIP_crucible: "Crucible"
-	SWGD_NEAR_HUMAN_SHIP_cyclone: "Cyclone"
-	SWGD_NEAR_HUMAN_SHIP_decisive: "Decisive"
-	SWGD_NEAR_HUMAN_SHIP_dexterous: "Dexterous"
-	SWGD_NEAR_HUMAN_SHIP_diadem: "Diadem"
-	SWGD_NEAR_HUMAN_SHIP_earnest: "Earnest"
-	SWGD_NEAR_HUMAN_SHIP_eclipse: "Eclipse"
-	SWGD_NEAR_HUMAN_SHIP_forger: "Forger"
-	SWGD_NEAR_HUMAN_SHIP_fortune: "Fortune"
-	SWGD_NEAR_HUMAN_SHIP_gauntlet: "Gauntlet"
-	SWGD_NEAR_HUMAN_SHIP_griffin: "Griffin"
-	SWGD_NEAR_HUMAN_SHIP_horizon: "Horizon"
-	SWGD_NEAR_HUMAN_SHIP_hotspur: "Hotspur"
-	SWGD_NEAR_HUMAN_SHIP_hurricane: "Hurricane"
-	SWGD_NEAR_HUMAN_SHIP_hussar: "Hussar"
-	SWGD_NEAR_HUMAN_SHIP_jubilant: "Jubilant"
-	SWGD_NEAR_HUMAN_SHIP_lancer: "Lancer"
-	SWGD_NEAR_HUMAN_SHIP_lightning: "Lightning"
-	SWGD_NEAR_HUMAN_SHIP_magic: "Magic"
-	SWGD_NEAR_HUMAN_SHIP_mediator: "Mediator"
-	SWGD_NEAR_HUMAN_SHIP_mermaid: "Mermaid"
-	SWGD_NEAR_HUMAN_SHIP_meteor: "Meteor"
-	SWGD_NEAR_HUMAN_SHIP_minstrel: "Minstrel"
-	SWGD_NEAR_HUMAN_SHIP_miranda: "Miranda"
-	SWGD_NEAR_HUMAN_SHIP_mustang: "Mustang"
-	SWGD_NEAR_HUMAN_SHIP_sharpshooter: "Sharpshooter"
-	SWGD_NEAR_HUMAN_SHIP_cyclops: "Cyclops"
-	SWGD_NEAR_HUMAN_SHIP_centaur: "Centaur"
-	SWGD_NEAR_HUMAN_SHIP_adversary: "Adversary"
-	SWGD_NEAR_HUMAN_SHIP_assassin: "Assassin"
-	SWGD_NEAR_HUMAN_SHIP_dagger: "Dagger"
-	SWGD_NEAR_HUMAN_SHIP_daring: "Daring"
-	SWGD_NEAR_HUMAN_SHIP_duty: "Duty"
-	SWGD_NEAR_HUMAN_SHIP_havoc: "Havoc"
-	SWGD_NEAR_HUMAN_SHIP_hero: "Hero"
-	SWGD_NEAR_HUMAN_SHIP_justice: "Justice"
-	SWGD_NEAR_HUMAN_SHIP_impeccable: "Impeccable"
-	SWGD_NEAR_HUMAN_SHIP_interceptor: "Interceptor"
-	SWGD_NEAR_HUMAN_SHIP_infernal: "Infernal"
-	SWGD_NEAR_HUMAN_SHIP_loyal: "Loyal"
-	SWGD_NEAR_HUMAN_SHIP_matchless: "Matchless"
-	SWGD_NEAR_HUMAN_SHIP_mauler: "Mauler"
-	SWGD_NEAR_HUMAN_SHIP_mayhem: "Mayhem"
-	SWGD_NEAR_HUMAN_SHIP_malice: "Malice"
-	SWGD_NEAR_HUMAN_SHIP_menace: "Menace"
-	SWGD_NEAR_HUMAN_SHIP_merciless: "Merciless"
-	SWGD_NEAR_HUMAN_SHIP_mischief: "Mischief"
-	SWGD_NEAR_HUMAN_SHIP_monarch: "Monarch"
-	SWGD_NEAR_HUMAN_SHIP_patriot: "Patriot"
-	SWGD_NEAR_HUMAN_SHIP_predator: "Predator"
-	SWGD_NEAR_HUMAN_SHIP_powerful: "Powerful"
-	SWGD_NEAR_HUMAN_SHIP_punisher: "Punisher"
-	SWGD_NEAR_HUMAN_SHIP_ravager: "Ravager"
-	SWGD_NEAR_HUMAN_SHIP_reaper: "Reaper"
-	SWGD_NEAR_HUMAN_SHIP_savage: "Savage"
-	SWGD_NEAR_HUMAN_SHIP_spiteful: "Spiteful"
-	SWGD_NEAR_HUMAN_SHIP_templar: "Templar"
-	SWGD_NEAR_HUMAN_SHIP_terminator: "Terminator"
-	SWGD_NEAR_HUMAN_SHIP_terror: "Terror"
-	SWGD_NEAR_HUMAN_SHIP_thrasher: "Thrasher"
-	SWGD_NEAR_HUMAN_SHIP_minotaur: "Minotaur"
-	SWGD_NEAR_HUMAN_SHIP_manticore: "Manticore"
-	SWGD_NEAR_HUMAN_SHIP_interdictor: "Interdictor"
-	SWGD_NEAR_HUMAN_SHIP_intruder: "Intruder"
-	SWGD_NEAR_HUMAN_SHIP_hydra: "Hydra"
-	SWGD_NEAR_HUMAN_SHIP_enfield: "Enfield"
-	SWGD_NEAR_HUMAN_SHIP_harasser: "Harasser"
-	SWGD_NEAR_HUMAN_SHIP_unbeaten: "Unbeaten"
-	SWGD_NEAR_HUMAN_SHIP_werewolf: "Werewolf"
-	SWGD_NEAR_HUMAN_SHIP_zealous: "Zealous"
-	SWGD_NEAR_HUMAN_SHIP_petulant: "Petulant"
-	SWGD_NEAR_HUMAN_SHIP_phantom: "Phantom"
-	SWGD_NEAR_HUMAN_SHIP_phoenix: "Phoenix"
-	SWGD_NEAR_HUMAN_SHIP_pike: "Pike"
-	SWGD_NEAR_HUMAN_SHIP_pursuer: "Pursuer"
-	SWGD_NEAR_HUMAN_SHIP_raider: "Raider"
-	SWGD_NEAR_HUMAN_SHIP_rainbow: "Rainbow"
-	SWGD_NEAR_HUMAN_SHIP_rapid: "Rapid"
-	SWGD_NEAR_HUMAN_SHIP_redemption: "Redemption"
-	SWGD_NEAR_HUMAN_SHIP_relentless: "Relentless"
-	SWGD_NEAR_HUMAN_SHIP_rigorous: "Rigorous"
-	SWGD_NEAR_HUMAN_SHIP_robust: "Robust"
-	SWGD_NEAR_HUMAN_SHIP_sabre: "Sabre"
-	SWGD_NEAR_HUMAN_SHIP_salvation: "Salvation"
-	SWGD_NEAR_HUMAN_SHIP_sanguine: "Sanguine"
-	SWGD_NEAR_HUMAN_SHIP_scarab: "Scarab"
-	SWGD_NEAR_HUMAN_SHIP_scepter: "Scepter"
-	SWGD_NEAR_HUMAN_SHIP_sea_witch: "Sea Witch"
-	SWGD_NEAR_HUMAN_SHIP_siren: "Siren"
-	SWGD_NEAR_HUMAN_SHIP_sorceress: "Sorceress"
-	SWGD_NEAR_HUMAN_SHIP_spearhead: "Spearhead"
-	SWGD_NEAR_HUMAN_SHIP_specter: "Specter"
-	SWGD_NEAR_HUMAN_SHIP_spirit: "Spirit"
-	SWGD_NEAR_HUMAN_SHIP_splendid: "Splendid"
-	SWGD_NEAR_HUMAN_SHIP_stallion: "Stallion"
-	SWGD_NEAR_HUMAN_SHIP_stalwart: "Stalwart"
-	SWGD_NEAR_HUMAN_SHIP_steadfast: "Steadfast"
-	SWGD_NEAR_HUMAN_SHIP_strenuous: "Strenuous"
-	SWGD_NEAR_HUMAN_SHIP_superb: "Superb"
-	SWGD_NEAR_HUMAN_SHIP_supernova: "Supernova"
-	SWGD_NEAR_HUMAN_SHIP_surprise: "Surprise"
-	SWGD_NEAR_HUMAN_SHIP_swiftsure: "Swiftsure"
-	SWGD_NEAR_HUMAN_SHIP_talent: "Talent"
-	SWGD_NEAR_HUMAN_SHIP_talisman: "Talisman"
-	SWGD_NEAR_HUMAN_SHIP_talon: "Talon"
-	SWGD_NEAR_HUMAN_SHIP_taurus: "Taurus"
-	SWGD_NEAR_HUMAN_SHIP_tenacious: "Tenacious"
-	SWGD_NEAR_HUMAN_SHIP_thunder_child: "Thunder Child"
-	SWGD_NEAR_HUMAN_SHIP_thunderous: "Thunderous"
-	SWGD_NEAR_HUMAN_SHIP_tireless: "Tireless"
-	SWGD_NEAR_HUMAN_SHIP_trenchant: "Trenchant"
-	SWGD_NEAR_HUMAN_SHIP_righteous: "Righteous"
-	SWGD_NEAR_HUMAN_SHIP_acheron: "Acheron"
-	SWGD_NEAR_HUMAN_SHIP_achilles: "Achilles"
-	SWGD_NEAR_HUMAN_SHIP_agamemnon: "Agamemnon"
-	SWGD_NEAR_HUMAN_SHIP_amphion: "Amphion"
-	SWGD_NEAR_HUMAN_SHIP_aquilon: "Aquilon"
-	SWGD_NEAR_HUMAN_SHIP_argonaut: "Argonaut"
-	SWGD_NEAR_HUMAN_SHIP_argus: "Argus"
-	SWGD_NEAR_HUMAN_SHIP_ariel: "Ariel"
-	SWGD_NEAR_HUMAN_SHIP_aurora: "Aurora"
-	SWGD_NEAR_HUMAN_SHIP_avernus: "Avernus"
-	SWGD_NEAR_HUMAN_SHIP_bacchus: "Bacchus"
-	SWGD_NEAR_HUMAN_SHIP_bucephalus: "Bucephalus"
-	SWGD_NEAR_HUMAN_SHIP_calliope: "Calliope"
-	SWGD_NEAR_HUMAN_SHIP_calypso: "Calypso"
-	SWGD_NEAR_HUMAN_SHIP_castor: "Castor"
-	SWGD_NEAR_HUMAN_SHIP_charybdis: "Charybdis"
-	SWGD_NEAR_HUMAN_SHIP_circe: "Circe"
-	SWGD_NEAR_HUMAN_SHIP_cleopatra: "Cleopatra"
-	SWGD_NEAR_HUMAN_SHIP_constantine: "Constantine"
-	SWGD_NEAR_HUMAN_SHIP_cordelia: "Cordelia"
-	SWGD_NEAR_HUMAN_SHIP_cyrus: "Cyrus"
-	SWGD_NEAR_HUMAN_SHIP_damocles: "Damocles"
-	SWGD_NEAR_HUMAN_SHIP_daedalus: "Daedalus"
-	SWGD_NEAR_HUMAN_SHIP_darius: "Darius"
-	SWGD_NEAR_HUMAN_SHIP_diomede: "Diomede"
-	SWGD_NEAR_HUMAN_SHIP_dryad: "Dryad"
-	SWGD_NEAR_HUMAN_SHIP_electra: "Electra"
-	SWGD_NEAR_HUMAN_SHIP_endymion: "Endymion"
-	SWGD_NEAR_HUMAN_SHIP_erebus: "Erebus"
-	SWGD_NEAR_HUMAN_SHIP_fenris: "Fenris"
-	SWGD_NEAR_HUMAN_SHIP_freya: "Freya"
-	SWGD_NEAR_HUMAN_SHIP_gilgamesh: "Gilgamesh"
-	SWGD_NEAR_HUMAN_SHIP_gorgon: "Gorgon"
-	SWGD_NEAR_HUMAN_SHIP_halcyon: "Halcyon"
-	SWGD_NEAR_HUMAN_SHIP_hecate: "Hecate"
-	SWGD_NEAR_HUMAN_SHIP_hector: "Hector"
-	SWGD_NEAR_HUMAN_SHIP_hesperus: "Hesperus"
-	SWGD_NEAR_HUMAN_SHIP_janus: "Janus"
-	SWGD_NEAR_HUMAN_SHIP_jason: "Jason"
-	SWGD_NEAR_HUMAN_SHIP_juno: "Juno"
-	SWGD_NEAR_HUMAN_SHIP_jupiter: "Jupiter"
-	SWGD_NEAR_HUMAN_SHIP_lancelot: "Lancelot"
-	SWGD_NEAR_HUMAN_SHIP_lazarus: "Lazarus"
-	SWGD_NEAR_HUMAN_SHIP_leander: "Leander"
-	SWGD_NEAR_HUMAN_SHIP_leonidas: "Leonidas"
-	SWGD_NEAR_HUMAN_SHIP_lysander: "Lysander"
-	SWGD_NEAR_HUMAN_SHIP_maenad: "Maenad"
-	SWGD_NEAR_HUMAN_SHIP_mars: "Mars"
-	SWGD_NEAR_HUMAN_SHIP_medea: "Medea"
-	SWGD_NEAR_HUMAN_SHIP_medusa: "Medusa"
-	SWGD_NEAR_HUMAN_SHIP_menestheus: "Menestheus"
-	SWGD_NEAR_HUMAN_SHIP_mercury: "Mercury"
-	SWGD_NEAR_HUMAN_SHIP_merlin: "Merlin"
-	SWGD_NEAR_HUMAN_SHIP_minerva: "Minerva"
-	SWGD_NEAR_HUMAN_SHIP_minos: "Minos"
-	SWGD_NEAR_HUMAN_SHIP_neptune: "Neptune"
-	SWGD_NEAR_HUMAN_SHIP_nessus: "Nessus"
-	SWGD_NEAR_HUMAN_SHIP_nestor: "Nestor"
-	SWGD_NEAR_HUMAN_SHIP_nimrod: "Nimrod"
-	SWGD_NEAR_HUMAN_SHIP_niobe: "Niobe"
-	SWGD_NEAR_HUMAN_SHIP_oberon: "Oberon"
-	SWGD_NEAR_HUMAN_SHIP_odin: "Odin"
-	SWGD_NEAR_HUMAN_SHIP_ophelia: "Ophelia"
-	SWGD_NEAR_HUMAN_SHIP_orestes: "Orestes"
-	SWGD_NEAR_HUMAN_SHIP_orpheus: "Orpheus"
-	SWGD_NEAR_HUMAN_SHIP_osiris: "Osiris"
-	SWGD_NEAR_HUMAN_SHIP_pandora: "Pandora"
-	SWGD_NEAR_HUMAN_SHIP_penelope: "Penelope"
-	SWGD_NEAR_HUMAN_SHIP_persephone: "Persephone"
-	SWGD_NEAR_HUMAN_SHIP_perseus: "Perseus"
-	SWGD_NEAR_HUMAN_SHIP_phoebe: "Phoebe"
-	SWGD_NEAR_HUMAN_SHIP_pluto: "Pluto"
-	SWGD_NEAR_HUMAN_SHIP_poseidon: "Poseidon"
-	SWGD_NEAR_HUMAN_SHIP_proteus: "Proteus"
-	SWGD_NEAR_HUMAN_SHIP_pylades: "Pylades"
-	SWGD_NEAR_HUMAN_SHIP_serapis: "Serapis"
-	SWGD_NEAR_HUMAN_SHIP_stygian: "Stygian"
-	SWGD_NEAR_HUMAN_SHIP_tantalus: "Tantalus"
-	SWGD_NEAR_HUMAN_SHIP_telemachus: "Telemachus"
-	SWGD_NEAR_HUMAN_SHIP_theseus: "Theseus"
-	SWGD_NEAR_HUMAN_SHIP_thor: "Thor"
-	SWGD_NEAR_HUMAN_SHIP_trajan: "Trajan"
-	SWGD_NEAR_HUMAN_SHIP_triton: "Triton"
-	SWGD_NEAR_HUMAN_SHIP_venus: "Venus"
-	SWGD_NEAR_HUMAN_SHIP_adamant: "Adamant"
-	SWGD_NEAR_HUMAN_SHIP_ardent: "Ardent"
-	SWGD_NEAR_HUMAN_SHIP_assail: "Assail"
-	SWGD_NEAR_HUMAN_SHIP_austere: "Austere"
-	SWGD_NEAR_HUMAN_SHIP_archon: "Archon"
-	SWGD_NEAR_HUMAN_SHIP_adroit: "Adroit"
-	SWGD_NEAR_HUMAN_SHIP_aegis: "Aegis"
-	SWGD_NEAR_HUMAN_SHIP_anchor: "Anchor"
-	SWGD_NEAR_HUMAN_SHIP_corsair: "Corsair"
-	SWGD_NEAR_HUMAN_SHIP_banshee: "Banshee"
-	SWGD_NEAR_HUMAN_SHIP_enchantress: "Enchantress"
-	SWGD_NEAR_HUMAN_SHIP_eradicator: "Eradicator"
-	SWGD_NEAR_HUMAN_SHIP_tormentor: "Tormentor"
-	SWGD_NEAR_HUMAN_SHIP_legion: "Legion"
-	SWGD_NEAR_HUMAN_SHIP_reprisal: "Reprisal"
-	SWGD_NEAR_HUMAN_SHIP_aggressor: "Aggressor"
-	SWGD_NEAR_HUMAN_SHIP_assault: "Assault"
-	SWGD_NEAR_HUMAN_SHIP_eviscerator: "Eviscerator"
-	SWGD_NEAR_HUMAN_SHIP_imperator: "Imperator"
-	SWGD_NEAR_HUMAN_SHIP_excellence: "Excellence"
-	SWGD_NEAR_HUMAN_SHIP_unrivalled: "Unrivalled"
-	SWGD_NEAR_HUMAN_SHIP_warlord: "Warlord"
-	SWGD_NEAR_HUMAN_SHIP_vengeance: "Vengeance"
-	SWGD_NEAR_HUMAN_SHIP_triumphant: "Triumphant"
-	SWGD_NEAR_HUMAN_SHIP_nemesis: "Nemesis"
-	SWGD_NEAR_HUMAN_SHIP_avenger: "Avenger"
-	SWGD_NEAR_HUMAN_SHIP_champion: "Champion"
-	SWGD_NEAR_HUMAN_SHIP_conqueror: "Conqueror"
-	SWGD_NEAR_HUMAN_SHIP_crusader: "Crusader"
-	SWGD_NEAR_HUMAN_SHIP_glory: "Glory"
-	SWGD_NEAR_HUMAN_SHIP_immortal: "Immortal"
-	SWGD_NEAR_HUMAN_SHIP_judicator: "Judicator"
-	SWGD_NEAR_HUMAN_SHIP_vanguard: "Vanguard"
-	SWGD_NEAR_HUMAN_SHIP_renown: "Renown"
-	SWGD_NEAR_HUMAN_SHIP_demolisher: "Demolisher"
-	SWGD_NEAR_HUMAN_SHIP_dragon: "Dragon"
-	SWGD_NEAR_HUMAN_SHIP_executor: "Executor"
-	SWGD_NEAR_HUMAN_SHIP_furious: "Furious"
-	SWGD_NEAR_HUMAN_SHIP_gladiator: "Gladiator"
-	SWGD_NEAR_HUMAN_SHIP_magnificent: "Magnificent"
-	SWGD_NEAR_HUMAN_SHIP_ogre: "Ogre"
-	SWGD_NEAR_HUMAN_SHIP_onslaught: "Onslaught"
-	SWGD_NEAR_HUMAN_SHIP_vehement: "Vehement"
-	SWGD_NEAR_HUMAN_SHIP_basilisk: "Basilisk"
-	SWGD_NEAR_HUMAN_SHIP_tempest: "Tempest"
-	SWGD_NEAR_HUMAN_SHIP_overlord: "Overlord"
-	SWGD_NEAR_HUMAN_SHIP_warrior: "Warrior"
-	SWGD_NEAR_HUMAN_SHIP_titan: "Titan"
-	SWGD_NEAR_HUMAN_SHIP_colossus: "Colossus"
-	SWGD_NEAR_HUMAN_SHIP_prometheus: "Prometheus"
-	SWGD_NEAR_HUMAN_SHIP_nike: "Nike"
-	SWGD_NEAR_HUMAN_SHIP_paladin: "Paladin"
-	SWGD_NEAR_HUMAN_SHIP_sovereign: "Sovereign"
-	SWGD_NEAR_HUMAN_SHIP_repulse: "Repulse"
-	SWGD_NEAR_HUMAN_SHIP_majestic: "Majestic"
-	SWGD_NEAR_HUMAN_SHIP_avatar: "Avatar"
-	SWGD_NEAR_HUMAN_SHIP_behemoth: "Behemoth"
-	SWGD_NEAR_HUMAN_SHIP_centurion: "Centurion"
-	SWGD_NEAR_HUMAN_SHIP_citadel: "Citadel"
-	SWGD_NEAR_HUMAN_SHIP_dreadnought: "Dreadnought"
-	SWGD_NEAR_HUMAN_SHIP_harbinger: "Harbinger"
-	SWGD_NEAR_HUMAN_SHIP_juggernaut: "Juggernaut"
-	SWGD_NEAR_HUMAN_SHIP_leviathan: "Leviathan"
-	SWGD_NEAR_HUMAN_SHIP_katana: "Katana"
-	SWGD_NEAR_HUMAN_SHIP_kraken: "Kraken"
-	SWGD_NEAR_HUMAN_SHIP_cerberus: "Cerberus"
-	SWGD_NEAR_HUMAN_SHIP_valkyrie: "Valkyrie"
-	SWGD_NEAR_HUMAN_SHIP_hyperion: "Hyperion"
-	SWGD_NEAR_HUMAN_SHIP_galatea: "Galatea"
-	SWGD_NEAR_HUMAN_SHIP_ambush: "Ambush"
-	SWGD_NEAR_HUMAN_SHIP_vindicator: "Vindicator"
-	SWGD_NEAR_HUMAN_SHIP_crescent: "Crescent"
-	SWGD_NEAR_HUMAN_SHIP_diligent: "Diligent"
-	SWGD_NEAR_HUMAN_SHIP_zephyr: "Zephyr"
-	SWGD_NEAR_HUMAN_SHIP_enigma: "Enigma"
-	SWGD_NEAR_HUMAN_SHIP_conquistador: "Conquistador"
-	SWGD_NEAR_HUMAN_SHIP_scylla: "Scylla"
-	SWGD_NEAR_HUMAN_SHIP_arbiter: "Arbiter"
-	SWGD_NEAR_HUMAN_SHIP_asperity: "Asperity"
-	SWGD_NEAR_HUMAN_SHIP_eminence: "Eminence"
-	SWGD_NEAR_HUMAN_SHIP_astute: "Astute"
-	SWGD_NEAR_HUMAN_SHIP_alacrity: "Alacrity"
-	SWGD_NEAR_HUMAN_SHIP_satyr: "Satyr"
-	SWGD_NEAR_HUMAN_SHIP_prospero: "Prospero"
-	SWGD_NEAR_HUMAN_SHIP_untiring: "Untiring"
-	SWGD_NEAR_HUMAN_SHIP_zenith: "Zenith"
-	SWGD_NEAR_HUMAN_SHIP_torch: "Torch"
-	SWGD_NEAR_HUMAN_SHIP_remembrance: "Remembrance"
-	SWGD_NEAR_HUMAN_SHIP_pilgrim: "Pilgrim"
-	SWGD_NEAR_HUMAN_SHIP_trailblazer: "Trailblazer"
-	SWGD_NEAR_HUMAN_SHIP_vagabond: "Vagabond"
-	SWGD_NEAR_HUMAN_SHIP_wayfarer: "Wayfarer"
-	SWGD_NEAR_HUMAN_SHIP_ambassador: "Ambassador"
-	SWGD_NEAR_HUMAN_SHIP_emissary: "Emissary"
-	SWGD_NEAR_HUMAN_SHIP_nomad: "Nomad"
-	SWGD_NEAR_HUMAN_SHIP_pathfinder: "Pathfinder"
-	SWGD_NEAR_HUMAN_SHIP_wanderer: "Wanderer"
-	SWGD_NEAR_HUMAN_SHIP_traveler: "Traveler"
-	SWGD_NEAR_HUMAN_SHIP_godspeed: "Godspeed"
-	SWGD_NEAR_HUMAN_SHIP_prophecy: "Prophecy"
-	SWGD_NEAR_HUMAN_SHIP_manifest_destiny: "Manifest Destiny"
-	SWGD_NEAR_HUMAN_SHIP_virtue: "Virtue"
-	SWGD_NEAR_HUMAN_SHIP_potential: "Potential"
-	SWGD_NEAR_HUMAN_SHIP_expansion: "Expansion"
-	SWGD_NEAR_HUMAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	SWGD_NEAR_HUMAN_SHIP_summit: "Summit"
-	SWGD_NEAR_HUMAN_SHIP_pinnacle: "Pinnacle"
-	SWGD_NEAR_HUMAN_SHIP_seeder: "Seeder"
-	SWGD_NEAR_HUMAN_SHIP_harvest: "Harvest"
-	SWGD_NEAR_HUMAN_SHIP_demeter: "Demeter"
-	SWGD_NEAR_HUMAN_SHIP_isis: "Isis"
-	SWGD_NEAR_HUMAN_SHIP_ceres: "Ceres"
-	SWGD_NEAR_HUMAN_SHIP_exodus: "Exodus"
-	SWGD_NEAR_HUMAN_SHIP_foundation: "Foundation"
-	SWGD_NEAR_HUMAN_SHIP_scion: "Scion"
-	SWGD_NEAR_HUMAN_SHIP_progeny: "Progeny"
-	SWGD_NEAR_HUMAN_SHIP_obligation: "Obligation"
-	SWGD_NEAR_HUMAN_SHIP_purpose: "Purpose"
-	SWGD_NEAR_HUMAN_SHIP_provider: "Provider"
-	SWGD_NEAR_HUMAN_SHIP_shining_city: "Shining City"
-	SWGD_NEAR_HUMAN_SHIP_acquirer: "Acquirer"
-	SWGD_NEAR_HUMAN_SHIP_cultivator: "Cultivator"
-	SWGD_NEAR_HUMAN_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	SWGD_NEAR_HUMAN_SHIP_community: "Community"
-	SWGD_NEAR_HUMAN_SHIP_brotherhood: "Brotherhood"
-	SWGD_NEAR_HUMAN_SHIP_industry: "Industry"
-	SWGD_NEAR_HUMAN_SHIP_assiduity: "Assiduity"
-	SWGD_NEAR_HUMAN_SHIP_effort: "Effort"
-	SWGD_NEAR_HUMAN_SHIP_laborer: "Laborer"
-	SWGD_NEAR_HUMAN_SHIP_builder: "Builder"
-	SWGD_NEAR_HUMAN_SHIP_craftsman: "Craftsman"
-	SWGD_NEAR_HUMAN_SHIP_hard_hat: "Hard Hat"
-	SWGD_NEAR_HUMAN_SHIP_progress: "Progress"
-	SWGD_NEAR_HUMAN_SHIP_engineer: "Engineer"
-	SWGD_NEAR_HUMAN_SHIP_promise: "Promise"
-	SWGD_NEAR_HUMAN_SHIP_service: "Service"
-	SWGD_NEAR_HUMAN_SHIP_shelter: "Shelter"
-	SWGD_NEAR_HUMAN_SHIP_beast: "Beast"
-	SWGD_NEAR_HUMAN_SHIP_creator: "Creator"
-	SWGD_NEAR_HUMAN_SHIP_developer: "Developer"
-	SWGD_NEAR_HUMAN_SHIP_foundry: "Foundry"
-	SWGD_NEAR_HUMAN_SHIP_factory: "Factory"
-	SWGD_NEAR_HUMAN_SHIP_anvil: "Anvil"
-	SWGD_NEAR_HUMAN_SHIP_pillar: "Pillar"
-	SWGD_NEAR_HUMAN_SHIP_architect: "Architect"
-	SWGD_NEAR_HUMAN_SHIP_accommodator: "Accommodator"
-	SWGD_NEAR_HUMAN_SHIP_ptah: "Ptah"
-	SWGD_NEAR_HUMAN_SHIP_ilmarinen: "Ilmarinen"
-	SWGD_NEAR_HUMAN_SHIP_creidhne: "Creidhne"
-	SWGD_NEAR_HUMAN_SHIP_gobannus: "Gobannus"
-	SWGD_NEAR_HUMAN_SHIP_luchtaine: "Luchtaine"
-	SWGD_NEAR_HUMAN_SHIP_goibniu: "Goibniu"
-	SWGD_NEAR_HUMAN_SHIP_vishvakarman: "Vishvakarman"
-	SWGD_NEAR_HUMAN_SHIP_tvastar: "Tvastar"
-	SWGD_NEAR_HUMAN_SHIP_ikenga: "Ikenga"
-	SWGD_NEAR_HUMAN_SHIP_qaynan: "Qaynan"
-	SWGD_NEAR_HUMAN_SHIP_ucuetis: "Ucuetis"
-	SWGD_NEAR_HUMAN_SHIP_ogoun: "Ogoun"
-	SWGD_NEAR_HUMAN_SHIP_501st_battalion: "501st Battalion"
-	SWGD_NEAR_HUMAN_SHIP_301st_battalion: "301st Battalion"
-	SWGD_NEAR_HUMAN_SHIP_black_watch_battalion: "Black Watch Battalion"
-	SWGD_NEAR_HUMAN_SHIP_212th_assault_battallion: "212th Assault Battallion"
-	SWGD_NEAR_HUMAN_SHIP_41st_elite_corps: "41st Elite Corps"
-	SWGD_NEAR_HUMAN_SHIP_7th_sky_corps: "7th Sky Corps"
-	SWGD_NEAR_HUMAN_SHIP_91st_battallion: "91st Battallion"
-	SWGD_NEAR_HUMAN_SHIP_231st_assault_battallion: "231st Assault Battallion"
-	SWGD_NEAR_HUMAN_SHIP_alpha_battallion: "Alpha Battallion"
-	SWGD_NEAR_HUMAN_SHIP_bravo_battallion: "Bravo Battallion"
-	SWGD_NEAR_HUMAN_SHIP_delta_battallion: "Delta Battallion"
-	SWGD_NEAR_HUMAN_SHIP_203rd_assault_battallion: "203rd Assault Battallion"
-	SWGD_NEAR_HUMAN_SHIP_22nd_elite_corps: "22nd Elite Corps"
-	SWGD_NEAR_HUMAN_SHIP_71st_elite_corps: "71st Elite Corps"
-	SWGD_NEAR_HUMAN_SHIP_outpost: "Outpost"
-	SWGD_NEAR_HUMAN_SHIP_orbital_defense: "Orbital Defense"
-	SWGD_NEAR_HUMAN_SHIP_spacedock: "Spacedock"
-	SWGD_NEAR_HUMAN_SHIP_orbital_security: "Orbital Security"
-	SWGD_NEAR_HUMAN_SHIP_port: "Port"
-	SWGD_NEAR_HUMAN_SHIP_battlestation: "Battlestation"
-	SWGD_NEAR_HUMAN_SHIP_shipyard: "Shipyard"
-	SWGD_NEAR_HUMAN_FLEET_republic_defense_fleet_ORD: "$ORD$ Republic Defense Fleet"
-	SWGD_NEAR_HUMAN_ARMY_republic_planetary_guard_ORD: "$ORD$ Republic Planetary Guard"
-	SWGD_NEAR_HUMAN_ARMY_republic_infantry_company_ORD: "$ORD$ Republic Infantry Company"
-	SWGD_NEAR_HUMAN_ARMY_slave_units_ORD: "$ORD$ Slave Units"
-	SWGD_NEAR_HUMAN_ARMY_clone_battalion_ORD: "$ORD$ Clone Battalion"
-	SWGD_NEAR_HUMAN_ARMY_battledroid_platoon_ORD: "$ORD$ Battledroid Platoon"
-	SWGD_NEAR_HUMAN_ARMY_jedi_warriors_ORD: "$ORD$ Jedi Warriors"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__rahab_: "Experimental Unit 'Rahab'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__jaculus_: "Experimental Unit 'Jaculus'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__amaru_: "Experimental Unit 'Amaru'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__orochi_: "Experimental Unit 'Orochi'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__typhon_: "Experimental Unit 'Typhon'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__illuyanka_: "Experimental Unit 'Illuyanka'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__bakunawa_: "Experimental Unit 'Bakunawa'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__fafnir_: "Experimental Unit 'Fafnir'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__tarasque_: "Experimental Unit 'Tarasque'"
-	SWGD_NEAR_HUMAN_ARMY_experimental_unit__tiamat_: "Experimental Unit 'Tiamat'"
-	SWGD_NEAR_HUMAN_ARMY_eugenic_vanguard_ORD: "$ORD$ Eugenic Vanguard"
-	SWGD_NEAR_HUMAN_CHR_bail: "Bail"
-	SWGD_NEAR_HUMAN_CHR_ylenic: "Ylenic"
-	SWGD_NEAR_HUMAN_CHR_kel: "Kel"
-	SWGD_NEAR_HUMAN_CHR_gunn: "Gunn"
-	SWGD_NEAR_HUMAN_CHR_gregory: "Gregory"
-	SWGD_NEAR_HUMAN_CHR_abraxis: "Abraxis"
-	SWGD_NEAR_HUMAN_CHR_jonas: "Jonas"
-	SWGD_NEAR_HUMAN_CHR_xerda: "Xerda"
-	SWGD_NEAR_HUMAN_CHR_carth: "Carth"
-	SWGD_NEAR_HUMAN_CHR_kir: "Kir"
-	SWGD_NEAR_HUMAN_CHR_mebba: "Mebba"
-	SWGD_NEAR_HUMAN_CHR_dagos: "Dagos"
-	SWGD_NEAR_HUMAN_CHR_adam: "Adam"
-	SWGD_NEAR_HUMAN_CHR_kyle: "Kyle"
-	SWGD_NEAR_HUMAN_CHR_forren: "Forren"
-	SWGD_NEAR_HUMAN_CHR_malcolm: "Malcolm"
-	SWGD_NEAR_HUMAN_CHR_jeho: "Jeho"
-	SWGD_NEAR_HUMAN_CHR_lee: "Lee"
-	SWGD_NEAR_HUMAN_CHR_griggs: "Griggs"
-	SWGD_NEAR_HUMAN_CHR_milo: "Milo"
-	SWGD_NEAR_HUMAN_CHR_aeron: "Aeron"
-	SWGD_NEAR_HUMAN_CHR_byrec: "Byrec"
-	SWGD_NEAR_HUMAN_CHR_strata: "Strata"
-	SWGD_NEAR_HUMAN_CHR_lancer: "Lancer"
-	SWGD_NEAR_HUMAN_CHR_zeak: "Zeak"
-	SWGD_NEAR_HUMAN_CHR_niuk: "Niuk"
-	SWGD_NEAR_HUMAN_CHR_lavidean: "Lavidean"
-	SWGD_NEAR_HUMAN_CHR_tanizandar: "Tanizandar"
-	SWGD_NEAR_HUMAN_CHR_japla: "Japla"
-	SWGD_NEAR_HUMAN_CHR_aran: "Aran"
-	SWGD_NEAR_HUMAN_CHR_rail: "Rail"
-	SWGD_NEAR_HUMAN_CHR_zeven: "Zeven"
-	SWGD_NEAR_HUMAN_CHR_yakown: "Yakown"
-	SWGD_NEAR_HUMAN_CHR_sibar: "Sibar"
-	SWGD_NEAR_HUMAN_CHR_sair: "Sair"
-	SWGD_NEAR_HUMAN_CHR_klai: "Klai"
-	SWGD_NEAR_HUMAN_CHR_imay: "Imay"
-	SWGD_NEAR_HUMAN_CHR_traest: "Traest"
-	SWGD_NEAR_HUMAN_CHR_simo: "Simo"
-	SWGD_NEAR_HUMAN_CHR_riyan: "Riyan"
-	SWGD_NEAR_HUMAN_CHR_magnus: "Magnus"
-	SWGD_NEAR_HUMAN_CHR_boceta: "Boceta"
-	SWGD_NEAR_HUMAN_CHR_agnook: "Agnook"
-	SWGD_NEAR_HUMAN_CHR_silus: "Silus"
-	SWGD_NEAR_HUMAN_CHR_rowan: "Rowan"
-	SWGD_NEAR_HUMAN_CHR_coren: "Coren"
-	SWGD_NEAR_HUMAN_CHR_jett: "Jett"
-	SWGD_NEAR_HUMAN_CHR_linth: "Linth"
-	SWGD_NEAR_HUMAN_CHR_annor: "Annor"
-	SWGD_NEAR_HUMAN_CHR_ulas: "Ulas"
-	SWGD_NEAR_HUMAN_CHR_fenn: "Fenn"
-	SWGD_NEAR_HUMAN_CHR_tal: "Tal"
-	SWGD_NEAR_HUMAN_CHR_plo: "Plo"
-	SWGD_NEAR_HUMAN_CHR_torin: "Torin"
-	SWGD_NEAR_HUMAN_CHR_boone: "Boone"
-	SWGD_NEAR_HUMAN_CHR_davith: "Davith"
-	SWGD_NEAR_HUMAN_CHR_jorgen: "Jorgen"
-	SWGD_NEAR_HUMAN_CHR_bertos: "Bertos"
-	SWGD_NEAR_HUMAN_CHR_ress: "Ress"
-	SWGD_NEAR_HUMAN_CHR_malius: "Malius"
-	SWGD_NEAR_HUMAN_CHR_kale: "Kale"
-	SWGD_NEAR_HUMAN_CHR_cregan: "Cregan"
-	SWGD_NEAR_HUMAN_CHR_galen: "Galen"
-	SWGD_NEAR_HUMAN_CHR_zekk: "Zekk"
-	SWGD_NEAR_HUMAN_CHR_jinn_tu: "Jinn-Tu"
-	SWGD_NEAR_HUMAN_CHR_jaryn: "Jaryn"
-	SWGD_NEAR_HUMAN_CHR_gentti: "Gentti"
-	SWGD_NEAR_HUMAN_CHR_yu_sien: "Yu-Sien"
-	SWGD_NEAR_HUMAN_CHR_akela: "Akela"
-	SWGD_NEAR_HUMAN_CHR_arslan: "Arslan"
-	SWGD_NEAR_HUMAN_CHR_sidias: "Sidias"
-	SWGD_NEAR_HUMAN_CHR_haken: "Haken"
-	SWGD_NEAR_HUMAN_CHR_biran: "Biran"
-	SWGD_NEAR_HUMAN_CHR_vidown: "Vidown"
-	SWGD_NEAR_HUMAN_CHR_ares: "Ares"
-	SWGD_NEAR_HUMAN_CHR_ithan: "Ithan"
-	SWGD_NEAR_HUMAN_CHR_cul_utaan: "Cul-utaan"
-	SWGD_NEAR_HUMAN_CHR_thoja: "Thoja"
-	SWGD_NEAR_HUMAN_CHR_cron: "Cron"
-	SWGD_NEAR_HUMAN_CHR_mossi: "Mossi"
-	SWGD_NEAR_HUMAN_CHR_abric: "Abric"
-	SWGD_NEAR_HUMAN_CHR_darg: "Darg"
-	SWGD_NEAR_HUMAN_CHR_gaman: "Gaman"
-	SWGD_NEAR_HUMAN_CHR_naiad: "Naiad"
-	SWGD_NEAR_HUMAN_CHR_herub: "Herub"
-	SWGD_NEAR_HUMAN_CHR_marius: "Marius"
-	SWGD_NEAR_HUMAN_CHR_torkin: "Torkin"
-	SWGD_NEAR_HUMAN_CHR_caton: "Caton"
-	SWGD_NEAR_HUMAN_CHR_kane: "Kane"
-	SWGD_NEAR_HUMAN_CHR_versita: "Versita"
-	SWGD_NEAR_HUMAN_CHR_cric: "Cric"
-	SWGD_NEAR_HUMAN_CHR_foxdi: "Foxdi"
-	SWGD_NEAR_HUMAN_CHR_montacca: "Montacca"
-	SWGD_NEAR_HUMAN_CHR_jospi: "Jospi"
-	SWGD_NEAR_HUMAN_CHR_baz: "Baz"
-	SWGD_NEAR_HUMAN_CHR_kam: "Kam"
-	SWGD_NEAR_HUMAN_CHR_erek: "Erek"
-	SWGD_NEAR_HUMAN_CHR_lerak: "Lerak"
-	SWGD_NEAR_HUMAN_CHR_morla: "Morla"
-	SWGD_NEAR_HUMAN_CHR_baxter: "Baxter"
-	SWGD_NEAR_HUMAN_CHR_talan: "Talan"
-	SWGD_NEAR_HUMAN_CHR_thion: "Thion"
-	SWGD_NEAR_HUMAN_CHR_kannon: "Kannon"
-	SWGD_NEAR_HUMAN_CHR_corsair: "Corsair"
-	SWGD_NEAR_HUMAN_CHR_caster: "Caster"
-	SWGD_NEAR_HUMAN_CHR_elden: "Elden"
-	SWGD_NEAR_HUMAN_CHR_faelgrom: "Faelgrom"
-	SWGD_NEAR_HUMAN_CHR_jack: "Jack"
-	SWGD_NEAR_HUMAN_CHR_raltharan: "Raltharan"
-	SWGD_NEAR_HUMAN_CHR_flash: "Flash"
-	SWGD_NEAR_HUMAN_CHR_waseem: "Waseem"
-	SWGD_NEAR_HUMAN_CHR_bendak: "Bendak"
-	SWGD_NEAR_HUMAN_CHR_kaz: "Kaz"
-	SWGD_NEAR_HUMAN_CHR_montileu: "Montileu"
-	SWGD_NEAR_HUMAN_CHR_gonoga: "Gonoga"
-	SWGD_NEAR_HUMAN_CHR_galven: "Galven"
-	SWGD_NEAR_HUMAN_CHR_vincenzo: "Vincenzo"
-	SWGD_NEAR_HUMAN_CHR_ric: "Ric"
-	SWGD_NEAR_HUMAN_CHR_rebar: "Rebar"
-	SWGD_NEAR_HUMAN_CHR_jebediah: "Jebediah"
-	SWGD_NEAR_HUMAN_CHR_aramil: "Aramil"
-	SWGD_NEAR_HUMAN_CHR_delmi: "Delmi"
-	SWGD_NEAR_HUMAN_CHR_caalin: "Caalin"
-	SWGD_NEAR_HUMAN_CHR_rassth: "Rassth"
-	SWGD_NEAR_HUMAN_CHR_adorn: "Adorn"
-	SWGD_NEAR_HUMAN_CHR_cyrus: "Cyrus"
-	SWGD_NEAR_HUMAN_CHR_zhar_khan: "Zhar-Khan"
-	SWGD_NEAR_HUMAN_CHR_predor: "Predor"
-	SWGD_NEAR_HUMAN_CHR_tarlson: "Tarlson"
-	SWGD_NEAR_HUMAN_CHR_boaz: "Boaz"
-	SWGD_NEAR_HUMAN_CHR_bradley: "Bradley"
-	SWGD_NEAR_HUMAN_CHR_zerrid: "Zerrid"
-	SWGD_NEAR_HUMAN_CHR_bobecc: "Bobecc"
-	SWGD_NEAR_HUMAN_CHR_jelantos: "Jelantos"
-	SWGD_NEAR_HUMAN_CHR_jephego: "Jephego"
-	SWGD_NEAR_HUMAN_CHR_svante: "Svante"
-	SWGD_NEAR_HUMAN_CHR_tesvalo: "Tesvalo"
-	SWGD_NEAR_HUMAN_CHR_aeon: "Aeon"
-	SWGD_NEAR_HUMAN_CHR_dekar: "Dekar"
-	SWGD_NEAR_HUMAN_CHR_jean_francois: "Jean-Francois"
-	SWGD_NEAR_HUMAN_CHR_elen: "Elen"
-	SWGD_NEAR_HUMAN_CHR_han: "Han"
-	SWGD_NEAR_HUMAN_CHR_owen: "Owen"
-	SWGD_NEAR_HUMAN_CHR_biggs: "Biggs"
-	SWGD_NEAR_HUMAN_CHR_charratha: "Charratha"
-	SWGD_NEAR_HUMAN_CHR_edaara: "Edaara"
-	SWGD_NEAR_HUMAN_CHR_bella: "Bella"
-	SWGD_NEAR_HUMAN_CHR_callista: "Callista"
-	SWGD_NEAR_HUMAN_CHR_mara: "Mara"
-	SWGD_NEAR_HUMAN_CHR_seena: "Seena"
-	SWGD_NEAR_HUMAN_CHR_areta: "Areta"
-	SWGD_NEAR_HUMAN_CHR_cord: "Cord"
-	SWGD_NEAR_HUMAN_CHR_cyrinity: "Cyrinity"
-	SWGD_NEAR_HUMAN_CHR_nile: "Nile"
-	SWGD_NEAR_HUMAN_CHR_kiyfi: "Kiyfi"
-	SWGD_NEAR_HUMAN_CHR_yasmyn: "Yasmyn"
-	SWGD_NEAR_HUMAN_CHR_satra: "Satra"
-	SWGD_NEAR_HUMAN_CHR_shehish: "Shehish"
-	SWGD_NEAR_HUMAN_CHR_sarna: "Sarna"
-	SWGD_NEAR_HUMAN_CHR_krava: "Krava"
-	SWGD_NEAR_HUMAN_CHR_roxis: "Roxis"
-	SWGD_NEAR_HUMAN_CHR_jessa: "Jessa"
-	SWGD_NEAR_HUMAN_CHR_aqua: "Aqua"
-	SWGD_NEAR_HUMAN_CHR_maryna: "Maryna"
-	SWGD_NEAR_HUMAN_CHR_essaj: "Essaj"
-	SWGD_NEAR_HUMAN_CHR_looriw: "Looriw"
-	SWGD_NEAR_HUMAN_CHR_teeana: "Teeana"
-	SWGD_NEAR_HUMAN_CHR_raena: "Raena"
-	SWGD_NEAR_HUMAN_CHR_yula: "Yula"
-	SWGD_NEAR_HUMAN_CHR_vifi: "Vifi"
-	SWGD_NEAR_HUMAN_CHR_vania: "Vania"
-	SWGD_NEAR_HUMAN_CHR_jeanida: "Jeanida"
-	SWGD_NEAR_HUMAN_CHR_aerena: "Aerena"
-	SWGD_NEAR_HUMAN_CHR_nataya: "Nataya"
-	SWGD_NEAR_HUMAN_CHR_bernarda: "Bernarda"
-	SWGD_NEAR_HUMAN_CHR_geela: "Geela"
-	SWGD_NEAR_HUMAN_CHR_lya: "Lya"
-	SWGD_NEAR_HUMAN_CHR_sirra: "Sirra"
-	SWGD_NEAR_HUMAN_CHR_teris: "Teris"
-	SWGD_NEAR_HUMAN_CHR_terral: "Terral"
-	SWGD_NEAR_HUMAN_CHR_riema: "Riema"
-	SWGD_NEAR_HUMAN_CHR_erri: "Erri"
-	SWGD_NEAR_HUMAN_CHR_shanna: "Shanna"
-	SWGD_NEAR_HUMAN_CHR_lyra: "Lyra"
-	SWGD_NEAR_HUMAN_CHR_pranda: "Pranda"
-	SWGD_NEAR_HUMAN_CHR_luna: "Luna"
-	SWGD_NEAR_HUMAN_CHR_cally: "Cally"
-	SWGD_NEAR_HUMAN_CHR_viqi: "Viqi"
-	SWGD_NEAR_HUMAN_CHR_hadriel: "Hadriel"
-	SWGD_NEAR_HUMAN_CHR_lora: "Lora"
-	SWGD_NEAR_HUMAN_CHR_selena: "Selena"
-	SWGD_NEAR_HUMAN_CHR_zana: "Zana"
-	SWGD_NEAR_HUMAN_CHR_tuija: "Tuija"
-	SWGD_NEAR_HUMAN_CHR_railin: "Railin"
-	SWGD_NEAR_HUMAN_CHR_odona: "Odona"
-	SWGD_NEAR_HUMAN_CHR_shyon: "Shyon"
-	SWGD_NEAR_HUMAN_CHR_walas: "Walas"
-	SWGD_NEAR_HUMAN_CHR_rylla: "Rylla"
-	SWGD_NEAR_HUMAN_CHR_gara: "Gara"
-	SWGD_NEAR_HUMAN_CHR_delos: "Delos"
-	SWGD_NEAR_HUMAN_CHR_loretta: "Loretta"
-	SWGD_NEAR_HUMAN_CHR_luhon: "Luhon"
-	SWGD_NEAR_HUMAN_CHR_delinia: "Delinia"
-	SWGD_NEAR_HUMAN_CHR_aama: "Aama"
-	SWGD_NEAR_HUMAN_CHR_shorya: "Shorya"
-	SWGD_NEAR_HUMAN_CHR_melfina: "Melfina"
-	SWGD_NEAR_HUMAN_CHR_davessi: "Davessi"
-	SWGD_NEAR_HUMAN_CHR_larana: "Larana"
-	SWGD_NEAR_HUMAN_CHR_galatea: "Galatea"
-	SWGD_NEAR_HUMAN_CHR_nola: "Nola"
-	SWGD_NEAR_HUMAN_CHR_syna: "Syna"
-	SWGD_NEAR_HUMAN_CHR_jauhzmynn: "Jauhzmynn"
-	SWGD_NEAR_HUMAN_CHR_anen: "Anen"
-	SWGD_NEAR_HUMAN_CHR_orona: "Orona"
-	SWGD_NEAR_HUMAN_CHR_yana: "Yana"
-	SWGD_NEAR_HUMAN_CHR_zoras: "Zoras"
-	SWGD_NEAR_HUMAN_CHR_ree: "Ree"
-	SWGD_NEAR_HUMAN_CHR_grace: "Grace"
-	SWGD_NEAR_HUMAN_CHR_tantema: "Tantema"
-	SWGD_NEAR_HUMAN_CHR_myn: "Myn"
-	SWGD_NEAR_HUMAN_CHR_una: "Una"
-	SWGD_NEAR_HUMAN_CHR_dalharil: "Dalharil"
-	SWGD_NEAR_HUMAN_CHR_losa: "Losa"
-	SWGD_NEAR_HUMAN_CHR_sovi: "Sovi"
-	SWGD_NEAR_HUMAN_CHR_elaiza: "Elaiza"
-	SWGD_NEAR_HUMAN_CHR_vucora: "Vucora"
-	SWGD_NEAR_HUMAN_CHR_ava: "Ava"
-	SWGD_NEAR_HUMAN_CHR_joi: "Joi"
-	SWGD_NEAR_HUMAN_CHR_stryka: "Stryka"
-	SWGD_NEAR_HUMAN_CHR_shandra: "Shandra"
-	SWGD_NEAR_HUMAN_CHR_kely: "Kely"
-	SWGD_NEAR_HUMAN_CHR_caileta: "Caileta"
-	SWGD_NEAR_HUMAN_CHR_taia: "Taia"
-	SWGD_NEAR_HUMAN_CHR_siala: "Siala"
-	SWGD_NEAR_HUMAN_CHR_reki: "Reki"
-	SWGD_NEAR_HUMAN_CHR_maydla: "Maydla"
-	SWGD_NEAR_HUMAN_CHR_bot: "Bot"
-	SWGD_NEAR_HUMAN_CHR_kiandra: "Kiandra"
-	SWGD_NEAR_HUMAN_CHR_xilaren: "Xilaren"
-	SWGD_NEAR_HUMAN_CHR_zulara: "Zulara"
-	SWGD_NEAR_HUMAN_CHR_ren: "Ren"
-	SWGD_NEAR_HUMAN_CHR_karissa: "Karissa"
-	SWGD_NEAR_HUMAN_CHR_haruko: "Haruko"
-	SWGD_NEAR_HUMAN_CHR_jenna: "Jenna"
-	SWGD_NEAR_HUMAN_CHR_liana: "Liana"
-	SWGD_NEAR_HUMAN_CHR_rale: "Rale"
-	SWGD_NEAR_HUMAN_CHR_megara: "Megara"
-	SWGD_NEAR_HUMAN_CHR_aria: "Aria"
-	SWGD_NEAR_HUMAN_CHR_akiva: "Akiva"
-	SWGD_NEAR_HUMAN_CHR_nalah: "Nalah"
-	SWGD_NEAR_HUMAN_CHR_erlem: "Erlem"
-	SWGD_NEAR_HUMAN_CHR_nali: "Nali"
-	SWGD_NEAR_HUMAN_CHR_fallah: "Fallah"
-	SWGD_NEAR_HUMAN_CHR_kotrana: "Kotrana"
-	SWGD_NEAR_HUMAN_CHR_aayla: "Aayla"
-	SWGD_NEAR_HUMAN_CHR_kalira: "Kalira"
-	SWGD_NEAR_HUMAN_CHR_arani: "Arani"
-	SWGD_NEAR_HUMAN_CHR_fama: "Fama"
-	SWGD_NEAR_HUMAN_CHR_lyyr: "Lyyr"
-	SWGD_NEAR_HUMAN_CHR_arcas: "Arcas"
-	SWGD_NEAR_HUMAN_CHR_rane: "Rane"
-	SWGD_NEAR_HUMAN_CHR_nayru: "Nayru"
-	SWGD_NEAR_HUMAN_CHR_zylas: "Zylas"
-	SWGD_NEAR_HUMAN_CHR_vexa: "Vexa"
-	SWGD_NEAR_HUMAN_CHR_kana: "Kana"
-	SWGD_NEAR_HUMAN_CHR_beru: "Beru"
-	SWGD_NEAR_HUMAN_CHR_elysar: "Elysar"
-	SWGD_NEAR_HUMAN_CHR_tisa: "Tisa"
-	SWGD_NEAR_HUMAN_CHR_wahia: "Wahia"
-	SWGD_NEAR_HUMAN_CHR_wezz: "Wezz"
-	SWGD_NEAR_HUMAN_CHR_unic: "Unic"
-	SWGD_NEAR_HUMAN_CHR_tiovata: "Tiovata"
-	SWGD_NEAR_HUMAN_CHR_nakcohh: "Nakcohh"
-	SWGD_NEAR_HUMAN_CHR_vitaan: "Vitaan"
-	SWGD_NEAR_HUMAN_CHR_mefrid: "Mefrid"
-	SWGD_NEAR_HUMAN_CHR_daklan: "Daklan"
-	SWGD_NEAR_HUMAN_CHR_kenzee: "Kenzee"
-	SWGD_NEAR_HUMAN_CHR_joben: "Joben"
-	SWGD_NEAR_HUMAN_CHR_thegas: "Thegas"
-	SWGD_NEAR_HUMAN_CHR_moryne: "Moryne"
-	SWGD_NEAR_HUMAN_CHR_holgor: "Holgor"
-	SWGD_NEAR_HUMAN_CHR_ijaaz: "Ijaaz"
-	SWGD_NEAR_HUMAN_CHR_tromans: "Tromans"
-	SWGD_NEAR_HUMAN_CHR_sprax: "Sprax"
-	SWGD_NEAR_HUMAN_CHR_knesos: "Knesos"
-	SWGD_NEAR_HUMAN_CHR_lasek: "Lasek"
-	SWGD_NEAR_HUMAN_CHR_artis: "Artis"
-	SWGD_NEAR_HUMAN_CHR_pax: "Pax"
-	SWGD_NEAR_HUMAN_CHR_corso: "Corso"
-	SWGD_NEAR_HUMAN_CHR_fallon: "Fallon"
-	SWGD_NEAR_HUMAN_CHR_gundo: "Gundo"
-	SWGD_NEAR_HUMAN_CHR_ruana: "Ruana"
-	SWGD_NEAR_HUMAN_CHR_fremlin: "Fremlin"
-	SWGD_NEAR_HUMAN_CHR_thont: "Thont"
-	SWGD_NEAR_HUMAN_CHR_creel: "Creel"
-	SWGD_NEAR_HUMAN_CHR_rar: "Rar"
-	SWGD_NEAR_HUMAN_CHR_dusat: "Dusat"
-	SWGD_NEAR_HUMAN_CHR_kessler: "Kessler"
-	SWGD_NEAR_HUMAN_CHR_shaia: "Shaia"
-	SWGD_NEAR_HUMAN_CHR_el_theriam: "El-Theriam"
-	SWGD_NEAR_HUMAN_CHR_vanmeer: "VanMeer"
-	SWGD_NEAR_HUMAN_CHR_vrieska: "Vrieska"
-	SWGD_NEAR_HUMAN_CHR_calway: "Calway"
-	SWGD_NEAR_HUMAN_CHR_yamaguchi: "Yamaguchi"
-	SWGD_NEAR_HUMAN_CHR_riggers: "Riggers"
-	SWGD_NEAR_HUMAN_CHR_brower: "Brower"
-	SWGD_NEAR_HUMAN_CHR_fash: "Fash"
-	SWGD_NEAR_HUMAN_CHR_nalto: "Nalto"
-	SWGD_NEAR_HUMAN_CHR_stryder: "Stryder"
-	SWGD_NEAR_HUMAN_CHR_dubreas: "Dubreas"
-	SWGD_NEAR_HUMAN_CHR_colsan: "Colsan"
-	SWGD_NEAR_HUMAN_CHR_terrek: "Terrek"
-	SWGD_NEAR_HUMAN_CHR_solon: "Solon"
-	SWGD_NEAR_HUMAN_CHR_merquise: "Merquise"
-	SWGD_NEAR_HUMAN_CHR_varn: "Varn"
-	SWGD_NEAR_HUMAN_CHR_basai: "Basai"
-	SWGD_NEAR_HUMAN_CHR_froud: "Froud"
-	SWGD_NEAR_HUMAN_CHR_addacess: "Addacess"
-	SWGD_NEAR_HUMAN_CHR_durgen: "Durgen"
-	SWGD_NEAR_HUMAN_CHR_slahlvo: "Slahlvo"
-	SWGD_NEAR_HUMAN_CHR_remex: "Remex"
-	SWGD_NEAR_HUMAN_CHR_madowki: "Madowki"
-	SWGD_NEAR_HUMAN_CHR_hayes: "Hayes"
-	SWGD_NEAR_HUMAN_CHR_ne: "Ne"
-	SWGD_NEAR_HUMAN_CHR_dago: "Dago"
-	SWGD_NEAR_HUMAN_CHR_greenback: "Greenback"
-	SWGD_NEAR_HUMAN_CHR_stithta: "Stithta"
-	SWGD_NEAR_HUMAN_CHR_ker: "Ker"
-	SWGD_NEAR_HUMAN_CHR_driet: "Driet"
-	SWGD_NEAR_HUMAN_CHR_klakk: "Klakk"
-	SWGD_NEAR_HUMAN_CHR_reed: "Reed"
-	SWGD_NEAR_HUMAN_CHR_lefex: "Lefex"
-	SWGD_NEAR_HUMAN_CHR_minn: "Minn"
-	SWGD_NEAR_HUMAN_CHR_irokini: "Irokini"
-	SWGD_NEAR_HUMAN_CHR_roye: "Roye"
-	SWGD_NEAR_HUMAN_CHR_danakar: "Danakar"
-	SWGD_NEAR_HUMAN_CHR_forin: "Forin"
-	SWGD_NEAR_HUMAN_CHR_glopio: "Glopio"
-	SWGD_NEAR_HUMAN_CHR_shenuri: "Shenuri"
-	SWGD_NEAR_HUMAN_CHR_corcer: "Corcer"
-	SWGD_NEAR_HUMAN_CHR_ordo: "Ordo"
-	SWGD_NEAR_HUMAN_CHR_wan: "Wan"
-	SWGD_NEAR_HUMAN_CHR_tagratt: "Tagratt"
-	SWGD_NEAR_HUMAN_CHR_golladio: "Golladio"
-	SWGD_NEAR_HUMAN_CHR_adramcsia: "Adramcsia"
-	SWGD_NEAR_HUMAN_CHR_jetberg: "Jetberg"
-	SWGD_NEAR_HUMAN_CHR_noth: "Noth"
-	SWGD_NEAR_HUMAN_CHR_taske: "Taske"
-	SWGD_NEAR_HUMAN_CHR_komo: "Komo"
-	SWGD_NEAR_HUMAN_CHR_styles: "Styles"
-	SWGD_NEAR_HUMAN_CHR_angavel: "Angavel"
-	SWGD_NEAR_HUMAN_CHR_tyrnith: "Tyrnith"
-	SWGD_NEAR_HUMAN_CHR_yavoog: "Yavoog"
-	SWGD_NEAR_HUMAN_CHR_kelbier: "Kelbier"
-	SWGD_NEAR_HUMAN_CHR_racto: "Racto"
-	SWGD_NEAR_HUMAN_CHR_degor: "Degor"
-	SWGD_NEAR_HUMAN_CHR_magre: "Magre"
-	SWGD_NEAR_HUMAN_CHR_soylon: "Soylon"
-	SWGD_NEAR_HUMAN_CHR_lerann: "Lerann"
-	SWGD_NEAR_HUMAN_CHR_chro: "Chro"
-	SWGD_NEAR_HUMAN_CHR_finn: "Finn"
-	SWGD_NEAR_HUMAN_CHR_blackmoor: "Blackmoor"
-	SWGD_NEAR_HUMAN_CHR_hwang: "Hwang"
-	SWGD_NEAR_HUMAN_CHR_vekarr: "Vekarr"
-	SWGD_NEAR_HUMAN_CHR_amon: "Amon"
-	SWGD_NEAR_HUMAN_CHR_thiddex: "Thiddex"
-	SWGD_NEAR_HUMAN_CHR_selkayim: "Selkayim"
-	SWGD_NEAR_HUMAN_CHR_gilder: "Gilder"
-	SWGD_NEAR_HUMAN_CHR_dhuramav: "Dhuramav"
-	SWGD_NEAR_HUMAN_CHR_kodd: "Kodd"
-	SWGD_NEAR_HUMAN_CHR_morin: "Morin"
-	SWGD_NEAR_HUMAN_CHR_kobylarz: "Kobylarz"
-	SWGD_NEAR_HUMAN_CHR_tade: "Tade"
-	SWGD_NEAR_HUMAN_CHR_solman: "Solman"
-	SWGD_NEAR_HUMAN_CHR_bintaghr: "Bintaghr"
-	SWGD_NEAR_HUMAN_CHR_marclonus: "Marclonus"
-	SWGD_NEAR_HUMAN_CHR_precore: "Precore"
-	SWGD_NEAR_HUMAN_CHR_solborne: "Solborne"
-	SWGD_NEAR_HUMAN_CHR_bailer: "Bailer"
-	SWGD_NEAR_HUMAN_CHR_katarn: "Katarn"
-	SWGD_NEAR_HUMAN_CHR_anjek: "Anjek"
-	SWGD_NEAR_HUMAN_CHR_dalgas: "Dalgas"
-	SWGD_NEAR_HUMAN_CHR_kast: "Kast"
-	SWGD_NEAR_HUMAN_CHR_airerith: "Airerith"
-	SWGD_NEAR_HUMAN_CHR_halo: "Halo"
-	SWGD_NEAR_HUMAN_CHR_clash: "Clash"
-	SWGD_NEAR_HUMAN_CHR_jalba: "Jalba"
-	SWGD_NEAR_HUMAN_CHR_benn: "Benn"
-	SWGD_NEAR_HUMAN_CHR_haruhana: "Haruhana"
-	SWGD_NEAR_HUMAN_CHR_roice: "Roice"
-	SWGD_NEAR_HUMAN_CHR_lokar: "Lokar"
-	SWGD_NEAR_HUMAN_CHR_korpil: "Korpil"
-	SWGD_NEAR_HUMAN_CHR_turon: "Turon"
-	SWGD_NEAR_HUMAN_CHR_cavi: "Cavi"
-	SWGD_NEAR_HUMAN_CHR_deece: "Deece"
-	SWGD_NEAR_HUMAN_CHR_braitano: "Braitano"
-	SWGD_NEAR_HUMAN_CHR_garnik: "Garnik"
-	SWGD_NEAR_HUMAN_CHR_tyandas: "Tyandas"
-	SWGD_NEAR_HUMAN_CHR_ka_taramas: "Ka'Taramas"
-	SWGD_NEAR_HUMAN_CHR_nuwest: "Nuwest"
-	SWGD_NEAR_HUMAN_CHR_forte: "Forte"
-	SWGD_NEAR_HUMAN_CHR_noshey: "Noshey"
-	SWGD_NEAR_HUMAN_CHR_gyyll: "Gyyll"
-	SWGD_NEAR_HUMAN_CHR_tallon: "Tallon"
-	SWGD_NEAR_HUMAN_CHR_lionne: "Lionne"
-	SWGD_NEAR_HUMAN_CHR_adras: "Adras"
-	SWGD_NEAR_HUMAN_CHR_peoly: "Peoly"
-	SWGD_NEAR_HUMAN_CHR_damiel: "Damiel"
-	SWGD_NEAR_HUMAN_CHR_chup_pau: "Chup-Pau"
-	SWGD_NEAR_HUMAN_CHR_drayven: "Drayven"
-	SWGD_NEAR_HUMAN_CHR_zaposug: "Zaposug"
-	SWGD_NEAR_HUMAN_CHR_bela_trepada: "Bela-Trepada"
-	SWGD_NEAR_HUMAN_CHR_defelice: "Defelice"
-	SWGD_NEAR_HUMAN_CHR_monsula: "Monsula"
-	SWGD_NEAR_HUMAN_CHR_baralein: "Baralein"
-	SWGD_NEAR_HUMAN_CHR_denive: "Denive"
-	SWGD_NEAR_HUMAN_CHR_hodrren: "Hodrren"
-	SWGD_NEAR_HUMAN_CHR_xergo: "Xergo"
-	SWGD_NEAR_HUMAN_CHR_sarat: "Sarat"
-	SWGD_NEAR_HUMAN_CHR_vercet: "Vercet"
-	SWGD_NEAR_HUMAN_CHR_ossaki: "Ossaki"
-	SWGD_NEAR_HUMAN_CHR_kappa: "Kappa"
-	SWGD_NEAR_HUMAN_CHR_zerga: "Zerga"
-	SWGD_NEAR_HUMAN_CHR_kopos: "Kopos"
-	SWGD_NEAR_HUMAN_CHR_aldrecht: "Aldrecht"
-	SWGD_NEAR_HUMAN_CHR_bohme: "Bohme"
-	SWGD_NEAR_HUMAN_CHR_tull: "Tull"
-	SWGD_NEAR_HUMAN_CHR_eldrel: "Eldrel"
-	SWGD_NEAR_HUMAN_CHR_marh: "Marh"
-	SWGD_NEAR_HUMAN_CHR_darksword: "Darksword"
-	SWGD_NEAR_HUMAN_CHR_krandor: "Krandor"
-	SWGD_NEAR_HUMAN_CHR_montag: "Montag"
-	SWGD_NEAR_HUMAN_CHR_dimodan: "Dimodan"
-	SWGD_NEAR_HUMAN_CHR_starfallen: "Starfallen"
-	SWGD_NEAR_HUMAN_CHR_fett: "Fett"
-	SWGD_NEAR_HUMAN_CHR_mohebbi: "Mohebbi"
-	SWGD_NEAR_HUMAN_CHR_runalian: "Runalian"
-	SWGD_NEAR_HUMAN_CHR_binette: "Binette"
-	SWGD_NEAR_HUMAN_CHR_laurent: "Laurent"
-	SWGD_NEAR_HUMAN_CHR_mavr: "Mavr"
-	SWGD_NEAR_HUMAN_CHR_ryra: "Ryra"
-	SWGD_NEAR_HUMAN_CHR_truden: "Truden"
-	SWGD_NEAR_HUMAN_CHR_solo: "Solo"
-	SWGD_NEAR_HUMAN_CHR_lars: "Lars"
-	SWGD_NEAR_HUMAN_CHR_amedda: "Amedda"
-	SWGD_NEAR_HUMAN_CHR_amidala: "Amidala"
-	SWGD_NEAR_HUMAN_CHR_andrell: "Andrell"
-	SWGD_NEAR_HUMAN_CHR_annon: "Annon"
-	SWGD_NEAR_HUMAN_CHR_antilles: "Antilles"
-	SWGD_NEAR_HUMAN_CHR_atanna: "Atanna"
-	SWGD_NEAR_HUMAN_CHR_baab: "Baab"
-	SWGD_NEAR_HUMAN_CHR_barc: "Barc"
-	SWGD_NEAR_HUMAN_CHR_bonteri: "Bonteri"
-	SWGD_NEAR_HUMAN_CHR_breemu: "Breemu"
-	SWGD_NEAR_HUMAN_CHR_bremack: "Bremack"
-	SWGD_NEAR_HUMAN_CHR_bronk: "Bronk"
-	SWGD_NEAR_HUMAN_CHR_burtoni: "Burtoni"
-	SWGD_NEAR_HUMAN_CHR_cadaman: "Cadaman"
-	SWGD_NEAR_HUMAN_CHR_callen: "Callen"
-	SWGD_NEAR_HUMAN_CHR_clovis: "Clovis"
-	SWGD_NEAR_HUMAN_CHR_ledwellow: "Ledwellow"
-	SWGD_NEAR_HUMAN_CHR_dio: "Dio"
-	SWGD_NEAR_HUMAN_CHR_organa: "Organa"
-	SWGD_NEAR_HUMAN_CHR_mas: "Mas"
-	SWGD_NEAR_HUMAN_CHR_wain: "Wain"
-	SWGD_NEAR_HUMAN_CHR_gabrial: "Gabrial"
-	SWGD_NEAR_HUMAN_CHR_dewell: "Dewell"
-	SWGD_NEAR_HUMAN_CHR_tanner: "Tanner"
-	SWGD_NEAR_HUMAN_CHR_vi: "Vi"
-	SWGD_NEAR_HUMAN_CHR_rush: "Rush"
-	SWGD_NEAR_HUMAN_CHR_danry: "Danry"
-	SWGD_NEAR_HUMAN_CHR_padm_: "Padmé"
-	SWGD_NEAR_HUMAN_CHR_fema: "Fema"
-	SWGD_NEAR_HUMAN_CHR_mina: "Mina"
-	SWGD_NEAR_HUMAN_CHR_bana: "Bana"
-	SWGD_NEAR_HUMAN_CHR_tyreca: "Tyreca"
-	SWGD_NEAR_HUMAN_CHR_halle: "Halle"
-	SWGD_NEAR_HUMAN_CHR_lexi: "Lexi"
-	SWGD_NEAR_HUMAN_CHR_leia: "Leia"
-	SWGD_NEAR_HUMAN_CHR_alyssa: "Alyssa"
-	SWGD_NEAR_HUMAN_CHR_leanna: "Leanna"
-	SWGD_NEAR_HUMAN_CHR_arya: "Arya"
-	SWGD_NEAR_HUMAN_CHR_panteer: "Panteer"
-	SWGD_NEAR_HUMAN_CHR_alde: "Alde"
-	SWGD_NEAR_HUMAN_CHR_frayus: "Frayus"
-	SWGD_NEAR_HUMAN_CHR_cortess: "Cortess"
-	SWGD_NEAR_HUMAN_CHR_killesa: "Killesa"
+	SWGD_NEAR_HUMAN_SHIP_mystic: "Mystic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_naiad: "Naiad" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nautilus: "Nautilus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nebula: "Nebula" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nimble: "Nimble" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_north_star: "North Star" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nymph: "Nymph" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_obdurate: "Obdurate" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ocean: "Ocean" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_onward: "Onward" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_oracle: "Oracle" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_paradox: "Paradox" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_paragon: "Paragon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pearl: "Pearl" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_peregrine: "Peregrine" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_perseverance: "Perseverance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_marksman: "Marksman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_rifleman: "Rifleman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sniper: "Sniper" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_trident: "Trident" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_trumpet: "Trumpet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_truncheon: "Truncheon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_typhoon: "Typhoon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_undaunted: "Undaunted" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_venture: "Venture" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_versatile: "Versatile" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vigorous: "Vigorous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_viper: "Viper" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vivacious: "Vivacious" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_winger: "Winger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wizard: "Wizard" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wyvern: "Wyvern" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wolfhound: "Wolfhound" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_devastator: "Devastator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_warhammer: "Warhammer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_senator: "Senator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tornado: "Tornado" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_infinity: "Infinity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_usurper: "Usurper" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_utmost: "Utmost" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_valorous: "Valorous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_whirlwind: "Whirlwind" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_athena: "Athena" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_artemis: "Artemis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vigilance: "Vigilance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_indomitable: "Indomitable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_goliath: "Goliath" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sentinel: "Sentinel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_brilliant: "Brilliant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_blazer: "Blazer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_audacity: "Audacity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gallant: "Gallant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nova: "Nova" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shadow: "Shadow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_allegiance: "Allegiance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_challenger: "Challenger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_fearless: "Fearless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_protector: "Protector" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_guardian: "Guardian" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_victorious: "Victorious" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_courageous: "Courageous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_defiance: "Defiance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_azrael: "Azrael" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_adamantine: "Adamantine" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_aralanni: "Aralanni" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ardent_iv: "Ardent IV" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_armistice: "Armistice" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_avengeance: "Avengeance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bloodstripe: "Bloodstripe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_borealis: "Borealis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_caelus: "Caelus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_caravan: "Caravan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_chaf_envoy: "Chaf Envoy" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_commenor: "Commenor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_corbantis: "Corbantis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_corellia: "Corellia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_courteous: "Courteous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dauntless: "Dauntless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_defiant: "Defiant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_deliverance: "Deliverance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_derapha: "Derapha" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_devout: "Devout" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_empirical: "Empirical" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_empyrean: "Empyrean" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_era_daimanos: "Era Daimanos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_eye_of_the_storm: "Eye of the Storm" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_farstar: "Farstar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_fastblast: "Fastblast" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_galaaron: "Galaaron" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_garrote: "Garrote" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gilagimar: "Gilagimar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_halleck: "Halleck" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_intractable: "Intractable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ithor_lady: "Ithor Lady" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_justice_crusader: "Justice Crusader" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_kana_s_steel: "Kana's Steel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lathir: "Lathir" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_liberty: "Liberty" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lillibanca: "Lillibanca" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_maelstrom: "Maelstrom" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_malachite_scent: "Malachite Scent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mercy: "Mercy" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_myrkos: "Myrkos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nebula_chaser: "Nebula Chaser" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nova_viper: "Nova Viper" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_obedience: "Obedience" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_olemp: "Olemp" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pegasus: "Pegasus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_perspicacity: "Perspicacity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_phalanx: "Phalanx" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_plooriod_bodkin: "Plooriod Bodkin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_predominance: "Predominance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_purity: "Purity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_recalcitrant: "Recalcitrant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_red_nova: "Red Nova" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_redma: "Redma" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reliable: "Reliable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reliant: "Reliant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reluctant: "Reluctant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_republic: "Republic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_republic_s_return: "Republic's Return" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_resolve: "Resolve" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_respectable: "Respectable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_revenge: "Revenge" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shadowblade: "Shadowblade" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spritespray: "Spritespray" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_star_dream: "Star Dream" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stark_wing: "Stark Wing" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_starveil: "Starveil" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_undying: "Undying" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vaathkree: "Vaathkree" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vainglorious: "Vainglorious" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_valiant: "Valiant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_valor: "Valor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vanquisher: "Vanquisher" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vinsor: "Vinsor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_visseon: "Visseon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wennis: "Wennis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_yavin_s_glory: "Yavin's Glory" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_moldy_crow: "Moldy Crow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_raven_s_claw: "Raven's Claw" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_agile: "Agile" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_archer: "Archer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_arrow: "Arrow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bruiser: "Bruiser" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cherub: "Cherub" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_chimera: "Chimera" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_claymore: "Claymore" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_broadsword: "Broadsword" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_battleaxe: "Battleaxe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_crossbow: "Crossbow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cutlass: "Cutlass" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_deterrent: "Deterrent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_errant: "Errant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_faithful: "Faithful" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_fierce: "Fierce" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gladius: "Gladius" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_longbow: "Longbow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hammer: "Hammer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vampire: "Vampire" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_velox: "Velox" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_venator: "Venator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vendetta: "Vendetta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_venerable: "Venerable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_venomous: "Venomous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_taciturn: "Taciturn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_supreme: "Supreme" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_success: "Success" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shredder: "Shredder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_seraph: "Seraph" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spitfire: "Spitfire" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stratagem: "Stratagem" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scimitar: "Scimitar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scorcher: "Scorcher" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scythe: "Scythe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_revenant: "Revenant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_redoubtable: "Redoubtable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_raptor: "Raptor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prodigal: "Prodigal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_rapier: "Rapier" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prudent: "Prudent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_persistent: "Persistent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_peerless: "Peerless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_myrmidon: "Myrmidon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_indignant: "Indignant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_javelin: "Javelin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_knight: "Knight" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_starwolf: "Starwolf" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bonaventure: "Bonaventure" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_adventure: "Adventure" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_boxer: "Boxer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_buccaneer: "Buccaneer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cavalier: "Cavalier" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_celestial: "Celestial" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_chariot: "Chariot" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_comet: "Comet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_crucible: "Crucible" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cyclone: "Cyclone" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_decisive: "Decisive" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dexterous: "Dexterous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_diadem: "Diadem" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_earnest: "Earnest" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_eclipse: "Eclipse" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_fortune: "Fortune" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gauntlet: "Gauntlet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_griffin: "Griffin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_horizon: "Horizon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hotspur: "Hotspur" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hurricane: "Hurricane" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hussar: "Hussar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_jubilant: "Jubilant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lancer: "Lancer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lightning: "Lightning" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_magic: "Magic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mediator: "Mediator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mermaid: "Mermaid" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_meteor: "Meteor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_minstrel: "Minstrel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mustang: "Mustang" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sharpshooter: "Sharpshooter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cyclops: "Cyclops" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_centaur: "Centaur" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_adversary: "Adversary" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_assassin: "Assassin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dagger: "Dagger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_daring: "Daring" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_duty: "Duty" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_havoc: "Havoc" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hero: "Hero" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_justice: "Justice" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_impeccable: "Impeccable" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_interceptor: "Interceptor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_infernal: "Infernal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_loyal: "Loyal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_matchless: "Matchless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mauler: "Mauler" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mayhem: "Mayhem" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_malice: "Malice" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_menace: "Menace" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_merciless: "Merciless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mischief: "Mischief" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_patriot: "Patriot" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_predator: "Predator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_powerful: "Powerful" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ravager: "Ravager" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reaper: "Reaper" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_savage: "Savage" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_templar: "Templar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_terminator: "Terminator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_terror: "Terror" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_minotaur: "Minotaur" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_manticore: "Manticore" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_interdictor: "Interdictor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_intruder: "Intruder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hydra: "Hydra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_enfield: "Enfield" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_unbeaten: "Unbeaten" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_werewolf: "Werewolf" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_zealous: "Zealous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_petulant: "Petulant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_phantom: "Phantom" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_phoenix: "Phoenix" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pike: "Pike" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_raider: "Raider" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_rainbow: "Rainbow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_rapid: "Rapid" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_redemption: "Redemption" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_relentless: "Relentless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_rigorous: "Rigorous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_robust: "Robust" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sabre: "Sabre" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_salvation: "Salvation" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sanguine: "Sanguine" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scarab: "Scarab" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scepter: "Scepter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sea_witch: "Sea Witch" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_siren: "Siren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sorceress: "Sorceress" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spearhead: "Spearhead" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_specter: "Specter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spirit: "Spirit" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_splendid: "Splendid" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stallion: "Stallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stalwart: "Stalwart" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_steadfast: "Steadfast" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_strenuous: "Strenuous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_superb: "Superb" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_supernova: "Supernova" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_surprise: "Surprise" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_swiftsure: "Swiftsure" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_talent: "Talent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_talisman: "Talisman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_talon: "Talon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_taurus: "Taurus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tenacious: "Tenacious" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_thunder_child: "Thunder Child" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_thunderous: "Thunderous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tireless: "Tireless" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_trenchant: "Trenchant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_righteous: "Righteous" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_acheron: "Acheron" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_achilles: "Achilles" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_agamemnon: "Agamemnon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_amphion: "Amphion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_aquilon: "Aquilon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_argonaut: "Argonaut" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_argus: "Argus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ariel: "Ariel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_aurora: "Aurora" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_avernus: "Avernus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bacchus: "Bacchus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bucephalus: "Bucephalus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_calliope: "Calliope" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_calypso: "Calypso" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_castor: "Castor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_charybdis: "Charybdis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_circe: "Circe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cleopatra: "Cleopatra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_constantine: "Constantine" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cordelia: "Cordelia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cyrus: "Cyrus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_damocles: "Damocles" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_daedalus: "Daedalus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_darius: "Darius" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_diomede: "Diomede" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dryad: "Dryad" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_electra: "Electra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_endymion: "Endymion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_erebus: "Erebus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_fenris: "Fenris" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_freya: "Freya" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gilgamesh: "Gilgamesh" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gorgon: "Gorgon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_halcyon: "Halcyon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hecate: "Hecate" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hector: "Hector" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hesperus: "Hesperus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_janus: "Janus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_jason: "Jason" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_juno: "Juno" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_jupiter: "Jupiter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lancelot: "Lancelot" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lazarus: "Lazarus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_leander: "Leander" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_leonidas: "Leonidas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_lysander: "Lysander" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_maenad: "Maenad" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mars: "Mars" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_medea: "Medea" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_medusa: "Medusa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_menestheus: "Menestheus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_mercury: "Mercury" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_merlin: "Merlin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_minerva: "Minerva" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_minos: "Minos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_neptune: "Neptune" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nessus: "Nessus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nestor: "Nestor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nimrod: "Nimrod" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_niobe: "Niobe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_oberon: "Oberon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_odin: "Odin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ophelia: "Ophelia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_orestes: "Orestes" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_orpheus: "Orpheus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_osiris: "Osiris" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pandora: "Pandora" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_penelope: "Penelope" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_persephone: "Persephone" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_perseus: "Perseus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_phoebe: "Phoebe" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pluto: "Pluto" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_poseidon: "Poseidon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_proteus: "Proteus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pylades: "Pylades" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_serapis: "Serapis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_stygian: "Stygian" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tantalus: "Tantalus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_telemachus: "Telemachus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_theseus: "Theseus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_thor: "Thor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_trajan: "Trajan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_triton: "Triton" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_venus: "Venus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_adamant: "Adamant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ardent: "Ardent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_assail: "Assail" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_austere: "Austere" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_archon: "Archon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_adroit: "Adroit" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_aegis: "Aegis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_banshee: "Banshee" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_enchantress: "Enchantress" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_eradicator: "Eradicator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_legion: "Legion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_reprisal: "Reprisal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_aggressor: "Aggressor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_assault: "Assault" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_eviscerator: "Eviscerator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_imperator: "Imperator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_excellence: "Excellence" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_unrivalled: "Unrivalled" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_warlord: "Warlord" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vengeance: "Vengeance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_triumphant: "Triumphant" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_avenger: "Avenger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_champion: "Champion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_conqueror: "Conqueror" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_crusader: "Crusader" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_glory: "Glory" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_immortal: "Immortal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_judicator: "Judicator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vanguard: "Vanguard" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_renown: "Renown" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_demolisher: "Demolisher" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dragon: "Dragon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_executor: "Executor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_furious: "Furious" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gladiator: "Gladiator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_magnificent: "Magnificent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ogre: "Ogre" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_onslaught: "Onslaught" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vehement: "Vehement" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tempest: "Tempest" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_overlord: "Overlord" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_warrior: "Warrior" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_titan: "Titan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_colossus: "Colossus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prometheus: "Prometheus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nike: "Nike" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_paladin: "Paladin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_sovereign: "Sovereign" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_repulse: "Repulse" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_majestic: "Majestic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_behemoth: "Behemoth" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_centurion: "Centurion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_harbinger: "Harbinger" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_juggernaut: "Juggernaut" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_leviathan: "Leviathan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_katana: "Katana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_kraken: "Kraken" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cerberus: "Cerberus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_valkyrie: "Valkyrie" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hyperion: "Hyperion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_galatea: "Galatea" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ambush: "Ambush" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vindicator: "Vindicator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_conquistador: "Conquistador" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_torch: "Torch" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_potential: "Potential" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_isis: "Isis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_community: "Community" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_assiduity: "Assiduity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_effort: "Effort" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_hard_hat: "Hard Hat" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_progress: "Progress" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_service: "Service" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_factory: "Factory" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ptah: "Ptah" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ilmarinen: "Ilmarinen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_creidhne: "Creidhne" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_gobannus: "Gobannus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_luchtaine: "Luchtaine" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_goibniu: "Goibniu" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_vishvakarman: "Vishvakarman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_tvastar: "Tvastar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ikenga: "Ikenga" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_qaynan: "Qaynan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ucuetis: "Ucuetis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_ogoun: "Ogoun" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_501st_battalion: "501st Battalion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_301st_battalion: "301st Battalion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_black_watch_battalion: "Black Watch Battalion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_212th_assault_battallion: "212th Assault Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_41st_elite_corps: "41st Elite Corps" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_7th_sky_corps: "7th Sky Corps" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_91st_battallion: "91st Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_231st_assault_battallion: "231st Assault Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_alpha_battallion: "Alpha Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_bravo_battallion: "Bravo Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_delta_battallion: "Delta Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_203rd_assault_battallion: "203rd Assault Battallion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_22nd_elite_corps: "22nd Elite Corps" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_71st_elite_corps: "71st Elite Corps" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_outpost: "Outpost" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_orbital_defense: "Orbital Defense" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_spacedock: "Spacedock" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_orbital_security: "Orbital Security" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_port: "Port" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_battlestation: "Battlestation" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_SHIP_shipyard: "Shipyard" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_FLEET_republic_defense_fleet_ORD: "$ORD$ Republic Defense Fleet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_republic_planetary_guard_ORD: "$ORD$ Republic Planetary Guard" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_republic_infantry_company_ORD: "$ORD$ Republic Infantry Company" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_slave_units_ORD: "$ORD$ Slave Units" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_clone_battalion_ORD: "$ORD$ Clone Battalion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_battledroid_platoon_ORD: "$ORD$ Battledroid Platoon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_jedi_warriors_ORD: "$ORD$ Jedi Warriors" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__rahab_: "Experimental Unit 'Rahab'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__jaculus_: "Experimental Unit 'Jaculus'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__amaru_: "Experimental Unit 'Amaru'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__orochi_: "Experimental Unit 'Orochi'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__typhon_: "Experimental Unit 'Typhon'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__illuyanka_: "Experimental Unit 'Illuyanka'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__bakunawa_: "Experimental Unit 'Bakunawa'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__fafnir_: "Experimental Unit 'Fafnir'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__tarasque_: "Experimental Unit 'Tarasque'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_experimental_unit__tiamat_: "Experimental Unit 'Tiamat'" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_ARMY_eugenic_vanguard_ORD: "$ORD$ Eugenic Vanguard" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bail: "Bail" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ylenic: "Ylenic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kel: "Kel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gunn: "Gunn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gregory: "Gregory" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jonas: "Jonas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_xerda: "Xerda" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_carth: "Carth" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kir: "Kir" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mebba: "Mebba" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dagos: "Dagos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_adam: "Adam" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kyle: "Kyle" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_forren: "Forren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_malcolm: "Malcolm" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jeho: "Jeho" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lee: "Lee" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_griggs: "Griggs" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_milo: "Milo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aeron: "Aeron" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_byrec: "Byrec" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_strata: "Strata" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lancer: "Lancer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zeak: "Zeak" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_niuk: "Niuk" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lavidean: "Lavidean" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tanizandar: "Tanizandar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_japla: "Japla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aran: "Aran" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rail: "Rail" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zeven: "Zeven" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yakown: "Yakown" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sibar: "Sibar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sair: "Sair" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_klai: "Klai" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_imay: "Imay" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_traest: "Traest" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_simo: "Simo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_riyan: "Riyan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_magnus: "Magnus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_boceta: "Boceta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_agnook: "Agnook" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_silus: "Silus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rowan: "Rowan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_coren: "Coren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jett: "Jett" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_linth: "Linth" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_annor: "Annor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ulas: "Ulas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tal: "Tal" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_plo: "Plo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_torin: "Torin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_boone: "Boone" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_davith: "Davith" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bertos: "Bertos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ress: "Ress" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_malius: "Malius" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kale: "Kale" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cregan: "Cregan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_galen: "Galen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zekk: "Zekk" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jinn_tu: "Jinn-Tu" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jaryn: "Jaryn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gentti: "Gentti" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yu_sien: "Yu-Sien" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_akela: "Akela" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_arslan: "Arslan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sidias: "Sidias" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_haken: "Haken" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_biran: "Biran" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vidown: "Vidown" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ares: "Ares" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ithan: "Ithan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_thoja: "Thoja" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cron: "Cron" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mossi: "Mossi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_abric: "Abric" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_darg: "Darg" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gaman: "Gaman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_naiad: "Naiad" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_herub: "Herub" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_marius: "Marius" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_torkin: "Torkin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_caton: "Caton" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kane: "Kane" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_versita: "Versita" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cric: "Cric" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_montacca: "Montacca" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jospi: "Jospi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_baz: "Baz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kam: "Kam" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_erek: "Erek" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lerak: "Lerak" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_morla: "Morla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_baxter: "Baxter" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_talan: "Talan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_thion: "Thion" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kannon: "Kannon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_corsair: "Corsair" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_caster: "Caster" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_elden: "Elden" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_faelgrom: "Faelgrom" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jack: "Jack" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_flash: "Flash" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_waseem: "Waseem" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bendak: "Bendak" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kaz: "Kaz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_montileu: "Montileu" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gonoga: "Gonoga" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_galven: "Galven" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ric: "Ric" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rebar: "Rebar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jebediah: "Jebediah" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aramil: "Aramil" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_delmi: "Delmi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_caalin: "Caalin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rassth: "Rassth" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_adorn: "Adorn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cyrus: "Cyrus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zhar_khan: "Zhar-Khan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_predor: "Predor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_boaz: "Boaz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bradley: "Bradley" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bobecc: "Bobecc" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jelantos: "Jelantos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jephego: "Jephego" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_svante: "Svante" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aeon: "Aeon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dekar: "Dekar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jean_francois: "Jean-Francois" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_elen: "Elen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_han: "Han" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_owen: "Owen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_biggs: "Biggs" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_charratha: "Charratha" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_edaara: "Edaara" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bella: "Bella" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_callista: "Callista" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mara: "Mara" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_seena: "Seena" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_areta: "Areta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cord: "Cord" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cyrinity: "Cyrinity" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nile: "Nile" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yasmyn: "Yasmyn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_satra: "Satra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shehish: "Shehish" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sarna: "Sarna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_krava: "Krava" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_roxis: "Roxis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jessa: "Jessa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aqua: "Aqua" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_maryna: "Maryna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_essaj: "Essaj" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_looriw: "Looriw" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_teeana: "Teeana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_raena: "Raena" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yula: "Yula" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vifi: "Vifi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vania: "Vania" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aerena: "Aerena" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nataya: "Nataya" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bernarda: "Bernarda" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_geela: "Geela" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lya: "Lya" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sirra: "Sirra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_teris: "Teris" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_terral: "Terral" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_riema: "Riema" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_erri: "Erri" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shanna: "Shanna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lyra: "Lyra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_pranda: "Pranda" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_luna: "Luna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cally: "Cally" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_viqi: "Viqi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lora: "Lora" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_selena: "Selena" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zana: "Zana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tuija: "Tuija" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_railin: "Railin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_odona: "Odona" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shyon: "Shyon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_walas: "Walas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rylla: "Rylla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gara: "Gara" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_delos: "Delos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_loretta: "Loretta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_luhon: "Luhon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_delinia: "Delinia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aama: "Aama" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shorya: "Shorya" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_melfina: "Melfina" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_davessi: "Davessi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_larana: "Larana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_galatea: "Galatea" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nola: "Nola" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_syna: "Syna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_anen: "Anen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_orona: "Orona" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yana: "Yana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zoras: "Zoras" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ree: "Ree" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_grace: "Grace" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tantema: "Tantema" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_myn: "Myn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_una: "Una" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_losa: "Losa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sovi: "Sovi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_elaiza: "Elaiza" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vucora: "Vucora" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ava: "Ava" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_joi: "Joi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_stryka: "Stryka" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shandra: "Shandra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kely: "Kely" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_caileta: "Caileta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_taia: "Taia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_siala: "Siala" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_reki: "Reki" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_maydla: "Maydla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bot: "Bot" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zulara: "Zulara" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ren: "Ren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_karissa: "Karissa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_haruko: "Haruko" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jenna: "Jenna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_liana: "Liana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rale: "Rale" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_megara: "Megara" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aria: "Aria" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_akiva: "Akiva" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nalah: "Nalah" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_erlem: "Erlem" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nali: "Nali" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fallah: "Fallah" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aayla: "Aayla" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kalira: "Kalira" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_arani: "Arani" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fama: "Fama" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_arcas: "Arcas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rane: "Rane" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nayru: "Nayru" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zylas: "Zylas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vexa: "Vexa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kana: "Kana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_beru: "Beru" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_elysar: "Elysar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tisa: "Tisa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_wahia: "Wahia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_wezz: "Wezz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_unic: "Unic" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tiovata: "Tiovata" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nakcohh: "Nakcohh" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vitaan: "Vitaan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mefrid: "Mefrid" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_daklan: "Daklan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kenzee: "Kenzee" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_joben: "Joben" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_thegas: "Thegas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_moryne: "Moryne" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_holgor: "Holgor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ijaaz: "Ijaaz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tromans: "Tromans" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sprax: "Sprax" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_knesos: "Knesos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lasek: "Lasek" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_artis: "Artis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_pax: "Pax" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_corso: "Corso" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fallon: "Fallon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gundo: "Gundo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ruana: "Ruana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fremlin: "Fremlin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_thont: "Thont" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_creel: "Creel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rar: "Rar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dusat: "Dusat" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kessler: "Kessler" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shaia: "Shaia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_el_theriam: "El-Theriam" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vanmeer: "VanMeer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_calway: "Calway" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yamaguchi: "Yamaguchi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_riggers: "Riggers" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_brower: "Brower" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fash: "Fash" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nalto: "Nalto" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_stryder: "Stryder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dubreas: "Dubreas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_colsan: "Colsan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_terrek: "Terrek" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_solon: "Solon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_merquise: "Merquise" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_varn: "Varn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_basai: "Basai" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_froud: "Froud" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_addacess: "Addacess" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_durgen: "Durgen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_remex: "Remex" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_madowki: "Madowki" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_hayes: "Hayes" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ne: "Ne" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dago: "Dago" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_greenback: "Greenback" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_stithta: "Stithta" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ker: "Ker" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_driet: "Driet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_klakk: "Klakk" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_reed: "Reed" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lefex: "Lefex" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_minn: "Minn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_irokini: "Irokini" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_roye: "Roye" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_danakar: "Danakar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_forin: "Forin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_glopio: "Glopio" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_corcer: "Corcer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ordo: "Ordo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_wan: "Wan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_golladio: "Golladio" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_adramcsia: "Adramcsia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jetberg: "Jetberg" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_noth: "Noth" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_taske: "Taske" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_komo: "Komo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_styles: "Styles" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_angavel: "Angavel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_yavoog: "Yavoog" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_racto: "Racto" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_degor: "Degor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_magre: "Magre" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_soylon: "Soylon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lerann: "Lerann" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_chro: "Chro" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_finn: "Finn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_blackmoor: "Blackmoor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_hwang: "Hwang" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_amon: "Amon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gilder: "Gilder" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kodd: "Kodd" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_morin: "Morin" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tade: "Tade" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_solman: "Solman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_marclonus: "Marclonus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_precore: "Precore" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_solborne: "Solborne" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bailer: "Bailer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_katarn: "Katarn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_anjek: "Anjek" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dalgas: "Dalgas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kast: "Kast" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_airerith: "Airerith" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_halo: "Halo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_clash: "Clash" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_jalba: "Jalba" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_benn: "Benn" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_roice: "Roice" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lokar: "Lokar" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_korpil: "Korpil" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_turon: "Turon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cavi: "Cavi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_deece: "Deece" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_braitano: "Braitano" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_garnik: "Garnik" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ka_taramas: "Ka'Taramas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_nuwest: "Nuwest" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_forte: "Forte" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_noshey: "Noshey" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gyyll: "Gyyll" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tallon: "Tallon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lionne: "Lionne" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_adras: "Adras" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_peoly: "Peoly" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_damiel: "Damiel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_chup_pau: "Chup-Pau" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_drayven: "Drayven" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bela_trepada: "Bela-Trepada" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_defelice: "Defelice" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_monsula: "Monsula" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_baralein: "Baralein" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_denive: "Denive" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_xergo: "Xergo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_sarat: "Sarat" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vercet: "Vercet" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ossaki: "Ossaki" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kappa: "Kappa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_zerga: "Zerga" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_kopos: "Kopos" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_aldrecht: "Aldrecht" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bohme: "Bohme" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tull: "Tull" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_eldrel: "Eldrel" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_marh: "Marh" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_darksword: "Darksword" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_krandor: "Krandor" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_montag: "Montag" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dimodan: "Dimodan" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_starfallen: "Starfallen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fett: "Fett" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mohebbi: "Mohebbi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_runalian: "Runalian" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_binette: "Binette" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_laurent: "Laurent" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mavr: "Mavr" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ryra: "Ryra" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_truden: "Truden" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_solo: "Solo" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lars: "Lars" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_amedda: "Amedda" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_amidala: "Amidala" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_andrell: "Andrell" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_annon: "Annon" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_antilles: "Antilles" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_atanna: "Atanna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_baab: "Baab" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_barc: "Barc" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_breemu: "Breemu" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bremack: "Bremack" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bronk: "Bronk" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_burtoni: "Burtoni" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_callen: "Callen" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_clovis: "Clovis" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_ledwellow: "Ledwellow" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dio: "Dio" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_organa: "Organa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mas: "Mas" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_wain: "Wain" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_gabrial: "Gabrial" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_dewell: "Dewell" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tanner: "Tanner" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_vi: "Vi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_rush: "Rush" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_danry: "Danry" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_padm_: "Padmé" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_fema: "Fema" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_mina: "Mina" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_bana: "Bana" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_tyreca: "Tyreca" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_halle: "Halle" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_lexi: "Lexi" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_leia: "Leia" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_alyssa: "Alyssa" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_leanna: "Leanna" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_arya: "Arya" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_panteer: "Panteer" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_alde: "Alde" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_frayus: "Frayus" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_cortess: "Cortess" #!Empty_LineInfo!
+	SWGD_NEAR_HUMAN_CHR_killesa: "Killesa" #!Empty_LineInfo!

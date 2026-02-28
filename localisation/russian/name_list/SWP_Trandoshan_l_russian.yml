@@ -1,978 +1,978 @@
 ﻿l_russian:
-	TRANDOSHAN_SHIP_making_a_killing: "Making a Killing"
-	TRANDOSHAN_SHIP_smokeswimmer: "Smokeswimmer"
-	TRANDOSHAN_SHIP_red_eclipse: "Red Eclipse"
-	TRANDOSHAN_SHIP_halo: "Halo"
-	TRANDOSHAN_SHIP_dangerous_game: "Dangerous Game"
-	TRANDOSHAN_SHIP_basic_instinct: "Basic Instinct"
-	TRANDOSHAN_SHIP_animal_cunning: "Animal Cunning"
-	TRANDOSHAN_SHIP_predator: "Predator"
-	TRANDOSHAN_SHIP_apex: "Apex"
-	TRANDOSHAN_SHIP_chaser: "Chaser"
-	TRANDOSHAN_SHIP_stalker: "Stalker"
-	TRANDOSHAN_SHIP_falconer: "Falconer"
-	TRANDOSHAN_SHIP_skinner: "Skinner"
-	TRANDOSHAN_SHIP_cold_blooded: "Cold-blooded"
-	TRANDOSHAN_SHIP_bold_blood: "Bold Blood"
-	TRANDOSHAN_SHIP_old_blood: "Old Blood"
-	TRANDOSHAN_SHIP_young_blood: "Young Blood"
-	TRANDOSHAN_SHIP_huntzard: "Huntzard"
-	TRANDOSHAN_SHIP_pursuer: "Pursuer"
-	TRANDOSHAN_SHIP_sportzard: "Sportzard"
-	TRANDOSHAN_SHIP_trapper: "Trapper"
-	TRANDOSHAN_SHIP_ferreter: "Ferreter"
-	TRANDOSHAN_SHIP_pursuant: "Pursuant"
-	TRANDOSHAN_SHIP_courser: "Courser"
-	TRANDOSHAN_SHIP_wookhound: "Wookhound"
-	TRANDOSHAN_SHIP_hound_s_tooth: "Hound's Tooth"
-	TRANDOSHAN_SHIP_gun_hound: "Gun Hound"
-	TRANDOSHAN_SHIP_hounder: "Hounder"
-	TRANDOSHAN_SHIP_stalking_hound: "Stalking Hound"
-	TRANDOSHAN_SHIP_carnivore: "Carnivore"
-	TRANDOSHAN_SHIP_beast_of_prey: "Beast of Prey"
-	TRANDOSHAN_SHIP_meat_eater: "Meat-Eater"
-	TRANDOSHAN_SHIP_wook_eater: "Wook-Eater"
-	TRANDOSHAN_SHIP_cannibal: "Cannibal"
-	TRANDOSHAN_SHIP_carnivorous: "Carnivorous"
-	TRANDOSHAN_SHIP_flesh_eater: "Flesh Eater"
-	TRANDOSHAN_SHIP_hunger: "Hunger"
-	TRANDOSHAN_SHIP_omnivore: "Omnivore"
-	TRANDOSHAN_SHIP_rapacious: "Rapacious"
-	TRANDOSHAN_SHIP_the_undying: "The Undying"
-	TRANDOSHAN_SHIP_grave_of_kephess: "Grave of Kephess"
-	TRANDOSHAN_SHIP_empty_grave: "Empty Grave"
-	TRANDOSHAN_SHIP_scorebreaker: "Scorebreaker"
-	TRANDOSHAN_SHIP_high_score: "High Score"
-	TRANDOSHAN_SHIP_low_cunning: "Low Cunning"
-	TRANDOSHAN_SHIP_unsporting: "Unsporting"
-	TRANDOSHAN_SHIP_spoilsport: "Spoilsport"
-	TRANDOSHAN_SHIP_spoiler: "Spoiler"
-	TRANDOSHAN_SHIP_beater: "Beater"
-	TRANDOSHAN_SHIP_body_corporate: "Body Corporate"
-	TRANDOSHAN_SHIP_breaker: "Breaker"
-	TRANDOSHAN_SHIP_abayment: "Abayment"
-	TRANDOSHAN_SHIP_cubber: "Cubber"
-	TRANDOSHAN_SHIP_clubber: "Clubber"
-	TRANDOSHAN_SHIP_blackfeather: "Blackfeather"
-	TRANDOSHAN_SHIP_blackscale: "Blackscale"
-	TRANDOSHAN_SHIP_bloodscar: "Bloodscar"
-	TRANDOSHAN_SHIP_gone_to_ground: "Gone to Ground"
-	TRANDOSHAN_SHIP_heeler: "Heeler"
-	TRANDOSHAN_SHIP_overrun: "Overrun"
-	TRANDOSHAN_SHIP_point_rider: "Point Rider"
-	TRANDOSHAN_SHIP_riot: "Riot"
-	TRANDOSHAN_SHIP_rut: "Rut"
-	TRANDOSHAN_SHIP_trench_feeder: "Trench Feeder"
-	TRANDOSHAN_SHIP_big_game: "Big Game"
-	TRANDOSHAN_SHIP_trophy_taker: "Trophy Taker"
-	TRANDOSHAN_SHIP_mandible: "Mandible"
-	TRANDOSHAN_SHIP_coagulator: "Coagulator"
-	TRANDOSHAN_SHIP_bleeder: "Bleeder"
-	TRANDOSHAN_SHIP_easy_kill: "Easy Kill"
-	TRANDOSHAN_SHIP_tough_shot: "Tough Shot"
-	TRANDOSHAN_SHIP_jagannath_s_watch: "Jagannath's Watch"
-	TRANDOSHAN_SHIP_herald_of_jagannath: "Herald of Jagannath"
-	TRANDOSHAN_SHIP_avatar: "Avatar"
-	TRANDOSHAN_SHIP_blood_score: "Blood Score"
-	TRANDOSHAN_SHIP_settled_score: "Settled Score"
-	TRANDOSHAN_SHIP_mock_hunt: "Mock Hunt"
-	TRANDOSHAN_SHIP_t_doshok_crusade: "T'doshok Crusade"
-	TRANDOSHAN_SHIP_crimson_nest: "Crimson Nest"
-	TRANDOSHAN_SHIP_cruel_intention: "Cruel Intention"
-	TRANDOSHAN_SHIP_dangerous_liason: "Dangerous Liason"
-	TRANDOSHAN_SHIP_forked_tongue: "Forked Tongue"
-	TRANDOSHAN_SHIP_white_claw: "White Claw"
-	TRANDOSHAN_SHIP_diamond_back: "Diamond Back"
-	TRANDOSHAN_SHIP_scalebound: "Scalebound"
-	TRANDOSHAN_SHIP_wild_thing: "Wild Thing"
-	TRANDOSHAN_SHIP_fatal_attraction: "Fatal Attraction"
-	TRANDOSHAN_SHIP_body_heat: "Body Heat"
-	TRANDOSHAN_SHIP_illicit_desire: "Illicit Desire"
-	TRANDOSHAN_SHIP_hate_story: "Hate Story"
-	TRANDOSHAN_SHIP_body_of_influence: "Body of Influence"
-	TRANDOSHAN_SHIP_object_of_obsession: "Object of Obsession"
-	TRANDOSHAN_SHIP_indecent_behavior: "Indecent Behavior"
-	TRANDOSHAN_SHIP_deadlock: "Deadlock"
-	TRANDOSHAN_SHIP_berserker: "Berserker"
-	TRANDOSHAN_SHIP_goddess_of_the_hunt: "Goddess of the Hunt"
-	TRANDOSHAN_SHIP_innocent: "Innocent"
-	TRANDOSHAN_SHIP_pleasure_or_pain: "Pleasure or Pain"
-	TRANDOSHAN_SHIP_kiss_of_the_beast: "Kiss of the Beast"
-	TRANDOSHAN_SHIP_fatal_charm: "Fatal Charm"
-	TRANDOSHAN_SHIP_fatal_bond: "Fatal Bond"
-	TRANDOSHAN_SHIP_silver_tongue: "Silver Tongue"
-	TRANDOSHAN_SHIP_fatal_past: "Fatal Past"
-	TRANDOSHAN_SHIP_gross_misconduct: "Gross Misconduct"
-	TRANDOSHAN_SHIP_verdant_letter: "Verdant Letter"
-	TRANDOSHAN_SHIP_wicked_mind: "Wicked Mind"
-	TRANDOSHAN_SHIP_powerplay: "Powerplay"
-	TRANDOSHAN_SHIP_privacy_invasion: "Privacy Invasion"
-	TRANDOSHAN_SHIP_mutual_hunt: "Mutual Hunt"
-	TRANDOSHAN_SHIP_glass_cage: "Glass Cage"
-	TRANDOSHAN_SHIP_mind_game: "Mind Game"
-	TRANDOSHAN_SHIP_payback: "Payback"
-	TRANDOSHAN_SHIP_playmaker: "Playmaker"
-	TRANDOSHAN_SHIP_rainmaker: "Rainmaker"
-	TRANDOSHAN_SHIP_dangerous_touch: "Dangerous Touch"
-	TRANDOSHAN_SHIP_nightmare_visage: "Nightmare Visage"
-	TRANDOSHAN_SHIP_cold_sweat: "Cold Sweat"
-	TRANDOSHAN_SHIP_light_sleeper: "Light Sleeper"
-	TRANDOSHAN_SHIP_stepper: "Stepper"
-	TRANDOSHAN_SHIP_bitter_moon: "Bitter Moon"
-	TRANDOSHAN_SHIP_fatal_exposure: "Fatal Exposure"
-	TRANDOSHAN_SHIP_wild_hunt: "Wild Hunt"
-	TRANDOSHAN_SHIP_hatched_king: "Hatched King"
-	TRANDOSHAN_SHIP_nightmare: "Nightmare"
-	TRANDOSHAN_SHIP_deforester: "Deforester"
-	TRANDOSHAN_SHIP_jungler: "Jungler"
-	TRANDOSHAN_SHIP_incisor: "Incisor"
-	TRANDOSHAN_SHIP_clapperclaw: "Clapperclaw"
-	TRANDOSHAN_SHIP_retractile: "Retractile"
-	TRANDOSHAN_SHIP_ungula: "Ungula"
-	TRANDOSHAN_SHIP_sable_spur: "Sable Spur"
-	TRANDOSHAN_SHIP_scent_of_war: "Scent of War"
-	TRANDOSHAN_SHIP_fear_scent: "Fear Scent"
-	TRANDOSHAN_SHIP_serrator: "Serrator"
-	TRANDOSHAN_SHIP_abductor: "Abductor"
-	TRANDOSHAN_SHIP_quadrator: "Quadrator"
-	TRANDOSHAN_SHIP_komodus: "Komodus"
-	TRANDOSHAN_SHIP_draco: "Draco"
-	TRANDOSHAN_SHIP_reflexive_blood: "Reflexive Blood"
-	TRANDOSHAN_SHIP_chameleon: "Chameleon"
-	TRANDOSHAN_SHIP_diapsid: "Diapsid"
-	TRANDOSHAN_SHIP_varanid: "Varanid"
-	TRANDOSHAN_SHIP_basilisk: "Basilisk"
-	TRANDOSHAN_SHIP_third_eye: "Third Eye"
-	TRANDOSHAN_SHIP_serpent: "Serpent"
-	TRANDOSHAN_SHIP_ultraviolent_spectrum: "Ultraviolent Spectrum"
-	TRANDOSHAN_SHIP_tokay: "Tokay"
-	TRANDOSHAN_SHIP_ambusher: "Ambusher"
-	TRANDOSHAN_SHIP_disruptor: "Disruptor"
-	TRANDOSHAN_SHIP_horncrest: "Horncrest"
-	TRANDOSHAN_SHIP_skink: "Skink"
-	TRANDOSHAN_SHIP_saurien: "Saurien"
-	TRANDOSHAN_SHIP_tassotasso: "Tassotasso"
-	TRANDOSHAN_SHIP_sacrificial_arm: "Sacrificial Arm"
-	TRANDOSHAN_SHIP_fighting_chance: "Fighting Chance"
-	TRANDOSHAN_SHIP_memento: "Memento"
-	TRANDOSHAN_SHIP_scalper: "Scalper"
-	TRANDOSHAN_SHIP_glasser: "Glasser"
-	TRANDOSHAN_SHIP_ragged_spread: "Ragged Spread"
-	TRANDOSHAN_SHIP_raghorn: "Raghorn"
-	TRANDOSHAN_SHIP_poacher: "Poacher"
-	TRANDOSHAN_SHIP_highball: "Highball"
-	TRANDOSHAN_SHIP_backtrail: "Backtrail"
-	TRANDOSHAN_SHIP_break_point: "Break Point"
-	TRANDOSHAN_SHIP_inside_spread: "Inside Spread"
-	TRANDOSHAN_SHIP_iron_sight: "Iron Sight"
-	TRANDOSHAN_SHIP_jump_hound: "Jump Hound"
-	TRANDOSHAN_SHIP_baiter: "Baiter"
-	TRANDOSHAN_SHIP_coffin_blind: "Coffin Blind"
-	TRANDOSHAN_SHIP_locator: "Locator"
-	TRANDOSHAN_SHIP_pecking_order: "Pecking Order"
-	TRANDOSHAN_SHIP_dewclaw: "Dewclaw"
-	TRANDOSHAN_SHIP_trophy_hunter: "Trophy Hunter"
-	TRANDOSHAN_SHIP_outfitter: "Outfitter"
-	TRANDOSHAN_SHIP_varmind: "Varmind"
-	TRANDOSHAN_SHIP_palmation: "Palmation"
-	TRANDOSHAN_SHIP_exotic: "Exotic"
-	TRANDOSHAN_SHIP_wrangler: "Wrangler"
-	TRANDOSHAN_SHIP_powder_horn: "Powder Horn"
-	TRANDOSHAN_SHIP_good_blood: "Good Blood"
-	TRANDOSHAN_SHIP_trepanner: "Trepanner"
-	TRANDOSHAN_SHIP_huntress: "Huntress"
-	TRANDOSHAN_SHIP_tropic_queen: "Tropic Queen"
-	TRANDOSHAN_SHIP_chieftan_s_due: "Chieftan's Due"
-	TRANDOSHAN_SHIP_memory_of_hsskhor: "Memory of Hsskhor"
-	TRANDOSHAN_SHIP_life_credit: "Life Credit"
-	TRANDOSHAN_SHIP_bloodletter: "Bloodletter"
-	TRANDOSHAN_SHIP_clutch_mother: "Clutch Mother"
-	TRANDOSHAN_SHIP_clutch_brother: "Clutch Brother"
-	TRANDOSHAN_SHIP_leaf_of_nakkis: "Leaf of Nakkis"
-	TRANDOSHAN_SHIP_nussik: "Nussik"
-	TRANDOSHAN_SHIP_shko_yagu: "Shko-yagu"
-	TRANDOSHAN_SHIP_scale_of_honor: "Scale of Honor"
-	TRANDOSHAN_SHIP_scalesister: "Scalesister"
-	TRANDOSHAN_SHIP_ashkrik: "Ashkrik"
-	TRANDOSHAN_SHIP_byager: "Byager"
-	TRANDOSHAN_SHIP_crescent: "Crescent"
-	TRANDOSHAN_SHIP_expedition: "Expedition"
-	TRANDOSHAN_SHIP_zephyr: "Zephyr"
-	TRANDOSHAN_SHIP_enigma: "Enigma"
-	TRANDOSHAN_SHIP_explorer: "Explorer"
-	TRANDOSHAN_SHIP_pathfinder: "Pathfinder"
-	TRANDOSHAN_SHIP_windfinder: "Windfinder"
-	TRANDOSHAN_SHIP_lizard_of_vision: "Lizard of Vision"
-	TRANDOSHAN_SHIP_scent_hound: "Scent Hound"
-	TRANDOSHAN_SHIP_astute: "Astute"
-	TRANDOSHAN_SHIP_alacrity: "Alacrity"
-	TRANDOSHAN_SHIP_dogged: "Dogged"
-	TRANDOSHAN_SHIP_finder: "Finder"
-	TRANDOSHAN_SHIP_greenscale: "Greenscale"
-	TRANDOSHAN_SHIP_coldspur: "Coldspur"
-	TRANDOSHAN_SHIP_tracker: "Tracker"
-	TRANDOSHAN_SHIP_night_traveller: "Night Traveller"
-	TRANDOSHAN_SHIP_scoremaker: "Scoremaker"
-	TRANDOSHAN_SHIP_trailblazer: "Trailblazer"
-	TRANDOSHAN_SHIP_even_score: "Even Score"
-	TRANDOSHAN_SHIP_scorefinder: "Scorefinder"
-	TRANDOSHAN_SHIP_sojourner: "Sojourner"
-	TRANDOSHAN_SHIP_gamefinder: "Gamefinder"
-	TRANDOSHAN_SHIP_gamesman: "Gamesman"
-	TRANDOSHAN_SHIP_sight_of_splendor: "Sight of Splendor"
-	TRANDOSHAN_SHIP_doshan_quest: "Doshan Quest"
-	TRANDOSHAN_SHIP_wayfarer: "Wayfarer"
-	TRANDOSHAN_SHIP_outrunner: "Outrunner"
-	TRANDOSHAN_SHIP_lucumba: "Lucumba"
-	TRANDOSHAN_SHIP_exploiter: "Exploiter"
-	TRANDOSHAN_SHIP_prophecy: "Prophecy"
-	TRANDOSHAN_SHIP_destiny_of_dosha: "Destiny of Dosha"
-	TRANDOSHAN_SHIP_virtuous_score: "Virtuous Score"
-	TRANDOSHAN_SHIP_hatchling: "Hatchling"
-	TRANDOSHAN_SHIP_dawn_nest: "Dawn Nest"
-	TRANDOSHAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	TRANDOSHAN_SHIP_trailking: "Trailking"
-	TRANDOSHAN_SHIP_summit: "Summit"
-	TRANDOSHAN_SHIP_pinnacle: "Pinnacle"
-	TRANDOSHAN_SHIP_seeder: "Seeder"
-	TRANDOSHAN_SHIP_harvest: "Harvest"
-	TRANDOSHAN_SHIP_demeter: "Demeter"
-	TRANDOSHAN_SHIP_isis: "Isis"
-	TRANDOSHAN_SHIP_ceres: "Ceres"
-	TRANDOSHAN_SHIP_exodus: "Exodus"
-	TRANDOSHAN_SHIP_foundation: "Foundation"
-	TRANDOSHAN_SHIP_scion: "Scion"
-	TRANDOSHAN_SHIP_progeny: "Progeny"
-	TRANDOSHAN_SHIP_obligation: "Obligation"
-	TRANDOSHAN_SHIP_purpose: "Purpose"
-	TRANDOSHAN_SHIP_provider: "Provider"
-	TRANDOSHAN_SHIP_shining_city: "Shining City"
-	TRANDOSHAN_SHIP_acquirer: "Acquirer"
-	TRANDOSHAN_SHIP_cultivator: "Cultivator"
-	TRANDOSHAN_SHIP_quarry: "Quarry"
-	TRANDOSHAN_SHIP_butcher: "Butcher"
-	TRANDOSHAN_SHIP_fletcher: "Fletcher"
-	TRANDOSHAN_SHIP_bowyer: "Bowyer"
-	TRANDOSHAN_SHIP_tanner: "Tanner"
-	TRANDOSHAN_SHIP_carver: "Carver"
-	TRANDOSHAN_SHIP_cordwain: "Cordwain"
-	TRANDOSHAN_SHIP_tender: "Tender"
-	TRANDOSHAN_SHIP_promise: "Promise"
-	TRANDOSHAN_SHIP_service: "Service"
-	TRANDOSHAN_SHIP_shelter: "Shelter"
-	TRANDOSHAN_SHIP_beast: "Beast"
-	TRANDOSHAN_SHIP_beast_of_burden: "Beast of Burden"
-	TRANDOSHAN_SHIP_packmule: "Packmule"
-	TRANDOSHAN_SHIP_lowe: "Lowe"
-	TRANDOSHAN_SHIP_madle: "Madle"
-	TRANDOSHAN_SHIP_sham_ba: "Sham ba"
-	TRANDOSHAN_SHIP_anvil: "Anvil"
-	TRANDOSHAN_SHIP_lu_mi_lowe: "Lu Mi Lowe"
-	TRANDOSHAN_SHIP_architect: "Architect"
-	TRANDOSHAN_SHIP_accommodator: "Accommodator"
-	TRANDOSHAN_SHIP_tallyer: "Tallyer"
-	TRANDOSHAN_SHIP_accounter: "Accounter"
-	TRANDOSHAN_SHIP_expedition_transport: "Expedition Transport"
-	TRANDOSHAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	TRANDOSHAN_SHIP_spacegun_success: "SpaceGun Success"
-	TRANDOSHAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	TRANDOSHAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	TRANDOSHAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	TRANDOSHAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	TRANDOSHAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	TRANDOSHAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	TRANDOSHAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	TRANDOSHAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	TRANDOSHAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	TRANDOSHAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	TRANDOSHAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	TRANDOSHAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	TRANDOSHAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	TRANDOSHAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	TRANDOSHAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	TRANDOSHAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	TRANDOSHAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	TRANDOSHAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	TRANDOSHAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	TRANDOSHAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	TRANDOSHAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	TRANDOSHAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	TRANDOSHAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	TRANDOSHAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	TRANDOSHAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	TRANDOSHAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	TRANDOSHAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	TRANDOSHAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	TRANDOSHAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	TRANDOSHAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	TRANDOSHAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	TRANDOSHAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	TRANDOSHAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	TRANDOSHAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	TRANDOSHAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	TRANDOSHAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	TRANDOSHAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	TRANDOSHAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	TRANDOSHAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	TRANDOSHAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	TRANDOSHAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	TRANDOSHAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	TRANDOSHAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	TRANDOSHAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	TRANDOSHAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	TRANDOSHAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	TRANDOSHAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	TRANDOSHAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	TRANDOSHAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	TRANDOSHAN_SHIP_forak: "Forak"
-	TRANDOSHAN_SHIP_hsskhor: "Hsskhor"
-	TRANDOSHAN_SHIP_lorpfan: "Lorpfan"
-	TRANDOSHAN_SHIP_varic: "Varic"
-	TRANDOSHAN_SHIP_friend_of_czerka: "Friend of Czerka"
-	TRANDOSHAN_SHIP_doshan: "Doshan"
-	TRANDOSHAN_SHIP_mittoblade: "Mittoblade"
-	TRANDOSHAN_SHIP_waymancy_hollow: "Waymancy Hollow"
-	TRANDOSHAN_SHIP_arakka: "Arakka"
-	TRANDOSHAN_SHIP_durkteel: "Durkteel"
-	TRANDOSHAN_SHIP_kastolar: "Kastolar"
-	TRANDOSHAN_SHIP_archenar: "Archenar"
-	TRANDOSHAN_SHIP_rakhuun: "Rakhuun"
-	TRANDOSHAN_SHIP_anchor: "Anchor"
-	TRANDOSHAN_SHIP_jabba_flow: "Jabba Flow"
-	TRANDOSHAN_SHIP_randon_roads: "Randon Roads"
-	TRANDOSHAN_SHIP_tholatin: "Tholatin"
-	TRANDOSHAN_SHIP_quas: "Quas"
-	TRANDOSHAN_SHIP_killam: "Killam"
-	TRANDOSHAN_SHIP_night_road: "Night Road"
-	TRANDOSHAN_SHIP_nytaranor: "Nytaranor"
-	TRANDOSHAN_SHIP_pizilis: "Pizilis"
-	TRANDOSHAN_SHIP_terr_skiar: "Terr'skiar"
-	TRANDOSHAN_SHIP_rorgam: "Rorgam"
-	TRANDOSHAN_SHIP_kilimanchamble: "Kilimanchamble"
-	TRANDOSHAN_SHIP_messert: "Messert"
-	TRANDOSHAN_SHIP_kdoshrr: "Kdoshrr"
-	TRANDOSHAN_SHIP_score_list: "Score List"
-	TRANDOSHAN_SHIP_ota: "Ota"
-	TRANDOSHAN_SHIP_bissilirus: "Bissilirus"
-	TRANDOSHAN_SHIP_genian: "Genian"
-	TRANDOSHAN_SHIP_deysum: "Deysum"
-	TRANDOSHAN_SHIP_ciacgekke: "Ciacgekke"
-	TRANDOSHAN_SHIP_old_apsolon: "Old Apsolon"
-	TRANDOSHAN_SHIP_knight_star: "Knight Star"
-	TRANDOSHAN_SHIP_uogo_mons: "Uogo Mons"
-	TRANDOSHAN_SHIP_new_apsolon: "New Apsolon"
-	TRANDOSHAN_SHIP_nova_dosha: "Nova Dosha"
-	TRANDOSHAN_SHIP_lexrul: "Lexrul"
-	TRANDOSHAN_SHIP_celegia: "Celegia"
-	TRANDOSHAN_SHIP_uyter: "Uyter"
-	TRANDOSHAN_SHIP_venal: "Venal"
-	TRANDOSHAN_SHIP_vidass: "Vidass"
-	TRANDOSHAN_SHIP_nazzriss: "Nazzriss"
-	TRANDOSHAN_SHIP_vaugazz: "Vaugazz"
-	TRANDOSHAN_SHIP_bombard: "Bombard"
-	TRANDOSHAN_SHIP_ballista: "Ballista"
-	TRANDOSHAN_SHIP_catapult: "Catapult"
-	TRANDOSHAN_SHIP_harpoon: "Harpoon"
-	TRANDOSHAN_SHIP_polybolos: "Polybolos"
-	TRANDOSHAN_SHIP_culverin: "Culverin"
-	TRANDOSHAN_SHIP_exemplary: "Exemplary"
-	TRANDOSHAN_SHIP_CLASS_cr_90: "CR-90"
-	TRANDOSHAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	TRANDOSHAN_SHIP_CLASS_lupus: "Lupus"
-	TRANDOSHAN_SHIP_CLASS_asdroni: "Asdroni"
-	TRANDOSHAN_SHIP_CLASS_customs: "Customs"
-	TRANDOSHAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	TRANDOSHAN_SHIP_CLASS_scurge: "Scurge"
-	TRANDOSHAN_SHIP_CLASS_krayt: "Krayt"
-	TRANDOSHAN_SHIP_CLASS_diamond: "Diamond"
-	TRANDOSHAN_SHIP_CLASS_etti: "Etti"
-	TRANDOSHAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	TRANDOSHAN_SHIP_CLASS_vigil: "Vigil"
-	TRANDOSHAN_SHIP_CLASS_dp20: "DP20"
-	TRANDOSHAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	TRANDOSHAN_SHIP_CLASS_raider: "Raider"
-	TRANDOSHAN_SHIP_CLASS_dornean: "Dornean"
-	TRANDOSHAN_SHIP_CLASS_crusader: "Crusader"
-	TRANDOSHAN_SHIP_CLASS_marauder: "Marauder"
-	TRANDOSHAN_SHIP_CLASS_arquitens: "Arquitens"
-	TRANDOSHAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	TRANDOSHAN_SHIP_CLASS_pelta: "Pelta"
-	TRANDOSHAN_SHIP_CLASS_pinnace: "Pinnace"
-	TRANDOSHAN_SHIP_CLASS_nova: "Nova"
-	TRANDOSHAN_SHIP_CLASS_vigilance: "Vigilance"
-	TRANDOSHAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	TRANDOSHAN_SHIP_CLASS_cg_273: "CG-273"
-	TRANDOSHAN_SHIP_CLASS_kariek: "Kariek"
-	TRANDOSHAN_SHIP_CLASS_ton_falk: "Ton-Falk"
-	TRANDOSHAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	TRANDOSHAN_SHIP_CLASS_lancer: "Lancer"
-	TRANDOSHAN_SHIP_CLASS_teroch: "Teroch"
-	TRANDOSHAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	TRANDOSHAN_SHIP_CLASS_nova_ii: "Nova II"
-	TRANDOSHAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	TRANDOSHAN_SHIP_CLASS_velox: "Velox"
-	TRANDOSHAN_SHIP_CLASS_mc30c: "MC30c"
-	TRANDOSHAN_SHIP_CLASS_vengeance: "Vengeance"
-	TRANDOSHAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	TRANDOSHAN_SHIP_CLASS_cc_7700: "CC-7700"
-	TRANDOSHAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	TRANDOSHAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	TRANDOSHAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	TRANDOSHAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	TRANDOSHAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	TRANDOSHAN_SHIP_CLASS_kontos: "Kontos"
-	TRANDOSHAN_SHIP_CLASS_mc40: "MC40"
-	TRANDOSHAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	TRANDOSHAN_SHIP_CLASS_broadside: "Broadside"
-	TRANDOSHAN_SHIP_CLASS_protector: "Protector"
-	TRANDOSHAN_SHIP_CLASS_warlord: "Warlord"
-	TRANDOSHAN_SHIP_CLASS_gladiator: "Gladiator"
-	TRANDOSHAN_SHIP_CLASS_beviin: "Beviin"
-	TRANDOSHAN_SHIP_CLASS_liberator: "Liberator"
-	TRANDOSHAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	TRANDOSHAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	TRANDOSHAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	TRANDOSHAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	TRANDOSHAN_SHIP_CLASS_massias: "Massias"
-	TRANDOSHAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	TRANDOSHAN_SHIP_CLASS_kyramud: "Kyramud"
-	TRANDOSHAN_SHIP_CLASS_munificent: "Munificent"
-	TRANDOSHAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	TRANDOSHAN_SHIP_CLASS_acclamator: "Acclamator"
-	TRANDOSHAN_SHIP_CLASS_lictor: "Lictor"
-	TRANDOSHAN_SHIP_CLASS_bulwark: "Bulwark"
-	TRANDOSHAN_SHIP_CLASS_victory_i: "Victory I"
-	TRANDOSHAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	TRANDOSHAN_SHIP_CLASS_bulk: "Bulk"
-	TRANDOSHAN_SHIP_CLASS_vindicator: "Vindicator"
-	TRANDOSHAN_SHIP_CLASS_dauntless: "Dauntless"
-	TRANDOSHAN_SHIP_CLASS_captor: "Captor"
-	TRANDOSHAN_SHIP_CLASS_au_riette: "Au'riette"
-	TRANDOSHAN_SHIP_CLASS_mc55: "MC55"
-	TRANDOSHAN_SHIP_CLASS_afthonia: "Afthonia"
-	TRANDOSHAN_SHIP_CLASS_victory_ii: "Victory II"
-	TRANDOSHAN_SHIP_CLASS_beroya: "Beroya"
-	TRANDOSHAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	TRANDOSHAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	TRANDOSHAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	TRANDOSHAN_SHIP_CLASS_venator: "Venator"
-	TRANDOSHAN_SHIP_CLASS_centurion: "Centurion"
-	TRANDOSHAN_SHIP_CLASS_mc75: "MC75"
-	TRANDOSHAN_SHIP_CLASS_kandosii: "Kandosii"
-	TRANDOSHAN_SHIP_CLASS_corellian: "Corellian"
-	TRANDOSHAN_SHIP_CLASS_providence: "Providence"
-	TRANDOSHAN_SHIP_CLASS_syndic: "Syndic"
-	TRANDOSHAN_SHIP_CLASS_recusant: "Recusant"
-	TRANDOSHAN_SHIP_CLASS_invincible: "Invincible"
-	TRANDOSHAN_SHIP_CLASS_imperial_i: "Imperial I"
-	TRANDOSHAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	TRANDOSHAN_SHIP_CLASS_procursator: "Procursator"
-	TRANDOSHAN_SHIP_CLASS_mc80a: "MC80a"
-	TRANDOSHAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	TRANDOSHAN_SHIP_CLASS_aggressor: "Aggressor"
-	TRANDOSHAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	TRANDOSHAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	TRANDOSHAN_SHIP_CLASS_keldabe: "Keldabe"
-	TRANDOSHAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	TRANDOSHAN_SHIP_CLASS_chaf: "Chaf"
-	TRANDOSHAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	TRANDOSHAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	TRANDOSHAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	TRANDOSHAN_SHIP_CLASS_dominator: "Dominator"
-	TRANDOSHAN_SHIP_CLASS_allegiance: "Allegiance"
-	TRANDOSHAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	TRANDOSHAN_SHIP_CLASS_phalanx: "Phalanx"
-	TRANDOSHAN_SHIP_CLASS_titan: "Titan"
-	TRANDOSHAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	TRANDOSHAN_SHIP_CLASS_star_home: "Star Home"
-	TRANDOSHAN_SHIP_CLASS_subjugator: "Subjugator"
-	TRANDOSHAN_SHIP_CLASS_bellator: "Bellator"
-	TRANDOSHAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	TRANDOSHAN_SHIP_CLASS_executor: "Executor"
-	TRANDOSHAN_FLEET_hunt_fleet_acklay: "Hunt Fleet Acklay"
-	TRANDOSHAN_FLEET_hunt_fleet_rancor: "Hunt Fleet Rancor"
-	TRANDOSHAN_FLEET_hunt_fleet_nexu: "Hunt Fleet Nexu"
-	TRANDOSHAN_FLEET_hunt_fleet_vornskyr: "Hunt Fleet Vornskyr"
-	TRANDOSHAN_FLEET_hunt_fleet_terentatek: "Hunt Fleet Terentatek"
-	TRANDOSHAN_FLEET_hunt_fleet_balyeg: "Hunt Fleet Balyeg"
-	TRANDOSHAN_FLEET_hunt_fleet_blixus: "Hunt Fleet Blixus"
-	TRANDOSHAN_FLEET_hunt_fleet_rathtar: "Hunt Fleet Rathtar"
-	TRANDOSHAN_FLEET_hunt_fleet_sarlacc: "Hunt Fleet Sarlacc"
-	TRANDOSHAN_FLEET_hunt_fleet_doashim: "Hunt Fleet Doashim"
-	TRANDOSHAN_FLEET_hunt_fleet_evarrian: "Hunt Fleet Evarrian"
-	TRANDOSHAN_FLEET_hunt_fleet_gorgodon: "Hunt Fleet Gorgodon"
-	TRANDOSHAN_FLEET_hunt_fleet_gorog: "Hunt Fleet Gorog"
-	TRANDOSHAN_FLEET_hunt_fleet_gutkurr: "Hunt Fleet Gutkurr"
-	TRANDOSHAN_FLEET_hunt_fleet_lylek: "Hunt Fleet Lylek"
-	TRANDOSHAN_FLEET_hunt_fleet_jaggalor: "Hunt Fleet Jaggalor"
-	TRANDOSHAN_FLEET_hunt_fleet_krakana: "Hunt Fleet Krakana"
-	TRANDOSHAN_FLEET_hunt_fleet_saberjowl: "Hunt Fleet Saberjowl"
-	TRANDOSHAN_FLEET_hunt_fleet_taozin: "Hunt Fleet Taozin"
-	TRANDOSHAN_FLEET_hunt_fleet_svaper: "Hunt Fleet Svaper"
-	TRANDOSHAN_FLEET_hunt_fleet_silooth: "Hunt Fleet Silooth"
-	TRANDOSHAN_FLEET_hunt_fleet_krastenane: "Hunt Fleet Krastenane"
-	TRANDOSHAN_FLEET_hunt_fleet_vaapad: "Hunt Fleet Vaapad"
-	TRANDOSHAN_FLEET_hunt_fleet_veermok: "Hunt Fleet Veermok"
-	TRANDOSHAN_FLEET_hunt_fleet_verminoth: "Hunt Fleet Verminoth"
-	TRANDOSHAN_FLEET_hunt_fleet_gundark: "Hunt Fleet Gundark"
-	TRANDOSHAN_FLEET_hunt_fleet_fyrnock: "Hunt Fleet Fyrnock"
-	TRANDOSHAN_FLEET_hunt_fleet_clawfish: "Hunt Fleet Clawfish"
-	TRANDOSHAN_FLEET_hunt_fleet_ORD: "$ORD$ Hunt Fleet"
-	TRANDOSHAN_ARMY_hunter_brigade_ORD: "$ORD$ Hunter Brigade"
-	TRANDOSHAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force"
-	TRANDOSHAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	TRANDOSHAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	TRANDOSHAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	TRANDOSHAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	TRANDOSHAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	TRANDOSHAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	TRANDOSHAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	TRANDOSHAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	TRANDOSHAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	TRANDOSHAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	TRANDOSHAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	TRANDOSHAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	TRANDOSHAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	TRANDOSHAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	TRANDOSHAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	TRANDOSHAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	TRANDOSHAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	TRANDOSHAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	TRANDOSHAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	TRANDOSHAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	TRANDOSHAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	TRANDOSHAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	TRANDOSHAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	TRANDOSHAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	TRANDOSHAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	TRANDOSHAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	TRANDOSHAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	TRANDOSHAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	TRANDOSHAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	TRANDOSHAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	TRANDOSHAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	TRANDOSHAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	TRANDOSHAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	TRANDOSHAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	TRANDOSHAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	TRANDOSHAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	TRANDOSHAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	TRANDOSHAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	TRANDOSHAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	TRANDOSHAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	TRANDOSHAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	TRANDOSHAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	TRANDOSHAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	TRANDOSHAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	TRANDOSHAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	TRANDOSHAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	TRANDOSHAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	TRANDOSHAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	TRANDOSHAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	TRANDOSHAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	TRANDOSHAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	TRANDOSHAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	TRANDOSHAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	TRANDOSHAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	TRANDOSHAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	TRANDOSHAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	TRANDOSHAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	TRANDOSHAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	TRANDOSHAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	TRANDOSHAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	TRANDOSHAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	TRANDOSHAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	TRANDOSHAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	TRANDOSHAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	TRANDOSHAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	TRANDOSHAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	TRANDOSHAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	TRANDOSHAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	TRANDOSHAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	TRANDOSHAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	TRANDOSHAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	TRANDOSHAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	TRANDOSHAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	TRANDOSHAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	TRANDOSHAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	TRANDOSHAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	TRANDOSHAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	TRANDOSHAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	TRANDOSHAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	TRANDOSHAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	TRANDOSHAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	TRANDOSHAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	TRANDOSHAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	TRANDOSHAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	TRANDOSHAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	TRANDOSHAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	TRANDOSHAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	TRANDOSHAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	TRANDOSHAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	TRANDOSHAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	TRANDOSHAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	TRANDOSHAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	TRANDOSHAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	TRANDOSHAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	TRANDOSHAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	TRANDOSHAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	TRANDOSHAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	TRANDOSHAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	TRANDOSHAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	TRANDOSHAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	TRANDOSHAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	TRANDOSHAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	TRANDOSHAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	TRANDOSHAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	TRANDOSHAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	TRANDOSHAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	TRANDOSHAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	TRANDOSHAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	TRANDOSHAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	TRANDOSHAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	TRANDOSHAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	TRANDOSHAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	TRANDOSHAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	TRANDOSHAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	TRANDOSHAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	TRANDOSHAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	TRANDOSHAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	TRANDOSHAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	TRANDOSHAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	TRANDOSHAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	TRANDOSHAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	TRANDOSHAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	TRANDOSHAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	TRANDOSHAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	TRANDOSHAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	TRANDOSHAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	TRANDOSHAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	TRANDOSHAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	TRANDOSHAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	TRANDOSHAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	TRANDOSHAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	TRANDOSHAN_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	TRANDOSHAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	TRANDOSHAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	TRANDOSHAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	TRANDOSHAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	TRANDOSHAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	TRANDOSHAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	TRANDOSHAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	TRANDOSHAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	TRANDOSHAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	TRANDOSHAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	TRANDOSHAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	TRANDOSHAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	TRANDOSHAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	TRANDOSHAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	TRANDOSHAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	TRANDOSHAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	TRANDOSHAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	TRANDOSHAN_CHR_agnuk: "Agnuk"
-	TRANDOSHAN_CHR_cradossk: "Cradossk"
-	TRANDOSHAN_CHR_sssvrek: "Sssvrek"
-	TRANDOSHAN_CHR_ess_al: "Ess Al"
-	TRANDOSHAN_CHR_aqzow: "Aqzow"
-	TRANDOSHAN_CHR_woff: "Woff"
-	TRANDOSHAN_CHR_goll: "Goll"
-	TRANDOSHAN_CHR_gwhirrye: "Gwhirrye"
-	TRANDOSHAN_CHR_barthis: "Barthis"
-	TRANDOSHAN_CHR_beshk: "Beshk"
-	TRANDOSHAN_CHR_bhanak: "Bhanak"
-	TRANDOSHAN_CHR_ronko: "Ronko"
-	TRANDOSHAN_CHR_daktar: "Daktar"
-	TRANDOSHAN_CHR_cyssc: "Cyssc"
-	TRANDOSHAN_CHR_hssissk: "Hssissk"
-	TRANDOSHAN_CHR_toggi: "Toggi"
-	TRANDOSHAN_CHR_borantok: "Borantok"
-	TRANDOSHAN_CHR_borkus: "Borkus"
-	TRANDOSHAN_CHR_boruush: "Boruush"
-	TRANDOSHAN_CHR_boshaz: "Boshaz"
-	TRANDOSHAN_CHR_brask: "Brask"
-	TRANDOSHAN_CHR_brek: "Brek"
-	TRANDOSHAN_CHR_drassk: "Drassk"
-	TRANDOSHAN_CHR_qyzen: "Qyzen"
-	TRANDOSHAN_CHR_byrek: "Byrek"
-	TRANDOSHAN_CHR_cahhmakt: "Cahhmakt"
-	TRANDOSHAN_CHR_charsk: "Charsk"
-	TRANDOSHAN_CHR_corrsk: "Corrsk"
-	TRANDOSHAN_CHR_crovessk: "Crovessk"
-	TRANDOSHAN_CHR_currsk: "Currsk"
-	TRANDOSHAN_CHR_dakar: "Dakar"
-	TRANDOSHAN_CHR_dar: "Dar"
-	TRANDOSHAN_CHR_drenn: "Drenn"
-	TRANDOSHAN_CHR_drossk: "Drossk"
-	TRANDOSHAN_CHR_dussk: "Dussk"
-	TRANDOSHAN_CHR_dure: "Dure"
-	TRANDOSHAN_CHR_frissk: "Frissk"
-	TRANDOSHAN_CHR_frossk: "Frossk"
-	TRANDOSHAN_CHR_kruss: "Kruss"
-	TRANDOSHAN_CHR_gahseelik: "Gahseelik"
-	TRANDOSHAN_CHR_garnak: "Garnak"
-	TRANDOSHAN_CHR_gilas: "Gilas"
-	TRANDOSHAN_CHR_hrodius: "Hrodius"
-	TRANDOSHAN_CHR_gorssk: "Gorssk"
-	TRANDOSHAN_CHR_gorsst: "Gorsst"
-	TRANDOSHAN_CHR_grahssk: "Grahssk"
-	TRANDOSHAN_CHR_greelossk: "Greelossk"
-	TRANDOSHAN_CHR_grrandash: "Grrandash"
-	TRANDOSHAN_CHR_grug: "Grug"
-	TRANDOSHAN_CHR_hissyphus: "Hissyphus"
-	TRANDOSHAN_CHR_hokker: "Hokker"
-	TRANDOSHAN_CHR_horssk: "Horssk"
-	TRANDOSHAN_CHR_hss_kas: "Hss'kas"
-	TRANDOSHAN_CHR_hressk: "Hressk"
-	TRANDOSHAN_CHR_huusk: "Huusk"
-	TRANDOSHAN_CHR_hurssk: "Hurssk"
-	TRANDOSHAN_CHR_jakrann: "Jakrann"
-	TRANDOSHAN_CHR_jessk: "Jessk"
-	TRANDOSHAN_CHR_kasif: "Kasif"
-	TRANDOSHAN_CHR_oosk: "Oosk"
-	TRANDOSHAN_CHR_keerak: "Keerak"
-	TRANDOSHAN_CHR_kephess: "Kephess"
-	TRANDOSHAN_CHR_kessk: "Kessk"
-	TRANDOSHAN_CHR_klesk: "Klesk"
-	TRANDOSHAN_CHR_kootan: "Kootan"
-	TRANDOSHAN_CHR_korq: "Korq"
-	TRANDOSHAN_CHR_korrkoressk: "Korrkoressk"
-	TRANDOSHAN_CHR_kressis: "Kressis"
-	TRANDOSHAN_CHR_korussk: "Korussk"
-	TRANDOSHAN_CHR_krussk: "Krussk"
-	TRANDOSHAN_CHR_lyssk: "Lyssk"
-	TRANDOSHAN_CHR_maltok: "Maltok"
-	TRANDOSHAN_CHR_naxs: "Naxs"
-	TRANDOSHAN_CHR_mrash: "Mrash"
-	TRANDOSHAN_CHR_mundokk: "Mundokk"
-	TRANDOSHAN_CHR_narrik: "Narrik"
-	TRANDOSHAN_CHR_nokk: "Nokk"
-	TRANDOSHAN_CHR_nssktkslis: "Nssktkslis"
-	TRANDOSHAN_CHR_nukss: "Nukss"
-	TRANDOSHAN_CHR_passk: "Passk"
-	TRANDOSHAN_CHR_pekt: "Pekt"
-	TRANDOSHAN_CHR_possak: "Possak"
-	TRANDOSHAN_CHR_pressk: "Pressk"
-	TRANDOSHAN_CHR_proach: "Proach"
-	TRANDOSHAN_CHR_q_elliss: "Q'elliss"
-	TRANDOSHAN_CHR_rarsk: "Rarsk"
-	TRANDOSHAN_CHR_traggissk: "Traggissk"
-	TRANDOSHAN_CHR_rhosk: "Rhosk"
-	TRANDOSHAN_CHR_rosssuk: "Rosssuk"
-	TRANDOSHAN_CHR_ryssk: "Ryssk"
-	TRANDOSHAN_CHR_sarkh: "Sarkh"
-	TRANDOSHAN_CHR_seevor: "Seevor"
-	TRANDOSHAN_CHR_shekra: "Shekra"
-	TRANDOSHAN_CHR_skarsk: "Skarsk"
-	TRANDOSHAN_CHR_skeesk: "Skeesk"
-	TRANDOSHAN_CHR_skikkesk: "Skikkesk"
-	TRANDOSHAN_CHR_skreek: "Skreek"
-	TRANDOSHAN_CHR_skrisst: "Skrisst"
-	TRANDOSHAN_CHR_slyssk: "Slyssk"
-	TRANDOSHAN_CHR_sosska: "Sosska"
-	TRANDOSHAN_CHR_ssalash: "Ssalash"
-	TRANDOSHAN_CHR_ssevrek: "Ssevrek"
-	TRANDOSHAN_CHR_ssiksik: "Ssiksik"
-	TRANDOSHAN_CHR_sskal: "Sskal"
-	TRANDOSHAN_CHR_sskeer: "Sskeer"
-	TRANDOSHAN_CHR_lek: "Lek"
-	TRANDOSHAN_CHR_t_doshok: "T'doshok"
-	TRANDOSHAN_CHR_zug: "Zug"
-	TRANDOSHAN_CHR_thrassk: "Thrassk"
-	TRANDOSHAN_CHR_lar_omx: "Lar'omx"
-	TRANDOSHAN_CHR_tray_essek: "Tray'Essek"
-	TRANDOSHAN_CHR_trex: "Trex"
-	TRANDOSHAN_CHR_tsserk: "Tsserk"
-	TRANDOSHAN_CHR_tsskoat: "Tsskoat"
-	TRANDOSHAN_CHR_tusskrek: "Tusskrek"
-	TRANDOSHAN_CHR_tyrok: "Tyrok"
-	TRANDOSHAN_CHR_hrthek: "Hrthek"
-	TRANDOSHAN_CHR_reneget: "Reneget"
-	TRANDOSHAN_CHR_vossk: "Vossk"
-	TRANDOSHAN_CHR_vrissk: "Vrissk"
-	TRANDOSHAN_CHR_vultar: "Vultar"
-	TRANDOSHAN_CHR_vurrsk: "Vurrsk"
-	TRANDOSHAN_CHR_xirossk: "Xirossk"
-	TRANDOSHAN_CHR_yarroq: "Yarroq"
-	TRANDOSHAN_CHR_yrssk: "Yrssk"
-	TRANDOSHAN_CHR_lisot: "Lisot"
-	TRANDOSHAN_CHR_stima: "Stima"
-	TRANDOSHAN_CHR_boshaza: "Boshaza"
-	TRANDOSHAN_CHR_braska: "Braska"
-	TRANDOSHAN_CHR_clargod: "Clargod"
-	TRANDOSHAN_CHR_cyri: "Cyri"
-	TRANDOSHAN_CHR_dara: "Dara"
-	TRANDOSHAN_CHR_frisska: "Frisska"
-	TRANDOSHAN_CHR_gha: "Gha"
-	TRANDOSHAN_CHR_gruunelda: "Gruunelda"
-	TRANDOSHAN_CHR_vanvi: "Vanvi"
-	TRANDOSHAN_CHR_hresska: "Hresska"
-	TRANDOSHAN_CHR_shada: "Shada"
-	TRANDOSHAN_CHR_davjana: "Davjana"
-	TRANDOSHAN_CHR_jesska: "Jesska"
-	TRANDOSHAN_CHR_johuna: "Johuna"
-	TRANDOSHAN_CHR_juuus: "Juuus"
-	TRANDOSHAN_CHR_katrip: "Katrip"
-	TRANDOSHAN_CHR_keela: "Keela"
-	TRANDOSHAN_CHR_qyzenra: "Qyzenra"
-	TRANDOSHAN_CHR_khrask: "Khrask"
-	TRANDOSHAN_CHR_khreenk: "Khreenk"
-	TRANDOSHAN_CHR_kisskk: "Kisskk"
-	TRANDOSHAN_CHR_kressisa: "Kressisa"
-	TRANDOSHAN_CHR_krusskila: "Krusskila"
-	TRANDOSHAN_CHR_krylla: "Krylla"
-	TRANDOSHAN_CHR_lesnor: "Lesnor"
-	TRANDOSHAN_CHR_lissarkh: "Lissarkh"
-	TRANDOSHAN_CHR_mssikss: "Mssikss"
-	TRANDOSHAN_CHR_myssith: "Myssith"
-	TRANDOSHAN_CHR_narj: "Narj"
-	TRANDOSHAN_CHR_nim_ri: "Nim'Ri"
-	TRANDOSHAN_CHR_noka: "Noka"
-	TRANDOSHAN_CHR_nala: "Nala"
-	TRANDOSHAN_CHR_q_ellissoa: "Q'ellissoa"
-	TRANDOSHAN_CHR_raikhssa: "Raikhssa"
-	TRANDOSHAN_CHR_raptiss: "Raptiss"
-	TRANDOSHAN_CHR_rysska: "Rysska"
-	TRANDOSHAN_CHR_sish: "Sish"
-	TRANDOSHAN_CHR_traga: "Traga"
-	TRANDOSHAN_CHR_sounac: "Sounac"
-	TRANDOSHAN_CHR_strigge: "Strigge"
-	TRANDOSHAN_CHR_leki: "Leki"
-	TRANDOSHAN_CHR_stydge: "Stydge"
-	TRANDOSHAN_CHR_zugga: "Zugga"
-	TRANDOSHAN_CHR_thrasska: "Thrasska"
-	TRANDOSHAN_CHR_trizz_ma: "Trizz'ma"
-	TRANDOSHAN_CHR_trossilik: "Trossilik"
-	TRANDOSHAN_CHR_trossilish: "Trossilish"
-	TRANDOSHAN_CHR_tysheyk: "Tysheyk"
-	TRANDOSHAN_CHR_tsserka: "Tsserka"
-	TRANDOSHAN_CHR_ulissa: "Ulissa"
-	TRANDOSHAN_CHR_babwa: "Babwa"
-	TRANDOSHAN_CHR_vressag: "Vressag"
-	TRANDOSHAN_CHR_vrriska: "Vrriska"
-	TRANDOSHAN_CHR_vultra: "Vultra"
-	TRANDOSHAN_CHR_xydge: "Xydge"
-	TRANDOSHAN_CHR_yadfre: "Yadfre"
-	TRANDOSHAN_CHR_ysith: "Ysith"
-	TRANDOSHAN_CHR_kesska: "Kesska"
-	TRANDOSHAN_CHR_kleska: "Kleska"
-	TRANDOSHAN_CHR_kootana: "Kootana"
-	TRANDOSHAN_CHR_korqa: "Korqa"
-	TRANDOSHAN_CHR_xeniss: "Xeniss"
-	TRANDOSHAN_CHR_korusska: "Korusska"
-	TRANDOSHAN_CHR_krusska: "Krusska"
-	TRANDOSHAN_CHR_lysska: "Lysska"
-	TRANDOSHAN_CHR_maltoka: "Maltoka"
-	TRANDOSHAN_CHR_naxsa: "Naxsa"
-	TRANDOSHAN_CHR_mrasha: "Mrasha"
-	TRANDOSHAN_CHR_mundokka: "Mundokka"
-	TRANDOSHAN_CHR_narrika: "Narrika"
-	TRANDOSHAN_CHR_nokka: "Nokka"
-	TRANDOSHAN_CHR_tailsaka: "Tailsaka"
-	TRANDOSHAN_CHR_nukssa: "Nukssa"
-	TRANDOSHAN_CHR_passka: "Passka"
-	TRANDOSHAN_CHR_pekta: "Pekta"
-	TRANDOSHAN_CHR_possaka: "Possaka"
-	TRANDOSHAN_CHR_presska: "Presska"
-	TRANDOSHAN_CHR_proacha: "Proacha"
-	TRANDOSHAN_CHR_q_ellissa: "Q'ellissa"
-	TRANDOSHAN_CHR_rarska: "Rarska"
-	TRANDOSHAN_CHR_traggisska: "Traggisska"
-	TRANDOSHAN_CHR_rhoska: "Rhoska"
-	TRANDOSHAN_CHR_rosssuka: "Rosssuka"
-	TRANDOSHAN_CHR_sarkha: "Sarkha"
-	TRANDOSHAN_CHR_seevora: "Seevora"
-	TRANDOSHAN_CHR_tisi: "Tisi"
-	TRANDOSHAN_CHR_skarska: "Skarska"
-	TRANDOSHAN_CHR_skeeska: "Skeeska"
-	TRANDOSHAN_CHR_skikkeska: "Skikkeska"
-	TRANDOSHAN_CHR_skreeka: "Skreeka"
-	TRANDOSHAN_CHR_skrissta: "Skrissta"
-	TRANDOSHAN_CHR_slysska: "Slysska"
-	TRANDOSHAN_CHR_sissta: "Sissta"
-	TRANDOSHAN_CHR_ssalasha: "Ssalasha"
-	TRANDOSHAN_CHR_ssevreka: "Ssevreka"
-	TRANDOSHAN_CHR_ssiksika: "Ssiksika"
-	TRANDOSHAN_CHR_sskala: "Sskala"
-	TRANDOSHAN_CHR_sskeera: "Sskeera"
-	TRANDOSHAN_CHR_leka: "Leka"
-	TRANDOSHAN_CHR_t_doshoka: "T'doshoka"
-	TRANDOSHAN_CHR_zuga: "Zuga"
-	TRANDOSHAN_CHR_lar_omxa: "Lar'omxa"
-	TRANDOSHAN_CHR_tray_esseka: "Tray'Esseka"
-	TRANDOSHAN_CHR_trexa: "Trexa"
-	TRANDOSHAN_CHR_tsskoata: "Tsskoata"
-	TRANDOSHAN_CHR_tusskreka: "Tusskreka"
-	TRANDOSHAN_CHR_tyroka: "Tyroka"
-	TRANDOSHAN_CHR_hrtheka: "Hrtheka"
-	TRANDOSHAN_CHR_renegeta: "Renegeta"
-	TRANDOSHAN_CHR_vosska: "Vosska"
-	TRANDOSHAN_CHR_vrisska: "Vrisska"
-	TRANDOSHAN_CHR_vultara: "Vultara"
-	TRANDOSHAN_CHR_vurrska: "Vurrska"
-	TRANDOSHAN_CHR_xirosska: "Xirosska"
-	TRANDOSHAN_CHR_yarroqa: "Yarroqa"
-	TRANDOSHAN_CHR_yrsska: "Yrsska"
-	TRANDOSHAN_CHR_al: "Al"
-	TRANDOSHAN_CHR_ardella: "Ardella"
-	TRANDOSHAN_CHR_b_tar: "B'tar"
-	TRANDOSHAN_CHR_bardok: "Bardok"
-	TRANDOSHAN_CHR_baric: "Baric"
-	TRANDOSHAN_CHR_belangus: "Belangus"
-	TRANDOSHAN_CHR_bist: "Bist"
-	TRANDOSHAN_CHR_bloodmoon: "Bloodmoon"
-	TRANDOSHAN_CHR_blackscale: "Blackscale"
-	TRANDOSHAN_CHR_bloodscale: "Bloodscale"
-	TRANDOSHAN_CHR_bloodscar: "Bloodscar"
-	TRANDOSHAN_CHR_blackscar: "Blackscar"
-	TRANDOSHAN_CHR_bok: "Bok"
-	TRANDOSHAN_CHR_veneb: "Veneb"
-	TRANDOSHAN_CHR_fess: "Fess"
-	TRANDOSHAN_CHR_revessa: "Revessa"
-	TRANDOSHAN_CHR_hassk: "Hassk"
-	TRANDOSHAN_CHR_eso: "Eso"
-	TRANDOSHAN_CHR_gaal: "Gaal"
-	TRANDOSHAN_CHR_gaar: "Gaar"
-	TRANDOSHAN_CHR_nachkt: "Nachkt"
-	TRANDOSHAN_CHR_goort: "Goort"
-	TRANDOSHAN_CHR_goragg: "Goragg"
-	TRANDOSHAN_CHR_gusepp: "Gusepp"
-	TRANDOSHAN_CHR_hessen: "Hessen"
-	TRANDOSHAN_CHR_hotne: "Hotne"
-	TRANDOSHAN_CHR_hsskhor: "Hsskhor"
-	TRANDOSHAN_CHR_igosko: "Igosko"
-	TRANDOSHAN_CHR_jhcor: "Jhcor"
-	TRANDOSHAN_CHR_kassa: "Kassa"
-	TRANDOSHAN_CHR_kilon: "Kilon"
-	TRANDOSHAN_CHR_klallor: "Klallor"
-	TRANDOSHAN_CHR_koorst: "Koorst"
-	TRANDOSHAN_CHR_krood: "Krood"
-	TRANDOSHAN_CHR_morrng: "Morrng"
-	TRANDOSHAN_CHR_wasskah: "Wasskah"
-	TRANDOSHAN_CHR_nakaron: "Nakaron"
-	TRANDOSHAN_CHR_nross: "Nross"
-	TRANDOSHAN_CHR_rokh: "Rokh"
-	TRANDOSHAN_CHR_tassik: "Tassik"
-	TRANDOSHAN_CHR_trussk: "Trussk"
-	TRANDOSHAN_CHR_val_voz: "Val Voz"
-	TRANDOSHAN_CHR_vause: "Vause"
-	TRANDOSHAN_CHR_verkoss: "Verkoss"
-	TRANDOSHAN_CHR_venomor: "Venomor"
-	TRANDOSHAN_CHR_wertsnik: "Wertsnik"
-	TRANDOSHAN_CHR_ziss_t: "Ziss't"
-	TRANDOSHAN_CHR_gorak: "Gorak"
-	TRANDOSHAN_CHR_hadocrassk: "Hadocrassk"
-	TRANDOSHAN_CHR_karniss: "Karniss"
-	TRANDOSHAN_CHR_karssk: "Karssk"
-	TRANDOSHAN_CHR_kras_dokh: "Kras'dokh"
-	TRANDOSHAN_CHR_krix: "Krix"
-	TRANDOSHAN_CHR_passikk: "Passikk"
-	TRANDOSHAN_CHR_brasska: "Brasska"
-	TRANDOSHAN_CHR_mrsskala: "Mrsskala"
-	TRANDOSHAN_CHR_kephessa: "Kephessa"
-	TRANDOSHAN_CHR_q_elissa: "Q'elissa"
-	TRANDOSHAN_CHR_kaogar: "Kaogar"
-	TRANDOSHAN_CHR_lo_taren: "Lo-Taren"
-	TRANDOSHAN_CHR_narask: "Narask"
-	TRANDOSHAN_CHR_reosss: "Reosss"
-	TRANDOSHAN_CHR_ssoh: "Ssoh"
-	TRANDOSHAN_CHR_ssurussk: "Ssurussk"
+	TRANDOSHAN_SHIP_making_a_killing: "Making a Killing" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_smokeswimmer: "Smokeswimmer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_red_eclipse: "Red Eclipse" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_halo: "Halo" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dangerous_game: "Dangerous Game" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_basic_instinct: "Basic Instinct" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_animal_cunning: "Animal Cunning" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_predator: "Predator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_apex: "Apex" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_chaser: "Chaser" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_falconer: "Falconer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_skinner: "Skinner" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cold_blooded: "Cold-blooded" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bold_blood: "Bold Blood" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_old_blood: "Old Blood" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_young_blood: "Young Blood" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_huntzard: "Huntzard" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sportzard: "Sportzard" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trapper: "Trapper" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ferreter: "Ferreter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pursuant: "Pursuant" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_courser: "Courser" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wookhound: "Wookhound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hound_s_tooth: "Hound's Tooth" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_gun_hound: "Gun Hound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hounder: "Hounder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_stalking_hound: "Stalking Hound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_carnivore: "Carnivore" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_beast_of_prey: "Beast of Prey" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_meat_eater: "Meat-Eater" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wook_eater: "Wook-Eater" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cannibal: "Cannibal" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_carnivorous: "Carnivorous" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_flesh_eater: "Flesh Eater" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hunger: "Hunger" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_omnivore: "Omnivore" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_rapacious: "Rapacious" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_the_undying: "The Undying" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_grave_of_kephess: "Grave of Kephess" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_empty_grave: "Empty Grave" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scorebreaker: "Scorebreaker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_high_score: "High Score" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_low_cunning: "Low Cunning" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_unsporting: "Unsporting" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spoilsport: "Spoilsport" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spoiler: "Spoiler" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_beater: "Beater" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_body_corporate: "Body Corporate" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_breaker: "Breaker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_abayment: "Abayment" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cubber: "Cubber" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_clubber: "Clubber" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_blackfeather: "Blackfeather" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_blackscale: "Blackscale" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bloodscar: "Bloodscar" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_gone_to_ground: "Gone to Ground" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_heeler: "Heeler" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_overrun: "Overrun" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_point_rider: "Point Rider" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_riot: "Riot" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_rut: "Rut" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trench_feeder: "Trench Feeder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_big_game: "Big Game" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trophy_taker: "Trophy Taker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_mandible: "Mandible" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_coagulator: "Coagulator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bleeder: "Bleeder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_easy_kill: "Easy Kill" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tough_shot: "Tough Shot" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_jagannath_s_watch: "Jagannath's Watch" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_herald_of_jagannath: "Herald of Jagannath" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_avatar: "Avatar" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_blood_score: "Blood Score" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_settled_score: "Settled Score" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_mock_hunt: "Mock Hunt" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_t_doshok_crusade: "T'doshok Crusade" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_crimson_nest: "Crimson Nest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cruel_intention: "Cruel Intention" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dangerous_liason: "Dangerous Liason" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_forked_tongue: "Forked Tongue" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_white_claw: "White Claw" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_diamond_back: "Diamond Back" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scalebound: "Scalebound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wild_thing: "Wild Thing" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fatal_attraction: "Fatal Attraction" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_body_heat: "Body Heat" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_illicit_desire: "Illicit Desire" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hate_story: "Hate Story" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_body_of_influence: "Body of Influence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_object_of_obsession: "Object of Obsession" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_indecent_behavior: "Indecent Behavior" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_deadlock: "Deadlock" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_berserker: "Berserker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_goddess_of_the_hunt: "Goddess of the Hunt" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_innocent: "Innocent" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pleasure_or_pain: "Pleasure or Pain" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_kiss_of_the_beast: "Kiss of the Beast" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fatal_charm: "Fatal Charm" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fatal_bond: "Fatal Bond" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_silver_tongue: "Silver Tongue" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fatal_past: "Fatal Past" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_gross_misconduct: "Gross Misconduct" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_verdant_letter: "Verdant Letter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wicked_mind: "Wicked Mind" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_powerplay: "Powerplay" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_privacy_invasion: "Privacy Invasion" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_mutual_hunt: "Mutual Hunt" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_glass_cage: "Glass Cage" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_mind_game: "Mind Game" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_payback: "Payback" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_playmaker: "Playmaker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_rainmaker: "Rainmaker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dangerous_touch: "Dangerous Touch" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nightmare_visage: "Nightmare Visage" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cold_sweat: "Cold Sweat" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_light_sleeper: "Light Sleeper" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_stepper: "Stepper" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bitter_moon: "Bitter Moon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fatal_exposure: "Fatal Exposure" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wild_hunt: "Wild Hunt" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hatched_king: "Hatched King" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nightmare: "Nightmare" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_deforester: "Deforester" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_jungler: "Jungler" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_incisor: "Incisor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_clapperclaw: "Clapperclaw" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_retractile: "Retractile" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ungula: "Ungula" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sable_spur: "Sable Spur" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scent_of_war: "Scent of War" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fear_scent: "Fear Scent" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_serrator: "Serrator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_abductor: "Abductor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_quadrator: "Quadrator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_komodus: "Komodus" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_draco: "Draco" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_reflexive_blood: "Reflexive Blood" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_chameleon: "Chameleon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_diapsid: "Diapsid" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_varanid: "Varanid" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_basilisk: "Basilisk" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_third_eye: "Third Eye" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_serpent: "Serpent" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ultraviolent_spectrum: "Ultraviolent Spectrum" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tokay: "Tokay" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ambusher: "Ambusher" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_disruptor: "Disruptor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_horncrest: "Horncrest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_skink: "Skink" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_saurien: "Saurien" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tassotasso: "Tassotasso" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sacrificial_arm: "Sacrificial Arm" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fighting_chance: "Fighting Chance" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_memento: "Memento" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scalper: "Scalper" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_glasser: "Glasser" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ragged_spread: "Ragged Spread" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_raghorn: "Raghorn" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_poacher: "Poacher" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_highball: "Highball" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_backtrail: "Backtrail" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_break_point: "Break Point" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_inside_spread: "Inside Spread" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_iron_sight: "Iron Sight" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_jump_hound: "Jump Hound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_baiter: "Baiter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_coffin_blind: "Coffin Blind" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_locator: "Locator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pecking_order: "Pecking Order" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dewclaw: "Dewclaw" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trophy_hunter: "Trophy Hunter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_outfitter: "Outfitter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_varmind: "Varmind" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_palmation: "Palmation" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_exotic: "Exotic" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wrangler: "Wrangler" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_powder_horn: "Powder Horn" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_good_blood: "Good Blood" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trepanner: "Trepanner" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_huntress: "Huntress" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tropic_queen: "Tropic Queen" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_chieftan_s_due: "Chieftan's Due" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_memory_of_hsskhor: "Memory of Hsskhor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_life_credit: "Life Credit" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bloodletter: "Bloodletter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_clutch_mother: "Clutch Mother" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_clutch_brother: "Clutch Brother" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_leaf_of_nakkis: "Leaf of Nakkis" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nussik: "Nussik" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_shko_yagu: "Shko-yagu" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scale_of_honor: "Scale of Honor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scalesister: "Scalesister" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ashkrik: "Ashkrik" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_byager: "Byager" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_expedition: "Expedition" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_explorer: "Explorer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_windfinder: "Windfinder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lizard_of_vision: "Lizard of Vision" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scent_hound: "Scent Hound" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dogged: "Dogged" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_finder: "Finder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_greenscale: "Greenscale" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_coldspur: "Coldspur" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tracker: "Tracker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_night_traveller: "Night Traveller" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scoremaker: "Scoremaker" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_even_score: "Even Score" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scorefinder: "Scorefinder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sojourner: "Sojourner" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_gamefinder: "Gamefinder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_gamesman: "Gamesman" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sight_of_splendor: "Sight of Splendor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_doshan_quest: "Doshan Quest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_outrunner: "Outrunner" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lucumba: "Lucumba" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_exploiter: "Exploiter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_destiny_of_dosha: "Destiny of Dosha" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_virtuous_score: "Virtuous Score" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hatchling: "Hatchling" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_dawn_nest: "Dawn Nest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_trailking: "Trailking" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_demeter: "Demeter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_isis: "Isis" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ceres: "Ceres" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_quarry: "Quarry" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_butcher: "Butcher" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_fletcher: "Fletcher" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bowyer: "Bowyer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tanner: "Tanner" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_carver: "Carver" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_cordwain: "Cordwain" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tender: "Tender" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_service: "Service" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_beast_of_burden: "Beast of Burden" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_packmule: "Packmule" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lowe: "Lowe" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_madle: "Madle" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_sham_ba: "Sham ba" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lu_mi_lowe: "Lu Mi Lowe" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tallyer: "Tallyer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_accounter: "Accounter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_expedition_transport: "Expedition Transport" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_forak: "Forak" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_hsskhor: "Hsskhor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lorpfan: "Lorpfan" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_varic: "Varic" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_friend_of_czerka: "Friend of Czerka" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_doshan: "Doshan" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_mittoblade: "Mittoblade" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_waymancy_hollow: "Waymancy Hollow" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_arakka: "Arakka" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_durkteel: "Durkteel" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_kastolar: "Kastolar" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_archenar: "Archenar" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_rakhuun: "Rakhuun" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_anchor: "Anchor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_jabba_flow: "Jabba Flow" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_randon_roads: "Randon Roads" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_tholatin: "Tholatin" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_quas: "Quas" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_killam: "Killam" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_night_road: "Night Road" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nytaranor: "Nytaranor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_pizilis: "Pizilis" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_terr_skiar: "Terr'skiar" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_rorgam: "Rorgam" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_kilimanchamble: "Kilimanchamble" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_messert: "Messert" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_kdoshrr: "Kdoshrr" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_score_list: "Score List" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ota: "Ota" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bissilirus: "Bissilirus" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_genian: "Genian" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_deysum: "Deysum" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ciacgekke: "Ciacgekke" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_old_apsolon: "Old Apsolon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_knight_star: "Knight Star" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_uogo_mons: "Uogo Mons" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_new_apsolon: "New Apsolon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nova_dosha: "Nova Dosha" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_lexrul: "Lexrul" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_celegia: "Celegia" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_uyter: "Uyter" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_venal: "Venal" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_vidass: "Vidass" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_nazzriss: "Nazzriss" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_vaugazz: "Vaugazz" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	TRANDOSHAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_acklay: "Hunt Fleet Acklay" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_rancor: "Hunt Fleet Rancor" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_nexu: "Hunt Fleet Nexu" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_vornskyr: "Hunt Fleet Vornskyr" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_terentatek: "Hunt Fleet Terentatek" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_balyeg: "Hunt Fleet Balyeg" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_blixus: "Hunt Fleet Blixus" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_rathtar: "Hunt Fleet Rathtar" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_sarlacc: "Hunt Fleet Sarlacc" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_doashim: "Hunt Fleet Doashim" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_evarrian: "Hunt Fleet Evarrian" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_gorgodon: "Hunt Fleet Gorgodon" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_gorog: "Hunt Fleet Gorog" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_gutkurr: "Hunt Fleet Gutkurr" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_lylek: "Hunt Fleet Lylek" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_jaggalor: "Hunt Fleet Jaggalor" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_krakana: "Hunt Fleet Krakana" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_saberjowl: "Hunt Fleet Saberjowl" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_taozin: "Hunt Fleet Taozin" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_svaper: "Hunt Fleet Svaper" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_silooth: "Hunt Fleet Silooth" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_krastenane: "Hunt Fleet Krastenane" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_vaapad: "Hunt Fleet Vaapad" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_veermok: "Hunt Fleet Veermok" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_verminoth: "Hunt Fleet Verminoth" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_gundark: "Hunt Fleet Gundark" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_fyrnock: "Hunt Fleet Fyrnock" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_clawfish: "Hunt Fleet Clawfish" #!Empty_LineInfo!
+	TRANDOSHAN_FLEET_hunt_fleet_ORD: "$ORD$ Hunt Fleet" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hunter_brigade_ORD: "$ORD$ Hunter Brigade" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_expeditionary_force_ORD: "$ORD$ Expeditionary Force" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_agnuk: "Agnuk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_cradossk: "Cradossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sssvrek: "Sssvrek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ess_al: "Ess Al" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_aqzow: "Aqzow" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_woff: "Woff" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_goll: "Goll" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gwhirrye: "Gwhirrye" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_barthis: "Barthis" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_beshk: "Beshk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bhanak: "Bhanak" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ronko: "Ronko" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_daktar: "Daktar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_cyssc: "Cyssc" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hssissk: "Hssissk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_toggi: "Toggi" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_borantok: "Borantok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_borkus: "Borkus" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_boruush: "Boruush" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_boshaz: "Boshaz" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_brask: "Brask" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_brek: "Brek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_drassk: "Drassk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_qyzen: "Qyzen" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_byrek: "Byrek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_cahhmakt: "Cahhmakt" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_charsk: "Charsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_corrsk: "Corrsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_crovessk: "Crovessk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_currsk: "Currsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_dakar: "Dakar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_dar: "Dar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_drenn: "Drenn" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_drossk: "Drossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_dussk: "Dussk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_dure: "Dure" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_frissk: "Frissk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_frossk: "Frossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kruss: "Kruss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gahseelik: "Gahseelik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_garnak: "Garnak" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gilas: "Gilas" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hrodius: "Hrodius" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gorssk: "Gorssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gorsst: "Gorsst" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_grahssk: "Grahssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_greelossk: "Greelossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_grrandash: "Grrandash" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_grug: "Grug" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hissyphus: "Hissyphus" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hokker: "Hokker" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_horssk: "Horssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hss_kas: "Hss'kas" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hressk: "Hressk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_huusk: "Huusk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hurssk: "Hurssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_jakrann: "Jakrann" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_jessk: "Jessk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kasif: "Kasif" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_oosk: "Oosk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_keerak: "Keerak" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kephess: "Kephess" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kessk: "Kessk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_klesk: "Klesk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kootan: "Kootan" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_korq: "Korq" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_korrkoressk: "Korrkoressk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kressis: "Kressis" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_korussk: "Korussk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krussk: "Krussk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lyssk: "Lyssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_maltok: "Maltok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_naxs: "Naxs" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mrash: "Mrash" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mundokk: "Mundokk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_narrik: "Narrik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nokk: "Nokk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nssktkslis: "Nssktkslis" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nukss: "Nukss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_passk: "Passk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_pekt: "Pekt" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_possak: "Possak" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_pressk: "Pressk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_proach: "Proach" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_q_elliss: "Q'elliss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rarsk: "Rarsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_traggissk: "Traggissk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rhosk: "Rhosk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rosssuk: "Rosssuk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ryssk: "Ryssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sarkh: "Sarkh" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_seevor: "Seevor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_shekra: "Shekra" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skarsk: "Skarsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skeesk: "Skeesk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skikkesk: "Skikkesk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skreek: "Skreek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skrisst: "Skrisst" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_slyssk: "Slyssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sosska: "Sosska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssalash: "Ssalash" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssevrek: "Ssevrek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssiksik: "Ssiksik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sskal: "Sskal" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sskeer: "Sskeer" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lek: "Lek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_t_doshok: "T'doshok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_zug: "Zug" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_thrassk: "Thrassk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lar_omx: "Lar'omx" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tray_essek: "Tray'Essek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trex: "Trex" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tsserk: "Tsserk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tsskoat: "Tsskoat" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tusskrek: "Tusskrek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tyrok: "Tyrok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hrthek: "Hrthek" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_reneget: "Reneget" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vossk: "Vossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vrissk: "Vrissk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vultar: "Vultar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vurrsk: "Vurrsk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_xirossk: "Xirossk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_yarroq: "Yarroq" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_yrssk: "Yrssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lisot: "Lisot" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_stima: "Stima" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_boshaza: "Boshaza" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_braska: "Braska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_clargod: "Clargod" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_cyri: "Cyri" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_dara: "Dara" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_frisska: "Frisska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gha: "Gha" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gruunelda: "Gruunelda" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vanvi: "Vanvi" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hresska: "Hresska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_shada: "Shada" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_davjana: "Davjana" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_jesska: "Jesska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_johuna: "Johuna" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_juuus: "Juuus" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_katrip: "Katrip" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_keela: "Keela" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_qyzenra: "Qyzenra" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_khrask: "Khrask" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_khreenk: "Khreenk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kisskk: "Kisskk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kressisa: "Kressisa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krusskila: "Krusskila" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krylla: "Krylla" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lesnor: "Lesnor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lissarkh: "Lissarkh" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mssikss: "Mssikss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_myssith: "Myssith" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_narj: "Narj" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nim_ri: "Nim'Ri" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_noka: "Noka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nala: "Nala" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_q_ellissoa: "Q'ellissoa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_raikhssa: "Raikhssa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_raptiss: "Raptiss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rysska: "Rysska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sish: "Sish" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_traga: "Traga" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sounac: "Sounac" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_strigge: "Strigge" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_leki: "Leki" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_stydge: "Stydge" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_zugga: "Zugga" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_thrasska: "Thrasska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trizz_ma: "Trizz'ma" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trossilik: "Trossilik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trossilish: "Trossilish" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tysheyk: "Tysheyk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tsserka: "Tsserka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ulissa: "Ulissa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_babwa: "Babwa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vressag: "Vressag" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vrriska: "Vrriska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vultra: "Vultra" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_xydge: "Xydge" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_yadfre: "Yadfre" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ysith: "Ysith" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kesska: "Kesska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kleska: "Kleska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kootana: "Kootana" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_korqa: "Korqa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_xeniss: "Xeniss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_korusska: "Korusska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krusska: "Krusska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lysska: "Lysska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_maltoka: "Maltoka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_naxsa: "Naxsa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mrasha: "Mrasha" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mundokka: "Mundokka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_narrika: "Narrika" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nokka: "Nokka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tailsaka: "Tailsaka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nukssa: "Nukssa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_passka: "Passka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_pekta: "Pekta" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_possaka: "Possaka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_presska: "Presska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_proacha: "Proacha" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_q_ellissa: "Q'ellissa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rarska: "Rarska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_traggisska: "Traggisska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rhoska: "Rhoska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rosssuka: "Rosssuka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sarkha: "Sarkha" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_seevora: "Seevora" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tisi: "Tisi" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skarska: "Skarska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skeeska: "Skeeska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skikkeska: "Skikkeska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skreeka: "Skreeka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_skrissta: "Skrissta" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_slysska: "Slysska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sissta: "Sissta" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssalasha: "Ssalasha" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssevreka: "Ssevreka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssiksika: "Ssiksika" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sskala: "Sskala" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_sskeera: "Sskeera" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_leka: "Leka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_t_doshoka: "T'doshoka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_zuga: "Zuga" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lar_omxa: "Lar'omxa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tray_esseka: "Tray'Esseka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trexa: "Trexa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tsskoata: "Tsskoata" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tusskreka: "Tusskreka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tyroka: "Tyroka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hrtheka: "Hrtheka" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_renegeta: "Renegeta" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vosska: "Vosska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vrisska: "Vrisska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vultara: "Vultara" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vurrska: "Vurrska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_xirosska: "Xirosska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_yarroqa: "Yarroqa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_yrsska: "Yrsska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_al: "Al" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ardella: "Ardella" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_b_tar: "B'tar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bardok: "Bardok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_baric: "Baric" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_belangus: "Belangus" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bist: "Bist" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bloodmoon: "Bloodmoon" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_blackscale: "Blackscale" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bloodscale: "Bloodscale" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bloodscar: "Bloodscar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_blackscar: "Blackscar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_bok: "Bok" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_veneb: "Veneb" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_fess: "Fess" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_revessa: "Revessa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hassk: "Hassk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_eso: "Eso" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gaal: "Gaal" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gaar: "Gaar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nachkt: "Nachkt" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_goort: "Goort" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_goragg: "Goragg" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gusepp: "Gusepp" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hessen: "Hessen" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hotne: "Hotne" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hsskhor: "Hsskhor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_igosko: "Igosko" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_jhcor: "Jhcor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kassa: "Kassa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kilon: "Kilon" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_klallor: "Klallor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_koorst: "Koorst" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krood: "Krood" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_morrng: "Morrng" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_wasskah: "Wasskah" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nakaron: "Nakaron" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_nross: "Nross" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_rokh: "Rokh" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_tassik: "Tassik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_trussk: "Trussk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_val_voz: "Val Voz" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_vause: "Vause" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_verkoss: "Verkoss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_venomor: "Venomor" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_wertsnik: "Wertsnik" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ziss_t: "Ziss't" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_gorak: "Gorak" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_hadocrassk: "Hadocrassk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_karniss: "Karniss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_karssk: "Karssk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kras_dokh: "Kras'dokh" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_krix: "Krix" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_passikk: "Passikk" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_brasska: "Brasska" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_mrsskala: "Mrsskala" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kephessa: "Kephessa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_q_elissa: "Q'elissa" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_kaogar: "Kaogar" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_lo_taren: "Lo-Taren" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_narask: "Narask" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_reosss: "Reosss" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssoh: "Ssoh" #!Empty_LineInfo!
+	TRANDOSHAN_CHR_ssurussk: "Ssurussk" #!Empty_LineInfo!

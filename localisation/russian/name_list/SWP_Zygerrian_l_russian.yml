@@ -1,1167 +1,1167 @@
 ﻿l_russian:
-	ZYGERRIAN_SHIP_false_manumission: "False Manumission"
-	ZYGERRIAN_SHIP_thralltaker: "Thralltaker"
-	ZYGERRIAN_SHIP_widowmaker: "Widowmaker"
-	ZYGERRIAN_SHIP_helot_s_brand: "Helot's Brand"
-	ZYGERRIAN_SHIP_branding_iron: "Branding Iron"
-	ZYGERRIAN_SHIP_abductor: "Abductor"
-	ZYGERRIAN_SHIP_kidnapper: "Kidnapper"
-	ZYGERRIAN_SHIP_ransom: "Ransom"
-	ZYGERRIAN_SHIP_skinner: "Skinner"
-	ZYGERRIAN_SHIP_separator: "Separator"
-	ZYGERRIAN_SHIP_auctioneer: "Auctioneer"
-	ZYGERRIAN_SHIP_first_pick: "First Pick"
-	ZYGERRIAN_SHIP_whelper: "Whelper"
-	ZYGERRIAN_SHIP_subjugator: "Subjugator"
-	ZYGERRIAN_SHIP_name_giver: "Name Giver"
-	ZYGERRIAN_SHIP_whipping_post: "Whipping Post"
-	ZYGERRIAN_SHIP_serf_watcher: "Serf Watcher"
-	ZYGERRIAN_SHIP_back_striper: "Back Striper"
-	ZYGERRIAN_SHIP_slave_catcher: "Slave Catcher"
-	ZYGERRIAN_SHIP_enslaver: "Enslaver"
-	ZYGERRIAN_SHIP_slavemaker: "Slavemaker"
-	ZYGERRIAN_SHIP_overseer: "Overseer"
-	ZYGERRIAN_SHIP_mongrel_s_lash: "Mongrel's Lash"
-	ZYGERRIAN_SHIP_lashbearer: "Lashbearer"
-	ZYGERRIAN_SHIP_scarlet_scourge: "Scarlet Scourge"
-	ZYGERRIAN_SHIP_flagellant: "Flagellant"
-	ZYGERRIAN_SHIP_strapper: "Strapper"
-	ZYGERRIAN_SHIP_bloody_ruin: "Bloody Ruin"
-	ZYGERRIAN_SHIP_only_choice: "Only Choice"
-	ZYGERRIAN_SHIP_scourge_queen: "Scourge Queen"
-	ZYGERRIAN_SHIP_ninth_tail: "Ninth Tail"
-	ZYGERRIAN_SHIP_dominator: "Dominator"
-	ZYGERRIAN_SHIP_taskmaster: "Taskmaster"
-	ZYGERRIAN_SHIP_taskmistress: "Taskmistress"
-	ZYGERRIAN_SHIP_disciplinarian: "Disciplinarian"
-	ZYGERRIAN_SHIP_discipliner: "Discipliner"
-	ZYGERRIAN_SHIP_stickler: "Stickler"
-	ZYGERRIAN_SHIP_wind_of_zygerria: "Wind of Zygerria"
-	ZYGERRIAN_SHIP_red_hand: "Red Hand"
-	ZYGERRIAN_SHIP_brander: "Brander"
-	ZYGERRIAN_SHIP_chattel_watcher: "Chattel Watcher"
-	ZYGERRIAN_SHIP_disenfranchiser: "Disenfranchiser"
-	ZYGERRIAN_SHIP_hierarch: "Hierarch"
-	ZYGERRIAN_SHIP_middle_passage: "Middle Passage"
-	ZYGERRIAN_SHIP_oppressor: "Oppressor"
-	ZYGERRIAN_SHIP_segregator: "Segregator"
-	ZYGERRIAN_SHIP_subordinator: "Subordinator"
-	ZYGERRIAN_SHIP_voyager: "Voyager"
-	ZYGERRIAN_SHIP_zong: "Zong"
-	ZYGERRIAN_SHIP_flayer: "Flayer"
-	ZYGERRIAN_SHIP_excoriator: "Excoriator"
-	ZYGERRIAN_SHIP_terrorizer: "Terrorizer"
-	ZYGERRIAN_SHIP_choiceless: "Choiceless"
-	ZYGERRIAN_SHIP_hopeless: "Hopeless"
-	ZYGERRIAN_SHIP_taker: "Taker"
-	ZYGERRIAN_SHIP_zygerria_s_due: "Zygerria's Due"
-	ZYGERRIAN_SHIP_mantracker: "Mantracker"
-	ZYGERRIAN_SHIP_dominant: "Dominant"
-	ZYGERRIAN_SHIP_alpha: "Alpha"
-	ZYGERRIAN_SHIP_silverback: "Silverback"
-	ZYGERRIAN_SHIP_snatcher: "Snatcher"
-	ZYGERRIAN_SHIP_pound_of_flesh: "Pound of Flesh"
-	ZYGERRIAN_SHIP_undertaker: "Undertaker"
-	ZYGERRIAN_SHIP_grave_warden: "Grave Warden"
-	ZYGERRIAN_SHIP_chain_maker: "Chain Maker"
-	ZYGERRIAN_SHIP_shackler: "Shackler"
-	ZYGERRIAN_SHIP_gouger: "Gouger"
-	ZYGERRIAN_SHIP_pursuer: "Pursuer"
-	ZYGERRIAN_SHIP_gaoler: "Gaoler"
-	ZYGERRIAN_SHIP_stalker: "Stalker"
-	ZYGERRIAN_SHIP_trapper: "Trapper"
-	ZYGERRIAN_SHIP_huntsman: "Huntsman"
-	ZYGERRIAN_SHIP_chaser: "Chaser"
-	ZYGERRIAN_SHIP_flusher: "Flusher"
-	ZYGERRIAN_SHIP_hunter: "Hunter"
-	ZYGERRIAN_SHIP_hounding_one: "Hounding One"
-	ZYGERRIAN_SHIP_broodmare: "Broodmare"
-	ZYGERRIAN_SHIP_leash_holder: "Leash Holder"
-	ZYGERRIAN_SHIP_lasher: "Lasher"
-	ZYGERRIAN_SHIP_collared_king: "Collared King"
-	ZYGERRIAN_SHIP_slavekin: "Slavekin"
-	ZYGERRIAN_SHIP_painful_lesson: "Painful Lesson"
-	ZYGERRIAN_SHIP_restrainer: "Restrainer"
-	ZYGERRIAN_SHIP_controller: "Controller"
-	ZYGERRIAN_SHIP_chain_of_algernon: "Chain of Algernon"
-	ZYGERRIAN_SHIP_roper: "Roper"
-	ZYGERRIAN_SHIP_suppressor: "Suppressor"
-	ZYGERRIAN_SHIP_hamperer: "Hamperer"
-	ZYGERRIAN_SHIP_thunder_kit: "Thunder Kit"
-	ZYGERRIAN_SHIP_powerless: "Powerless"
-	ZYGERRIAN_SHIP_weeper: "Weeper"
-	ZYGERRIAN_SHIP_screamer: "Screamer"
-	ZYGERRIAN_SHIP_wicked: "Wicked"
-	ZYGERRIAN_SHIP_malignant: "Malignant"
-	ZYGERRIAN_SHIP_natural_order: "Natural Order"
-	ZYGERRIAN_SHIP_ruiner: "Ruiner"
-	ZYGERRIAN_SHIP_damane: "Damane"
-	ZYGERRIAN_SHIP_salt_wife: "Salt-Wife"
-	ZYGERRIAN_SHIP_taken: "Taken"
-	ZYGERRIAN_SHIP_downfall: "Downfall"
-	ZYGERRIAN_SHIP_fallen_one: "Fallen One"
-	ZYGERRIAN_SHIP_tear_drop: "Tear Drop"
-	ZYGERRIAN_SHIP_slave_hewer: "Slave Hewer"
-	ZYGERRIAN_SHIP_belt_hand: "Belt Hand"
-	ZYGERRIAN_SHIP_master: "Master"
-	ZYGERRIAN_SHIP_flogger: "Flogger"
-	ZYGERRIAN_SHIP_hide_tanner: "Hide Tanner"
-	ZYGERRIAN_SHIP_thrasher: "Thrasher"
-	ZYGERRIAN_SHIP_cancer: "Cancer"
-	ZYGERRIAN_SHIP_mortuary: "Mortuary"
-	ZYGERRIAN_SHIP_morbid: "Morbid"
-	ZYGERRIAN_SHIP_sadist: "Sadist"
-	ZYGERRIAN_SHIP_owner: "Owner"
-	ZYGERRIAN_SHIP_locust: "Locust"
-	ZYGERRIAN_SHIP_pillager: "Pillager"
-	ZYGERRIAN_SHIP_lady_of_raids: "Lady of Raids"
-	ZYGERRIAN_SHIP_barbarous: "Barbarous"
-	ZYGERRIAN_SHIP_corsair: "Corsair"
-	ZYGERRIAN_SHIP_brass_bull: "Brass Bull"
-	ZYGERRIAN_SHIP_victimizer: "Victimizer"
-	ZYGERRIAN_SHIP_suffocant: "Suffocant"
-	ZYGERRIAN_SHIP_repellant: "Repellant"
-	ZYGERRIAN_SHIP_second_cull: "Second Cull"
-	ZYGERRIAN_SHIP_brezak: "Brezak"
-	ZYGERRIAN_SHIP_doom_of_guandura: "Doom of Guandura"
-	ZYGERRIAN_SHIP_occupier: "Occupier"
-	ZYGERRIAN_SHIP_harasser: "Harasser"
-	ZYGERRIAN_SHIP_tormentor: "Tormentor"
-	ZYGERRIAN_SHIP_persecutor: "Persecutor"
-	ZYGERRIAN_SHIP_cruel_fate: "Cruel Fate"
-	ZYGERRIAN_SHIP_tracker: "Tracker"
-	ZYGERRIAN_SHIP_ruin_of_ryloth: "Ruin of Ryloth"
-	ZYGERRIAN_SHIP_binding_light: "Binding Light"
-	ZYGERRIAN_SHIP_manhunt: "Manhunt"
-	ZYGERRIAN_SHIP_inflicter: "Inflicter"
-	ZYGERRIAN_SHIP_nemesis: "Nemesis"
-	ZYGERRIAN_SHIP_abuser: "Abuser"
-	ZYGERRIAN_SHIP_grappler: "Grappler"
-	ZYGERRIAN_SHIP_bondage: "Bondage"
-	ZYGERRIAN_SHIP_inescapable: "Inescapable"
-	ZYGERRIAN_SHIP_imminent: "Imminent"
-	ZYGERRIAN_SHIP_compeller: "Compeller"
-	ZYGERRIAN_SHIP_compulsory: "Compulsory"
-	ZYGERRIAN_SHIP_foregone: "Foregone"
-	ZYGERRIAN_SHIP_menace: "Menace"
-	ZYGERRIAN_SHIP_splinterer: "Splinterer"
-	ZYGERRIAN_SHIP_outfoxed: "Outfoxed"
-	ZYGERRIAN_SHIP_molec: "Molec"
-	ZYGERRIAN_SHIP_scintel: "Scintel"
-	ZYGERRIAN_SHIP_gemen: "Gemen"
-	ZYGERRIAN_SHIP_faith_of_d_nar: "Faith of D'Nar"
-	ZYGERRIAN_SHIP_m_rch_s_targe: "M'rch's Targe"
-	ZYGERRIAN_SHIP_thanda: "Thanda"
-	ZYGERRIAN_SHIP_scourge: "Scourge"
-	ZYGERRIAN_SHIP_listehol: "Listehol"
-	ZYGERRIAN_SHIP_armin: "Armin"
-	ZYGERRIAN_SHIP_pr_ollerg: "Pr'ollerg"
-	ZYGERRIAN_SHIP_tynemark: "Tynemark"
-	ZYGERRIAN_SHIP_tecora: "Tecora"
-	ZYGERRIAN_SHIP_lek_snapper: "Lek-Snapper"
-	ZYGERRIAN_SHIP_cannibal: "Cannibal"
-	ZYGERRIAN_SHIP_apex: "Apex"
-	ZYGERRIAN_SHIP_pinnacle: "Pinnacle"
-	ZYGERRIAN_SHIP_undisputed: "Undisputed"
-	ZYGERRIAN_SHIP_fleshmonger: "Fleshmonger"
-	ZYGERRIAN_SHIP_hand_taker: "Hand Taker"
-	ZYGERRIAN_SHIP_servus_custode: "Servus Custode"
-	ZYGERRIAN_SHIP_desolator: "Desolator"
-	ZYGERRIAN_SHIP_decimator: "Decimator"
-	ZYGERRIAN_SHIP_punishment: "Punishment"
-	ZYGERRIAN_SHIP_punisher: "Punisher"
-	ZYGERRIAN_SHIP_collective_punishment: "Collective Punishment"
-	ZYGERRIAN_SHIP_torturer: "Torturer"
-	ZYGERRIAN_SHIP_bondmaker: "Bondmaker"
-	ZYGERRIAN_SHIP_longfang: "Longfang"
-	ZYGERRIAN_SHIP_howler: "Howler"
-	ZYGERRIAN_SHIP_yowler: "Yowler"
-	ZYGERRIAN_SHIP_burdener: "Burdener"
-	ZYGERRIAN_SHIP_possessor: "Possessor"
-	ZYGERRIAN_SHIP_retribution: "Retribution"
-	ZYGERRIAN_SHIP_harsh_truth: "Harsh Truth"
-	ZYGERRIAN_SHIP_first_warning: "First Warning"
-	ZYGERRIAN_SHIP_reaver: "Reaver"
-	ZYGERRIAN_SHIP_marauder: "Marauder"
-	ZYGERRIAN_SHIP_void_wolf: "Void Wolf"
-	ZYGERRIAN_SHIP_void_rat: "Void Rat"
-	ZYGERRIAN_SHIP_plunderer: "Plunderer"
-	ZYGERRIAN_SHIP_quarterer: "Quarterer"
-	ZYGERRIAN_SHIP_gallows: "Gallows"
-	ZYGERRIAN_SHIP_antagonizer: "Antagonizer"
-	ZYGERRIAN_SHIP_encager: "Encager"
-	ZYGERRIAN_SHIP_fated_cage: "Fated Cage"
-	ZYGERRIAN_SHIP_iron_cell: "Iron Cell"
-	ZYGERRIAN_SHIP_cagebringer: "Cagebringer"
-	ZYGERRIAN_SHIP_confinement: "Confinement"
-	ZYGERRIAN_SHIP_imprisoner: "Imprisoner"
-	ZYGERRIAN_SHIP_mourner: "Mourner"
-	ZYGERRIAN_SHIP_violator: "Violator"
-	ZYGERRIAN_SHIP_detainer: "Detainer"
-	ZYGERRIAN_SHIP_exploiter: "Exploiter"
-	ZYGERRIAN_SHIP_poacher: "Poacher"
-	ZYGERRIAN_SHIP_handler: "Handler"
-	ZYGERRIAN_SHIP_constrainer: "Constrainer"
-	ZYGERRIAN_SHIP_constrictor: "Constrictor"
-	ZYGERRIAN_SHIP_strangler: "Strangler"
-	ZYGERRIAN_SHIP_iron_bridle: "Iron Bridle"
-	ZYGERRIAN_SHIP_arago: "Arago"
-	ZYGERRIAN_SHIP_rabid: "Rabid"
-	ZYGERRIAN_SHIP_crescent: "Crescent"
-	ZYGERRIAN_SHIP_diligent: "Diligent"
-	ZYGERRIAN_SHIP_zephyr: "Zephyr"
-	ZYGERRIAN_SHIP_enigma: "Enigma"
-	ZYGERRIAN_SHIP_enquirer: "Enquirer"
-	ZYGERRIAN_SHIP_scylla: "Scylla"
-	ZYGERRIAN_SHIP_arbiter: "Arbiter"
-	ZYGERRIAN_SHIP_asperity: "Asperity"
-	ZYGERRIAN_SHIP_eminence: "Eminence"
-	ZYGERRIAN_SHIP_astute: "Astute"
-	ZYGERRIAN_SHIP_alacrity: "Alacrity"
-	ZYGERRIAN_SHIP_satyr: "Satyr"
-	ZYGERRIAN_SHIP_prospero: "Prospero"
-	ZYGERRIAN_SHIP_untiring: "Untiring"
-	ZYGERRIAN_SHIP_zenith: "Zenith"
-	ZYGERRIAN_SHIP_torch: "Torch"
-	ZYGERRIAN_SHIP_remembrance: "Remembrance"
-	ZYGERRIAN_SHIP_pilgrim: "Pilgrim"
-	ZYGERRIAN_SHIP_trailblazer: "Trailblazer"
-	ZYGERRIAN_SHIP_vagabond: "Vagabond"
-	ZYGERRIAN_SHIP_wayfarer: "Wayfarer"
-	ZYGERRIAN_SHIP_ambassador: "Ambassador"
-	ZYGERRIAN_SHIP_emissary: "Emissary"
-	ZYGERRIAN_SHIP_nomad: "Nomad"
-	ZYGERRIAN_SHIP_pathfinder: "Pathfinder"
-	ZYGERRIAN_SHIP_wanderer: "Wanderer"
-	ZYGERRIAN_SHIP_traveler: "Traveler"
-	ZYGERRIAN_SHIP_godspeed: "Godspeed"
-	ZYGERRIAN_SHIP_prophecy: "Prophecy"
-	ZYGERRIAN_SHIP_manifest_destiny: "Manifest Destiny"
-	ZYGERRIAN_SHIP_virtue: "Virtue"
-	ZYGERRIAN_SHIP_potential: "Potential"
-	ZYGERRIAN_SHIP_expansion: "Expansion"
-	ZYGERRIAN_SHIP_queenly_spirit: "Queenly Spirit"
-	ZYGERRIAN_SHIP_prosperity: "Prosperity"
-	ZYGERRIAN_SHIP_summit: "Summit"
-	ZYGERRIAN_SHIP_seeder: "Seeder"
-	ZYGERRIAN_SHIP_harvest: "Harvest"
-	ZYGERRIAN_SHIP_creator: "Creator"
-	ZYGERRIAN_SHIP_beholder: "Beholder"
-	ZYGERRIAN_SHIP_exodus: "Exodus"
-	ZYGERRIAN_SHIP_foundation: "Foundation"
-	ZYGERRIAN_SHIP_scion: "Scion"
-	ZYGERRIAN_SHIP_progeny: "Progeny"
-	ZYGERRIAN_SHIP_obligation: "Obligation"
-	ZYGERRIAN_SHIP_purpose: "Purpose"
-	ZYGERRIAN_SHIP_provider: "Provider"
-	ZYGERRIAN_SHIP_shining_city: "Shining City"
-	ZYGERRIAN_SHIP_acquirer: "Acquirer"
-	ZYGERRIAN_SHIP_cultivator: "Cultivator"
-	ZYGERRIAN_SHIP_dawn_of_civilization: "Dawn of Civilization"
-	ZYGERRIAN_SHIP_purity: "Purity"
-	ZYGERRIAN_SHIP_community: "Community"
-	ZYGERRIAN_SHIP_brotherhood: "Brotherhood"
-	ZYGERRIAN_SHIP_pioneer_spirit: "Pioneer Spirit"
-	ZYGERRIAN_SHIP_industry: "Industry"
-	ZYGERRIAN_SHIP_helot: "Helot"
-	ZYGERRIAN_SHIP_serf: "Serf"
-	ZYGERRIAN_SHIP_laborer: "Laborer"
-	ZYGERRIAN_SHIP_builder: "Builder"
-	ZYGERRIAN_SHIP_craftsman: "Craftsman"
-	ZYGERRIAN_SHIP_peasant: "Peasant"
-	ZYGERRIAN_SHIP_engineer: "Engineer"
-	ZYGERRIAN_SHIP_promise: "Promise"
-	ZYGERRIAN_SHIP_service: "Service"
-	ZYGERRIAN_SHIP_shelter: "Shelter"
-	ZYGERRIAN_SHIP_beast: "Beast"
-	ZYGERRIAN_SHIP_developer: "Developer"
-	ZYGERRIAN_SHIP_forger: "Forger"
-	ZYGERRIAN_SHIP_foundry: "Foundry"
-	ZYGERRIAN_SHIP_factory: "Factory"
-	ZYGERRIAN_SHIP_anvil: "Anvil"
-	ZYGERRIAN_SHIP_pillar: "Pillar"
-	ZYGERRIAN_SHIP_architect: "Architect"
-	ZYGERRIAN_SHIP_accommodator: "Accommodator"
-	ZYGERRIAN_SHIP_landing_craft: "Landing Craft"
-	ZYGERRIAN_SHIP_spacegun_victory: "SpaceGun Victory"
-	ZYGERRIAN_SHIP_spacegun_success: "SpaceGun Success"
-	ZYGERRIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy"
-	ZYGERRIAN_SHIP_spacegun_superior: "SpaceGun Superior"
-	ZYGERRIAN_SHIP_spacegun_adventure: "SpaceGun Adventure"
-	ZYGERRIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy"
-	ZYGERRIAN_SHIP_spacegun_paramount: "SpaceGun Paramount"
-	ZYGERRIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous"
-	ZYGERRIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary"
-	ZYGERRIAN_SHIP_spacegun_eximious: "SpaceGun Eximious"
-	ZYGERRIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity"
-	ZYGERRIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim"
-	ZYGERRIAN_SHIP_spacegun_honor: "SpaceGun Honor"
-	ZYGERRIAN_SHIP_spacegun_renown: "SpaceGun Renown"
-	ZYGERRIAN_SHIP_spacegun_glory: "SpaceGun Glory"
-	ZYGERRIAN_SHIP_spacegun_superb: "SpaceGun Superb"
-	ZYGERRIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence"
-	ZYGERRIAN_SHIP_spacegun_majestic: "SpaceGun Majestic"
-	ZYGERRIAN_SHIP_spacegun_splendor: "SpaceGun Splendor"
-	ZYGERRIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm"
-	ZYGERRIAN_SHIP_spacegun_flawless: "SpaceGun Flawless"
-	ZYGERRIAN_SHIP_spacegun_consummate: "SpaceGun Consummate"
-	ZYGERRIAN_SHIP_spacegun_merit: "SpaceGun Merit"
-	ZYGERRIAN_SHIP_spacegun_perfection: "SpaceGun Perfection"
-	ZYGERRIAN_SHIP_spacegun_virtue: "SpaceGun Virtue"
-	ZYGERRIAN_SHIP_spacegun_advantage: "SpaceGun Advantage"
-	ZYGERRIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude"
-	ZYGERRIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible"
-	ZYGERRIAN_SHIP_spacegun_integrity: "SpaceGun Integrity"
-	ZYGERRIAN_SHIP_spacegun_justice: "SpaceGun Justice"
-	ZYGERRIAN_SHIP_spacegun_probity: "SpaceGun Probity"
-	ZYGERRIAN_SHIP_spacegun_prudence: "SpaceGun Prudence"
-	ZYGERRIAN_SHIP_spacegun_purity: "SpaceGun Purity"
-	ZYGERRIAN_SHIP_spacegun_resolute: "SpaceGun Resolute"
-	ZYGERRIAN_SHIP_spacegun_dignity: "SpaceGun Dignity"
-	ZYGERRIAN_SHIP_spacegun_distinction: "SpaceGun Distinction"
-	ZYGERRIAN_SHIP_spacegun_excellence: "SpaceGun Excellence"
-	ZYGERRIAN_SHIP_spacegun_faithful: "SpaceGun Faithful"
-	ZYGERRIAN_SHIP_spacegun_discipline: "SpaceGun Discipline"
-	ZYGERRIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast"
-	ZYGERRIAN_SHIP_spacegun_recompense: "SpaceGun Recompense"
-	ZYGERRIAN_SHIP_spacegun_requiem: "SpaceGun Requiem"
-	ZYGERRIAN_SHIP_spacegun_courage: "SpaceGun Courage"
-	ZYGERRIAN_SHIP_spacegun_valor: "SpaceGun Valor"
-	ZYGERRIAN_SHIP_spacegun_gallant: "SpaceGun Gallant"
-	ZYGERRIAN_SHIP_spacegun_daring: "SpaceGun Daring"
-	ZYGERRIAN_SHIP_spacegun_constancy: "SpaceGun Constancy"
-	ZYGERRIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence"
-	ZYGERRIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity"
-	ZYGERRIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity"
-	ZYGERRIAN_SHIP_spacegun_diligence: "SpaceGun Diligence"
-	ZYGERRIAN_SHIP_citadel: "Citadel"
-	ZYGERRIAN_SHIP_savage: "Savage"
-	ZYGERRIAN_SHIP_gateway: "Gateway"
-	ZYGERRIAN_SHIP_watchpost: "Watchpost"
-	ZYGERRIAN_SHIP_tower: "Tower"
-	ZYGERRIAN_SHIP_garrison: "Garrison"
-	ZYGERRIAN_SHIP_paraphet: "Paraphet"
-	ZYGERRIAN_SHIP_manbroke: "Manbroke"
-	ZYGERRIAN_SHIP_severed: "Severed"
-	ZYGERRIAN_SHIP_spithead: "Spithead"
-	ZYGERRIAN_SHIP_spiteful: "Spiteful"
-	ZYGERRIAN_SHIP_royal: "Royal"
-	ZYGERRIAN_SHIP_oulsbo: "Oulsbo"
-	ZYGERRIAN_SHIP_liverlet: "Liverlet"
-	ZYGERRIAN_SHIP_void_flow: "Void Flow"
-	ZYGERRIAN_SHIP_starlight_roads: "Starlight Roads"
-	ZYGERRIAN_SHIP_stardust: "Stardust"
-	ZYGERRIAN_SHIP_wails: "Wails"
-	ZYGERRIAN_SHIP_mournharbor: "Mournharbor"
-	ZYGERRIAN_SHIP_blackwatch: "Blackwatch"
-	ZYGERRIAN_SHIP_tyrant_s_view: "Tyrant's View"
-	ZYGERRIAN_SHIP_blockhouse: "Blockhouse"
-	ZYGERRIAN_SHIP_jepooni: "Jepooni"
-	ZYGERRIAN_SHIP_tahala: "Tahala"
-	ZYGERRIAN_SHIP_kilitwijaro: "Kilitwijaro"
-	ZYGERRIAN_SHIP_awroot: "Awroot"
-	ZYGERRIAN_SHIP_eberet: "Eberet"
-	ZYGERRIAN_SHIP_champion_hall: "Champion Hall"
-	ZYGERRIAN_SHIP_fujett: "Fujett"
-	ZYGERRIAN_SHIP_poeympus: "Poeympus"
-	ZYGERRIAN_SHIP_sinal: "Sinal"
-	ZYGERRIAN_SHIP_roseamb: "Roseamb"
-	ZYGERRIAN_SHIP_roombar: "Roombar"
-	ZYGERRIAN_SHIP_farpoint: "Farpoint"
-	ZYGERRIAN_SHIP_red_star: "Red Star"
-	ZYGERRIAN_SHIP_mount_forlorn: "Mount Forlorn"
-	ZYGERRIAN_SHIP_tharsis: "Tharsis"
-	ZYGERRIAN_SHIP_syrial: "Syrial"
-	ZYGERRIAN_SHIP_redhett: "Redhett"
-	ZYGERRIAN_SHIP_bowyer: "Bowyer"
-	ZYGERRIAN_SHIP_perrit: "Perrit"
-	ZYGERRIAN_SHIP_kovabro: "Kovabro"
-	ZYGERRIAN_SHIP_moorete: "Moorete"
-	ZYGERRIAN_SHIP_moorsom: "Moorsom"
-	ZYGERRIAN_SHIP_heartrend: "Heartrend"
-	ZYGERRIAN_SHIP_grey_gables: "Grey Gables"
-	ZYGERRIAN_SHIP_takala: "Takala"
-	ZYGERRIAN_SHIP_tanaka: "Tanaka"
-	ZYGERRIAN_SHIP_tojoro: "Tojoro"
-	ZYGERRIAN_SHIP_miranda: "Miranda"
-	ZYGERRIAN_SHIP_hootsport: "Hootsport"
-	ZYGERRIAN_SHIP_kimicum: "Kimicum"
-	ZYGERRIAN_SHIP_sklallam: "Sklallam"
-	ZYGERRIAN_SHIP_brettbridge: "Brettbridge"
-	ZYGERRIAN_SHIP_hipalla: "Hipalla"
-	ZYGERRIAN_SHIP_votalia: "Votalia"
-	ZYGERRIAN_SHIP_poremkon: "Poremkon"
-	ZYGERRIAN_SHIP_zarana: "Zarana"
-	ZYGERRIAN_SHIP_hyattskill: "Hyattskill"
-	ZYGERRIAN_SHIP_vilne: "Vilne"
-	ZYGERRIAN_SHIP_foreyla: "Foreyla"
-	ZYGERRIAN_SHIP_tefle: "Tefle"
-	ZYGERRIAN_SHIP_hawke: "Hawke"
-	ZYGERRIAN_SHIP_hermakk: "Hermakk"
-	ZYGERRIAN_SHIP_half_pound: "Half Pound"
-	ZYGERRIAN_SHIP_king: "King"
-	ZYGERRIAN_SHIP_queen: "Queen"
-	ZYGERRIAN_SHIP_empress: "Empress"
-	ZYGERRIAN_SHIP_crown: "Crown"
-	ZYGERRIAN_SHIP_chichian: "Chichian"
-	ZYGERRIAN_SHIP_essen: "Essen"
-	ZYGERRIAN_SHIP_kornilov: "Kornilov"
-	ZYGERRIAN_SHIP_monarch: "Monarch"
-	ZYGERRIAN_SHIP_triville: "Triville"
-	ZYGERRIAN_SHIP_vohort: "Vohort"
-	ZYGERRIAN_SHIP_suppro: "Suppro"
-	ZYGERRIAN_SHIP_gambitin: "Gambitin"
-	ZYGERRIAN_SHIP_lezzovo: "Lezzovo"
-	ZYGERRIAN_SHIP_bombard: "Bombard"
-	ZYGERRIAN_SHIP_ballista: "Ballista"
-	ZYGERRIAN_SHIP_catapult: "Catapult"
-	ZYGERRIAN_SHIP_harpoon: "Harpoon"
-	ZYGERRIAN_SHIP_polybolos: "Polybolos"
-	ZYGERRIAN_SHIP_culverin: "Culverin"
-	ZYGERRIAN_SHIP_exemplary: "Exemplary"
-	ZYGERRIAN_SHIP_CLASS_cr_90: "CR-90"
-	ZYGERRIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir"
-	ZYGERRIAN_SHIP_CLASS_lupus: "Lupus"
-	ZYGERRIAN_SHIP_CLASS_asdroni: "Asdroni"
-	ZYGERRIAN_SHIP_CLASS_customs: "Customs"
-	ZYGERRIAN_SHIP_CLASS_hammerhead: "Hammerhead"
-	ZYGERRIAN_SHIP_CLASS_scurge: "Scurge"
-	ZYGERRIAN_SHIP_CLASS_krayt: "Krayt"
-	ZYGERRIAN_SHIP_CLASS_diamond: "Diamond"
-	ZYGERRIAN_SHIP_CLASS_etti: "Etti"
-	ZYGERRIAN_SHIP_CLASS_asdroni_ii: "Asdroni II"
-	ZYGERRIAN_SHIP_CLASS_vigil: "Vigil"
-	ZYGERRIAN_SHIP_CLASS_dp20: "DP20"
-	ZYGERRIAN_SHIP_CLASS_asdroni_iii: "Asdroni III"
-	ZYGERRIAN_SHIP_CLASS_raider: "Raider"
-	ZYGERRIAN_SHIP_CLASS_dornean: "Dornean"
-	ZYGERRIAN_SHIP_CLASS_crusader: "Crusader"
-	ZYGERRIAN_SHIP_CLASS_marauder: "Marauder"
-	ZYGERRIAN_SHIP_CLASS_arquitens: "Arquitens"
-	ZYGERRIAN_SHIP_CLASS_kiltirin: "Kiltirin"
-	ZYGERRIAN_SHIP_CLASS_pelta: "Pelta"
-	ZYGERRIAN_SHIP_CLASS_pinnace: "Pinnace"
-	ZYGERRIAN_SHIP_CLASS_nova: "Nova"
-	ZYGERRIAN_SHIP_CLASS_vigilance: "Vigilance"
-	ZYGERRIAN_SHIP_CLASS_nebulon_b: "Nebulon-B"
-	ZYGERRIAN_SHIP_CLASS_cg_273: "CG-273"
-	ZYGERRIAN_SHIP_CLASS_kariek: "Kariek"
-	ZYGERRIAN_SHIP_CLASS_ton_falk: "Ton-Falk"
-	ZYGERRIAN_SHIP_CLASS_quasar_fire: "Quasar Fire"
-	ZYGERRIAN_SHIP_CLASS_lancer: "Lancer"
-	ZYGERRIAN_SHIP_CLASS_teroch: "Teroch"
-	ZYGERRIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2"
-	ZYGERRIAN_SHIP_CLASS_nova_ii: "Nova II"
-	ZYGERRIAN_SHIP_CLASS_vigilance_ii: "Vigilance II"
-	ZYGERRIAN_SHIP_CLASS_velox: "Velox"
-	ZYGERRIAN_SHIP_CLASS_mc30c: "MC30c"
-	ZYGERRIAN_SHIP_CLASS_vengeance: "Vengeance"
-	ZYGERRIAN_SHIP_CLASS_kariek_ii: "Kariek II"
-	ZYGERRIAN_SHIP_CLASS_cc_7700: "CC-7700"
-	ZYGERRIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2"
-	ZYGERRIAN_SHIP_CLASS_wavecrest: "Wavecrest"
-	ZYGERRIAN_SHIP_CLASS_battle_dragon: "Battle Dragon"
-	ZYGERRIAN_SHIP_CLASS_nuruodo: "Nuruodo"
-	ZYGERRIAN_SHIP_CLASS_sabaoth: "Sabaoth"
-	ZYGERRIAN_SHIP_CLASS_kontos: "Kontos"
-	ZYGERRIAN_SHIP_CLASS_mc40: "MC40"
-	ZYGERRIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II"
-	ZYGERRIAN_SHIP_CLASS_broadside: "Broadside"
-	ZYGERRIAN_SHIP_CLASS_protector: "Protector"
-	ZYGERRIAN_SHIP_CLASS_warlord: "Warlord"
-	ZYGERRIAN_SHIP_CLASS_gladiator: "Gladiator"
-	ZYGERRIAN_SHIP_CLASS_beviin: "Beviin"
-	ZYGERRIAN_SHIP_CLASS_liberator: "Liberator"
-	ZYGERRIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III"
-	ZYGERRIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II"
-	ZYGERRIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418"
-	ZYGERRIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV"
-	ZYGERRIAN_SHIP_CLASS_massias: "Massias"
-	ZYGERRIAN_SHIP_CLASS_dreadnought: "Dreadnought"
-	ZYGERRIAN_SHIP_CLASS_kyramud: "Kyramud"
-	ZYGERRIAN_SHIP_CLASS_munificent: "Munificent"
-	ZYGERRIAN_SHIP_CLASS_prosvoli: "Prosvoli"
-	ZYGERRIAN_SHIP_CLASS_acclamator: "Acclamator"
-	ZYGERRIAN_SHIP_CLASS_lictor: "Lictor"
-	ZYGERRIAN_SHIP_CLASS_bulwark: "Bulwark"
-	ZYGERRIAN_SHIP_CLASS_victory_i: "Victory I"
-	ZYGERRIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I"
-	ZYGERRIAN_SHIP_CLASS_bulk: "Bulk"
-	ZYGERRIAN_SHIP_CLASS_vindicator: "Vindicator"
-	ZYGERRIAN_SHIP_CLASS_dauntless: "Dauntless"
-	ZYGERRIAN_SHIP_CLASS_captor: "Captor"
-	ZYGERRIAN_SHIP_CLASS_au_riette: "Au'riette"
-	ZYGERRIAN_SHIP_CLASS_mc55: "MC55"
-	ZYGERRIAN_SHIP_CLASS_afthonia: "Afthonia"
-	ZYGERRIAN_SHIP_CLASS_victory_ii: "Victory II"
-	ZYGERRIAN_SHIP_CLASS_beroya: "Beroya"
-	ZYGERRIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II"
-	ZYGERRIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II"
-	ZYGERRIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II"
-	ZYGERRIAN_SHIP_CLASS_venator: "Venator"
-	ZYGERRIAN_SHIP_CLASS_centurion: "Centurion"
-	ZYGERRIAN_SHIP_CLASS_mc75: "MC75"
-	ZYGERRIAN_SHIP_CLASS_kandosii: "Kandosii"
-	ZYGERRIAN_SHIP_CLASS_corellian: "Corellian"
-	ZYGERRIAN_SHIP_CLASS_providence: "Providence"
-	ZYGERRIAN_SHIP_CLASS_syndic: "Syndic"
-	ZYGERRIAN_SHIP_CLASS_recusant: "Recusant"
-	ZYGERRIAN_SHIP_CLASS_invincible: "Invincible"
-	ZYGERRIAN_SHIP_CLASS_imperial_i: "Imperial I"
-	ZYGERRIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I"
-	ZYGERRIAN_SHIP_CLASS_procursator: "Procursator"
-	ZYGERRIAN_SHIP_CLASS_mc80a: "MC80a"
-	ZYGERRIAN_SHIP_CLASS_dh_omni: "DH-Omni"
-	ZYGERRIAN_SHIP_CLASS_aggressor: "Aggressor"
-	ZYGERRIAN_SHIP_CLASS_syndic_ii: "Syndic II"
-	ZYGERRIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty"
-	ZYGERRIAN_SHIP_CLASS_keldabe: "Keldabe"
-	ZYGERRIAN_SHIP_CLASS_corellian_ii: "Corellian II"
-	ZYGERRIAN_SHIP_CLASS_chaf: "Chaf"
-	ZYGERRIAN_SHIP_CLASS_imperial_ii: "Imperial II"
-	ZYGERRIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II"
-	ZYGERRIAN_SHIP_CLASS_ascendancy: "Ascendancy"
-	ZYGERRIAN_SHIP_CLASS_dominator: "Dominator"
-	ZYGERRIAN_SHIP_CLASS_allegiance: "Allegiance"
-	ZYGERRIAN_SHIP_CLASS_lucrehulk: "Lucrehulk"
-	ZYGERRIAN_SHIP_CLASS_phalanx: "Phalanx"
-	ZYGERRIAN_SHIP_CLASS_titan: "Titan"
-	ZYGERRIAN_SHIP_CLASS_mc80_independence: "MC80 Independence"
-	ZYGERRIAN_SHIP_CLASS_star_home: "Star Home"
-	ZYGERRIAN_SHIP_CLASS_subjugator: "Subjugator"
-	ZYGERRIAN_SHIP_CLASS_bellator: "Bellator"
-	ZYGERRIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd"
-	ZYGERRIAN_SHIP_CLASS_executor: "Executor"
-	ZYGERRIAN_FLEET_war_pack_ORD: "$ORD$ War Pack"
-	ZYGERRIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard"
-	ZYGERRIAN_ARMY_raid_pack_ORD: "$ORD$ Raid Pack"
-	ZYGERRIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles"
-	ZYGERRIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army"
-	ZYGERRIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group"
-	ZYGERRIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix"
-	ZYGERRIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando"
-	ZYGERRIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division"
-	ZYGERRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
-	ZYGERRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
-	ZYGERRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
-	ZYGERRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
-	ZYGERRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
-	ZYGERRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
-	ZYGERRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
-	ZYGERRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
-	ZYGERRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
-	ZYGERRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
-	ZYGERRIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron"
-	ZYGERRIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force"
-	ZYGERRIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison"
-	ZYGERRIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$"
-	ZYGERRIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$"
-	ZYGERRIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$"
-	ZYGERRIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison"
-	ZYGERRIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison"
-	ZYGERRIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison"
-	ZYGERRIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison"
-	ZYGERRIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison"
-	ZYGERRIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison"
-	ZYGERRIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison"
-	ZYGERRIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison"
-	ZYGERRIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison"
-	ZYGERRIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison"
-	ZYGERRIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers"
-	ZYGERRIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers"
-	ZYGERRIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers"
-	ZYGERRIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers"
-	ZYGERRIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers"
-	ZYGERRIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers"
-	ZYGERRIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang"
-	ZYGERRIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries"
-	ZYGERRIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries"
-	ZYGERRIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors"
-	ZYGERRIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors"
-	ZYGERRIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite "
-	ZYGERRIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers"
-	ZYGERRIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers"
-	ZYGERRIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers"
-	ZYGERRIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers"
-	ZYGERRIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard"
-	ZYGERRIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia"
-	ZYGERRIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners"
-	ZYGERRIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite"
-	ZYGERRIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries"
-	ZYGERRIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion"
-	ZYGERRIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries"
-	ZYGERRIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers"
-	ZYGERRIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids "
-	ZYGERRIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids "
-	ZYGERRIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment"
-	ZYGERRIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment"
-	ZYGERRIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment"
-	ZYGERRIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment"
-	ZYGERRIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment"
-	ZYGERRIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment"
-	ZYGERRIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles"
-	ZYGERRIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles"
-	ZYGERRIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut"
-	ZYGERRIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment"
-	ZYGERRIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando"
-	ZYGERRIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando"
-	ZYGERRIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando"
-	ZYGERRIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando"
-	ZYGERRIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs"
-	ZYGERRIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando"
-	ZYGERRIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando"
-	ZYGERRIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators"
-	ZYGERRIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps"
-	ZYGERRIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers"
-	ZYGERRIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos"
-	ZYGERRIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters"
-	ZYGERRIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos"
-	ZYGERRIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando"
-	ZYGERRIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids"
-	ZYGERRIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids"
-	ZYGERRIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment"
-	ZYGERRIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment"
-	ZYGERRIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment"
-	ZYGERRIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment"
-	ZYGERRIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment"
-	ZYGERRIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment"
-	ZYGERRIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment"
-	ZYGERRIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment"
-	ZYGERRIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment"
-	ZYGERRIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment"
-	ZYGERRIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment"
-	ZYGERRIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment"
-	ZYGERRIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment"
-	ZYGERRIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment"
-	ZYGERRIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment"
-	ZYGERRIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment"
-	ZYGERRIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment"
-	ZYGERRIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment"
-	ZYGERRIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment"
-	ZYGERRIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment"
-	ZYGERRIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment"
-	ZYGERRIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment"
-	ZYGERRIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank"
-	ZYGERRIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank"
-	ZYGERRIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment"
-	ZYGERRIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment"
-	ZYGERRIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment"
-	ZYGERRIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron"
-	ZYGERRIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron"
-	ZYGERRIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron"
-	ZYGERRIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron"
-	ZYGERRIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron"
-	ZYGERRIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron"
-	ZYGERRIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron"
-	ZYGERRIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer"
-	ZYGERRIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron"
-	ZYGERRIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron"
-	ZYGERRIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship"
-	ZYGERRIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship"
-	ZYGERRIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car"
-	ZYGERRIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing"
-	ZYGERRIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship"
-	ZYGERRIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard"
-	ZYGERRIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives"
-	ZYGERRIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup"
-	ZYGERRIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard"
-	ZYGERRIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard"
-	ZYGERRIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian"
-	ZYGERRIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications"
-	ZYGERRIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications"
-	ZYGERRIAN_ARMY_rancor_ORD: "$ORD$ Rancor"
-	ZYGERRIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor"
-	ZYGERRIAN_ARMY_acklay_ORD: "$ORD$ Acklay "
-	ZYGERRIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts"
-	ZYGERRIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts"
-	ZYGERRIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison"
-	ZYGERRIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison"
-	ZYGERRIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison"
-	ZYGERRIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison"
-	ZYGERRIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison"
-	ZYGERRIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison"
-	ZYGERRIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison"
-	ZYGERRIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison"
-	ZYGERRIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison"
-	ZYGERRIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison"
-	ZYGERRIAN_CHR_agruss: "Agruss"
-	ZYGERRIAN_CHR_kadavo: "Kadavo"
-	ZYGERRIAN_CHR_rajim: "Rajim"
-	ZYGERRIAN_CHR_darts: "Darts"
-	ZYGERRIAN_CHR_farzala: "Farzala"
-	ZYGERRIAN_CHR_ikis: "Ikis"
-	ZYGERRIAN_CHR_ingan: "Ingan"
-	ZYGERRIAN_CHR_jorec: "Jorec"
-	ZYGERRIAN_CHR_atai: "Atai"
-	ZYGERRIAN_CHR_sono: "Sono"
-	ZYGERRIAN_CHR_omus: "Omus"
-	ZYGERRIAN_CHR_m_rch: "M'rch"
-	ZYGERRIAN_CHR_mard: "Mard"
-	ZYGERRIAN_CHR_hordem: "Hordem"
-	ZYGERRIAN_CHR_oksan: "Oksan"
-	ZYGERRIAN_CHR_onyx: "Onyx"
-	ZYGERRIAN_CHR_scroon: "Scroon"
-	ZYGERRIAN_CHR_slego: "Slego"
-	ZYGERRIAN_CHR_teek: "Teek"
-	ZYGERRIAN_CHR_atlee: "Atlee"
-	ZYGERRIAN_CHR_marko: "Marko"
-	ZYGERRIAN_CHR_zolghast: "Zolghast"
-	ZYGERRIAN_CHR_strata: "Strata"
-	ZYGERRIAN_CHR_lancer: "Lancer"
-	ZYGERRIAN_CHR_zeak: "Zeak"
-	ZYGERRIAN_CHR_niuk: "Niuk"
-	ZYGERRIAN_CHR_lavidean: "Lavidean"
-	ZYGERRIAN_CHR_tanizandar: "Tanizandar"
-	ZYGERRIAN_CHR_japla: "Japla"
-	ZYGERRIAN_CHR_aran: "Aran"
-	ZYGERRIAN_CHR_rail: "Rail"
-	ZYGERRIAN_CHR_zeven: "Zeven"
-	ZYGERRIAN_CHR_yakown: "Yakown"
-	ZYGERRIAN_CHR_sibar: "Sibar"
-	ZYGERRIAN_CHR_sair: "Sair"
-	ZYGERRIAN_CHR_klai: "Klai"
-	ZYGERRIAN_CHR_jonal: "Jonal"
-	ZYGERRIAN_CHR_imay: "Imay"
-	ZYGERRIAN_CHR_traest: "Traest"
-	ZYGERRIAN_CHR_simo: "Simo"
-	ZYGERRIAN_CHR_kareth: "Kareth"
-	ZYGERRIAN_CHR_riyan: "Riyan"
-	ZYGERRIAN_CHR_maynus: "Maynus"
-	ZYGERRIAN_CHR_boceta: "Boceta"
-	ZYGERRIAN_CHR_agnook: "Agnook"
-	ZYGERRIAN_CHR_silus: "Silus"
-	ZYGERRIAN_CHR_rowan: "Rowan"
-	ZYGERRIAN_CHR_coren: "Coren"
-	ZYGERRIAN_CHR_jett: "Jett"
-	ZYGERRIAN_CHR_linth: "Linth"
-	ZYGERRIAN_CHR_annok: "Annok"
-	ZYGERRIAN_CHR_ulas: "Ulas"
-	ZYGERRIAN_CHR_fenn: "Fenn"
-	ZYGERRIAN_CHR_tal: "Tal"
-	ZYGERRIAN_CHR_vrok: "Vrok"
-	ZYGERRIAN_CHR_torin: "Torin"
-	ZYGERRIAN_CHR_boone: "Boone"
-	ZYGERRIAN_CHR_davith: "Davith"
-	ZYGERRIAN_CHR_jorgen: "Jorgen"
-	ZYGERRIAN_CHR_bertos: "Bertos"
-	ZYGERRIAN_CHR_ress: "Ress"
-	ZYGERRIAN_CHR_malius: "Malius"
-	ZYGERRIAN_CHR_kale: "Kale"
-	ZYGERRIAN_CHR_cregan: "Cregan"
-	ZYGERRIAN_CHR_galavo: "Galavo"
-	ZYGERRIAN_CHR_zerk: "Zerk"
-	ZYGERRIAN_CHR_jinn_tu: "Jinn-Tu"
-	ZYGERRIAN_CHR_jaryn: "Jaryn"
-	ZYGERRIAN_CHR_gentti: "Gentti"
-	ZYGERRIAN_CHR_yu_sien: "Yu-Sien"
-	ZYGERRIAN_CHR_akela: "Akela"
-	ZYGERRIAN_CHR_arslan: "Arslan"
-	ZYGERRIAN_CHR_sidias: "Sidias"
-	ZYGERRIAN_CHR_haken: "Haken"
-	ZYGERRIAN_CHR_biran: "Biran"
-	ZYGERRIAN_CHR_vidown: "Vidown"
-	ZYGERRIAN_CHR_arejala: "Arejala"
-	ZYGERRIAN_CHR_ithan: "Ithan"
-	ZYGERRIAN_CHR_cul_utaan: "Cul-utaan"
-	ZYGERRIAN_CHR_thoja: "Thoja"
-	ZYGERRIAN_CHR_cron: "Cron"
-	ZYGERRIAN_CHR_mossi: "Mossi"
-	ZYGERRIAN_CHR_abric: "Abric"
-	ZYGERRIAN_CHR_darg: "Darg"
-	ZYGERRIAN_CHR_gaman: "Gaman"
-	ZYGERRIAN_CHR_naiad: "Naiad"
-	ZYGERRIAN_CHR_herub: "Herub"
-	ZYGERRIAN_CHR_marius: "Marius"
-	ZYGERRIAN_CHR_torkin: "Torkin"
-	ZYGERRIAN_CHR_caton: "Caton"
-	ZYGERRIAN_CHR_kane: "Kane"
-	ZYGERRIAN_CHR_versita: "Versita"
-	ZYGERRIAN_CHR_cric: "Cric"
-	ZYGERRIAN_CHR_foxdi: "Foxdi"
-	ZYGERRIAN_CHR_montacca: "Montacca"
-	ZYGERRIAN_CHR_jospi: "Jospi"
-	ZYGERRIAN_CHR_baz: "Baz"
-	ZYGERRIAN_CHR_kam: "Kam"
-	ZYGERRIAN_CHR_erek: "Erek"
-	ZYGERRIAN_CHR_lerak: "Lerak"
-	ZYGERRIAN_CHR_morla: "Morla"
-	ZYGERRIAN_CHR_baxter: "Baxter"
-	ZYGERRIAN_CHR_talan: "Talan"
-	ZYGERRIAN_CHR_thion: "Thion"
-	ZYGERRIAN_CHR_kannon: "Kannon"
-	ZYGERRIAN_CHR_salir: "Salir"
-	ZYGERRIAN_CHR_caster: "Caster"
-	ZYGERRIAN_CHR_elden: "Elden"
-	ZYGERRIAN_CHR_faelgrom: "Faelgrom"
-	ZYGERRIAN_CHR_jorwoo: "Jorwoo"
-	ZYGERRIAN_CHR_raltharan: "Raltharan"
-	ZYGERRIAN_CHR_flash: "Flash"
-	ZYGERRIAN_CHR_waseem: "Waseem"
-	ZYGERRIAN_CHR_bendak: "Bendak"
-	ZYGERRIAN_CHR_kaz: "Kaz"
-	ZYGERRIAN_CHR_montileu: "Montileu"
-	ZYGERRIAN_CHR_gonoga: "Gonoga"
-	ZYGERRIAN_CHR_galven: "Galven"
-	ZYGERRIAN_CHR_vincenzo: "Vincenzo"
-	ZYGERRIAN_CHR_ric: "Ric"
-	ZYGERRIAN_CHR_rebar: "Rebar"
-	ZYGERRIAN_CHR_jebediah: "Jebediah"
-	ZYGERRIAN_CHR_aramil: "Aramil"
-	ZYGERRIAN_CHR_abraxis: "Abraxis"
-	ZYGERRIAN_CHR_delmi: "Delmi"
-	ZYGERRIAN_CHR_caalin: "Caalin"
-	ZYGERRIAN_CHR_rassth: "Rassth"
-	ZYGERRIAN_CHR_adorn: "Adorn"
-	ZYGERRIAN_CHR_syrus: "Syrus"
-	ZYGERRIAN_CHR_zhar_khan: "Zhar-Khan"
-	ZYGERRIAN_CHR_adam: "Adam"
-	ZYGERRIAN_CHR_predor: "Predor"
-	ZYGERRIAN_CHR_tarlson: "Tarlson"
-	ZYGERRIAN_CHR_boaz: "Boaz"
-	ZYGERRIAN_CHR_ingtar: "Ingtar"
-	ZYGERRIAN_CHR_gunn: "Gunn"
-	ZYGERRIAN_CHR_zerrid: "Zerrid"
-	ZYGERRIAN_CHR_bobecc: "Bobecc"
-	ZYGERRIAN_CHR_jelantos: "Jelantos"
-	ZYGERRIAN_CHR_jephego: "Jephego"
-	ZYGERRIAN_CHR_svante: "Svante"
-	ZYGERRIAN_CHR_tesvalo: "Tesvalo"
-	ZYGERRIAN_CHR_aeon: "Aeon"
-	ZYGERRIAN_CHR_dekar: "Dekar"
-	ZYGERRIAN_CHR_morech: "Morech"
-	ZYGERRIAN_CHR_melinjar: "Melinjar"
-	ZYGERRIAN_CHR_myt: "Myt"
-	ZYGERRIAN_CHR_murek: "Murek"
-	ZYGERRIAN_CHR_miraj: "Miraj"
-	ZYGERRIAN_CHR_madall: "MaDall"
-	ZYGERRIAN_CHR_hask: "Hask"
-	ZYGERRIAN_CHR_tosan: "Tosan"
-	ZYGERRIAN_CHR_mara: "Mara"
-	ZYGERRIAN_CHR_seena: "Seena"
-	ZYGERRIAN_CHR_areta: "Areta"
-	ZYGERRIAN_CHR_cord: "Cord"
-	ZYGERRIAN_CHR_cyrinity: "Cyrinity"
-	ZYGERRIAN_CHR_nile: "Nile"
-	ZYGERRIAN_CHR_kiyfi: "Kiyfi"
-	ZYGERRIAN_CHR_masera: "Masera"
-	ZYGERRIAN_CHR_satra: "Satra"
-	ZYGERRIAN_CHR_shehish: "Shehish"
-	ZYGERRIAN_CHR_sarna: "Sarna"
-	ZYGERRIAN_CHR_krava: "Krava"
-	ZYGERRIAN_CHR_roxis: "Roxis"
-	ZYGERRIAN_CHR_zarana: "Zarana"
-	ZYGERRIAN_CHR_aqua: "Aqua"
-	ZYGERRIAN_CHR_maryna: "Maryna"
-	ZYGERRIAN_CHR_essaj: "Essaj"
-	ZYGERRIAN_CHR_looriw: "Looriw"
-	ZYGERRIAN_CHR_teeana: "Teeana"
-	ZYGERRIAN_CHR_raena: "Raena"
-	ZYGERRIAN_CHR_yula: "Yula"
-	ZYGERRIAN_CHR_vifi: "Vifi"
-	ZYGERRIAN_CHR_vania: "Vania"
-	ZYGERRIAN_CHR_jeanida: "Jeanida"
-	ZYGERRIAN_CHR_aerena: "Aerena"
-	ZYGERRIAN_CHR_nataya: "Nataya"
-	ZYGERRIAN_CHR_bernarda: "Bernarda"
-	ZYGERRIAN_CHR_geela: "Geela"
-	ZYGERRIAN_CHR_lya: "Lya"
-	ZYGERRIAN_CHR_sirra: "Sirra"
-	ZYGERRIAN_CHR_teris: "Teris"
-	ZYGERRIAN_CHR_terral: "Terral"
-	ZYGERRIAN_CHR_nihla: "Nihla"
-	ZYGERRIAN_CHR_riema: "Riema"
-	ZYGERRIAN_CHR_erri: "Erri"
-	ZYGERRIAN_CHR_shanna: "Shanna"
-	ZYGERRIAN_CHR_lyra: "Lyra"
-	ZYGERRIAN_CHR_pranda: "Pranda"
-	ZYGERRIAN_CHR_valya: "Valya"
-	ZYGERRIAN_CHR_cally: "Cally"
-	ZYGERRIAN_CHR_viqi: "Viqi"
-	ZYGERRIAN_CHR_hadriel: "Hadriel"
-	ZYGERRIAN_CHR_lora: "Lora"
-	ZYGERRIAN_CHR_selena: "Selena"
-	ZYGERRIAN_CHR_zana: "Zana"
-	ZYGERRIAN_CHR_tuija: "Tuija"
-	ZYGERRIAN_CHR_railin: "Railin"
-	ZYGERRIAN_CHR_odona: "Odona"
-	ZYGERRIAN_CHR_shyon: "Shyon"
-	ZYGERRIAN_CHR_walas: "Walas"
-	ZYGERRIAN_CHR_rylla: "Rylla"
-	ZYGERRIAN_CHR_gara: "Gara"
-	ZYGERRIAN_CHR_delos: "Delos"
-	ZYGERRIAN_CHR_loretta: "Loretta"
-	ZYGERRIAN_CHR_luhon: "Luhon"
-	ZYGERRIAN_CHR_delinia: "Delinia"
-	ZYGERRIAN_CHR_aama: "Aama"
-	ZYGERRIAN_CHR_shorya: "Shorya"
-	ZYGERRIAN_CHR_melfina: "Melfina"
-	ZYGERRIAN_CHR_davessi: "Davessi"
-	ZYGERRIAN_CHR_larana: "Larana"
-	ZYGERRIAN_CHR_galatea: "Galatea"
-	ZYGERRIAN_CHR_nola: "Nola"
-	ZYGERRIAN_CHR_syna: "Syna"
-	ZYGERRIAN_CHR_jauhzmynn: "Jauhzmynn"
-	ZYGERRIAN_CHR_anen: "Anen"
-	ZYGERRIAN_CHR_orona: "Orona"
-	ZYGERRIAN_CHR_yana: "Yana"
-	ZYGERRIAN_CHR_zoras: "Zoras"
-	ZYGERRIAN_CHR_ree: "Ree"
-	ZYGERRIAN_CHR_grace: "Grace"
-	ZYGERRIAN_CHR_tantema: "Tantema"
-	ZYGERRIAN_CHR_myn: "Myn"
-	ZYGERRIAN_CHR_una: "Una"
-	ZYGERRIAN_CHR_dalharil: "Dalharil"
-	ZYGERRIAN_CHR_losa: "Losa"
-	ZYGERRIAN_CHR_sovi: "Sovi"
-	ZYGERRIAN_CHR_elaiza: "Elaiza"
-	ZYGERRIAN_CHR_vucora: "Vucora"
-	ZYGERRIAN_CHR_ava: "Ava"
-	ZYGERRIAN_CHR_joi: "Joi"
-	ZYGERRIAN_CHR_stryka: "Stryka"
-	ZYGERRIAN_CHR_shandra: "Shandra"
-	ZYGERRIAN_CHR_kely: "Kely"
-	ZYGERRIAN_CHR_caileta: "Caileta"
-	ZYGERRIAN_CHR_taia: "Taia"
-	ZYGERRIAN_CHR_siala: "Siala"
-	ZYGERRIAN_CHR_reki: "Reki"
-	ZYGERRIAN_CHR_maydla: "Maydla"
-	ZYGERRIAN_CHR_bota: "Bota"
-	ZYGERRIAN_CHR_kiandra: "Kiandra"
-	ZYGERRIAN_CHR_xilaren: "Xilaren"
-	ZYGERRIAN_CHR_zulara: "Zulara"
-	ZYGERRIAN_CHR_ren: "Ren"
-	ZYGERRIAN_CHR_karissa: "Karissa"
-	ZYGERRIAN_CHR_haruko: "Haruko"
-	ZYGERRIAN_CHR_jenna: "Jenna"
-	ZYGERRIAN_CHR_liana: "Liana"
-	ZYGERRIAN_CHR_rale: "Rale"
-	ZYGERRIAN_CHR_megala: "Megala"
-	ZYGERRIAN_CHR_aria: "Aria"
-	ZYGERRIAN_CHR_akiva: "Akiva"
-	ZYGERRIAN_CHR_nalanna: "Nalanna"
-	ZYGERRIAN_CHR_erlem: "Erlem"
-	ZYGERRIAN_CHR_nali: "Nali"
-	ZYGERRIAN_CHR_fallah: "Fallah"
-	ZYGERRIAN_CHR_kotrana: "Kotrana"
-	ZYGERRIAN_CHR_aayla: "Aayla"
-	ZYGERRIAN_CHR_kalira: "Kalira"
-	ZYGERRIAN_CHR_arani: "Arani"
-	ZYGERRIAN_CHR_fama: "Fama"
-	ZYGERRIAN_CHR_lyyr: "Lyyr"
-	ZYGERRIAN_CHR_nomilla: "Nomilla"
-	ZYGERRIAN_CHR_rane: "Rane"
-	ZYGERRIAN_CHR_nayru: "Nayru"
-	ZYGERRIAN_CHR_zylas: "Zylas"
-	ZYGERRIAN_CHR_vexa: "Vexa"
-	ZYGERRIAN_CHR_kana: "Kana"
-	ZYGERRIAN_CHR_meru: "Meru"
-	ZYGERRIAN_CHR_armin: "Armin"
-	ZYGERRIAN_CHR_pr_ollerg: "Pr'ollerg"
-	ZYGERRIAN_CHR_d_nar: "D'Nar"
-	ZYGERRIAN_CHR_stane: "Stane"
-	ZYGERRIAN_CHR_gemen: "Gemen"
-	ZYGERRIAN_CHR_molec: "Molec"
-	ZYGERRIAN_CHR_molec_ii: "Molec II"
-	ZYGERRIAN_CHR_molec_iii: "Molec III"
-	ZYGERRIAN_CHR_molec_iv: "Molec IV"
-	ZYGERRIAN_CHR_scintel: "Scintel"
-	ZYGERRIAN_CHR_krill: "Krill"
-	ZYGERRIAN_CHR_tolla: "Tolla"
-	ZYGERRIAN_CHR_daklan: "Daklan"
-	ZYGERRIAN_CHR_taff: "Taff"
-	ZYGERRIAN_CHR_thanda: "Thanda"
-	ZYGERRIAN_CHR_thegas: "Thegas"
-	ZYGERRIAN_CHR_tyne: "Tyne"
-	ZYGERRIAN_CHR_holgor: "Holgor"
-	ZYGERRIAN_CHR_ijaaz: "Ijaaz"
-	ZYGERRIAN_CHR_acklej: "Acklej"
-	ZYGERRIAN_CHR_sprax: "Sprax"
-	ZYGERRIAN_CHR_knesos: "Knesos"
-	ZYGERRIAN_CHR_throll_ek: "Throll'ek"
-	ZYGERRIAN_CHR_lasek: "Lasek"
-	ZYGERRIAN_CHR_artis: "Artis"
-	ZYGERRIAN_CHR_paxiyen: "Paxiyen"
-	ZYGERRIAN_CHR_corso: "Corso"
-	ZYGERRIAN_CHR_fallon: "Fallon"
-	ZYGERRIAN_CHR_gundo: "Gundo"
-	ZYGERRIAN_CHR_ruana: "Ruana"
-	ZYGERRIAN_CHR_fremlin: "Fremlin"
-	ZYGERRIAN_CHR_thont: "Thont"
-	ZYGERRIAN_CHR_creel: "Creel"
-	ZYGERRIAN_CHR_rar: "Rar"
-	ZYGERRIAN_CHR_dusat: "Dusat"
-	ZYGERRIAN_CHR_kessek: "Kessek"
-	ZYGERRIAN_CHR_redback: "Redback"
-	ZYGERRIAN_CHR_al_theriam: "Al-Theriam"
-	ZYGERRIAN_CHR_vanzeer: "VanZeer"
-	ZYGERRIAN_CHR_vrieska: "Vrieska"
-	ZYGERRIAN_CHR_calwhip: "Calwhip"
-	ZYGERRIAN_CHR_yartok: "Yartok"
-	ZYGERRIAN_CHR_yarous: "Yarous"
-	ZYGERRIAN_CHR_brower: "Brower"
-	ZYGERRIAN_CHR_fash: "Fash"
-	ZYGERRIAN_CHR_nalto: "Nalto"
-	ZYGERRIAN_CHR_stryder: "Stryder"
-	ZYGERRIAN_CHR_stryken: "Stryken"
-	ZYGERRIAN_CHR_kolek: "Kolek"
-	ZYGERRIAN_CHR_velen: "Velen"
-	ZYGERRIAN_CHR_solon: "Solon"
-	ZYGERRIAN_CHR_merquise: "Merquise"
-	ZYGERRIAN_CHR_varn: "Varn"
-	ZYGERRIAN_CHR_basai: "Basai"
-	ZYGERRIAN_CHR_froud: "Froud"
-	ZYGERRIAN_CHR_addacess: "Addacess"
-	ZYGERRIAN_CHR_elysar: "Elysar"
-	ZYGERRIAN_CHR_durgen: "Durgen"
-	ZYGERRIAN_CHR_slahlvo: "Slahlvo"
-	ZYGERRIAN_CHR_remex: "Remex"
-	ZYGERRIAN_CHR_madowki: "Madowki"
-	ZYGERRIAN_CHR_hayes: "Hayes"
-	ZYGERRIAN_CHR_ne: "Ne"
-	ZYGERRIAN_CHR_dago: "Dago"
-	ZYGERRIAN_CHR_stripeback: "Stripeback"
-	ZYGERRIAN_CHR_stithta: "Stithta"
-	ZYGERRIAN_CHR_ker: "Ker"
-	ZYGERRIAN_CHR_driet: "Driet"
-	ZYGERRIAN_CHR_klakk: "Klakk"
-	ZYGERRIAN_CHR_reed: "Reed"
-	ZYGERRIAN_CHR_lefex: "Lefex"
-	ZYGERRIAN_CHR_minn: "Minn"
-	ZYGERRIAN_CHR_irokini: "Irokini"
-	ZYGERRIAN_CHR_roye: "Roye"
-	ZYGERRIAN_CHR_danakar: "Danakar"
-	ZYGERRIAN_CHR_forin: "Forin"
-	ZYGERRIAN_CHR_glopio: "Glopio"
-	ZYGERRIAN_CHR_shenuri: "Shenuri"
-	ZYGERRIAN_CHR_corcer: "Corcer"
-	ZYGERRIAN_CHR_or_ven: "Or'ven"
-	ZYGERRIAN_CHR_wan: "Wan"
-	ZYGERRIAN_CHR_tagratt: "Tagratt"
-	ZYGERRIAN_CHR_golladio: "Golladio"
-	ZYGERRIAN_CHR_adramcsia: "Adramcsia"
-	ZYGERRIAN_CHR_golandrik: "Golandrik"
-	ZYGERRIAN_CHR_noth: "Noth"
-	ZYGERRIAN_CHR_taske: "Taske"
-	ZYGERRIAN_CHR_komo: "Komo"
-	ZYGERRIAN_CHR_barntar: "Barntar"
-	ZYGERRIAN_CHR_angavel: "Angavel"
-	ZYGERRIAN_CHR_tyrnith: "Tyrnith"
-	ZYGERRIAN_CHR_yavoog: "Yavoog"
-	ZYGERRIAN_CHR_kelbier: "Kelbier"
-	ZYGERRIAN_CHR_racto: "Racto"
-	ZYGERRIAN_CHR_degor: "Degor"
-	ZYGERRIAN_CHR_tisa: "Tisa"
-	ZYGERRIAN_CHR_magre: "Magre"
-	ZYGERRIAN_CHR_soylon: "Soylon"
-	ZYGERRIAN_CHR_lerann: "Lerann"
-	ZYGERRIAN_CHR_chro: "Chro"
-	ZYGERRIAN_CHR_finn: "Finn"
-	ZYGERRIAN_CHR_blackmoor: "Blackmoor"
-	ZYGERRIAN_CHR_hwang: "Hwang"
-	ZYGERRIAN_CHR_vekarr: "Vekarr"
-	ZYGERRIAN_CHR_amon: "Amon"
-	ZYGERRIAN_CHR_thiddex: "Thiddex"
-	ZYGERRIAN_CHR_selkayim: "Selkayim"
-	ZYGERRIAN_CHR_gilder: "Gilder"
-	ZYGERRIAN_CHR_dhuramav: "Dhuramav"
-	ZYGERRIAN_CHR_kodd: "Kodd"
-	ZYGERRIAN_CHR_morin: "Morin"
-	ZYGERRIAN_CHR_kobylarz: "Kobylarz"
-	ZYGERRIAN_CHR_tade: "Tade"
-	ZYGERRIAN_CHR_solman: "Solman"
-	ZYGERRIAN_CHR_bintaghr: "Bintaghr"
-	ZYGERRIAN_CHR_marclonus: "Marclonus"
-	ZYGERRIAN_CHR_precore: "Precore"
-	ZYGERRIAN_CHR_solborne: "Solborne"
-	ZYGERRIAN_CHR_bailer: "Bailer"
-	ZYGERRIAN_CHR_katarn: "Katarn"
-	ZYGERRIAN_CHR_anjek: "Anjek"
-	ZYGERRIAN_CHR_dalgas: "Dalgas"
-	ZYGERRIAN_CHR_kast: "Kast"
-	ZYGERRIAN_CHR_airerith: "Airerith"
-	ZYGERRIAN_CHR_halord: "Halord"
-	ZYGERRIAN_CHR_varlash: "Varlash"
-	ZYGERRIAN_CHR_jalba: "Jalba"
-	ZYGERRIAN_CHR_benn: "Benn"
-	ZYGERRIAN_CHR_haruhana: "Haruhana"
-	ZYGERRIAN_CHR_roice: "Roice"
-	ZYGERRIAN_CHR_lokar: "Lokar"
-	ZYGERRIAN_CHR_korpil: "Korpil"
-	ZYGERRIAN_CHR_turon: "Turon"
-	ZYGERRIAN_CHR_cavi: "Cavi"
-	ZYGERRIAN_CHR_deece: "Deece"
-	ZYGERRIAN_CHR_braitano: "Braitano"
-	ZYGERRIAN_CHR_garnik: "Garnik"
-	ZYGERRIAN_CHR_tyandas: "Tyandas"
-	ZYGERRIAN_CHR_ka_taramas: "Ka'Taramas"
-	ZYGERRIAN_CHR_nuwest: "Nuwest"
-	ZYGERRIAN_CHR_forte: "Forte"
-	ZYGERRIAN_CHR_noshey: "Noshey"
-	ZYGERRIAN_CHR_gyyll: "Gyyll"
-	ZYGERRIAN_CHR_tallon: "Tallon"
-	ZYGERRIAN_CHR_liorre: "Liorre"
-	ZYGERRIAN_CHR_adras: "Adras"
-	ZYGERRIAN_CHR_peoly: "Peoly"
-	ZYGERRIAN_CHR_damiel: "Damiel"
-	ZYGERRIAN_CHR_pau: "Pau"
-	ZYGERRIAN_CHR_drayvek: "Drayvek"
-	ZYGERRIAN_CHR_zaposug: "Zaposug"
-	ZYGERRIAN_CHR_molec_stane: "Molec-Stane"
-	ZYGERRIAN_CHR_bela_trepada: "Bela-Trepada"
-	ZYGERRIAN_CHR_defelice: "Defelice"
-	ZYGERRIAN_CHR_monsula: "Monsula"
-	ZYGERRIAN_CHR_baralein: "Baralein"
-	ZYGERRIAN_CHR_denive: "Denive"
-	ZYGERRIAN_CHR_hodrren: "Hodrren"
-	ZYGERRIAN_CHR_xergo: "Xergo"
-	ZYGERRIAN_CHR_sarat: "Sarat"
-	ZYGERRIAN_CHR_vercet: "Vercet"
-	ZYGERRIAN_CHR_ossaki: "Ossaki"
-	ZYGERRIAN_CHR_kappa: "Kappa"
-	ZYGERRIAN_CHR_zerga: "Zerga"
-	ZYGERRIAN_CHR_kopos: "Kopos"
-	ZYGERRIAN_CHR_aldrecht: "Aldrecht"
-	ZYGERRIAN_CHR_bohme: "Bohme"
-	ZYGERRIAN_CHR_tull: "Tull"
-	ZYGERRIAN_CHR_eldrel: "Eldrel"
-	ZYGERRIAN_CHR_marh: "Marh"
-	ZYGERRIAN_CHR_darkwin: "Darkwin"
-	ZYGERRIAN_CHR_krandor: "Krandor"
-	ZYGERRIAN_CHR_montag: "Montag"
-	ZYGERRIAN_CHR_dimodan: "Dimodan"
-	ZYGERRIAN_CHR_starkist: "Starkist"
-	ZYGERRIAN_CHR_veloor: "Veloor"
-	ZYGERRIAN_CHR_mohebbi: "Mohebbi"
-	ZYGERRIAN_CHR_runalian: "Runalian"
-	ZYGERRIAN_CHR_binette: "Binette"
-	ZYGERRIAN_CHR_laurent: "Laurent"
-	ZYGERRIAN_CHR_mavr: "Mavr"
-	ZYGERRIAN_CHR_ryra: "Ryra"
-	ZYGERRIAN_CHR_truden: "Truden"
-	ZYGERRIAN_CHR_molec_tade: "Molec-Tade"
-	ZYGERRIAN_CHR_starkholov: "Starkholov"
-	ZYGERRIAN_CHR_amekka: "Amekka"
-	ZYGERRIAN_CHR_avara: "Avara"
-	ZYGERRIAN_CHR_andrell: "Andrell"
-	ZYGERRIAN_CHR_annon: "Annon"
-	ZYGERRIAN_CHR_anteron: "Anteron"
-	ZYGERRIAN_CHR_atanna: "Atanna"
-	ZYGERRIAN_CHR_baab: "Baab"
-	ZYGERRIAN_CHR_barc: "Barc"
-	ZYGERRIAN_CHR_bonteri: "Bonteri"
-	ZYGERRIAN_CHR_breemu: "Breemu"
-	ZYGERRIAN_CHR_bremack: "Bremack"
-	ZYGERRIAN_CHR_bronk: "Bronk"
-	ZYGERRIAN_CHR_burtoni: "Burtoni"
-	ZYGERRIAN_CHR_cadaman: "Cadaman"
-	ZYGERRIAN_CHR_callen: "Callen"
-	ZYGERRIAN_CHR_ilisin: "Ilisin"
-	ZYGERRIAN_CHR_ledwellow: "Ledwellow"
-	ZYGERRIAN_CHR_dio: "Dio"
-	ZYGERRIAN_CHR_d_var: "D'var"
-	ZYGERRIAN_CHR_miralla: "Miralla"
-	ZYGERRIAN_CHR_miyanna: "Miyanna"
-	ZYGERRIAN_CHR_milizeth: "Milizeth"
-	ZYGERRIAN_CHR_milerrena: "Milerrena"
-	ZYGERRIAN_CHR_millara: "Millara"
-	ZYGERRIAN_CHR_alkema: "Alkema"
+	ZYGERRIAN_SHIP_false_manumission: "False Manumission" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_thralltaker: "Thralltaker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_widowmaker: "Widowmaker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_helot_s_brand: "Helot's Brand" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_branding_iron: "Branding Iron" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_abductor: "Abductor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_kidnapper: "Kidnapper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ransom: "Ransom" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_skinner: "Skinner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_separator: "Separator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_auctioneer: "Auctioneer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_first_pick: "First Pick" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_whelper: "Whelper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_subjugator: "Subjugator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_name_giver: "Name Giver" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_whipping_post: "Whipping Post" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_serf_watcher: "Serf Watcher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_back_striper: "Back Striper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_slave_catcher: "Slave Catcher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_enslaver: "Enslaver" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_slavemaker: "Slavemaker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_overseer: "Overseer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mongrel_s_lash: "Mongrel's Lash" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_lashbearer: "Lashbearer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scarlet_scourge: "Scarlet Scourge" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_flagellant: "Flagellant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_strapper: "Strapper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_bloody_ruin: "Bloody Ruin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_only_choice: "Only Choice" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scourge_queen: "Scourge Queen" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ninth_tail: "Ninth Tail" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_dominator: "Dominator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_taskmaster: "Taskmaster" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_taskmistress: "Taskmistress" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_disciplinarian: "Disciplinarian" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_discipliner: "Discipliner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_stickler: "Stickler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_wind_of_zygerria: "Wind of Zygerria" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_red_hand: "Red Hand" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_brander: "Brander" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_chattel_watcher: "Chattel Watcher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_disenfranchiser: "Disenfranchiser" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hierarch: "Hierarch" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_middle_passage: "Middle Passage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_oppressor: "Oppressor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_segregator: "Segregator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_subordinator: "Subordinator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_voyager: "Voyager" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_zong: "Zong" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_flayer: "Flayer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_excoriator: "Excoriator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_terrorizer: "Terrorizer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_choiceless: "Choiceless" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hopeless: "Hopeless" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_taker: "Taker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_zygerria_s_due: "Zygerria's Due" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mantracker: "Mantracker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_dominant: "Dominant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_alpha: "Alpha" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_silverback: "Silverback" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_snatcher: "Snatcher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pound_of_flesh: "Pound of Flesh" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_undertaker: "Undertaker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_grave_warden: "Grave Warden" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_chain_maker: "Chain Maker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_shackler: "Shackler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gouger: "Gouger" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pursuer: "Pursuer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gaoler: "Gaoler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_stalker: "Stalker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_trapper: "Trapper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_huntsman: "Huntsman" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_chaser: "Chaser" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_flusher: "Flusher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hunter: "Hunter" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hounding_one: "Hounding One" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_broodmare: "Broodmare" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_leash_holder: "Leash Holder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_lasher: "Lasher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_collared_king: "Collared King" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_slavekin: "Slavekin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_painful_lesson: "Painful Lesson" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_restrainer: "Restrainer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_controller: "Controller" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_chain_of_algernon: "Chain of Algernon" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_roper: "Roper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_suppressor: "Suppressor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hamperer: "Hamperer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_thunder_kit: "Thunder Kit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_powerless: "Powerless" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_weeper: "Weeper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_screamer: "Screamer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_wicked: "Wicked" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_malignant: "Malignant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_natural_order: "Natural Order" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ruiner: "Ruiner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_damane: "Damane" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_salt_wife: "Salt-Wife" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_taken: "Taken" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_downfall: "Downfall" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_fallen_one: "Fallen One" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tear_drop: "Tear Drop" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_slave_hewer: "Slave Hewer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_belt_hand: "Belt Hand" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_master: "Master" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_flogger: "Flogger" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hide_tanner: "Hide Tanner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_thrasher: "Thrasher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_cancer: "Cancer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mortuary: "Mortuary" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_morbid: "Morbid" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_sadist: "Sadist" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_owner: "Owner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_locust: "Locust" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pillager: "Pillager" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_lady_of_raids: "Lady of Raids" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_barbarous: "Barbarous" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_corsair: "Corsair" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_brass_bull: "Brass Bull" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_victimizer: "Victimizer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_suffocant: "Suffocant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_repellant: "Repellant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_second_cull: "Second Cull" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_brezak: "Brezak" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_doom_of_guandura: "Doom of Guandura" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_occupier: "Occupier" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_harasser: "Harasser" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tormentor: "Tormentor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_persecutor: "Persecutor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_cruel_fate: "Cruel Fate" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tracker: "Tracker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ruin_of_ryloth: "Ruin of Ryloth" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_binding_light: "Binding Light" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_manhunt: "Manhunt" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_inflicter: "Inflicter" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_nemesis: "Nemesis" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_abuser: "Abuser" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_grappler: "Grappler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_bondage: "Bondage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_inescapable: "Inescapable" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_imminent: "Imminent" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_compeller: "Compeller" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_compulsory: "Compulsory" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_foregone: "Foregone" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_menace: "Menace" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_splinterer: "Splinterer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_outfoxed: "Outfoxed" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_molec: "Molec" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scintel: "Scintel" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gemen: "Gemen" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_faith_of_d_nar: "Faith of D'Nar" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_m_rch_s_targe: "M'rch's Targe" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_thanda: "Thanda" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scourge: "Scourge" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_listehol: "Listehol" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_armin: "Armin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pr_ollerg: "Pr'ollerg" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tynemark: "Tynemark" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tecora: "Tecora" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_lek_snapper: "Lek-Snapper" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_cannibal: "Cannibal" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_apex: "Apex" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pinnacle: "Pinnacle" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_undisputed: "Undisputed" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_fleshmonger: "Fleshmonger" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hand_taker: "Hand Taker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_servus_custode: "Servus Custode" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_desolator: "Desolator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_decimator: "Decimator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_punishment: "Punishment" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_punisher: "Punisher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_collective_punishment: "Collective Punishment" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_torturer: "Torturer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_bondmaker: "Bondmaker" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_longfang: "Longfang" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_howler: "Howler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_yowler: "Yowler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_burdener: "Burdener" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_possessor: "Possessor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_retribution: "Retribution" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_harsh_truth: "Harsh Truth" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_first_warning: "First Warning" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_reaver: "Reaver" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_marauder: "Marauder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_void_wolf: "Void Wolf" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_void_rat: "Void Rat" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_plunderer: "Plunderer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_quarterer: "Quarterer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gallows: "Gallows" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_antagonizer: "Antagonizer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_encager: "Encager" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_fated_cage: "Fated Cage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_iron_cell: "Iron Cell" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_cagebringer: "Cagebringer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_confinement: "Confinement" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_imprisoner: "Imprisoner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mourner: "Mourner" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_violator: "Violator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_detainer: "Detainer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_exploiter: "Exploiter" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_poacher: "Poacher" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_handler: "Handler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_constrainer: "Constrainer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_constrictor: "Constrictor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_strangler: "Strangler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_iron_bridle: "Iron Bridle" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_arago: "Arago" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_rabid: "Rabid" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_crescent: "Crescent" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_diligent: "Diligent" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_zephyr: "Zephyr" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_enigma: "Enigma" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_enquirer: "Enquirer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scylla: "Scylla" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_arbiter: "Arbiter" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_asperity: "Asperity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_eminence: "Eminence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_astute: "Astute" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_alacrity: "Alacrity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_satyr: "Satyr" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_prospero: "Prospero" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_untiring: "Untiring" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_zenith: "Zenith" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_torch: "Torch" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_remembrance: "Remembrance" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pilgrim: "Pilgrim" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_trailblazer: "Trailblazer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_vagabond: "Vagabond" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_wayfarer: "Wayfarer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ambassador: "Ambassador" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_emissary: "Emissary" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_nomad: "Nomad" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pathfinder: "Pathfinder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_wanderer: "Wanderer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_traveler: "Traveler" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_godspeed: "Godspeed" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_prophecy: "Prophecy" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_manifest_destiny: "Manifest Destiny" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_virtue: "Virtue" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_potential: "Potential" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_expansion: "Expansion" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_queenly_spirit: "Queenly Spirit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_prosperity: "Prosperity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_summit: "Summit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_seeder: "Seeder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_harvest: "Harvest" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_creator: "Creator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_beholder: "Beholder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_exodus: "Exodus" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_foundation: "Foundation" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_scion: "Scion" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_progeny: "Progeny" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_obligation: "Obligation" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_purpose: "Purpose" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_provider: "Provider" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_shining_city: "Shining City" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_acquirer: "Acquirer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_cultivator: "Cultivator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_dawn_of_civilization: "Dawn of Civilization" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_purity: "Purity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_community: "Community" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_brotherhood: "Brotherhood" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pioneer_spirit: "Pioneer Spirit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_industry: "Industry" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_helot: "Helot" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_serf: "Serf" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_laborer: "Laborer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_builder: "Builder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_craftsman: "Craftsman" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_peasant: "Peasant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_engineer: "Engineer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_promise: "Promise" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_service: "Service" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_shelter: "Shelter" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_beast: "Beast" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_developer: "Developer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_forger: "Forger" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_foundry: "Foundry" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_factory: "Factory" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_anvil: "Anvil" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_pillar: "Pillar" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_architect: "Architect" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_accommodator: "Accommodator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_landing_craft: "Landing Craft" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_victory: "SpaceGun Victory" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_success: "SpaceGun Success" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_supremacy: "SpaceGun Supremacy" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_superior: "SpaceGun Superior" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_adventure: "SpaceGun Adventure" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_ascendancy: "SpaceGun Ascendancy" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_paramount: "SpaceGun Paramount" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_preponderous: "SpaceGun Preponderous" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_exemplary: "SpaceGun Exemplary" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_eximious: "SpaceGun Eximious" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_pertinacity: "SpaceGun Pertinacity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_acclaim: "SpaceGun Acclaim" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_honor: "SpaceGun Honor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_renown: "SpaceGun Renown" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_glory: "SpaceGun Glory" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_superb: "SpaceGun Superb" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_magnificence: "SpaceGun Magnificence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_majestic: "SpaceGun Majestic" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_splendor: "SpaceGun Splendor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_paradigm: "SpaceGun Paradigm" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_flawless: "SpaceGun Flawless" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_consummate: "SpaceGun Consummate" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_merit: "SpaceGun Merit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_perfection: "SpaceGun Perfection" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_virtue: "SpaceGun Virtue" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_advantage: "SpaceGun Advantage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_rectitude: "SpaceGun Rectitude" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_incorruptible: "SpaceGun Incorruptible" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_integrity: "SpaceGun Integrity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_justice: "SpaceGun Justice" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_probity: "SpaceGun Probity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_prudence: "SpaceGun Prudence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_purity: "SpaceGun Purity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_resolute: "SpaceGun Resolute" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_dignity: "SpaceGun Dignity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_distinction: "SpaceGun Distinction" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_excellence: "SpaceGun Excellence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_faithful: "SpaceGun Faithful" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_discipline: "SpaceGun Discipline" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_steadfast: "SpaceGun Steadfast" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_recompense: "SpaceGun Recompense" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_requiem: "SpaceGun Requiem" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_courage: "SpaceGun Courage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_valor: "SpaceGun Valor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_gallant: "SpaceGun Gallant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_daring: "SpaceGun Daring" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_constancy: "SpaceGun Constancy" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_perseverence: "SpaceGun Perseverence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_tenacity: "SpaceGun Tenacity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_sedulity: "SpaceGun Sedulity" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spacegun_diligence: "SpaceGun Diligence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_citadel: "Citadel" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_savage: "Savage" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gateway: "Gateway" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_watchpost: "Watchpost" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tower: "Tower" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_garrison: "Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_paraphet: "Paraphet" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_manbroke: "Manbroke" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_severed: "Severed" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spithead: "Spithead" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_spiteful: "Spiteful" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_royal: "Royal" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_oulsbo: "Oulsbo" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_liverlet: "Liverlet" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_void_flow: "Void Flow" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_starlight_roads: "Starlight Roads" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_stardust: "Stardust" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_wails: "Wails" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mournharbor: "Mournharbor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_blackwatch: "Blackwatch" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tyrant_s_view: "Tyrant's View" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_blockhouse: "Blockhouse" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_jepooni: "Jepooni" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tahala: "Tahala" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_kilitwijaro: "Kilitwijaro" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_awroot: "Awroot" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_eberet: "Eberet" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_champion_hall: "Champion Hall" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_fujett: "Fujett" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_poeympus: "Poeympus" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_sinal: "Sinal" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_roseamb: "Roseamb" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_roombar: "Roombar" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_farpoint: "Farpoint" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_red_star: "Red Star" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_mount_forlorn: "Mount Forlorn" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tharsis: "Tharsis" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_syrial: "Syrial" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_redhett: "Redhett" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_bowyer: "Bowyer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_perrit: "Perrit" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_kovabro: "Kovabro" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_moorete: "Moorete" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_moorsom: "Moorsom" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_heartrend: "Heartrend" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_grey_gables: "Grey Gables" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_takala: "Takala" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tanaka: "Tanaka" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tojoro: "Tojoro" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_miranda: "Miranda" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hootsport: "Hootsport" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_kimicum: "Kimicum" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_sklallam: "Sklallam" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_brettbridge: "Brettbridge" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hipalla: "Hipalla" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_votalia: "Votalia" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_poremkon: "Poremkon" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_zarana: "Zarana" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hyattskill: "Hyattskill" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_vilne: "Vilne" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_foreyla: "Foreyla" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_tefle: "Tefle" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hawke: "Hawke" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_hermakk: "Hermakk" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_half_pound: "Half Pound" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_king: "King" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_queen: "Queen" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_empress: "Empress" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_crown: "Crown" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_chichian: "Chichian" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_essen: "Essen" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_kornilov: "Kornilov" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_monarch: "Monarch" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_triville: "Triville" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_vohort: "Vohort" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_suppro: "Suppro" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_gambitin: "Gambitin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_lezzovo: "Lezzovo" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_bombard: "Bombard" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_ballista: "Ballista" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_catapult: "Catapult" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_harpoon: "Harpoon" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_polybolos: "Polybolos" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_culverin: "Culverin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_exemplary: "Exemplary" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_cr_90: "CR-90" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_jehavey_ir: "Jehavey'ir" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_lupus: "Lupus" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_asdroni: "Asdroni" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_customs: "Customs" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_hammerhead: "Hammerhead" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_scurge: "Scurge" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_krayt: "Krayt" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_diamond: "Diamond" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_etti: "Etti" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_asdroni_ii: "Asdroni II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_vigil: "Vigil" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dp20: "DP20" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_asdroni_iii: "Asdroni III" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_raider: "Raider" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dornean: "Dornean" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_crusader: "Crusader" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_marauder: "Marauder" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_arquitens: "Arquitens" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kiltirin: "Kiltirin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_pelta: "Pelta" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_pinnace: "Pinnace" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nova: "Nova" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_vigilance: "Vigilance" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nebulon_b: "Nebulon-B" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_cg_273: "CG-273" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kariek: "Kariek" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_ton_falk: "Ton-Falk" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_quasar_fire: "Quasar Fire" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_lancer: "Lancer" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_teroch: "Teroch" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nebulon_b2: "Nebulon-B2" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nova_ii: "Nova II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_vigilance_ii: "Vigilance II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_velox: "Velox" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc30c: "MC30c" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_vengeance: "Vengeance" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kariek_ii: "Kariek II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_cc_7700: "CC-7700" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_victory_mark_2: "Victory Mark 2" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_wavecrest: "Wavecrest" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_battle_dragon: "Battle Dragon" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nuruodo: "Nuruodo" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_sabaoth: "Sabaoth" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kontos: "Kontos" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc40: "MC40" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_battle_dragon_ii: "Battle Dragon II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_broadside: "Broadside" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_protector: "Protector" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_warlord: "Warlord" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_gladiator: "Gladiator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_beviin: "Beviin" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_liberator: "Liberator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_battle_dragon_iii: "Battle Dragon III" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_nuruodo_ii: "Nuruodo II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_immobilizer_418: "Immobilizer 418" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_battle_dragon_iv: "Battle Dragon IV" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_massias: "Massias" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dreadnought: "Dreadnought" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kyramud: "Kyramud" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_munificent: "Munificent" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_prosvoli: "Prosvoli" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_acclamator: "Acclamator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_lictor: "Lictor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_bulwark: "Bulwark" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_victory_i: "Victory I" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_assault_frigate_i: "Assault Frigate I" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_bulk: "Bulk" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_vindicator: "Vindicator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dauntless: "Dauntless" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_captor: "Captor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_au_riette: "Au'riette" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc55: "MC55" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_afthonia: "Afthonia" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_victory_ii: "Victory II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_beroya: "Beroya" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_assault_frigate_ii: "Assault Frigate II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_hrn_victory_ii: "HRN Victory II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_prosvoli_ii: "Prosvoli II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_venator: "Venator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_centurion: "Centurion" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc75: "MC75" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_kandosii: "Kandosii" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_corellian: "Corellian" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_providence: "Providence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_syndic: "Syndic" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_recusant: "Recusant" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_invincible: "Invincible" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_imperial_i: "Imperial I" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_hrn_imperial_i: "HRN Imperial I" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_procursator: "Procursator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc80a: "MC80a" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dh_omni: "DH-Omni" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_aggressor: "Aggressor" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_syndic_ii: "Syndic II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc80_liberty: "MC80 Liberty" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_keldabe: "Keldabe" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_corellian_ii: "Corellian II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_chaf: "Chaf" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_imperial_ii: "Imperial II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_hrn_imperial_ii: "HRN Imperial II" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_ascendancy: "Ascendancy" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_dominator: "Dominator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_allegiance: "Allegiance" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_lucrehulk: "Lucrehulk" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_phalanx: "Phalanx" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_titan: "Titan" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_mc80_independence: "MC80 Independence" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_star_home: "Star Home" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_subjugator: "Subjugator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_bellator: "Bellator" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_sol_yc_verd: "Sol'yc Verd" #!Empty_LineInfo!
+	ZYGERRIAN_SHIP_CLASS_executor: "Executor" #!Empty_LineInfo!
+	ZYGERRIAN_FLEET_war_pack_ORD: "$ORD$ War Pack" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_planetary_guard_ORD: "$ORD$ Planetary Guard" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_raid_pack_ORD: "$ORD$ Raid Pack" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_indentured_rifles_ORD: "$ORD$ Indentured Rifles" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_clone_army_ORD: "$ORD$ Clone Army" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hunter_killer_group_ORD: "$ORD$ Hunter-Killer Group" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_ground_defense_matrix_ORD: "$ORD$ Ground Defense Matrix" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_psi_commando_ORD: "$ORD$ Psi Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_bio_warfare_division_ORD: "$ORD$ Bio-Warfare Division" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_bio_engineered_squadron_ORD: "$ORD$ Bio-Engineered Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_garrison_force_ORD: "$ORD$ Garrison Force" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mechanized_garrison_ORD: "$ORD$ Mechanized Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_primitive_army_SEQ: "Primitive Army $C$" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_industrial_army_SEQ: "Industrial Army $C$" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_post_atomic_army_SEQ: "Post-Atomic Army $C$" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_stormtrooper_garrison_ORD: "$ORD$ Stormtrooper Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rebel_trooper_garrison_ORD: "$ORD$ Rebel Trooper Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_garrison_ORD: "$ORD$ Hutt Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_garrison_ORD: "$ORD$ Mandalorian Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_corellian_garrison_ORD: "$ORD$ Corellian Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_cis_garrison_ORD: "$ORD$ CIS Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_csa_garrison_ORD: "$ORD$ CSA Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hapes_garrison_ORD: "$ORD$ Hapes Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_militia_garrison_ORD: "$ORD$ Militia Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_droid_garrison_ORD: "$ORD$ Droid Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_stormtroopers_ORD: "$ORD$ Stormtroopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_shock_troopers_ORD: "$ORD$ Shock Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_dark_troopers_ORD: "$ORD$ Dark Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rebel_troopers_ORD: "$ORD$ Rebel Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_assault_troopers_ORD: "$ORD$ Assault Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_heavy_assault_troopers_ORD: "$ORD$ Heavy Assault Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_cartel_gang_ORD: "$ORD$ Hutt Cartel Gang" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_elite_mercenaries_ORD: "$ORD$ Hutt Elite Mercenaries" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_deshade_mercenaries_ORD: "$ORD$ Hutt Deshade Mercenaries" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_warriors_ORD: "$ORD$ Mandalorian Warriors" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_jet_warriors_ORD: "$ORD$ Mandalorian Jet Warriors" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_elite_ORD: "$ORD$ Mandalorian Elite " #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_corsec_troopers_ORD: "$ORD$ CorSec Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_corporate_enforcers_ORD: "$ORD$ Corporate Enforcers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_espos_troopers_ORD: "$ORD$ Espos Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_espos_elite_troopers_ORD: "$ORD$ Espos Elite Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_espos_state_guard_ORD: "$ORD$ Espos State Guard" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hapes_militia_ORD: "$ORD$ Hapes Militia" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_fountain_gunners_ORD: "$ORD$ Fountain Gunners" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_fountain_elite_ORD: "$ORD$ Fountain Elite" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mercenaries_ORD: "$ORD$ Mercenaries" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_heavy_mercenary_battalion_ORD: "$ORD$ Heavy Mercenary Battalion" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_mercenaries_ORD: "$ORD$ Mandalorian Mercenaries" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_clone_troopers_ORD: "$ORD$ Clone Troopers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_b1_battle_droids_ORD: "$ORD$ B1 Battle Droids " #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_b2_super_battle_droids_ORD: "$ORD$ B2 Super Battle Droids " #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_droideka_detachment_ORD: "$ORD$ Droideka Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_light_walkers_detachment_ORD: "$ORD$ Light Walkers Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_adv__light_walkers_detachment_ORD: "$ORD$ Adv. Light Walkers Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_t_2_tank_detachment_ORD: "$ORD$ T-2 Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_barges_detachment_ORD: "$ORD$ Hutt Barges Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_auxilary_detachment_ORD: "$ORD$ Mandalorian Auxilary Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_fountain_support_vehicles_ORD: "$ORD$ Fountain Support Vehicles" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_infantry_support_vehicles_ORD: "$ORD$ Infantry Support Vehicles" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_havw_a6_juggernaut_ORD: "$ORD$ HAVw A6 Juggernaut" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_dsd1_droid_detachment_ORD: "$ORD$ DSD1 Droid Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_storm_commando_ORD: "$ORD$ Storm Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_shadow_commando_ORD: "$ORD$ Shadow Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rebel_commando_ORD: "$ORD$ Rebel Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rebel_elite_commando_ORD: "$ORD$ Rebel Elite Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_cartel_sabateurs_ORD: "$ORD$ Cartel Sabateurs" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_commando_ORD: "$ORD$ Mandalorian Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_elite_commando_ORD: "$ORD$ Mandalorian Elite Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_corellian_infiltrators_ORD: "$ORD$ Corellian Infiltrators" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_espos_specops_ORD: "$ORD$ Espos SpecOps" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_fountain_snipers_ORD: "$ORD$ Fountain Snipers" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_her_majesty_s_select_commandos_ORD: "$ORD$ Her Majesty's Select Commandos" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_bounty_hunters_ORD: "$ORD$ Bounty Hunters" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_clone_commandos_ORD: "$ORD$ Clone Commandos" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_bx_droid_commando_ORD: "$ORD$ BX Droid Commando" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sd_4k_assasin_droids_ORD: "$ORD$ SD-4K Assasin Droids" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_ig_series_assasin_droids_ORD: "$ORD$ IG-series Assasin Droids" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_2_m_hovertank_detachment_ORD: "$ORD$ 2-M Hovertank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_at_at_detachment_ORD: "$ORD$ AT-AT Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_at_at_advanced_detachment_ORD: "$ORD$ AT-AT Advanced Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_t_3b_tank_detachment_ORD: "$ORD$ T-3B Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_legacy_at_te_detachment_ORD: "$ORD$ Legacy AT-TE Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_t_4b_modified_tank_detachment_ORD: "$ORD$ T-4B Modified Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_wlo_5_tank_detachment_ORD: "$ORD$ WLO-5 Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mht_1_detachment_ORD: "$ORD$ MHT-1 Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mht_2_detachment_ORD: "$ORD$ MHT-2 Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_aat_1_tank_detachment_ORD: "$ORD$ AAT-1 Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_fountain_armor_detachment_ORD: "$ORD$ Fountain Armor Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_tx_225_assualt_tank_detachment_ORD: "$ORD$ TX-225 Assualt Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_salvaged_at_te_detachment_ORD: "$ORD$ Salvaged AT-TE Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_salvaged_at_he_detachment_ORD: "$ORD$ Salvaged AT-HE Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_og_9_spider_droid_detachment_ORD: "$ORD$ OG-9 Spider Droid Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_super_droid_tank_detachment_ORD: "$ORD$ Super Droid Tank Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_spma_artillery_detachment_ORD: "$ORD$ SPMA Artillery Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_spha_artillery_detachment_ORD: "$ORD$ SPHA Artillery Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mptl_artillary_detachment_ORD: "$ORD$ MPTL Artillary Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hmptl_artillary_detachment_ORD: "$ORD$ HMPTL Artillary Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_artillery_barge_detachment_ORD: "$ORD$ Artillery Barge Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mha_artillery_detachment_ORD: "$ORD$ MHA Artillery Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mlc_4_artillery_tank_ORD: "$ORD$ MLC-4 Artillery Tank" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mlc_3_light_artillery_tank_ORD: "$ORD$ MLC-3 Light Artillery Tank" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_spha_t_artillery_detachment_ORD: "$ORD$ SPHA-T Artillery Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_j_1_proton_cannon_detachment_ORD: "$ORD$ J-1 Proton Cannon Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hellfire_droid_detachment_ORD: "$ORD$ Hellfire Droid Detachment" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_tie_squadron_ORD: "$ORD$ TIE Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_lambda_shuttle_gunship_squadron_ORD: "$ORD$ Lambda Shuttle Gunship Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_t_47_airspeeder_squadron_ORD: "$ORD$ T-47 Airspeeder Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_tachyon_airspeeder_squadron_ORD: "$ORD$ Tachyon Airspeeder Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_sandspeeder_squadron_ORD: "$ORD$ Sandspeeder Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_skyfighter_squadron_ORD: "$ORD$ Mandalorian SkyFighter Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_vcx_series_starfighter_squadron_ORD: "$ORD$ VCX-series Starfighter Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mechanized_assault_flyer_ORD: "$ORD$ Mechanized Assault Flyer" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_r_41_starchaser_squadron_ORD: "$ORD$ R-41 Starchaser Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_my_til_fighter_squadron_ORD: "$ORD$ My'til Fighter Squadron" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_turbostorm_class_gunship_ORD: "$ORD$ Turbostorm-class Gunship" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_legacy_laat_gunship_ORD: "$ORD$ Legacy LAAT Gunship" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_storm_iv_twin_pod_cloud_car_ORD: "$ORD$ Storm IV Twin-Pod Cloud Car" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_vulture_droid_airwing_ORD: "$ORD$ Vulture Droid Airwing" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hmp_droid_gunship_ORD: "$ORD$ HMP Droid Gunship" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_honor_guard_ORD: "$ORD$ Honor Guard" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_bothan_operatives_ORD: "$ORD$ Bothan Operatives" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_wookie_battlegroup_ORD: "$ORD$ Wookie Battlegroup" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_magnaguard_ORD: "$ORD$ Magnaguard" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hapan_royal_guard_ORD: "$ORD$ Hapan Royal Guard" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_geonosian_ORD: "$ORD$ Geonosian" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_df9_cannon_fortifications_ORD: "$ORD$ DF9 Cannon Fortifications" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_turbolaser_cannon_fortifications_ORD: "$ORD$ Turbolaser Cannon Fortifications" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rancor_ORD: "$ORD$ Rancor" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_ancient_rancor_ORD: "$ORD$ Ancient Rancor" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_acklay_ORD: "$ORD$ Acklay " #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_primal_beasts_ORD: "$ORD$ Primal Beasts" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_disturbed_beasts_ORD: "$ORD$ Disturbed Beasts" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_stormtrooper_occupation_garrison_ORD: "$ORD$ Stormtrooper Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_rebel_trooper_occupation_garrison_ORD: "$ORD$ Rebel Trooper Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hutt_occupation_garrison_ORD: "$ORD$ Hutt Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_mandalorian_occupation_garrison_ORD: "$ORD$ Mandalorian Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_corellian_occupation_garrison_ORD: "$ORD$ Corellian Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_cis_occupation_garrison_ORD: "$ORD$ CIS Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_csa_occupation_garrison_ORD: "$ORD$ CSA Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_hapes_occupation_garrison_ORD: "$ORD$ Hapes Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_militia_occupation_garrison_ORD: "$ORD$ Militia Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_ARMY_droid_occupation_garrison_ORD: "$ORD$ Droid Occupation Garrison" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_agruss: "Agruss" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kadavo: "Kadavo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rajim: "Rajim" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_darts: "Darts" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_farzala: "Farzala" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ikis: "Ikis" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ingan: "Ingan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jorec: "Jorec" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_atai: "Atai" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sono: "Sono" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_omus: "Omus" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_m_rch: "M'rch" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_mard: "Mard" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hordem: "Hordem" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_oksan: "Oksan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_onyx: "Onyx" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_scroon: "Scroon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_slego: "Slego" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_teek: "Teek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_atlee: "Atlee" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_marko: "Marko" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zolghast: "Zolghast" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_strata: "Strata" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lancer: "Lancer" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zeak: "Zeak" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_niuk: "Niuk" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lavidean: "Lavidean" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tanizandar: "Tanizandar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_japla: "Japla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aran: "Aran" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rail: "Rail" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zeven: "Zeven" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yakown: "Yakown" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sibar: "Sibar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sair: "Sair" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_klai: "Klai" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jonal: "Jonal" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_imay: "Imay" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_traest: "Traest" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_simo: "Simo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kareth: "Kareth" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_riyan: "Riyan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_maynus: "Maynus" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_boceta: "Boceta" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_agnook: "Agnook" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_silus: "Silus" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rowan: "Rowan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_coren: "Coren" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jett: "Jett" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_linth: "Linth" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_annok: "Annok" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ulas: "Ulas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fenn: "Fenn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tal: "Tal" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vrok: "Vrok" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_torin: "Torin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_boone: "Boone" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_davith: "Davith" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jorgen: "Jorgen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bertos: "Bertos" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ress: "Ress" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_malius: "Malius" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kale: "Kale" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cregan: "Cregan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_galavo: "Galavo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zerk: "Zerk" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jinn_tu: "Jinn-Tu" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jaryn: "Jaryn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gentti: "Gentti" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yu_sien: "Yu-Sien" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_akela: "Akela" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_arslan: "Arslan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sidias: "Sidias" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_haken: "Haken" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_biran: "Biran" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vidown: "Vidown" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_arejala: "Arejala" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ithan: "Ithan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cul_utaan: "Cul-utaan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thoja: "Thoja" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cron: "Cron" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_mossi: "Mossi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_abric: "Abric" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_darg: "Darg" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gaman: "Gaman" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_naiad: "Naiad" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_herub: "Herub" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_marius: "Marius" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_torkin: "Torkin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_caton: "Caton" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kane: "Kane" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_versita: "Versita" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cric: "Cric" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_foxdi: "Foxdi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_montacca: "Montacca" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jospi: "Jospi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_baz: "Baz" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kam: "Kam" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_erek: "Erek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lerak: "Lerak" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_morla: "Morla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_baxter: "Baxter" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_talan: "Talan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thion: "Thion" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kannon: "Kannon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_salir: "Salir" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_caster: "Caster" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_elden: "Elden" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_faelgrom: "Faelgrom" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jorwoo: "Jorwoo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_raltharan: "Raltharan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_flash: "Flash" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_waseem: "Waseem" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bendak: "Bendak" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kaz: "Kaz" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_montileu: "Montileu" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gonoga: "Gonoga" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_galven: "Galven" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vincenzo: "Vincenzo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ric: "Ric" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rebar: "Rebar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jebediah: "Jebediah" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aramil: "Aramil" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_abraxis: "Abraxis" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_delmi: "Delmi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_caalin: "Caalin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rassth: "Rassth" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_adorn: "Adorn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_syrus: "Syrus" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zhar_khan: "Zhar-Khan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_adam: "Adam" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_predor: "Predor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tarlson: "Tarlson" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_boaz: "Boaz" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ingtar: "Ingtar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gunn: "Gunn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zerrid: "Zerrid" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bobecc: "Bobecc" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jelantos: "Jelantos" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jephego: "Jephego" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_svante: "Svante" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tesvalo: "Tesvalo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aeon: "Aeon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dekar: "Dekar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_morech: "Morech" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_melinjar: "Melinjar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_myt: "Myt" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_murek: "Murek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_miraj: "Miraj" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_madall: "MaDall" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hask: "Hask" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tosan: "Tosan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_mara: "Mara" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_seena: "Seena" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_areta: "Areta" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cord: "Cord" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cyrinity: "Cyrinity" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nile: "Nile" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kiyfi: "Kiyfi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_masera: "Masera" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_satra: "Satra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shehish: "Shehish" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sarna: "Sarna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_krava: "Krava" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_roxis: "Roxis" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zarana: "Zarana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aqua: "Aqua" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_maryna: "Maryna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_essaj: "Essaj" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_looriw: "Looriw" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_teeana: "Teeana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_raena: "Raena" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yula: "Yula" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vifi: "Vifi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vania: "Vania" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jeanida: "Jeanida" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aerena: "Aerena" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nataya: "Nataya" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bernarda: "Bernarda" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_geela: "Geela" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lya: "Lya" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sirra: "Sirra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_teris: "Teris" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_terral: "Terral" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nihla: "Nihla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_riema: "Riema" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_erri: "Erri" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shanna: "Shanna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lyra: "Lyra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_pranda: "Pranda" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_valya: "Valya" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cally: "Cally" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_viqi: "Viqi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hadriel: "Hadriel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lora: "Lora" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_selena: "Selena" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zana: "Zana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tuija: "Tuija" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_railin: "Railin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_odona: "Odona" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shyon: "Shyon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_walas: "Walas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rylla: "Rylla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gara: "Gara" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_delos: "Delos" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_loretta: "Loretta" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_luhon: "Luhon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_delinia: "Delinia" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aama: "Aama" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shorya: "Shorya" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_melfina: "Melfina" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_davessi: "Davessi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_larana: "Larana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_galatea: "Galatea" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nola: "Nola" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_syna: "Syna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jauhzmynn: "Jauhzmynn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_anen: "Anen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_orona: "Orona" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yana: "Yana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zoras: "Zoras" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ree: "Ree" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_grace: "Grace" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tantema: "Tantema" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_myn: "Myn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_una: "Una" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dalharil: "Dalharil" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_losa: "Losa" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sovi: "Sovi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_elaiza: "Elaiza" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vucora: "Vucora" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ava: "Ava" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_joi: "Joi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stryka: "Stryka" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shandra: "Shandra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kely: "Kely" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_caileta: "Caileta" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_taia: "Taia" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_siala: "Siala" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_reki: "Reki" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_maydla: "Maydla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bota: "Bota" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kiandra: "Kiandra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_xilaren: "Xilaren" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zulara: "Zulara" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ren: "Ren" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_karissa: "Karissa" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_haruko: "Haruko" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jenna: "Jenna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_liana: "Liana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rale: "Rale" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_megala: "Megala" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aria: "Aria" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_akiva: "Akiva" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nalanna: "Nalanna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_erlem: "Erlem" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nali: "Nali" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fallah: "Fallah" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kotrana: "Kotrana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aayla: "Aayla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kalira: "Kalira" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_arani: "Arani" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fama: "Fama" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lyyr: "Lyyr" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nomilla: "Nomilla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rane: "Rane" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nayru: "Nayru" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zylas: "Zylas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vexa: "Vexa" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kana: "Kana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_meru: "Meru" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_armin: "Armin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_pr_ollerg: "Pr'ollerg" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_d_nar: "D'Nar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stane: "Stane" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gemen: "Gemen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec: "Molec" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec_ii: "Molec II" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec_iii: "Molec III" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec_iv: "Molec IV" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_scintel: "Scintel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_krill: "Krill" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tolla: "Tolla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_daklan: "Daklan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_taff: "Taff" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thanda: "Thanda" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thegas: "Thegas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tyne: "Tyne" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_holgor: "Holgor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ijaaz: "Ijaaz" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_acklej: "Acklej" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sprax: "Sprax" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_knesos: "Knesos" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_throll_ek: "Throll'ek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lasek: "Lasek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_artis: "Artis" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_paxiyen: "Paxiyen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_corso: "Corso" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fallon: "Fallon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gundo: "Gundo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ruana: "Ruana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fremlin: "Fremlin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thont: "Thont" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_creel: "Creel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_rar: "Rar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dusat: "Dusat" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kessek: "Kessek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_redback: "Redback" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_al_theriam: "Al-Theriam" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vanzeer: "VanZeer" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vrieska: "Vrieska" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_calwhip: "Calwhip" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yartok: "Yartok" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yarous: "Yarous" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_brower: "Brower" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_fash: "Fash" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nalto: "Nalto" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stryder: "Stryder" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stryken: "Stryken" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kolek: "Kolek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_velen: "Velen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_solon: "Solon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_merquise: "Merquise" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_varn: "Varn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_basai: "Basai" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_froud: "Froud" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_addacess: "Addacess" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_elysar: "Elysar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_durgen: "Durgen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_slahlvo: "Slahlvo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_remex: "Remex" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_madowki: "Madowki" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hayes: "Hayes" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ne: "Ne" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dago: "Dago" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stripeback: "Stripeback" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_stithta: "Stithta" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ker: "Ker" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_driet: "Driet" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_klakk: "Klakk" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_reed: "Reed" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lefex: "Lefex" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_minn: "Minn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_irokini: "Irokini" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_roye: "Roye" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_danakar: "Danakar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_forin: "Forin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_glopio: "Glopio" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_shenuri: "Shenuri" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_corcer: "Corcer" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_or_ven: "Or'ven" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_wan: "Wan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tagratt: "Tagratt" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_golladio: "Golladio" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_adramcsia: "Adramcsia" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_golandrik: "Golandrik" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_noth: "Noth" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_taske: "Taske" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_komo: "Komo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_barntar: "Barntar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_angavel: "Angavel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tyrnith: "Tyrnith" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_yavoog: "Yavoog" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kelbier: "Kelbier" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_racto: "Racto" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_degor: "Degor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tisa: "Tisa" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_magre: "Magre" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_soylon: "Soylon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lerann: "Lerann" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_chro: "Chro" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_finn: "Finn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_blackmoor: "Blackmoor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hwang: "Hwang" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vekarr: "Vekarr" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_amon: "Amon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_thiddex: "Thiddex" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_selkayim: "Selkayim" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gilder: "Gilder" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dhuramav: "Dhuramav" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kodd: "Kodd" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_morin: "Morin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kobylarz: "Kobylarz" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tade: "Tade" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_solman: "Solman" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bintaghr: "Bintaghr" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_marclonus: "Marclonus" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_precore: "Precore" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_solborne: "Solborne" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bailer: "Bailer" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_katarn: "Katarn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_anjek: "Anjek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dalgas: "Dalgas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kast: "Kast" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_airerith: "Airerith" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_halord: "Halord" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_varlash: "Varlash" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_jalba: "Jalba" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_benn: "Benn" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_haruhana: "Haruhana" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_roice: "Roice" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_lokar: "Lokar" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_korpil: "Korpil" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_turon: "Turon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cavi: "Cavi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_deece: "Deece" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_braitano: "Braitano" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_garnik: "Garnik" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tyandas: "Tyandas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ka_taramas: "Ka'Taramas" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_nuwest: "Nuwest" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_forte: "Forte" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_noshey: "Noshey" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_gyyll: "Gyyll" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tallon: "Tallon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_liorre: "Liorre" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_adras: "Adras" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_peoly: "Peoly" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_damiel: "Damiel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_pau: "Pau" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_drayvek: "Drayvek" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zaposug: "Zaposug" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec_stane: "Molec-Stane" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bela_trepada: "Bela-Trepada" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_defelice: "Defelice" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_monsula: "Monsula" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_baralein: "Baralein" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_denive: "Denive" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_hodrren: "Hodrren" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_xergo: "Xergo" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_sarat: "Sarat" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_vercet: "Vercet" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ossaki: "Ossaki" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kappa: "Kappa" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_zerga: "Zerga" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_kopos: "Kopos" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_aldrecht: "Aldrecht" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bohme: "Bohme" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_tull: "Tull" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_eldrel: "Eldrel" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_marh: "Marh" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_darkwin: "Darkwin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_krandor: "Krandor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_montag: "Montag" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dimodan: "Dimodan" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_starkist: "Starkist" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_veloor: "Veloor" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_mohebbi: "Mohebbi" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_runalian: "Runalian" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_binette: "Binette" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_laurent: "Laurent" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_mavr: "Mavr" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ryra: "Ryra" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_truden: "Truden" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_molec_tade: "Molec-Tade" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_starkholov: "Starkholov" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_amekka: "Amekka" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_avara: "Avara" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_andrell: "Andrell" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_annon: "Annon" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_anteron: "Anteron" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_atanna: "Atanna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_baab: "Baab" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_barc: "Barc" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bonteri: "Bonteri" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_breemu: "Breemu" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bremack: "Bremack" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_bronk: "Bronk" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_burtoni: "Burtoni" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_cadaman: "Cadaman" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_callen: "Callen" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ilisin: "Ilisin" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_ledwellow: "Ledwellow" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_dio: "Dio" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_d_var: "D'var" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_miralla: "Miralla" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_miyanna: "Miyanna" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_milizeth: "Milizeth" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_milerrena: "Milerrena" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_millara: "Millara" #!Empty_LineInfo!
+	ZYGERRIAN_CHR_alkema: "Alkema" #!Empty_LineInfo!
