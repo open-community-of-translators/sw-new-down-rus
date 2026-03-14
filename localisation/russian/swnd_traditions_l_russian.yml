@@ -287,8 +287,8 @@
  tr_mando_mandalmotors_3: "Штаб-квартира"
  tr_mando_mandalmotors_3_delayed: "Сердце «Манда-Моторс» - это место, где смертоносные конструкции становятся еще более смертоносными."
 
- tr_mando_mandalmotors_4: "Испытательные полигоны"
- tr_mando_mandalmotors_4_delayed: "Линия фронта — идеальное место для испытания нашего оружия."
+ tr_mando_mandalmotors_4: "Полевые испытания"
+ tr_mando_mandalmotors_4_delayed: "Тренировочные учения могут дать лишь ограниченные результаты. Линия фронта — идеальное место для испытания нашего оружия."
 
  tr_mando_mandalmotors_5: "Улучшенные масс-драйверы"
  tr_mando_mandalmotors_5_delayed: "Инженеры «Манда-Моторс» увеличили урон от наших масс-драйверов. Благодаря повышенной скорострельности наше оружие станет проклятием для вражеского флота."
@@ -429,16 +429,6 @@
  tr_espos_divergence_supression: "Подавление отклонений" 
  tr_espos_divergence_supression_desc: "$tr_domination_deviancy_protocols_desc$"
  tr_espos_divergence_supression_delayed: "Иногда наше единство нарушается дронами-изгоями. Эта угроза возросла по мере нашего расселения по звёздам. Уничтожение и переработка этих дронов даёт им шанс внести свой вклад в улей своей смертью, чего они не смогли бы сделать своей жизнью." 
-
- #tr_domination_star_lords: "Star Lords"
- #tr_domination_star_lords_machine: "Benevolence Emulation"
- #tr_domination_star_lords_hive: "Soporific Pheromones"
- #tr_domination_star_lords_desc:5 "Subject £opinion£ §YOpinion§! увеличивает на §G+20§! and §YTrust Cap§! увеличивает на §G+50§!."
- #tr_domination_star_lords_machine_desc: "$tr_domination_star_lords_desc$"
- #tr_domination_star_lords_hive_desc: "$tr_domination_star_lords_desc$"
- #tr_domination_star_lords_delayed: "It is our destiny to lord over those who are weaker. Obedient nations that swear fealty to our great empire may be permitted to exist... at our discretion."
- #tr_domination_star_lords_machine_delayed: "Programming our diplomatic AI to emulate the emotional mannerisms of other species increases their susceptibility to suggestion, even if they are aware it is a simulation."
- #tr_domination_star_lords_hive_delayed: "Generations of experimentation have revealed that certain combinations of gaseous emissions and pheromones greatly reduce the pugnacity and will to resist of the others. Some die, but they perish in bliss, having ever so briefly touched the beautiful purity of our mind."
 
  tr_espos_finish: "Традиции полиции безопасности завершены" 
  tr_espos_federations_finish: "$tr_domination_finish$"

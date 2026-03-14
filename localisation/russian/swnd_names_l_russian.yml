@@ -16,12 +16,6 @@
  format.coalition.10: "<rebel_federation_names_1_1>"
 
  ###############
- # Event Names
- ###############
- ###############
- # Ini Names
- ###############
- ###############
  # Ship Design Names
  ###############
  NAME_evt_gaunt_imperial2: "ISD II"
@@ -845,6 +839,7 @@
  NAME_adjective_VerpineEnclave: "Верпинск"
  NAME_adjective_ZabrakCouncil: "Иридонийск"
  NAME_adjective_ZygerrianSlaveState: "Зайгеррианск"
+ NAME_adjective_RebelAlliance: "Альянск"
  NAME_Fateclaw: "Коготь Судьбы"
 
  #Mando update

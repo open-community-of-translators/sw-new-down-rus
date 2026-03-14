@@ -429,3 +429,9 @@
  military_station_golan0: "$golan_platform_name$"
  military_station_golan0_DESC: "Этот логистический и ресурсный центр служит базой для строительства $golan_platform_name$." 
  military_station_golan0_MEGASTRUCTURE_DETAILS: "§Y$military_station_golan0$§! — это бронированная звездная база, предназначенная для максимальной защиты внутри гравитационного колодца звезды." 
+
+
+### Feb 27
+### Hyper Relays need tech to build
+
+ requires_technology_sw_hyper_relays: "$TRIGGER_FAIL$Требуетс технология £physics£ §Y$tech_sw_hyper_relays$§!."

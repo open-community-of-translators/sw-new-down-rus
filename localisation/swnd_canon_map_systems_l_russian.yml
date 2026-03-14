@@ -1322,7 +1322,7 @@
  NAME_Arrgaw_P1: "Арргау"
  
  #Pax
- NAME__pax: "Пакс""Пакс""Пакс"
+ NAME_Pax: "Пакс"
  NAME_Pax_S: "Пакс"
  NAME_Pax_P1: "Плаген"
  
@@ -10167,3 +10167,8 @@
  NAME_Koboh_Abyss: "Бездна Кобо"
  NAME_Koboh_Abyss_S: "Бездна Кобо"
  NAME_Koboh_Abyss_P1: "Таналорр"
+
+#Ruhnuk
+NAME_Ruhnuk: "Рунак"
+NAME_Ruhnuk_S: "Рунак"
+NAME_Ruhnuk_P1: "Рунак"
